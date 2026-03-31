@@ -1,0 +1,15 @@
+# Segurança de Variáveis de Ambiente
+.env
+
+# Pastas Temporárias da Arquitetura DOE
+.tmp/
+
+# Logs e Cache
+logs/
+*.log
+.DS_Store
+
+# Dependências (Node.js / Python)
+node_modules/
+__pycache__/
+venv/
