@@ -14,7 +14,7 @@ import {
 } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { Plus, ChevronLeft, ChevronRight, RefreshCw, Calendar as CalendarIcon } from "lucide-react";
-import { calcRefacaoDates, MOCK_ESTUDOS } from "../../lib/kevquestLogic";
+import { calcRefacaoDates, MOCK_ESTUDOS } from "@/lib/kevquestLogic";
 
 // --- Types ---
 type AppEvent = {

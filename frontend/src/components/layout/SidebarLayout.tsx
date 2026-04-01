@@ -16,7 +16,7 @@ import {
 } from "lucide-react";
 
 const NAV_ITEMS = [
-  { label: "Diário de Estudos", href: "/", icon: BookOpen },
+  { label: "Diário de Estudos", href: "/diario", icon: BookOpen },
   { label: "Evolução", href: "/dashboard", icon: LayoutDashboard },
   { label: "Simulados", href: "/simulados", icon: FileCheck2 },
   { label: "KevQuest", href: "/kevquest", icon: Target },
@@ -45,7 +45,7 @@ export default function SidebarLayout({
               <p className="text-[10px] uppercase font-semibold text-teal-500 tracking-[0.15em] px-2 mt-1">MENTORIA</p>
             </div>
           )}
-          <button 
+          <button
             onClick={() => setIsCollapsed(!isCollapsed)}
             className="p-2 hover:bg-slate-100 rounded-lg transition-colors cursor-pointer"
           >
@@ -63,16 +63,14 @@ export default function SidebarLayout({
                 key={item.href}
                 href={item.href}
                 title={isCollapsed ? item.label : undefined}
-                className={`flex items-center ${isCollapsed ? 'justify-center px-0' : 'gap-3 px-4'} py-3 rounded-2xl transition-all duration-200 group ${
-                  isActive
+                className={`flex items-center ${isCollapsed ? 'justify-center px-0' : 'gap-3 px-4'} py-3 rounded-2xl transition-all duration-200 group ${isActive
                     ? "bg-teal-50 text-teal-700 font-medium shadow-sm"
                     : "text-slate-500 hover:bg-slate-50 hover:text-slate-800"
-                }`}
+                  }`}
               >
                 <Icon
-                  className={`w-5 h-5 transition-transform group-hover:scale-110 ${
-                    isActive ? "text-teal-600" : "text-slate-400"
-                  }`}
+                  className={`w-5 h-5 transition-transform group-hover:scale-110 ${isActive ? "text-teal-600" : "text-slate-400"
+                    }`}
                 />
                 {!isCollapsed && <span className="text-sm">{item.label}</span>}
               </Link>
@@ -85,16 +83,14 @@ export default function SidebarLayout({
           <Link
             href="/configuracoes"
             title={isCollapsed ? "Configurações" : undefined}
-            className={`flex items-center ${isCollapsed ? 'justify-center px-0' : 'gap-3 px-4'} py-3 rounded-2xl transition-all duration-200 group ${
-              pathname === "/configuracoes"
+            className={`flex items-center ${isCollapsed ? 'justify-center px-0' : 'gap-3 px-4'} py-3 rounded-2xl transition-all duration-200 group ${pathname === "/configuracoes"
                 ? "bg-teal-50 text-teal-700 font-medium shadow-sm"
                 : "text-slate-500 hover:bg-slate-50 hover:text-slate-800"
-            }`}
+              }`}
           >
             <Settings
-              className={`w-5 h-5 transition-transform group-hover:scale-110 ${
-                pathname === "/configuracoes" ? "text-teal-600" : "text-slate-400"
-              }`}
+              className={`w-5 h-5 transition-transform group-hover:scale-110 ${pathname === "/configuracoes" ? "text-teal-600" : "text-slate-400"
+                }`}
             />
             {!isCollapsed && <span className="text-sm">Configurações</span>}
           </Link>

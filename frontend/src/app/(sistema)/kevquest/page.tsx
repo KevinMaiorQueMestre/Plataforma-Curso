@@ -11,7 +11,7 @@ import {
   MOCK_CONTEUDOS,
   MOCK_PROVAS,
   MOCK_MOTIVOS_ERRO
-} from "../../lib/kevquestLogic";
+} from "@/lib/kevquestLogic";
 import { Plus, X, AlertTriangle, CheckCircle, Flame, Filter, ChevronRight, Edit2, Trash2 } from "lucide-react";
 import { toast } from "sonner";
 

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { MOCK_SIMULADOS } from "../../lib/kevquestLogic";
+import { MOCK_SIMULADOS } from "@/lib/kevquestLogic";
 import { format } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { toast } from "sonner";
