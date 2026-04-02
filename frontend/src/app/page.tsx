@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect } from "react";
-import { ArrowRight, BookOpen, Target, Sparkles, LayoutDashboard, BrainCircuit, ChevronLeft, ChevronRight } from "lucide-react";
+import { useState, useEffect, useRef } from "react";
+import { ArrowRight, BookOpen, Target, Sparkles, LayoutDashboard, BrainCircuit, ChevronLeft, ChevronRight, Check } from "lucide-react";
 import { motion } from "framer-motion";
 
 const CAROUSEL_DATA = [
@@ -108,29 +108,49 @@ function HeroCarousel() {
 }
 
 export default function LandingPage() {
+  const carouselRef = useRef<HTMLDivElement>(null);
+
+  const scrollLeft = () => {
+    if (carouselRef.current) carouselRef.current.scrollBy({ left: -320, behavior: 'smooth' });
+  };
+  
+  const scrollRight = () => {
+    if (carouselRef.current) carouselRef.current.scrollBy({ left: 320, behavior: 'smooth' });
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans selection:bg-teal-200 selection:text-teal-900 overflow-hidden">
       
-      {/* Navbar (Glassmorphism) */}
-      <nav className="fixed top-0 inset-x-0 z-50 bg-white/70 backdrop-blur-lg border-b border-slate-200/50 support-[backdrop-filter]:bg-white/40">
-        <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+      {/* Navbar (Floating & Glassmorphism) */}
+      <nav className="fixed top-6 left-1/2 -translate-x-1/2 w-[calc(100%-3rem)] max-w-7xl z-50 bg-white/80 backdrop-blur-md border border-white/50 shadow-lg rounded-full">
+        <div className="px-6 md:px-8 h-16 flex items-center justify-between">
           <div className="flex flex-col cursor-pointer group">
-            <h1 className="text-2xl font-serif text-teal-700 tracking-wide leading-none font-bold group-hover:text-teal-600 transition-colors">
+            <h1 className="text-xl md:text-2xl font-serif text-slate-800 tracking-wide leading-none font-bold group-hover:text-slate-600 transition-colors">
               SINAPSE
             </h1>
-            <p className="text-[9px] uppercase font-bold text-teal-500 tracking-[0.2em] mt-0.5 group-hover:text-teal-400 transition-colors">
+            <p className="text-[8px] md:text-[9px] uppercase font-bold text-slate-600 tracking-[0.2em] mt-0.5 group-hover:text-slate-500 transition-colors">
               Mentoria
             </p>
           </div>
           
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-2 md:gap-3">
             <Link 
               href="/login"
-              className="group relative inline-flex items-center justify-center gap-2 rounded-full bg-slate-900 px-6 py-2.5 text-sm font-semibold text-white shadow-sm transition-all duration-300 hover:bg-slate-800 hover:scale-105 hover:shadow-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-900"
+              className="group relative inline-flex items-center justify-center rounded-full px-4 md:px-5 py-2 text-xs md:text-sm font-semibold text-slate-600 hover:text-slate-900 transition-all duration-300 hover:bg-slate-200/50"
             >
-              <span>Acesse o sistema</span>
-              <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" />
+              <span>Login</span>
             </Link>
+            <a 
+              href="#matricula"
+              onClick={(e) => {
+                e.preventDefault();
+                document.querySelector('#matricula')?.scrollIntoView({ behavior: 'smooth' });
+              }}
+              className="group relative inline-flex items-center justify-center gap-2 rounded-full bg-slate-900 px-4 md:px-5 py-2 text-xs md:text-sm font-semibold text-white shadow-sm transition-all duration-300 hover:bg-slate-800 hover:scale-105 hover:shadow-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-900 cursor-pointer"
+            >
+              <span>Matricule-se</span>
+              <ArrowRight className="w-3.5 h-3.5 md:w-4 md:h-4 transition-transform duration-300 group-hover:translate-x-1" />
+            </a>
           </div>
         </div>
       </nav>
@@ -223,6 +243,45 @@ export default function LandingPage() {
         </div>
       </section>
 
+      {/* 1.5. Aprovados Medicina (Infinite Image Scroll) */}
+      <section className="w-full bg-slate-900 py-10 border-b border-slate-800 overflow-hidden relative flex flex-col items-center justify-center">
+        <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-teal-500/50 to-transparent"></div>
+        <p className="text-sm font-bold text-teal-400 uppercase tracking-[0.2em] mb-6 text-center px-4">Eles usaram o método e passaram em Medicina</p>
+        
+        <div className="w-full overflow-hidden relative flex">
+          {/* Gradient masks */}
+          <div className="absolute inset-y-0 left-0 w-24 md:w-64 bg-gradient-to-r from-slate-900 to-transparent z-10 pointer-events-none"></div>
+          <div className="absolute inset-y-0 right-0 w-24 md:w-64 bg-gradient-to-l from-slate-900 to-transparent z-10 pointer-events-none"></div>
+          
+          <div className="flex animate-marquee whitespace-nowrap items-center w-max" style={{ animationDuration: '40s' }}>
+            {/* Repeated array for infinite scroll */}
+            {[...Array(2)].fill(0).map((_, arrayIndex) => (
+              <div key={arrayIndex} className="flex gap-4 md:gap-6 items-center pl-4 md:pl-6">
+                {[
+                  "/Instagram Sinapse/Captura de tela 2026-04-01 163601.png",
+                  "/Instagram Sinapse/Captura de tela 2026-04-01 163621.png",
+                  "/Instagram Sinapse/Captura de tela 2026-04-01 163641.png",
+                  "/Instagram Sinapse/Captura de tela 2026-04-01 163716.png",
+                  "/Instagram Sinapse/WhatsApp Image 2026-04-01 at 14.40.23.jpeg",
+                  "/Instagram Sinapse/WhatsApp Image 2026-04-01 at 14.40.24 (1).jpeg",
+                  "/Instagram Sinapse/WhatsApp Image 2026-04-01 at 14.40.24 (2).jpeg",
+                  "/Instagram Sinapse/WhatsApp Image 2026-04-01 at 14.40.24 (3).jpeg"
+                ].map((src, i) => (
+                  <div key={i} className="group relative w-36 h-36 md:w-52 md:h-52 rounded-2xl md:rounded-3xl overflow-hidden shadow-[0_0_30px_rgba(20,184,166,0.1)] border border-slate-800 shrink-0 transform transition-transform duration-500">
+                    <img src={src} alt={`Aprovado Medicina ${arrayIndex}-${i}`} className="w-full h-full object-cover transition-all duration-700 group-hover:scale-110" />
+                    <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-slate-900 via-slate-900/60 to-transparent p-4 z-20 pointer-events-none">
+                        <div className="w-8 h-8 rounded-full bg-teal-500 flex items-center justify-center text-slate-900 border-2 border-slate-900 -mb-2 shadow-lg inline-flex">
+                           <Target className="w-4 h-4" />
+                        </div>
+                     </div>
+                  </div>
+                ))}
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* 3. Features em Cards (Bento Grid) */}
       <section className="w-full bg-white py-24 relative z-10 border-b border-slate-100 overflow-hidden">
         <div className="max-w-7xl mx-auto px-6">
@@ -295,7 +354,373 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* 4. Chamada Final CTA */}
+      {/* 4. Planos */}
+      <section className="w-full bg-slate-50 py-24 border-b border-slate-100 relative" id="planos">
+        <div className="max-w-7xl mx-auto px-6">
+          <motion.div 
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-100px" }}
+            transition={{ duration: 0.6 }}
+            className="text-center max-w-2xl mx-auto mb-16"
+          >
+            <h2 className="text-3xl md:text-5xl font-bold text-slate-900 tracking-tight font-serif mb-4">Escolha o seu plano</h2>
+            <p className="text-lg text-slate-500">Invista no seu futuro com o método que mais aprova.</p>
+          </motion.div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto items-stretch border border-slate-200/50 rounded-[2.5rem] bg-white lg:p-4 shadow-xl shadow-slate-200/50">
+            {/* Plano Essencial */}
+            <motion.div 
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, margin: "-50px" }}
+              transition={{ duration: 0.5, delay: 0.1 }}
+              className="bg-transparent rounded-3xl p-8 flex flex-col group relative"
+            >
+              <h3 className="text-xl font-bold text-slate-800 mb-2">Essencial</h3>
+              <p className="text-slate-500 text-sm mb-6 h-10">Para quem quer começar a organizar os estudos.</p>
+              <div className="mb-6 flex items-baseline gap-1">
+                <span className="text-4xl font-black text-slate-900">R$ 49</span>
+                <span className="text-slate-500 font-medium">/mês</span>
+              </div>
+              <ul className="space-y-4 mb-8 flex-1">
+                {[
+                  "Diário de estudos básico",
+                  "Até 50 questões diárias",
+                  "Dashboards simples"
+                ].map((item, i) => (
+                  <li key={i} className="flex items-start gap-3">
+                    <Check className="w-5 h-5 text-teal-500 shrink-0" />
+                    <span className="text-slate-600 text-sm font-medium">{item}</span>
+                  </li>
+                ))}
+              </ul>
+              <Link 
+                href="/login"
+                className="w-full py-3.5 rounded-xl border-2 border-slate-200 text-slate-700 font-bold text-center hover:border-teal-500 hover:text-teal-600 transition-colors"
+                >
+                Assinar Essencial
+              </Link>
+            </motion.div>
+
+            {/* Plano Aprovado (Highlighted) */}
+            <motion.div 
+              initial={{ opacity: 0, scale: 0.95 }}
+              whileInView={{ opacity: 1, scale: 1 }}
+              viewport={{ once: true, margin: "-50px" }}
+              transition={{ duration: 0.5, delay: 0.2 }}
+              className="bg-slate-900 rounded-[2rem] p-8 shadow-2xl shadow-teal-900/20 flex flex-col relative transform md:-translate-y-8"
+            >
+              <div className="absolute -top-4 left-1/2 -translate-x-1/2 bg-gradient-to-r from-teal-400 to-teal-500 text-slate-900 text-xs font-black uppercase tracking-widest px-6 py-2 rounded-full shadow-lg">
+                Recomendado
+              </div>
+              <h3 className="text-xl font-bold text-white mb-2 mt-4">Aprovado</h3>
+              <p className="text-slate-400 text-sm mb-6 h-10">O sistema completo para quem não quer perder tempo.</p>
+              <div className="mb-6 flex items-baseline gap-1">
+                <span className="text-4xl font-black text-white">R$ 97</span>
+                <span className="text-slate-400 font-medium">/mês</span>
+              </div>
+              <ul className="space-y-4 mb-8 flex-1">
+                {[
+                  "Tudo do plano Essencial",
+                  "Acesso ao KevQuest",
+                  "Simulados dirigidos ilimitados",
+                  "Dashboards de radar e heatmap",
+                  "Métricas espelhadas de provas"
+                ].map((item, i) => (
+                  <li key={i} className="flex items-start gap-3">
+                    <Check className="w-5 h-5 text-teal-400 shrink-0" />
+                    <span className="text-slate-300 text-sm font-medium">{item}</span>
+                  </li>
+                ))}
+              </ul>
+              <Link 
+                href="/login"
+                className="w-full py-3.5 rounded-xl bg-teal-500 text-slate-900 font-black text-center hover:bg-teal-400 transition-all shadow-[0_0_20px_rgba(20,184,166,0.3)] hover:shadow-[0_0_30px_rgba(20,184,166,0.5)] hover:scale-105"
+                >
+                Assinar Aprovado
+              </Link>
+            </motion.div>
+
+            {/* Plano VIP */}
+            <motion.div 
+              initial={{ opacity: 0, y: 30 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, margin: "-50px" }}
+              transition={{ duration: 0.5, delay: 0.3 }}
+              className="bg-transparent rounded-3xl p-8 flex flex-col group"
+            >
+              <h3 className="text-xl font-bold text-slate-800 mb-2">Mentoria VIP</h3>
+              <p className="text-slate-500 text-sm mb-6 h-10">Acompanhamento de perto até a sua aprovação.</p>
+              <div className="mb-6 flex items-baseline gap-1">
+                <span className="text-4xl font-black text-slate-900">R$ 297</span>
+                <span className="text-slate-500 font-medium">/mês</span>
+              </div>
+              <ul className="space-y-4 mb-8 flex-1">
+                {[
+                  "Tudo do plano Aprovado",
+                  "Encontros quinzenais via Zoom",
+                  "Estratégia de prova individualizada",
+                  "Grupo exclusivo no WhatsApp"
+                ].map((item, i) => (
+                  <li key={i} className="flex items-start gap-3">
+                    <Check className="w-5 h-5 text-teal-500 shrink-0" />
+                    <span className="text-slate-600 text-sm font-medium">{item}</span>
+                  </li>
+                ))}
+              </ul>
+              <Link 
+                href="/login"
+                className="w-full py-3.5 rounded-xl border-2 border-slate-200 text-slate-700 font-bold text-center hover:border-teal-500 hover:text-teal-600 transition-colors"
+                >
+                Falar com consultor
+              </Link>
+            </motion.div>
+
+          </div>
+        </div>
+      </section>
+
+      {/* 3.5. Depoimentos em Vídeo (Aparecem ao Hover) */}
+      <section className="w-full bg-slate-50 py-24 border-b border-slate-100 overflow-hidden">
+        <div className="max-w-7xl mx-auto px-6 md:px-20">
+          <motion.div 
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-100px" }}
+            transition={{ duration: 0.6 }}
+            className="text-center max-w-2xl mx-auto mb-16"
+          >
+            <h2 className="text-3xl md:text-5xl font-bold text-slate-900 tracking-tight font-serif mb-4">Veja quem já validou o método</h2>
+            <p className="text-lg text-slate-500">Passe o mouse por cima e ouça histórias reais de aprovação.</p>
+          </motion.div>
+
+          <div className="relative group/carousel">
+            {/* Setinha Esquerda */}
+            <button 
+              onClick={scrollLeft}
+              className="absolute -left-3 md:-left-14 top-1/2 -translate-y-1/2 w-12 h-12 bg-white rounded-full shadow-xl border border-slate-100 flex items-center justify-center text-slate-500 hover:text-teal-600 hover:scale-110 z-20 transition-all opacity-0 group-hover/carousel:opacity-100 disabled:opacity-0 focus:opacity-100"
+              aria-label="Rolar para esquerda"
+            >
+              <ChevronLeft className="w-6 h-6 mr-0.5" />
+            </button>
+
+            {/* Setinha Direita */}
+            <button 
+              onClick={scrollRight}
+              className="absolute -right-3 md:-right-14 top-1/2 -translate-y-1/2 w-12 h-12 bg-white rounded-full shadow-xl border border-slate-100 flex items-center justify-center text-slate-500 hover:text-teal-600 hover:scale-110 z-20 transition-all opacity-0 group-hover/carousel:opacity-100 focus:opacity-100"
+              aria-label="Rolar para direita"
+            >
+              <ChevronRight className="w-6 h-6 ml-0.5" />
+            </button>
+
+            {/* Container do Carrossel */}
+            <div 
+              ref={carouselRef}
+              className="flex gap-6 overflow-x-auto pb-10 snap-x snap-mandatory pt-4 px-4 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden"
+            >
+              {[
+              {
+                id: 1,
+                name: "Lucas Silva",
+                role: "Aprovado UFMG",
+                text: "A clareza dos dashboards foi o divisor de águas para minha estratégia de aprovação.",
+                poster: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&h=700&fit=crop",
+                video: "https://www.w3schools.com/html/mov_bbb.mp4",
+              },
+              {
+                id: 2,
+                name: "Carolina Mendes",
+                role: "Aprovada USP",
+                text: "Parei de focar no que não caía e direcionei meus estudos para os pontos fracos.",
+                poster: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&h=700&fit=crop",
+                video: "https://www.w3schools.com/html/mov_bbb.mp4",
+              },
+              {
+                id: 3,
+                name: "Ricardo Alves",
+                role: "Aprovado Unicamp",
+                text: "A consistência visual do Diário de Estudos me impediu de desistir na reta final.",
+                poster: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=700&fit=crop",
+                video: "https://www.w3schools.com/html/mov_bbb.mp4",
+              },
+              {
+                id: 4,
+                name: "Marina Souza",
+                role: "Aprovada UnB",
+                text: "Estatísticas reais que transformam incerteza numa matemática precisa.",
+                poster: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&h=700&fit=crop",
+                video: "https://www.w3schools.com/html/mov_bbb.mp4",
+              }
+            ].map((item) => (
+              <motion.div 
+                initial={{ opacity: 0, x: 50 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                viewport={{ once: true, margin: "-50px" }}
+                transition={{ duration: 0.5, delay: item.id * 0.1 }}
+                key={item.id}
+                className="relative min-w-[280px] md:min-w-[320px] aspect-[4/5] bg-slate-900 rounded-[2.5rem] overflow-hidden snap-center group shadow-xl hover:-translate-y-2 transition-all duration-500 cursor-pointer"
+                onMouseEnter={(e) => {
+                  const video = e.currentTarget.querySelector('video');
+                  if(video) video.play().catch(()=>{});
+                }}
+                onMouseLeave={(e) => {
+                  const video = e.currentTarget.querySelector('video');
+                  if(video) {
+                    video.pause();
+                    video.currentTime = 0;
+                  }
+                }}
+              >
+                {/* Imagem Padrão */}
+                <img 
+                  src={item.poster} 
+                  alt={item.name}
+                  className="absolute inset-0 w-full h-full object-cover transition-opacity duration-500 group-hover:opacity-0"
+                />
+                
+                {/* Vídeo Escondido Exibido ao Hover */}
+                <video 
+                  src={item.video}
+                  loop
+                  muted
+                  playsInline
+                  className="absolute inset-0 w-full h-full object-cover opacity-0 group-hover:opacity-100 transition-opacity duration-700"
+                />
+
+                {/* Overlay Degradê Inferior para Texto */}
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-900/90 via-slate-900/30 to-transparent"></div>
+
+                {/* Botão de Play Estilizado Flutuante (Some ao Hover) */}
+                <div className="absolute inset-0 top-1/3 flex items-center justify-center opacity-100 group-hover:opacity-0 transition-all duration-300 transform group-hover:scale-90">
+                  <div className="w-16 h-16 rounded-full bg-white/20 backdrop-blur-md flex items-center justify-center border border-white/30 text-white shadow-xl">
+                    <svg className="w-6 h-6 ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                  </div>
+                </div>
+
+                {/* Indicador de Somente Play ativo (Opcional) */}
+                <div className="absolute top-6 right-6 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+                  <div className="w-10 h-10 flex items-center justify-center rounded-full bg-black/40 backdrop-blur-sm border border-white/20 text-white">
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5 10v4a2 2 0 002 2h2.586a1 1 0 01.707.293l3.414 3.414a1 1 0 001.707-.707V5a1 1 0 00-1.707-.707L10.293 7.707A1 1 0 019.586 8H7a2 2 0 00-2 2z"></path></svg>
+                  </div>
+                </div>
+
+                {/* Conteúdo Textual Inferior */}
+                <div className="absolute bottom-0 inset-x-0 p-8 flex flex-col justify-end transform transition-transform duration-500">
+                  <h3 className="text-white font-bold text-2xl">{item.name}</h3>
+                  <p className="text-teal-400 font-bold text-sm mb-4 tracking-wider uppercase">{item.role}</p>
+                  <p className="text-slate-200 text-sm leading-relaxed line-clamp-3 group-hover:line-clamp-none transition-all duration-500 relative z-10">
+                    "{item.text}"
+                  </p>
+                </div>
+              </motion.div>
+            ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 4. Formulário de Matrícula */}
+      <section className="w-full bg-white py-16 border-b border-slate-100 relative scroll-mt-28" id="matricula">
+        <div className="max-w-7xl mx-auto px-6 flex flex-col lg:flex-row gap-12 lg:gap-20 items-center justify-between">
+          
+          {/* Esquerda: Texto */}
+          <motion.div 
+            initial={{ opacity: 0, x: -30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true, margin: "-100px" }}
+            transition={{ duration: 0.6 }}
+            className="flex-1 max-w-lg lg:max-w-xl"
+          >
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 tracking-tight font-serif mb-6 leading-tight">Chegou a hora de decidir o seu futuro.</h2>
+            <p className="text-base md:text-lg text-slate-500 mb-8 leading-relaxed">Nossa equipe de especialistas está pronta para te orientar sobre a metodologia e encontrar o plano perfeito para você. O primeiro passo é o mais importante.</p>
+            
+            <ul className="space-y-4">
+              <li className="flex items-center gap-4 group">
+                <div className="w-10 h-10 rounded-full bg-teal-50 border border-teal-100 flex items-center justify-center shrink-0 group-hover:bg-teal-500 group-hover:text-white transition-colors text-teal-600">
+                  <Check className="w-5 h-5" />
+                </div>
+                <span className="text-slate-700 font-medium text-lg group-hover:text-slate-900 transition-colors">Atendimento personalizado</span>
+              </li>
+              <li className="flex items-center gap-4 group">
+                <div className="w-10 h-10 rounded-full bg-teal-50 border border-teal-100 flex items-center justify-center shrink-0 group-hover:bg-teal-500 group-hover:text-white transition-colors text-teal-600">
+                  <Check className="w-5 h-5" />
+                </div>
+                <span className="text-slate-700 font-medium text-lg group-hover:text-slate-900 transition-colors">Conheça nossas duas unidades</span>
+              </li>
+              <li className="flex items-center gap-4 group">
+                <div className="w-10 h-10 rounded-full bg-teal-50 border border-teal-100 flex items-center justify-center shrink-0 group-hover:bg-teal-500 group-hover:text-white transition-colors text-teal-600">
+                  <Check className="w-5 h-5" />
+                </div>
+                <span className="text-slate-700 font-medium text-lg group-hover:text-slate-900 transition-colors">Acesso imediato à plataforma</span>
+              </li>
+            </ul>
+          </motion.div>
+
+          {/* Direita: Formulário Compacto */}
+          <motion.div
+            initial={{ opacity: 0, x: 30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true, margin: "-100px" }}
+            transition={{ duration: 0.6, delay: 0.2 }}
+            className="flex-1 w-full max-w-lg bg-slate-50 border border-slate-200 rounded-[2rem] p-6 md:p-8 shadow-2xl shadow-slate-200/50 relative overflow-hidden"
+          >
+            {/* Decoração sutil no card */}
+            <div className="absolute top-0 right-0 w-32 h-32 bg-teal-500/5 rounded-bl-full pointer-events-none"></div>
+
+            <h3 className="text-2xl font-bold text-slate-800 mb-6">Garanta sua vaga</h3>
+            
+            <form className="space-y-4" onSubmit={(e) => e.preventDefault()}>
+              {/* Unidade Radios */}
+              <div className="space-y-2.5">
+                 <label className="block text-sm font-bold text-slate-700">Escolha a unidade:</label>
+                 <div className="flex gap-3">
+                    <label className="flex-1 relative cursor-pointer group">
+                      <input type="radio" name="unidade" value="Asa sul" className="peer sr-only" defaultChecked />
+                      <div className="p-3 rounded-xl border-2 border-slate-200 peer-checked:border-teal-500 peer-checked:bg-teal-50/50 hover:bg-slate-100 transition-all text-center">
+                         <span className="font-bold text-slate-700 text-sm">Asa Sul</span>
+                      </div>
+                    </label>
+                    <label className="flex-1 relative cursor-pointer group">
+                      <input type="radio" name="unidade" value="Taguatinga" className="peer sr-only" />
+                      <div className="p-3 rounded-xl border-2 border-slate-200 peer-checked:border-teal-500 peer-checked:bg-teal-50/50 hover:bg-slate-100 transition-all text-center">
+                         <span className="font-bold text-slate-700 text-sm">Taguatinga</span>
+                      </div>
+                    </label>
+                 </div>
+              </div>
+
+              {/* Nome */}
+              <div>
+                <input type="text" required placeholder="Seu nome completo" className="w-full px-4 py-3 rounded-xl border-2 border-slate-200 focus:border-teal-500 focus:ring-4 focus:ring-teal-500/10 outline-none transition-all placeholder:text-slate-400 bg-white text-slate-800 text-sm" />
+              </div>
+
+              {/* Email & Telefone */}
+              <div className="grid grid-cols-2 gap-3">
+                 <div>
+                   <input type="email" required placeholder="Seu e-mail" className="w-full px-4 py-3 rounded-xl border-2 border-slate-200 focus:border-teal-500 focus:ring-4 focus:ring-teal-500/10 outline-none transition-all placeholder:text-slate-400 bg-white text-slate-800 text-sm" />
+                 </div>
+                 <div>
+                   <input type="tel" required placeholder="Telefone / WhatsApp" className="w-full px-4 py-3 rounded-xl border-2 border-slate-200 focus:border-teal-500 focus:ring-4 focus:ring-teal-500/10 outline-none transition-all placeholder:text-slate-400 bg-white text-slate-800 text-sm" />
+                 </div>
+              </div>
+
+              {/* Assunto */}
+               <div>
+                <input type="text" required placeholder="Assunto (Opcional)" className="w-full px-4 py-3 rounded-xl border-2 border-slate-200 focus:border-teal-500 focus:ring-4 focus:ring-teal-500/10 outline-none transition-all placeholder:text-slate-400 bg-white text-slate-800 text-sm" />
+              </div>
+
+              {/* Button */}
+              <button type="submit" className="w-full py-3.5 mt-2 rounded-xl bg-slate-900 text-white font-bold tracking-wide hover:bg-slate-800 hover:scale-[1.02] shadow-xl shadow-slate-900/10 transition-all active:scale-[0.98] text-sm flex justify-center items-center gap-2">
+                Enviar Solicitação
+                <ArrowRight className="w-4 h-4" />
+              </button>
+            </form>
+          </motion.div>
+        </div>
+      </section>
+
+      {/* 5. Chamada Final CTA */}
       <section className="w-full bg-[#0E172A] py-32 relative overflow-hidden">
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-teal-600/30 blur-[150px] rounded-full pointer-events-none"></div>
         <motion.div 
