@@ -13,7 +13,7 @@ export default function EvolucaoPage() {
         <SummaryCards />
       </section>
 
-      <section className="h-[400px]">
+      <section>
         <EvolutionCharts />
       </section>
     </div>
