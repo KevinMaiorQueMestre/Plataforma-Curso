@@ -135,7 +135,8 @@ function DroppableSlot({ id, children, onClick }: { id: string; children: React.
 // --- Main Calendar Page ---
 export default function CalendarInteractivePage() {
   const [events, setEvents] = useState<AppEvent[]>(INITIAL_EVENTS);
-  
+  const [dueTasks, setDueTasks] = useState<any[]>([]);
+
   useEffect(() => {
     const storedQ = localStorage.getItem('kevquest_questoes');
     if (storedQ) {
@@ -159,8 +160,19 @@ export default function CalendarInteractivePage() {
       });
       setEvents(baseEvents);
     }
+    
+    // Ler tarefas da plataforma
+    const storedTasksStr = localStorage.getItem('@sinapse/tarefas');
+    if (storedTasksStr) {
+      try {
+        const storedTasks = JSON.parse(storedTasksStr);
+        const uncompleted = storedTasks.filter((t: any) => t.status === "pending" && t.limitDate);
+        setDueTasks(uncompleted);
+      } catch (e) {}
+    }
   }, []);
   // States Temporais Independentes
+  const [activeViewTab, setActiveViewTab] = useState<'horarios' | 'tarefas'>('horarios');
   // 1. Semana do Grid Principal (Timeline livre, começa na segunda = 1)
   const [currentWeekStart, setCurrentWeekStart] = useState(() => startOfWeek(TODAY, { weekStartsOn: 1 }));
   // 2. Mês do Mini Calendário
@@ -360,7 +372,9 @@ export default function CalendarInteractivePage() {
                  Suas revisões D+3, D+7 e D+21 de Cinemática foram alocadas automaticamente na sua timeline! Navegue pelas próximas semanas para encontrá-las.
                </p>
              </div>
-          </div>
+           </div>
+
+
         </div>
       </aside>
 
@@ -380,6 +394,12 @@ export default function CalendarInteractivePage() {
                  <button onClick={handleNextWeek} className="p-2 hover:bg-slate-50 dark:hover:bg-[#2C2C2E] rounded-lg transition-colors group">
                    <ChevronRight className="w-4 h-4 text-slate-500 dark:text-[#A1A1AA] group-hover:text-slate-800 dark:text-[#FFFFFF]" />
                  </button>
+              </div>
+
+              {/* TABS ABA */}
+              <div className="hidden md:flex items-center bg-slate-100 dark:bg-[#2C2C2E] rounded-xl p-1 gap-1">
+                 <button onClick={() => setActiveViewTab('horarios')} className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${activeViewTab === 'horarios' ? 'bg-white shadow-sm text-indigo-600 dark:bg-[#3A3A3C] dark:text-indigo-400' : 'text-slate-500 hover:text-slate-700 dark:text-[#A1A1AA]'}`}>Horários</button>
+                 <button onClick={() => setActiveViewTab('tarefas')} className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all ${activeViewTab === 'tarefas' ? 'bg-white shadow-sm text-indigo-600 dark:bg-[#3A3A3C] dark:text-indigo-400' : 'text-slate-500 hover:text-slate-700 dark:text-[#A1A1AA]'}`}>Aba Tarefas</button>
               </div>
            </div>
            
@@ -426,9 +446,10 @@ export default function CalendarInteractivePage() {
            </div>
         </div>
 
-        <DndContext sensors={sensors} onDragEnd={handleDragEnd}>
-          {/* Calendar Header (7 Days) */}
-          <div className="grid grid-cols-[60px_repeat(7,1fr)] border-b border-slate-100 dark:border-[#2C2C2E] pb-4 pt-4 px-2 sticky top-0 bg-white dark:bg-[#121212]/95 backdrop-blur z-20">
+        {activeViewTab === 'horarios' ? (
+          <DndContext sensors={sensors} onDragEnd={handleDragEnd}>
+            {/* Calendar Header (7 Days) */}
+            <div className="grid grid-cols-[60px_repeat(7,1fr)] border-b border-slate-100 dark:border-[#2C2C2E] pb-4 pt-4 px-2 sticky top-0 bg-white dark:bg-[#121212]/95 backdrop-blur z-20">
             <div className="flex items-end justify-center pb-2 border-r border-slate-50 dark:border-[#2C2C2E]">
                <span className="text-[9px] font-bold text-slate-400 uppercase tracking-widest">GMT-03</span>
             </div>
@@ -476,9 +497,48 @@ export default function CalendarInteractivePage() {
                   })}
                 </React.Fragment>
               ))}
+              </div>
+            </div>
+          </DndContext>
+        ) : (
+          <div className="flex-1 overflow-y-auto hidden-scrollbar bg-slate-50/30 dark:bg-[#121212] flex flex-col pb-10">
+            <div className="grid grid-cols-[repeat(7,1fr)] border-b border-slate-100 dark:border-[#2C2C2E] pb-4 pt-4 px-2 sticky top-0 bg-white dark:bg-[#121212]/95 backdrop-blur z-20">
+              {weekDays.map((date, idx) => {
+                const isToday = format(date, "yyyy-MM-dd") === format(TODAY, "yyyy-MM-dd");
+                return (
+                  <div key={idx} className="text-center px-1 flex flex-col items-center justify-center gap-1">
+                    <div className={`text-[10px] font-bold uppercase tracking-wider ${isToday ? "text-indigo-500" : "text-slate-400"}`}>
+                      {format(date, "EEEE", { locale: ptBR }).substring(0, 3)}
+                    </div>
+                    <div className={`text-xl sm:text-2xl font-black w-8 h-8 sm:w-10 sm:h-10 flex items-center justify-center rounded-full ${isToday ? "bg-indigo-600 text-white shadow-md shadow-indigo-200" : "text-slate-700 dark:text-[#F4F4F5]"}`}>
+                      {format(date, "dd")}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+            <div className="grid grid-cols-[repeat(7,1fr)] p-2 gap-2 mt-4 min-h-[400px]">
+               {weekDays.map((dateObj, idx) => {
+                  const dayTasks = dueTasks.filter((t: any) => t.limitDate === format(dateObj, "yyyy-MM-dd"));
+                  return (
+                    <div key={idx} className="bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] rounded-2xl p-2 flex flex-col gap-2 shadow-sm h-max">
+                      {dayTasks.length === 0 ? (
+                        <div className="flex items-center justify-center py-6">
+                          <span className="text-[10px] font-bold text-slate-300 dark:text-[#3A3A3C] uppercase tracking-widest text-center">Livre</span>
+                        </div>
+                      ) : (
+                        dayTasks.map((t: any) => (
+                          <div key={t.id} className="bg-indigo-50/50 dark:bg-indigo-900/10 border border-indigo-100 dark:border-indigo-900/30 p-3 rounded-xl hover:shadow-md transition-shadow">
+                            <p className="text-xs font-bold text-slate-800 dark:text-[#F4F4F5]">{t.texto}</p>
+                          </div>
+                        ))
+                      )}
+                    </div>
+                  )
+               })}
             </div>
           </div>
-        </DndContext>
+        )}
       </main>
 
       {/* Creation Modal (Popup) */}

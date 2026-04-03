@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { CheckCircle2, Circle, Plus, Trash2, CalendarIcon } from "lucide-react";
 import { format, parseISO } from "date-fns";
 import { ptBR } from "date-fns/locale";
@@ -20,6 +20,26 @@ const INITIAL_TASKS: AppTask[] = [
 
 export default function TarefasPage() {
   const [tarefas, setTarefas] = useState<AppTask[]>(INITIAL_TASKS);
+  const [isLoaded, setIsLoaded] = useState(false);
+
+  // Lê do localStorage apenas uma vez no mount cliente
+  useEffect(() => {
+    const saved = localStorage.getItem("@sinapse/tarefas");
+    if (saved) {
+      try {
+        setTarefas(JSON.parse(saved));
+      } catch(e){}
+    }
+    setIsLoaded(true);
+  }, []);
+
+  // Salva no localStorage em toda atualização, contanto que já tenha dado Load
+  useEffect(() => {
+    if (isLoaded) {
+      localStorage.setItem("@sinapse/tarefas", JSON.stringify(tarefas));
+    }
+  }, [tarefas, isLoaded]);
+
   const [newTaskText, setNewTaskText] = useState("");
   const [newLimitDate, setNewLimitDate] = useState("");
 
