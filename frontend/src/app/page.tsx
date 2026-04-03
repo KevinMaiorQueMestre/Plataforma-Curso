@@ -85,11 +85,11 @@ function HeroCarousel() {
       </div>
 
       {/* Navigation Arrows */}
-      <button onClick={handlePrev} className="absolute left-4 md:left-8 w-12 h-12 rounded-full bg-white dark:bg-[#121212]/5 border border-white/10 dark:border-[#2C2C2E] flex items-center justify-center text-white/50 hover:bg-white dark:bg-[#121212]/10 hover:text-white transition-all backdrop-blur-sm z-20">
+      <button onClick={handlePrev} className="absolute left-4 md:left-8 w-12 h-12 rounded-full bg-white/10 border border-white/10 flex items-center justify-center text-white/50 hover:bg-white/20 hover:text-white transition-all backdrop-blur-sm z-20">
         <ChevronLeft className="w-6 h-6" />
       </button>
       
-      <button onClick={handleNext} className="absolute right-4 md:right-8 w-12 h-12 rounded-full bg-white dark:bg-[#121212]/5 border border-white/10 dark:border-[#2C2C2E] flex items-center justify-center text-white/50 hover:bg-white dark:bg-[#121212]/10 hover:text-white transition-all backdrop-blur-sm z-20">
+      <button onClick={handleNext} className="absolute right-4 md:right-8 w-12 h-12 rounded-full bg-white/10 border border-white/10 flex items-center justify-center text-white/50 hover:bg-white/20 hover:text-white transition-all backdrop-blur-sm z-20">
         <ChevronRight className="w-6 h-6" />
       </button>
 
