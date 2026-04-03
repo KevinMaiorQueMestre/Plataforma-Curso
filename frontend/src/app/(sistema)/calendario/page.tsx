@@ -6,6 +6,10 @@ import {
   useDraggable,
   useDroppable,
   DragEndEvent,
+  MouseSensor,
+  TouchSensor,
+  useSensor,
+  useSensors,
 } from "@dnd-kit/core";
 import { 
   format, addDays, startOfWeek, subWeeks, addWeeks, 
@@ -13,7 +17,7 @@ import {
   endOfWeek, subMonths, addMonths, isSameMonth, isSameDay
 } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
-import { Plus, ChevronLeft, ChevronRight, RefreshCw, Calendar as CalendarIcon } from "lucide-react";
+import { Plus, ChevronLeft, ChevronRight, RefreshCw, Calendar as CalendarIcon, Trash2, Edit2 } from "lucide-react";
 import { calcRefacaoDates, MOCK_ESTUDOS } from "@/lib/kevquestLogic";
 
 // --- Types ---
@@ -25,6 +29,7 @@ type AppEvent = {
   colorClass: string;
   textClass: string;
   isRefacao?: boolean;
+  description?: string;
 };
 
 // --- Mock Data e KevQuest Engine ---
@@ -73,7 +78,7 @@ const INITIAL_EVENTS: AppEvent[] = [
 ];
 
 // --- DnD Components ---
-function DraggableEvent({ event }: { event: AppEvent }) {
+function DraggableEvent({ event, onClick }: { event: AppEvent; onClick?: () => void }) {
   const { attributes, listeners, setNodeRef, transform } = useDraggable({
     id: event.id,
     data: event,
@@ -87,6 +92,10 @@ function DraggableEvent({ event }: { event: AppEvent }) {
       style={style}
       {...listeners}
       {...attributes}
+      onClick={(e) => {
+        e.stopPropagation();
+        if (onClick) onClick();
+      }}
       className={`absolute inset-[3px] rounded-xl p-2 cursor-grab active:cursor-grabbing transition-colors overflow-hidden ${event.colorClass}`}
     >
       <div className={`text-[10px] sm:text-[11px] leading-tight font-medium ${event.textClass}`}>
@@ -150,11 +159,29 @@ export default function CalendarInteractivePage() {
   // 2. Mês do Mini Calendário
   const [currentMonthNode, setCurrentMonthNode] = useState(() => startOfMonth(TODAY));
 
+  const sensors = useSensors(
+    useSensor(MouseSensor, {
+      activationConstraint: {
+        distance: 5,
+      },
+    }),
+    useSensor(TouchSensor, {
+      activationConstraint: {
+        delay: 250,
+        tolerance: 5,
+      },
+    })
+  );
+
   // Modal State
   const [modalOpen, setModalOpen] = useState(false);
   const [newEventSlot, setNewEventSlot] = useState<{ dateIso: string; timeSlot: string } | null>(null);
   const [newEventTitle, setNewEventTitle] = useState("");
+  const [newEventDesc, setNewEventDesc] = useState("");
   const [newEventColor, setNewEventColor] = useState("bg-indigo-100 dark:bg-indigo-900/40 border border-indigo-200 dark:border-indigo-900/50 font-bold shadow-sm");
+  
+  const [viewEvent, setViewEvent] = useState<AppEvent | null>(null);
+  const [editEventId, setEditEventId] = useState<string | null>(null);
 
   // --- Processamento da Semana Principal (7 dias, Seg a Dom) ---
   const weekDays = Array.from({ length: 7 }).map((_, i) => addDays(currentWeekStart, i)); 
@@ -203,6 +230,9 @@ export default function CalendarInteractivePage() {
     const existing = events.find((e) => e.dateIso === dateIso && e.timeSlot === timeSlot);
     if (!existing) {
       setNewEventSlot({ dateIso, timeSlot });
+      setNewEventTitle("");
+      setNewEventDesc("");
+      setEditEventId(null);
       setModalOpen(true);
     }
   };
@@ -219,17 +249,40 @@ export default function CalendarInteractivePage() {
     if (newEventColor.includes("slate")) textClass = "text-slate-600";
 
     const novaTarefa: AppEvent = {
-      id: Math.random().toString(36).substring(7),
+      id: editEventId || Math.random().toString(36).substring(7),
       title: newEventTitle,
       dateIso: newEventSlot.dateIso,
       timeSlot: newEventSlot.timeSlot,
       colorClass: newEventColor,
       textClass,
+      description: newEventDesc,
     };
 
-    setEvents((prev) => [...prev, novaTarefa]);
+    if (editEventId) {
+      setEvents((prev) => prev.map((e) => (e.id === editEventId ? novaTarefa : e)));
+    } else {
+      setEvents((prev) => [...prev, novaTarefa]);
+    }
+
+    setEditEventId(null);
     setModalOpen(false);
     setNewEventTitle("");
+    setNewEventDesc("");
+  };
+
+  const handleEditIntent = (event: AppEvent) => {
+    setNewEventSlot({ dateIso: event.dateIso, timeSlot: event.timeSlot });
+    setNewEventTitle(event.title);
+    setNewEventDesc(event.description || "");
+    setNewEventColor(event.colorClass);
+    setEditEventId(event.id);
+    setViewEvent(null);
+    setModalOpen(true);
+  };
+
+  const handleDeleteEvent = (id: string) => {
+    setEvents((prev) => prev.filter((e) => e.id !== id));
+    setViewEvent(null);
   };
 
   return (
@@ -319,16 +372,30 @@ export default function CalendarInteractivePage() {
               </div>
            </div>
            
-           <button 
-             onClick={handleToday}
-             className="px-4 py-2 bg-indigo-50 dark:bg-indigo-900/30 border border-indigo-100 dark:border-indigo-900/50 text-xs font-bold text-indigo-700 dark:text-indigo-400 rounded-xl hover:bg-indigo-100 dark:hover:bg-indigo-900/50 hover:text-indigo-800 dark:hover:text-indigo-300 transition-colors uppercase tracking-widest flex items-center gap-2"
-           >
-             <CalendarIcon className="w-4 h-4" />
-             Ir para Hoje
-           </button>
+           <div className="flex items-center gap-2">
+             <button 
+               onClick={handleToday}
+               className="px-4 py-2 bg-indigo-50 dark:bg-indigo-900/30 border border-indigo-100 dark:border-indigo-900/50 text-xs font-bold text-indigo-700 dark:text-indigo-400 rounded-xl hover:bg-indigo-100 dark:hover:bg-indigo-900/50 hover:text-indigo-800 dark:hover:text-indigo-300 transition-colors uppercase tracking-widest flex items-center gap-2"
+             >
+               <CalendarIcon className="w-4 h-4" />
+               Ir para Hoje
+             </button>
+             <button 
+               onClick={() => {
+                 setNewEventSlot({ dateIso: format(TODAY, "yyyy-MM-dd"), timeSlot: "09:00" });
+                 setNewEventTitle("");
+                 setNewEventDesc("");
+                 setModalOpen(true);
+               }}
+               className="px-4 py-2 bg-teal-500 text-slate-900 text-xs font-black rounded-xl hover:bg-teal-400 border border-transparent transition-all shadow-[0_0_15px_rgba(20,184,166,0.3)] hover:shadow-[0_0_20px_rgba(20,184,166,0.5)] uppercase tracking-widest flex items-center gap-2"
+             >
+               <Plus className="w-4 h-4" />
+               Lançar Evento
+             </button>
+           </div>
         </div>
 
-        <DndContext onDragEnd={handleDragEnd}>
+        <DndContext sensors={sensors} onDragEnd={handleDragEnd}>
           {/* Calendar Header (7 Days) */}
           <div className="grid grid-cols-[60px_repeat(7,1fr)] border-b border-slate-100 dark:border-[#2C2C2E] pb-4 pt-4 px-2 sticky top-0 bg-white dark:bg-[#121212]/95 backdrop-blur z-20">
             <div className="flex items-end justify-center pb-2 border-r border-slate-50 dark:border-[#2C2C2E]">
@@ -371,7 +438,7 @@ export default function CalendarInteractivePage() {
                         onClick={() => handleSlotClick(dateIso, hour)}
                       >
                         {slotEvents.map((evt) => (
-                          <DraggableEvent key={evt.id} event={evt} />
+                          <DraggableEvent key={evt.id} event={evt} onClick={() => setViewEvent(evt)} />
                         ))}
                       </DroppableSlot>
                     );
@@ -388,8 +455,8 @@ export default function CalendarInteractivePage() {
         <div className="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-[100] flex items-center justify-center animate-in fade-in duration-200">
           <div className="bg-white dark:bg-[#1C1C1E] rounded-3xl p-8 max-w-sm w-full shadow-2xl scale-100 zoom-in-95 animate-in">
             <div className="flex justify-between items-center mb-6">
-              <h2 className="text-xl font-bold text-slate-800 dark:text-[#FFFFFF]">Novo Compromisso</h2>
-              <button onClick={() => setModalOpen(false)} className="text-slate-400 hover:text-slate-600 text-2xl leading-none">&times;</button>
+              <h2 className="text-xl font-bold text-slate-800 dark:text-[#FFFFFF]">{editEventId ? "Editar Compromisso" : "Novo Compromisso"}</h2>
+              <button onClick={() => { setModalOpen(false); setEditEventId(null); }} className="text-slate-400 hover:text-slate-600 text-2xl leading-none">&times;</button>
             </div>
             
             <form onSubmit={handleCreateEvent} className="space-y-6">
@@ -415,9 +482,22 @@ export default function CalendarInteractivePage() {
                 </div>
               </div>
 
-              <div className="bg-indigo-50 dark:bg-indigo-500/10/50 p-4 rounded-xl border border-indigo-100 flex justify-between items-center text-sm font-medium text-indigo-800 mt-2">
-                <span className="capitalize">{format(parseISO(newEventSlot.dateIso), "EEEE, dd 'de' MMM", { locale: ptBR })}</span>
-                <span className="bg-white dark:bg-[#1C1C1E] text-indigo-600 dark:text-indigo-400 px-3 py-1 font-bold rounded-lg shadow-sm border border-indigo-100">{newEventSlot.timeSlot}</span>
+              <div className="grid grid-cols-2 gap-4 mt-2">
+                <div>
+                  <label className="text-xs font-bold text-slate-400 uppercase tracking-wider block mb-2">Data</label>
+                  <input type="date" value={newEventSlot.dateIso} onChange={(e) => setNewEventSlot({...newEventSlot, dateIso: e.target.value})} className="w-full bg-slate-50 dark:bg-[#2C2C2E] border border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500/30 focus:border-indigo-500 transition-all font-medium text-slate-800 dark:text-[#FFFFFF]" />
+                </div>
+                <div>
+                  <label className="text-xs font-bold text-slate-400 uppercase tracking-wider block mb-2">Hora</label>
+                  <select value={newEventSlot.timeSlot} onChange={(e) => setNewEventSlot({...newEventSlot, timeSlot: e.target.value})} className="w-full bg-slate-50 dark:bg-[#2C2C2E] border border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500/30 focus:border-indigo-500 transition-all font-medium text-slate-800 dark:text-[#FFFFFF]">
+                    {HOURS.map(h => <option key={h} value={h}>{h}</option>)}
+                  </select>
+                </div>
+              </div>
+
+              <div>
+                <label className="text-xs font-bold text-slate-400 uppercase tracking-wider block mb-2 mt-4">Descrição (Opcional)</label>
+                <textarea rows={2} value={newEventDesc} onChange={(e) => setNewEventDesc(e.target.value)} placeholder="Detalhes do seu evento..." className="w-full bg-slate-50 dark:bg-[#2C2C2E] border border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500/30 focus:border-indigo-500 transition-all font-medium text-slate-800 dark:text-[#FFFFFF] resize-none"></textarea>
               </div>
 
               <button
@@ -427,6 +507,58 @@ export default function CalendarInteractivePage() {
                 Gravar no Calendário
               </button>
             </form>
+          </div>
+        </div>
+      )}
+
+      {/* View Event Modal (Popup) */}
+      {viewEvent && (
+        <div className="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-[100] flex items-center justify-center animate-in fade-in duration-200" onClick={() => setViewEvent(null)}>
+          <div className="bg-white dark:bg-[#1C1C1E] rounded-3xl p-8 max-w-sm w-full shadow-2xl scale-100 zoom-in-95 animate-in" onClick={(e) => e.stopPropagation()}>
+            <div className={`p-4 rounded-xl mb-4 ${viewEvent.colorClass}`}>
+               <h2 className={`text-lg font-black ${viewEvent.textClass}`}>{viewEvent.title}</h2>
+            </div>
+            
+            <div className="space-y-4">
+              <div className="flex gap-4 text-sm font-medium text-slate-600 dark:text-[#A1A1AA]">
+                <div className="flex items-center gap-1.5"><CalendarIcon className="w-4 h-4"/> {format(parseISO(viewEvent.dateIso), "dd/MM/yyyy")}</div>
+                <div className="flex items-center gap-1.5"><CalendarIcon className="w-4 h-4"/> {viewEvent.timeSlot}</div>
+              </div>
+              
+              {viewEvent.description && (
+                <div>
+                  <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2 mt-4">Descrição</h3>
+                  <p className="text-sm text-slate-700 dark:text-slate-300 whitespace-pre-wrap">{viewEvent.description}</p>
+                </div>
+              )}
+            </div>
+
+            <div className="flex gap-3 justify-end mt-6">
+              {!viewEvent.isRefacao && (
+                <>
+                  <button
+                    onClick={() => handleDeleteEvent(viewEvent.id)}
+                    className="p-3 bg-rose-50 dark:bg-rose-900/20 text-rose-600 dark:text-rose-400 border border-rose-200 dark:border-rose-900/50 rounded-xl hover:bg-rose-100 dark:hover:bg-rose-900/40 transition-colors"
+                    title="Excluir evento"
+                  >
+                    <Trash2 className="w-5 h-5" />
+                  </button>
+                  <button
+                    onClick={() => handleEditIntent(viewEvent)}
+                    className="p-3 bg-indigo-50 dark:bg-indigo-900/20 text-indigo-600 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-900/50 rounded-xl hover:bg-indigo-100 dark:hover:bg-indigo-900/40 transition-colors"
+                    title="Editar evento"
+                  >
+                    <Edit2 className="w-5 h-5" />
+                  </button>
+                </>
+              )}
+              <button
+                 onClick={() => setViewEvent(null)}
+                 className="flex-1 bg-slate-100 dark:bg-[#2C2C2E] border border-slate-200 dark:border-[#3A3A3C] text-slate-700 dark:text-slate-300 font-bold py-3.5 rounded-xl hover:bg-slate-200 dark:hover:bg-[#3A3A3C] transition-all"
+              >
+                 Fechar
+              </button>
+            </div>
           </div>
         </div>
       )}
