@@ -603,14 +603,18 @@ export default function RedacaoPage() {
 
       {/* ─── HEADER ─── */}
       <header className="flex flex-col md:flex-row md:items-end justify-between gap-6">
-        <div>
-          <h1 className="text-4xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-3">
-            <PenTool className="w-10 h-10 text-indigo-600" />
-            Redação
+        <div className="relative">
+          <div className="absolute -top-20 -left-20 w-64 h-64 bg-indigo-500/10 rounded-full blur-[100px] pointer-events-none"></div>
+          <h1 className="text-4xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-4 relative z-10">
+            <div className="bg-indigo-600 p-3 rounded-[1.2rem] shadow-lg shadow-indigo-600/20">
+              <PenTool className="w-8 h-8 text-white" />
+            </div>
+            Módulo de Redação
           </h1>
-          <p className="text-slate-500 dark:text-[#A1A1AA] mt-1 font-medium">
-            Arraste os cards entre as colunas para mover no Kanban.
-          </p>
+          <div className="flex items-center gap-3 mt-3 relative z-10">
+            <div className="h-1 w-12 bg-indigo-500 rounded-full"></div>
+            <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em]">Arraste os cards entre as colunas</p>
+          </div>
         </div>
         <button
           onClick={() => {

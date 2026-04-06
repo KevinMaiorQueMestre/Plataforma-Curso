@@ -312,13 +312,20 @@ export default function HomeEstudosPage() {
   return (
     <div className="max-w-7xl mx-auto space-y-8 pb-20 animate-in fade-in duration-500">
       
-      {/* HEADER */}
+      {/* HEADER PREMIUM */}
       <header className="flex justify-between items-end mb-6">
-        <div>
-          <h1 className="text-4xl font-black text-slate-800 dark:text-white tracking-tighter flex items-center gap-3">
-            <BookOpen className="w-10 h-10 text-indigo-600" /> Diário de Estudos
+        <div className="relative">
+          <div className="absolute -top-20 -left-20 w-64 h-64 bg-indigo-500/10 rounded-full blur-[100px] pointer-events-none"></div>
+          <h1 className="text-4xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-4 relative z-10">
+            <div className="bg-indigo-600 p-3 rounded-[1.2rem] shadow-lg shadow-indigo-600/20">
+              <BookOpen className="w-8 h-8 text-white" />
+            </div>
+            Diário de Estudos
           </h1>
-          <p className="text-slate-500 font-bold">Gerencie sua evolução diária.</p>
+          <div className="flex items-center gap-3 mt-3 relative z-10">
+            <div className="h-1 w-12 bg-indigo-500 rounded-full"></div>
+            <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em]">Gerencie sua evolução diária</p>
+          </div>
         </div>
         <div className="flex items-center gap-2">
            <button
@@ -337,7 +344,7 @@ export default function HomeEstudosPage() {
         <div className="space-y-6">
           
           {/* TIMER BOX - PREMIUM REDESIGN */}
-          <div className="relative group overflow-hidden bg-slate-900 rounded-[2.5rem] p-6 lg:p-8 text-white border border-slate-800 shadow-[0_20px_50px_rgba(0,0,0,0.3)] flex flex-col xl:flex-row items-center justify-between gap-8">
+          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
              
              {/* Background Effects */}
              <div className="absolute top-0 right-0 w-64 h-64 bg-indigo-500/10 blur-[100px] rounded-full -mr-32 -mt-32"></div>
@@ -345,7 +352,7 @@ export default function HomeEstudosPage() {
 
              {/* Info & Timer */}
              <div className="relative flex items-center gap-6">
-                <div className={`relative w-20 h-20 rounded-[2rem] flex items-center justify-center border-2 transition-all duration-500 shadow-2xl ${isRunning ? 'bg-indigo-600/20 border-indigo-500/40' : 'bg-slate-800 border-slate-700'}`}>
+                <div className={`relative w-20 h-20 rounded-[2rem] flex items-center justify-center border-2 transition-all duration-500 shadow-2xl ${isRunning ? 'bg-indigo-500/10 border-indigo-500/30' : 'bg-slate-50 dark:bg-slate-800 border-slate-200 dark:border-slate-700'}`}>
                   <Clock className={`w-8 h-8 transition-colors duration-500 ${isRunning ? 'text-indigo-400' : 'text-slate-500'}`} />
                   {isRunning && (
                     <motion.div 
@@ -356,12 +363,12 @@ export default function HomeEstudosPage() {
                   )}
                 </div>
                 <div className="flex flex-col gap-1">
-                   <h2 className="text-xs font-black uppercase tracking-widest text-slate-500">Fluxo de Estudo</h2>
+                   <h2 className="text-xs font-black text-slate-400 dark:text-slate-500 uppercase tracking-[0.25em] leading-tight mb-1">Fluxo de Estudo</h2>
                    <div className="flex items-baseline gap-2">
-                      <div className={`text-6xl font-black font-mono tracking-tighter transition-all duration-500 ${isRunning ? 'text-white' : 'text-slate-600'}`}>
+                      <div className={`text-7xl font-black font-mono tracking-tighter transition-all duration-500 ${isRunning ? 'text-slate-900 dark:text-white' : 'text-slate-300 dark:text-slate-700'}`}>
                         {formatTime(seconds).split(':')[0]}:{formatTime(seconds).split(':')[1]}
                       </div>
-                      <div className={`text-2xl font-black font-mono opacity-50 ${isRunning ? 'text-indigo-400' : 'text-slate-600'}`}>
+                      <div className={`text-3xl font-black font-mono ${isRunning ? 'text-indigo-500' : 'text-slate-300 dark:text-slate-700'}`}>
                         :{formatTime(seconds).split(':')[2]}
                       </div>
                    </div>
@@ -369,12 +376,12 @@ export default function HomeEstudosPage() {
              </div>
 
              {/* Controls Group */}
-             <div className="relative flex flex-wrap items-center justify-center gap-4 bg-slate-800/30 backdrop-blur-md p-3 rounded-[2.5rem] border border-white/5 shadow-inner">
+             <div className="relative z-10 flex flex-wrap items-center justify-center gap-5 bg-slate-50 dark:bg-slate-800/50 p-4 rounded-[2rem] border border-slate-200 dark:border-white/5 shadow-inner mt-8 xl:mt-0">
                 <div className="flex gap-2">
                    <button 
                      onClick={() => setIsRunning(!isRunning)} 
                      title={isRunning ? "Pausar" : "Começar"}
-                     className={`w-16 h-16 rounded-[1.5rem] flex items-center justify-center transition-all active:scale-90 shadow-2xl ${isRunning ? 'bg-amber-500 text-white shadow-amber-500/20' : 'bg-white text-slate-900 shadow-white/10 hover:bg-slate-100'}`}
+                     className={`w-16 h-16 rounded-[1.5rem] flex items-center justify-center transition-all active:scale-90 shadow-2xl ${isRunning ? 'bg-amber-500 text-white shadow-amber-500/30' : 'bg-indigo-600 text-white shadow-indigo-600/30 hover:bg-indigo-700'}`}
                    >
                      {isRunning ? <Pause className="w-7 h-7 fill-current" /> : <Play className="w-7 h-7 fill-current ml-1" />}
                    </button>
@@ -393,26 +400,26 @@ export default function HomeEstudosPage() {
                        setIsRunning(false);
                      }} 
                      title="Resetar (Sem confirmação)"
-                     className="w-16 h-16 bg-slate-700/50 hover:bg-rose-500 text-white rounded-[1.5rem] flex items-center justify-center transition-all active:scale-90 border border-white/5"
+                     className="w-16 h-16 bg-white dark:bg-slate-700/50 text-slate-400 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500 rounded-2xl flex items-center justify-center transition-all active:scale-95 border border-slate-200 dark:border-white/5 shadow-md"
                    >
                      <X className="w-7 h-7" />
                    </button>
                 </div>
                 
-                <div className="hidden sm:block w-px h-12 bg-white/5 mx-2"></div>
+                <div className="hidden sm:block w-[2px] h-10 bg-slate-200 dark:bg-white/5 mx-1 rounded-full"></div>
 
                 <button 
                   onClick={() => { setIsRunning(false); setModalOpen(true); }}
-                  className="group/btn bg-white hover:bg-slate-100 text-slate-900 font-black px-8 py-5 rounded-[1.5rem] text-xs uppercase tracking-[0.2em] shadow-xl transition-all active:scale-90 flex items-center gap-3"
+                  className="group/btn bg-indigo-600 hover:bg-indigo-700 text-white font-black px-8 py-5 rounded-2xl shadow-xl shadow-indigo-600/20 text-xs uppercase tracking-[0.2em] shadow-xl transition-all active:scale-90 flex items-center gap-3"
                 >
                   <Plus className="w-4 h-4 transition-transform group-hover/btn:rotate-90" /> Registro Manual
                 </button>
 
-                <div className="hidden sm:block w-px h-12 bg-white/5 mx-2"></div>
+                <div className="hidden sm:block w-[2px] h-10 bg-slate-200 dark:bg-white/5 mx-1 rounded-full"></div>
 
                 <button 
                   onClick={() => setIsFocusMode(true)}
-                  className="w-16 h-16 bg-slate-800/80 text-slate-400 hover:text-white rounded-[1.5rem] flex items-center justify-center transition-all active:scale-90 border border-white/5 hover:border-white/10"
+                  className="w-16 h-16 bg-slate-900 dark:bg-slate-700 text-white rounded-2xl flex items-center justify-center transition-all active:scale-95 shadow-xl hover:shadow-indigo-500/10"
                   title="Modo Foco Máximo"
                 >
                   <Maximize2 className="w-6 h-6" />

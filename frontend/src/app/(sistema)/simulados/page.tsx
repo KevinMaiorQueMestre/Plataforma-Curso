@@ -230,12 +230,10 @@ export default function SimuladosPage() {
       {/* --- CRONÔMETRO REVERSO - PREMIUM REDESIGN --- */}
       <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
         
-        {/* Background Effects */}
-        <div className="absolute top-0 right-0 w-64 h-64 bg-indigo-500/10 blur-[100px] rounded-full -mr-32 -mt-32"></div>
-        <div className="absolute bottom-0 left-0 w-64 h-64 bg-rose-500/5 blur-[100px] rounded-full -ml-32 -mb-32"></div>
+        <div className="absolute top-0 right-0 w-80 h-80 bg-indigo-500/5 rounded-full blur-[100px] -mr-40 -mt-40 pointer-events-none"></div>
 
         <div className="relative z-10 flex items-center gap-6">
-           <div className={`relative w-20 h-20 rounded-[2rem] flex items-center justify-center border-2 transition-all duration-500 shadow-2xl ${isTimerRunning ? 'bg-indigo-600/20 border-indigo-500/40' : 'bg-slate-800 border-slate-700'}`}>
+           <div className={`relative w-24 h-24 rounded-[2rem] flex items-center justify-center border-2 transition-all duration-500 shadow-lg ${isTimerRunning ? 'bg-indigo-500/10 border-indigo-500/30' : 'bg-slate-50 dark:bg-slate-800 border-slate-200 dark:border-slate-700'}`}>
              <Clock className={`w-8 h-8 transition-colors duration-500 ${isTimerRunning ? 'text-indigo-400' : 'text-slate-500'}`} />
              {isTimerRunning && (
                 <motion.div 
@@ -246,29 +244,29 @@ export default function SimuladosPage() {
              )}
            </div>
            <div className="flex flex-col gap-1">
-             <h2 className="text-xs font-black text-slate-500 uppercase tracking-widest leading-tight">Crónometro de Simulado</h2>
+             <h2 className="text-xs font-black text-slate-400 dark:text-slate-500 uppercase tracking-[0.25em] leading-tight mb-1">Cronónometro de Simulado</h2>
              <div className="flex items-baseline gap-2">
-                <div className={`text-6xl font-black font-mono tracking-tighter transition-all duration-500 ${isTimerRunning ? 'text-white' : 'text-slate-600'}`}>
+                <div className={`text-7xl font-black font-mono tracking-tighter transition-all duration-500 ${isTimerRunning ? 'text-slate-900 dark:text-white' : 'text-slate-300 dark:text-slate-700'}`}>
                   {getDisplayTime().split(':')[0]}:{getDisplayTime().split(':')[1]}
                 </div>
-                <div className={`text-2xl font-black font-mono opacity-50 ${isTimerRunning ? 'text-indigo-400' : 'text-slate-600'}`}>
+                <div className={`text-3xl font-black font-mono ${isTimerRunning ? 'text-indigo-500' : 'text-slate-300 dark:text-slate-700'}`}>
                   :{getDisplayTime().split(':')[2]}
                 </div>
              </div>
            </div>
         </div>
         
-        <div className="relative z-10 flex flex-wrap items-center justify-center gap-4 bg-slate-800/30 backdrop-blur-md p-3 rounded-[2.5rem] border border-white/5 shadow-inner">
+        <div className="relative z-10 flex flex-wrap items-center justify-center gap-4 bg-slate-50 dark:bg-slate-800/50 p-4 rounded-[2rem] border border-slate-200 dark:border-white/5 shadow-inner">
            
            {!isTimerRunning && timeLeft === 0 && (
-             <motion.div initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} className="flex gap-2 items-center bg-slate-700/50 px-5 py-3 rounded-2xl border border-white/5 mr-2">
+             <motion.div initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} className="flex gap-2 items-center bg-white dark:bg-slate-700/50 px-6 py-4 rounded-2xl border border-slate-100 dark:border-white/5 shadow-sm">
                 <div className="flex flex-col items-center">
-                  <input type="number" min="0" value={timerConfig.hours} onChange={e => setTimerConfig({...timerConfig, hours: parseInt(e.target.value)||0})} className="w-10 bg-transparent text-white font-black text-lg text-center focus:outline-none" />
+                  <input type="number" min="0" value={timerConfig.hours} onChange={e => setTimerConfig({...timerConfig, hours: parseInt(e.target.value)||0})} className="w-12 bg-transparent text-slate-800 dark:text-white font-black text-2xl text-center focus:outline-none focus:text-indigo-500" />
                   <span className="text-[8px] text-slate-500 font-bold uppercase tracking-widest">Horas</span>
                 </div>
-                <span className="text-slate-600 font-black text-lg pb-4">:</span>
+                <span className="text-slate-300 dark:text-slate-600 font-black text-2xl pb-6">:</span>
                 <div className="flex flex-col items-center">
-                  <input type="number" min="0" max="59" value={timerConfig.minutes} onChange={e => setTimerConfig({...timerConfig, minutes: parseInt(e.target.value)||0})} className="w-10 bg-transparent text-white font-black text-lg text-center focus:outline-none" />
+                  <input type="number" min="0" max="59" value={timerConfig.minutes} onChange={e => setTimerConfig({...timerConfig, minutes: parseInt(e.target.value)||0})} className="w-12 bg-transparent text-slate-800 dark:text-white font-black text-2xl text-center focus:outline-none focus:text-indigo-500" />
                   <span className="text-[8px] text-slate-500 font-bold uppercase tracking-widest">Mins</span>
                 </div>
              </motion.div>
@@ -278,7 +276,7 @@ export default function SimuladosPage() {
               <button 
                 onClick={isTimerRunning ? pauseTimer : startTimer} 
                 title={isTimerRunning ? "Pausar" : "Começar Simulado"}
-                className={`w-16 h-16 rounded-[1.5rem] flex items-center justify-center transition-all active:scale-95 shadow-2xl ${isTimerRunning ? 'bg-amber-500 text-white shadow-amber-500/20' : 'bg-white text-slate-900 shadow-white/10 hover:bg-slate-100'}`}
+                className={`w-16 h-16 rounded-[1.5rem] flex items-center justify-center transition-all active:scale-95 shadow-2xl ${isTimerRunning ? 'bg-amber-500 text-white shadow-amber-500/20' : 'bg-indigo-600 text-white shadow-indigo-600/30 hover:bg-indigo-700'}`}
               >
                 {isTimerRunning ? <Pause className="w-7 h-7 fill-current" /> : <Play className="w-7 h-7 fill-current ml-1" />}
               </button>
@@ -286,27 +284,27 @@ export default function SimuladosPage() {
               <button 
                 onClick={resetTimer} 
                 title="Resetar tempo (Sem confirmação)"
-                className="w-16 h-16 bg-slate-700/50 hover:bg-rose-500 text-white rounded-[1.5rem] flex items-center justify-center transition-all active:scale-95 border border-white/5"
+                className="w-16 h-16 bg-white dark:bg-slate-700/50 text-slate-400 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500 rounded-2xl flex items-center justify-center transition-all active:scale-95 border border-white/5"
               >
                 <X className="w-7 h-7" />
               </button>
 
               <button 
                 onClick={() => setIsFocusMode(true)}
-                className="w-16 h-16 bg-slate-800/80 text-slate-400 hover:text-white rounded-[1.5rem] flex items-center justify-center transition-all active:scale-95 border border-white/5 hover:border-white/10"
+                className="w-16 h-16 bg-slate-900 dark:bg-slate-700 text-white rounded-2xl flex items-center justify-center transition-all active:scale-95 border border-white/5 hover:border-white/10"
                 title="Simulação Imersiva"
               >
                 <Maximize2 className="w-7 h-7" />
               </button>
            </div>
 
-           <div className="hidden lg:block w-px h-12 bg-white/5 mx-2"></div>
+           <div className="hidden lg:block w-[2px] h-10 bg-slate-200 dark:bg-white/5 mx-1 rounded-full"></div>
 
            <div className="flex flex-col items-center">
               <button 
                 onClick={() => setShowExactTime(!showExactTime)} 
                 disabled={!isTimerRunning}
-                className={`px-6 py-4 rounded-[1.5rem] text-[10px] font-black uppercase tracking-[0.2em] transition-all border ${!isTimerRunning ? 'opacity-20 cursor-not-allowed filter grayscale' : 'hover:bg-white/5 border-white/5 text-slate-400 hover:text-white'}`}
+                className={`px-6 py-4 rounded-[1.5rem] text-[10px] font-black uppercase tracking-[0.2em] transition-all border ${!isTimerRunning ? 'opacity-30 cursor-not-allowed bg-slate-50 dark:bg-transparent border-slate-100 dark:border-white/5 text-slate-400' : 'bg-white dark:bg-indigo-900/10 border-slate-200 dark:border-indigo-500/20 text-slate-600 dark:text-indigo-400 hover:border-indigo-500 shadow-sm'}`}
               >
                 {showExactTime ? "Ocultar Frações" : "Ver Exato"}
               </button>
