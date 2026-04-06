@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import {
   PenTool, Plus, Trash2, ArrowRight,
   Lightbulb, FileText, ClipboardCheck, Award,
-  X, Star, Calendar, GripVertical
+  X, Star, Calendar, GripVertical, Edit2, Image as ImageIcon
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -36,6 +36,7 @@ interface Redacao {
   dataCriacao: string;
   status: KanbanStatus;
   nota?: number | null;
+  imagens: string[];
 }
 
 const COLUMNS: {
@@ -96,13 +97,15 @@ function RedacaoCard({
   col,
   onDelete,
   onAvancar,
+  onEdit,
   onSalvarNota,
 }: {
   redacao: Redacao;
   col: typeof COLUMNS[number];
   onDelete: (id: string) => void;
   onAvancar: (id: string) => void;
-  onSalvarNota: (id: string, nota: number) => void;
+  onEdit: (id: string) => void;
+  onSalvarNota: (id: string, nota: number | null) => void;
 }) {
   const [editingNota, setEditingNota] = useState(false);
   const [notaInput, setNotaInput] = useState("");
@@ -122,13 +125,20 @@ function RedacaoCard({
     opacity: isDragging ? 0.3 : 1,
   };
 
-  const handleSalvarNota = () => {
-    const n = parseInt(notaInput);
-    if (!isNaN(n) && n >= 0 && n <= 1000) {
-      onSalvarNota(redacao.id, n);
+  const handleSalvarNota = (e?: React.MouseEvent | React.KeyboardEvent) => {
+    if (e) {
+      e.stopPropagation();
+      e.preventDefault();
+    }
+    if (notaInput.trim() === "") {
+      onSalvarNota(redacao.id, null);
+    } else {
+      const n = parseInt(notaInput);
+      if (!isNaN(n) && n >= 0 && n <= 1000) {
+        onSalvarNota(redacao.id, n);
+      }
     }
     setEditingNota(false);
-    setNotaInput("");
   };
 
   return (
@@ -147,16 +157,40 @@ function RedacaoCard({
           </div>
 
           <div className="flex-1 min-w-0">
+            {redacao.imagens && redacao.imagens.length > 0 && (
+              <div className="flex gap-2 py-2 overflow-x-auto no-scrollbar mb-4">
+                {redacao.imagens.slice(0, 3).map((img, idx) => (
+                  <div key={idx} className="w-12 h-12 rounded-lg overflow-hidden border border-slate-100 dark:border-[#2C2C2E] flex-shrink-0">
+                    <img src={img} alt="Preview" className="w-full h-full object-cover" />
+                  </div>
+                ))}
+                {redacao.imagens.length > 3 && (
+                  <div className="w-12 h-12 rounded-lg bg-slate-100 dark:bg-[#2C2C2E] flex items-center justify-center text-[10px] font-black text-slate-500">
+                    +{redacao.imagens.length - 3}
+                  </div>
+                )}
+              </div>
+            )}
             <div className="flex items-start justify-between gap-2 mb-2">
               <h3 className="font-bold text-slate-800 dark:text-white text-sm leading-snug">
                 {redacao.titulo}
               </h3>
-              <button
-                onClick={() => onDelete(redacao.id)}
-                className="flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity p-1.5 text-slate-300 hover:text-rose-500 rounded-lg"
-              >
-                <Trash2 className="w-3.5 h-3.5" />
-              </button>
+              <div className="flex items-center gap-1 flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
+                <button
+                  onClick={() => onEdit(redacao.id)}
+                  className="p-1.5 text-slate-300 hover:text-indigo-500 rounded-lg transition-colors"
+                  title="Editar"
+                >
+                  <Edit2 className="w-3.5 h-3.5" />
+                </button>
+                <button
+                  onClick={() => onDelete(redacao.id)}
+                  className="p-1.5 text-slate-300 hover:text-rose-500 rounded-lg transition-colors"
+                  title="Excluir"
+                >
+                  <Trash2 className="w-3.5 h-3.5" />
+                </button>
+              </div>
             </div>
 
             {redacao.tema && (
@@ -185,9 +219,10 @@ function RedacaoCard({
                         min={0}
                         max={1000}
                         value={notaInput}
+                        onClick={(e) => { e.stopPropagation(); }}
                         onChange={(e) => setNotaInput(e.target.value)}
-                        onKeyDown={(e) => e.key === "Enter" && handleSalvarNota()}
-                        className="w-16 text-center font-black text-xs bg-slate-100 dark:bg-[#2C2C2E] rounded-lg px-2 py-1 outline-none border-none"
+                        onKeyDown={(e) => e.key === "Enter" && handleSalvarNota(e)}
+                        className="w-16 text-center font-black text-xs bg-slate-100 dark:bg-[#2C2C2E] text-slate-800 dark:text-white rounded-lg px-2 py-1 outline-none border-none"
                         placeholder="0"
                       />
                       <button onClick={handleSalvarNota} className="p-1 text-teal-500 font-black">
@@ -239,13 +274,15 @@ function KanbanColumn({
   items,
   onDelete,
   onAvancar,
+  onEdit,
   onSalvarNota,
 }: {
   col: typeof COLUMNS[number];
   items: Redacao[];
   onDelete: (id: string) => void;
   onAvancar: (id: string) => void;
-  onSalvarNota: (id: string, nota: number) => void;
+  onEdit: (id: string) => void;
+  onSalvarNota: (id: string, nota: number | null) => void;
 }) {
   const { setNodeRef, isOver } = useDroppable({ id: col.id });
   const Icon = col.icon;
@@ -289,6 +326,7 @@ function KanbanColumn({
               col={col}
               onDelete={onDelete}
               onAvancar={onAvancar}
+              onEdit={onEdit}
               onSalvarNota={onSalvarNota}
             />
           ))}
@@ -315,7 +353,8 @@ export default function RedacaoPage() {
   const [redacoes, setRedacoes] = useState<Redacao[]>([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [form, setForm] = useState({ titulo: "", tema: "" });
+  const [form, setForm] = useState({ titulo: "", tema: "", imagens: [] as string[], nota: "" });
+  const [editingId, setEditingId] = useState<string | null>(null);
   const [activeRedacao, setActiveRedacao] = useState<Redacao | null>(null);
 
   useEffect(() => {
@@ -381,19 +420,66 @@ export default function RedacaoPage() {
     }
   };
 
-  const addRedacao = () => {
+  const handleOpenEdit = (id: string) => {
+    const item = redacoes.find(r => r.id === id);
+    if (!item) return;
+    setForm({ 
+      titulo: item.titulo, 
+      tema: item.tema, 
+      imagens: item.imagens || [],
+      nota: item.nota !== null && item.nota !== undefined ? item.nota.toString() : ""
+    });
+    setEditingId(id);
+    setIsModalOpen(true);
+  };
+
+  const saveRedacao = () => {
     if (!form.titulo.trim()) return;
-    const nova: Redacao = {
-      id: Date.now().toString(36),
-      titulo: form.titulo,
-      tema: form.tema,
-      dataCriacao: new Date().toISOString(),
-      status: "proposta",
-      nota: null,
-    };
-    setRedacoes((prev) => [nova, ...prev]);
-    setForm({ titulo: "", tema: "" });
+
+    const notaFinal = form.nota.trim() !== "" ? parseInt(form.nota) : null;
+
+    if (editingId) {
+      setRedacoes(prev => prev.map(r => r.id === editingId ? { 
+        ...r, 
+        titulo: form.titulo, 
+        tema: form.tema,
+        imagens: form.imagens,
+        nota: notaFinal 
+      } : r));
+    } else {
+      const nova: Redacao = {
+        id: Date.now().toString(36),
+        titulo: form.titulo,
+        tema: form.tema,
+        dataCriacao: new Date().toISOString(),
+        status: "proposta",
+        nota: notaFinal,
+        imagens: form.imagens
+      };
+      setRedacoes((prev) => [nova, ...prev]);
+    }
+
+    setForm({ titulo: "", tema: "", imagens: [], nota: "" });
+    setEditingId(null);
     setIsModalOpen(false);
+  };
+
+  const handleImageUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (file) {
+      const reader = new FileReader();
+      reader.onloadend = () => {
+        setForm(prev => ({ ...prev, imagens: [...prev.imagens, reader.result as string] }));
+      };
+      reader.readAsDataURL(file);
+    }
+  };
+
+  const removeImage = (index: number) => {
+    setForm(prev => ({
+      ...prev,
+      imagens: prev.imagens.filter((_, i) => i !== index)
+    }));
   };
 
   const avançarEstagio = (id: string) => {
@@ -407,7 +493,7 @@ export default function RedacaoPage() {
     );
   };
 
-  const salvarNota = (id: string, nota: number) => {
+  const salvarNota = (id: string, nota: number | null) => {
     setRedacoes((prev) => prev.map((r) => (r.id === id ? { ...r, nota } : r)));
   };
 
@@ -438,7 +524,11 @@ export default function RedacaoPage() {
           </p>
         </div>
         <button
-          onClick={() => setIsModalOpen(true)}
+          onClick={() => {
+            setForm({ titulo: "", tema: "", imagens: [], nota: "" });
+            setEditingId(null);
+            setIsModalOpen(true);
+          }}
           className="flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 active:scale-95 transition-all text-white font-black px-7 py-4 rounded-2xl shadow-xl shadow-indigo-500/20 text-sm uppercase tracking-widest"
         >
           <Plus className="w-5 h-5" /> Nova Redação
@@ -475,6 +565,7 @@ export default function RedacaoPage() {
               items={redacoes.filter((r) => r.status === col.id)}
               onDelete={deleteRedacao}
               onAvancar={avançarEstagio}
+              onEdit={handleOpenEdit}
               onSalvarNota={salvarNota}
             />
           ))}
@@ -508,11 +599,13 @@ export default function RedacaoPage() {
               >
                 <X className="w-5 h-5" />
               </button>
-              <h2 className="text-2xl font-black text-slate-800 dark:text-white mb-2">Nova Redação</h2>
+              <h2 className="text-2xl font-black text-slate-800 dark:text-white mb-2">
+                {editingId ? "Editar Redação" : "Nova Redação"}
+              </h2>
               <p className="text-sm text-slate-400 mb-8">
-                Preencha os dados. O card entrará em <strong>Proposta</strong>.
+                {editingId ? "Atualize os dados da sua redação." : "Preencha os dados. O card entrará em Proposta."}
               </p>
-              <div className="space-y-5">
+              <div className="space-y-4">
                 <div className="space-y-2">
                   <label className="text-[10px] font-black uppercase tracking-widest text-slate-400">Título</label>
                   <input
@@ -520,11 +613,48 @@ export default function RedacaoPage() {
                     type="text"
                     value={form.titulo}
                     onChange={(e) => setForm({ ...form, titulo: e.target.value })}
-                    onKeyDown={(e) => e.key === "Enter" && addRedacao()}
+                    onKeyDown={(e) => e.key === "Enter" && saveRedacao()}
                     placeholder="Ex: Redação #01 — Mercado de trabalho"
                     className="w-full bg-slate-50 dark:bg-[#2C2C2E] rounded-2xl px-5 py-4 text-sm font-bold outline-none focus:ring-2 focus:ring-indigo-500/30 transition-all"
                   />
                 </div>
+
+                <div className="grid grid-cols-2 gap-4">
+                  {editingId && redacoes.find(r => r.id === editingId)?.status === 'corrigida' && (
+                    <div className="space-y-2">
+                      <label className="text-[10px] font-black uppercase tracking-widest text-slate-400">Nota Final</label>
+                      <input
+                        type="number"
+                        min="0"
+                        max="1000"
+                        step="20"
+                        value={form.nota}
+                        onChange={(e) => setForm({ ...form, nota: e.target.value })}
+                        placeholder="Ex: 960"
+                        className="w-full bg-slate-50 dark:bg-[#2C2C2E] rounded-2xl px-5 py-4 text-sm font-bold outline-none focus:ring-2 focus:ring-indigo-500/30 transition-all"
+                      />
+                    </div>
+                  )}
+                  <div className="space-y-2">
+                    <label className="text-[10px] font-black uppercase tracking-widest text-slate-400">Imagem/Foto</label>
+                    <div className="relative">
+                      <input
+                        type="file"
+                        accept="image/*"
+                        onChange={handleImageUpload}
+                        className="hidden"
+                        id="image-upload"
+                      />
+                      <label
+                        htmlFor="image-upload"
+                        className="flex items-center justify-center gap-2 w-full bg-slate-50 dark:bg-[#2C2C2E] rounded-2xl px-5 py-4 text-xs font-bold cursor-pointer hover:bg-slate-100 dark:hover:bg-[#3A3A3C] transition-all border-2 border-dashed border-slate-200 dark:border-[#3A3A3C]"
+                      >
+                        <ImageIcon className="w-4 h-4 text-slate-400" /> {form.imagens.length > 0 ? `${form.imagens.length} Imagens` : "Adicionar Imagem"}
+                      </label>
+                    </div>
+                  </div>
+                </div>
+
                 <div className="space-y-2">
                   <label className="text-[10px] font-black uppercase tracking-widest text-slate-400">Tema Proposto</label>
                   <textarea
@@ -535,7 +665,25 @@ export default function RedacaoPage() {
                     className="w-full bg-slate-50 dark:bg-[#2C2C2E] rounded-2xl px-5 py-4 text-sm font-medium resize-none outline-none focus:ring-2 focus:ring-indigo-500/30 transition-all"
                   />
                 </div>
-                <div className="flex gap-3 pt-2">
+
+                {form.imagens.length > 0 && (
+                  <div className="grid grid-cols-4 gap-2 mt-2 max-h-32 overflow-y-auto no-scrollbar p-1">
+                    {form.imagens.map((img, idx) => (
+                      <div key={idx} className="relative group aspect-square">
+                        <img src={img} alt="Preview" className="w-full h-full object-cover rounded-xl border border-indigo-500/20" />
+                        <button 
+                          type="button"
+                          onClick={() => removeImage(idx)}
+                          className="absolute -top-1 -right-1 p-1 bg-rose-500 text-white rounded-full transition-opacity opacity-0 group-hover:opacity-100"
+                        >
+                          <X className="w-2 h-2" />
+                        </button>
+                      </div>
+                    ))}
+                  </div>
+                )}
+
+                <div className="flex gap-3 pt-4">
                   <button
                     onClick={() => setIsModalOpen(false)}
                     className="flex-1 py-4 bg-slate-100 dark:bg-[#2C2C2E] text-slate-500 font-bold rounded-2xl hover:bg-slate-200 transition-all"
@@ -543,11 +691,11 @@ export default function RedacaoPage() {
                     Cancelar
                   </button>
                   <button
-                    onClick={addRedacao}
+                    onClick={saveRedacao}
                     disabled={!form.titulo.trim()}
                     className="flex-1 py-4 bg-indigo-600 hover:bg-indigo-700 disabled:opacity-50 text-white font-black rounded-2xl shadow-lg shadow-indigo-500/20 active:scale-95 transition-all"
                   >
-                    Criar
+                    {editingId ? "Salvar" : "Criar"}
                   </button>
                 </div>
               </div>

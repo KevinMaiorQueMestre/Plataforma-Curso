@@ -5,7 +5,8 @@ import { format, differenceInDays } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { 
   BookOpen, Target, Plus, X, BarChart2, ChevronDown, Clock, Play, Pause, RotateCcw, 
-  Filter, SortAsc, Users, Calendar, Book, PenTool, Layers, CheckSquare 
+  Filter, SortAsc, Users, Calendar, Book, PenTool, Layers, CheckSquare,
+  ArrowUp, ArrowDown, ArrowUpDown, Maximize2, Minimize2
 } from "lucide-react";
 import { toast } from "sonner";
 import { motion, AnimatePresence } from "framer-motion";
@@ -83,9 +84,15 @@ export default function HomeEstudosPage() {
   const [seconds, setSeconds] = useState(0);
   const [isRunning, setIsRunning] = useState(false);
 
-  // Filters
+  // Filtro de disciplina (coluna Disciplina)
   const [filterDisciplina, setFilterDisciplina] = useState("all");
-  const [sortBy, setSortBy] = useState("data-desc");
+
+  // Ordenação exclusiva — só uma coluna ordena por vez
+  const [sortKey, setSortKey] = useState<'dataIso' | 'performance'>('dataIso');
+  const [sortDir, setSortDir] = useState<'asc' | 'desc'>('desc');
+
+  // Modo Foco (Tela Cheia)
+  const [isFocusMode, setIsFocusMode] = useState(false);
 
   // Form
   const [form, setForm] = useState({
@@ -176,14 +183,37 @@ export default function HomeEstudosPage() {
     setForm({ data: format(new Date(), 'yyyy-MM-dd'), disciplinaId: "", conteudoId: "", questoesFeitas: "", acertos: "", tempoH: "", tempoM: "", tipoEstudo: "teorico" });
   };
 
-  // Filter/Sort
+  // Ordenação — alterna a coluna ativa, se clicar na mesma coluna inverte a direção
+  const toggleSort = (key: 'dataIso' | 'performance') => {
+    if (sortKey === key) {
+      setSortDir(prev => prev === 'desc' ? 'asc' : 'desc');
+    } else {
+      setSortKey(key);
+      setSortDir('desc'); // padrão ao trocar de coluna
+    }
+  };
+
+  // Ícone de ordenação para o header
+  const SortIcon = ({ column }: { column: 'dataIso' | 'performance' }) => {
+    if (sortKey !== column) return <ArrowUpDown className="w-3.5 h-3.5 text-slate-300 dark:text-slate-600" />;
+    return sortDir === 'desc'
+      ? <ArrowDown className="w-3.5 h-3.5 text-indigo-500" />
+      : <ArrowUp className="w-3.5 h-3.5 text-indigo-500" />;
+  };
+
   const filtered = estudos
     .filter(e => filterDisciplina === "all" || e.disciplinaId === filterDisciplina)
     .sort((a, b) => {
-      if (sortBy === "data-desc") return new Date(b.dataIso).getTime() - new Date(a.dataIso).getTime();
+      const dir = sortDir === 'desc' ? -1 : 1;
+
+      if (sortKey === 'dataIso') {
+        return (new Date(a.dataIso).getTime() - new Date(b.dataIso).getTime()) * dir;
+      }
+      
+      // performance
       const pA = a.questoesFeitas > 0 ? a.acertos / a.questoesFeitas : 0;
       const pB = b.questoesFeitas > 0 ? b.acertos / b.questoesFeitas : 0;
-      return sortBy === "perf-desc" ? pB - pA : 0;
+      return (pA - pB) * dir;
     });
 
   const totalQ = estudos.reduce((a, b) => a + (b.questoesFeitas || 0), 0);
@@ -249,32 +279,65 @@ export default function HomeEstudosPage() {
                 >
                   <Plus className="w-4 h-4" /> Registrar Manual
                 </button>
+
+                <div className="w-px h-10 bg-slate-700 mx-1"></div>
+
+                <button 
+                  onClick={() => setIsFocusMode(true)}
+                  className="w-14 h-14 bg-slate-800 text-slate-400 hover:text-white rounded-2xl flex items-center justify-center transition-all active:scale-95 border border-slate-700"
+                  title="Modo Foco"
+                >
+                  <Maximize2 className="w-5 h-5" />
+                </button>
              </div>
           </div>
 
           {/* HISTORICO */}
           <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 border border-slate-100 dark:border-slate-800 shadow-sm">
-            <div className="flex flex-col md:flex-row justify-between mb-8 gap-4">
-               <h2 className="text-xl font-black text-slate-800 dark:text-white">Meu Progresso</h2>
-               <div className="flex gap-2">
-                  <select value={filterDisciplina} onChange={e => setFilterDisciplina(e.target.value)} className="bg-slate-50 dark:bg-slate-800 border-2 border-slate-100 dark:border-slate-700 rounded-xl px-4 py-2 text-xs font-black">
-                     <option value="all">Todas Disciplinas</option>
-                     {MOCK_DISCIPLINAS.map(d => <option key={d.id} value={d.id}>{d.nome}</option>)}
-                  </select>
-                  <select value={sortBy} onChange={e => setSortBy(e.target.value)} className="bg-slate-50 dark:bg-slate-800 border-2 border-slate-100 dark:border-slate-700 rounded-xl px-4 py-2 text-xs font-black">
-                     <option value="data-desc">Mais Recentes</option>
-                     <option value="perf-desc">Melhor Performance</option>
-                  </select>
-               </div>
-            </div>
+             <div className="flex flex-col md:flex-row justify-between mb-8 gap-4">
+                <h2 className="text-xl font-black text-slate-800 dark:text-white">Meu Progresso</h2>
+                <div className="text-xs text-slate-400 font-bold flex items-center gap-2">
+                  {filtered.length} sessões
+                </div>
+             </div>
 
             <div className="overflow-x-auto">
               <table className="w-full text-left">
                 <thead>
-                  <tr className="border-b-2 border-slate-50 dark:border-slate-800">
-                    <th className="pb-4 text-[10px] font-black text-slate-400 uppercase tracking-widest px-4">Data / Tipo</th>
-                    <th className="pb-4 text-[10px] font-black text-slate-400 uppercase tracking-widest px-4">Disciplina</th>
-                    <th className="pb-4 text-[10px] font-black text-slate-400 uppercase tracking-widest px-4 text-center">Performance</th>
+                  <tr className="border-b-2 border-slate-100 dark:border-slate-800">
+                    <th className="pb-4 px-4">
+                      <button 
+                        onClick={() => toggleSort('dataIso')}
+                        className={`flex items-center gap-2 text-[10px] font-black uppercase tracking-widest transition-colors ${sortKey === 'dataIso' ? 'text-indigo-500' : 'text-slate-400 hover:text-slate-600 dark:hover:text-slate-300'}`}
+                      >
+                        Data
+                        <SortIcon column="dataIso" />
+                      </button>
+                    </th>
+                    <th className="pb-4 px-4">
+                      <div className="flex flex-col gap-2">
+                        <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest flex items-center gap-1.5">
+                          <Filter className="w-3 h-3" /> Disciplina
+                        </span>
+                        <select 
+                          value={filterDisciplina} 
+                          onChange={e => setFilterDisciplina(e.target.value)}
+                          className="w-full max-w-[180px] bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg text-[10px] font-bold py-1.5 px-2 outline-none cursor-pointer"
+                        >
+                          <option value="all">Todas</option>
+                          {MOCK_DISCIPLINAS.map(d => <option key={d.id} value={d.id}>{d.nome}</option>)}
+                        </select>
+                      </div>
+                    </th>
+                    <th className="pb-4 px-4 text-center">
+                      <button 
+                        onClick={() => toggleSort('performance')}
+                        className={`flex items-center justify-center gap-2 text-[10px] font-black uppercase tracking-widest transition-colors w-full ${sortKey === 'performance' ? 'text-indigo-500' : 'text-slate-400 hover:text-slate-600 dark:hover:text-slate-300'}`}
+                      >
+                        Performance
+                        <SortIcon column="performance" />
+                      </button>
+                    </th>
                   </tr>
                 </thead>
                 <tbody>
@@ -357,6 +420,72 @@ export default function HomeEstudosPage() {
                 </form>
              </motion.div>
           </div>
+        )}
+      </AnimatePresence>
+
+      {/* OVERLAY MODO FOCO */}
+      <AnimatePresence>
+        {isFocusMode && (
+          <motion.div 
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[100] bg-slate-950 flex flex-col items-center justify-center p-10 text-white overflow-hidden"
+          >
+            <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-indigo-500/10 rounded-full blur-[120px] -mr-40 -mt-40 z-0"></div>
+            <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-indigo-500/5 rounded-full blur-[120px] -ml-40 -mb-40 z-0"></div>
+
+            {/* Header Overlay */}
+            <div className="absolute top-10 left-10 right-10 flex justify-between items-center z-10">
+              <div className="flex items-center gap-3">
+                <div className="w-12 h-12 bg-indigo-500 rounded-2xl flex items-center justify-center">
+                  <Clock className="w-6 h-6 text-white" />
+                </div>
+                <div>
+                  <h3 className="text-xl font-black tracking-tighter">Modo Foco Ativo</h3>
+                  <p className="text-xs text-slate-400 font-bold uppercase tracking-widest">Estudo em andamento</p>
+                </div>
+              </div>
+
+              <button 
+                onClick={() => setIsFocusMode(false)}
+                className="w-14 h-14 bg-white/5 hover:bg-white/10 text-white rounded-2xl flex items-center justify-center transition-all border border-white/10"
+              >
+                <Minimize2 className="w-6 h-6" />
+              </button>
+            </div>
+
+            {/* Timer Central */}
+            <motion.div 
+              initial={{ scale: 0.8, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              transition={{ delay: 0.2 }}
+              className="relative z-10 text-center"
+            >
+              <div className="text-[12rem] md:text-[18rem] font-black font-mono tracking-tighter tabular-nums leading-none mb-10 text-transparent bg-clip-text bg-gradient-to-b from-white to-white/40 drop-shadow-2xl">
+                {formatTime(seconds)}
+              </div>
+
+              <div className="flex items-center justify-center gap-8">
+                <button 
+                  onClick={() => setIsRunning(!isRunning)}
+                  className={`w-28 h-28 rounded-full flex items-center justify-center transition-all active:scale-90 shadow-2xl ${isRunning ? 'bg-amber-500' : 'bg-indigo-600'}`}
+                >
+                  {isRunning ? <Pause className="w-10 h-10 fill-current" /> : <Play className="w-10 h-10 fill-current ml-2" />}
+                </button>
+                <button 
+                  onClick={handleFinish}
+                  className="w-28 h-28 bg-slate-800 text-white rounded-full flex items-center justify-center transition-all active:scale-90 shadow-xl border border-white/10"
+                >
+                  <CheckSquare className="w-10 h-10" />
+                </button>
+              </div>
+            </motion.div>
+
+            <div className="absolute bottom-10 left-0 right-0 text-center z-10">
+              <p className="text-slate-500 font-black uppercase tracking-[0.3em] text-xs">Mantenha a constância e o foco total.</p>
+            </div>
+          </motion.div>
         )}
       </AnimatePresence>
     </div>

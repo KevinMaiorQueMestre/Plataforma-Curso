@@ -5,7 +5,8 @@ import { MOCK_SIMULADOS } from "@/lib/kevquestLogic";
 import { format } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { toast } from "sonner";
-import { Activity, Book, Globe2, Leaf, Calculator, PenTool, Send, Clock, Play, Pause, RotateCcw, PieChart } from "lucide-react";
+import { motion, AnimatePresence } from "framer-motion";
+import { Activity, Book, Globe2, Leaf, Calculator, PenTool, Send, Clock, Play, Pause, RotateCcw, PieChart, Maximize2, Minimize2 } from "lucide-react";
 import { 
   BarChart, 
   Bar, 
@@ -41,8 +42,12 @@ export default function SimuladosPage() {
     naturezas: "",
     matematica: "",
     redacao: "",
-    tempoH: "",
-    tempoM: ""
+    tempo1H: "",
+    tempo1M: "",
+    tempo2H: "",
+    tempo2M: "",
+    tempoRedH: "",
+    tempoRedM: ""
   });
 
   // Timer State
@@ -50,6 +55,7 @@ export default function SimuladosPage() {
   const [timeLeft, setTimeLeft] = useState(0); 
   const [isTimerRunning, setIsTimerRunning] = useState(false);
   const [showExactTime, setShowExactTime] = useState(false);
+  const [isFocusMode, setIsFocusMode] = useState(false);
 
   useEffect(() => {
     let interval: NodeJS.Timeout;
@@ -92,7 +98,7 @@ export default function SimuladosPage() {
   };
 
   const handleSubmit = () => {
-    if (!form.nomeProva || !form.linguagens || !form.humanas || !form.naturezas || !form.matematica || !form.redacao || (!form.tempoH && !form.tempoM)) {
+    if (!form.nomeProva || !form.linguagens || !form.humanas || !form.naturezas || !form.matematica || !form.redacao || (!form.tempo1H && !form.tempo1M && !form.tempo2H && !form.tempo2M)) {
       toast.error("Preencha o nome da prova e as notas de todas áreas (inclusive o tempo gasto)!");
       return;
     }
@@ -103,10 +109,11 @@ export default function SimuladosPage() {
     const nMat = parseInt(form.matematica);
     const nRed = parseInt(form.redacao);
     
-    // Converte H:M para minutos totais para o gráfico
-    const h = parseInt(form.tempoH) || 0;
-    const m = parseInt(form.tempoM) || 0;
-    const nTemp = h * 60 + m;
+    // Tempos individuais
+    const t1 = (parseInt(form.tempo1H) || 0) * 60 + (parseInt(form.tempo1M) || 0);
+    const t2 = (parseInt(form.tempo2H) || 0) * 60 + (parseInt(form.tempo2M) || 0);
+    const tRed = (parseInt(form.tempoRedH) || 0) * 60 + (parseInt(form.tempoRedM) || 0);
+    const nTemp = t1 + t2 + tRed;
 
     if (nLing > 45 || nHum > 45 || nNat > 45 || nMat > 45 || nRed > 1000) {
       toast.error("Número de acertos ultrapassa o limite permitido do ENEM.");
@@ -122,6 +129,9 @@ export default function SimuladosPage() {
       naturezas: nNat,
       matematica: nMat,
       redacao: nRed,
+      tempo1: t1,
+      tempo2: t2,
+      tempoRedacao: tRed,
       tempoGasto: nTemp
     };
 
@@ -137,18 +147,37 @@ export default function SimuladosPage() {
       naturezas: "",
       matematica: "",
       redacao: "",
-      tempoH: "",
-      tempoM: ""
+      tempo1H: "",
+      tempo1M: "",
+      tempo2H: "",
+      tempo2M: "",
+      tempoRedH: "",
+      tempoRedM: ""
     });
   };
 
-  const getChartData = (domain: string) => {
-    return simulados.map((sim, index) => {
+  const getChartDataDay1 = () => {
+    return simulados.map((sim) => {
       const dateStr = sim.dataIso ? format(new Date(sim.dataIso), "dd/MM", { locale: ptBR }) : "";
       return {
         name: `${sim.nomeProva} (${dateStr})`,
-        pontos: sim[domain] || 0,
-        data: dateStr
+        linguagens: Number(sim.linguagens) || 0,
+        humanas: Number(sim.humanas) || 0,
+        redacao: Number(sim.redacao) || 0,
+        tempo1: Number(sim.tempo1) || 0,
+        tempoRedacao: Number(sim.tempoRedacao) || 0,
+      };
+    });
+  };
+
+  const getChartDataDay2 = () => {
+    return simulados.map((sim) => {
+      const dateStr = sim.dataIso ? format(new Date(sim.dataIso), "dd/MM", { locale: ptBR }) : "";
+      return {
+        name: `${sim.nomeProva} (${dateStr})`,
+        matematica: Number(sim.matematica) || 0,
+        naturezas: Number(sim.naturezas) || 0,
+        tempo2: Number(sim.tempo2) || 0,
       };
     });
   };
@@ -161,7 +190,8 @@ export default function SimuladosPage() {
         name: sim.nomeProva,
         display: `${sim.nomeProva} (${dateStr})`,
         acertos: total,
-        tempo: Number(sim.tempoGasto) || 0
+        tempo: Number(sim.tempoGasto) || 0,
+        redacao: Number(sim.redacao) || 0
       };
     });
   };
@@ -224,6 +254,13 @@ export default function SimuladosPage() {
               <button onClick={resetTimer} className="w-20 h-20 flex items-center justify-center rounded-3xl bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition-all shadow-xl active:scale-90 border border-slate-700">
                 <RotateCcw className="w-8 h-8" />
               </button>
+              <button 
+                onClick={() => setIsFocusMode(true)}
+                className="w-20 h-20 flex items-center justify-center rounded-3xl bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-white transition-all shadow-xl active:scale-90 border border-slate-700"
+                title="Tela Cheia"
+              >
+                <Maximize2 className="w-8 h-8" />
+              </button>
            </div>
         </div>
       </section>
@@ -253,8 +290,10 @@ export default function SimuladosPage() {
             </button>
           </div>
 
-          <div className="grid grid-cols-2 lg:grid-cols-5 gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
             
+            {/* --- LINHA 1 --- */}
+
             {/* LINGUAGENS */}
             <div className="bg-indigo-50 dark:bg-indigo-900/30 border border-indigo-100 dark:border-indigo-900/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-indigo-400">
               <div className="flex items-center gap-2 mb-3">
@@ -279,11 +318,42 @@ export default function SimuladosPage() {
               </div>
             </div>
 
+            {/* TEMPO 1º DIA */}
+            <div className="bg-slate-50 dark:bg-slate-800/30 border border-slate-200 dark:border-slate-700/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-slate-400">
+              <div className="flex items-center gap-2 mb-3">
+                <Clock className="w-4 h-4 text-slate-600 dark:text-slate-400" />
+                <span className="font-bold text-slate-800 dark:text-slate-300 text-[13px] leading-tight flex-1">Tempo 1º Dia</span>
+              </div>
+              <div className="flex items-center justify-between gap-1">
+                <div className="flex flex-col items-center flex-1">
+                  <input type="number" min="0" placeholder="0" value={form.tempo1H} onChange={e => setForm({...form, tempo1H: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-slate-900 dark:text-slate-100 font-black text-xl py-2 rounded-lg text-center shadow-sm focus:outline-none" />
+                </div>
+                <span className="font-bold text-slate-400 pb-1">:</span>
+                <div className="flex flex-col items-center flex-1">
+                  <input type="number" min="0" max="59" placeholder="00" value={form.tempo1M} onChange={e => setForm({...form, tempo1M: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-slate-900 dark:text-slate-100 font-black text-xl py-2 rounded-lg text-center shadow-sm focus:outline-none" />
+                </div>
+              </div>
+            </div>
+
+            {/* REDAÇÃO NOTA */}
+            <div className="bg-rose-50 dark:bg-rose-900/30 border border-rose-100 dark:border-rose-900/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-rose-400">
+              <div className="flex items-center gap-2 mb-3">
+                <PenTool className="w-4 h-4 text-rose-600 dark:text-rose-400" />
+                <span className="font-bold text-rose-900 dark:text-rose-300 text-[13px]">Nota Redação</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <input type="number" min="0" max="1000" step="20" value={form.redacao} onChange={e => setForm({...form, redacao: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-rose-900 dark:text-rose-300 font-black text-2xl px-3 py-2 rounded-lg text-center shadow-sm placeholder-rose-200 dark:placeholder-rose-800 focus:outline-none" placeholder="0" />
+                <span className="text-[10px] font-bold text-rose-300 dark:text-rose-500">/ 1000</span>
+              </div>
+            </div>
+
+            {/* --- LINHA 2 --- */}
+
             {/* NATUREZAS */}
             <div className="bg-emerald-50 dark:bg-emerald-900/30 border border-emerald-100 dark:border-emerald-900/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-emerald-400">
               <div className="flex items-center gap-2 mb-3">
                 <Leaf className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
-                <span className="font-bold text-emerald-900 dark:text-emerald-300 text-sm">Naturezas</span>
+                <span className="font-bold text-emerald-900 dark:text-emerald-300 text-[13px]">Naturezas</span>
               </div>
               <div className="flex items-center gap-2">
                 <input type="number" min="0" max="45" value={form.naturezas} onChange={e => setForm({...form, naturezas: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-emerald-900 dark:text-emerald-300 font-black text-2xl px-3 py-2 rounded-lg text-center shadow-sm placeholder-emerald-200 dark:placeholder-emerald-800 focus:outline-none" placeholder="00" />
@@ -295,7 +365,7 @@ export default function SimuladosPage() {
             <div className="bg-blue-50 dark:bg-blue-900/30 border border-blue-100 dark:border-blue-900/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-blue-400">
               <div className="flex items-center gap-2 mb-3">
                 <Calculator className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                <span className="font-bold text-blue-900 dark:text-blue-300 text-sm">Matemática</span>
+                <span className="font-bold text-blue-900 dark:text-blue-300 text-[13px]">Matemática</span>
               </div>
               <div className="flex items-center gap-2">
                 <input type="number" min="0" max="45" value={form.matematica} onChange={e => setForm({...form, matematica: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-blue-900 dark:text-blue-300 font-black text-2xl px-3 py-2 rounded-lg text-center shadow-sm placeholder-blue-200 dark:placeholder-blue-800 focus:outline-none" placeholder="00" />
@@ -303,33 +373,36 @@ export default function SimuladosPage() {
               </div>
             </div>
 
-            {/* REDAÇÃO */}
-            <div className="bg-rose-50 dark:bg-rose-900/30 border border-rose-100 dark:border-rose-900/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-rose-400 lg:col-span-1">
-              <div className="flex items-center gap-2 mb-3">
-                <PenTool className="w-4 h-4 text-rose-600 dark:text-rose-400" />
-                <span className="font-bold text-rose-900 dark:text-rose-300 text-sm">Redação</span>
-              </div>
-              <div className="flex items-center gap-2">
-                <input type="number" min="0" max="1000" step="20" value={form.redacao} onChange={e => setForm({...form, redacao: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-rose-900 dark:text-rose-300 font-black text-2xl px-3 py-2 rounded-lg text-center shadow-sm placeholder-rose-200 dark:placeholder-rose-800 focus:outline-none" placeholder="0" />
-                <span className="text-xs font-bold text-rose-300 dark:text-rose-500">/ 1000</span>
-              </div>
-            </div>
-
-            {/* TEMPO GASTO */}
-            <div className="bg-slate-50 dark:bg-slate-800/30 border border-slate-200 dark:border-slate-700/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-slate-400 col-span-2 lg:col-span-1">
+            {/* TEMPO 2º DIA */}
+            <div className="bg-slate-50 dark:bg-slate-800/30 border border-slate-200 dark:border-slate-700/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-slate-400">
               <div className="flex items-center gap-2 mb-3">
                 <Clock className="w-4 h-4 text-slate-600 dark:text-slate-400" />
-                <span className="font-bold text-slate-800 dark:text-slate-300 text-sm">Tempo Total Realizado</span>
+                <span className="font-bold text-slate-800 dark:text-slate-300 text-[13px] leading-tight flex-1">Tempo 2º Dia</span>
               </div>
               <div className="flex items-center justify-between gap-1">
                 <div className="flex flex-col items-center flex-1">
-                  <input type="number" min="0" placeholder="00" value={form.tempoH} onChange={e => setForm({...form, tempoH: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-slate-900 dark:text-slate-100 font-black text-xl py-2 rounded-lg text-center shadow-sm focus:outline-none" />
-                  <span className="text-[9px] uppercase font-bold text-slate-400 mt-1">H</span>
+                  <input type="number" min="0" placeholder="0" value={form.tempo2H} onChange={e => setForm({...form, tempo2H: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-slate-900 dark:text-slate-100 font-black text-xl py-2 rounded-lg text-center shadow-sm focus:outline-none" />
                 </div>
-                <span className="font-bold text-slate-400 pb-5">:</span>
+                <span className="font-bold text-slate-400 pb-1">:</span>
                 <div className="flex flex-col items-center flex-1">
-                  <input type="number" min="0" max="59" placeholder="00" value={form.tempoM} onChange={e => setForm({...form, tempoM: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-slate-900 dark:text-slate-100 font-black text-xl py-2 rounded-lg text-center shadow-sm focus:outline-none" />
-                  <span className="text-[9px] uppercase font-bold text-slate-400 mt-1">M</span>
+                  <input type="number" min="0" max="59" placeholder="00" value={form.tempo2M} onChange={e => setForm({...form, tempo2M: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-slate-900 dark:text-slate-100 font-black text-xl py-2 rounded-lg text-center shadow-sm focus:outline-none" />
+                </div>
+              </div>
+            </div>
+
+            {/* TEMPO REDAÇÃO */}
+            <div className="bg-slate-50 dark:bg-slate-800/30 border border-slate-200 dark:border-slate-700/50 rounded-2xl p-4 transition-all focus-within:ring-2 focus-within:ring-slate-400">
+              <div className="flex items-center gap-2 mb-3">
+                <Clock className="w-4 h-4 text-slate-600 dark:text-slate-400" />
+                <span className="font-bold text-slate-800 dark:text-slate-300 text-[13px] leading-tight flex-1">Tempo Redação</span>
+              </div>
+              <div className="flex items-center justify-between gap-1">
+                <div className="flex flex-col items-center flex-1">
+                  <input type="number" min="0" placeholder="0" value={form.tempoRedH} onChange={e => setForm({...form, tempoRedH: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-slate-900 dark:text-slate-100 font-black text-xl py-2 rounded-lg text-center shadow-sm focus:outline-none" />
+                </div>
+                <span className="font-bold text-slate-400 pb-1">:</span>
+                <div className="flex flex-col items-center flex-1">
+                  <input type="number" min="0" max="59" placeholder="00" value={form.tempoRedM} onChange={e => setForm({...form, tempoRedM: e.target.value})} className="w-full bg-white dark:bg-[#1C1C1E] text-slate-900 dark:text-slate-100 font-black text-xl py-2 rounded-lg text-center shadow-sm focus:outline-none" />
                 </div>
               </div>
             </div>
@@ -361,108 +434,178 @@ export default function SimuladosPage() {
              </div>
           </section>
 
-          <section className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-          
-          {/* Gráfico LINGUAGENS */}
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-6 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
-            <h3 className="text-indigo-900 font-bold mb-4 flex items-center gap-2"><Book className="w-4 h-4 text-indigo-500" /> Evolução em Linguagens</h3>
-            <div className="h-48 w-full">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={getChartData('linguagens')} margin={{ top: 5, right: 0, left: -20, bottom: 0 }}>
-                  <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" />
-                  <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} dy={10} />
-                  <YAxis domain={[0, 45]} axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} />
-                  <Tooltip cursor={{ fill: '#f8fafc' }} contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }} />
-                  <Bar dataKey="pontos" fill="#6366f1" radius={[4, 4, 0, 0]} barSize={40} name="Acertos" />
-                </BarChart>
-              </ResponsiveContainer>
+          <section className="grid grid-cols-1 gap-8">
+            
+            {/* Gráfico INTEGRADO 1º DIA + REDAÇÃO */}
+            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
+              <div className="flex items-center justify-between mb-8">
+                <div>
+                  <h3 className="text-xl font-black text-slate-800 dark:text-white flex items-center gap-3">
+                    <PenTool className="w-6 h-6 text-indigo-500" />
+                    Análise Integrada: 1º Dia + Redação
+                  </h3>
+                  <p className="text-xs text-slate-400 font-bold uppercase tracking-widest mt-1">Acertos, Nota e Gestão de Tempo</p>
+                </div>
+              </div>
+              <div className="h-[400px] w-full">
+                <ResponsiveContainer width="100%" height="100%">
+                  <ComposedChart data={getChartDataDay1()} margin={{ top: 20, right: 30, left: 0, bottom: 20 }}>
+                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" />
+                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b' }} dy={10} />
+                    <YAxis yAxisId="left" domain={[0, 45]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b' }} label={{ value: 'Acertos', angle: -90, position: 'insideLeft', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
+                    <YAxis yAxisId="right" orientation="right" domain={[0, 1000]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b' }} label={{ value: 'Nota/Tempo', angle: 90, position: 'insideRight', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
+                    <Tooltip contentStyle={{ borderRadius: '16px', border: 'none', boxShadow: '0 10px 15px -3px rgb(0 0 0 / 0.1)' }} />
+                    <Legend verticalAlign="top" height={36}/>
+                    <Bar yAxisId="left" dataKey="linguagens" fill="#6366f1" radius={[4, 4, 0, 0]} barSize={25} name="Acertos Ling." />
+                    <Bar yAxisId="left" dataKey="humanas" fill="#f59e0b" radius={[4, 4, 0, 0]} barSize={25} name="Acertos Hum." />
+                    <Bar yAxisId="right" dataKey="redacao" fill="#f43f5e" radius={[4, 4, 0, 0]} barSize={35} name="Nota Redação" />
+                    <Line yAxisId="right" type="monotone" dataKey="tempo1" stroke="#64748b" strokeWidth={3} dot={{ r: 6 }} name="Minutos (D1)" />
+                    <Line yAxisId="right" type="monotone" dataKey="tempoRedacao" stroke="#2dd4bf" strokeWidth={3} dot={{ r: 6 }} name="Minutos (Red)" />
+                  </ComposedChart>
+                </ResponsiveContainer>
+              </div>
             </div>
-          </div>
 
-          {/* Gráfico HUMANAS */}
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-6 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
-            <h3 className="text-amber-900 font-bold mb-4 flex items-center gap-2"><Globe2 className="w-4 h-4 text-amber-500" /> Evolução em Humanas</h3>
-            <div className="h-48 w-full">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={getChartData('humanas')} margin={{ top: 5, right: 0, left: -20, bottom: 0 }}>
-                  <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" />
-                  <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} dy={10} />
-                  <YAxis domain={[0, 45]} axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} />
-                  <Tooltip cursor={{ fill: '#f8fafc' }} contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }} />
-                  <Bar dataKey="pontos" fill="#f59e0b" radius={[4, 4, 0, 0]} barSize={40} name="Acertos" />
-                </BarChart>
-              </ResponsiveContainer>
+            {/* Gráfico INTEGRADO 2º DIA */}
+            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
+              <div className="flex items-center justify-between mb-8">
+                <div>
+                  <h3 className="text-xl font-black text-slate-800 dark:text-white flex items-center gap-3">
+                    <Activity className="w-6 h-6 text-blue-500" />
+                    Análise Integrada: 2º Dia
+                  </h3>
+                  <p className="text-xs text-slate-400 font-bold uppercase tracking-widest mt-1">Ciências da Natureza, Matemática e Tempo</p>
+                </div>
+              </div>
+              <div className="h-[400px] w-full">
+                <ResponsiveContainer width="100%" height="100%">
+                  <ComposedChart data={getChartDataDay2()} margin={{ top: 20, right: 30, left: 0, bottom: 20 }}>
+                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" />
+                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b' }} dy={10} />
+                    <YAxis yAxisId="left" domain={[0, 45]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b' }} label={{ value: 'Acertos', angle: -90, position: 'insideLeft', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
+                    <YAxis yAxisId="right" orientation="right" domain={[0, 400]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b' }} label={{ value: 'Tempo (Min)', angle: 90, position: 'insideRight', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
+                    <Tooltip contentStyle={{ borderRadius: '16px', border: 'none', boxShadow: '0 10px 15px -3px rgb(0 0 0 / 0.1)' }} />
+                    <Legend verticalAlign="top" height={36}/>
+                    <Bar yAxisId="left" dataKey="matematica" fill="#3b82f6" radius={[4, 4, 0, 0]} barSize={35} name="Acertos Mat." />
+                    <Bar yAxisId="left" dataKey="naturezas" fill="#10b981" radius={[4, 4, 0, 0]} barSize={35} name="Acertos Nat." />
+                    <Line yAxisId="right" type="monotone" dataKey="tempo2" stroke="#64748b" strokeWidth={3} dot={{ r: 6 }} name="Minutos (D2)" />
+                  </ComposedChart>
+                </ResponsiveContainer>
+              </div>
             </div>
-          </div>
 
-          {/* Gráfico NATUREZAS */}
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-6 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
-            <h3 className="text-emerald-900 font-bold mb-4 flex items-center gap-2"><Leaf className="w-4 h-4 text-emerald-500" /> Evolução em Naturezas</h3>
-            <div className="h-48 w-full">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={getChartData('naturezas')} margin={{ top: 5, right: 0, left: -20, bottom: 0 }}>
-                  <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" />
-                  <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} dy={10} />
-                  <YAxis domain={[0, 45]} axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} />
-                  <Tooltip cursor={{ fill: '#f8fafc' }} contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }} />
-                  <Bar dataKey="pontos" fill="#10b981" radius={[4, 4, 0, 0]} barSize={40} name="Acertos" />
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-          </div>
-
-          {/* Gráfico MATEMÁTICA */}
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-6 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
-            <h3 className="text-blue-900 font-bold mb-4 flex items-center gap-2"><Calculator className="w-4 h-4 text-blue-500" /> Evolução em Matemática</h3>
-            <div className="h-48 w-full">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={getChartData('matematica')} margin={{ top: 5, right: 0, left: -20, bottom: 0 }}>
-                  <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" />
-                  <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} dy={10} />
-                  <YAxis domain={[0, 45]} axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} />
-                  <Tooltip cursor={{ fill: '#f8fafc' }} contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }} />
-                  <Bar dataKey="pontos" fill="#3b82f6" radius={[4, 4, 0, 0]} barSize={40} name="Acertos" />
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-          </div>
-
-          {/* Gráfico REDAÇÃO */}
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-6 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
-            <h3 className="text-rose-900 font-bold mb-4 flex items-center gap-2"><PenTool className="w-4 h-4 text-rose-500" /> Teto de Pontos - Redação</h3>
-            <div className="h-56 w-full">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={getChartData('redacao')} margin={{ top: 5, right: 0, left: -20, bottom: 0 }}>
-                  <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" />
-                  <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} dy={10} />
-                  <YAxis domain={[0, 1000]} axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} />
-                  <Tooltip cursor={{ fill: '#f8fafc' }} contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }} />
-                  <Bar dataKey="pontos" fill="#f43f5e" radius={[6, 6, 0, 0]} barSize={40} name="Pontuação" />
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-          </div>
-
-          {/* Gráfico TEMPO GASTO ISOLADO */}
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-6 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
-            <h3 className="text-slate-900 dark:text-slate-300 font-bold mb-4 flex items-center gap-2"><Clock className="w-4 h-4 text-slate-500" /> Histórico de Tempo (Minutos)</h3>
-            <div className="h-56 w-full">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={getChartData('tempoGasto')} margin={{ top: 5, right: 0, left: -20, bottom: 0 }}>
-                  <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" />
-                  <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} dy={10} />
-                  <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 10, fill: '#64748b' }} />
-                  <Tooltip cursor={{ fill: '#f8fafc' }} contentStyle={{ borderRadius: '12px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)' }} />
-                  <Bar dataKey="pontos" fill="#64748b" radius={[6, 6, 0, 0]} barSize={40} name="Minutos Gastos" />
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-          </div>
-
-        </section>
+          </section>
         </div>
       )}
 
+      <AnimatePresence>
+        {isFocusMode && (
+          <SimulatorOverlay 
+            getDisplayTime={getDisplayTime}
+            isTimerRunning={isTimerRunning}
+            pauseTimer={pauseTimer}
+            startTimer={startTimer}
+            resetTimer={resetTimer}
+            showExactTime={showExactTime}
+            setShowExactTime={setShowExactTime}
+            onClose={() => setIsFocusMode(false)}
+          />
+        )}
+      </AnimatePresence>
     </div>
+  );
+}
+
+// Sub-componente para o Overlay do Simulado (Modo Zen)
+function SimulatorOverlay({ 
+  getDisplayTime, 
+  isTimerRunning, 
+  pauseTimer, 
+  startTimer, 
+  resetTimer, 
+  showExactTime, 
+  setShowExactTime, 
+  onClose 
+}: any) {
+  return (
+    <motion.div 
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      className="fixed inset-0 z-[100] bg-slate-950 flex flex-col items-center justify-center p-10 text-white overflow-hidden"
+    >
+      <div className="absolute top-0 left-0 w-full h-1 bg-white/5 z-20">
+         <motion.div 
+           initial={{ width: "0%" }}
+           animate={{ width: "100%" }}
+           transition={{ duration: 1, ease: "linear" }}
+           className="h-full bg-indigo-500 shadow-[0_0_20px_rgba(99,102,241,0.5)]"
+         />
+      </div>
+
+      <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-indigo-500/10 rounded-full blur-[140px] -mr-40 -mt-40 z-0"></div>
+      
+      {/* Header Overlay */}
+      <div className="absolute top-10 left-10 right-10 flex justify-between items-center z-10">
+        <div className="flex items-center gap-4">
+          <div className="w-14 h-14 bg-indigo-600 rounded-2xl flex items-center justify-center shadow-lg shadow-indigo-500/20">
+            <Activity className="w-7 h-7 text-white" />
+          </div>
+          <div>
+            <h3 className="text-2xl font-black tracking-tighter">Modo Simulado ENEM</h3>
+            <p className="text-xs text-slate-400 font-bold uppercase tracking-[0.2em]">Foco Total • Ambiente Controlado</p>
+          </div>
+        </div>
+
+        <div className="flex items-center gap-3">
+          <button 
+            onClick={() => setShowExactTime(!showExactTime)}
+            className="px-6 py-4 bg-white/5 hover:bg-white/10 text-white rounded-2xl font-black text-[10px] uppercase tracking-widest transition-all border border-white/10"
+          >
+            {showExactTime ? "Esconder Frações" : "Ver Tempo Exato"}
+          </button>
+          <button 
+            onClick={onClose}
+            className="w-14 h-14 bg-white/5 hover:bg-white/10 text-white rounded-2xl flex items-center justify-center transition-all border border-white/10"
+          >
+            <Minimize2 className="w-6 h-6" />
+          </button>
+        </div>
+      </div>
+
+      {/* Timer Central */}
+      <motion.div 
+        initial={{ scale: 0.9, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        transition={{ type: "spring", stiffness: 100 }}
+        className="relative z-10 text-center"
+      >
+        <div className="text-[14rem] md:text-[22rem] font-black font-mono tracking-tighter tabular-nums leading-none mb-12 text-transparent bg-clip-text bg-gradient-to-b from-white via-white to-indigo-500/40 drop-shadow-[0_25px_25px_rgba(0,0,0,0.5)]">
+          {getDisplayTime()}
+        </div>
+
+        <div className="flex items-center justify-center gap-6">
+          <button 
+            onClick={isTimerRunning ? pauseTimer : startTimer}
+            className={`w-32 h-32 rounded-[2.5rem] flex items-center justify-center transition-all active:scale-90 shadow-2xl ${isTimerRunning ? 'bg-amber-500' : 'bg-indigo-600 hover:bg-indigo-500'}`}
+          >
+            {isTimerRunning ? <Pause className="w-12 h-12 fill-current" /> : <Play className="w-12 h-12 fill-current ml-2" />}
+          </button>
+          <button 
+            onClick={resetTimer}
+            className="w-32 h-32 bg-slate-800 hover:bg-slate-700 text-white rounded-[2.5rem] flex items-center justify-center transition-all active:scale-90 shadow-xl border border-white/10"
+          >
+            <RotateCcw className="w-10 h-10" />
+          </button>
+        </div>
+      </motion.div>
+
+      <div className="absolute bottom-12 left-0 right-0 text-center z-10">
+        <div className="inline-flex items-center gap-4 bg-white/5 backdrop-blur-md px-8 py-3 rounded-full border border-white/10">
+          <div className="w-2 h-2 bg-indigo-500 rounded-full animate-pulse"></div>
+          <p className="text-slate-400 font-bold uppercase tracking-[0.2em] text-[10px]">Simulando condições reais de prova</p>
+        </div>
+      </div>
+    </motion.div>
   );
 }
