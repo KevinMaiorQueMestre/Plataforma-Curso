@@ -51,7 +51,7 @@ export default function LoginPage() {
       >
         <Link href="/" className="flex flex-col items-center cursor-pointer mb-6 hover:opacity-80 transition-opacity">
           <h1 className="text-3xl font-serif text-teal-700 dark:text-teal-400 tracking-widest leading-none font-bold transition-colors">
-            SINAPSE
+            PLATAFORMA
           </h1>
           <p className="text-[10px] uppercase font-bold text-teal-500 tracking-[0.3em] mt-1">
             Mentoria
@@ -131,7 +131,7 @@ export default function LoginPage() {
               <input 
                 type="email" 
                 required
-                placeholder={isAdminMode ? "admin@sinapse.com" : "aluno@email.com"}
+                placeholder={isAdminMode ? "admin@plataforma.com" : "aluno@email.com"}
                 className={`w-full pl-10 pr-4 py-3 bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl text-slate-800 dark:text-slate-100 placeholder:text-slate-400 dark:placeholder:text-slate-500 dark:text-[#A1A1AA] focus:outline-none focus:ring-2 transition-all font-medium text-sm ${isAdminMode ? 'focus:ring-indigo-500/50 focus:border-indigo-500' : 'focus:ring-teal-500/50 focus:border-teal-500'}`}
               />
             </div>

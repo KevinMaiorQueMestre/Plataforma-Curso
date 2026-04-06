@@ -162,7 +162,6 @@ export default function HomeEstudosPage() {
       disciplinaNome: discName,
       conteudoId,
       conteudoNome: contName,
-      conteudoNome: contName,
       questoesFeitas: tipoEstudo === 'teorico' ? 0 : parseInt(questoesFeitas),
       acertos: tipoEstudo === 'teorico' ? 0 : parseInt(acertos),
       horasEstudo: (parseInt(tempoH) || 0) + (parseInt(tempoM) || 0) / 60,
@@ -204,10 +203,10 @@ export default function HomeEstudosPage() {
         <p className="text-slate-500 font-bold">Gerencie sua evolução diária.</p>
       </header>
 
-      <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
+      <div className="grid grid-cols-1 gap-8">
         
         {/* MAIN CONTENT */}
-        <div className="lg:col-span-3 space-y-6">
+        <div className="space-y-6">
           
           {/* TIMER BOX - COMPACT & UNIFIED */}
           <div className="bg-slate-900 rounded-[2.5rem] p-6 text-white border border-slate-800 shadow-2xl flex flex-col xl:flex-row items-center justify-between gap-6 overflow-hidden">
@@ -259,7 +258,7 @@ export default function HomeEstudosPage() {
                <h2 className="text-xl font-black text-slate-800 dark:text-white">Meu Progresso</h2>
                <div className="flex gap-2">
                   <select value={filterDisciplina} onChange={e => setFilterDisciplina(e.target.value)} className="bg-slate-50 dark:bg-slate-800 border-2 border-slate-100 dark:border-slate-700 rounded-xl px-4 py-2 text-xs font-black">
-                     <option value="all">Todas Materias</option>
+                     <option value="all">Todas Disciplinas</option>
                      {MOCK_DISCIPLINAS.map(d => <option key={d.id} value={d.id}>{d.nome}</option>)}
                   </select>
                   <select value={sortBy} onChange={e => setSortBy(e.target.value)} className="bg-slate-50 dark:bg-slate-800 border-2 border-slate-100 dark:border-slate-700 rounded-xl px-4 py-2 text-xs font-black">
@@ -304,27 +303,6 @@ export default function HomeEstudosPage() {
             </div>
           </div>
         </div>
-
-        {/* SIDEBAR */}
-        <aside className="space-y-6">
-           <div className="bg-indigo-600 rounded-[2.5rem] p-8 text-white shadow-xl">
-              <Calendar className="w-10 h-10 mb-4 opacity-50" />
-              <div className="text-5xl font-black tracking-tighter">{diasFaltam}</div>
-              <p className="text-xs font-black uppercase tracking-widest opacity-70">Dias para o ENEM</p>
-           </div>
-           
-           <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 border border-slate-100 dark:border-slate-800">
-              <div className="flex items-center gap-2 mb-4">
-                 <div className="w-3 h-3 bg-teal-500 rounded-full animate-pulse"></div>
-                 <h3 className="text-xs font-black uppercase text-slate-400">Hub Online</h3>
-              </div>
-              <div className="text-4xl font-black text-slate-800 dark:text-white">142</div>
-              <p className="text-xs font-black text-slate-400 uppercase">Estudando Agora</p>
-              <div className="flex -space-x-3 mt-6">
-                 {[1,2,3,4].map(i => <div key={i} className="w-10 h-10 rounded-full border-4 border-white dark:border-[#1C1C1E] bg-slate-200 bg-[url('https://api.dicebear.com/7.x/avataaars/svg?seed=${i}')] bg-cover"></div>)}
-              </div>
-           </div>
-        </aside>
       </div>
 
       {/* MODAL */}
@@ -345,8 +323,8 @@ export default function HomeEstudosPage() {
                       ))}
                    </div>
 
-                   <CustomDropdown value={form.disciplinaId} onChange={v => setForm({...form, disciplinaId: v, conteudoId: ""})} options={MOCK_DISCIPLINAS.map(d => ({value: d.id, label: d.nome}))} placeholder="Materia" className="p-4 border-2 border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" />
-                   <CustomDropdown disabled={!form.disciplinaId} value={form.conteudoId} onChange={v => setForm({...form, conteudoId: v})} options={form.disciplinaId ? (MOCK_CONTEUDOS[form.disciplinaId]?.map(c => ({value: c.id, label: c.nome})) || []) : []} placeholder="Assunto" className="p-4 border-2 border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" />
+                   <CustomDropdown value={form.disciplinaId} onChange={v => setForm({...form, disciplinaId: v, conteudoId: ""})} options={MOCK_DISCIPLINAS.map(d => ({value: d.id, label: d.nome}))} placeholder="Disciplina" className="p-4 border-2 border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" />
+                   <CustomDropdown disabled={!form.disciplinaId} value={form.conteudoId} onChange={v => setForm({...form, conteudoId: v})} options={form.disciplinaId ? (MOCK_CONTEUDOS[form.disciplinaId]?.map(c => ({value: c.id, label: c.nome})) || []) : []} placeholder="Conteúdo" className="p-4 border-2 border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" />
 
                    <div className="space-y-2">
                       <label className="text-xs font-black text-slate-400 uppercase">Tempo de Estudo</label>

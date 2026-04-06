@@ -138,39 +138,52 @@ export default function CalendarInteractivePage() {
   const [dueTasks, setDueTasks] = useState<any[]>([]);
 
   useEffect(() => {
+    const savedEvents = localStorage.getItem('calendario_eventos');
     const storedQ = localStorage.getItem('kevquest_questoes');
-    if (storedQ) {
-      const baseEvents = [
-        ...estudosAnteriores,
-        { id: "e1", title: "A/B Testing", dateIso: format(addDays(TODAY, 1), "yyyy-MM-dd"), timeSlot: "09:00", colorClass: "bg-slate-100/50 dark:bg-[#2C2C2E]", textClass: "text-slate-500 dark:text-[#A1A1AA]" },
-        { id: "e2", title: "Mentoria", dateIso: format(TODAY, "yyyy-MM-dd"), timeSlot: "10:00", colorClass: "bg-orange-100 dark:bg-orange-900/40 border border-orange-200 dark:border-orange-900/50 shadow-sm", textClass: "text-orange-700 dark:text-orange-400 font-bold" }
-      ];
-      
-      const questoes = JSON.parse(storedQ);
-      questoes.forEach((q: any) => {
-        if (q.estagio_funil === "Refacao" && q.data_refacao_1) {
-          baseEvents.push({ id: q.id + "_r1", title: `🔄 Revisão (+3d): ${q.conteudo}`, dateIso: q.data_refacao_1, timeSlot: "11:00", colorClass: "bg-teal-100 dark:bg-teal-900/40 border border-teal-200 dark:border-teal-900/50 shadow-sm", textClass: "text-teal-800 dark:text-teal-300 font-black", isRefacao: true });
-          if (q.data_refacao_2) {
-            baseEvents.push({ id: q.id + "_r2", title: `🔄 Revisão (+7d): ${q.conteudo}`, dateIso: q.data_refacao_2, timeSlot: "11:00", colorClass: "bg-teal-100 dark:bg-teal-900/40 border border-teal-200 dark:border-teal-900/50 shadow-sm", textClass: "text-teal-800 dark:text-teal-300 font-black", isRefacao: true });
-          }
-          if (q.data_refacao_3) {
-            baseEvents.push({ id: q.id + "_r3", title: `🔄 Revisão (+21d): ${q.conteudo}`, dateIso: q.data_refacao_3, timeSlot: "11:00", colorClass: "bg-teal-100 dark:bg-teal-900/40 border border-teal-200 dark:border-teal-900/50 shadow-sm", textClass: "text-teal-800 dark:text-teal-300 font-black", isRefacao: true });
-          }
-        }
-      });
-      setEvents(baseEvents);
-    }
     
-    // Ler tarefas da plataforma
-    const storedTasksStr = localStorage.getItem('@sinapse/tarefas');
-    if (storedTasksStr) {
+    let baseEvents = [...INITIAL_EVENTS];
+
+    if (savedEvents) {
       try {
-        const storedTasks = JSON.parse(storedTasksStr);
-        const uncompleted = storedTasks.filter((t: any) => t.status === "pending" && t.limitDate);
-        setDueTasks(uncompleted);
+        baseEvents = JSON.parse(savedEvents);
+      } catch (e) {
+        console.error("Erro ao carregar eventos salvos", e);
+      }
+    }
+
+    if (storedQ) {
+      try {
+        const questoes = JSON.parse(storedQ);
+        questoes.forEach((q: any) => {
+          if (q.estagio_funil === "Refacao" && q.data_refacao_1) {
+            baseEvents.push({ 
+              id: q.id + "_r1", 
+              title: `🔄 Revisão (+3d): ${q.conteudo}`, 
+              dateIso: q.data_refacao_1, 
+              timeSlot: "11:00", 
+              colorClass: "bg-teal-100 dark:bg-teal-900/40 border border-teal-200 dark:border-teal-900/50 shadow-sm", 
+              textClass: "text-teal-800 dark:text-teal-300 font-black", 
+              isRefacao: true 
+            });
+            if (q.data_refacao_2) {
+              baseEvents.push({ id: q.id + "_r2", title: `🔄 Revisão (+7d): ${q.conteudo}`, dateIso: q.data_refacao_2, timeSlot: "11:00", colorClass: "bg-teal-100 dark:bg-teal-900/40 border border-teal-200 dark:border-teal-900/50 shadow-sm", textClass: "text-teal-800 dark:text-teal-300 font-black", isRefacao: true });
+            }
+            if (q.data_refacao_3) {
+              baseEvents.push({ id: q.id + "_r3", title: `🔄 Revisão (+21d): ${q.conteudo}`, dateIso: q.data_refacao_3, timeSlot: "11:00", colorClass: "bg-teal-100 dark:bg-teal-900/40 border border-teal-200 dark:border-teal-900/50 shadow-sm", textClass: "text-teal-800 dark:text-teal-300 font-black", isRefacao: true });
+            }
+          }
+        });
       } catch (e) {}
     }
+    setEvents(baseEvents);
   }, []);
+
+  // Persistir eventos sempre que mudarem
+  useEffect(() => {
+    if (events.length > 0) {
+      localStorage.setItem('calendario_eventos', JSON.stringify(events));
+    }
+  }, [events]);
   // States Temporais Independentes
   const [activeViewTab, setActiveViewTab] = useState<'horarios' | 'tarefas'>('horarios');
   // 1. Semana do Grid Principal (Timeline livre, começa na segunda = 1)
@@ -309,7 +322,33 @@ export default function CalendarInteractivePage() {
   };
 
   return (
-    <div className="h-full flex flex-col md:flex-row gap-6 animate-in fade-in duration-500 overflow-hidden">
+    <div className="space-y-8 animate-in fade-in max-w-7xl mx-auto pb-20">
+      
+      <header className="flex justify-between items-end mb-6">
+        <div>
+          <h1 className="text-3xl font-black text-slate-800 dark:text-[#FFFFFF] tracking-tight flex items-center gap-3">
+            <CalendarIcon className="w-8 h-8 text-indigo-600 dark:text-indigo-400" /> Calendário Pessoal
+          </h1>
+          <p className="text-slate-500 dark:text-[#A1A1AA] mt-1 font-medium">Gestão de Horários e Compromissos</p>
+        </div>
+        <div className="flex items-center gap-2">
+          {!showAdminEvents && (
+            <button 
+              onClick={() => {
+                setNewEventSlot({ dateIso: format(TODAY, "yyyy-MM-dd"), timeSlot: "09:00" });
+                setNewEventTitle("");
+                setNewEventDesc("");
+                setModalOpen(true);
+              }}
+              className="bg-slate-900 hover:bg-slate-800 text-white font-bold px-5 py-3 rounded-xl flex items-center gap-2 shadow-lg shadow-slate-900/20 transition-all active:scale-95"
+            >
+              <Plus className="w-5 h-5" /> Lançar Evento
+            </button>
+          )}
+        </div>
+      </header>
+
+      <div className="h-full flex flex-col md:flex-row gap-6 overflow-hidden">
       
       {/* Left Sidebar (Mini-Calendar & Controls) */}
       <aside className="w-full md:w-[340px] flex-shrink-0 flex flex-col gap-6">
@@ -412,20 +451,6 @@ export default function CalendarInteractivePage() {
                  <CalendarIcon className="w-4 h-4" />
                  Hoje
                </button>
-               {!showAdminEvents && (
-                 <button 
-                   onClick={() => {
-                     setNewEventSlot({ dateIso: format(TODAY, "yyyy-MM-dd"), timeSlot: "09:00" });
-                     setNewEventTitle("");
-                     setNewEventDesc("");
-                     setModalOpen(true);
-                   }}
-                   className="px-4 py-2 bg-teal-500 text-slate-900 text-xs font-black rounded-xl hover:bg-teal-400 border border-transparent transition-all shadow-[0_0_15px_rgba(20,184,166,0.3)] hover:shadow-[0_0_20px_rgba(20,184,166,0.5)] uppercase tracking-widest flex items-center gap-2"
-                 >
-                   <Plus className="w-4 h-4" />
-                   Lançar Evento
-                 </button>
-               )}
              </div>
 
              <div className="hidden sm:block w-px h-6 bg-slate-200 dark:bg-[#3A3A3C]"></div>
@@ -653,6 +678,7 @@ export default function CalendarInteractivePage() {
           </div>
         </div>
       )}
+    </div>
     </div>
   );
 }

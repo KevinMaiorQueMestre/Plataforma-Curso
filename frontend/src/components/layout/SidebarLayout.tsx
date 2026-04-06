@@ -15,13 +15,17 @@ import {
   Menu,
   X,
   ArrowLeft,
-  Trophy
+  Trophy,
+  Home,
+  PenTool
 } from "lucide-react";
 
 const NAV_ITEMS = [
-  { label: "Diário de Estudos", href: "/diario",    icon: BookOpen    },
+  { label: "Home",              href: "/home",      icon: Home         },
+  { label: "Diário de Estudos", href: "/diario",    icon: BookOpen      },
   { label: "Evolução",          href: "/dashboard", icon: LayoutDashboard },
   { label: "Simulados",         href: "/simulados", icon: FileCheck2  },
+  { label: "Redação",           href: "/redacao",   icon: PenTool     },
   { label: "KevQuest",          href: "/kevquest",  icon: Target      },
   { label: "Calendário",        href: "/calendario",icon: CalendarDays },
   { label: "Tarefas",           href: "/tarefas",   icon: CheckSquare },
@@ -48,8 +52,8 @@ export default function SidebarLayout({
       {/* Toggle Button & Logo */}
       <div className={`flex items-center ${isCollapsed ? 'justify-center' : 'justify-between'} mb-10 text-teal-600 dark:text-teal-400`}>
         {!isCollapsed && (
-          <Link href="/diario" className="flex flex-col hover:opacity-80 transition-opacity">
-            <h1 className="text-3xl font-serif text-teal-600 dark:text-teal-400 tracking-wide leading-none px-2">SINAPSE</h1>
+          <Link href="/home" className="flex flex-col hover:opacity-80 transition-opacity">
+            <h1 className="text-3xl font-serif text-teal-600 dark:text-teal-400 tracking-wide leading-none px-2">PLATAFORMA</h1>
             <p className="text-[10px] uppercase font-semibold text-teal-500 tracking-[0.15em] px-2 mt-1">MENTORIA</p>
           </Link>
         )}
@@ -127,8 +131,8 @@ export default function SidebarLayout({
         >
           <Menu className="w-6 h-6" />
         </button>
-        <Link href="/diario" className="flex flex-col hover:opacity-80 transition-opacity">
-          <h1 className="text-xl font-serif text-teal-600 dark:text-teal-400 tracking-wide leading-none transition-colors">SINAPSE</h1>
+        <Link href="/home" className="flex flex-col hover:opacity-80 transition-opacity">
+          <h1 className="text-xl font-serif text-teal-600 dark:text-teal-400 tracking-wide leading-none transition-colors">PLATAFORMA</h1>
           <p className="text-[8px] uppercase font-semibold text-teal-500 tracking-[0.15em] mt-0.5 transition-colors">MENTORIA</p>
         </Link>
       </div>

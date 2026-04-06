@@ -19,9 +19,14 @@ export const ESTAGIO_LABELS: Record<EstagioFunil, string> = {
 };
 
 export function getNextStage(current: EstagioFunil): EstagioFunil | null {
-  const idx = ESTAGIO_ORDER.indexOf(current);
-  if (idx < 0 || idx >= ESTAGIO_ORDER.length - 1) return null;
-  return ESTAGIO_ORDER[idx + 1];
+  const sequence: Record<EstagioFunil, EstagioFunil | null> = {
+    "Quarentena": "Diagnostico",
+    "Diagnostico": "UTI",
+    "UTI": "Refacao",
+    "Refacao": "Consolidada",
+    "Consolidada": null
+  };
+  return sequence[current];
 }
 
 /** Calculation logic extracted from KevQuest to skip Sundays */

@@ -107,10 +107,42 @@ export default function KevQuestPage() {
   const [cfgDisciplinas, setCfgDisciplinas] = useState<string[]>(["Matemática", "Física", "Biologia", "Química", "História", "Geografia", "Português", "Inglês"]);
   const [cfgProvas, setCfgProvas] = useState<string[]>(["ENEM 2023", "ENEM 2022", "FUVEST 2024", "UNICAMP 2024", "Simulado Hexag"]);
   const [cfgCores, setCfgCores] = useState<string[]>(["Azul", "Amarela", "Rosa", "Branca", "Cinza", "Verde"]);
-  const [cfgInput, setCfgInput] = useState({ disciplina: "", prova: "", cor: "" });
-
+  const [cfgMotivos, setCfgMotivos] = useState<string[]>(["Falta de Atenção", "Não sabia a matéria", "Falta de tempo", "Interpretação", "Cálculo Básico"]);
+  const [cfgInput, setCfgInput] = useState({ disciplina: "", prova: "", cor: "", conteudo: "", ano: "", motivo: "" });
+  
   // Custom Input States
-  const [customConteudos, setCustomConteudos] = useState<Record<string, string[]>>({});
+  const [customConteudos, setCustomConteudos] = useState<Record<string, string[]>>({
+    "Matemática": ["Geometria", "Álgebra", "Funções"],
+    "Física": ["Mecânica", "Termodinâmica", "Eletromagnetismo"],
+    "Biologia": ["Citologia", "Ecologia", "Genética"]
+  });
+  const [cfgAnos, setCfgAnos] = useState<string[]>(["2024", "2023", "2022", "2021", "2020", "2019", "2018"]);
+  
+  // Persistência das configurações
+  useEffect(() => {
+    const savedCfg = localStorage.getItem('kevquest_config');
+    if (savedCfg) {
+      const parsed = JSON.parse(savedCfg);
+      if (parsed.disciplinas) setCfgDisciplinas(parsed.disciplinas);
+      if (parsed.provas) setCfgProvas(parsed.provas);
+      if (parsed.cores) setCfgCores(parsed.cores);
+      if (parsed.conteudos) setCustomConteudos(parsed.conteudos);
+      if (parsed.anos) setCfgAnos(parsed.anos);
+      if (parsed.motivos) setCfgMotivos(parsed.motivos);
+    }
+  }, []);
+
+  useEffect(() => {
+    const config = {
+      disciplinas: cfgDisciplinas,
+      provas: cfgProvas,
+      cores: cfgCores,
+      conteudos: customConteudos,
+      anos: cfgAnos,
+      motivos: cfgMotivos
+    };
+    localStorage.setItem('kevquest_config', JSON.stringify(config));
+  }, [cfgDisciplinas, cfgProvas, cfgCores, customConteudos, cfgAnos]);
   const [customAnos, setCustomAnos] = useState<string[]>([]);
   
   const [isAddingConteudo, setIsAddingConteudo] = useState(false);
@@ -212,30 +244,40 @@ export default function KevQuestPage() {
 
   // --- Operadores de Tabela ---
   const handleAdvance = (id: string, currentStage: string) => {
-    const sequence = {
-      "Quarentena": "Refacao",
+    const sequence: Record<string, string | null> = {
+      "Quarentena": "Diagnostico",
       "Diagnostico": "UTI",
       "UTI": "Refacao",
       "Refacao": "Consolidada",
-      "Consolidada": "Consolidada"
+      "Consolidada": null
     };
     
-    const nextStage = sequence[currentStage as keyof typeof sequence];
-    if (currentStage === "Consolidada") return;
+    const nextStage = sequence[currentStage];
+    if (!nextStage) return;
 
+    let targetQuestao: any = null;
     const novaLista = questoes.map(q => {
       if (q.id === id) {
-        return { 
+        targetQuestao = { 
           ...q, 
           estagio_funil: nextStage,
           ...(nextStage === "Refacao" ? calcRefacaoDates(new Date()) : {})
         };
+        return targetQuestao;
       }
       return q;
     });
 
     saveToStorage(novaLista);
     toast.success(`Estágio avançado para: ${nextStage}`);
+
+    // Se avançou para Diagnóstico, abre o modal de edição automaticamente
+    if (nextStage === "Diagnostico" && targetQuestao) {
+      setTimeout(() => {
+        handleEdit(targetQuestao);
+        toast.info("Por favor, preencha o diagnóstico do erro agora.");
+      }, 300);
+    }
   };
 
   const handleEdit = (q: any) => {
@@ -476,6 +518,7 @@ export default function KevQuestPage() {
                 <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Conteúdo</th>
                 <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Prova</th>
                 <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Estágio Atual</th>
+                <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Diagnóstico</th>
                 <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider text-right">Ações</th>
               </tr>
             </thead>
@@ -496,7 +539,7 @@ export default function KevQuestPage() {
                         {q.sub_conteudo && <span className="text-xs text-slate-400 block">{q.sub_conteudo}</span>}
                       </td>
                       <td className="py-4 px-4 text-slate-500 dark:text-[#A1A1AA] font-medium">{q.prova || "—"}</td>
-                      <td className="py-4 px-4">
+                      <td className="py-4 px-4 whitespace-nowrap">
                         <span 
                           className="px-3 py-1.5 rounded-xl font-bold text-xs inline-flex items-center gap-1.5 capitalize border"
                           style={{ backgroundColor: cor + "15", color: cor, borderColor: cor + "30" }}
@@ -504,6 +547,11 @@ export default function KevQuestPage() {
                           <span className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: cor }}></span>
                           {q.estagio_funil}
                         </span>
+                      </td>
+                      <td className="py-4 px-4 min-w-[150px] max-w-[250px]">
+                        <p className="text-xs text-slate-500 dark:text-[#A1A1AA] line-clamp-2 italic" title={q.comentario}>
+                          {q.comentario || <span className="opacity-30">Sem anotações...</span>}
+                        </p>
                       </td>
                       <td className="py-4 px-4 text-right opacity-50 group-hover:opacity-100 transition-opacity">
                         <div className="flex items-center justify-end gap-2">
@@ -672,8 +720,7 @@ export default function KevQuestPage() {
                       }}
                       placeholder="Ano..."
                       options={[
-                        ...["2024", "2023", "2022", "2021", "2020", "2019", "2018"].map(a => ({ value: a, label: a })),
-                        ...customAnos.map(a => ({ value: a, label: a })),
+                        ...cfgAnos.map(a => ({ value: a, label: a })),
                         { value: "NOVO", label: "+ Novo Ano" }
                       ]}
                       className="border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] focus-within:border-indigo-400 font-medium bg-slate-50 dark:bg-[#2C2C2E] h-[52px]"
@@ -697,10 +744,27 @@ export default function KevQuestPage() {
                 </div>
               </div>
 
-              <div>
-                <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Anotações do Erro</label>
-                <textarea rows={3} placeholder="O que te fez errar essa questão? Faltou base ou só desatenção?" value={form.comentario} onChange={e => setForm({...form, comentario: e.target.value})} className="w-full border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] bg-transparent focus:outline-none focus:border-indigo-400 resize-none font-medium"></textarea>
-              </div>
+              {form.estagio === "Diagnostico" && (
+                <div className="animate-in fade-in slide-in-from-top-2 duration-300">
+                  <label className="block text-xs font-bold text-orange-600 dark:text-orange-400 mb-2 uppercase tracking-wide flex items-center gap-2">
+                    <AlertTriangle className="w-4 h-4" /> Diagnóstico do Erro
+                  </label>
+                  <CustomDropdown 
+                    value={form.comentario} 
+                    onChange={v => setForm({...form, comentario: v})}
+                    placeholder="Selecione o motivo do erro..."
+                    options={cfgMotivos.map(m => ({ value: m, label: m }))}
+                    className="border-2 border-orange-200 dark:border-orange-900/30 rounded-xl px-4 py-3.5 text-sm text-slate-800 dark:text-[#FFFFFF] bg-orange-50/30 dark:bg-orange-900/10 focus-within:border-orange-400 font-bold transition-all"
+                  />
+                </div>
+              )}
+
+              {form.estagio !== "Diagnostico" && (
+                <div>
+                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Anotações do Erro</label>
+                  <textarea rows={3} placeholder="O que te fez errar essa questão? Faltou base ou só desatenção?" value={form.comentario} onChange={e => setForm({...form, comentario: e.target.value})} className="w-full border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] bg-transparent focus:outline-none focus:border-indigo-400 resize-none font-medium"></textarea>
+                </div>
+              )}
 
               <div className="pt-4 border-t border-slate-100 dark:border-[#2C2C2E] flex gap-4">
                 <button type="button" onClick={() => setModalOpen(false)} className="flex-1 py-4 font-bold text-slate-500 dark:text-[#A1A1AA] hover:bg-slate-100 rounded-xl transition-colors">
@@ -758,8 +822,28 @@ export default function KevQuestPage() {
                   <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Disciplinas</h3>
                   <div className="flex flex-wrap gap-2 mb-3">
                     {cfgDisciplinas.map(d => (
-                      <span key={d} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg">
+                      <span key={d} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/tag">
                         {d}
+                        <button 
+                          onClick={() => {
+                            const novoNome = prompt("Editar nome da disciplina:", d);
+                            if (novoNome && novoNome.trim() && novoNome !== d) {
+                              setCfgDisciplinas(prev => prev.map(x => x === d ? novoNome.trim() : x));
+                              // Atualiza o mapeamento de conteúdos
+                              setCustomConteudos(prev => {
+                                const newMap = { ...prev };
+                                if (newMap[d]) {
+                                  newMap[novoNome.trim()] = newMap[d];
+                                  delete newMap[d];
+                                }
+                                return newMap;
+                              });
+                            }
+                          }}
+                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/tag:opacity-100 transition-all"
+                        >
+                          <Edit2 className="w-3 h-3" />
+                        </button>
                         <button onClick={() => setCfgDisciplinas(prev => prev.filter(x => x !== d))} className="text-slate-400 hover:text-rose-500 transition-colors">
                           <X className="w-3 h-3" />
                         </button>
@@ -794,13 +878,97 @@ export default function KevQuestPage() {
                   </div>
                 </div>
 
+                {/* CONTEÚDOS POR DISCIPLINA (Agora abaixo de Disciplinas) */}
+                <div className="pt-2">
+                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-4">Conteúdos por Disciplina</h3>
+                  <div className="space-y-4">
+                    <CustomDropdown 
+                      value={cfgInput.disciplina} 
+                      onChange={v => setCfgInput(p => ({...p, disciplina: v}))}
+                      placeholder="Selecione a disciplina para editar conteúdos..."
+                      options={cfgDisciplinas.map(d => ({ value: d, label: d }))}
+                      className="border border-slate-200 dark:border-[#3A3A3C] rounded-lg px-3 py-2 text-sm text-slate-700 dark:text-slate-200 bg-slate-50 dark:bg-[#2C2C2E]"
+                    />
+                    
+                    {cfgInput.disciplina && (
+                      <div className="space-y-3 animate-in fade-in duration-200">
+                        <div className="flex flex-wrap gap-2">
+                          {(customConteudos[cfgInput.disciplina] || []).map(cont => (
+                            <span key={cont} className="flex items-center gap-1.5 text-[10px] font-bold bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 px-2 py-1 rounded-md group/ctag">
+                              {cont}
+                              <button 
+                                onClick={() => {
+                                  const novo = prompt("Editar conteúdo:", cont);
+                                  if (novo && novo.trim() && novo !== cont) {
+                                    setCustomConteudos(prev => ({
+                                      ...prev,
+                                      [cfgInput.disciplina]: prev[cfgInput.disciplina].map(x => x === cont ? novo.trim() : x)
+                                    }));
+                                  }
+                                }}
+                                className="opacity-0 group-hover/ctag:opacity-100 hover:text-indigo-600 transition-all"
+                              >
+                                <Edit2 className="w-2.5 h-2.5" />
+                              </button>
+                              <button 
+                                onClick={() => setCustomConteudos(prev => ({
+                                  ...prev,
+                                  [cfgInput.disciplina]: prev[cfgInput.disciplina].filter(x => x !== cont)
+                                }))}
+                                className="hover:text-rose-500 transition-colors"
+                              >
+                                <X className="w-2.5 h-2.5" />
+                              </button>
+                            </span>
+                          ))}
+                        </div>
+                        <div className="flex gap-2">
+                          <input
+                            type="text"
+                            placeholder={`Novo conteúdo para ${cfgInput.disciplina}...`}
+                            value={cfgInput.conteudo}
+                            onChange={e => setCfgInput(p => ({...p, conteudo: e.target.value}))}
+                            className="flex-1 text-xs px-3 py-2 rounded-lg border border-slate-200 dark:border-[#3A3A3C] bg-white dark:bg-[#121212] text-slate-800 dark:text-white"
+                          />
+                          <button
+                            onClick={() => {
+                              if (cfgInput.conteudo.trim()) {
+                                setCustomConteudos(prev => {
+                                  const atual = prev[cfgInput.disciplina] || [];
+                                  if (atual.includes(cfgInput.conteudo.trim())) return prev;
+                                  return { ...prev, [cfgInput.disciplina]: [...atual, cfgInput.conteudo.trim()] };
+                                });
+                                setCfgInput(p => ({...p, conteudo: ""}));
+                              }
+                            }}
+                            className="px-3 py-1.5 bg-slate-800 text-white rounded-lg text-xs font-bold"
+                          >
+                            Add
+                          </button>
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                </div>
+
                 {/* PROVAS */}
-                <div>
+                <div className="border-t border-slate-100 dark:border-[#2C2C2E] pt-6">
                   <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Provas / Fontes</h3>
                   <div className="flex flex-wrap gap-2 mb-3">
                     {cfgProvas.map(p => (
-                      <span key={p} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg">
+                      <span key={p} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/ptag">
                         {p}
+                        <button 
+                          onClick={() => {
+                            const novo = prompt("Editar prova/fonte:", p);
+                            if (novo && novo.trim() && novo !== p) {
+                              setCfgProvas(prev => prev.map(x => x === p ? novo.trim() : x));
+                            }
+                          }}
+                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/ptag:opacity-100 transition-all"
+                        >
+                          <Edit2 className="w-3 h-3" />
+                        </button>
                         <button onClick={() => setCfgProvas(prev => prev.filter(x => x !== p))} className="text-slate-400 hover:text-rose-500 transition-colors">
                           <X className="w-3 h-3" />
                         </button>
@@ -835,13 +1003,70 @@ export default function KevQuestPage() {
                   </div>
                 </div>
 
-                {/* CORES */}
-                <div>
+                {/* GESTÃO DE ANOS (Agora antes de Cores) */}
+                <div className="border-t border-slate-100 dark:border-[#2C2C2E] pt-6">
+                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Anos Disponíveis</h3>
+                  <div className="flex flex-wrap gap-2 mb-3">
+                    {cfgAnos.map(ano => (
+                      <span key={ano} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/atag">
+                        {ano}
+                        <button 
+                          onClick={() => {
+                            const novo = prompt("Editar ano:", ano);
+                            if (novo && novo.trim() && novo !== ano) {
+                              setCfgAnos(prev => prev.map(x => x === ano ? novo.trim() : x));
+                            }
+                          }}
+                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/atag:opacity-100 transition-all"
+                        >
+                          <Edit2 className="w-3 h-3" />
+                        </button>
+                        <button onClick={() => setCfgAnos(prev => prev.filter(x => x !== ano))} className="text-slate-400 hover:text-rose-500 transition-colors">
+                          <X className="w-3 h-3" />
+                        </button>
+                      </span>
+                    ))}
+                  </div>
+                  <div className="flex gap-2">
+                    <input
+                      type="text"
+                      placeholder="Adicionar ano..."
+                      value={cfgInput.ano}
+                      onChange={e => setCfgInput(p => ({...p, ano: e.target.value}))}
+                      className="flex-1 text-sm px-3 py-2 rounded-lg border border-slate-200 dark:border-[#3A3A3C] bg-slate-50 dark:bg-[#2C2C2E] text-slate-800 dark:text-white"
+                    />
+                    <button
+                      onClick={() => {
+                        if (cfgInput.ano.trim()) {
+                          setCfgAnos(p => p.includes(cfgInput.ano.trim()) ? p : [...p, cfgInput.ano.trim()].sort((a,b) => parseInt(b)-parseInt(a)));
+                          setCfgInput(p => ({...p, ano: ""}));
+                        }
+                      }}
+                      className="px-3 py-2 bg-slate-800 text-white rounded-lg"
+                    >
+                      <Plus className="w-4 h-4" />
+                    </button>
+                  </div>
+                </div>
+
+                {/* CORES (Agora por último) */}
+                <div className="border-t border-slate-100 dark:border-[#2C2C2E] pt-6">
                   <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Cores da Questão</h3>
                   <div className="flex flex-wrap gap-2 mb-3">
                     {cfgCores.map(c => (
-                      <span key={c} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg">
+                      <span key={c} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/ctag">
                         {c}
+                        <button 
+                          onClick={() => {
+                            const novo = prompt("Editar nome da cor:", c);
+                            if (novo && novo.trim() && novo !== c) {
+                              setCfgCores(prev => prev.map(x => x === c ? novo.trim() : x));
+                            }
+                          }}
+                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/ctag:opacity-100 transition-all"
+                        >
+                          <Edit2 className="w-3 h-3" />
+                        </button>
                         <button onClick={() => setCfgCores(prev => prev.filter(x => x !== c))} className="text-slate-400 hover:text-rose-500 transition-colors">
                           <X className="w-3 h-3" />
                         </button>
@@ -875,6 +1100,59 @@ export default function KevQuestPage() {
                     </button>
                   </div>
                 </div>
+
+                {/* MOTIVOS DE DIAGNÓSTICO (Novo) */}
+                <div className="border-t border-slate-100 dark:border-[#2C2C2E] pt-6">
+                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Motivos de Erro (Diagnóstico)</h3>
+                  <div className="flex flex-wrap gap-2 mb-3">
+                    {cfgMotivos.map(m => (
+                      <span key={m} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/mtag">
+                        {m}
+                        <button 
+                          onClick={() => {
+                            const novo = prompt("Editar motivo do erro:", m);
+                            if (novo && novo.trim() && novo !== m) {
+                              setCfgMotivos(prev => prev.map(x => x === m ? novo.trim() : x));
+                            }
+                          }}
+                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/mtag:opacity-100 transition-all"
+                        >
+                          <Edit2 className="w-3 h-3" />
+                        </button>
+                        <button onClick={() => setCfgMotivos(prev => prev.filter(x => x !== m))} className="text-slate-400 hover:text-rose-500 transition-colors">
+                          <X className="w-3 h-3" />
+                        </button>
+                      </span>
+                    ))}
+                  </div>
+                  <div className="flex gap-2">
+                    <input
+                      type="text"
+                      placeholder="Ex: Pegadinha..."
+                      value={cfgInput.motivo}
+                      onChange={e => setCfgInput(p => ({...p, motivo: e.target.value}))}
+                      onKeyDown={e => {
+                        if (e.key === 'Enter' && cfgInput.motivo.trim()) {
+                          setCfgMotivos(p => p.includes(cfgInput.motivo.trim()) ? p : [...p, cfgInput.motivo.trim()]);
+                          setCfgInput(p => ({...p, motivo: ""}));
+                        }
+                      }}
+                      className="flex-1 text-sm px-3 py-2 rounded-lg border border-slate-200 dark:border-[#3A3A3C] bg-slate-50 dark:bg-[#2C2C2E] text-slate-800 dark:text-white placeholder:text-slate-400 focus:outline-none focus:border-indigo-400"
+                    />
+                    <button
+                      onClick={() => {
+                        if (cfgInput.motivo.trim()) {
+                          setCfgMotivos(p => p.includes(cfgInput.motivo.trim()) ? p : [...p, cfgInput.motivo.trim()]);
+                          setCfgInput(p => ({...p, motivo: ""}));
+                        }
+                      }}
+                      className="px-3 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition-colors"
+                    >
+                      <Plus className="w-4 h-4" />
+                    </button>
+                  </div>
+                </div>
+
 
               </div>
 

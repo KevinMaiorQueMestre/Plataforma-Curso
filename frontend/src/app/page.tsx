@@ -9,7 +9,7 @@ const CAROUSEL_DATA = [
   {
     name: "João Silva",
     course: "Medicina USP",
-    quote: "A metodologia da Sinapse foi essencial para a minha aprovação em tempo recorde. O diário de estudos mudou meu jogo.",
+    quote: "A metodologia da Plataforma foi essencial para a minha aprovação em tempo recorde. O diário de estudos mudou meu jogo.",
   },
   {
     name: "Mariana Costa",
@@ -50,7 +50,7 @@ function HeroCarousel() {
         {/* Left: Text */}
         <div className="flex-1 space-y-8 animate-in slide-in-from-left-8 fade-in duration-700" key={`text-${currentIndex}`}>
           <div className="inline-block px-4 py-1.5 rounded-full bg-slate-800/80 border border-slate-700 text-teal-400 text-[10px] font-bold uppercase tracking-[0.2em]">
-            Aprovados Sinapse
+            Aprovados Plataforma
           </div>
           
           <h2 className="text-4xl md:text-6xl font-black tracking-tight leading-[1.1] font-sans">
@@ -132,10 +132,10 @@ export default function LandingPage() {
             className="flex flex-col items-start cursor-pointer group hover:opacity-80 transition-opacity text-left bg-transparent border-none p-0 focus:outline-none"
           >
             <h1 className="text-xl md:text-2xl font-serif text-slate-800 dark:text-slate-100 tracking-wide leading-none font-bold group-hover:text-slate-600 dark:text-[#A1A1AA] dark:group-hover:text-teal-400 transition-colors">
-              SINAPSE
+              PLATAFORMA
             </h1>
             <p className="text-[8px] md:text-[9px] uppercase font-bold text-slate-600 dark:text-[#A1A1AA] tracking-[0.2em] mt-0.5 group-hover:text-slate-500 dark:text-[#A1A1AA] dark:group-hover:text-teal-500 transition-colors">
-              Mentoria
+              LP
             </p>
           </button>
           
@@ -190,7 +190,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* 2. Metodologia Sinapse (ZigZag) */}
+      {/* 2. Metodologia Plataforma (ZigZag) */}
       <section className="w-full bg-slate-50 dark:bg-[#1C1C1E] py-24 border-b border-slate-100 dark:border-[#2C2C2E] overflow-hidden">
         <div className="max-w-7xl mx-auto px-6">
           <motion.div 
@@ -249,7 +249,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* 1.5. Aprovados Medicina (Infinite Image Scroll) */}
+      {/* 1.5. Aprovados Medicina (Carrossel Restaurado - Espaço para Fotos) */}
       <section className="w-full bg-slate-900 py-10 border-b border-slate-800 overflow-hidden relative flex flex-col items-center justify-center">
         <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-teal-500/50 to-transparent"></div>
         <p className="text-sm font-bold text-teal-400 uppercase tracking-[0.2em] mb-6 text-center px-4">Eles usaram o método e passaram em Medicina</p>
@@ -262,19 +262,13 @@ export default function LandingPage() {
           <div className="flex animate-marquee whitespace-nowrap items-center w-max" style={{ animationDuration: '40s' }}>
             {/* Repeated array for infinite scroll */}
             {[...Array(2)].fill(0).map((_, arrayIndex) => (
-              <div key={arrayIndex} className="flex gap-4 md:gap-6 items-center pl-4 md:pl-6">
-                {[
-                  "/Instagram Sinapse/Captura de tela 2026-04-01 163601.png",
-                  "/Instagram Sinapse/Captura de tela 2026-04-01 163621.png",
-                  "/Instagram Sinapse/Captura de tela 2026-04-01 163641.png",
-                  "/Instagram Sinapse/Captura de tela 2026-04-01 163716.png",
-                  "/Instagram Sinapse/WhatsApp Image 2026-04-01 at 14.40.23.jpeg",
-                  "/Instagram Sinapse/WhatsApp Image 2026-04-01 at 14.40.24 (1).jpeg",
-                  "/Instagram Sinapse/WhatsApp Image 2026-04-01 at 14.40.24 (2).jpeg",
-                  "/Instagram Sinapse/WhatsApp Image 2026-04-01 at 14.40.24 (3).jpeg"
-                ].map((src, i) => (
+              <div key={arrayIndex} className="flex gap-4 md:gap-6 items-center pl-4 md:pl-6 text-white font-bold text-xl uppercase tracking-widest bg-teal-500/10">
+                {[...Array(8)].map((_, i) => (
                   <div key={i} className="group relative w-36 h-36 md:w-52 md:h-52 rounded-2xl md:rounded-3xl overflow-hidden shadow-[0_0_30px_rgba(20,184,166,0.1)] border border-slate-800 shrink-0 transform transition-transform duration-500">
-                    <Image src={src} alt={`Aprovado Medicina ${arrayIndex}-${i}`} fill className="object-cover transition-all duration-700 group-hover:scale-110" sizes="(max-width: 768px) 144px, 208px" loading="lazy" />
+                    {/* Placeholder Background since images were removed */}
+                    <div className="w-full h-full bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center">
+                        <Target className="w-12 h-12 text-teal-500/20 group-hover:text-teal-400/40 transition-colors" />
+                    </div>
                     <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-slate-900 via-slate-900/60 to-transparent p-4 z-20 pointer-events-none">
                         <div className="w-8 h-8 rounded-full bg-teal-500 flex items-center justify-center text-slate-900 border-2 border-slate-900 -mb-2 shadow-lg inline-flex">
                            <Target className="w-4 h-4" />
@@ -287,6 +281,7 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
+
 
       {/* 3. Features em Cards (Bento Grid) */}
       <section className="w-full bg-white dark:bg-[#121212] py-24 relative z-10 border-b border-slate-100 dark:border-[#2C2C2E] overflow-hidden">
@@ -755,7 +750,7 @@ export default function LandingPage() {
       <footer className="border-t border-slate-200 dark:border-[#2C2C2E]/60 bg-white dark:bg-[#121212] py-8">
         <div className="max-w-7xl mx-auto px-6 flex flex-col items-center justify-center gap-2">
            <BrainCircuit className="w-6 h-6 text-slate-300" />
-           <p className="text-sm font-medium text-slate-400" suppressHydrationWarning>© {new Date().getFullYear()} Sinapse Mentoria. Preparando sua mente.</p>
+           <p className="text-sm font-medium text-slate-400" suppressHydrationWarning>© {new Date().getFullYear()} Plataforma Mentoria. Preparando sua mente.</p>
         </div>
       </footer>
     </div>
