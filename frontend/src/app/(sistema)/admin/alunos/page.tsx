@@ -1,8 +1,10 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { Users, Shield, ShieldAlert, ShieldCheck, CheckCircle2, XCircle, Search, Save, AlertTriangle } from "lucide-react";
+import { Users, Shield, ShieldAlert, ShieldCheck, CheckCircle2, XCircle, Search, Save, AlertTriangle, Plus, X } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
+import { createClient as createSupabaseClient } from "@supabase/supabase-js";
+import { toast } from "sonner";
 
 type Profile = {
   id: string;
@@ -19,6 +21,13 @@ export default function AdminGestaoAlunosPage() {
   const [searchTerm, setSearchTerm] = useState("");
   const [isLoaded, setIsLoaded] = useState(false);
   const [loadingId, setLoadingId] = useState<string | null>(null);
+
+  // States for user creation
+  const [isCreateModalOpen, setIsCreateModalOpen] = useState(false);
+  const [newUserName, setNewUserName] = useState("");
+  const [newUserEmail, setNewUserEmail] = useState("");
+  const [newUserPassword, setNewUserPassword] = useState("");
+  const [isCreating, setIsCreating] = useState(false);
 
   const supabase = createClient();
 
@@ -39,6 +48,50 @@ export default function AdminGestaoAlunosPage() {
       setProfiles(data as Profile[]);
     }
     setIsLoaded(true);
+  };
+
+  const handleCreateUser = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!newUserName || !newUserEmail || !newUserPassword) return;
+    
+    setIsCreating(true);
+
+    try {
+      // Cria client supabase EFÊMERO focado na criação p/ não matar a sessão do admin atual
+      const tempSupabase = createSupabaseClient(
+        process.env.NEXT_PUBLIC_SUPABASE_URL!,
+        process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+        { auth: { persistSession: false, autoRefreshToken: false } }
+      );
+
+      const { data, error: signUpError } = await tempSupabase.auth.signUp({
+        email: newUserEmail,
+        password: newUserPassword,
+      });
+
+      if (signUpError) throw signUpError;
+
+      if (data?.user) {
+        // Atualiza o profile criado com o nome via primary client que já tem privilégios admin/auth
+        const { error: profileError } = await supabase
+          .from('profiles')
+          .update({ nome: newUserName, nivel_acesso: 'basico', is_active: true })
+          .eq('id', data.user.id);
+          
+        if (profileError) console.error("Erro ao atualizar profile", profileError);
+      }
+
+      toast.success("Novo aluno cadastrado com sucesso!");
+      setIsCreateModalOpen(false);
+      setNewUserName("");
+      setNewUserEmail("");
+      setNewUserPassword("");
+      fetchAlunos();
+    } catch (err: any) {
+      toast.error("Erro ao criar cadastro", { description: err.message });
+    } finally {
+      setIsCreating(false);
+    }
   };
 
   const updateNivelAcesso = async (userId: string, newNivel: string) => {
@@ -88,21 +141,73 @@ export default function AdminGestaoAlunosPage() {
           </h1>
           <p className="text-slate-500 dark:text-[#A1A1AA] mt-2 font-medium text-lg">Controle de acessos, bloqueios e permissões da plataforma.</p>
         </div>
+        <button 
+          onClick={() => setIsCreateModalOpen(true)}
+          className="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-6 rounded-2xl flex items-center gap-2 shadow-lg shadow-indigo-600/20 transition-all active:scale-95"
+        >
+          <Plus className="w-5 h-5" /> Cadastrar Novo Usuário
+        </button>
       </header>
 
-      {/* Area Informativa de Cadastro */}
-      <div className="bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-900/50 rounded-[2rem] p-6 shadow-sm flex items-start sm:items-center gap-6 relative overflow-hidden">
-         <AlertTriangle className="w-12 h-12 text-amber-500 dark:text-amber-400 opacity-20 absolute -right-4 -bottom-4" />
-         <div className="bg-amber-100 dark:bg-amber-800 p-3 rounded-2xl flex-shrink-0 relative z-10">
-            <ShieldAlert className="w-6 h-6 text-amber-600 dark:text-amber-300" />
-         </div>
-         <div className="relative z-10">
-            <h3 className="text-amber-900 dark:text-amber-300 font-black text-lg mb-1">Criação de novos cadastros manual?</h3>
-            <p className="text-sm font-medium text-amber-700 dark:text-amber-400/80 leading-relaxed max-w-3xl">
-               Novos alunos devem ser introduzidos via tela de "Login/Cadastro" padrão do projeto ou você precisa prover as credenciais iniciais. Assim que criarem a conta, eles cairão automaticamente nesta lista com o Nível Básico aguardando a sua liberação.
-            </p>
-         </div>
-      </div>
+      {/* Modal Criar Usuario */}
+      {isCreateModalOpen && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-sm animate-in fade-in">
+          <div className="bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] w-full max-w-md rounded-3xl p-8 shadow-2xl relative animate-in zoom-in-95 duration-200">
+            <button 
+              onClick={() => setIsCreateModalOpen(false)}
+              className="absolute top-6 right-6 text-slate-400 hover:text-slate-600 dark:hover:text-white transition-colors"
+            >
+              <X className="w-5 h-5" />
+            </button>
+            <h2 className="text-2xl font-black text-slate-800 dark:text-white mb-2">Novo Aluno</h2>
+            <p className="text-slate-500 text-sm mb-6 font-medium">Cadastre e libere um novo aluno diretamente na base oficial da plataforma.</p>
+            
+            <form onSubmit={handleCreateUser} className="space-y-4">
+              <div>
+                <label className="text-xs uppercase font-black text-slate-500 tracking-wider mb-2 block">Nome do Aluno</label>
+                <input 
+                  type="text" 
+                  value={newUserName} 
+                  onChange={(e) => setNewUserName(e.target.value)}
+                  className="w-full bg-slate-50 dark:bg-[#2C2C2E] border-none rounded-xl px-4 py-3 text-sm focus:ring-2 focus:ring-indigo-500 outline-none text-slate-800 dark:text-white font-bold placeholder:text-slate-400"
+                  placeholder="Nome completo"
+                  required
+                />
+              </div>
+              <div>
+                <label className="text-xs uppercase font-black text-slate-500 tracking-wider mb-2 block">Email de Acesso</label>
+                <input 
+                  type="email" 
+                  value={newUserEmail} 
+                  onChange={(e) => setNewUserEmail(e.target.value)}
+                  className="w-full bg-slate-50 dark:bg-[#2C2C2E] border-none rounded-xl px-4 py-3 text-sm focus:ring-2 focus:ring-indigo-500 outline-none text-slate-800 dark:text-white font-bold placeholder:text-slate-400"
+                  placeholder="aluno@email.com"
+                  required
+                />
+              </div>
+              <div>
+                <label className="text-xs uppercase font-black text-slate-500 tracking-wider mb-2 block">Senha Provisória</label>
+                <input 
+                  type="password" 
+                  value={newUserPassword} 
+                  onChange={(e) => setNewUserPassword(e.target.value)}
+                  className="w-full bg-slate-50 dark:bg-[#2C2C2E] border-none rounded-xl px-4 py-3 text-sm focus:ring-2 focus:ring-indigo-500 outline-none text-slate-800 dark:text-white font-bold placeholder:text-slate-400"
+                  placeholder="Mínimo 6 caracteres"
+                  required
+                  minLength={6}
+                />
+              </div>
+              <button 
+                type="submit"
+                disabled={isCreating}
+                className="w-full py-3.5 bg-indigo-600 hover:bg-indigo-700 text-white font-black rounded-xl shadow-lg mt-6 active:scale-95 transition-all text-sm disabled:opacity-50 flex items-center justify-center gap-2"
+              >
+                {isCreating ? <div className="animate-spin w-5 h-5 border-2 border-white rounded-full border-t-transparent"></div> : 'Efetivar Cadastro e Liberar Acesso'}
+              </button>
+            </form>
+          </div>
+        </div>
+      )}
 
       <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] border border-slate-100 dark:border-[#2C2C2E] shadow-sm flex flex-col overflow-hidden min-h-[600px]">
         {/* Toolbar de Busca */}
