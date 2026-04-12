@@ -12,7 +12,6 @@ import {
   CalendarDays,
   CheckSquare,
   Settings,
-  UserCircle,
   Menu,
   X,
   ArrowLeft,
@@ -26,19 +25,17 @@ import {
 const NAV_ITEMS = [
   { label: "Home",              href: "/home",      icon: Home         },
   { label: "Diário de Estudos", href: "/diario",    icon: BookOpen      },
-  { label: "Evolução",          href: "/dashboard", icon: LayoutDashboard },
   { label: "Simulados",         href: "/simulados", icon: FileCheck2  },
   { label: "Redação",           href: "/redacao",   icon: PenTool     },
   { label: "KevQuest",          href: "/kevquest",  icon: Target      },
   { label: "Calendário",        href: "/calendario",icon: CalendarDays },
   { label: "Tarefas",           href: "/tarefas",   icon: CheckSquare },
   { label: "Liga",              href: "/liga",      icon: Trophy      },
-  { label: "Perfil",            href: "/perfil",    icon: UserCircle  },
 ];
 
 const ADMIN_NAV_ITEMS = [
-  { label: "Visão Geral",       href: "/admin",            icon: LayoutDashboard },
-  { label: "Alunos",            href: "/admin/alunos",     icon: Users },
+  { label: "Home",              href: "/admin",            icon: LayoutDashboard },
+  { label: "Gestão",            href: "/admin/alunos",     icon: Users },
   { label: "Calendário Global", href: "/admin/calendario", icon: CalendarDays },
   { label: "Redação",           href: "/admin/redacao",    icon: PenTool },
 ];
@@ -60,19 +57,21 @@ export default function SidebarLayout({
     setIsMobileOpen(false);
   }, [pathname]);
 
-  // Carrega do localStorage de forma segura no next
+  // Lê a role diretamente do Supabase — nunca do localStorage (segurança)
   useEffect(() => {
-    const savedRole = localStorage.getItem("@sinapse/conta_tipo");
-    if (savedRole === "admin") {
-      setIsAdmin(true);
-    }
+    const fetchRole = async () => {
+      const { data: { user } } = await supabase.auth.getUser();
+      if (!user) return;
+      const { data: profile } = await supabase.from('profiles').select('role').eq('id', user.id).single();
+      if (profile?.role === 'admin') setIsAdmin(true);
+    };
+    fetchRole();
   }, []);
 
   const displayedItems = isAdmin ? ADMIN_NAV_ITEMS : NAV_ITEMS;
 
   const handleLogout = async () => {
     await supabase.auth.signOut();
-    localStorage.removeItem("@sinapse/conta_tipo");
     router.push("/login");
   };
 
@@ -134,15 +133,15 @@ export default function SidebarLayout({
           </Link>
         )}
         <Link
-          href="/configuracoes"
+          href={isAdmin ? "/admin/configuracoes" : "/configuracoes"}
           title={isCollapsed ? "Configurações" : undefined}
-          className={`flex items-center ${isCollapsed ? 'justify-center px-0' : 'gap-3 px-4'} py-3 rounded-2xl transition-all duration-200 group ${pathname === "/configuracoes"
+          className={`flex items-center ${isCollapsed ? 'justify-center px-0' : 'gap-3 px-4'} py-3 rounded-2xl transition-all duration-200 group ${(pathname === "/configuracoes" || pathname === "/admin/configuracoes")
               ? "bg-teal-50 dark:bg-teal-900/30 text-teal-700 dark:text-teal-300 font-medium shadow-sm"
               : "text-slate-500 dark:text-[#A1A1AA] hover:bg-slate-50 dark:hover:bg-[#2C2C2E] hover:text-slate-800 dark:text-[#FFFFFF] dark:hover:text-slate-200"
             }`}
         >
           <Settings
-            className={`w-5 h-5 transition-transform group-hover:scale-110 ${pathname === "/configuracoes" ? "text-teal-600 dark:text-teal-400" : "text-slate-400 dark:text-[#71717A]"
+            className={`w-5 h-5 transition-transform group-hover:scale-110 ${(pathname === "/configuracoes" || pathname === "/admin/configuracoes") ? "text-teal-600 dark:text-teal-400" : "text-slate-400 dark:text-[#71717A]"
               }`}
           />
           {!isCollapsed && <span className="text-sm font-medium">Configurações</span>}

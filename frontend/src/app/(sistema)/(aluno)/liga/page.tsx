@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import {
   BarChart,
   Bar,
@@ -11,7 +11,8 @@ import {
   Cell,
   Tooltip,
 } from "recharts";
-import { Trophy, Flame, Clock, Target, Star, Medal } from "lucide-react";
+import { Trophy, Flame, Clock, Target, Star, Loader2 } from "lucide-react";
+import { getTopRanking, getMeuRanking } from "@/lib/db/liga";
 
 // ─── Tipos ────────────────────────────────────────────────────────────────────
 
@@ -27,58 +28,6 @@ interface Aluno {
   pontos: number;
   rank: number;
 }
-
-// ─── Mock Data ────────────────────────────────────────────────────────────────
-
-const USUARIO_ATUAL: Aluno = {
-  nome: "Você",
-  avatar: "V",
-  questoes: 842,
-  diasAtivos: 18,
-  horas: 87,
-  liga: "ouro",
-  pontos: 3420,
-  rank: 4,
-};
-
-const TOP_QUESTOES: { nome: string; valor: number; liga: Liga }[] = [
-  { nome: "Mariana C.",  valor: 1482, liga: "diamante" },
-  { nome: "Pedro N.",   valor: 1340, liga: "diamante" },
-  { nome: "Lucas S.",   valor: 1198, liga: "ouro"     },
-  { nome: "Você",       valor: 842,  liga: "ouro"     },
-  { nome: "Ana P.",     valor: 790,  liga: "ouro"     },
-  { nome: "Rafael M.",  valor: 701,  liga: "prata"    },
-  { nome: "Julia T.",   valor: 635,  liga: "prata"    },
-  { nome: "Carlos A.",  valor: 510,  liga: "prata"    },
-  { nome: "Sofia R.",   valor: 412,  liga: "bronze"   },
-  { nome: "Diego L.",   valor: 308,  liga: "bronze"   },
-];
-
-const TOP_DIAS: { nome: string; valor: number; liga: Liga }[] = [
-  { nome: "Pedro N.",   valor: 34, liga: "diamante" },
-  { nome: "Mariana C.", valor: 31, liga: "diamante" },
-  { nome: "Sofia R.",   valor: 24, liga: "prata"    },
-  { nome: "Você",       valor: 18, liga: "ouro"     },
-  { nome: "Lucas S.",   valor: 17, liga: "ouro"     },
-  { nome: "Ana P.",     valor: 15, liga: "ouro"     },
-  { nome: "Carlos A.",  valor: 12, liga: "prata"    },
-  { nome: "Julia T.",   valor: 10, liga: "prata"    },
-  { nome: "Rafael M.",  valor: 8,  liga: "bronze"   },
-  { nome: "Diego L.",   valor: 5,  liga: "bronze"   },
-];
-
-const TOP_HORAS: { nome: string; valor: number; liga: Liga }[] = [
-  { nome: "Lucas S.",   valor: 142, liga: "diamante" },
-  { nome: "Mariana C.", valor: 138, liga: "diamante" },
-  { nome: "Pedro N.",   valor: 124, liga: "diamante" },
-  { nome: "Você",       valor: 87,  liga: "ouro"     },
-  { nome: "Julia T.",   valor: 76,  liga: "ouro"     },
-  { nome: "Ana P.",     valor: 68,  liga: "ouro"     },
-  { nome: "Rafael M.",  valor: 55,  liga: "prata"    },
-  { nome: "Carlos A.",  valor: 43,  liga: "prata"    },
-  { nome: "Sofia R.",   valor: 31,  liga: "bronze"   },
-  { nome: "Diego L.",   valor: 22,  liga: "bronze"   },
-];
 
 // ─── Configurações de Liga ────────────────────────────────────────────────────
 
@@ -160,7 +109,6 @@ function RankingCard({
         </div>
       </div>
 
-      {/* Gráfico de barras horizontal */}
       <div className="h-72">
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
@@ -201,7 +149,6 @@ function RankingCard({
         </ResponsiveContainer>
       </div>
 
-      {/* Legenda de ligas */}
       <div className="flex flex-wrap gap-2 mt-4 pt-4 border-t border-slate-100 dark:border-[#2C2C2E]">
         {(Object.keys(LIGA_CONFIG) as Liga[]).map((l) => (
           <LigaBadge key={l} liga={l} />
@@ -223,7 +170,6 @@ function MeuCartaoLiga({ aluno }: { aluno: Aluno }) {
 
   return (
     <div className={`rounded-3xl p-6 border-2 ${cfg.border} ${cfg.bg} relative overflow-hidden`}>
-      {/* Decoração */}
       <div className="absolute -top-8 -right-8 text-[120px] opacity-10 select-none pointer-events-none">
         {cfg.icon}
       </div>
@@ -237,7 +183,7 @@ function MeuCartaoLiga({ aluno }: { aluno: Aluno }) {
             <p className="text-xs font-bold text-slate-500 dark:text-[#A1A1AA] uppercase tracking-wider mb-1">Sua Liga</p>
             <h2 className={`text-2xl font-black ${cfg.cor}`}>{cfg.label}</h2>
             <p className="text-sm text-slate-500 dark:text-[#A1A1AA] mt-0.5">
-              {aluno.pontos.toLocaleString("pt-BR")} pts · <span className="font-bold text-slate-700 dark:text-white">#{aluno.rank}° lugar</span>
+              {Math.floor(aluno.pontos).toLocaleString("pt-BR")} pts · <span className="font-bold text-slate-700 dark:text-white">#{aluno.rank}° lugar</span>
             </p>
           </div>
         </div>
@@ -257,12 +203,11 @@ function MeuCartaoLiga({ aluno }: { aluno: Aluno }) {
         </div>
       </div>
 
-      {/* Barra de progresso para próxima liga */}
       {pontosProxima && (
         <div className="mt-6 relative z-10">
           <div className="flex justify-between text-xs font-semibold text-slate-500 dark:text-[#A1A1AA] mb-2">
             <span>{cfg.icon} {cfg.label}</span>
-            <span>{aluno.pontos.toLocaleString("pt-BR")} / {pontosProxima.toLocaleString("pt-BR")} pts</span>
+            <span>{Math.floor(aluno.pontos).toLocaleString("pt-BR")} / {pontosProxima.toLocaleString("pt-BR")} pts</span>
             <span>💎 Diamante</span>
           </div>
           <div className="w-full h-2.5 bg-white/40 dark:bg-black/30 rounded-full overflow-hidden">
@@ -272,7 +217,7 @@ function MeuCartaoLiga({ aluno }: { aluno: Aluno }) {
             />
           </div>
           <p className="text-xs text-slate-500 dark:text-[#A1A1AA] mt-1.5 text-right">
-            Faltam <span className="font-bold">{(pontosProxima - aluno.pontos).toLocaleString("pt-BR")} pts</span> para Diamante
+            Faltam <span className="font-bold">{Math.floor(pontosProxima - aluno.pontos).toLocaleString("pt-BR")} pts</span> para Diamante
           </p>
         </div>
       )}
@@ -282,7 +227,7 @@ function MeuCartaoLiga({ aluno }: { aluno: Aluno }) {
 
 // ─── Escada de Ligas ──────────────────────────────────────────────────────────
 
-function EscadaLigas() {
+function EscadaLigas({ minhaLiga }: { minhaLiga: Liga }) {
   return (
     <div className="bg-white dark:bg-[#1C1C1E] rounded-3xl p-6 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
       <div className="flex items-center gap-3 mb-6">
@@ -299,7 +244,7 @@ function EscadaLigas() {
           <div
             key={key}
             className={`flex items-center justify-between p-4 rounded-2xl border ${cfg.bg} ${cfg.border}
-              ${key === USUARIO_ATUAL.liga ? "ring-2 ring-offset-2 ring-yellow-400 dark:ring-offset-[#1C1C1E]" : ""}
+              ${key === minhaLiga ? "ring-2 ring-offset-2 ring-yellow-400 dark:ring-offset-[#1C1C1E]" : ""}
             `}
           >
             <div className="flex items-center gap-3">
@@ -313,7 +258,7 @@ function EscadaLigas() {
                 </p>
               </div>
             </div>
-            {key === USUARIO_ATUAL.liga && (
+            {key === minhaLiga && (
               <span className="text-xs font-black bg-yellow-400 text-yellow-900 px-2 py-0.5 rounded-full">
                 Você está aqui
               </span>
@@ -331,6 +276,43 @@ type RankTab = "questoes" | "dias" | "horas";
 
 export default function LigaPage() {
   const [activeTab, setActiveTab] = useState<RankTab>("questoes");
+  const [isLoaded, setIsLoaded] = useState(false);
+  
+  const [usuarioAtual, setUsuarioAtual] = useState<Aluno | null>(null);
+  const [topQuestoes, setTopQuestoes] = useState<RankItemType[]>([]);
+  const [topDias, setTopDias] = useState<RankItemType[]>([]);
+  const [topHoras, setTopHoras] = useState<RankItemType[]>([]);
+
+  useEffect(() => {
+    async function carregarDados() {
+      const [meu, qt, dias, horas] = await Promise.all([
+        getMeuRanking(),
+        getTopRanking("total_questoes"),
+        getTopRanking("dias_ativos"),
+        getTopRanking("duracao_segundos")
+      ]);
+
+      if (meu) {
+        setUsuarioAtual({
+          nome: meu.nome,
+          avatar: meu.avatar_url || "V",
+          questoes: meu.total_questoes,
+          diasAtivos: meu.dias_ativos,
+          horas: Math.floor(meu.duracao_segundos / 3600),
+          liga: meu.liga,
+          pontos: meu.pontos,
+          rank: meu.rank
+        });
+      }
+
+      setTopQuestoes(qt.map(x => ({ nome: x.nome, valor: x.total_questoes, liga: x.liga })));
+      setTopDias(dias.map(x => ({ nome: x.nome, valor: x.dias_ativos, liga: x.liga })));
+      setTopHoras(horas.map(x => ({ nome: x.nome, valor: Math.floor(x.duracao_segundos / 3600), liga: x.liga })));
+
+      setIsLoaded(true);
+    }
+    carregarDados();
+  }, []);
 
   const TABS: { key: RankTab; label: string; icon: React.ReactNode }[] = [
     { key: "questoes", label: "Mais Questões",    icon: <Target className="w-4 h-4" /> },
@@ -338,9 +320,17 @@ export default function LigaPage() {
     { key: "horas",    label: "Mais Horas",       icon: <Clock  className="w-4 h-4" /> },
   ];
 
+  if (!isLoaded || !usuarioAtual) {
+    return (
+      <div className="flex h-[80vh] items-center justify-center">
+        <Loader2 className="w-10 h-10 animate-spin text-amber-500" />
+      </div>
+    );
+  }
+
   const RANKING_DATA: Record<RankTab, { dados: RankItemType[]; titulo: string; unidade: string; icone: React.ReactNode; corIcone: string; bgIcone: string; labelEixo?: (v: number) => string }> = {
     questoes: {
-      dados: TOP_QUESTOES,
+      dados: topQuestoes,
       titulo: "Mais Questões Lançadas",
       unidade: " q",
       icone: <Target className="w-5 h-5 text-teal-600 dark:text-teal-400" />,
@@ -348,7 +338,7 @@ export default function LigaPage() {
       bgIcone: "bg-teal-50 dark:bg-teal-500/10",
     },
     dias: {
-      dados: TOP_DIAS,
+      dados: topDias,
       titulo: "Mais Dias Ativos Seguidos",
       unidade: " dias",
       icone: <Flame className="w-5 h-5 text-orange-500" />,
@@ -356,7 +346,7 @@ export default function LigaPage() {
       bgIcone: "bg-orange-50 dark:bg-orange-500/10",
     },
     horas: {
-      dados: TOP_HORAS,
+      dados: topHoras,
       titulo: "Mais Horas Contabilizadas",
       unidade: "h",
       icone: <Clock className="w-5 h-5 text-indigo-500 dark:text-indigo-400" />,
@@ -370,7 +360,6 @@ export default function LigaPage() {
 
   return (
     <div className="space-y-8 animate-in fade-in duration-500">
-      {/* Header */}
       <header className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
           <div className="flex items-center gap-2 mb-1">
@@ -381,22 +370,17 @@ export default function LigaPage() {
             Dispute com outros alunos e suba de divisão.
           </p>
         </div>
-        <LigaBadge liga={USUARIO_ATUAL.liga} size="lg" />
+        <LigaBadge liga={usuarioAtual.liga} size="lg" />
       </header>
 
-      {/* Card da liga do usuário */}
-      <MeuCartaoLiga aluno={USUARIO_ATUAL} />
+      <MeuCartaoLiga aluno={usuarioAtual} />
 
-      {/* Escada de ligas + Rankings lado a lado */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        {/* Escada */}
         <div className="lg:col-span-1">
-          <EscadaLigas />
+          <EscadaLigas minhaLiga={usuarioAtual.liga} />
         </div>
 
-        {/* Rankings com tab */}
         <div className="lg:col-span-2 flex flex-col gap-4">
-          {/* Tabs */}
           <div className="flex gap-2 bg-white dark:bg-[#1C1C1E] p-1.5 rounded-2xl border border-slate-100 dark:border-[#2C2C2E] shadow-sm">
             {TABS.map((t) => (
               <button
@@ -414,7 +398,6 @@ export default function LigaPage() {
             ))}
           </div>
 
-          {/* Gráfico ativo */}
           <RankingCard
             titulo={tab.titulo}
             icone={tab.icone}

@@ -30,11 +30,12 @@ export default function HubPage() {
   // Carrega perfil do aluno logado e inicializa Presence
   // ──────────────────────────────────────────────────────────
   useEffect(() => {
+    let mounted = true;
     let channel: RealtimeChannel | null = null;
 
     async function setup() {
       const { data: { user } } = await supabase.auth.getUser();
-      if (!user) return;
+      if (!user || !mounted) return;
 
       // Busca nome e avatar do profile
       const { data: profile } = await supabase
@@ -42,6 +43,8 @@ export default function HubPage() {
         .select("nome, avatar_url")
         .eq("id", user.id)
         .single();
+
+      if (!mounted) return;
 
       const me: PresenceUser = {
         user_id: user.id,
@@ -59,11 +62,13 @@ export default function HubPage() {
 
       channel
         .on("presence", { event: "sync" }, () => {
-          const state = channel!.presenceState<PresenceUser>();
+          if (!mounted || !channel) return;
+          const state = channel.presenceState<PresenceUser>();
           const users = (Object.values(state).flat() as unknown) as PresenceUser[];
           setOnlineUsers(users);
         })
         .on("presence", { event: "join" }, ({ newPresences }) => {
+          if (!mounted) return;
           setOnlineUsers((prev) => {
             const ids = new Set(prev.map((u) => u.user_id));
             const novos = ((newPresences as unknown) as PresenceUser[]).filter((u) => !ids.has(u.user_id));
@@ -71,25 +76,25 @@ export default function HubPage() {
           });
         })
         .on("presence", { event: "leave" }, ({ leftPresences }) => {
+          if (!mounted) return;
           const leftIds = new Set(((leftPresences as unknown) as PresenceUser[]).map((u) => u.user_id));
           setOnlineUsers((prev) => prev.filter((u) => !leftIds.has(u.user_id)));
         })
         .subscribe(async (status) => {
-          if (status === "SUBSCRIBED") {
-            await channel!.track(me);
+          if (status === "SUBSCRIBED" && mounted && channel) {
+            await channel.track(me);
           }
         });
     }
 
     setup();
 
-    // Cleanup: ao sair da página, remove presença automaticamente
     return () => {
+      mounted = false;
       if (channel) {
-        channel.untrack().then(() => supabase.removeChannel(channel!));
+        supabase.removeChannel(channel);
       }
     };
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleAcessoMentoria = () => {
@@ -103,7 +108,6 @@ export default function HubPage() {
   const handleLogout = async () => {
     setIsLoggingOut(true);
     await supabase.auth.signOut();
-    localStorage.removeItem("@sinapse/conta_tipo");
     router.push("/login");
   };
 

@@ -1,75 +1,126 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { CheckCircle2, Circle, Plus, Trash2, CalendarIcon, Target } from "lucide-react";
+import { CheckCircle2, Circle, Plus, Trash2, CalendarIcon, Target, Loader2 } from "lucide-react";
 import { format, parseISO } from "date-fns";
 import { ptBR } from "date-fns/locale";
 import { motion, AnimatePresence } from "framer-motion";
+import { createClient } from "@/utils/supabase/client";
+import { toast } from "sonner";
 
 type AppTask = {
   id: string;
   texto: string;
   status: "completed" | "pending";
-  limitDate?: string;
+  limit_date?: string;
 };
 
-const INITIAL_TASKS: AppTask[] = [
-  { id: "t1", texto: "Revisar anotações de Termodinâmica", status: "completed" },
-  { id: "t2", texto: "Finalizar lista de exercícios Logaritmo", status: "pending", limitDate: "2026-04-10" },
-  { id: "t3", texto: "Assistir a aula bônus de Redação Nível A", status: "pending" },
-];
-
 export default function TarefasPage() {
-  const [tarefas, setTarefas] = useState<AppTask[]>(INITIAL_TASKS);
+  const [tarefas, setTarefas] = useState<AppTask[]>([]);
   const [isLoaded, setIsLoaded] = useState(false);
-
-  useEffect(() => {
-    const saved = localStorage.getItem("@sinapse/tarefas");
-    if (saved) {
-      try {
-        setTarefas(JSON.parse(saved));
-      } catch(e){}
-    }
-    setIsLoaded(true);
-  }, []);
-
-  useEffect(() => {
-    if (isLoaded) {
-      localStorage.setItem("@sinapse/tarefas", JSON.stringify(tarefas));
-    }
-  }, [tarefas, isLoaded]);
-
+  const [isAdding, setIsAdding] = useState(false);
   const [newTaskText, setNewTaskText] = useState("");
   const [newLimitDate, setNewLimitDate] = useState("");
+  
+  const supabase = createClient();
 
-  const handleAddTask = (e?: React.FormEvent) => {
+  useEffect(() => {
+    fetchTasks();
+  }, []);
+
+  const fetchTasks = async () => {
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) return;
+
+    const { data } = await supabase
+      .from('tarefas')
+      .select('*')
+      .eq('user_id', user.id)
+      .order('created_at', { ascending: false });
+
+    if (data) {
+      setTarefas(data as any);
+    }
+    setIsLoaded(true);
+  };
+
+  const handleAddTask = async (e?: React.FormEvent) => {
     e?.preventDefault();
-    if (!newTaskText.trim()) return;
+    if (!newTaskText.trim() || isAdding) return;
 
-    const newTask: AppTask = {
-      id: crypto.randomUUID(),
-      texto: newTaskText,
-      status: "pending",
-      limitDate: newLimitDate || undefined,
-    };
+    setIsAdding(true);
+    const { data: { user } } = await supabase.auth.getUser();
+    
+    const { data, error } = await supabase
+      .from('tarefas')
+      .insert([
+        {
+          user_id: user?.id,
+          texto: newTaskText,
+          status: "pending",
+          limit_date: newLimitDate || null,
+        }
+      ])
+      .select()
+      .single();
 
-    setTarefas([newTask, ...tarefas]);
-    setNewTaskText("");
-    setNewLimitDate("");
+    if (error) {
+      toast.error("Erro ao adicionar tarefa.");
+    } else if (data) {
+      setTarefas([data as any, ...tarefas]);
+      setNewTaskText("");
+      setNewLimitDate("");
+      toast.success("Meta adicionada!");
+    }
+    setIsAdding(false);
   };
 
-  const toggleTaskStatus = (id: string) => {
+  const toggleTaskStatus = async (id: string, currentStatus: string) => {
+    const newStatus = currentStatus === "completed" ? "pending" : "completed";
+    
+    // Otimista
     setTarefas(prev => prev.map(t => 
-      t.id === id ? { ...t, status: t.status === "completed" ? "pending" : "completed" } : t
+      t.id === id ? { ...t, status: newStatus as any } : t
     ));
+
+    const { error } = await supabase
+      .from('tarefas')
+      .update({ status: newStatus })
+      .eq('id', id);
+
+    if (error) {
+      toast.error("Erro ao atualizar status.");
+      fetchTasks(); // Rollback
+    }
   };
 
-  const removeTask = (id: string) => {
+  const removeTask = async (id: string) => {
+    // Otimista
     setTarefas(prev => prev.filter(t => t.id !== id));
+
+    const { error } = await supabase
+      .from('tarefas')
+      .delete()
+      .eq('id', id);
+
+    if (error) {
+      toast.error("Erro ao remover tarefa.");
+      fetchTasks();
+    } else {
+      toast.success("Meta removida.");
+    }
   };
+
+  if (!isLoaded) {
+    return (
+      <div className="h-[80vh] flex items-center justify-center">
+        <Loader2 className="w-10 h-10 text-indigo-500 animate-spin" />
+      </div>
+    );
+  }
 
   const hojeStr = new Date().toISOString().split('T')[0];
-  const tarefasHoje = tarefas.filter(t => t.limitDate === hojeStr && t.status === "pending");
+  const tarefasHoje = tarefas.filter(t => t.limit_date === hojeStr && t.status === "pending");
   const pendentes = tarefas.filter(t => t.status === "pending").length;
   const concluidas = tarefas.filter(t => t.status === "completed").length;
 
@@ -146,10 +197,10 @@ export default function TarefasPage() {
               
               <button 
                 type="submit"
-                disabled={!newTaskText.trim()}
+                disabled={!newTaskText.trim() || isAdding}
                 className="h-12 px-6 bg-indigo-600 text-white rounded-2xl hover:bg-indigo-700 disabled:opacity-40 disabled:cursor-not-allowed transition-all shadow-xl shadow-indigo-600/20 flex items-center gap-2 flex-shrink-0 font-black text-xs uppercase tracking-widest active:scale-95"
               >
-                <Plus className="w-5 h-5" />
+                {isAdding ? <Loader2 className="w-5 h-5 animate-spin" /> : <Plus className="w-5 h-5" />}
                 Adicionar
               </button>
             </div>
@@ -172,7 +223,7 @@ export default function TarefasPage() {
                     key={t.id}
                     initial={{ opacity: 0, y: 10 }}
                     animate={{ opacity: 1, y: 0 }}
-                    onClick={() => toggleTaskStatus(t.id)}
+                    onClick={() => toggleTaskStatus(t.id, t.status)}
                     className="group flex items-center justify-between gap-4 p-6 rounded-[2rem] border-2 border-indigo-100 dark:border-indigo-500/20 bg-indigo-50/50 dark:bg-indigo-500/5 hover:shadow-lg hover:shadow-indigo-500/5 transition-all cursor-pointer active:scale-[0.99]"
                   >
                     <div className="flex items-center gap-4 flex-1">
@@ -213,7 +264,7 @@ export default function TarefasPage() {
                 <AnimatePresence>
                 {(() => {
                   const asOutras = tarefas
-                    .filter(t => t.limitDate !== hojeStr || t.status === "completed")
+                    .filter(t => t.limit_date !== hojeStr || t.status === "completed")
                     .sort((a, b) => {
                       if (a.status === "pending" && b.status === "completed") return -1;
                       if (a.status === "completed" && b.status === "pending") return 1;
@@ -236,7 +287,7 @@ export default function TarefasPage() {
                         ? "bg-slate-50/50 dark:bg-[#121212]/30 border-transparent opacity-60" 
                         : "bg-white dark:bg-[#2C2C2E]/30 border-slate-100 dark:border-white/5 hover:border-slate-200 dark:hover:border-white/10 shadow-sm hover:shadow-md"
                       }`}
-                      onClick={() => toggleTaskStatus(t.id)}
+                      onClick={() => toggleTaskStatus(t.id, t.status)}
                     >
                       <div className="flex items-center gap-4 flex-1 overflow-hidden">
                         {t.status === "completed" ? (
@@ -252,10 +303,10 @@ export default function TarefasPage() {
                           <span className={`text-base font-black truncate ${t.status === "completed" ? "text-slate-400 dark:text-slate-600 line-through" : "text-slate-800 dark:text-white"}`}>
                             {t.texto}
                           </span>
-                          {t.limitDate && (
+                          {t.limit_date && (
                             <span className={`text-[10px] mt-1 flex items-center gap-1.5 font-black uppercase tracking-widest ${t.status === "completed" ? "text-slate-400 dark:text-slate-600" : "text-amber-500"}`}>
                               <CalendarIcon className="w-3 h-3" />
-                              {t.limitDate === hojeStr ? "Para Hoje" : `Até ${format(parseISO(t.limitDate), "dd 'de' MMMM", { locale: ptBR })}`}
+                              {t.limit_date === hojeStr ? "Para Hoje" : `Até ${format(parseISO(t.limit_date), "dd 'de' MMMM", { locale: ptBR })}`}
                             </span>
                           )}
                         </div>

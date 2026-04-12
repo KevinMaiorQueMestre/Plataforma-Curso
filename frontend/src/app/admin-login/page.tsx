@@ -44,8 +44,7 @@ export default function LoginPage() {
       }
 
       toast.success("Login realizado com sucesso!");
-      localStorage.setItem("@sinapse/conta_tipo", "admin");
-      // Use window.location.href to ensure the middleware gets a fresh state and avoid Router initialization errors
+      // Redirecionamento via window.location garante que o middleware revalida a sessão
       window.location.href = "/admin"; 
 
     } catch (err: any) {

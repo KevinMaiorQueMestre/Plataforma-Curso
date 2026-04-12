@@ -3,7 +3,8 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/utils/supabase/client";
-import { BrainCircuit, Loader2, Lock, Mail, ArrowRight } from "lucide-react";
+import { BrainCircuit, Loader2, Lock, Mail, ArrowRight, Stethoscope } from "lucide-react";
+import Link from "next/link";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 import { toast } from "sonner";
 
@@ -43,8 +44,7 @@ export default function LoginPage() {
       }
 
       toast.success("Login realizado com sucesso!");
-      localStorage.setItem("@sinapse/conta_tipo", "aluno");
-      // Use window.location.href to ensure the middleware gets a fresh state and avoid Router initialization errors
+      // Redirecionamento via window.location garante que o middleware revalida a sessão
       window.location.href = "/hub"; 
 
     } catch (err: any) {
@@ -59,6 +59,15 @@ export default function LoginPage() {
       <div className="absolute top-6 right-6">
         <ThemeSwitcher />
       </div>
+
+      {/* Botão discreto de acesso admin - estetoscópio */}
+      <Link
+        href="/admin-login"
+        title="Acesso Administrativo"
+        className="absolute bottom-6 left-6 group w-9 h-9 bg-white dark:bg-[#1C1C1E] border border-slate-200 dark:border-[#2C2C2E] rounded-xl flex items-center justify-center shadow-sm hover:border-indigo-400 dark:hover:border-indigo-600 hover:shadow-md transition-all active:scale-95"
+      >
+        <Stethoscope className="w-4 h-4 text-slate-300 dark:text-slate-600 group-hover:text-indigo-500 dark:group-hover:text-indigo-400 transition-colors" />
+      </Link>
 
       <div className="w-full max-w-md">
         {/* Logo Title */}

@@ -1,3 +1,4 @@
+
 "use client";
 
 import { useState, useEffect } from "react";
@@ -7,6 +8,7 @@ import { toast } from "sonner";
 import { motion, AnimatePresence } from "framer-motion";
 import { Activity, Book, Globe2, Leaf, Calculator, PenTool, Send, Clock, Play, Pause, X, PieChart, Maximize2, Minimize2, Trash2, Loader2 } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
+import { getPreferences } from "@/lib/db/preferences";
 import {
   listarSimulados,
   criarSimulado,
@@ -89,14 +91,24 @@ export default function SimuladosPage() {
   const [isLoaded,  setIsLoaded]  = useState(false);
   const [isSaving,  setIsSaving]  = useState(false);
   const [userId,    setUserId]    = useState<string | null>(null);
+  const [activeTab, setActiveTab] = useState<"lancamento" | "metricas">("lancamento");
 
-  // Carrega userId + simulados do banco
+  const [cfgProvas, setCfgProvas] = useState<string[]>([]);
+  const [cfgAnos, setCfgAnos] = useState<string[]>([]);
+
+  // Carrega userId + simulados do banco + config
   useEffect(() => {
     async function init() {
       const supabase = createClient();
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) return;
       setUserId(user.id);
+      
+      // Load Configs from DB instead of LocalStorage
+      const prefs = await getPreferences();
+      setCfgProvas(prefs.provas || []);
+      setCfgAnos(prefs.anos || []);
+
       const data = await listarSimulados(user.id);
       setSimulados(data);
       setIsLoaded(true);
@@ -106,6 +118,7 @@ export default function SimuladosPage() {
 
   const [form, setForm] = useState({
     nomeProva: "",
+    anoProva: "",
     linguagens: "",
     humanas: "",
     naturezas: "",
@@ -190,9 +203,11 @@ export default function SimuladosPage() {
 
     setIsSaving(true);
     try {
+      const tituloCompleto = form.anoProva ? `${form.nomeProva} ${form.anoProva}` : form.nomeProva;
+
       const entry = await criarSimulado({
         userId,
-        tituloSimulado: form.nomeProva,
+        tituloSimulado: tituloCompleto,
         linguagens:  nLing,
         humanas:     nHum,
         naturezas:   nNat,
@@ -214,7 +229,7 @@ export default function SimuladosPage() {
     }
 
     setForm({
-      nomeProva: "", linguagens: "", humanas: "", naturezas: "",
+      nomeProva: "", anoProva: "", linguagens: "", humanas: "", naturezas: "",
       matematica: "", redacao: "",
       tempo1H: "", tempo1M: "", tempo2H: "", tempo2M: "",
       tempoRedH: "", tempoRedM: ""
@@ -310,8 +325,34 @@ export default function SimuladosPage() {
         </div>
       </header>
 
-      {/* --- CRONÔMETRO REVERSO - PREMIUM REDESIGN --- */}
-      <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
+      {/* ─── TOGGLE LANÇAMENTO / MÉTRICAS ─────────────────────────────────── */}
+      <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-2 shadow-sm border border-slate-100 dark:border-[#2C2C2E] flex">
+        <button
+          onClick={() => setActiveTab("lancamento")}
+          className={`flex-1 py-4 rounded-[1.8rem] text-sm font-black uppercase tracking-[0.18em] transition-all duration-200 ${
+            activeTab === "lancamento"
+              ? "bg-indigo-600 text-white shadow-lg shadow-indigo-600/20"
+              : "text-slate-400 dark:text-[#A1A1AA] hover:text-slate-600 dark:hover:text-white"
+          }`}
+        >
+          Lançamento
+        </button>
+        <button
+          onClick={() => setActiveTab("metricas")}
+          className={`flex-1 py-4 rounded-[1.8rem] text-sm font-black uppercase tracking-[0.18em] transition-all duration-200 ${
+            activeTab === "metricas"
+              ? "bg-indigo-600 text-white shadow-lg shadow-indigo-600/20"
+              : "text-slate-400 dark:text-[#A1A1AA] hover:text-slate-600 dark:hover:text-white"
+          }`}
+        >
+          Métricas
+        </button>
+      </div>
+
+      {activeTab === "lancamento" && (
+        <>
+        {/* --- CRONÔMETRO REVERSO - PREMIUM REDESIGN --- */}
+        <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
         
         <div className="absolute top-0 right-0 w-80 h-80 bg-indigo-500/5 rounded-full blur-[100px] -mr-40 -mt-40 pointer-events-none"></div>
 
@@ -327,7 +368,7 @@ export default function SimuladosPage() {
              )}
            </div>
            <div className="flex flex-col gap-1">
-             <h2 className="text-xs font-black text-slate-400 dark:text-slate-500 uppercase tracking-[0.25em] leading-tight mb-1">Cronónometro de Simulado</h2>
+             <h2 className="text-xs font-black text-slate-400 dark:text-slate-500 uppercase tracking-[0.25em] leading-tight mb-1">Cronómetro de Simulado</h2>
              <div className="flex items-baseline gap-2">
                 <div className={`text-7xl font-black font-mono tracking-tighter transition-all duration-500 ${isTimerRunning ? 'text-slate-900 dark:text-white' : 'text-slate-300 dark:text-slate-700'}`}>
                   {getDisplayTime().split(':')[0]}:{getDisplayTime().split(':')[1]}
@@ -394,8 +435,11 @@ export default function SimuladosPage() {
            </div>
         </div>
       </section>
+        </>
+      )}
 
       {/* --- FORMULÁRIO DE LANÇAMENTO --- */}
+      {activeTab === "lancamento" && (
       <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] relative overflow-hidden">
         <div className="absolute top-0 left-0 w-80 h-80 bg-indigo-500/5 rounded-full blur-[100px] -ml-40 -mt-40 pointer-events-none"></div>
         
@@ -412,15 +456,52 @@ export default function SimuladosPage() {
             <div className="flex flex-col md:flex-row items-stretch md:items-end gap-5 w-full md:w-auto">
               <div className="w-full md:w-80">
                 <label className="block text-[10px] font-black text-slate-400 dark:text-slate-500 mb-2 uppercase tracking-[0.25em]">Identificação da Prova</label>
-                <input 
-                  type="text" 
-                  placeholder="Ex: ENEM 2024 - PPL"
-                  value={form.nomeProva}
-                  onChange={e => setForm({...form, nomeProva: e.target.value})}
-                  className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all shadow-inner"
-                />
+                {cfgProvas.length > 0 ? (
+                  <select 
+                    value={form.nomeProva}
+                    onChange={e => setForm({...form, nomeProva: e.target.value})}
+                    className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all shadow-inner appearance-none cursor-pointer"
+                  >
+                    <option value="">Selecione a Prova...</option>
+                    {cfgProvas.map(p => (
+                      <option key={p} value={p}>{p}</option>
+                    ))}
+                  </select>
+                ) : (
+                  <input 
+                    type="text" 
+                    placeholder="Ex: ENEM 2024 - PPL"
+                    value={form.nomeProva}
+                    onChange={e => setForm({...form, nomeProva: e.target.value})}
+                    className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all shadow-inner"
+                  />
+                )}
               </div>
               
+              <div className="w-full md:w-32">
+                <label className="block text-[10px] font-black text-slate-400 dark:text-slate-500 mb-2 uppercase tracking-[0.25em]">Ano da Prova</label>
+                {cfgAnos.length > 0 ? (
+                  <select 
+                    value={form.anoProva}
+                    onChange={e => setForm({...form, anoProva: e.target.value})}
+                    className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all shadow-inner appearance-none cursor-pointer"
+                  >
+                    <option value="">Selecione...</option>
+                    {cfgAnos.map(a => (
+                      <option key={a} value={a}>{a}</option>
+                    ))}
+                  </select>
+                ) : (
+                  <input 
+                    type="text" 
+                    placeholder="Ex: 2024"
+                    value={form.anoProva}
+                    onChange={e => setForm({...form, anoProva: e.target.value})}
+                    className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all shadow-inner"
+                  />
+                )}
+              </div>
+
               <button 
                 onClick={handleSubmit}
                 disabled={isSaving}
@@ -610,224 +691,173 @@ export default function SimuladosPage() {
           </div>
         </div>
       </section>
-
-      {/* --- HISTÓRICO DE SIMULADOS --- */}
-      {simulados.length > 0 && (
-        <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
-          <div className="flex items-center justify-between mb-6">
-            <h3 className="text-xl font-black text-slate-800 dark:text-white flex items-center gap-3">
-              <Activity className="w-6 h-6 text-indigo-500" />
-              Histórico de Simulados
-            </h3>
-            <span className="text-xs font-black text-slate-400 bg-slate-100 dark:bg-[#2C2C2E] px-3 py-1.5 rounded-full uppercase tracking-widest">
-              {simulados.length} registros
-            </span>
-          </div>
-          <div className="space-y-3">
-            {simulados.map(sim => {
-              const total = (sim.linguagens || 0) + (sim.humanas || 0) + (sim.naturezas || 0) + (sim.matematica || 0);
-              const dateStr = sim.realizado_em ? format(new Date(sim.realizado_em), "dd/MM/yyyy", { locale: ptBR }) : "";
-              return (
-                <div key={sim.id} className="flex items-center justify-between gap-4 bg-slate-50 dark:bg-[#2C2C2E]/60 rounded-2xl px-5 py-4 border border-slate-100 dark:border-white/5 group">
-                  <div className="flex-1 min-w-0">
-                    <p className="font-black text-slate-800 dark:text-white text-sm truncate">{sim.titulo_simulado}</p>
-                    <p className="text-xs text-slate-400 mt-0.5">{dateStr}</p>
-                  </div>
-                  <div className="hidden sm:flex items-center gap-4 text-xs font-bold text-slate-500">
-                    <span className="text-indigo-500">{total}/180 obj.</span>
-                    {sim.redacao > 0 && <span className="text-rose-500">✍️ {sim.redacao} red.</span>}
-                    {sim.tempo_total_min > 0 && <span className="text-slate-400">⏱ {sim.tempo_total_min} min</span>}
-                  </div>
-                  <button
-                    onClick={() => handleDelete(sim.id)}
-                    className="w-8 h-8 flex items-center justify-center rounded-xl text-slate-300 dark:text-slate-600 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10 transition-all opacity-0 group-hover:opacity-100"
-                    title="Remover simulado"
-                  >
-                    <Trash2 className="w-4 h-4" />
-                  </button>
-                </div>
-              );
-            })}
-          </div>
-        </section>
       )}
 
-      {/* --- GRÁFICOS DE EVOLUÇÃO --- */}
-      {simulados.length > 0 && (
-        <div className="space-y-6">
-          {/* Gráfico de Análise Geral */}
-          <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
-            <div className="absolute top-0 right-0 w-80 h-80 bg-indigo-500/5 rounded-full blur-[100px] -mr-40 -mt-40 pointer-events-none"></div>
-            
-            <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-10 gap-4">
-              <div>
-                <h3 className="text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3">
-                  <PieChart className="w-7 h-7 text-indigo-500" />
-                  Análise Geral de Acertos
-                </h3>
-                <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Evolução Histórica das Objetivas</p>
-              </div>
-              <div className="bg-indigo-50 dark:bg-indigo-900/20 px-6 py-2 rounded-full border border-indigo-100 dark:border-indigo-900/30">
-                <span className="text-xs font-black text-indigo-600 dark:text-indigo-400 uppercase tracking-widest italic">Visão Consolidada</span>
-              </div>
-            </div>
-
-            <div className="h-[400px] w-full">
-              <ResponsiveContainer width="100%" height="100%">
-                <BarChart data={getGeneralAnalysisData()} margin={{ top: 20, right: 30, left: 0, bottom: 20 }}>
-                  <defs>
-                    <linearGradient id="generalGradient" x1="0" y1="0" x2="0" y2="1">
-                      <stop offset="0%" stopColor="#818cf8" stopOpacity={0.8}/>
-                      <stop offset="100%" stopColor="#818cf8" stopOpacity={0.1}/>
-                    </linearGradient>
-                  </defs>
-                  <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" strokeOpacity={0.5} />
-                  <XAxis dataKey="display" axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} dy={10} />
-                  <YAxis domain={[0, 180]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} />
-                  <Tooltip cursor={{ fill: 'rgba(99, 102, 241, 0.05)' }} content={<TooltipGeral />} />
-                  <Legend verticalAlign="top" height={40} iconType="circle" />
-                  <Bar dataKey="acertos" fill="url(#generalGradient)" radius={[12, 12, 0, 0]} barSize={60} name="Total de Acertos" />
-                </BarChart>
-              </ResponsiveContainer>
-            </div>
-          </section>
-
-          <section className="grid grid-cols-1 gap-8">
-            
-            {/* Gráfico 1º DIA (OBJETIVAS) */}
-            {/* Gráfico 1º DIA (OBJETIVAS) */}
-            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
-              <div className="absolute top-0 right-0 w-80 h-80 bg-amber-500/5 rounded-full blur-[100px] -mr-40 -mt-40 pointer-events-none"></div>
-              
-              <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-10 gap-4">
-                <div>
-                  <h3 className="text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3">
-                    <Book className="w-7 h-7 text-indigo-500" />
-                    Análise: 1º Dia
-                  </h3>
-                  <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Linguagens e Ciências Humanas</p>
-                </div>
-                <div className="bg-amber-50 dark:bg-amber-900/20 px-6 py-2 rounded-full border border-amber-100 dark:border-amber-900/30">
-                  <span className="text-xs font-black text-amber-600 dark:text-amber-400 uppercase tracking-widest italic">Performance Objetivas</span>
-                </div>
-              </div>
-
-              <div className="h-[400px] w-full">
-                <ResponsiveContainer width="100%" height="100%">
-                  <ComposedChart data={getChartDataDay1()} margin={{ top: 20, right: 30, left: 0, bottom: 20 }}>
-                    <defs>
-                      <linearGradient id="lingGradient" x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="0%" stopColor="#6366f1" stopOpacity={0.8}/>
-                        <stop offset="100%" stopColor="#6366f1" stopOpacity={0.1}/>
-                      </linearGradient>
-                      <linearGradient id="humGradient" x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="0%" stopColor="#f59e0b" stopOpacity={0.8}/>
-                        <stop offset="100%" stopColor="#f59e0b" stopOpacity={0.1}/>
-                      </linearGradient>
-                    </defs>
-                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" strokeOpacity={0.5} />
-                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} dy={10} />
-                    <YAxis yAxisId="left" domain={[0, 45]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} label={{ value: 'Acertos', angle: -90, position: 'insideLeft', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
-                    <YAxis yAxisId="right" orientation="right" domain={[0, 300]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} label={{ value: 'Tempo (Min)', angle: 90, position: 'insideRight', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
-                    <Tooltip content={<TooltipD1 />} />
-                    <Legend verticalAlign="top" height={40} iconType="circle" />
-                    <Bar yAxisId="left" dataKey="linguagens" fill="url(#lingGradient)" radius={[8, 8, 0, 0]} barSize={25} name="Linguagens" />
-                    <Bar yAxisId="left" dataKey="humanas" fill="url(#humGradient)" radius={[8, 8, 0, 0]} barSize={25} name="Ciências Humanas" />
-                    <Line yAxisId="right" type="monotone" dataKey="tempo1" stroke="#64748b" strokeWidth={4} dot={{ r: 6, fill: '#64748b', strokeWidth: 3, stroke: '#fff' }} name="Tempo D1 (Min)" />
-                  </ComposedChart>
-                </ResponsiveContainer>
-              </div>
-            </div>
-
-            {/* Gráfico ESPECÍFICO: PERFORMANCE EM REDAÇÃO */}
-            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
-              <div className="absolute top-0 right-0 w-80 h-80 bg-rose-500/5 rounded-full blur-[100px] -mr-40 -mt-40 pointer-events-none"></div>
-              
-              <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-10 gap-4">
-                <div>
-                  <h3 className="text-2xl font-black text-rose-600 dark:text-rose-400 flex items-center gap-3">
-                    <PenTool className="w-7 h-7" />
-                    Correlação: Redação
-                  </h3>
-                  <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Produtividade e Eficiência na Escrita</p>
-                </div>
-                <div className="bg-rose-50 dark:bg-rose-900/20 px-6 py-2 rounded-full border border-rose-100 dark:border-rose-900/30">
-                  <span className="text-xs font-black text-rose-600 dark:text-rose-400 uppercase tracking-widest italic">Análise de Rendimento</span>
-                </div>
-              </div>
-              
-              <div className="h-[400px] w-full">
-                <ResponsiveContainer width="100%" height="100%">
-                  <ComposedChart data={getRedacaoPerformanceData()} margin={{ top: 20, right: 30, left: 0, bottom: 20 }}>
-                    <defs>
-                      <linearGradient id="roseGradientSim" x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="0%" stopColor="#f43f5e" stopOpacity={0.8}/>
-                        <stop offset="100%" stopColor="#f43f5e" stopOpacity={0.1}/>
-                      </linearGradient>
-                    </defs>
-                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" strokeOpacity={0.5} />
-                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} dy={10} />
-                    <YAxis yAxisId="left" domain={[0, 1000]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#f43f5e', fontWeight: 'bold' }} label={{ value: 'Nota (0-1000)', angle: -90, position: 'insideLeft', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#f43f5e' }} />
-                    <YAxis yAxisId="right" orientation="right" domain={[0, 150]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} label={{ value: 'Tempo (Minutos)', angle: 90, position: 'insideRight', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
-                    <Tooltip content={<TooltipRedacao />} />
-                    <Legend verticalAlign="top" height={40} iconType="circle" />
-                    <Bar yAxisId="left" dataKey="nota" fill="url(#roseGradientSim)" radius={[12, 12, 0, 0]} barSize={45} name="Pontuação Redação" />
-                    <Line yAxisId="right" type="stepAfter" dataKey="tempo" stroke="#64748b" strokeWidth={4} dot={{ r: 8, fill: '#64748b', strokeWidth: 4, stroke: '#fff' }} name="Minutos Gastos" />
-                  </ComposedChart>
-                </ResponsiveContainer>
-              </div>
-            </div>
-
-            {/* Gráfico 2º DIA (OBJETIVAS) */}
-            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
-              <div className="absolute top-0 right-0 w-80 h-80 bg-emerald-500/5 rounded-full blur-[100px] -mr-40 -mt-40 pointer-events-none"></div>
-              
-              <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-10 gap-4">
-                <div>
-                  <h3 className="text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3">
-                    <Activity className="w-7 h-7 text-blue-500" />
-                    Análise: 2º Dia
-                  </h3>
-                  <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Natureza e Matemática</p>
-                </div>
-                <div className="bg-blue-50 dark:bg-blue-900/20 px-6 py-2 rounded-full border border-blue-100 dark:border-blue-900/30">
-                  <span className="text-xs font-black text-blue-600 dark:text-blue-400 uppercase tracking-widest italic">Performance Objetivas</span>
-                </div>
-              </div>
-
-              <div className="h-[400px] w-full">
-                <ResponsiveContainer width="100%" height="100%">
-                  <ComposedChart data={getChartDataDay2()} margin={{ top: 20, right: 30, left: 0, bottom: 20 }}>
-                    <defs>
-                      <linearGradient id="matGradient" x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="0%" stopColor="#3b82f6" stopOpacity={0.8}/>
-                        <stop offset="100%" stopColor="#3b82f6" stopOpacity={0.1}/>
-                      </linearGradient>
-                      <linearGradient id="natGradient" x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="0%" stopColor="#10b981" stopOpacity={0.8}/>
-                        <stop offset="100%" stopColor="#10b981" stopOpacity={0.1}/>
-                      </linearGradient>
-                    </defs>
-                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" strokeOpacity={0.5} />
-                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} dy={10} />
-                    <YAxis yAxisId="left" domain={[0, 45]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} label={{ value: 'Acertos', angle: -90, position: 'insideLeft', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
-                    <YAxis yAxisId="right" orientation="right" domain={[0, 300]} axisLine={false} tickLine={false} tick={{ fontSize: 11, fill: '#64748b', fontWeight: 'bold' }} label={{ value: 'Tempo (Min)', angle: 90, position: 'insideRight', offset: -5, fontStyle: 'bold', fontSize: 10, fill: '#94a3b8' }} />
-                    <Tooltip content={<TooltipD2 />} />
-                    <Legend verticalAlign="top" height={40} iconType="circle" />
-                    <Bar yAxisId="left" dataKey="matematica" fill="url(#matGradient)" radius={[8, 8, 0, 0]} barSize={35} name="Matemática" />
-                    <Bar yAxisId="left" dataKey="naturezas" fill="url(#natGradient)" radius={[8, 8, 0, 0]} barSize={35} name="Natureza" />
-                    <Line yAxisId="right" type="monotone" dataKey="tempo2" stroke="#64748b" strokeWidth={4} dot={{ r: 6, fill: '#64748b', strokeWidth: 3, stroke: '#fff' }} name="Tempo D2 (Min)" />
-                  </ComposedChart>
-                </ResponsiveContainer>
-              </div>
-            </div>
-          </section>
+      {/* ─── ABA MÉTRICAS ─────────────────────────────────────────────────── */}
+      {activeTab === "metricas" && simulados.length === 0 && (
+        <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-16 shadow-sm border border-slate-100 dark:border-[#2C2C2E] flex flex-col items-center justify-center text-center">
+          <PieChart className="w-12 h-12 text-slate-300 dark:text-slate-700 mb-4" />
+          <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhum simulado registrado ainda.</p>
+          <p className="text-xs text-slate-400 mt-1">Lance um resultado na aba Lançamento para ver as métricas aqui.</p>
         </div>
       )}
 
+      {activeTab === "metricas" && simulados.length > 0 && (() => {
+        const avg = (field: keyof SimuladoDB) =>
+          Math.round(simulados.reduce((acc, s) => acc + (Number(s[field]) || 0), 0) / simulados.length);
+        const cards = [
+          { label: "Linguagens",  value: avg("linguagens"),  max: 45,   color: "text-indigo-500",  dot: "bg-indigo-500",  bg: "bg-indigo-50 dark:bg-indigo-900/20" },
+          { label: "Humanas",     value: avg("humanas"),     max: 45,   color: "text-amber-500",   dot: "bg-amber-500",   bg: "bg-amber-50 dark:bg-amber-900/20" },
+          { label: "Naturezas",   value: avg("naturezas"),   max: 45,   color: "text-emerald-500", dot: "bg-emerald-500", bg: "bg-emerald-50 dark:bg-emerald-900/20" },
+          { label: "Matemática",  value: avg("matematica"),  max: 45,   color: "text-blue-500",    dot: "bg-blue-500",    bg: "bg-blue-50 dark:bg-blue-900/20" },
+          { label: "Redação",     value: avg("redacao"),     max: 1000, color: "text-rose-500",    dot: "bg-rose-500",    bg: "bg-rose-50 dark:bg-rose-900/20" },
+        ];
+        return (
+          <>
+            {/* Cards de médias */}
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+              {cards.map(c => (
+                <div key={c.label} className={`${c.bg} rounded-[2rem] p-6 border border-white/30 dark:border-white/5 shadow-sm flex flex-col gap-3`}>
+                  <div className="flex items-center gap-2">
+                    <span className={`w-2 h-2 rounded-full ${c.dot}`} />
+                    <p className="text-[10px] font-black uppercase tracking-widest text-slate-500 dark:text-slate-400">{c.label}</p>
+                  </div>
+                  <p className={`text-4xl font-black ${c.color}`}>
+                    {c.value}
+                    <span className="text-base font-bold text-slate-400 ml-1">/{c.max}</span>
+                  </p>
+                  <div className="w-full h-1.5 bg-white/60 dark:bg-white/10 rounded-full overflow-hidden">
+                    <div className={`h-full rounded-full ${c.dot}`} style={{ width: `${Math.round((c.value / c.max) * 100)}%` }} />
+                  </div>
+                  <p className="text-[10px] text-slate-400 font-bold">média de {simulados.length} simulado{simulados.length !== 1 ? 's' : ''}</p>
+                </div>
+              ))}
+            </div>
+
+            {/* Histórico + Gráficos dentro da aba Métricas */}
+            <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E]">
+              <div className="flex items-center justify-between mb-6">
+                <h3 className="text-xl font-black text-slate-800 dark:text-white flex items-center gap-3">
+                  <Activity className="w-6 h-6 text-indigo-500" /> Histórico de Simulados
+                </h3>
+                <span className="text-xs font-black text-slate-400 bg-slate-100 dark:bg-[#2C2C2E] px-3 py-1.5 rounded-full uppercase tracking-widest">{simulados.length} registros</span>
+              </div>
+              <div className="space-y-3">
+                {simulados.map(sim => {
+                  const total = (sim.linguagens||0)+(sim.humanas||0)+(sim.naturezas||0)+(sim.matematica||0);
+                  const dateStr = sim.realizado_em ? format(new Date(sim.realizado_em),"dd/MM/yyyy",{locale:ptBR}) : "";
+                  return (
+                    <div key={sim.id} className="flex items-center justify-between gap-4 bg-slate-50 dark:bg-[#2C2C2E]/60 rounded-2xl px-5 py-4 border border-slate-100 dark:border-white/5 group">
+                      <div className="flex-1 min-w-0"><p className="font-black text-slate-800 dark:text-white text-sm truncate">{sim.titulo_simulado}</p><p className="text-xs text-slate-400 mt-0.5">{dateStr}</p></div>
+                      <div className="hidden sm:flex items-center gap-4 text-xs font-bold text-slate-500">
+                        <span className="text-indigo-500">{total}/180 obj.</span>
+                        {sim.redacao > 0 && <span className="text-rose-500">✍️ {sim.redacao} red.</span>}
+                        {sim.tempo_total_min > 0 && <span className="text-slate-400">⏱ {sim.tempo_total_min} min</span>}
+                      </div>
+                      <button onClick={() => handleDelete(sim.id)} className="w-8 h-8 flex items-center justify-center rounded-xl text-slate-300 dark:text-slate-600 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10 transition-all opacity-0 group-hover:opacity-100" title="Remover"><Trash2 className="w-4 h-4" /></button>
+                    </div>
+                  );
+                })}
+              </div>
+            </section>
+
+            <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
+              <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-10 gap-4">
+                <div><h3 className="text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3"><PieChart className="w-7 h-7 text-indigo-500"/> Análise Geral de Acertos</h3><p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Evolução Histórica das Objetivas</p></div>
+                <div className="bg-indigo-50 dark:bg-indigo-900/20 px-6 py-2 rounded-full border border-indigo-100 dark:border-indigo-900/30"><span className="text-xs font-black text-indigo-600 dark:text-indigo-400 uppercase tracking-widest italic">Visão Consolidada</span></div>
+              </div>
+              <div className="h-[400px] w-full">
+                <ResponsiveContainer width="100%" height="100%">
+                  <BarChart data={getGeneralAnalysisData()} margin={{top:20,right:30,left:0,bottom:20}}>
+                    <defs><linearGradient id="gGr" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#818cf8" stopOpacity={0.8}/><stop offset="100%" stopColor="#818cf8" stopOpacity={0.1}/></linearGradient></defs>
+                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" strokeOpacity={0.5}/>
+                    <XAxis dataKey="display" axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} dy={10}/>
+                    <YAxis domain={[0,180]} axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}}/>
+                    <Tooltip cursor={{fill:'rgba(99,102,241,0.05)'}} content={<TooltipGeral/>}/>
+                    <Legend verticalAlign="top" height={40} iconType="circle"/>
+                    <Bar dataKey="acertos" fill="url(#gGr)" radius={[12,12,0,0]} barSize={60} name="Total de Acertos"/>
+                  </BarChart>
+                </ResponsiveContainer>
+              </div>
+            </section>
+
+            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
+              <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-10 gap-4">
+                <div><h3 className="text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3"><Book className="w-7 h-7 text-indigo-500"/> Análise: 1º Dia</h3><p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Linguagens e Ciências Humanas</p></div>
+                <div className="bg-amber-50 dark:bg-amber-900/20 px-6 py-2 rounded-full border border-amber-100 dark:border-amber-900/30"><span className="text-xs font-black text-amber-600 dark:text-amber-400 uppercase tracking-widest italic">Performance Objetivas</span></div>
+              </div>
+              <div className="h-[400px] w-full">
+                <ResponsiveContainer width="100%" height="100%">
+                  <ComposedChart data={getChartDataDay1()} margin={{top:20,right:30,left:0,bottom:20}}>
+                    <defs>
+                      <linearGradient id="lG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#6366f1" stopOpacity={0.8}/><stop offset="100%" stopColor="#6366f1" stopOpacity={0.1}/></linearGradient>
+                      <linearGradient id="hG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#f59e0b" stopOpacity={0.8}/><stop offset="100%" stopColor="#f59e0b" stopOpacity={0.1}/></linearGradient>
+                    </defs>
+                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" strokeOpacity={0.5}/>
+                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} dy={10}/>
+                    <YAxis yAxisId="left" domain={[0,45]} axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} label={{value:'Acertos',angle:-90,position:'insideLeft',offset:-5,fontStyle:'bold',fontSize:10,fill:'#94a3b8'}}/>
+                    <YAxis yAxisId="right" orientation="right" domain={[0,300]} axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} label={{value:'Tempo (Min)',angle:90,position:'insideRight',offset:-5,fontStyle:'bold',fontSize:10,fill:'#94a3b8'}}/>
+                    <Tooltip content={<TooltipD1/>}/><Legend verticalAlign="top" height={40} iconType="circle"/>
+                    <Bar yAxisId="left" dataKey="linguagens" fill="url(#lG)" radius={[8,8,0,0]} barSize={25} name="Linguagens"/>
+                    <Bar yAxisId="left" dataKey="humanas" fill="url(#hG)" radius={[8,8,0,0]} barSize={25} name="Ciências Humanas"/>
+                    <Line yAxisId="right" type="monotone" dataKey="tempo1" stroke="#64748b" strokeWidth={4} dot={{r:6,fill:'#64748b',strokeWidth:3,stroke:'#fff'}} name="Tempo D1 (Min)"/>
+                  </ComposedChart>
+                </ResponsiveContainer>
+              </div>
+            </div>
+
+            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
+              <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-10 gap-4">
+                <div><h3 className="text-2xl font-black text-rose-600 dark:text-rose-400 flex items-center gap-3"><PenTool className="w-7 h-7"/> Correlação: Redação</h3><p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Produtividade e Eficiência na Escrita</p></div>
+                <div className="bg-rose-50 dark:bg-rose-900/20 px-6 py-2 rounded-full border border-rose-100 dark:border-rose-900/30"><span className="text-xs font-black text-rose-600 dark:text-rose-400 uppercase tracking-widest italic">Análise de Rendimento</span></div>
+              </div>
+              <div className="h-[400px] w-full">
+                <ResponsiveContainer width="100%" height="100%">
+                  <ComposedChart data={getRedacaoPerformanceData()} margin={{top:20,right:30,left:0,bottom:20}}>
+                    <defs><linearGradient id="rG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#f43f5e" stopOpacity={0.8}/><stop offset="100%" stopColor="#f43f5e" stopOpacity={0.1}/></linearGradient></defs>
+                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" strokeOpacity={0.5}/>
+                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} dy={10}/>
+                    <YAxis yAxisId="left" domain={[0,1000]} axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#f43f5e',fontWeight:'bold'}} label={{value:'Nota (0-1000)',angle:-90,position:'insideLeft',offset:-5,fontStyle:'bold',fontSize:10,fill:'#f43f5e'}}/>
+                    <YAxis yAxisId="right" orientation="right" domain={[0,150]} axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} label={{value:'Tempo (Minutos)',angle:90,position:'insideRight',offset:-5,fontStyle:'bold',fontSize:10,fill:'#94a3b8'}}/>
+                    <Tooltip content={<TooltipRedacao/>}/><Legend verticalAlign="top" height={40} iconType="circle"/>
+                    <Bar yAxisId="left" dataKey="nota" fill="url(#rG)" radius={[12,12,0,0]} barSize={45} name="Pontuação Redação"/>
+                    <Line yAxisId="right" type="stepAfter" dataKey="tempo" stroke="#64748b" strokeWidth={4} dot={{r:8,fill:'#64748b',strokeWidth:4,stroke:'#fff'}} name="Minutos Gastos"/>
+                  </ComposedChart>
+                </ResponsiveContainer>
+              </div>
+            </div>
+
+            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
+              <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-10 gap-4">
+                <div><h3 className="text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3"><Activity className="w-7 h-7 text-blue-500"/> Análise: 2º Dia</h3><p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Natureza e Matemática</p></div>
+                <div className="bg-blue-50 dark:bg-blue-900/20 px-6 py-2 rounded-full border border-blue-100 dark:border-blue-900/30"><span className="text-xs font-black text-blue-600 dark:text-blue-400 uppercase tracking-widest italic">Performance Objetivas</span></div>
+              </div>
+              <div className="h-[400px] w-full">
+                <ResponsiveContainer width="100%" height="100%">
+                  <ComposedChart data={getChartDataDay2()} margin={{top:20,right:30,left:0,bottom:20}}>
+                    <defs>
+                      <linearGradient id="mG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#3b82f6" stopOpacity={0.8}/><stop offset="100%" stopColor="#3b82f6" stopOpacity={0.1}/></linearGradient>
+                      <linearGradient id="nG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#10b981" stopOpacity={0.8}/><stop offset="100%" stopColor="#10b981" stopOpacity={0.1}/></linearGradient>
+                    </defs>
+                    <CartesianGrid strokeDasharray="3" vertical={false} stroke="#e2e8f0" strokeOpacity={0.5}/>
+                    <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} dy={10}/>
+                    <YAxis yAxisId="left" domain={[0,45]} axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} label={{value:'Acertos',angle:-90,position:'insideLeft',offset:-5,fontStyle:'bold',fontSize:10,fill:'#94a3b8'}}/>
+                    <YAxis yAxisId="right" orientation="right" domain={[0,300]} axisLine={false} tickLine={false} tick={{fontSize:11,fill:'#64748b',fontWeight:'bold'}} label={{value:'Tempo (Min)',angle:90,position:'insideRight',offset:-5,fontStyle:'bold',fontSize:10,fill:'#94a3b8'}}/>
+                    <Tooltip content={<TooltipD2/>}/><Legend verticalAlign="top" height={40} iconType="circle"/>
+                    <Bar yAxisId="left" dataKey="matematica" fill="url(#mG)" radius={[8,8,0,0]} barSize={35} name="Matemática"/>
+                    <Bar yAxisId="left" dataKey="naturezas" fill="url(#nG)" radius={[8,8,0,0]} barSize={35} name="Natureza"/>
+                    <Line yAxisId="right" type="monotone" dataKey="tempo2" stroke="#64748b" strokeWidth={4} dot={{r:6,fill:'#64748b',strokeWidth:3,stroke:'#fff'}} name="Tempo D2 (Min)"/>
+                  </ComposedChart>
+                </ResponsiveContainer>
+              </div>
+            </div>
+          </>
+        );
+      })()}
+
       <AnimatePresence>
         {isFocusMode && (
-          <SimulatorOverlay 
+          <SimulatorOverlay
             getDisplayTime={getDisplayTime}
             timeLeft={timeLeft}
             timerConfig={timerConfig}
@@ -845,6 +875,8 @@ export default function SimuladosPage() {
     </div>
   );
 }
+
+
 
 // Sub-componente para o Overlay do Simulado (Modo Zen)
 function SimulatorOverlay({ 

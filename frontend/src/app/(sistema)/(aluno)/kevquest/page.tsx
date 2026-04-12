@@ -23,6 +23,7 @@ import {
   type KevQuestEntry
 } from "@/lib/db/kevquest";
 import { getDisciplinas, getConteudos, type Disciplina, type Conteudo } from "@/lib/db/disciplinas";
+import { getPreferences } from "@/lib/db/preferences";
 
 function CustomDropdown({
   value,
@@ -107,7 +108,6 @@ function CustomDropdown({
 
 export default function KevQuestPage() {
   const [modalOpen, setModalOpen]                 = useState(false);
-  const [configOpen, setConfigOpen]               = useState(false);
   const [isLoaded, setIsLoaded]                   = useState(false);
   const [isSaving, setIsSaving]                   = useState(false);
   const [questoes, setQuestoes]                   = useState<any[]>([]);
@@ -120,15 +120,13 @@ export default function KevQuestPage() {
   const [dbDisciplinas, setDbDisciplinas] = useState<Disciplina[]>([]);
   const [dbConteudos,   setDbConteudos]   = useState<Conteudo[]>([]);
 
-  // Configurações editáveis dos dropdowns (ainda em localStorage — só meta-config, não dados)
-  const [cfgProvas,  setCfgProvas]  = useState<string[]>(["ENEM 2023", "ENEM 2022", "FUVEST 2024", "UNICAMP 2024", "Simulado Hexag"]);
-  const [cfgCores,   setCfgCores]   = useState<string[]>(["Azul", "Amarela", "Rosa", "Branca", "Cinza", "Verde"]);
-  const [cfgMotivos, setCfgMotivos] = useState<string[]>(["Falta de Atenção", "Não sabia a matéria", "Falta de tempo", "Interpretação", "Cálculo Básico"]);
-  const [cfgAnos,    setCfgAnos]    = useState<string[]>(["2024", "2023", "2022", "2021", "2020", "2019", "2018"]);
-  const [cfgInput,   setCfgInput]   = useState({ disciplina: "", prova: "", cor: "", conteudo: "", ano: "", motivo: "" });
+  // Configurações editáveis dos dropdowns (ainda em localStorage)
+  const [cfgProvas,  setCfgProvas]  = useState<string[]>([]);
+  const [cfgCores,   setCfgCores]   = useState<string[]>([]);
+  const [cfgMotivos, setCfgMotivos] = useState<string[]>([]);
+  const [cfgAnos,    setCfgAnos]    = useState<string[]>([]);
 
   const [customConteudos, setCustomConteudos] = useState<Record<string, string[]>>({});
-  const [customAnos, setCustomAnos]           = useState<string[]>([]);
   const [isAddingConteudo, setIsAddingConteudo] = useState(false);
   const [newConteudoText,  setNewConteudoText]  = useState("");
   const [isAddingAno, setIsAddingAno]           = useState(false);
@@ -149,23 +147,17 @@ export default function KevQuestPage() {
     comentario: ""
   });
 
-  // Persistência de configurações (apenas Provas/Cores/Motivos/Anos — não dados)
+  // Persistência de configurações (Provas/Cores/Motivos/Anos via global preferences)
   useEffect(() => {
-    const savedCfg = localStorage.getItem('kevquest_config_v2');
-    if (savedCfg) {
-      const parsed = JSON.parse(savedCfg);
-      if (parsed.provas)  setCfgProvas(parsed.provas);
-      if (parsed.cores)   setCfgCores(parsed.cores);
-      if (parsed.anos)    setCfgAnos(parsed.anos);
-      if (parsed.motivos) setCfgMotivos(parsed.motivos);
-    }
+    const loadPrefs = async () => {
+      const prefs = await getPreferences();
+      setCfgProvas(prefs.provas || []);
+      setCfgCores(prefs.cores || []);
+      setCfgAnos(prefs.anos || []);
+      setCfgMotivos(prefs.motivos || []);
+    };
+    loadPrefs();
   }, []);
-
-  useEffect(() => {
-    localStorage.setItem('kevquest_config_v2', JSON.stringify({
-      provas: cfgProvas, cores: cfgCores, anos: cfgAnos, motivos: cfgMotivos
-    }));
-  }, [cfgProvas, cfgCores, cfgAnos, cfgMotivos]);
 
   // ── Carrega userId + entries do banco ──────────────────
   useEffect(() => {
@@ -181,7 +173,7 @@ export default function KevQuestPage() {
 
       // Carrega entries do funil do aluno
       const entries = await listarKevQuestEntries(user.id);
-      // Mapeia para o formato interno da tabela (compatível com a UI existente)
+      // Mapeia para o formato interno da tabela
       setQuestoes(entries.map(mapEntryToRow));
       setIsLoaded(true);
     }
@@ -205,16 +197,15 @@ export default function KevQuestPage() {
     sub_conteudo: e.sub_conteudo ?? "",
     estagio_funil: e.estagio_funil,
     proxima_revisao_at: e.proxima_revisao_at,
-    comentario: "",
-    prova: "",
-    ano: "",
-    cor: "",
-    q_num: "",
+    comentario: e.comentario ?? "",
+    prova: e.prova ?? "",
+    ano: e.ano ?? "",
+    cor: e.cor ?? "",
+    q_num: e.q_num ?? "",
   });
 
-  // ── Salvar / atualizar no banco ─────────────────────────
   const saveToStorage = (newList: any[]) => {
-    setQuestoes(newList); // sem localStorage — dados estão no banco
+    setQuestoes(newList);
   };
 
   const openNewModal = () => {
@@ -234,7 +225,6 @@ export default function KevQuestPage() {
     setIsSaving(true);
     try {
       if (editingId) {
-        // Atualiza apenas o estágio (edição simplificada)
         const proximaRevisaoAt = calcProximaRevisao(form.estagio as EstagioFunil);
         const ok = await atualizarEstagioEntry(editingId, form.estagio as EstagioFunil, proximaRevisaoAt);
         if (ok) {
@@ -247,7 +237,6 @@ export default function KevQuestPage() {
           toast.success("Questão atualizada!");
         }
       } else {
-        // Cria nova entry no banco
         const proximaRevisaoAt = calcProximaRevisao(form.estagio as EstagioFunil);
         const entry = await criarKevQuestEntry({
           userId,
@@ -256,6 +245,11 @@ export default function KevQuestPage() {
           subConteudo: form.sub_conteudo || null,
           estagioFunil: form.estagio as EstagioFunil,
           proximaRevisaoAt,
+          prova: form.prova || null,
+          ano: form.ano || null,
+          cor: form.cor || null,
+          comentario: form.comentario || null,
+          q_num: form.q_num || null,
         });
         if (entry) {
           saveToStorage([mapEntryToRow(entry), ...questoes]);
@@ -270,7 +264,6 @@ export default function KevQuestPage() {
     }
   };
 
-  // --- Operadores de Tabela ---
   const handleAdvance = async (id: string, currentStage: string) => {
     const sequence: Record<string, string | null> = {
       "Quarentena": "Diagnostico",
@@ -311,29 +304,6 @@ export default function KevQuestPage() {
     setModalOpen(true);
   };
 
-  const confirmAddConteudo = () => {
-    if (newConteudoText.trim()) {
-      setCustomConteudos(prev => {
-        const chave = form.disciplinaId;
-        const atual = prev[chave] || [];
-        if (!atual.includes(newConteudoText)) return { ...prev, [chave]: [...atual, newConteudoText] };
-        return prev;
-      });
-      setForm(prev => ({ ...prev, conteudo: newConteudoText, conteudoId: "custom_" + Date.now() }));
-      setIsAddingConteudo(false);
-      setNewConteudoText("");
-    }
-  };
-
-  const confirmAddAno = () => {
-    if (newAnoText.trim()) {
-      setCustomAnos(prev => prev.includes(newAnoText) ? prev : [...prev, newAnoText]);
-      setForm(prev => ({ ...prev, ano: newAnoText }));
-      setIsAddingAno(false);
-      setNewAnoText("");
-    }
-  };
-
   const handleDelete = async (id: string) => {
     if (confirm("Tem certeza que deseja excluir este registro permanentemente?")) {
       const ok = await deletarKevQuestEntry(id);
@@ -346,7 +316,6 @@ export default function KevQuestPage() {
     }
   };
 
-  // --- Filtros e Dashboards Dybâmicos ---
   const filteredQuestoes = activeStage === "Todos" 
     ? questoes 
     : questoes.filter(q => q.estagio_funil === activeStage);
@@ -359,7 +328,7 @@ export default function KevQuestPage() {
     });
     return Object.entries(counts)
       .sort((a, b) => b[1] - a[1])
-      .slice(0, 3); // Top 3
+      .slice(0, 3);
   };
 
   const topDisciplinas = useMemo(() => getTopFrequencies('disciplina'), [filteredQuestoes]);
@@ -372,8 +341,6 @@ export default function KevQuestPage() {
   }, [questoes]);
 
   const noFunil = useMemo(() => questoes.filter(q => q.estagio_funil !== "Consolidada").length, [questoes]);
-
-  const streakDias = 12; // Valor fictício p/ UX, conectar ao DB depois
 
   if (!isLoaded) return <div className="p-8">Carregando KevQuest...</div>;
 
@@ -388,13 +355,6 @@ export default function KevQuestPage() {
           <p className="text-slate-500 dark:text-[#A1A1AA] mt-1 font-medium">Motor de Análise Qualitativa de Erros</p>
         </div>
         <div className="flex items-center gap-2">
-          <button
-            onClick={() => setConfigOpen(true)}
-            title="Configurar opções dos campos"
-            className="p-3 rounded-xl border border-slate-200 dark:border-[#2C2C2E] text-slate-400 dark:text-[#A1A1AA] hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-[#2C2C2E] transition-all active:scale-95"
-          >
-            <Settings2 className="w-5 h-5" />
-          </button>
           <button 
             onClick={openNewModal}
             className="bg-slate-900 hover:bg-slate-800 text-white font-bold px-5 py-3 rounded-xl flex items-center gap-2 shadow-lg shadow-slate-900/20 transition-all active:scale-95"
@@ -427,7 +387,7 @@ export default function KevQuestPage() {
         </div>
       </section>
 
-      {/* --- CARDS / FILTROS DO FUNIL (OCULTÁVEL) --- */}
+      {/* --- CARDS / FILTROS DO FUNIL --- */}
       {showFunnelFilters && (
         <section className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-8">
           {ESTAGIO_ORDER.map(estagio => {
@@ -452,7 +412,7 @@ export default function KevQuestPage() {
         </section>
       )}
 
-      {/* --- SUB-DASHBOARD (Aparece Apenas Se Há Filtro Ativo) --- */}
+      {/* --- SUB-DASHBOARD --- */}
       {activeStage !== "Todos" && (
         <section className="bg-slate-50 dark:bg-[#2C2C2E] border border-slate-200 dark:border-[#3A3A3C] rounded-3xl p-6 shadow-sm animate-in fade-in slide-in-from-top-4 duration-300 relative overflow-hidden">
           <div className="absolute top-0 right-0 w-32 h-32 rounded-full blur-3xl opacity-20 pointer-events-none" style={{ backgroundColor: ESTAGIO_COLORS[activeStage as keyof typeof ESTAGIO_COLORS] }}></div>
@@ -476,26 +436,11 @@ export default function KevQuestPage() {
                 </ul>
               )}
             </div>
-            
             <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-5 border border-slate-100 dark:border-[#2C2C2E] shadow-sm">
               <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4 border-b border-slate-50 pb-2">Top Conteúdos</h3>
               {topConteudos.length === 0 ? <p className="text-sm text-slate-400">Nenhum dado</p> : (
                 <ul className="space-y-3">
                   {topConteudos.map(([name, val], i) => (
-                    <li key={name} className="flex justify-between items-center text-sm font-bold text-slate-700 dark:text-[#F4F4F5]">
-                      <span>{i + 1}. {name}</span>
-                      <span className="bg-slate-100 px-2 rounded-md text-slate-600">{val}</span>
-                    </li>
-                  ))}
-                </ul>
-              )}
-            </div>
-
-            <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-5 border border-slate-100 dark:border-[#2C2C2E] shadow-sm">
-              <h3 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-4 border-b border-slate-50 pb-2">Top Provas Fontes</h3>
-              {topProvas.length === 0 ? <p className="text-sm text-slate-400">Nenhum dado</p> : (
-                <ul className="space-y-3">
-                  {topProvas.map(([name, val], i) => (
                     <li key={name} className="flex justify-between items-center text-sm font-bold text-slate-700 dark:text-[#F4F4F5]">
                       <span>{i + 1}. {name}</span>
                       <span className="bg-slate-100 px-2 rounded-md text-slate-600">{val}</span>
@@ -523,15 +468,12 @@ export default function KevQuestPage() {
                 <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Data</th>
                 <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Disciplina</th>
                 <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Conteúdo</th>
-                <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Prova</th>
-                <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Estágio Atual</th>
-                <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider">Diagnóstico</th>
                 <th className="pb-4 pt-2 px-4 text-xs font-bold text-slate-400 uppercase tracking-wider text-right">Ações</th>
               </tr>
             </thead>
             <tbody className="text-sm">
               {filteredQuestoes.length === 0 ? (
-                <tr><td colSpan={6} className="py-8 text-center text-slate-400 font-medium">Nenhuma questão encontrada com este filtro.</td></tr>
+                <tr><td colSpan={6} className="py-8 text-center text-slate-400 font-medium">Nenhuma questão encontrada.</td></tr>
               ) : (
                 filteredQuestoes.map((q) => {
                   const cor = ESTAGIO_COLORS[q.estagio_funil as keyof typeof ESTAGIO_COLORS] || '#94a3b8';
@@ -544,21 +486,6 @@ export default function KevQuestPage() {
                       <td className="py-4 px-4">
                         <span className="font-bold text-slate-700 dark:text-[#F4F4F5] block">{q.conteudo}</span>
                         {q.sub_conteudo && <span className="text-xs text-slate-400 block">{q.sub_conteudo}</span>}
-                      </td>
-                      <td className="py-4 px-4 text-slate-500 dark:text-[#A1A1AA] font-medium">{q.prova || "—"}</td>
-                      <td className="py-4 px-4 whitespace-nowrap">
-                        <span 
-                          className="px-3 py-1.5 rounded-xl font-bold text-xs inline-flex items-center gap-1.5 capitalize border"
-                          style={{ backgroundColor: cor + "15", color: cor, borderColor: cor + "30" }}
-                        >
-                          <span className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: cor }}></span>
-                          {q.estagio_funil}
-                        </span>
-                      </td>
-                      <td className="py-4 px-4 min-w-[150px] max-w-[250px]">
-                        <p className="text-xs text-slate-500 dark:text-[#A1A1AA] line-clamp-2 italic" title={q.comentario}>
-                          {q.comentario || <span className="opacity-30">Sem anotações...</span>}
-                        </p>
                       </td>
                       <td className="py-4 px-4 text-right opacity-50 group-hover:opacity-100 transition-opacity">
                         <div className="flex items-center justify-end gap-2">
@@ -588,552 +515,113 @@ export default function KevQuestPage() {
       {modalOpen && (
         <div className="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-50 flex items-center justify-center p-4">
           <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-2xl shadow-2xl relative animate-in fade-in zoom-in-95 duration-200">
-            
             <div className="flex items-center justify-between px-8 pt-8 pb-6 border-b border-slate-100 dark:border-[#2C2C2E]">
               <h2 className="text-2xl font-black text-slate-800 dark:text-[#FFFFFF] flex items-center gap-3">
-                {editingId ? <Edit2 className="w-6 h-6 text-amber-500" /> : <Plus className="w-6 h-6 text-indigo-600 dark:text-indigo-400" />}
                 {editingId ? "Editar Registro" : "Adicionar à Ficha"}
               </h2>
               <button onClick={() => setModalOpen(false)} className="text-slate-400 hover:text-slate-600 transition-colors p-2 hover:bg-slate-100 rounded-full">
                 <X className="w-6 h-6" />
               </button>
             </div>
-
             <form onSubmit={handleSubmit} className="p-8 space-y-6 max-h-[75vh] overflow-y-auto hidden-scrollbar">
-              
-              {/* ESTÁGIO DA QUESTÃO (FIRST INPUT NOW) */}
-              <div className={`p-6 rounded-2xl border-2 transition-all duration-300 ${form.estagio === 'Diagnostico' ? 'bg-orange-50 dark:bg-orange-500/10/50 border-orange-400 shadow-[0_0_20px_rgba(251,146,60,0.15)] ring-4 ring-orange-400/10' : 'bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]'}`}>
-                <label className={`block text-xs font-bold mb-3 uppercase tracking-wide flex items-center gap-2 ${form.estagio === 'Diagnostico' ? 'text-orange-600 dark:text-orange-400' : 'text-slate-600 dark:text-[#A1A1AA]'}`}>
-                  {form.estagio === 'Diagnostico' ? <AlertTriangle className="w-4 h-4" /> : <div className="w-2 h-2 rounded-full bg-slate-300"></div>}
-                  Estágio de Triagem da Questão
-                </label>
+              <div className="p-6 rounded-2xl border-2 transition-all duration-300 bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]">
+                <label className="block text-xs font-bold mb-3 uppercase tracking-wide text-slate-600 dark:text-[#A1A1AA]">Estágio de Triagem</label>
                 <CustomDropdown 
                   value={form.estagio} onChange={v => setForm({...form, estagio: v})}
                   placeholder="Selecione um Estágio"
-                  options={ESTAGIO_ORDER.map(est => ({ value: est, label: `${est} - Etapa KevQuest` }))}
-                  className={`border-2 rounded-xl px-4 py-3.5 text-sm font-bold transition-all ${form.estagio === 'Diagnostico' ? 'bg-white dark:bg-[#1C1C1E] border-orange-300 text-orange-900 dark:text-[#FFFFFF]' : 'bg-white dark:bg-[#1C1C1E] border-slate-200 dark:border-[#3A3A3C] text-slate-800 dark:text-[#FFFFFF] focus-within:border-indigo-400'}`}
+                  options={ESTAGIO_ORDER.map(est => ({ value: est, label: est }))}
+                  className="border-2 rounded-xl px-4 py-3.5 text-sm font-bold bg-white dark:bg-[#1C1C1E] border-slate-200 dark:border-[#3A3A3C] text-slate-800 dark:text-[#FFFFFF]"
                 />
               </div>
 
               <div className="grid grid-cols-2 gap-6">
                 <div>
-                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Matéria do Erro</label>
+                  <label className="block text-xs font-bold text-slate-500 mb-2 uppercase tracking-wide">Matéria</label>
                   <CustomDropdown
                     value={form.disciplinaId}
                     onChange={v => {
                       const disc = dbDisciplinas.find(d => d.id === v);
                       setForm({ ...form, disciplinaId: v, disciplina: disc?.nome ?? "", conteudoId: "", conteudo: "" });
                     }}
-                    placeholder="Selecionar Matéria..."
+                    placeholder="Selecionar..."
                     options={dbDisciplinas.map(d => ({ value: d.id, label: d.nome }))}
-                    className="border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3.5 text-sm text-slate-800 dark:text-[#FFFFFF] bg-slate-50 dark:bg-[#2C2C2E] focus-within:bg-white dark:focus-within:bg-[#121212] focus-within:border-indigo-400 font-bold transition-all"
+                    className="border-2 rounded-xl px-4 py-3 text-sm font-bold bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]"
                   />
                 </div>
-
                 <div>
-                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Conteúdo Errado</label>
-                  {isAddingConteudo ? (
-                    <div className="relative flex w-full border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl overflow-hidden bg-slate-50 dark:bg-[#2C2C2E] focus-within:border-indigo-400 focus-within:ring-4 focus-within:ring-indigo-500/10 transition-all h-[54px] shadow-sm">
-                       <input
-                         type="text" autoFocus
-                         placeholder="Qual o nome do assunto?"
-                         value={newConteudoText}
-                         onChange={e => setNewConteudoText(e.target.value)}
-                         onKeyDown={e => e.key === 'Enter' && (e.preventDefault(), confirmAddConteudo())}
-                         className="flex-1 h-full pl-4 pr-10 text-sm text-slate-800 dark:text-[#FFFFFF] bg-transparent focus:outline-none font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600"
-                       />
-                       <button
-                         type="button"
-                         onClick={() => setIsAddingConteudo(false)}
-                         className="absolute right-2 top-1/2 -translate-y-1/2 p-1.5 rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-200 dark:hover:bg-[#3A3A3C] transition-all"
-                         title="Voltar para seleção"
-                       >
-                         <X className="w-4 h-4" />
-                       </button>
-                    </div>
-                  ) : (
-                    <CustomDropdown
+                  <label className="block text-xs font-bold text-slate-500 mb-2 uppercase tracking-wide">Conteúdo</label>
+                  <CustomDropdown
                       value={form.conteudoId}
                       onChange={v => {
-                        if (v === "NOVO") {
-                          setIsAddingConteudo(true);
-                          setNewConteudoText("");
-                        } else {
-                          const cont = dbConteudos.find(c => c.id === v);
-                          setForm({ ...form, conteudoId: v, conteudo: cont?.nome ?? v });
-                        }
+                        const cont = dbConteudos.find(c => c.id === v);
+                        setForm({ ...form, conteudoId: v, conteudo: cont?.nome ?? v });
                       }}
                       disabled={!form.disciplinaId}
-                      placeholder="Selecionar Conteúdo..."
-                      options={[
-                        ...dbConteudos.map(c => ({ value: c.id, label: c.nome })),
-                        ...(form.disciplinaId ? [{ value: "NOVO", label: "+ Adicionar Novo" }] : [])
-                      ]}
-                      className="border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3.5 text-sm text-slate-800 dark:text-[#FFFFFF] bg-slate-50 dark:bg-[#2C2C2E] focus-within:bg-white dark:focus-within:bg-[#121212] focus-within:border-indigo-400 font-bold transition-all h-[54px]"
+                      placeholder="Selecionar..."
+                      options={dbConteudos.map(c => ({ value: c.id, label: c.nome }))}
+                      className="border-2 rounded-xl px-4 py-3 text-sm font-bold bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]"
                     />
-                  )}
                 </div>
               </div>
 
-              <div className="grid grid-cols-2 gap-6">
-                <div>
-                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Sub-Conteúdo <span className="text-slate-300 dark:text-slate-600">(Opcional)</span></label>
-                  <input type="text" placeholder="Ex: Análise Combinatória" value={form.sub_conteudo} onChange={e => setForm({...form, sub_conteudo: e.target.value})} className="w-full border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] bg-transparent focus:outline-none focus:border-indigo-400 font-medium" />
-                </div>
-                <div>
-                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Nº da Questão <span className="text-slate-300 dark:text-slate-600">(Opcional)</span></label>
-                  <input type="text" placeholder="Ex: Questão 42" value={form.q_num} onChange={e => setForm({...form, q_num: e.target.value})} className="w-full border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] bg-transparent focus:outline-none focus:border-indigo-400 font-medium" />
-                </div>
-              </div>
-
-              <div className="grid grid-cols-3 gap-4">
+              <div className="grid grid-cols-4 gap-4">
                 <div className="col-span-1">
-                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Prova (Fonte)</label>
+                  <label className="block text-xs font-bold text-slate-400 mb-2 uppercase tracking-wide">Num</label>
+                  <input 
+                    type="text" 
+                    value={form.q_num} onChange={e => setForm({...form, q_num: e.target.value})}
+                    placeholder="ex: 125"
+                    className="w-full h-11 bg-slate-50 dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 rounded-xl px-4 text-sm font-bold focus:border-indigo-500"
+                  />
+                </div>
+                <div className="col-span-1">
+                  <label className="block text-xs font-bold text-slate-400 mb-2 uppercase tracking-wide">Prova</label>
                   <CustomDropdown 
                     value={form.prova} onChange={v => setForm({...form, prova: v})}
-                    placeholder="Selecione..."
+                    placeholder="Prova..."
                     options={cfgProvas.map(p => ({ value: p, label: p }))}
-                    className="border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] focus-within:border-indigo-400 font-medium bg-slate-50 dark:bg-[#2C2C2E] h-[52px]"
-                    dropdownClasses="bottom-full mb-2"
+                    className="h-11 border-2 rounded-xl px-4 text-sm bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]"
                   />
                 </div>
-                
                 <div className="col-span-1">
-                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Ano</label>
-                  {isAddingAno ? (
-                    <div className="relative flex w-full border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl overflow-hidden bg-slate-50 dark:bg-[#2C2C2E] focus-within:border-indigo-400 focus-within:ring-4 focus-within:ring-indigo-500/10 transition-all h-[52px] shadow-sm">
-                       <input 
-                         type="text" autoFocus
-                         placeholder="Ex: 2025"
-                         value={newAnoText}
-                         onChange={e => setNewAnoText(e.target.value)}
-                         onKeyDown={e => e.key === 'Enter' && (e.preventDefault(), confirmAddAno())}
-                         className="flex-1 h-full pl-4 pr-10 text-sm text-slate-800 dark:text-[#FFFFFF] bg-transparent focus:outline-none font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600"
-                       />
-                       <button 
-                         type="button" 
-                         onClick={() => setIsAddingAno(false)} 
-                         className="absolute right-2 top-1/2 -translate-y-1/2 p-1.5 rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-200 dark:hover:bg-[#3A3A3C] transition-all"
-                         title="Voltar para seleção"
-                       >
-                         <X className="w-4 h-4" />
-                       </button>
-                    </div>
-                  ) : (
-                    <CustomDropdown 
-                      value={form.ano} 
-                      onChange={v => {
-                        if (v === "NOVO") {
-                          setIsAddingAno(true);
-                          setNewAnoText("");
-                        } else {
-                          setForm({...form, ano: v});
-                        }
-                      }}
-                      placeholder="Ano..."
-                      options={[
-                        ...cfgAnos.map(a => ({ value: a, label: a })),
-                        { value: "NOVO", label: "+ Novo Ano" }
-                      ]}
-                      className="border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] focus-within:border-indigo-400 font-medium bg-slate-50 dark:bg-[#2C2C2E] h-[52px]"
-                      dropdownClasses="bottom-full mb-2"
-                    />
-                  )}
+                  <label className="block text-xs font-bold text-slate-400 mb-2 uppercase tracking-wide">Ano</label>
+                  <CustomDropdown 
+                    value={form.ano} onChange={v => setForm({...form, ano: v})}
+                    placeholder="Ano..."
+                    options={cfgAnos.map(a => ({ value: a, label: a }))}
+                    className="h-11 border-2 rounded-xl px-4 text-sm bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]"
+                  />
                 </div>
-
                 <div className="col-span-1">
-                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Cor <span className="text-slate-300 dark:text-slate-600">(Opc)</span></label>
-                <CustomDropdown 
-                  value={form.cor} onChange={v => setForm({...form, cor: v})} 
-                  placeholder="Nenhuma"
-                  options={[
-                    { value: "", label: "Nenhuma" },
-                    ...cfgCores.map(c => ({ value: c, label: c }))
-                  ]}
-                  className="border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] focus-within:border-indigo-400 font-medium bg-slate-50 dark:bg-[#2C2C2E] h-[52px]"
-                  dropdownClasses="bottom-full mb-2"
-                />
+                  <label className="block text-xs font-bold text-slate-400 mb-2 uppercase tracking-wide">Cor</label>
+                  <CustomDropdown 
+                    value={form.cor} onChange={v => setForm({...form, cor: v})}
+                    placeholder="Cor..."
+                    options={cfgCores.map(c => ({ value: c, label: c }))}
+                    className="h-11 border-2 rounded-xl px-4 text-sm bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]"
+                  />
                 </div>
               </div>
 
-              {form.estagio === "Diagnostico" && (
-                <div className="animate-in fade-in slide-in-from-top-2 duration-300">
-                  <label className="block text-xs font-bold text-orange-600 dark:text-orange-400 mb-2 uppercase tracking-wide flex items-center gap-2">
-                    <AlertTriangle className="w-4 h-4" /> Diagnóstico do Erro
-                  </label>
-                  <CustomDropdown 
-                    value={form.comentario} 
-                    onChange={v => setForm({...form, comentario: v})}
-                    placeholder="Selecione o motivo do erro..."
-                    options={cfgMotivos.map(m => ({ value: m, label: m }))}
-                    className="border-2 border-orange-200 dark:border-orange-900/30 rounded-xl px-4 py-3.5 text-sm text-slate-800 dark:text-[#FFFFFF] bg-orange-50/30 dark:bg-orange-900/10 focus-within:border-orange-400 font-bold transition-all"
-                  />
-                </div>
-              )}
+              <div>
+                <label className="block text-xs font-bold text-slate-400 mb-2 uppercase tracking-wide">Comentários / Motivo do Erro</label>
+                <textarea 
+                  rows={3}
+                  value={form.comentario}
+                  onChange={e => setForm({...form, comentario: e.target.value})}
+                  placeholder="Descreva o que errou ou observações importantes..."
+                  className="w-full bg-slate-50 dark:bg-slate-800 border-2 border-slate-200 dark:border-slate-700 rounded-2xl p-4 text-sm font-medium focus:border-indigo-500 outline-none transition-all"
+                />
+              </div>
 
-              {form.estagio !== "Diagnostico" && (
-                <div>
-                  <label className="block text-xs font-bold text-slate-500 dark:text-[#A1A1AA] mb-2 uppercase tracking-wide">Anotações do Erro</label>
-                  <textarea rows={3} placeholder="O que te fez errar essa questão? Faltou base ou só desatenção?" value={form.comentario} onChange={e => setForm({...form, comentario: e.target.value})} className="w-full border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl px-4 py-3 text-sm text-slate-800 dark:text-[#FFFFFF] bg-transparent focus:outline-none focus:border-indigo-400 resize-none font-medium"></textarea>
-                </div>
-              )}
-
-              <div className="pt-4 border-t border-slate-100 dark:border-[#2C2C2E] flex gap-4">
-                <button type="button" onClick={() => setModalOpen(false)} className="flex-1 py-4 font-bold text-slate-500 dark:text-[#A1A1AA] hover:bg-slate-100 rounded-xl transition-colors">
-                  Cancelar
-                </button>
-                <button type="submit" className="flex-[2] bg-slate-900 hover:bg-slate-800 text-white font-bold py-4 rounded-xl shadow-lg shadow-slate-900/20 active:scale-95 transition-all text-lg">
-                  {editingId ? "Salvar Alterações" : "Injetar no Motor KevQuest"}
-                </button>
+              <div className="pt-4 flex gap-4">
+                <button type="button" onClick={() => setModalOpen(false)} className="flex-1 py-4 font-bold text-slate-500 hover:bg-slate-100 rounded-xl transition-colors">Cancelar</button>
+                <button type="submit" className="flex-[2] bg-slate-900 text-white font-bold py-4 rounded-xl shadow-lg active:scale-95 transition-all">Salvar</button>
               </div>
             </form>
-
           </div>
         </div>
       )}
-
-      {/* --- MODAL DE CONFIGURAÇÃO --- */}
-      <AnimatePresence>
-        {configOpen && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            className="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-50 flex items-start justify-end p-4"
-            onClick={() => setConfigOpen(false)}
-          >
-            <motion.div
-              initial={{ opacity: 0, x: 40 }}
-              animate={{ opacity: 1, x: 0 }}
-              exit={{ opacity: 0, x: 40 }}
-              transition={{ type: "spring", damping: 25, stiffness: 300 }}
-              onClick={e => e.stopPropagation()}
-              className="bg-white dark:bg-[#1C1C1E] rounded-[1.5rem] w-full max-w-sm h-[calc(100vh-2rem)] shadow-2xl border border-slate-100 dark:border-[#2C2C2E] flex flex-col overflow-hidden"
-            >
-              {/* Header */}
-              <div className="flex items-center justify-between px-6 pt-6 pb-4 border-b border-slate-100 dark:border-[#2C2C2E] shrink-0">
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 rounded-xl bg-slate-100 dark:bg-[#2C2C2E] flex items-center justify-center">
-                    <Settings2 className="w-4 h-4 text-slate-600 dark:text-[#A1A1AA]" />
-                  </div>
-                  <div>
-                    <h2 className="text-base font-black text-slate-800 dark:text-white">Configurações</h2>
-                    <p className="text-xs text-slate-400 dark:text-[#71717A]">Opções dos campos</p>
-                  </div>
-                </div>
-                <button onClick={() => setConfigOpen(false)} className="p-1.5 rounded-lg text-slate-400 hover:text-slate-700 hover:bg-slate-100 dark:hover:bg-[#2C2C2E] transition-colors">
-                  <X className="w-4 h-4" />
-                </button>
-              </div>
-
-              {/* Conteúdo scrollável */}
-              <div className="overflow-y-auto flex-1 p-6 space-y-8 custom-scrollbar">
-
-                {/* DISCIPLINAS — somente leitura (gerenciadas pelo admin) */}
-                <div>
-                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">
-                    Disciplinas <span className="text-slate-300 dark:text-slate-600 normal-case font-normal">(gerenciadas pelo admin)</span>
-                  </h3>
-                  <div className="flex flex-wrap gap-2 mb-3">
-                    {dbDisciplinas.map(d => (
-                      <span key={d.id} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg">
-                        {d.nome}
-                      </span>
-                    ))}
-                    {dbDisciplinas.length === 0 && (
-                      <span className="text-xs text-slate-400">Nenhuma disciplina cadastrada.</span>
-                    )}
-                  </div>
-                  <p className="text-xs text-slate-400 dark:text-slate-600">Para adicionar disciplinas, acesse o painel Administrativo.</p>
-                </div>
-
-                {/* CONTEÚDOS POR DISCIPLINA */}
-                <div className="pt-2">
-                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-4">Conteúdos por Disciplina</h3>
-                  <div className="space-y-4">
-                    <CustomDropdown
-                      value={cfgInput.disciplina}
-                      onChange={v => setCfgInput(p => ({...p, disciplina: v}))}
-                      placeholder="Selecione a disciplina para ver conteúdos..."
-                      options={dbDisciplinas.map(d => ({ value: d.id, label: d.nome }))}
-                      className="border border-slate-200 dark:border-[#3A3A3C] rounded-lg px-3 py-2 text-sm text-slate-700 dark:text-slate-200 bg-slate-50 dark:bg-[#2C2C2E]"
-                    />
-
-                    
-                    {cfgInput.disciplina && (
-                      <div className="space-y-3 animate-in fade-in duration-200">
-                        <div className="flex flex-wrap gap-2">
-                          {(customConteudos[cfgInput.disciplina] || []).map(cont => (
-                            <span key={cont} className="flex items-center gap-1.5 text-[10px] font-bold bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400 px-2 py-1 rounded-md group/ctag">
-                              {cont}
-                              <button 
-                                onClick={() => {
-                                  const novo = prompt("Editar conteúdo:", cont);
-                                  if (novo && novo.trim() && novo !== cont) {
-                                    setCustomConteudos(prev => ({
-                                      ...prev,
-                                      [cfgInput.disciplina]: prev[cfgInput.disciplina].map(x => x === cont ? novo.trim() : x)
-                                    }));
-                                  }
-                                }}
-                                className="opacity-0 group-hover/ctag:opacity-100 hover:text-indigo-600 transition-all"
-                              >
-                                <Edit2 className="w-2.5 h-2.5" />
-                              </button>
-                              <button 
-                                onClick={() => setCustomConteudos(prev => ({
-                                  ...prev,
-                                  [cfgInput.disciplina]: prev[cfgInput.disciplina].filter(x => x !== cont)
-                                }))}
-                                className="hover:text-rose-500 transition-colors"
-                              >
-                                <X className="w-2.5 h-2.5" />
-                              </button>
-                            </span>
-                          ))}
-                        </div>
-                        <div className="flex gap-2">
-                          <input
-                            type="text"
-                            placeholder={`Novo conteúdo para ${cfgInput.disciplina}...`}
-                            value={cfgInput.conteudo}
-                            onChange={e => setCfgInput(p => ({...p, conteudo: e.target.value}))}
-                            className="flex-1 text-xs px-3 py-2 rounded-lg border border-slate-200 dark:border-[#3A3A3C] bg-white dark:bg-[#121212] text-slate-800 dark:text-white"
-                          />
-                          <button
-                            onClick={() => {
-                              if (cfgInput.conteudo.trim()) {
-                                setCustomConteudos(prev => {
-                                  const atual = prev[cfgInput.disciplina] || [];
-                                  if (atual.includes(cfgInput.conteudo.trim())) return prev;
-                                  return { ...prev, [cfgInput.disciplina]: [...atual, cfgInput.conteudo.trim()] };
-                                });
-                                setCfgInput(p => ({...p, conteudo: ""}));
-                              }
-                            }}
-                            className="px-3 py-1.5 bg-slate-800 text-white rounded-lg text-xs font-bold"
-                          >
-                            Add
-                          </button>
-                        </div>
-                      </div>
-                    )}
-                  </div>
-                </div>
-
-                {/* PROVAS */}
-                <div className="border-t border-slate-100 dark:border-[#2C2C2E] pt-6">
-                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Provas / Fontes</h3>
-                  <div className="flex flex-wrap gap-2 mb-3">
-                    {cfgProvas.map(p => (
-                      <span key={p} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/ptag">
-                        {p}
-                        <button 
-                          onClick={() => {
-                            const novo = prompt("Editar prova/fonte:", p);
-                            if (novo && novo.trim() && novo !== p) {
-                              setCfgProvas(prev => prev.map(x => x === p ? novo.trim() : x));
-                            }
-                          }}
-                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/ptag:opacity-100 transition-all"
-                        >
-                          <Edit2 className="w-3 h-3" />
-                        </button>
-                        <button onClick={() => setCfgProvas(prev => prev.filter(x => x !== p))} className="text-slate-400 hover:text-rose-500 transition-colors">
-                          <X className="w-3 h-3" />
-                        </button>
-                      </span>
-                    ))}
-                  </div>
-                  <div className="flex gap-2">
-                    <input
-                      type="text"
-                      placeholder="Ex: FUVEST 2025..."
-                      value={cfgInput.prova}
-                      onChange={e => setCfgInput(p => ({...p, prova: e.target.value}))}
-                      onKeyDown={e => {
-                        if (e.key === 'Enter' && cfgInput.prova.trim()) {
-                          setCfgProvas(p => p.includes(cfgInput.prova.trim()) ? p : [...p, cfgInput.prova.trim()]);
-                          setCfgInput(p => ({...p, prova: ""}));
-                        }
-                      }}
-                      className="flex-1 text-sm px-3 py-2 rounded-lg border border-slate-200 dark:border-[#3A3A3C] bg-slate-50 dark:bg-[#2C2C2E] text-slate-800 dark:text-white placeholder:text-slate-400 focus:outline-none focus:border-indigo-400"
-                    />
-                    <button
-                      onClick={() => {
-                        if (cfgInput.prova.trim()) {
-                          setCfgProvas(p => p.includes(cfgInput.prova.trim()) ? p : [...p, cfgInput.prova.trim()]);
-                          setCfgInput(p => ({...p, prova: ""}));
-                        }
-                      }}
-                      className="px-3 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition-colors"
-                    >
-                      <Plus className="w-4 h-4" />
-                    </button>
-                  </div>
-                </div>
-
-                {/* GESTÃO DE ANOS (Agora antes de Cores) */}
-                <div className="border-t border-slate-100 dark:border-[#2C2C2E] pt-6">
-                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Anos Disponíveis</h3>
-                  <div className="flex flex-wrap gap-2 mb-3">
-                    {cfgAnos.map(ano => (
-                      <span key={ano} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/atag">
-                        {ano}
-                        <button 
-                          onClick={() => {
-                            const novo = prompt("Editar ano:", ano);
-                            if (novo && novo.trim() && novo !== ano) {
-                              setCfgAnos(prev => prev.map(x => x === ano ? novo.trim() : x));
-                            }
-                          }}
-                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/atag:opacity-100 transition-all"
-                        >
-                          <Edit2 className="w-3 h-3" />
-                        </button>
-                        <button onClick={() => setCfgAnos(prev => prev.filter(x => x !== ano))} className="text-slate-400 hover:text-rose-500 transition-colors">
-                          <X className="w-3 h-3" />
-                        </button>
-                      </span>
-                    ))}
-                  </div>
-                  <div className="flex gap-2">
-                    <input
-                      type="text"
-                      placeholder="Adicionar ano..."
-                      value={cfgInput.ano}
-                      onChange={e => setCfgInput(p => ({...p, ano: e.target.value}))}
-                      className="flex-1 text-sm px-3 py-2 rounded-lg border border-slate-200 dark:border-[#3A3A3C] bg-slate-50 dark:bg-[#2C2C2E] text-slate-800 dark:text-white"
-                    />
-                    <button
-                      onClick={() => {
-                        if (cfgInput.ano.trim()) {
-                          setCfgAnos(p => p.includes(cfgInput.ano.trim()) ? p : [...p, cfgInput.ano.trim()].sort((a,b) => parseInt(b)-parseInt(a)));
-                          setCfgInput(p => ({...p, ano: ""}));
-                        }
-                      }}
-                      className="px-3 py-2 bg-slate-800 text-white rounded-lg"
-                    >
-                      <Plus className="w-4 h-4" />
-                    </button>
-                  </div>
-                </div>
-
-                {/* CORES (Agora por último) */}
-                <div className="border-t border-slate-100 dark:border-[#2C2C2E] pt-6">
-                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Cores da Questão</h3>
-                  <div className="flex flex-wrap gap-2 mb-3">
-                    {cfgCores.map(c => (
-                      <span key={c} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/ctag">
-                        {c}
-                        <button 
-                          onClick={() => {
-                            const novo = prompt("Editar nome da cor:", c);
-                            if (novo && novo.trim() && novo !== c) {
-                              setCfgCores(prev => prev.map(x => x === c ? novo.trim() : x));
-                            }
-                          }}
-                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/ctag:opacity-100 transition-all"
-                        >
-                          <Edit2 className="w-3 h-3" />
-                        </button>
-                        <button onClick={() => setCfgCores(prev => prev.filter(x => x !== c))} className="text-slate-400 hover:text-rose-500 transition-colors">
-                          <X className="w-3 h-3" />
-                        </button>
-                      </span>
-                    ))}
-                  </div>
-                  <div className="flex gap-2">
-                    <input
-                      type="text"
-                      placeholder="Ex: Laranja..."
-                      value={cfgInput.cor}
-                      onChange={e => setCfgInput(p => ({...p, cor: e.target.value}))}
-                      onKeyDown={e => {
-                        if (e.key === 'Enter' && cfgInput.cor.trim()) {
-                          setCfgCores(p => p.includes(cfgInput.cor.trim()) ? p : [...p, cfgInput.cor.trim()]);
-                          setCfgInput(p => ({...p, cor: ""}));
-                        }
-                      }}
-                      className="flex-1 text-sm px-3 py-2 rounded-lg border border-slate-200 dark:border-[#3A3A3C] bg-slate-50 dark:bg-[#2C2C2E] text-slate-800 dark:text-white placeholder:text-slate-400 focus:outline-none focus:border-indigo-400"
-                    />
-                    <button
-                      onClick={() => {
-                        if (cfgInput.cor.trim()) {
-                          setCfgCores(p => p.includes(cfgInput.cor.trim()) ? p : [...p, cfgInput.cor.trim()]);
-                          setCfgInput(p => ({...p, cor: ""}));
-                        }
-                      }}
-                      className="px-3 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition-colors"
-                    >
-                      <Plus className="w-4 h-4" />
-                    </button>
-                  </div>
-                </div>
-
-                {/* MOTIVOS DE DIAGNÓSTICO (Novo) */}
-                <div className="border-t border-slate-100 dark:border-[#2C2C2E] pt-6">
-                  <h3 className="text-xs font-bold text-slate-400 dark:text-[#71717A] uppercase tracking-wider mb-3">Motivos de Erro (Diagnóstico)</h3>
-                  <div className="flex flex-wrap gap-2 mb-3">
-                    {cfgMotivos.map(m => (
-                      <span key={m} className="flex items-center gap-1.5 text-xs font-semibold bg-slate-100 dark:bg-[#2C2C2E] text-slate-700 dark:text-slate-200 px-3 py-1.5 rounded-lg group/mtag">
-                        {m}
-                        <button 
-                          onClick={() => {
-                            const novo = prompt("Editar motivo do erro:", m);
-                            if (novo && novo.trim() && novo !== m) {
-                              setCfgMotivos(prev => prev.map(x => x === m ? novo.trim() : x));
-                            }
-                          }}
-                          className="text-slate-400 hover:text-indigo-500 opacity-0 group-hover/mtag:opacity-100 transition-all"
-                        >
-                          <Edit2 className="w-3 h-3" />
-                        </button>
-                        <button onClick={() => setCfgMotivos(prev => prev.filter(x => x !== m))} className="text-slate-400 hover:text-rose-500 transition-colors">
-                          <X className="w-3 h-3" />
-                        </button>
-                      </span>
-                    ))}
-                  </div>
-                  <div className="flex gap-2">
-                    <input
-                      type="text"
-                      placeholder="Ex: Pegadinha..."
-                      value={cfgInput.motivo}
-                      onChange={e => setCfgInput(p => ({...p, motivo: e.target.value}))}
-                      onKeyDown={e => {
-                        if (e.key === 'Enter' && cfgInput.motivo.trim()) {
-                          setCfgMotivos(p => p.includes(cfgInput.motivo.trim()) ? p : [...p, cfgInput.motivo.trim()]);
-                          setCfgInput(p => ({...p, motivo: ""}));
-                        }
-                      }}
-                      className="flex-1 text-sm px-3 py-2 rounded-lg border border-slate-200 dark:border-[#3A3A3C] bg-slate-50 dark:bg-[#2C2C2E] text-slate-800 dark:text-white placeholder:text-slate-400 focus:outline-none focus:border-indigo-400"
-                    />
-                    <button
-                      onClick={() => {
-                        if (cfgInput.motivo.trim()) {
-                          setCfgMotivos(p => p.includes(cfgInput.motivo.trim()) ? p : [...p, cfgInput.motivo.trim()]);
-                          setCfgInput(p => ({...p, motivo: ""}));
-                        }
-                      }}
-                      className="px-3 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition-colors"
-                    >
-                      <Plus className="w-4 h-4" />
-                    </button>
-                  </div>
-                </div>
-
-
-              </div>
-
-              {/* Footer */}
-              <div className="px-6 py-4 border-t border-slate-100 dark:border-[#2C2C2E] shrink-0">
-                <p className="text-xs text-slate-400 dark:text-[#71717A] text-center">As opções salvas aparecem nos campos do formulário</p>
-              </div>
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
     </div>
   );
 }

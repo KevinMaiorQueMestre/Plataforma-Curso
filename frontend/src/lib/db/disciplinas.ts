@@ -6,6 +6,8 @@ export type Disciplina = {
   cor_hex: string;
   icone: string | null;
   ordem: number;
+  user_id?: string | null;
+  conteudos?: Conteudo[];
 };
 
 export type Conteudo = {
@@ -22,7 +24,7 @@ export async function getDisciplinas(): Promise<Disciplina[]> {
   const supabase = createClient();
   const { data, error } = await supabase
     .from("disciplinas")
-    .select("id, nome, cor_hex, icone, ordem")
+    .select("*, conteudos(*)")
     .order("ordem", { ascending: true });
 
   if (error) {
@@ -69,4 +71,64 @@ export async function getDisciplinasComConteudos(): Promise<
     return [];
   }
   return (data ?? []) as (Disciplina & { conteudos: Conteudo[] })[];
+}
+
+export async function addDisciplina(nome: string): Promise<Disciplina | null> {
+  const supabase = createClient();
+  const { data: { user } } = await supabase.auth.getUser();
+
+  const { data, error } = await supabase
+    .from("disciplinas")
+    .insert({ nome, cor_hex: "#6366f1", ordem: 99, user_id: user?.id }) // Default purple color and generic order
+    .select()
+    .single();
+
+  if (error) {
+    console.error("[addDisciplina]", error.message);
+    return null;
+  }
+  return data;
+}
+
+export async function deleteDisciplina(id: string): Promise<boolean> {
+  const supabase = createClient();
+  const { error } = await supabase
+    .from("disciplinas")
+    .delete()
+    .eq("id", id);
+
+  if (error) {
+    console.error("[deleteDisciplina]", error.message);
+    return false;
+  }
+  return true;
+}
+
+export async function addConteudo(disciplina_id: string, nome: string): Promise<Conteudo | null> {
+  const supabase = createClient();
+  const { data, error } = await supabase
+    .from("conteudos")
+    .insert({ disciplina_id, nome, ordem: 99 })
+    .select()
+    .single();
+
+  if (error) {
+    console.error("[addConteudo]", error.message);
+    return null;
+  }
+  return data;
+}
+
+export async function deleteConteudo(id: string): Promise<boolean> {
+  const supabase = createClient();
+  const { error } = await supabase
+    .from("conteudos")
+    .delete()
+    .eq("id", id);
+
+  if (error) {
+    console.error("[deleteConteudo]", error.message);
+    return false;
+  }
+  return true;
 }

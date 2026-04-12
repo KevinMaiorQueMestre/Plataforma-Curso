@@ -17,7 +17,11 @@ export type KevQuestEntry = {
   conteudo_id: string | null;
   sub_conteudo: string | null;
   estagio_funil: EstagioFunil;
-  proxima_revisao_at: string | null;
+  prova: string | null;
+  ano: string | null;
+  cor: string | null;
+  comentario: string | null;
+  q_num: string | null;
   created_at: string;
   updated_at: string;
   // Joins opcionais
@@ -32,6 +36,11 @@ export type CreateEntryPayload = {
   subConteudo?: string | null;
   estagioFunil: EstagioFunil;
   proximaRevisaoAt?: string | null;
+  prova?: string | null;
+  ano?: string | null;
+  cor?: string | null;
+  comentario?: string | null;
+  q_num?: string | null;
 };
 
 /**
@@ -50,6 +59,11 @@ export async function criarKevQuestEntry(
       sub_conteudo: payload.subConteudo ?? null,
       estagio_funil: payload.estagioFunil,
       proxima_revisao_at: payload.proximaRevisaoAt ?? null,
+      prova: payload.prova ?? null,
+      ano: payload.ano ?? null,
+      cor: payload.cor ?? null,
+      comentario: payload.comentario ?? null,
+      q_num: payload.q_num ?? null,
     })
     .select(
       "*, disciplinas(nome, cor_hex), conteudos(nome)"
