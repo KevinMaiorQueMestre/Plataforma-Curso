@@ -22,8 +22,8 @@ import {
   deletarKevQuestEntry,
   type KevQuestEntry
 } from "@/lib/db/kevquest";
-import { getDisciplinas, getConteudos, type Disciplina, type Conteudo } from "@/lib/db/disciplinas";
-import { getPreferences } from "@/lib/db/preferences";
+import { getDisciplinas, getConteudos, addConteudo, type Disciplina, type Conteudo } from "@/lib/db/disciplinas";
+import { getPreferences, updatePreferences } from "@/lib/db/preferences";
 
 function CustomDropdown({
   value,
@@ -33,7 +33,8 @@ function CustomDropdown({
   disabled = false,
   className = "",
   hasNewOption = false,
-  dropdownClasses = ""
+  dropdownClasses = "",
+  onAddNewItem
 }: {
   value: string;
   onChange: (val: string) => void;
@@ -43,8 +44,11 @@ function CustomDropdown({
   className?: string;
   hasNewOption?: boolean;
   dropdownClasses?: string;
+  onAddNewItem?: (val: string) => Promise<void> | void;
 }) {
   const [isOpen, setIsOpen] = useState(false);
+  const [isAdding, setIsAdding] = useState(false);
+  const [newVal, setNewVal] = useState("");
   const containerRef = useRef<HTMLDivElement>(null);
   const isOpenRef = useRef(isOpen);
   isOpenRef.current = isOpen;
@@ -53,6 +57,7 @@ function CustomDropdown({
     const handleClickOutside = (event: MouseEvent) => {
       if (isOpenRef.current && containerRef.current && !containerRef.current.contains(event.target as Node)) {
         setIsOpen(false);
+        setIsAdding(false);
       }
     };
     document.addEventListener("mousedown", handleClickOutside);
@@ -60,6 +65,14 @@ function CustomDropdown({
   }, []);
 
   const selectedOpt = options.find(o => o.value === value);
+
+  const handleAddNew = async () => {
+    if (!newVal.trim() || !onAddNewItem) return;
+    await onAddNewItem(newVal.trim());
+    setNewVal("");
+    setIsAdding(false);
+    setIsOpen(false);
+  };
 
   return (
     <div className="relative w-full" ref={containerRef}>
@@ -83,6 +96,31 @@ function CustomDropdown({
              className={`absolute z-50 w-full mt-2 bg-white dark:bg-[#1C1C1EE6] backdrop-blur-xl border-2 border-slate-200 dark:border-[#3A3A3C] rounded-xl shadow-2xl overflow-hidden ${dropdownClasses}`}
           >
              <div className="max-h-60 overflow-y-auto p-1.5 custom-scrollbar flex flex-col gap-1">
+                {onAddNewItem && (
+                   isAdding ? (
+                     <div className="flex gap-2 p-1 border border-indigo-200 dark:border-indigo-500/30 rounded-lg bg-indigo-50/50 dark:bg-indigo-500/10 mb-1">
+                       <input 
+                         autoFocus 
+                         value={newVal} 
+                         onChange={e => setNewVal(e.target.value)} 
+                         onKeyDown={e => {
+                           if (e.key === 'Enter') { e.preventDefault(); handleAddNew(); }
+                         }} 
+                         placeholder="Digite e Enter..." 
+                         className="flex-1 bg-white dark:bg-[#1C1C1E] border border-slate-200 dark:border-slate-700/50 rounded-md px-2 py-1.5 text-sm outline-none w-full" 
+                       />
+                       <button onClick={handleAddNew} className="bg-indigo-600 text-white px-2 py-1 rounded-md text-xs font-bold active:scale-95 transition-all">OK</button>
+                     </div>
+                   ) : (
+                     <button 
+                       type="button" 
+                       onClick={(e) => { e.stopPropagation(); setIsAdding(true); }} 
+                       className="w-full text-left px-3 py-2 text-indigo-600 dark:text-indigo-400 font-bold text-sm bg-indigo-50/50 dark:bg-indigo-500/10 hover:bg-indigo-100 dark:hover:bg-indigo-500/20 rounded-lg flex items-center gap-2 mb-1 border border-indigo-100 dark:border-transparent transition-colors"
+                     >
+                       <span className="text-lg leading-none">+</span> Adicionar Outro
+                     </button>
+                   )
+                )}
                 {options.map((opt) => (
                    <button
                      key={opt.value}
@@ -560,6 +598,15 @@ export default function KevQuestPage() {
                       placeholder="Selecionar..."
                       options={dbConteudos.map(c => ({ value: c.id, label: c.nome }))}
                       className="border-2 rounded-xl px-4 py-3 text-sm font-bold bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]"
+                      onAddNewItem={async (val) => {
+                        if (!form.disciplinaId) return;
+                        const added = await addConteudo(form.disciplinaId, val);
+                        if (added) {
+                          setDbConteudos(prev => [...prev, added]);
+                          setForm({ ...form, conteudoId: added.id, conteudo: added.nome });
+                          toast.success("Novo conteúdo salvo!");
+                        }
+                      }}
                     />
                 </div>
               </div>
@@ -590,6 +637,13 @@ export default function KevQuestPage() {
                     placeholder="Ano..."
                     options={cfgAnos.map(a => ({ value: a, label: a }))}
                     className="h-11 border-2 rounded-xl px-4 text-sm bg-slate-50 dark:bg-[#2C2C2E] border-slate-200 dark:border-[#3A3A3C]"
+                    onAddNewItem={async (val) => {
+                      const novas = [...cfgAnos, val];
+                      setCfgAnos(novas);
+                      await updatePreferences({ anos: novas });
+                      setForm({...form, ano: val});
+                      toast.success("Novo ano adicionado!");
+                    }}
                   />
                 </div>
                 <div className="col-span-1">

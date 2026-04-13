@@ -91,7 +91,6 @@ export default function VariaveisKevQuestPage() {
     const ok = await deleteDisciplina(id);
     if (ok) {
       setDbDisciplinas(prev => prev.filter(d => d.id !== id));
-      if (selectedDisciplinaId === id) setSelectedDisciplinaId("");
       toast.success("Disciplina excluída!");
     } else {
       toast.error("Erro ao excluir disciplina.");
@@ -143,7 +142,7 @@ export default function VariaveisKevQuestPage() {
           <div className="bg-amber-500 p-3 rounded-[1.2rem] shadow-lg shadow-amber-500/20">
             <Database className="w-8 h-8 text-white" />
           </div>
-          Variáveis Padrão
+          Edição de Variáveis
         </h1>
         <div className="flex items-center gap-3 mt-3 relative z-10">
           <div className="h-1 w-12 bg-amber-500 rounded-full"></div>

@@ -1,14 +1,14 @@
 
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { format } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { toast } from "sonner";
 import { motion, AnimatePresence } from "framer-motion";
-import { Activity, Book, Globe2, Leaf, Calculator, PenTool, Send, Clock, Play, Pause, X, PieChart, Maximize2, Minimize2, Trash2, Loader2 } from "lucide-react";
+import { Activity, Book, Globe2, Leaf, Calculator, PenTool, Send, Clock, Play, Pause, X, PieChart, Maximize2, Minimize2, Trash2, Loader2, ChevronDown } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
-import { getPreferences } from "@/lib/db/preferences";
+import { getPreferences, updatePreferences } from "@/lib/db/preferences";
 import {
   listarSimulados,
   criarSimulado,
@@ -86,12 +86,132 @@ function TooltipD2({ active, payload, label }: any) {
   );
 }
 
+// --- CUSTOM DROPDOWN ---
+function CustomDropdown({
+  value,
+  onChange,
+  options,
+  placeholder,
+  disabled = false,
+  className = "",
+  dropdownClasses = "",
+  onAddNewItem
+}: {
+  value: string;
+  onChange: (val: string) => void;
+  options: { value: string; label: string }[];
+  placeholder: string;
+  disabled?: boolean;
+  className?: string;
+  dropdownClasses?: string;
+  onAddNewItem?: (val: string) => Promise<void> | void;
+}) {
+  const [isOpen, setIsOpen] = useState(false);
+  const [isAdding, setIsAdding] = useState(false);
+  const [newVal, setNewVal] = useState("");
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (containerRef.current && !containerRef.current.contains(event.target as Node)) {
+        setIsOpen(false);
+        setIsAdding(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
+  const selectedOpt = options.find(o => o.value === value);
+
+  const handleAddNew = async () => {
+    if (!newVal.trim() || !onAddNewItem) return;
+    await onAddNewItem(newVal.trim());
+    setNewVal("");
+    setIsAdding(false);
+    setIsOpen(false);
+  };
+
+  return (
+    <div className="relative w-full" ref={containerRef}>
+      <button
+        type="button"
+        disabled={disabled}
+        onClick={() => setIsOpen(!isOpen)}
+        className={`w-full text-left flex justify-between items-center outline-none transition-all ${className} ${disabled ? 'opacity-50 cursor-not-allowed shadow-none' : 'cursor-pointer hover:border-indigo-400 focus:ring-4 focus:ring-indigo-500/10'}`}
+      >
+        <span className="truncate">{selectedOpt ? selectedOpt.label : <span className="opacity-50 font-medium">{placeholder}</span>}</span>
+        <ChevronDown className={`w-4 h-4 ml-2 flex-shrink-0 transition-transform duration-300 ${isOpen ? 'rotate-180 text-indigo-500' : 'text-slate-400'}`} />
+      </button>
+
+      <AnimatePresence>
+        {isOpen && (
+          <motion.div
+             initial={{ opacity: 0, y: -8, scale: 0.98 }}
+             animate={{ opacity: 1, y: 0, scale: 1 }}
+             exit={{ opacity: 0, y: -8, scale: 0.98 }}
+             transition={{ duration: 0.2, ease: "easeOut" }}
+             className={`absolute z-[100] w-full mt-2 bg-white dark:bg-[#1C1C1EE6] backdrop-blur-xl border border-slate-200 dark:border-slate-800 rounded-2xl shadow-2xl overflow-hidden ${dropdownClasses}`}
+          >
+             <div className="max-h-60 overflow-y-auto p-1.5 flex flex-col gap-1 custom-scrollbar">
+                {onAddNewItem && (
+                   isAdding ? (
+                     <div className="flex gap-2 p-1 border border-indigo-200 dark:border-indigo-500/30 rounded-xl bg-indigo-50/50 dark:bg-indigo-500/10 mb-1">
+                       <input 
+                         autoFocus 
+                         value={newVal} 
+                         onChange={e => setNewVal(e.target.value)} 
+                         onKeyDown={e => {
+                           if (e.key === 'Enter') { e.preventDefault(); handleAddNew(); }
+                         }} 
+                         placeholder="Digite e aperte Enter..." 
+                         className="flex-1 bg-white dark:bg-[#1C1C1E] border border-slate-200 dark:border-slate-700/50 rounded-lg px-2 py-2 text-sm outline-none w-full shadow-inner" 
+                       />
+                       <button onClick={handleAddNew} className="bg-indigo-600 text-white px-3 py-1.5 rounded-lg text-xs font-bold shadow-lg shadow-indigo-600/20 active:scale-95 transition-all">OK</button>
+                     </div>
+                   ) : (
+                     <button 
+                       type="button" 
+                       onClick={(e) => { e.stopPropagation(); setIsAdding(true); }} 
+                       className="w-full text-left px-3 py-2.5 text-indigo-600 dark:text-indigo-400 font-black text-sm bg-indigo-50/50 dark:bg-indigo-500/10 hover:bg-indigo-100 dark:hover:bg-indigo-500/20 rounded-xl flex items-center gap-2 mb-1 border border-indigo-100 dark:border-transparent transition-all shadow-sm"
+                     >
+                       <span className="text-lg leading-none">+</span> Adicionar Outro
+                     </button>
+                   )
+                )}
+                {options.map((opt) => (
+                   <button
+                     key={opt.value}
+                     type="button"
+                     onClick={() => {
+                        onChange(opt.value);
+                        setIsOpen(false);
+                     }}
+                     className={`w-full text-left px-3 py-2.5 rounded-xl text-sm font-bold transition-all ${value === opt.value ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-500/20' : 'hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200'}`}
+                   >
+                     {opt.label}
+                   </button>
+                ))}
+             </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+}
+
 export default function SimuladosPage() {
   const [simulados, setSimulados] = useState<SimuladoDB[]>([]);
   const [isLoaded,  setIsLoaded]  = useState(false);
   const [isSaving,  setIsSaving]  = useState(false);
   const [userId,    setUserId]    = useState<string | null>(null);
-  const [activeTab, setActiveTab] = useState<"lancamento" | "metricas">("lancamento");
+  const [activeTab, setActiveTab] = useState<"lancamento" | "metricas">(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('simulados_activeTab');
+      if (saved === 'metricas') return 'metricas';
+    }
+    return 'lancamento';
+  });
 
   const [cfgProvas, setCfgProvas] = useState<string[]>([]);
   const [cfgAnos, setCfgAnos] = useState<string[]>([]);
@@ -328,7 +448,7 @@ export default function SimuladosPage() {
       {/* ─── TOGGLE LANÇAMENTO / MÉTRICAS ─────────────────────────────────── */}
       <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-2 shadow-sm border border-slate-100 dark:border-[#2C2C2E] flex">
         <button
-          onClick={() => setActiveTab("lancamento")}
+          onClick={() => { setActiveTab("lancamento"); localStorage.setItem('simulados_activeTab', 'lancamento'); }}
           className={`flex-1 py-4 rounded-[1.8rem] text-sm font-black uppercase tracking-[0.18em] transition-all duration-200 ${
             activeTab === "lancamento"
               ? "bg-indigo-600 text-white shadow-lg shadow-indigo-600/20"
@@ -338,7 +458,7 @@ export default function SimuladosPage() {
           Lançamento
         </button>
         <button
-          onClick={() => setActiveTab("metricas")}
+          onClick={() => { setActiveTab("metricas"); localStorage.setItem('simulados_activeTab', 'metricas'); }}
           className={`flex-1 py-4 rounded-[1.8rem] text-sm font-black uppercase tracking-[0.18em] transition-all duration-200 ${
             activeTab === "metricas"
               ? "bg-indigo-600 text-white shadow-lg shadow-indigo-600/20"
@@ -457,16 +577,13 @@ export default function SimuladosPage() {
               <div className="w-full md:w-80">
                 <label className="block text-[10px] font-black text-slate-400 dark:text-slate-500 mb-2 uppercase tracking-[0.25em]">Identificação da Prova</label>
                 {cfgProvas.length > 0 ? (
-                  <select 
+                  <CustomDropdown 
                     value={form.nomeProva}
-                    onChange={e => setForm({...form, nomeProva: e.target.value})}
-                    className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all shadow-inner appearance-none cursor-pointer"
-                  >
-                    <option value="">Selecione a Prova...</option>
-                    {cfgProvas.map(p => (
-                      <option key={p} value={p}>{p}</option>
-                    ))}
-                  </select>
+                    onChange={v => setForm({...form, nomeProva: v})}
+                    options={cfgProvas.map(p => ({value: p, label: p}))}
+                    placeholder="Selecione a Prova..."
+                    className="h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white"
+                  />
                 ) : (
                   <input 
                     type="text" 
@@ -481,16 +598,20 @@ export default function SimuladosPage() {
               <div className="w-full md:w-32">
                 <label className="block text-[10px] font-black text-slate-400 dark:text-slate-500 mb-2 uppercase tracking-[0.25em]">Ano da Prova</label>
                 {cfgAnos.length > 0 ? (
-                  <select 
+                  <CustomDropdown 
                     value={form.anoProva}
-                    onChange={e => setForm({...form, anoProva: e.target.value})}
-                    className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white focus:outline-none focus:ring-4 focus:ring-indigo-500/10 focus:border-indigo-500 transition-all shadow-inner appearance-none cursor-pointer"
-                  >
-                    <option value="">Selecione...</option>
-                    {cfgAnos.map(a => (
-                      <option key={a} value={a}>{a}</option>
-                    ))}
-                  </select>
+                    onChange={v => setForm({...form, anoProva: v})}
+                    options={cfgAnos.map(a => ({value: a, label: a}))}
+                    placeholder="Selecione..."
+                    className="h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white"
+                    onAddNewItem={async (val) => {
+                      const novas = [...cfgAnos, val];
+                      setCfgAnos(novas);
+                      await updatePreferences({ anos: novas });
+                      setForm({...form, anoProva: val});
+                      toast.success("Novo ano adicionado!");
+                    }}
+                  />
                 ) : (
                   <input 
                     type="text" 

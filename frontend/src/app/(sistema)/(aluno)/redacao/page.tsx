@@ -218,12 +218,14 @@ function RedacaoCard({
   onDelete,
   onLancarNota,
   onOpenDetalhe,
+  onAdvance,
 }: {
   redacao: RedacaoGlobal;
   col: typeof COLUMNS[number];
   onDelete: (id: string, e: any) => void;
   onLancarNota: (redacao: RedacaoGlobal) => void;
   onOpenDetalhe: (redacao: RedacaoGlobal) => void;
+  onAdvance?: (redacao: RedacaoGlobal) => void;
 }) {
   const { attributes, listeners, setNodeRef, transform, transition, isDragging } = useSortable({ id: redacao.id, data: { status: redacao.status } });
   const style = { transform: CSS.Transform.toString(transform), transition, opacity: isDragging ? 0.3 : 1 };
@@ -231,7 +233,10 @@ function RedacaoCard({
 
   return (
     <div ref={setNodeRef} style={style} {...attributes} {...listeners}
-      onPointerDown={(e) => { dragStartPos.current = { x: e.clientX, y: e.clientY }; }}
+      onPointerDown={(e) => { 
+        if (listeners?.onPointerDown) listeners.onPointerDown(e as any);
+        dragStartPos.current = { x: e.clientX, y: e.clientY }; 
+      }}
       onPointerUp={(e) => {
         if (!dragStartPos.current) return;
         const dx = Math.abs(e.clientX - dragStartPos.current.x);
@@ -305,7 +310,17 @@ function RedacaoCard({
                   </>
                 )}
                 {/* Ícone indicativo de clique */}
-                <ChevronRight className="w-3.5 h-3.5 text-slate-300 dark:text-[#3A3A3C] opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
+                {col.id !== "concluida" && onAdvance ? (
+                  <button
+                    onPointerDown={(e) => { e.stopPropagation(); onAdvance(redacao); }}
+                    className="p-1.5 text-slate-300 dark:text-[#3A3A3C] hover:text-indigo-500 hover:bg-indigo-50 dark:hover:bg-indigo-900/20 rounded-lg opacity-0 group-hover:opacity-100 transition-all flex-shrink-0"
+                    title="Avançar etapa"
+                  >
+                    <ChevronRight className="w-4 h-4" />
+                  </button>
+                ) : (
+                  <ChevronRight className="w-3.5 h-3.5 text-slate-300 dark:text-[#3A3A3C] opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0" />
+                )}
               </div>
             </div>
           </div>
@@ -316,11 +331,12 @@ function RedacaoCard({
 }
 
 // ─── Coluna Kanban ─────────────────────────────────────────────────────────────
-function KanbanColumn({ col, items, onDelete, onLancarNota, onOpenDetalhe }: {
+function KanbanColumn({ col, items, onDelete, onLancarNota, onOpenDetalhe, onAdvance }: {
   col: typeof COLUMNS[number]; items: RedacaoGlobal[];
   onDelete: (id: string, e: any) => void;
   onLancarNota: (r: RedacaoGlobal) => void;
   onOpenDetalhe: (r: RedacaoGlobal) => void;
+  onAdvance: (r: RedacaoGlobal) => void;
 }) {
   const { setNodeRef, isOver } = useDroppable({ id: col.id });
 
@@ -349,6 +365,7 @@ function KanbanColumn({ col, items, onDelete, onLancarNota, onOpenDetalhe }: {
               onDelete={onDelete}
               onLancarNota={onLancarNota}
               onOpenDetalhe={onOpenDetalhe}
+              onAdvance={onAdvance}
             />
           ))}
         </SortableContext>
@@ -555,7 +572,7 @@ export default function RedacaoPage() {
       if (me) {
         const { data: dtRedacoes } = await supabase
           .from("redacoes_aluno")
-          .select(`id, status, pdf_url, nota, created_at, temas_redacao (titulo, descricao_html)`)
+          .select(`id, status, tema_id, pdf_url, nota, created_at, temas_redacao (titulo, descricao_html)`)
           .eq("aluno_id", me)
           .order("created_at", { ascending: false });
 
@@ -565,6 +582,7 @@ export default function RedacaoPage() {
               id: r.id,
               studentId: me,
               titulo: (r.temas_redacao as any)?.titulo || "Minha Redação",
+              temaId: r.tema_id,
               tema: (r.temas_redacao as any)?.descricao_html || "",
               dataCriacao: r.created_at,
               status: mapStatusFront(r.status),
@@ -697,6 +715,16 @@ export default function RedacaoPage() {
     }
   };
 
+  const handleAdvance = async (redacao: RedacaoGlobal) => {
+    let nextStatus: StudentKanbanStatus = "proposta";
+    if (redacao.status === "proposta") nextStatus = "fazendo";
+    else if (redacao.status === "fazendo") nextStatus = "concluida";
+    else return;
+
+    setRedacoes((prev) => prev.map((r) => r.id === redacao.id ? { ...r, status: nextStatus } : r));
+    await supabase.from("redacoes_aluno").update({ status: nextStatus.toUpperCase() }).eq("id", redacao.id);
+  };
+
   const handleImageUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (file) {
@@ -743,6 +771,8 @@ export default function RedacaoPage() {
   const selectedCol = selectedRedacao
     ? COLUMNS.find((c) => c.id === selectedRedacao.status)!
     : COLUMNS[0];
+
+  const temasDisponiveis = temasOficiais.filter((t) => !redacoes.some((r) => r.temaId === t.id));
 
   return (
     <div className="max-w-[1600px] mx-auto pb-20 animate-in fade-in duration-500 space-y-8">
@@ -794,10 +824,10 @@ export default function RedacaoPage() {
             </div>
 
             <div className="bg-amber-50/50 dark:bg-amber-900/10 border-2 border-amber-100 dark:border-amber-900/30 rounded-[2.5rem] p-4 flex flex-col gap-3 max-h-[80vh] overflow-y-auto no-scrollbar">
-              {temasOficiais.map((t) => (
+              {temasDisponiveis.map((t) => (
                 <TemaItem key={t.id} tema={t} onAddProposta={addTemaComoProposta} onVerDetalhe={setSelectedTema} />
               ))}
-              {temasOficiais.length === 0 && (
+              {temasDisponiveis.length === 0 && (
                 <div className="py-10 text-center">
                   <Star className="w-6 h-6 text-amber-300 mx-auto mb-2" />
                   <p className="text-[10px] uppercase font-bold text-slate-400 block tracking-widest">Nenhum tema oficial</p>
@@ -816,6 +846,7 @@ export default function RedacaoPage() {
                 onDelete={deleteRedacao}
                 onLancarNota={(r) => setNotaForm({ id: r.id, nota: String(r.nota || "") })}
                 onOpenDetalhe={setSelectedRedacao}
+                onAdvance={handleAdvance}
               />
             ))}
           </div>

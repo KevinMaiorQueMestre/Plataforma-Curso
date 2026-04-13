@@ -128,7 +128,7 @@ export default function ConfiguracoesPage() {
               <Database className="w-5 h-5 text-amber-500" />
             </div>
             <div>
-              <h3 className="text-sm font-black text-slate-800 dark:text-white uppercase tracking-wider">Variáveis Padrão</h3>
+              <h3 className="text-sm font-black text-slate-800 dark:text-white uppercase tracking-wider">Edição de Variáveis</h3>
             </div>
           </div>
           <ChevronRight className="w-5 h-5 text-slate-300 dark:text-slate-600 group-hover:text-amber-500 group-hover:translate-x-1 transition-all" />

@@ -13,6 +13,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { createClient } from "@/utils/supabase/client";
 import SummaryCards from "@/components/dashboard/SummaryCards";
 import EvolutionCharts from "@/components/dashboard/EvolutionCharts";
+import { addConteudo } from "@/lib/db/disciplinas";
 
 // --- TYPES ---
 type Disciplina = { id: string; nome: string; cor_hex: string };
@@ -39,7 +40,8 @@ function CustomDropdown({
   placeholder,
   disabled = false,
   className = "",
-  dropdownClasses = ""
+  dropdownClasses = "",
+  onAddNewItem
 }: {
   value: string;
   onChange: (val: string) => void;
@@ -48,14 +50,20 @@ function CustomDropdown({
   disabled?: boolean;
   className?: string;
   dropdownClasses?: string;
+  onAddNewItem?: (val: string) => Promise<void> | void;
 }) {
   const [isOpen, setIsOpen] = useState(false);
+  const [isAdding, setIsAdding] = useState(false);
+  const [newVal, setNewVal] = useState("");
   const containerRef = useRef<HTMLDivElement>(null);
+  const isOpenRef = useRef(isOpen);
+  isOpenRef.current = isOpen;
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
-      if (containerRef.current && !containerRef.current.contains(event.target as Node)) {
+      if (isOpenRef.current && containerRef.current && !containerRef.current.contains(event.target as Node)) {
         setIsOpen(false);
+        setIsAdding(false);
       }
     };
     document.addEventListener("mousedown", handleClickOutside);
@@ -63,6 +71,14 @@ function CustomDropdown({
   }, []);
 
   const selectedOpt = options.find(o => o.value === value);
+
+  const handleAddNew = async () => {
+    if (!newVal.trim() || !onAddNewItem) return;
+    await onAddNewItem(newVal.trim());
+    setNewVal("");
+    setIsAdding(false);
+    setIsOpen(false);
+  };
 
   return (
     <div className="relative w-full" ref={containerRef}>
@@ -86,6 +102,31 @@ function CustomDropdown({
              className={`absolute z-[100] w-full mt-2 bg-white dark:bg-[#1C1C1EE6] backdrop-blur-xl border border-slate-200 dark:border-slate-800 rounded-2xl shadow-2xl overflow-hidden ${dropdownClasses}`}
           >
              <div className="max-h-60 overflow-y-auto p-1.5 flex flex-col gap-1 custom-scrollbar">
+                {onAddNewItem && (
+                   isAdding ? (
+                     <div className="flex gap-2 p-1 border border-indigo-200 dark:border-indigo-500/30 rounded-xl bg-indigo-50/50 dark:bg-indigo-500/10 mb-1">
+                       <input 
+                         autoFocus 
+                         value={newVal} 
+                         onChange={e => setNewVal(e.target.value)} 
+                         onKeyDown={e => {
+                           if (e.key === 'Enter') { e.preventDefault(); handleAddNew(); }
+                         }} 
+                         placeholder="Digite e aperte Enter..." 
+                         className="flex-1 bg-white dark:bg-[#1C1C1E] border border-slate-200 dark:border-slate-700/50 rounded-lg px-2 py-2 text-sm outline-none w-full shadow-inner" 
+                       />
+                       <button onClick={handleAddNew} className="bg-indigo-600 text-white px-3 py-1.5 rounded-lg text-xs font-bold shadow-lg shadow-indigo-600/20 active:scale-95 transition-all">OK</button>
+                     </div>
+                   ) : (
+                     <button 
+                       type="button" 
+                       onClick={(e) => { e.stopPropagation(); setIsAdding(true); }} 
+                       className="w-full text-left px-3 py-2.5 text-indigo-600 dark:text-indigo-400 font-black text-sm bg-indigo-50/50 dark:bg-indigo-500/10 hover:bg-indigo-100 dark:hover:bg-indigo-500/20 rounded-xl flex items-center gap-2 mb-1 border border-indigo-100 dark:border-transparent transition-all shadow-sm"
+                     >
+                       <span className="text-lg leading-none">+</span> Adicionar Outro
+                     </button>
+                   )
+                )}
                 {options.map((opt) => (
                    <button
                      key={opt.value}
@@ -115,7 +156,13 @@ export default function HomeEstudosPage() {
   const [isLoaded, setIsLoaded] = useState(false);
   const [isSaving, setIsSaving] = useState(false);
   const [modalOpen, setModalOpen] = useState(false);
-  const [activeTab, setActiveTab] = useState<'sessoes' | 'evolucao'>('sessoes');
+  const [activeTab, setActiveTab] = useState<'sessoes' | 'evolucao'>(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('diario_activeTab');
+      if (saved === 'evolucao') return 'evolucao';
+    }
+    return 'sessoes';
+  });
 
   // Timer State
   const [seconds, setSeconds] = useState(0);
@@ -267,7 +314,6 @@ export default function HomeEstudosPage() {
       acertos: (e.acertos || 0).toString(),
       tempoH: h.toString(),
       tempoM: m.toString(),
-      tempoM: m.toString(),
       tipoEstudo: e.tipo_estudo || "misto"
     });
     setModalOpen(true);
@@ -335,16 +381,24 @@ export default function HomeEstudosPage() {
       <div className="flex flex-col gap-8">
         
         {/* TAB CONTROLS */}
-        <div className="bg-slate-100 dark:bg-[#1C1C1E] p-2 rounded-[2rem] flex items-center w-full border border-slate-200 dark:border-[#2C2C2E] shadow-inner mb-2">
+        <div className="bg-white dark:bg-[#1C1C1E] p-2 rounded-[2rem] flex items-center w-full border border-slate-100 dark:border-[#2C2C2E] shadow-sm mb-2">
           <button
-            onClick={() => setActiveTab('sessoes')}
-            className={`flex-1 py-4 text-sm font-black rounded-[1.5rem] transition-all uppercase tracking-widest ${activeTab === 'sessoes' ? 'bg-white dark:bg-[#2C2C2E] text-indigo-600 dark:text-indigo-400 shadow-sm' : 'text-slate-500 dark:text-slate-500 hover:text-slate-700 dark:hover:text-slate-300'}`}
+            onClick={() => { setActiveTab('sessoes'); localStorage.setItem('diario_activeTab', 'sessoes'); }}
+            className={`flex-1 py-4 text-sm font-black rounded-[1.8rem] transition-all duration-200 uppercase tracking-[0.18em] ${
+              activeTab === 'sessoes'
+                ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-600/20'
+                : 'text-slate-400 dark:text-[#A1A1AA] hover:text-slate-600 dark:hover:text-white'
+            }`}
           >
             Sessões de Estudo
           </button>
           <button
-            onClick={() => setActiveTab('evolucao')}
-            className={`flex-1 py-4 text-sm font-black rounded-[1.5rem] transition-all uppercase tracking-widest ${activeTab === 'evolucao' ? 'bg-white dark:bg-[#2C2C2E] text-indigo-600 dark:text-indigo-400 shadow-sm' : 'text-slate-500 dark:text-slate-500 hover:text-slate-700 dark:hover:text-slate-300'}`}
+            onClick={() => { setActiveTab('evolucao'); localStorage.setItem('diario_activeTab', 'evolucao'); }}
+            className={`flex-1 py-4 text-sm font-black rounded-[1.8rem] transition-all duration-200 uppercase tracking-[0.18em] ${
+              activeTab === 'evolucao'
+                ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-600/20'
+                : 'text-slate-400 dark:text-[#A1A1AA] hover:text-slate-600 dark:hover:text-white'
+            }`}
           >
             Evolução
           </button>
@@ -407,15 +461,18 @@ export default function HomeEstudosPage() {
            <div className="flex flex-col md:flex-row justify-between mb-8 gap-4">
               <h2 className="text-xl font-black text-slate-800 dark:text-white uppercase tracking-tighter">Meu Progresso Histórico</h2>
               <div className="flex items-center gap-4">
-                <select 
-                  value={filterDisciplina} 
-                  onChange={e => setFilterDisciplina(e.target.value)}
-                  className="bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-xs font-black py-2.5 px-4 outline-none cursor-pointer text-slate-600 dark:text-slate-300"
-                >
-                  <option value="all">Todas Disciplinas</option>
-                  {disciplinas.map(d => <option key={d.id} value={d.id}>{d.nome}</option>)}
-                </select>
-                <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{filtered.length} sessões</div>
+                 <CustomDropdown
+                   value={filterDisciplina}
+                   onChange={v => setFilterDisciplina(v)}
+                   options={[
+                     { value: 'all', label: 'Todas Disciplinas' },
+                     ...disciplinas.map(d => ({ value: d.id, label: d.nome }))
+                   ]}
+                   placeholder="Todas Disciplinas"
+                   className="min-w-[180px] px-4 py-2.5 border border-slate-200 dark:border-slate-700 rounded-xl bg-slate-50 dark:bg-slate-800 text-xs font-black text-slate-600 dark:text-slate-300"
+                   dropdownClasses="min-w-[200px]"
+                 />
+                 <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest">{filtered.length} sessões</div>
               </div>
            </div>
 
@@ -485,11 +542,15 @@ export default function HomeEstudosPage() {
                 <h2 className="text-2xl font-black mb-8 text-slate-800 dark:text-white">{editingId ? "Editar Evolução" : "Registrar Evolução"}</h2>
                 
                 <form onSubmit={handleSubmit} className="space-y-6">
-                   <div className="grid grid-cols-3 gap-2">
-                      {['teorico', 'pratico', 'misto'].map(t => (
-                        <button key={t} type="button" onClick={() => setForm({...form, tipoEstudo: t})} className={`py-4 rounded-2xl flex flex-col items-center gap-2 border-2 transition-all ${form.tipoEstudo === t ? 'bg-indigo-600 border-indigo-600 text-white shadow-lg' : 'bg-slate-50 dark:bg-slate-800 border-transparent text-slate-400'}`}>
-                           {t === 'teorico' ? <Book className="w-5 h-5"/> : t === 'pratico' ? <PenTool className="w-5 h-5"/> : <Layers className="w-5 h-5"/>}
-                           <span className="text-[10px] font-black uppercase">{t}</span>
+                   <div className="bg-[#1C1C1E] p-2 rounded-[2rem] grid grid-cols-3 gap-2 border border-white/10">
+                      {(['teorico', 'pratico', 'misto'] as const).map(t => (
+                        <button key={t} type="button" onClick={() => setForm({...form, tipoEstudo: t})} className={`py-5 rounded-[1.5rem] flex flex-col items-center gap-3 transition-all duration-200 ${
+                          form.tipoEstudo === t
+                            ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-600/30'
+                            : 'text-slate-500 hover:text-slate-300'
+                        }`}>
+                           {t === 'teorico' ? <Book className="w-7 h-7"/> : t === 'pratico' ? <PenTool className="w-7 h-7"/> : <Layers className="w-7 h-7"/>}
+                           <span className="text-[10px] font-black uppercase tracking-widest">{t}</span>
                         </button>
                       ))}
                    </div>
@@ -509,6 +570,15 @@ export default function HomeEstudosPage() {
                      options={conteudos.filter(c => c.disciplina_id === form.disciplinaId).map(c => ({value: c.id, label: c.nome}))} 
                      placeholder="Selecione o Conteúdo" 
                      className="p-4 border border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" 
+                     onAddNewItem={async (val) => {
+                        if (!form.disciplinaId) return;
+                        const added = await addConteudo(form.disciplinaId, val);
+                        if (added) {
+                          setConteudos(prev => [...prev, added]);
+                          setForm({ ...form, conteudoId: added.id });
+                          toast.success("Novo conteúdo salvo!");
+                        }
+                     }}
                     />
 
                    <div className="space-y-2">

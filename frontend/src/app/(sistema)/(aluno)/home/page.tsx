@@ -11,11 +11,89 @@ import {
   Star,
   CheckCircle2,
   AlertCircle,
-  Loader2
+  Loader2,
+  ChevronDown
 } from "lucide-react";
 import { format, differenceInDays } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { createClient } from "@/utils/supabase/client";
+import { motion, AnimatePresence } from "framer-motion";
+
+// --- CUSTOM DROPDOWN ---
+function CustomDropdown({
+  value,
+  onChange,
+  options,
+  placeholder,
+  disabled = false,
+  className = "",
+  dropdownClasses = ""
+}: {
+  value: string;
+  onChange: (val: string) => void;
+  options: { value: string; label: string }[];
+  placeholder: string;
+  disabled?: boolean;
+  className?: string;
+  dropdownClasses?: string;
+}) {
+  const [isOpen, setIsOpen] = React.useState(false);
+  const containerRef = React.useRef<HTMLDivElement>(null);
+
+  React.useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (containerRef.current && !containerRef.current.contains(event.target as Node)) {
+        setIsOpen(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
+  const selectedOpt = options.find(o => o.value === value);
+
+  return (
+    <div className="relative w-full" ref={containerRef}>
+      <button
+        type="button"
+        disabled={disabled}
+        onClick={() => setIsOpen(!isOpen)}
+        className={`w-full text-left flex justify-between items-center outline-none transition-all ${className} ${disabled ? 'opacity-50 cursor-not-allowed shadow-none' : 'cursor-pointer hover:border-white/40 focus:ring-4 focus:ring-white/10'}`}
+      >
+        <span className="truncate">{selectedOpt ? selectedOpt.label : <span className="opacity-70 font-medium">{placeholder}</span>}</span>
+        <ChevronDown className={`w-4 h-4 ml-2 flex-shrink-0 transition-transform duration-300 ${isOpen ? 'rotate-180 text-white' : 'text-white/70'}`} />
+      </button>
+
+      <AnimatePresence>
+        {isOpen && (
+          <motion.div
+             initial={{ opacity: 0, y: -8, scale: 0.98 }}
+             animate={{ opacity: 1, y: 0, scale: 1 }}
+             exit={{ opacity: 0, y: -8, scale: 0.98 }}
+             transition={{ duration: 0.2, ease: "easeOut" }}
+             className={`absolute z-[100] w-full mt-2 backdrop-blur-xl border border-white/20 rounded-2xl shadow-2xl overflow-hidden ${dropdownClasses}`}
+          >
+             <div className="max-h-60 overflow-y-auto p-1.5 flex flex-col gap-1 custom-scrollbar">
+                {options.map((opt) => (
+                   <button
+                     key={opt.value}
+                     type="button"
+                     onClick={() => {
+                        onChange(opt.value);
+                        setIsOpen(false);
+                     }}
+                     className={`w-full text-left px-3 py-2.5 rounded-xl text-sm font-bold transition-all ${value === opt.value ? 'bg-white/20 text-white shadow-lg shadow-black/10' : 'hover:bg-white/10 text-white/90'}`}
+                   >
+                     {opt.label}
+                   </button>
+                ))}
+             </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+}
 
 export default function HomePage() {
   const [isLoaded, setIsLoaded] = useState(false);
@@ -27,7 +105,12 @@ export default function HomePage() {
   const [newPostText, setNewPostText] = useState("");
   const [isPosting, setIsPosting] = useState(false);
   const [onlineUsers, setOnlineUsers] = useState<any[]>([]);
-  const [selectedEventId, setSelectedEventId] = useState<string | null>(null);
+  const [selectedEventId, setSelectedEventId] = useState<string | null>(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem('home_selectedEventId') || null;
+    }
+    return null;
+  });
   const [allEventsForSelect, setAllEventsForSelect] = useState<any[]>([]);
   
   const supabase = createClient();
@@ -363,19 +446,25 @@ export default function HomePage() {
             <div className="relative z-10">
               <span className="text-[10px] font-black uppercase tracking-[0.2em] opacity-80">Contagem Regressiva</span>
               
-              <div className="mt-4 mb-6">
-                <select 
-                  value={selectedEventId || ""} 
-                  onChange={(e) => setSelectedEventId(e.target.value)}
-                  className="w-full bg-white/10 border border-white/20 text-white placeholder-white/50 rounded-xl px-3 py-2 text-xs focus:ring-2 focus:ring-white/50 outline-none transition-colors backdrop-blur-md appearance-none cursor-pointer"
-                >
-                  <option value="" className="text-slate-900">Selecione um evento...</option>
-                  {allEventsForSelect.map(ev => (
-                    <option key={ev.id} value={ev.id} className="text-slate-900">
-                      {format(new Date(ev.date_iso), "dd/MM")} - {ev.titulo}
-                    </option>
-                  ))}
-                </select>
+              <div className="mt-4 mb-6 relative">
+                <CustomDropdown
+                  value={selectedEventId || ""}
+                  onChange={(val) => {
+                    setSelectedEventId(val || null);
+                    if (val) {
+                      localStorage.setItem('home_selectedEventId', val);
+                    } else {
+                      localStorage.removeItem('home_selectedEventId');
+                    }
+                  }}
+                  options={allEventsForSelect.map(ev => ({
+                    value: ev.id,
+                    label: `${format(new Date(ev.date_iso), "dd/MM")} - ${ev.titulo}`
+                  }))}
+                  placeholder="Selecione um evento..."
+                  className="w-full bg-white/10 border border-white/20 text-white placeholder-white/50 rounded-xl px-3 py-3 text-xs focus:ring-2 focus:ring-white/50 outline-none transition-colors backdrop-blur-md cursor-pointer font-medium"
+                  dropdownClasses="bg-indigo-950/90"
+                />
               </div>
 
               {selectedEvent ? (

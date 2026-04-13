@@ -17,6 +17,7 @@ export type KevQuestEntry = {
   conteudo_id: string | null;
   sub_conteudo: string | null;
   estagio_funil: EstagioFunil;
+  proxima_revisao_at: string | null;
   prova: string | null;
   ano: string | null;
   cor: string | null;
