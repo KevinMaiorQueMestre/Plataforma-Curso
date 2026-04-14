@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import React, { useState, useEffect } from "react";
 import { 
@@ -229,10 +229,13 @@ export default function HomePage() {
   };
 
   const fetchAvisos = async () => {
+    const now = new Date().toISOString();
     const { data } = await supabase
       .from('calendario_eventos')
       .select('*')
       .eq('tipo', 'aviso_admin')
+      .eq('is_published', true)
+      .or(`expires_at.is.null,expires_at.gt.${now}`)
       .order('created_at', { ascending: false })
       .limit(1);
     
@@ -319,11 +322,22 @@ export default function HomePage() {
               <span className="text-3xl filter drop-shadow-md">👑</span>
             </div>
             <div className="flex-1">
-              <div className="flex items-center gap-3 mb-1">
+              <div className="flex flex-wrap items-center gap-2 mb-1">
                 <span className="text-xs font-black uppercase tracking-[0.2em] text-indigo-200">Comunicado Oficial</span>
                 <span className="text-[10px] font-bold bg-white/20 px-2 py-0.5 rounded text-white italic">
                   Postado em {format(new Date(adminAvisos[0].created_at), "dd/MM 'às' HH:mm")}
                 </span>
+                {adminAvisos[0].expires_at && (() => {
+                  const daysLeft = differenceInDays(new Date(adminAvisos[0].expires_at), new Date());
+                  const hoursLeft = Math.floor((new Date(adminAvisos[0].expires_at).getTime() - Date.now()) / 3600000);
+                  const label = daysLeft >= 1 ? `Expira em ${daysLeft}d` : `Expira em ${Math.max(0, hoursLeft)}h`;
+                  const color = daysLeft < 1 ? "bg-rose-400/30 text-rose-100" : daysLeft <= 2 ? "bg-amber-400/30 text-amber-100" : "bg-white/15 text-indigo-100";
+                  return (
+                    <span className={`text-[10px] font-black px-2 py-0.5 rounded-full flex items-center gap-1 ${color}`}>
+                      <Clock className="w-2.5 h-2.5" /> {label}
+                    </span>
+                  );
+                })()}
               </div>
               <h2 className="text-2xl font-black mb-2 flex items-center gap-2">
                 <AlertCircle className="w-6 h-6"/> {adminAvisos[0].titulo}
@@ -335,6 +349,7 @@ export default function HomePage() {
           </div>
         </div>
       )}
+
 
       {/* Grid Principal */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -374,7 +389,7 @@ export default function HomePage() {
                     <div className="flex-1">
                       <div className="flex justify-between items-baseline mb-1">
                         <span className={`text-sm font-black ${post.tipo === 'admin' ? 'text-indigo-600 dark:text-indigo-400' : 'text-slate-800 dark:text-white'}`}>
-                          {post.profiles?.nome || 'Usuário'} {post.tipo === 'admin' && "👑"}
+                           {post.tipo === 'admin' ? 'Administrador' : (post.profiles?.nome || 'Usuário')} {post.tipo === 'admin' && "👑"}
                         </span>
                         <span className="text-[10px] font-bold text-slate-400 uppercase">{formatTimeAgo(post.created_at)}</span>
                       </div>
