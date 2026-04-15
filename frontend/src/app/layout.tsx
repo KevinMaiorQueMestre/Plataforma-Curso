@@ -16,9 +16,8 @@ const playfair = Playfair_Display({
   variable: "--font-playfair",
   subsets: ["latin"],
 });
-
 export const metadata: Metadata = {
-  title: "Synapse - All-in-One",
+  title: "MetAuto - All-in-One",
   description: "Ecossistema de Estudos Avançado",
 };
 

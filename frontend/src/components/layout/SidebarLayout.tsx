@@ -98,8 +98,8 @@ export default function SidebarLayout({
       <div className={`flex items-center ${isCollapsed ? 'justify-center' : 'justify-between'} mb-10 text-teal-600 dark:text-teal-400`}>
         {!isCollapsed && (
           <Link href={isAdmin ? "/admin" : "/home"} className="flex flex-col hover:opacity-80 transition-opacity">
-            <h1 className="text-3xl font-serif text-teal-600 dark:text-teal-400 tracking-wide leading-none px-2">{isAdmin ? "PAINEL" : "PLATAFORMA"}</h1>
-            <p className="text-[10px] uppercase font-semibold text-teal-500 tracking-[0.15em] px-2 mt-1">{isAdmin ? "ADMINISTRADOR" : "MENTORIA"}</p>
+            <h1 className="text-3xl font-serif text-teal-600 dark:text-teal-400 tracking-wide leading-none px-2">{isAdmin ? "PAINEL" : "METAUTO"}</h1>
+            <p className="text-[10px] uppercase font-semibold text-teal-500 tracking-[0.15em] px-2 mt-1">{isAdmin ? "ADMINISTRADOR" : "ALL-IN-ONE"}</p>
           </Link>
         )}
         <button
@@ -189,8 +189,8 @@ export default function SidebarLayout({
           <Menu className="w-6 h-6" />
         </button>
         <Link href={isAdmin ? "/admin" : "/home"} className="flex flex-col hover:opacity-80 transition-opacity">
-          <h1 className="text-xl font-serif text-teal-600 dark:text-teal-400 tracking-wide leading-none transition-colors">{isAdmin ? "PAINEL" : "PLATAFORMA"}</h1>
-          <p className="text-[8px] uppercase font-semibold text-teal-500 tracking-[0.15em] mt-0.5 transition-colors">{isAdmin ? "ADMINISTRADOR" : "MENTORIA"}</p>
+          <h1 className="text-xl font-serif text-teal-600 dark:text-teal-400 tracking-wide leading-none transition-colors">{isAdmin ? "PAINEL" : "METAUTO"}</h1>
+          <p className="text-[8px] uppercase font-semibold text-teal-500 tracking-[0.2em] transition-colors">{isAdmin ? "ADMINISTRADOR" : "ALL-IN-ONE"}</p>
         </Link>
       </div>
 

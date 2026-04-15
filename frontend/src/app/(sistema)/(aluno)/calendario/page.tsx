@@ -445,7 +445,7 @@ export default function CalendarInteractivePage() {
                 <span className="text-[10px] uppercase font-bold text-teal-600 dark:text-teal-400 tracking-wider mb-2 block">Motor KevQuest</span>
                 <h4 className="font-black text-teal-900 dark:text-teal-300 text-lg leading-tight mb-2">Visão Ativa</h4>
                 <p className="text-xs text-teal-700 dark:text-teal-400/80 mb-4">
-                   Tópicos do Sinapse que estão no estágio de "Refação" injetam automaticamente seus blocos de D+3, D+7, etc em seu mural.
+                   Tópicos do MetAuto que estão no estágio de "Refação" injetam automaticamente seus blocos de D+3, D+7, etc em seu mural.
                 </p>
               </div>
             </div>

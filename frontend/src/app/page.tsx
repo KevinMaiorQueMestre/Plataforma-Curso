@@ -9,7 +9,7 @@ const CAROUSEL_DATA = [
   {
     name: "João Silva",
     course: "Medicina USP",
-    quote: "A metodologia da Plataforma foi essencial para a minha aprovação em tempo recorde. O diário de estudos mudou meu jogo.",
+    quote: "A metodologia do MetAuto foi essencial para a minha aprovação em tempo recorde. O diário de estudos mudou meu jogo.",
   },
   {
     name: "Mariana Costa",
@@ -50,7 +50,7 @@ function HeroCarousel() {
         {/* Left: Text */}
         <div className="flex-1 space-y-8 animate-in slide-in-from-left-8 fade-in duration-700" key={`text-${currentIndex}`}>
           <div className="inline-block px-4 py-1.5 rounded-full bg-slate-800/80 border border-slate-700 text-teal-400 text-[10px] font-bold uppercase tracking-[0.2em]">
-            Aprovados Plataforma
+            Aprovados MetAuto
           </div>
           
           <h2 className="text-4xl md:text-6xl font-black tracking-tight leading-[1.1] font-sans">
@@ -132,10 +132,10 @@ export default function LandingPage() {
             className="flex flex-col items-start cursor-pointer group hover:opacity-80 transition-opacity text-left bg-transparent border-none p-0 focus:outline-none"
           >
             <h1 className="text-xl md:text-2xl font-serif text-slate-800 dark:text-slate-100 tracking-wide leading-none font-bold group-hover:text-slate-600 dark:text-[#A1A1AA] dark:group-hover:text-teal-400 transition-colors">
-              PLATAFORMA
+              METAUTO
             </h1>
             <p className="text-[8px] md:text-[9px] uppercase font-bold text-slate-600 dark:text-[#A1A1AA] tracking-[0.2em] mt-0.5 group-hover:text-slate-500 dark:text-[#A1A1AA] dark:group-hover:text-teal-500 transition-colors">
-              LP
+              ALL-IN-ONE
             </p>
           </button>
           
@@ -190,7 +190,7 @@ export default function LandingPage() {
         </div>
       </section>
 
-      {/* 2. Metodologia Plataforma (ZigZag) */}
+      {/* 2. Metodologia MetAuto (ZigZag) */}
       <section className="w-full bg-slate-50 dark:bg-[#1C1C1E] py-24 border-b border-slate-100 dark:border-[#2C2C2E] overflow-hidden">
         <div className="max-w-7xl mx-auto px-6">
           <motion.div 
@@ -656,7 +656,7 @@ export default function LandingPage() {
                 <div className="w-10 h-10 rounded-full bg-teal-50 dark:bg-teal-500/10 border border-teal-100 flex items-center justify-center shrink-0 group-hover:bg-teal-500 group-hover:text-white transition-colors text-teal-600 dark:text-teal-400">
                   <Check className="w-5 h-5" />
                 </div>
-                <span className="text-slate-700 dark:text-[#F4F4F5] font-medium text-lg group-hover:text-slate-900 transition-colors">Acesso imediato à plataforma</span>
+                <span className="text-slate-700 dark:text-[#F4F4F5] font-medium text-lg group-hover:text-slate-900 transition-colors">Acesso imediato ao MetAuto</span>
               </li>
             </ul>
           </motion.div>
@@ -735,7 +735,7 @@ export default function LandingPage() {
           className="max-w-4xl mx-auto px-6 text-center relative z-10"
         >
            <h2 className="text-4xl md:text-5xl font-black text-white tracking-tight mb-6 font-serif">Sua aprovação é uma questão de matemática, não de sorte.</h2>
-           <p className="text-xl text-slate-400 mb-10 font-light max-w-2xl mx-auto">As vagas pertencem aos alunos que controlam seus números. Pare de apostar no escuro e acesse a plataforma agora.</p>
+           <p className="text-xl text-slate-400 mb-10 font-light max-w-2xl mx-auto">As vagas pertencem aos alunos que controlam seus números. Pare de apostar no escuro e acesse o MetAuto agora.</p>
            <Link 
               href="/login"
               className="group relative inline-flex items-center justify-center gap-3 rounded-xl bg-gradient-to-r from-teal-500 to-teal-400 text-slate-900 px-10 py-5 text-lg font-bold shadow-xl shadow-teal-500/20 transition-all duration-300 hover:scale-105 hover:shadow-teal-500/40"
@@ -750,7 +750,7 @@ export default function LandingPage() {
       <footer className="border-t border-slate-200 dark:border-[#2C2C2E]/60 bg-white dark:bg-[#121212] py-8">
         <div className="max-w-7xl mx-auto px-6 flex flex-col items-center justify-center gap-2">
            <BrainCircuit className="w-6 h-6 text-slate-300" />
-           <p className="text-sm font-medium text-slate-400" suppressHydrationWarning>© {new Date().getFullYear()} Plataforma Mentoria. Preparando sua mente.</p>
+           <p className="text-sm font-medium text-slate-400" suppressHydrationWarning>© {new Date().getFullYear()} MetAuto All-in-one. Preparando sua mente.</p>
         </div>
       </footer>
     </div>

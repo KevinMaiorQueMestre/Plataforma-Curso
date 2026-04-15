@@ -167,10 +167,10 @@ export default function HubPage() {
       >
         <Link href="/" className="flex flex-col items-center cursor-pointer mb-6 hover:opacity-80 transition-opacity">
           <h1 className="text-3xl font-serif text-teal-700 dark:text-teal-400 tracking-widest leading-none font-bold transition-colors">
-            PLATAFORMA
+            METAUTO
           </h1>
           <p className="text-[10px] uppercase font-bold text-teal-500 tracking-[0.3em] mt-1">
-            Mentoria
+            ALL-IN-ONE
           </p>
         </Link>
         <h2 className="text-3xl md:text-5xl font-black text-slate-900 dark:text-white tracking-tight font-serif mb-4 transition-colors">
@@ -274,7 +274,7 @@ export default function HubPage() {
             <div className="w-16 h-16 bg-teal-50 dark:bg-slate-800 border-none dark:border-solid border border-slate-700 text-teal-600 dark:text-teal-400 rounded-2xl flex items-center justify-center mb-6 shadow-inner">
               <Target className="w-8 h-8" />
             </div>
-            <h3 className="text-2xl font-bold text-slate-800 dark:text-white mb-2">Ecossistema Plataforma</h3>
+            <h3 className="text-2xl font-bold text-slate-800 dark:text-white mb-2">Ecossistema MetAuto</h3>
             <p className="text-slate-500 dark:text-[#A1A1AA] text-sm leading-relaxed">
               Diário de exercícios, simulados via KevQuest e painéis potentes de desempenho.
             </p>

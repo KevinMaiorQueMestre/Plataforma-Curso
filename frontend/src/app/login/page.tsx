@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/utils/supabase/client";
-import { BrainCircuit, Loader2, Lock, Mail, ArrowRight, Stethoscope } from "lucide-react";
+import { BrainCircuit, Loader2, Lock, Mail, ArrowRight, Stethoscope, ChevronLeft } from "lucide-react";
 import Link from "next/link";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 import { toast } from "sonner";
@@ -60,6 +60,15 @@ export default function LoginPage() {
         <ThemeSwitcher />
       </div>
 
+      {/* Botão Voltar */}
+      <Link
+        href="/"
+        className="absolute top-6 left-6 group flex items-center gap-2 px-4 py-2 bg-white dark:bg-[#1C1C1E] border border-slate-200 dark:border-[#2C2C2E] rounded-full shadow-sm hover:border-teal-400 dark:hover:border-teal-600 hover:shadow-md transition-all active:scale-95"
+      >
+        <ChevronLeft className="w-4 h-4 text-slate-400 group-hover:text-teal-500 transition-colors" />
+        <span className="text-xs font-bold text-slate-600 dark:text-slate-300 group-hover:text-teal-600 dark:group-hover:text-teal-400 transition-colors uppercase tracking-wider">Voltar</span>
+      </Link>
+
       {/* Botão discreto de acesso admin - estetoscópio */}
       <Link
         href="/admin-login"
@@ -79,7 +88,7 @@ export default function LoginPage() {
             PORTAL DO <span className="text-teal-600 dark:text-teal-400">ALUNO</span>
           </h1>
           <p className="text-sm font-medium text-slate-500 dark:text-[#A1A1AA]">
-            Plataforma Curso - Área do Estudante
+            MetAuto All-in-one - Área do Estudante
           </p>
         </div>
 

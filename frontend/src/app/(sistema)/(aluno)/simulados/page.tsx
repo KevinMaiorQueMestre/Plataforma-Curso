@@ -1358,7 +1358,7 @@ function SimulatorOverlay({
       <div className="absolute bottom-16 left-0 right-0 flex flex-col items-center z-10">
         <div className="inline-flex items-center gap-4 bg-white/5 backdrop-blur-2xl px-10 py-4 rounded-full border border-white/5 shadow-2xl">
           <div className={`w-2.5 h-2.5 rounded-full ${isTimerRunning ? 'bg-indigo-500 animate-pulse' : 'bg-slate-600'}`}></div>
-          <p className="text-slate-500 font-black uppercase tracking-[0.5em] text-[10px]">Sinapse Mentoria • High Performance Mode</p>
+          <p className="text-slate-500 font-black uppercase tracking-[0.5em] text-[10px]">MetAuto Mentoria • High Performance Mode</p>
         </div>
       </div>
     </motion.div>

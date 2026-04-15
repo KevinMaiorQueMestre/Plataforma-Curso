@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/utils/supabase/client";
-import { BrainCircuit, Loader2, Lock, Mail, ArrowRight } from "lucide-react";
+import { BrainCircuit, Loader2, Lock, Mail, ArrowRight, ChevronLeft } from "lucide-react";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 import { toast } from "sonner";
 import Link from "next/link";
@@ -60,6 +60,15 @@ export default function LoginPage() {
       <div className="absolute top-6 right-6">
         <ThemeSwitcher />
       </div>
+
+      {/* Botão Voltar */}
+      <Link
+        href="/"
+        className="absolute top-6 left-6 group flex items-center gap-2 px-4 py-2 bg-white dark:bg-[#1C1C1E] border border-slate-200 dark:border-[#2C2C2E] rounded-full shadow-sm hover:border-indigo-400 dark:hover:border-indigo-600 hover:shadow-md transition-all active:scale-95"
+      >
+        <ChevronLeft className="w-4 h-4 text-slate-400 group-hover:text-indigo-500 transition-colors" />
+        <span className="text-xs font-bold text-slate-600 dark:text-slate-300 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors uppercase tracking-wider">Voltar</span>
+      </Link>
 
       <div className="w-full max-w-md">
         {/* Logo Title */}
