@@ -1468,21 +1468,6 @@ export default function SemanaPage() {
               <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em]">Planejamento Semanal Inteligente</p>
             </div>
           </div>
-
-          {/* Tab Semana / Backlog */}
-          <div className="flex gap-1 bg-slate-100 dark:bg-[#2C2C2E] p-1 rounded-2xl self-start mt-2 md:mt-0">
-            <button
-              className="px-5 py-2 rounded-xl text-xs font-black bg-white dark:bg-[#3A3A3C] text-indigo-600 dark:text-indigo-400 shadow-sm"
-            >
-              📅 Semana
-            </button>
-            <button
-              onClick={() => setView("tarefas")}
-              className="px-5 py-2 rounded-xl text-xs font-black text-slate-500 hover:text-indigo-500 transition-colors"
-            >
-              📋 Backlog
-            </button>
-          </div>
           <div className="flex items-center gap-2 flex-wrap">
             <button
               onClick={() => setWeekRef(w => subWeeks(w, 1))}
@@ -1614,13 +1599,17 @@ export default function SemanaPage() {
 
         {/* LISTA DE TAREFAS LATERAL */}
         <div className="w-64 flex-shrink-0 bg-white dark:bg-[#1C1C1E] rounded-[2rem] border border-slate-100 dark:border-[#2C2C2E] flex flex-col overflow-hidden">
-          <div className="p-4 border-b border-slate-50 dark:border-[#2C2C2E] flex items-center gap-2">
+          <button
+            onClick={() => setView("tarefas")}
+            className="p-4 border-b border-slate-50 dark:border-[#2C2C2E] flex items-center gap-2 w-full text-left hover:bg-slate-50 dark:hover:bg-[#2C2C2E] transition-colors group"
+          >
             <ListChecks className="w-4 h-4 text-indigo-500" />
-            <h3 className="font-black text-slate-700 dark:text-white text-sm">Tarefas Pendentes</h3>
+            <h3 className="font-black text-slate-700 dark:text-white text-sm group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">Tarefas Pendentes</h3>
             <span className="ml-auto text-[10px] bg-indigo-100 dark:bg-indigo-500/20 text-indigo-600 dark:text-indigo-400 px-2 py-0.5 rounded-lg font-black">
               {tarefasPendentes.length}
             </span>
-          </div>
+            <ArrowRight className="w-3.5 h-3.5 text-slate-300 group-hover:text-indigo-400 transition-colors flex-shrink-0" />
+          </button>
 
           <div className="flex-1 overflow-y-auto custom-scrollbar p-3 space-y-2">
             {tarefasPendentes.length === 0 ? (
