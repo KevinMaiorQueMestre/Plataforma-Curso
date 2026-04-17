@@ -443,11 +443,13 @@ function ModalBloco({
   });
 
   async function handleSave() {
-    if (!form.descricao.trim()) { toast.error("Preencha a descrição."); return; }
     if (!form.data_referencia) { toast.error("Selecione uma data."); return; }
+    const tipoDef = TIPOS_BLOCO.find(t => t.value === form.tipo);
+    const descricaoFinal = form.descricao.trim() || tipoDef?.label || form.tipo;
     setIsSaving(true);
     await onSave({
       ...form,
+      descricao: descricaoFinal,
       disciplina_id: form.disciplina_id || null,
     });
     setIsSaving(false);
@@ -494,7 +496,7 @@ function ModalBloco({
 
             {/* Descrição */}
             <div>
-              <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Descrição</label>
+              <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Descrição <span className="text-slate-300 normal-case font-medium">(opcional)</span></label>
               <input
                 type="text"
                 value={form.descricao}
@@ -586,8 +588,9 @@ function RotinaSetup({
   });
 
   function addItem() {
-    if (!form.descricao.trim()) { toast.error("Preencha a descrição."); return; }
-    setItens(prev => [...prev, { ...form, dia_semana: diaAtivo }]);
+    const tipoDef = TIPOS_BLOCO.find(t => t.value === form.tipo);
+    const descricaoFinal = form.descricao.trim() || tipoDef?.label || form.tipo;
+    setItens(prev => [...prev, { ...form, descricao: descricaoFinal, dia_semana: diaAtivo }]);
     setForm(f => ({ ...f, descricao: "", disciplina_id: "" }));
   }
 
@@ -613,24 +616,24 @@ function RotinaSetup({
         </div>
         <h1 className="text-3xl font-black text-slate-800 dark:text-white mb-2">Configure sua Rotina Ideal</h1>
         <p className="text-slate-400 font-medium max-w-lg mx-auto">
-          Monte sua semana perfeita. Recomendamos preencher <strong className="text-indigo-500">70–80%</strong> do seu tempo, deixando margem para imprevistos.
+          Monte sua semana perfeita. Adicione as atividades do jeito que preferir — sem metas obrigatórias.
         </p>
       </div>
 
-      {/* Progress */}
+      {/* Progress - puramente informativo */}
       <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-5 border border-slate-100 dark:border-[#2C2C2E]">
         <div className="flex justify-between items-center mb-2">
-          <span className="text-xs font-black text-slate-400 uppercase">Preenchimento da Rotina</span>
-          <span className={`text-xs font-black ${pct < 70 ? "text-amber-500" : pct <= 85 ? "text-emerald-500" : "text-rose-500"}`}>{pct}%</span>
+          <span className="text-xs font-black text-slate-400 uppercase">Atividades adicionadas</span>
+          <span className="text-xs font-black text-indigo-500">{itens.length} {itens.length === 1 ? "atividade" : "atividades"}</span>
         </div>
-        <div className="h-2 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+        <div className="h-1.5 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
           <div
-            className={`h-full rounded-full transition-all ${pct < 70 ? "bg-amber-400" : pct <= 85 ? "bg-emerald-500" : "bg-rose-500"}`}
+            className="h-full rounded-full transition-all bg-indigo-500"
             style={{ width: `${Math.min(100, pct)}%` }}
           />
         </div>
         <p className="text-xs text-slate-400 mt-2">
-          {pct < 70 ? "Continue adicionando atividades até chegar em 70%." : pct <= 85 ? "✅ Ótimo equilíbrio!" : "⚠️ Agenda muito cheia, deixe mais espaço."}
+          💡 Dica: um bom equilíbrio é deixar espaço livre para imprevistos — mais importante do que preencher tudo.
         </p>
       </div>
 
@@ -688,7 +691,7 @@ function RotinaSetup({
             value={form.descricao}
             onChange={e => setForm(f => ({ ...f, descricao: e.target.value }))}
             onKeyDown={e => e.key === "Enter" && addItem()}
-            placeholder="Ex: Física - Cinemática"
+            placeholder="Descrição opcional (ex: Física - Cinemática)"
             className="w-full bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold outline-none"
           />
 
@@ -1140,16 +1143,16 @@ export default function SemanaPage() {
       <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-4 border border-slate-100 dark:border-[#2C2C2E] flex items-center gap-4">
         <div className="flex-1">
           <div className="flex justify-between mb-1.5">
-            <span className="text-xs font-black text-slate-400 uppercase tracking-widest">Preenchimento desta semana</span>
-            <span className={`text-xs font-black ${preenchimento < 70 ? "text-amber-500" : preenchimento <= 85 ? "text-emerald-500" : "text-rose-500"}`}>
-              {preenchimento}% {preenchimento < 70 ? "(Adicione mais)" : preenchimento <= 85 ? "✅ Ideal" : "⚠️ Cheio"}
+            <span className="text-xs font-black text-slate-400 uppercase tracking-widest">Esta semana</span>
+            <span className="text-xs font-black text-indigo-500">
+              {blocos.filter(b => b.status !== "abandonado").length} blocos planejados
             </span>
           </div>
-          <div className="h-2 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+          <div className="h-1.5 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
             <motion.div
               initial={{ width: 0 }}
               animate={{ width: `${Math.min(100, preenchimento)}%` }}
-              className={`h-full rounded-full ${preenchimento < 70 ? "bg-amber-400" : preenchimento <= 85 ? "bg-emerald-500" : "bg-rose-500"}`}
+              className="h-full rounded-full bg-indigo-500"
             />
           </div>
         </div>
