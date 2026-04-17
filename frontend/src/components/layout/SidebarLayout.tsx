@@ -31,7 +31,6 @@ const NAV_ITEMS = [
   { label: "Redação",           href: "/redacao",   icon: PenTool     },
   { label: "KevQuest",          href: "/kevquest",  icon: Target      },
   { label: "Calendário",        href: "/calendario",icon: CalendarDays },
-  { label: "Tarefas",           href: "/tarefas",   icon: CheckSquare },
   { label: "Liga",              href: "/liga",      icon: Trophy      },
 ];
 

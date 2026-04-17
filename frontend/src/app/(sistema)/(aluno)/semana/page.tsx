@@ -778,13 +778,330 @@ function RotinaSetup({
   );
 }
 
+// ─── COMPONENTE: BACKLOG DE TAREFAS ───────────────────────────────────────────
+function BacklogView({
+  userId,
+  semana,
+  onAlocarTarefa,
+}: {
+  userId: string;
+  semana: Date[];
+  onAlocarTarefa: (tarefa: Tarefa, dataRef: string) => Promise<void>;
+}) {
+  const supabase = createClient();
+  const [tasks, setTasks] = useState<Tarefa[]>([]);
+  const [isLoaded, setIsLoaded] = useState(false);
+  const [filter, setFilter] = useState<"pendentes" | "urgentes" | "reposicoes" | "agendadas" | "concluidas" | "todas">("pendentes");
+  const [newText, setNewText] = useState("");
+  const [newDate, setNewDate] = useState("");
+  const [isAdding, setIsAdding] = useState(false);
+  const [agendarModal, setAgendarModal] = useState<Tarefa | null>(null);
+  const [agendarDia, setAgendarDia] = useState(new Date().toISOString().split("T")[0]);
+
+  useEffect(() => {
+    (async () => {
+      const { data } = await supabase
+        .from("tarefas")
+        .select("*")
+        .eq("user_id", userId)
+        .order("created_at", { ascending: false });
+      if (data) setTasks(data as any);
+      setIsLoaded(true);
+    })();
+  }, [userId]);
+
+  async function handleAdd(e: React.FormEvent) {
+    e.preventDefault();
+    if (!newText.trim() || isAdding) return;
+    setIsAdding(true);
+    const { data } = await supabase.from("tarefas").insert({
+      user_id: userId,
+      texto: newText.trim(),
+      status: "pending",
+      limit_date: newDate || null,
+    }).select().single();
+    if (data) {
+      setTasks(prev => [data as any, ...prev]);
+      setNewText(""); setNewDate("");
+      toast.success("Tarefa adicionada!");
+    }
+    setIsAdding(false);
+  }
+
+  async function handleToggle(id: string, currentStatus: string) {
+    const newStatus = currentStatus === "completed" ? "pending" : "completed";
+    setTasks(prev => prev.map(t => t.id === id ? { ...t, status: newStatus } : t));
+    await supabase.from("tarefas").update({ status: newStatus }).eq("id", id);
+  }
+
+  async function handleRemove(id: string) {
+    setTasks(prev => prev.filter(t => t.id !== id));
+    await supabase.from("tarefas").delete().eq("id", id);
+    toast.success("Tarefa removida.");
+  }
+
+  async function handleAgendar() {
+    if (!agendarModal) return;
+    await onAlocarTarefa(agendarModal, agendarDia);
+    setTasks(prev => prev.map(t =>
+      t.id === agendarModal.id ? { ...t, status: "agendada", data_agendada: agendarDia } : t
+    ));
+    setAgendarModal(null);
+  }
+
+  const hojeStr = new Date().toISOString().split("T")[0];
+  const tresDiasStr = addDays(new Date(), 3).toISOString().split("T")[0];
+
+  const urgentes    = tasks.filter(t => t.status === "pending" && t.limit_date != null && t.limit_date <= tresDiasStr);
+  const reposicoes  = tasks.filter(t => t.tipo_origem === "reposicao" && t.status === "pending");
+  const pendentes   = tasks.filter(t => t.status === "pending" && t.tipo_origem !== "reposicao" && !(t.limit_date && t.limit_date <= tresDiasStr));
+  const agendadas   = tasks.filter(t => t.status === "agendada");
+  const concluidas  = tasks.filter(t => t.status === "completed");
+
+  const displayed = {
+    pendentes: [...urgentes, ...reposicoes, ...pendentes],
+    urgentes,
+    reposicoes,
+    agendadas,
+    concluidas,
+    todas: tasks,
+  }[filter];
+
+  const FILTERS = [
+    { key: "pendentes" as const,  label: "Pendentes",   count: pendentes.length + urgentes.length + reposicoes.length },
+    { key: "urgentes" as const,   label: "🔴 Urgentes",  count: urgentes.length },
+    { key: "reposicoes" as const, label: "⏩ Reposições", count: reposicoes.length },
+    { key: "agendadas" as const,  label: "📅 Agendadas", count: agendadas.length },
+    { key: "concluidas" as const, label: "✅ Concluídas", count: concluidas.length },
+    { key: "todas" as const,      label: "Todas",        count: tasks.length },
+  ];
+
+  if (!isLoaded) return <div className="h-48 flex items-center justify-center"><Loader2 className="w-8 h-8 text-indigo-500 animate-spin" /></div>;
+
+  return (
+    <div className="max-w-2xl mx-auto space-y-5 animate-in fade-in duration-300 pb-20">
+
+      {/* Stats */}
+      <div className="grid grid-cols-4 gap-3">
+        {[
+          { label: "Pendentes",  value: pendentes.length,  color: "text-amber-500"   },
+          { label: "Urgentes",   value: urgentes.length,   color: "text-rose-500"    },
+          { label: "Agendadas",  value: agendadas.length,  color: "text-indigo-500"  },
+          { label: "Concluídas", value: concluidas.length, color: "text-emerald-500" },
+        ].map(s => (
+          <div key={s.label} className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-4 border border-slate-100 dark:border-[#2C2C2E] text-center">
+            <p className={`text-3xl font-black ${s.color}`}>{s.value}</p>
+            <p className="text-[10px] font-black text-slate-400 uppercase mt-1">{s.label}</p>
+          </div>
+        ))}
+      </div>
+
+      {/* Add Form */}
+      <form
+        onSubmit={handleAdd}
+        className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-5 border border-slate-100 dark:border-[#2C2C2E] flex flex-col sm:flex-row gap-3"
+      >
+        <input
+          type="text"
+          placeholder="O que você precisa fazer?"
+          value={newText}
+          onChange={e => setNewText(e.target.value)}
+          className="flex-1 bg-slate-50 dark:bg-slate-800 rounded-xl px-4 py-3 text-sm font-bold outline-none border-2 border-transparent focus:border-indigo-500"
+        />
+        <input
+          type="date"
+          value={newDate}
+          onChange={e => setNewDate(e.target.value)}
+          className="bg-slate-50 dark:bg-slate-800 rounded-xl px-4 py-3 text-sm font-bold outline-none border-2 border-transparent focus:border-indigo-500"
+        />
+        <button
+          type="submit"
+          disabled={!newText.trim() || isAdding}
+          className="px-5 py-3 bg-indigo-600 text-white font-black rounded-xl disabled:opacity-40 flex items-center gap-2 flex-shrink-0 shadow-lg shadow-indigo-600/20"
+        >
+          {isAdding ? <Loader2 className="w-4 h-4 animate-spin" /> : <Plus className="w-4 h-4" />}
+          Adicionar
+        </button>
+      </form>
+
+      {/* Filters */}
+      <div className="flex gap-2 flex-wrap">
+        {FILTERS.map(f => (
+          <button
+            key={f.key}
+            onClick={() => setFilter(f.key)}
+            className={`px-3 py-1.5 rounded-xl text-xs font-black transition-all flex items-center gap-1.5 ${
+              filter === f.key
+                ? "bg-indigo-600 text-white shadow-lg shadow-indigo-600/20"
+                : "bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] text-slate-500 hover:border-indigo-300"
+            }`}
+          >
+            {f.label}
+            {f.count > 0 && (
+              <span className={`px-1.5 py-0.5 rounded-lg text-[10px] ${
+                filter === f.key ? "bg-white/20 text-white" : "bg-slate-100 dark:bg-slate-800 text-slate-500"
+              }`}>{f.count}</span>
+            )}
+          </button>
+        ))}
+      </div>
+
+      {/* Task List */}
+      <div className="space-y-2">
+        {displayed.length === 0 ? (
+          <div className="text-center py-16 bg-white dark:bg-[#1C1C1E] rounded-[2rem] border border-slate-100 dark:border-[#2C2C2E]">
+            <CheckSquare className="w-10 h-10 text-slate-300 dark:text-slate-700 mx-auto mb-3" />
+            <p className="text-slate-400 font-bold text-sm">Nenhuma tarefa aqui!</p>
+          </div>
+        ) : (
+          <AnimatePresence>
+            {displayed.map(tarefa => {
+              const isUrgente   = tarefa.limit_date != null && tarefa.limit_date <= tresDiasStr && tarefa.status === "pending";
+              const isReposicao = tarefa.tipo_origem === "reposicao";
+              const isAgendada  = tarefa.status === "agendada";
+              const isConcluida = tarefa.status === "completed";
+
+              return (
+                <motion.div
+                  key={tarefa.id}
+                  layout
+                  initial={{ opacity: 0, y: 4 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, x: 20 }}
+                  className={`bg-white dark:bg-[#1C1C1E] rounded-2xl px-4 py-3 border-2 transition-all group ${
+                    isUrgente   ? "border-rose-200 dark:border-rose-500/30"
+                    : isReposicao ? "border-sky-200  dark:border-sky-500/30"
+                    : isAgendada ? "border-indigo-200 dark:border-indigo-500/30"
+                    : isConcluida ? "border-slate-100 dark:border-[#2C2C2E] opacity-60"
+                    : "border-slate-100 dark:border-[#2C2C2E]"
+                  }`}
+                >
+                  <div className="flex items-center gap-3">
+                    {/* Checkbox */}
+                    <button
+                      onClick={() => handleToggle(tarefa.id, tarefa.status)}
+                      className={`w-5 h-5 rounded-full border-2 flex-shrink-0 flex items-center justify-center transition-all ${
+                        isConcluida
+                          ? "bg-emerald-500 border-emerald-500"
+                          : "border-slate-300 dark:border-slate-600 hover:border-indigo-500"
+                      }`}
+                    >
+                      {isConcluida && <Check className="w-3 h-3 text-white" />}
+                    </button>
+
+                    {/* Content */}
+                    <div className="flex-1 min-w-0">
+                      <p className={`text-sm font-black truncate ${
+                        isConcluida ? "line-through text-slate-400" : "text-slate-800 dark:text-white"
+                      }`}>
+                        {tarefa.texto}
+                      </p>
+                      <div className="flex items-center gap-2 mt-0.5 flex-wrap">
+                        {tarefa.limit_date && (
+                          <span className={`text-[10px] font-black uppercase flex items-center gap-1 ${
+                            isUrgente ? "text-rose-500" : "text-amber-500"
+                          }`}>
+                            <Clock className="w-2.5 h-2.5" />
+                            {tarefa.limit_date === hojeStr ? "Hoje" : `Até ${format(parseISO(tarefa.limit_date), "dd/MM", { locale: ptBR })}`}
+                          </span>
+                        )}
+                        {isReposicao && (
+                          <span className="text-[10px] font-black text-sky-500 bg-sky-50 dark:bg-sky-500/10 px-1.5 py-0.5 rounded-md">⏩ Reposição</span>
+                        )}
+                        {isAgendada && tarefa.data_agendada && (
+                          <span className="text-[10px] font-black text-indigo-500 bg-indigo-50 dark:bg-indigo-500/10 px-1.5 py-0.5 rounded-md">
+                            📅 {format(parseISO(tarefa.data_agendada), "dd/MM", { locale: ptBR })}
+                          </span>
+                        )}
+                      </div>
+                    </div>
+
+                    {/* Actions */}
+                    <div className="flex gap-1 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0">
+                      {!isAgendada && !isConcluida && (
+                        <button
+                          onClick={() => { setAgendarModal(tarefa); setAgendarDia(semana[0].toISOString().split("T")[0]); }}
+                          title="Agendar na Semana"
+                          className="w-7 h-7 flex items-center justify-center rounded-xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-500 hover:bg-indigo-100 transition-colors"
+                        >
+                          <ArrowRight className="w-3.5 h-3.5" />
+                        </button>
+                      )}
+                      <button
+                        onClick={() => handleRemove(tarefa.id)}
+                        className="w-7 h-7 flex items-center justify-center rounded-xl bg-slate-50 dark:bg-slate-800 text-slate-300 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10 transition-colors"
+                      >
+                        <Trash2 className="w-3.5 h-3.5" />
+                      </button>
+                    </div>
+                  </div>
+                </motion.div>
+              );
+            })}
+          </AnimatePresence>
+        )}
+      </div>
+
+      {/* Modal Agendar */}
+      <AnimatePresence>
+        {agendarModal && (
+          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+            <motion.div
+              initial={{ scale: 0.9, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-sm p-8 shadow-2xl"
+            >
+              <h2 className="text-lg font-black text-slate-800 dark:text-white mb-1">Agendar na Semana</h2>
+              <p className="text-xs text-slate-400 mb-5 truncate font-medium">&ldquo;{agendarModal.texto}&rdquo;</p>
+
+              <div className="grid grid-cols-4 gap-2 mb-6">
+                {semana.map(dia => {
+                  const dataRef = dia.toISOString().split("T")[0];
+                  const sel = agendarDia === dataRef;
+                  return (
+                    <button
+                      key={dataRef}
+                      onClick={() => setAgendarDia(dataRef)}
+                      className={`p-2.5 rounded-2xl text-center border-2 transition-all ${
+                        sel ? "border-indigo-500 bg-indigo-50 dark:bg-indigo-500/10" : "border-slate-100 dark:border-slate-700 hover:border-indigo-300"
+                      }`}
+                    >
+                      <p className="text-[9px] font-black text-slate-400 uppercase">{format(dia, "EEE", { locale: ptBR })}</p>
+                      <p className={`text-base font-black ${sel ? "text-indigo-600" : "text-slate-700 dark:text-white"}`}>{format(dia, "dd")}</p>
+                    </button>
+                  );
+                })}
+              </div>
+
+              <div className="flex gap-3">
+                <button
+                  onClick={() => setAgendarModal(null)}
+                  className="flex-1 py-3 rounded-2xl border border-slate-200 dark:border-slate-700 text-slate-500 font-black text-sm"
+                >
+                  Cancelar
+                </button>
+                <button
+                  onClick={handleAgendar}
+                  className="flex-1 py-3 rounded-2xl bg-indigo-600 text-white font-black text-sm flex items-center justify-center gap-2"
+                >
+                  <Calendar className="w-4 h-4" /> Agendar
+                </button>
+              </div>
+            </motion.div>
+          </div>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+}
+
 // ─── COMPONENTE PRINCIPAL ──────────────────────────────────────────
 export default function SemanaPage() {
   const supabase = createClient();
 
   const [userId, setUserId] = useState<string | null>(null);
   const [isLoaded, setIsLoaded] = useState(false);
-  const [view, setView] = useState<"semana" | "rotina">("semana");
+  const [view, setView] = useState<"semana" | "rotina" | "tarefas">("semana");
 
   const [weekRef, setWeekRef] = useState(new Date());
   const semana = getSemanaAtual(weekRef);
@@ -809,7 +1126,7 @@ export default function SemanaPage() {
       const [{ data: discs }, { data: rot }, { data: tars }] = await Promise.all([
         supabase.from("disciplinas").select("*").order("nome"),
         supabase.from("rotina_semanal").select("*, disciplinas(id,nome,cor_hex)").eq("user_id", user.id).order("horario_ini"),
-        supabase.from("tarefas").select("*").eq("user_id", user.id).in("status", ["pending", "agendada"]),
+        supabase.from("tarefas").select("*").eq("user_id", user.id).order("created_at", { ascending: false }),
       ]);
 
       if (discs) setDisciplinas(discs);
@@ -1102,6 +1419,37 @@ export default function SemanaPage() {
   const preenchimento = calcPreenchimento(blocos);
   const tarefasPendentes = tarefas.filter(t => t.status === "pending");
 
+  // ─── VIEW BACKLOG ─────────────────────────────────────────────────
+  if (view === "tarefas") {
+    return (
+      <div className="space-y-6 animate-in fade-in duration-500 pb-20">
+        {/* Tab Nav */}
+        <div className="flex items-center justify-between">
+          <div className="flex gap-1 bg-slate-100 dark:bg-[#2C2C2E] p-1 rounded-2xl">
+            <button
+              onClick={() => setView("semana")}
+              className="px-5 py-2 rounded-xl text-xs font-black text-slate-500 hover:text-indigo-500 transition-colors"
+            >
+              📅 Semana
+            </button>
+            <button
+              className="px-5 py-2 rounded-xl text-xs font-black bg-white dark:bg-[#3A3A3C] text-indigo-600 dark:text-indigo-400 shadow-sm"
+            >
+              📋 Backlog
+            </button>
+          </div>
+          <button
+            onClick={() => setView("rotina")}
+            className="px-4 py-2 bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] text-slate-500 font-black rounded-xl text-xs flex items-center gap-1.5"
+          >
+            <Edit2 className="w-3.5 h-3.5" /> Editar Rotina
+          </button>
+        </div>
+        <BacklogView userId={userId!} semana={semana} onAlocarTarefa={alocarTarefa} />
+      </div>
+    );
+  }
+
   return (
     <div className="space-y-6 animate-in fade-in duration-500 pb-20">
       {/* HEADER */}
@@ -1119,6 +1467,21 @@ export default function SemanaPage() {
               <div className="h-1 w-12 bg-indigo-500 rounded-full" />
               <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em]">Planejamento Semanal Inteligente</p>
             </div>
+          </div>
+
+          {/* Tab Semana / Backlog */}
+          <div className="flex gap-1 bg-slate-100 dark:bg-[#2C2C2E] p-1 rounded-2xl self-start mt-2 md:mt-0">
+            <button
+              className="px-5 py-2 rounded-xl text-xs font-black bg-white dark:bg-[#3A3A3C] text-indigo-600 dark:text-indigo-400 shadow-sm"
+            >
+              📅 Semana
+            </button>
+            <button
+              onClick={() => setView("tarefas")}
+              className="px-5 py-2 rounded-xl text-xs font-black text-slate-500 hover:text-indigo-500 transition-colors"
+            >
+              📋 Backlog
+            </button>
           </div>
           <div className="flex items-center gap-2 flex-wrap">
             <button
