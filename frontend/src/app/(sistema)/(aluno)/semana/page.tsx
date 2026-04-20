@@ -4,8 +4,8 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import {
   Calendar, Plus, X, Check, Clock, BookOpen, PenTool,
   Layers, RotateCcw, AlertCircle, ChevronLeft, ChevronRight,
-  Trash2, Edit2, GripVertical, Book, Zap, Coffee, BarChart2,
-  CheckSquare, Loader2, ArrowRight, Target, Save, ListChecks
+  Trash2, Edit2, Book, Zap, Coffee, BarChart2,
+  CheckSquare, Loader2, ArrowRight, Target, Save
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { toast } from "sonner";
@@ -36,7 +36,7 @@ type SemanaBloco = {
   id: string;
   user_id: string;
   rotina_id: string | null;
-  tarefa_origem_id: string | null;
+  tarefa_origem_id?: string | null;
   data_referencia: string;
   tipo: TipoBloco;
   horario_ini: string;
@@ -45,20 +45,10 @@ type SemanaBloco = {
   descricao: string;
   status: StatusBloco;
   sessao_id: string | null;
-  reposicao_tarefa_id: string | null;
   notas: string | null;
   disciplinas?: Disciplina;
 };
 
-type Tarefa = {
-  id: string;
-  texto: string;
-  status: string;
-  limit_date: string | null;
-  tipo_origem: string | null;
-  data_agendada: string | null;
-  bloco_id: string | null;
-};
 
 // ─── CONSTANTS ─────────────────────────────────────────────────────
 const DIAS_SEMANA = ["Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb"];
@@ -126,23 +116,38 @@ function BlocoCard({
       className={`rounded-2xl border px-3 py-2.5 text-xs font-bold transition-all relative group ${cfg.bg} ${cfg.border} ${concluido ? "opacity-60" : "hover:shadow-md cursor-pointer"}`}
     >
       <div className="flex items-start gap-2">
-        <div className={`w-2 h-2 rounded-full mt-0.5 flex-shrink-0 ${getTipoCor(bloco.tipo)}`} />
-        <div className="flex-1 min-w-0">
-          <div className={`font-black truncate ${cfg.cor}`}>{bloco.descricao}</div>
-          <div className="flex items-center gap-1.5 mt-0.5 text-slate-400">
-            <Clock className="w-2.5 h-2.5" />
-            <span>{bloco.horario_ini.slice(0,5)} – {bloco.horario_fim.slice(0,5)}</span>
-          </div>
-          {disc && (
-            <div
-              className="inline-flex items-center gap-1 mt-1 px-1.5 py-0.5 rounded-md text-white"
-              style={{ backgroundColor: disc.cor_hex, fontSize: "9px" }}
-            >
-              {disc.nome}
+        <div className="flex-1 min-w-0 flex flex-col justify-center">
+          {/* DISCIPLINA OU TIPO (Destaque superior) */}
+          {disc ? (
+            <div className="flex items-center gap-1.5 mb-1">
+              <span className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: disc.cor_hex }} />
+              <span className="text-[10px] font-black uppercase tracking-widest" style={{ color: disc.cor_hex }}>
+                {disc.nome}
+              </span>
+            </div>
+          ) : (
+            <div className="flex items-center gap-1.5 mb-1">
+              <span className={`w-1.5 h-1.5 rounded-full ${getTipoCor(bloco.tipo)}`} />
+              <span className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                {tipoDef?.label}
+              </span>
             </div>
           )}
+
+          {/* DESCRIÇÃO (Principal Destaque) */}
+          <div className={`text-[11px] font-black leading-tight mb-1 truncate ${cfg.cor}`}>
+            {bloco.descricao}
+          </div>
+
+          {/* HORÁRIO (Secundário) */}
+          <div className="flex items-center gap-1 text-[9px] font-bold text-slate-400/70">
+            <span>{bloco.horario_ini.slice(0,5)} – {bloco.horario_fim.slice(0,5)}</span>
+          </div>
+
           {bloco.notas && (
-            <p className="text-slate-400 text-[9px] mt-1 italic truncate">"{bloco.notas}"</p>
+            <p className="text-slate-400 text-[9px] mt-2 italic truncate border-t border-slate-100 dark:border-slate-800 pt-1">
+              {bloco.notas}
+            </p>
           )}
         </div>
 
@@ -362,7 +367,7 @@ function ModalNaoFeito({
         {isPersonalizado ? (
           <div className="bg-amber-50 dark:bg-amber-500/10 border border-amber-200 dark:border-amber-500/30 rounded-2xl p-4 mb-6">
             <p className="text-sm font-bold text-amber-700 dark:text-amber-300">
-              Esta tarefa voltará automaticamente para sua lista de tarefas pendentes.
+              Esta atividade voltará automaticamente para sua lista de atividades pendentes.
             </p>
           </div>
         ) : (
@@ -574,13 +579,22 @@ function ModalBloco({
 // ─── TELA: SETUP DE ROTINA ─────────────────────────────────────────
 function RotinaSetup({
   disciplinas,
+  initialData = [],
   onSalvar,
 }: {
   disciplinas: Disciplina[];
+  initialData?: RotinaItem[];
   onSalvar: (itens: Omit<RotinaItem, "id" | "user_id" | "ordem">[]) => Promise<void>;
 }) {
   type ItemTemp = { dia_semana: number; tipo: TipoBloco; horario_ini: string; horario_fim: string; disciplina_id: string; descricao: string };
-  const [itens, setItens] = useState<ItemTemp[]>([]);
+  const [itens, setItens] = useState<ItemTemp[]>(initialData.map(d => ({
+    dia_semana: d.dia_semana,
+    tipo: d.tipo,
+    horario_ini: d.horario_ini.slice(0, 5),
+    horario_fim: d.horario_fim.slice(0, 5),
+    disciplina_id: d.disciplina_id ?? "",
+    descricao: d.descricao
+  })));
   const [isSaving, setIsSaving] = useState(false);
   const [diaAtivo, setDiaAtivo] = useState(1);
   const [form, setForm] = useState<ItemTemp>({
@@ -778,322 +792,6 @@ function RotinaSetup({
   );
 }
 
-// ─── COMPONENTE: BACKLOG DE TAREFAS ───────────────────────────────────────────
-function BacklogView({
-  userId,
-  semana,
-  onAlocarTarefa,
-}: {
-  userId: string;
-  semana: Date[];
-  onAlocarTarefa: (tarefa: Tarefa, dataRef: string) => Promise<void>;
-}) {
-  const supabase = createClient();
-  const [tasks, setTasks] = useState<Tarefa[]>([]);
-  const [isLoaded, setIsLoaded] = useState(false);
-  const [filter, setFilter] = useState<"pendentes" | "urgentes" | "reposicoes" | "agendadas" | "concluidas" | "todas">("pendentes");
-  const [newText, setNewText] = useState("");
-  const [newDate, setNewDate] = useState("");
-  const [isAdding, setIsAdding] = useState(false);
-  const [agendarModal, setAgendarModal] = useState<Tarefa | null>(null);
-  const [agendarDia, setAgendarDia] = useState(new Date().toISOString().split("T")[0]);
-
-  useEffect(() => {
-    (async () => {
-      const { data } = await supabase
-        .from("tarefas")
-        .select("*")
-        .eq("user_id", userId)
-        .order("created_at", { ascending: false });
-      if (data) setTasks(data as any);
-      setIsLoaded(true);
-    })();
-  }, [userId]);
-
-  async function handleAdd(e: React.FormEvent) {
-    e.preventDefault();
-    if (!newText.trim() || isAdding) return;
-    setIsAdding(true);
-    const { data } = await supabase.from("tarefas").insert({
-      user_id: userId,
-      texto: newText.trim(),
-      status: "pending",
-      limit_date: newDate || null,
-    }).select().single();
-    if (data) {
-      setTasks(prev => [data as any, ...prev]);
-      setNewText(""); setNewDate("");
-      toast.success("Tarefa adicionada!");
-    }
-    setIsAdding(false);
-  }
-
-  async function handleToggle(id: string, currentStatus: string) {
-    const newStatus = currentStatus === "completed" ? "pending" : "completed";
-    setTasks(prev => prev.map(t => t.id === id ? { ...t, status: newStatus } : t));
-    await supabase.from("tarefas").update({ status: newStatus }).eq("id", id);
-  }
-
-  async function handleRemove(id: string) {
-    setTasks(prev => prev.filter(t => t.id !== id));
-    await supabase.from("tarefas").delete().eq("id", id);
-    toast.success("Tarefa removida.");
-  }
-
-  async function handleAgendar() {
-    if (!agendarModal) return;
-    await onAlocarTarefa(agendarModal, agendarDia);
-    setTasks(prev => prev.map(t =>
-      t.id === agendarModal.id ? { ...t, status: "agendada", data_agendada: agendarDia } : t
-    ));
-    setAgendarModal(null);
-  }
-
-  const hojeStr = new Date().toISOString().split("T")[0];
-  const tresDiasStr = addDays(new Date(), 3).toISOString().split("T")[0];
-
-  const urgentes    = tasks.filter(t => t.status === "pending" && t.limit_date != null && t.limit_date <= tresDiasStr);
-  const reposicoes  = tasks.filter(t => t.tipo_origem === "reposicao" && t.status === "pending");
-  const pendentes   = tasks.filter(t => t.status === "pending" && t.tipo_origem !== "reposicao" && !(t.limit_date && t.limit_date <= tresDiasStr));
-  const agendadas   = tasks.filter(t => t.status === "agendada");
-  const concluidas  = tasks.filter(t => t.status === "completed");
-
-  const displayed = {
-    pendentes: [...urgentes, ...reposicoes, ...pendentes],
-    urgentes,
-    reposicoes,
-    agendadas,
-    concluidas,
-    todas: tasks,
-  }[filter];
-
-  const FILTERS = [
-    { key: "pendentes" as const,  label: "Pendentes",   count: pendentes.length + urgentes.length + reposicoes.length },
-    { key: "urgentes" as const,   label: "🔴 Urgentes",  count: urgentes.length },
-    { key: "reposicoes" as const, label: "⏩ Reposições", count: reposicoes.length },
-    { key: "agendadas" as const,  label: "📅 Agendadas", count: agendadas.length },
-    { key: "concluidas" as const, label: "✅ Concluídas", count: concluidas.length },
-    { key: "todas" as const,      label: "Todas",        count: tasks.length },
-  ];
-
-  if (!isLoaded) return <div className="h-48 flex items-center justify-center"><Loader2 className="w-8 h-8 text-indigo-500 animate-spin" /></div>;
-
-  return (
-    <div className="max-w-2xl mx-auto space-y-5 animate-in fade-in duration-300 pb-20">
-
-      {/* Stats */}
-      <div className="grid grid-cols-4 gap-3">
-        {[
-          { label: "Pendentes",  value: pendentes.length,  color: "text-amber-500"   },
-          { label: "Urgentes",   value: urgentes.length,   color: "text-rose-500"    },
-          { label: "Agendadas",  value: agendadas.length,  color: "text-indigo-500"  },
-          { label: "Concluídas", value: concluidas.length, color: "text-emerald-500" },
-        ].map(s => (
-          <div key={s.label} className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-4 border border-slate-100 dark:border-[#2C2C2E] text-center">
-            <p className={`text-3xl font-black ${s.color}`}>{s.value}</p>
-            <p className="text-[10px] font-black text-slate-400 uppercase mt-1">{s.label}</p>
-          </div>
-        ))}
-      </div>
-
-      {/* Add Form */}
-      <form
-        onSubmit={handleAdd}
-        className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-5 border border-slate-100 dark:border-[#2C2C2E] flex flex-col sm:flex-row gap-3"
-      >
-        <input
-          type="text"
-          placeholder="O que você precisa fazer?"
-          value={newText}
-          onChange={e => setNewText(e.target.value)}
-          className="flex-1 bg-slate-50 dark:bg-slate-800 rounded-xl px-4 py-3 text-sm font-bold outline-none border-2 border-transparent focus:border-indigo-500"
-        />
-        <input
-          type="date"
-          value={newDate}
-          onChange={e => setNewDate(e.target.value)}
-          className="bg-slate-50 dark:bg-slate-800 rounded-xl px-4 py-3 text-sm font-bold outline-none border-2 border-transparent focus:border-indigo-500"
-        />
-        <button
-          type="submit"
-          disabled={!newText.trim() || isAdding}
-          className="px-5 py-3 bg-indigo-600 text-white font-black rounded-xl disabled:opacity-40 flex items-center gap-2 flex-shrink-0 shadow-lg shadow-indigo-600/20"
-        >
-          {isAdding ? <Loader2 className="w-4 h-4 animate-spin" /> : <Plus className="w-4 h-4" />}
-          Adicionar
-        </button>
-      </form>
-
-      {/* Filters */}
-      <div className="flex gap-2 flex-wrap">
-        {FILTERS.map(f => (
-          <button
-            key={f.key}
-            onClick={() => setFilter(f.key)}
-            className={`px-3 py-1.5 rounded-xl text-xs font-black transition-all flex items-center gap-1.5 ${
-              filter === f.key
-                ? "bg-indigo-600 text-white shadow-lg shadow-indigo-600/20"
-                : "bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] text-slate-500 hover:border-indigo-300"
-            }`}
-          >
-            {f.label}
-            {f.count > 0 && (
-              <span className={`px-1.5 py-0.5 rounded-lg text-[10px] ${
-                filter === f.key ? "bg-white/20 text-white" : "bg-slate-100 dark:bg-slate-800 text-slate-500"
-              }`}>{f.count}</span>
-            )}
-          </button>
-        ))}
-      </div>
-
-      {/* Task List */}
-      <div className="space-y-2">
-        {displayed.length === 0 ? (
-          <div className="text-center py-16 bg-white dark:bg-[#1C1C1E] rounded-[2rem] border border-slate-100 dark:border-[#2C2C2E]">
-            <CheckSquare className="w-10 h-10 text-slate-300 dark:text-slate-700 mx-auto mb-3" />
-            <p className="text-slate-400 font-bold text-sm">Nenhuma tarefa aqui!</p>
-          </div>
-        ) : (
-          <AnimatePresence>
-            {displayed.map(tarefa => {
-              const isUrgente   = tarefa.limit_date != null && tarefa.limit_date <= tresDiasStr && tarefa.status === "pending";
-              const isReposicao = tarefa.tipo_origem === "reposicao";
-              const isAgendada  = tarefa.status === "agendada";
-              const isConcluida = tarefa.status === "completed";
-
-              return (
-                <motion.div
-                  key={tarefa.id}
-                  layout
-                  initial={{ opacity: 0, y: 4 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, x: 20 }}
-                  className={`bg-white dark:bg-[#1C1C1E] rounded-2xl px-4 py-3 border-2 transition-all group ${
-                    isUrgente   ? "border-rose-200 dark:border-rose-500/30"
-                    : isReposicao ? "border-sky-200  dark:border-sky-500/30"
-                    : isAgendada ? "border-indigo-200 dark:border-indigo-500/30"
-                    : isConcluida ? "border-slate-100 dark:border-[#2C2C2E] opacity-60"
-                    : "border-slate-100 dark:border-[#2C2C2E]"
-                  }`}
-                >
-                  <div className="flex items-center gap-3">
-                    {/* Checkbox */}
-                    <button
-                      onClick={() => handleToggle(tarefa.id, tarefa.status)}
-                      className={`w-5 h-5 rounded-full border-2 flex-shrink-0 flex items-center justify-center transition-all ${
-                        isConcluida
-                          ? "bg-emerald-500 border-emerald-500"
-                          : "border-slate-300 dark:border-slate-600 hover:border-indigo-500"
-                      }`}
-                    >
-                      {isConcluida && <Check className="w-3 h-3 text-white" />}
-                    </button>
-
-                    {/* Content */}
-                    <div className="flex-1 min-w-0">
-                      <p className={`text-sm font-black truncate ${
-                        isConcluida ? "line-through text-slate-400" : "text-slate-800 dark:text-white"
-                      }`}>
-                        {tarefa.texto}
-                      </p>
-                      <div className="flex items-center gap-2 mt-0.5 flex-wrap">
-                        {tarefa.limit_date && (
-                          <span className={`text-[10px] font-black uppercase flex items-center gap-1 ${
-                            isUrgente ? "text-rose-500" : "text-amber-500"
-                          }`}>
-                            <Clock className="w-2.5 h-2.5" />
-                            {tarefa.limit_date === hojeStr ? "Hoje" : `Até ${format(parseISO(tarefa.limit_date), "dd/MM", { locale: ptBR })}`}
-                          </span>
-                        )}
-                        {isReposicao && (
-                          <span className="text-[10px] font-black text-sky-500 bg-sky-50 dark:bg-sky-500/10 px-1.5 py-0.5 rounded-md">⏩ Reposição</span>
-                        )}
-                        {isAgendada && tarefa.data_agendada && (
-                          <span className="text-[10px] font-black text-indigo-500 bg-indigo-50 dark:bg-indigo-500/10 px-1.5 py-0.5 rounded-md">
-                            📅 {format(parseISO(tarefa.data_agendada), "dd/MM", { locale: ptBR })}
-                          </span>
-                        )}
-                      </div>
-                    </div>
-
-                    {/* Actions */}
-                    <div className="flex gap-1 opacity-0 group-hover:opacity-100 transition-opacity flex-shrink-0">
-                      {!isAgendada && !isConcluida && (
-                        <button
-                          onClick={() => { setAgendarModal(tarefa); setAgendarDia(semana[0].toISOString().split("T")[0]); }}
-                          title="Agendar na Semana"
-                          className="w-7 h-7 flex items-center justify-center rounded-xl bg-indigo-50 dark:bg-indigo-500/10 text-indigo-500 hover:bg-indigo-100 transition-colors"
-                        >
-                          <ArrowRight className="w-3.5 h-3.5" />
-                        </button>
-                      )}
-                      <button
-                        onClick={() => handleRemove(tarefa.id)}
-                        className="w-7 h-7 flex items-center justify-center rounded-xl bg-slate-50 dark:bg-slate-800 text-slate-300 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10 transition-colors"
-                      >
-                        <Trash2 className="w-3.5 h-3.5" />
-                      </button>
-                    </div>
-                  </div>
-                </motion.div>
-              );
-            })}
-          </AnimatePresence>
-        )}
-      </div>
-
-      {/* Modal Agendar */}
-      <AnimatePresence>
-        {agendarModal && (
-          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
-            <motion.div
-              initial={{ scale: 0.9, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-sm p-8 shadow-2xl"
-            >
-              <h2 className="text-lg font-black text-slate-800 dark:text-white mb-1">Agendar na Semana</h2>
-              <p className="text-xs text-slate-400 mb-5 truncate font-medium">&ldquo;{agendarModal.texto}&rdquo;</p>
-
-              <div className="grid grid-cols-4 gap-2 mb-6">
-                {semana.map(dia => {
-                  const dataRef = dia.toISOString().split("T")[0];
-                  const sel = agendarDia === dataRef;
-                  return (
-                    <button
-                      key={dataRef}
-                      onClick={() => setAgendarDia(dataRef)}
-                      className={`p-2.5 rounded-2xl text-center border-2 transition-all ${
-                        sel ? "border-indigo-500 bg-indigo-50 dark:bg-indigo-500/10" : "border-slate-100 dark:border-slate-700 hover:border-indigo-300"
-                      }`}
-                    >
-                      <p className="text-[9px] font-black text-slate-400 uppercase">{format(dia, "EEE", { locale: ptBR })}</p>
-                      <p className={`text-base font-black ${sel ? "text-indigo-600" : "text-slate-700 dark:text-white"}`}>{format(dia, "dd")}</p>
-                    </button>
-                  );
-                })}
-              </div>
-
-              <div className="flex gap-3">
-                <button
-                  onClick={() => setAgendarModal(null)}
-                  className="flex-1 py-3 rounded-2xl border border-slate-200 dark:border-slate-700 text-slate-500 font-black text-sm"
-                >
-                  Cancelar
-                </button>
-                <button
-                  onClick={handleAgendar}
-                  className="flex-1 py-3 rounded-2xl bg-indigo-600 text-white font-black text-sm flex items-center justify-center gap-2"
-                >
-                  <Calendar className="w-4 h-4" /> Agendar
-                </button>
-              </div>
-            </motion.div>
-          </div>
-        )}
-      </AnimatePresence>
-    </div>
-  );
-}
 
 // ─── COMPONENTE PRINCIPAL ──────────────────────────────────────────
 export default function SemanaPage() {
@@ -1101,7 +799,7 @@ export default function SemanaPage() {
 
   const [userId, setUserId] = useState<string | null>(null);
   const [isLoaded, setIsLoaded] = useState(false);
-  const [view, setView] = useState<"semana" | "rotina" | "tarefas">("semana");
+  const [view, setView] = useState<"semana" | "rotina">("semana");
 
   const [weekRef, setWeekRef] = useState(new Date());
   const semana = getSemanaAtual(weekRef);
@@ -1109,7 +807,6 @@ export default function SemanaPage() {
   const [disciplinas, setDisciplinas] = useState<Disciplina[]>([]);
   const [rotina, setRotina] = useState<RotinaItem[]>([]);
   const [blocos, setBlocos] = useState<SemanaBloco[]>([]);
-  const [tarefas, setTarefas] = useState<Tarefa[]>([]);
 
   // Modals
   const [modalConfirmar, setModalConfirmar] = useState<SemanaBloco | null>(null);
@@ -1123,15 +820,13 @@ export default function SemanaPage() {
       if (!user) return;
       setUserId(user.id);
 
-      const [{ data: discs }, { data: rot }, { data: tars }] = await Promise.all([
+      const [{ data: discs }, { data: rot }] = await Promise.all([
         supabase.from("disciplinas").select("*").order("nome"),
         supabase.from("rotina_semanal").select("*, disciplinas(id,nome,cor_hex)").eq("user_id", user.id).order("horario_ini"),
-        supabase.from("tarefas").select("*").eq("user_id", user.id).order("created_at", { ascending: false }),
       ]);
 
       if (discs) setDisciplinas(discs);
       if (rot) setRotina(rot as any);
-      if (tars) setTarefas(tars as any);
 
       await fetchBlocos(user.id);
       setIsLoaded(true);
@@ -1199,28 +894,6 @@ export default function SemanaPage() {
     }
   }
 
-  // ── Alocar tarefa na semana ────────────────────────────────────
-  async function alocarTarefa(tarefa: Tarefa, dataRef: string) {
-    if (!userId) return;
-    const { data, error } = await supabase.from("semana_blocos").insert({
-      user_id: userId,
-      tarefa_origem_id: tarefa.id,
-      data_referencia: dataRef,
-      tipo: "outro",
-      horario_ini: "08:00",
-      horario_fim: "09:00",
-      disciplina_id: null,
-      descricao: tarefa.texto,
-      status: "personalizado",
-    }).select().single();
-
-    if (!error && data) {
-      await supabase.from("tarefas").update({ status: "agendada", bloco_id: data.id, data_agendada: dataRef }).eq("id", tarefa.id);
-      await fetchBlocos(userId);
-      setTarefas(prev => prev.map(t => t.id === tarefa.id ? { ...t, status: "agendada", bloco_id: data.id } : t));
-      toast.success("Tarefa alocada na semana!");
-    }
-  }
 
   // ── Confirmar bloco ────────────────────────────────────────────
   async function handleConfirmar(blocoId: string, dados: any) {
@@ -1258,55 +931,53 @@ export default function SemanaPage() {
 
   // ── Não feito: Abandonar ───────────────────────────────────────
   async function handleAbandonar(blocoId: string) {
-    const bloco = blocos.find(b => b.id === blocoId)!;
-
-    // Se era tarefa personalizada, devolve para tarefas
-    if (bloco.tarefa_origem_id) {
-      await supabase.from("tarefas").update({ status: "pending", bloco_id: null, data_agendada: null }).eq("id", bloco.tarefa_origem_id);
-      setTarefas(prev => prev.map(t => t.id === bloco.tarefa_origem_id ? { ...t, status: "pending", bloco_id: null } : t));
-      toast.info("Tarefa devolvida para a lista de tarefas.");
-    }
-
     const { error } = await supabase.from("semana_blocos").update({ status: "abandonado", updated_at: new Date().toISOString() }).eq("id", blocoId);
     if (!error) {
       setBlocos(prev => prev.map(b => b.id === blocoId ? { ...b, status: "abandonado" } : b));
     }
   }
 
-  // ── Não feito: Criar reposição ─────────────────────────────────
-  async function handleCriarReposicao(blocoId: string, prazo: string) {
-    const bloco = blocos.find(b => b.id === blocoId)!;
-
-    const { data: novaTarefa } = await supabase.from("tarefas").insert({
-      user_id: userId,
-      texto: `[Reposição] ${bloco.descricao}`,
-      status: "pending",
-      tipo_origem: "reposicao",
-      limit_date: prazo,
-    }).select().single();
-
+  // ── Criar Reposição ────────────────────────────────────────────
+  async function handleCriarReposicao(blocoId: string) {
     const { error } = await supabase.from("semana_blocos").update({
       status: "reposicao",
-      reposicao_tarefa_id: novaTarefa?.id ?? null,
       updated_at: new Date().toISOString(),
     }).eq("id", blocoId);
 
     if (!error) {
       setBlocos(prev => prev.map(b => b.id === blocoId ? { ...b, status: "reposicao" } : b));
-      if (novaTarefa) setTarefas(prev => [...prev, novaTarefa as any]);
-      toast.success("Reposição criada na sua lista de tarefas!");
+      toast.success("Bloco marcado para reposição!");
     }
   }
 
-  // ── Remover bloco ──────────────────────────────────────────────
   async function handleRemoverBloco(id: string) {
-    const bloco = blocos.find(b => b.id === id);
-    if (bloco?.tarefa_origem_id) {
-      await supabase.from("tarefas").update({ status: "pending", bloco_id: null }).eq("id", bloco.tarefa_origem_id);
-    }
     await supabase.from("semana_blocos").delete().eq("id", id);
     setBlocos(prev => prev.filter(b => b.id !== id));
     toast.success("Bloco removido.");
+  }
+
+  // ── Limpar Semana ──────────────────────────────────────────────
+  async function limparSemana() {
+    if (!userId) return;
+    const confirm = window.confirm("Tem certeza que deseja apagar todos os eventos desta semana?");
+    if (!confirm) return;
+
+    const ini = semana[0].toISOString().split("T")[0];
+    const fim = semana[6].toISOString().split("T")[0];
+
+    const { error } = await supabase
+      .from("semana_blocos")
+      .delete()
+      .eq("user_id", userId)
+      .gte("data_referencia", ini)
+      .lte("data_referencia", fim);
+
+    if (!error) {
+      setBlocos([]);
+      toast.success("Semana limpa com sucesso!");
+    } else {
+      toast.error("Erro ao limpar a semana.");
+    }
   }
 
   // ── Salvar bloco (novo ou editar) ──────────────────────────────
@@ -1398,136 +1069,139 @@ export default function SemanaPage() {
     );
   }
 
-  if (view === "rotina") {
-    return (
-      <div className="max-w-5xl mx-auto px-4 pb-20">
-        <div className="flex items-center gap-3 mb-8">
-          <button
-            onClick={() => setView("semana")}
-            className="p-2 rounded-xl bg-white dark:bg-[#1C1C1E] border border-slate-200 dark:border-[#2C2C2E] text-slate-500 hover:text-indigo-500 transition-colors"
-          >
-            <ChevronLeft className="w-5 h-5" />
-          </button>
-          <h2 className="text-lg font-black text-slate-700 dark:text-white">Editando Rotina Semanal</h2>
-        </div>
-        <RotinaSetup disciplinas={disciplinas} onSalvar={handleSalvarRotina} />
-      </div>
-    );
-  }
 
   // ─── VIEW PRINCIPAL: SEMANA ──────────────────────────────────────
   const preenchimento = calcPreenchimento(blocos);
-  const tarefasPendentes = tarefas.filter(t => t.status === "pending");
 
-  // ─── VIEW BACKLOG ─────────────────────────────────────────────────
-  if (view === "tarefas") {
-    return (
-      <div className="space-y-6 animate-in fade-in duration-500 pb-20">
-        {/* Tab Nav */}
-        <div className="flex items-center justify-between">
-          <div className="flex gap-1 bg-slate-100 dark:bg-[#2C2C2E] p-1 rounded-2xl">
-            <button
-              onClick={() => setView("semana")}
-              className="px-5 py-2 rounded-xl text-xs font-black text-slate-500 hover:text-indigo-500 transition-colors"
-            >
-              📅 Semana
-            </button>
-            <button
-              className="px-5 py-2 rounded-xl text-xs font-black bg-white dark:bg-[#3A3A3C] text-indigo-600 dark:text-indigo-400 shadow-sm"
-            >
-              📋 Backlog
-            </button>
-          </div>
-          <button
-            onClick={() => setView("rotina")}
-            className="px-4 py-2 bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] text-slate-500 font-black rounded-xl text-xs flex items-center gap-1.5"
-          >
-            <Edit2 className="w-3.5 h-3.5" /> Editar Rotina
-          </button>
-        </div>
-        <BacklogView userId={userId!} semana={semana} onAlocarTarefa={alocarTarefa} />
-      </div>
-    );
-  }
 
   return (
-    <div className="space-y-6 animate-in fade-in duration-500 pb-20">
-      {/* HEADER */}
+    <div className="space-y-8 animate-in fade-in duration-500 pb-20">
+      {/* HEADER DESIGN NOVO */}
       <header className="relative">
-        <div className="absolute -top-16 -left-16 w-64 h-64 bg-indigo-500/10 rounded-full blur-[80px] pointer-events-none" />
-        <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-4">
-          <div>
-            <h1 className="text-4xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-4">
-              <div className="bg-indigo-600 p-3 rounded-[1.2rem] shadow-lg shadow-indigo-600/20">
-                <Calendar className="w-8 h-8 text-white" />
+        <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-8">
+          {/* LADO ESQUERDO: TÍTULO */}
+          <div className="flex items-center gap-5">
+            <div className="bg-[#1B2B5E] p-4 rounded-[1.2rem] shadow-xl shadow-[#1B2B5E]/20">
+              <Calendar className="w-8 h-8 text-white" />
+            </div>
+            <div>
+              <h1 className="text-3xl md:text-4xl font-black text-[#1B2B5E] dark:text-white tracking-tight">
+                Semana
+              </h1>
+              <div className="flex items-center gap-3 mt-1.5">
+                <div className="h-1 w-10 bg-[#F97316] rounded-full" />
+                <p className="text-[10px] md:text-xs text-[#8E9AAF] font-black uppercase tracking-[0.2em]">
+                  ASAS PARA O ENEM! PLANEJE SUA SEMANA.
+                </p>
               </div>
-              Minha Semana
-            </h1>
-            <div className="flex items-center gap-3 mt-2">
-              <div className="h-1 w-12 bg-indigo-500 rounded-full" />
-              <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em]">Planejamento Semanal Inteligente</p>
             </div>
           </div>
-          <div className="flex items-center gap-2 flex-wrap">
+
+          {/* CENTRO: PERÍODO (entre título e abas) */}
+          <div className="flex-1 flex justify-center">
+            {view === "semana" && (
+              <div className="flex items-center gap-2 bg-white dark:bg-[#1C1C1E] p-1.5 rounded-2xl border border-slate-100 dark:border-[#2C2C2E] shadow-sm animate-in fade-in zoom-in duration-500">
+                <button
+                  onClick={() => setWeekRef(w => subWeeks(w, 1))}
+                  className="p-2 rounded-xl text-slate-400 hover:text-[#1B2B5E] hover:bg-slate-50 transition-all"
+                >
+                  <ChevronLeft className="w-5 h-5" />
+                </button>
+                <div className="px-4 py-1 border-x border-slate-100 dark:border-[#2C2C2E]">
+                  <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest text-center">Período</p>
+                  <p className="text-xs font-black text-[#1B2B5E] dark:text-white whitespace-nowrap">
+                    {format(semana[0], "dd MMM", { locale: ptBR })} – {format(semana[6], "dd MMM", { locale: ptBR })}
+                  </p>
+                </div>
+                <button
+                  onClick={() => setWeekRef(w => addWeeks(w, 1))}
+                  className="p-2 rounded-xl text-slate-400 hover:text-[#1B2B5E] hover:bg-slate-50 transition-all"
+                >
+                  <ChevronRight className="w-5 h-5" />
+                </button>
+              </div>
+            )}
+          </div>
+
+          {/* LADO DIREITO: ABAS */}
+          <div className="bg-white dark:bg-[#1C1C1E] p-1.5 rounded-[2rem] border border-slate-100 dark:border-[#2C2C2E] shadow-sm flex items-center w-full md:w-auto">
             <button
-              onClick={() => setWeekRef(w => subWeeks(w, 1))}
-              className="p-2.5 rounded-xl bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] text-slate-500 hover:text-indigo-500"
+              onClick={() => setView("semana")}
+              className={`px-8 py-3 rounded-[1.5rem] font-black text-xs uppercase tracking-widest transition-all ${
+                view === "semana"
+                  ? "bg-[#1B2B5E] text-white shadow-lg shadow-[#1B2B5E]/20"
+                  : "text-[#8E9AAF] hover:text-[#1B2B5E] dark:hover:text-white"
+              }`}
             >
-              <ChevronLeft className="w-5 h-5" />
-            </button>
-            <button
-              onClick={() => setWeekRef(new Date())}
-              className="px-4 py-2 text-xs font-black uppercase tracking-widest bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] rounded-xl text-slate-500"
-            >
-              {format(semana[0], "dd MMM", { locale: ptBR })} – {format(semana[6], "dd MMM", { locale: ptBR })}
-            </button>
-            <button
-              onClick={() => setWeekRef(w => addWeeks(w, 1))}
-              className="p-2.5 rounded-xl bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] text-slate-500 hover:text-indigo-500"
-            >
-              <ChevronRight className="w-5 h-5" />
-            </button>
-            <button
-              onClick={gerarSemana}
-              title="Gerar semana a partir da rotina"
-              className="px-4 py-2 bg-indigo-600 text-white font-black rounded-xl text-xs uppercase tracking-widest hover:bg-indigo-700 flex items-center gap-1.5 shadow-lg shadow-indigo-600/20"
-            >
-              <Zap className="w-4 h-4" /> Gerar Semana
+              Rotina
             </button>
             <button
               onClick={() => setView("rotina")}
-              className="px-4 py-2 bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] text-slate-600 dark:text-slate-300 font-black rounded-xl text-xs uppercase tracking-widest flex items-center gap-1.5"
+              className={`px-8 py-3 rounded-[1.5rem] font-black text-xs uppercase tracking-widest transition-all ${
+                view === "rotina"
+                  ? "bg-[#1B2B5E] text-white shadow-lg shadow-[#1B2B5E]/20"
+                  : "text-[#8E9AAF] hover:text-[#1B2B5E] dark:hover:text-white"
+              }`}
             >
-              <Edit2 className="w-4 h-4" /> Editar Rotina
+              Edição
             </button>
           </div>
         </div>
       </header>
 
+      <div className="flex items-center justify-between mb-4">
+        <button
+          onClick={limparSemana}
+          className="px-4 py-2 text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10 rounded-xl transition-all flex items-center gap-2 text-[10px] font-black uppercase tracking-widest"
+        >
+          <Trash2 className="w-3.5 h-3.5" /> Limpar Tudo
+        </button>
+      </div>
+
       {/* BARRA DE PREENCHIMENTO */}
-      <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-4 border border-slate-100 dark:border-[#2C2C2E] flex items-center gap-4">
+      <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-6 border border-slate-100 dark:border-[#2C2C2E] flex items-center gap-6 shadow-sm">
         <div className="flex-1">
-          <div className="flex justify-between mb-1.5">
-            <span className="text-xs font-black text-slate-400 uppercase tracking-widest">Esta semana</span>
-            <span className="text-xs font-black text-indigo-500">
+          <div className="flex justify-between mb-2">
+            <span className="text-[10px] font-black text-slate-400 uppercase tracking-[0.2em]">Carga Horária Semanal</span>
+            <span className="text-[10px] font-black text-[#1B2B5E] dark:text-indigo-400 uppercase tracking-widest">
               {blocos.filter(b => b.status !== "abandonado").length} blocos planejados
             </span>
           </div>
-          <div className="h-1.5 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
+          <div className="h-2 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden">
             <motion.div
               initial={{ width: 0 }}
               animate={{ width: `${Math.min(100, preenchimento)}%` }}
-              className="h-full rounded-full bg-indigo-500"
+              className="h-full rounded-full bg-[#1B2B5E]"
             />
           </div>
         </div>
-        <div className="text-right flex-shrink-0">
-          <p className="text-2xl font-black text-slate-800 dark:text-white">{blocos.filter(b => b.status === "concluido").length}</p>
-          <p className="text-[10px] text-slate-400 font-bold uppercase">Concluídos</p>
+        <div className="text-right flex-shrink-0 bg-slate-50 dark:bg-[#2C2C2E] px-5 py-3 rounded-2xl border border-slate-100 dark:border-transparent">
+          <p className="text-2xl font-black text-[#1B2B5E] dark:text-white leading-none">{blocos.filter(b => b.status === "concluido").length}</p>
+          <p className="text-[9px] text-[#8E9AAF] font-bold uppercase tracking-tighter mt-1">Concluídos</p>
         </div>
       </div>
 
-      {/* LAYOUT PRINCIPAL: GRID + TAREFAS */}
+      {/* CONTEÚDO PRINCIPAL: SEMANA ou ROTINA */}
+      {view === "rotina" ? (
+        <div className="max-w-5xl mx-auto px-4 pb-20">
+          <div className="flex items-center gap-3 mb-8">
+            <button
+              onClick={() => setView("semana")}
+              className="p-2 rounded-xl bg-white dark:bg-[#1C1C1E] border border-slate-200 dark:border-[#2C2C2E] text-slate-500 hover:text-indigo-500 transition-colors"
+            >
+              <ChevronLeft className="w-5 h-5" />
+            </button>
+            <h2 className="text-lg font-black text-slate-700 dark:text-white">Editando Rotina Semanal</h2>
+          </div>
+          <RotinaSetup
+            disciplinas={disciplinas}
+            initialData={rotina}
+            onSalvar={handleSalvarRotina}
+          />
+        </div>
+      ) : (
+        <>
+
       <div className="flex gap-4">
         {/* GRID DE 7 DIAS */}
         <div className="flex-1 overflow-x-auto">
@@ -1597,60 +1271,10 @@ export default function SemanaPage() {
           </div>
         </div>
 
-        {/* LISTA DE TAREFAS LATERAL */}
-        <div className="w-64 flex-shrink-0 bg-white dark:bg-[#1C1C1E] rounded-[2rem] border border-slate-100 dark:border-[#2C2C2E] flex flex-col overflow-hidden">
-          <button
-            onClick={() => setView("tarefas")}
-            className="p-4 border-b border-slate-50 dark:border-[#2C2C2E] flex items-center gap-2 w-full text-left hover:bg-slate-50 dark:hover:bg-[#2C2C2E] transition-colors group"
-          >
-            <ListChecks className="w-4 h-4 text-indigo-500" />
-            <h3 className="font-black text-slate-700 dark:text-white text-sm group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">Tarefas Pendentes</h3>
-            <span className="ml-auto text-[10px] bg-indigo-100 dark:bg-indigo-500/20 text-indigo-600 dark:text-indigo-400 px-2 py-0.5 rounded-lg font-black">
-              {tarefasPendentes.length}
-            </span>
-            <ArrowRight className="w-3.5 h-3.5 text-slate-300 group-hover:text-indigo-400 transition-colors flex-shrink-0" />
-          </button>
-
-          <div className="flex-1 overflow-y-auto custom-scrollbar p-3 space-y-2">
-            {tarefasPendentes.length === 0 ? (
-              <div className="text-center py-8 text-slate-300 dark:text-slate-600">
-                <CheckSquare className="w-8 h-8 mx-auto mb-2" />
-                <p className="text-xs font-bold">Nenhuma tarefa pendente</p>
-              </div>
-            ) : (
-              tarefasPendentes.map(tarefa => (
-                <div
-                  key={tarefa.id}
-                  className="bg-slate-50 dark:bg-slate-800 rounded-xl p-3 cursor-grab active:cursor-grabbing group"
-                >
-                  <div className="flex items-start gap-2 mb-2">
-                    <GripVertical className="w-3.5 h-3.5 text-slate-300 mt-0.5 flex-shrink-0" />
-                    <p className="text-xs font-bold text-slate-700 dark:text-slate-300 flex-1 leading-snug">{tarefa.texto}</p>
-                  </div>
-                  {tarefa.limit_date && (
-                    <p className="text-[9px] text-amber-500 font-bold ml-5">
-                      Até {format(parseISO(tarefa.limit_date), "dd/MM", { locale: ptBR })}
-                    </p>
-                  )}
-                  {/* Ação rápida: alocar hoje */}
-                  <button
-                    onClick={() => alocarTarefa(tarefa, new Date().toISOString().split("T")[0])}
-                    className="mt-2 ml-5 text-[9px] font-black text-indigo-500 hover:text-indigo-700 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity"
-                  >
-                    <ArrowRight className="w-2.5 h-2.5" /> Alocar hoje
-                  </button>
-                </div>
-              ))
-            )}
-          </div>
-
-          <div className="p-3 border-t border-slate-50 dark:border-[#2C2C2E]">
-            <p className="text-[9px] text-slate-400 text-center font-bold">
-              Clique em "Alocar hoje" para adicionar à semana
-            </p>
-          </div>
-        </div>
       </div>
+
+      </>
+      )}
 
       {/* MODAIS */}
       <AnimatePresence>

@@ -6,7 +6,7 @@ import {
   PenTool, Plus, Trash2, ArrowRight,
   Lightbulb, CheckCircle2, Award, Activity,
   X, Star, Calendar, ChevronRight, ChevronDown,
-  BarChart2, PieChart, BookOpen, CheckCircle
+  BarChart2, PieChart, BookOpen, CheckCircle, BarChart3
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
@@ -36,7 +36,7 @@ import { ptBR } from "date-fns/locale/pt-BR";
 import { createClient } from "@/utils/supabase/client";
 
 // ─── Tipos ─────────────────────────────────────────────────────────────────────
-type StudentKanbanStatus = "proposta" | "fazendo" | "concluida";
+type StudentKanbanStatus = "proposta" | "fazendo" | "concluida" | "analisada";
 type TipoProva = "enem" | "fuvest" | "unicamp" | "vunesp" | "outras";
 
 interface RedacaoGlobal {
@@ -81,7 +81,8 @@ const COLUMNS: {
 }[] = [
   { id:"proposta",  label:"Proposta",  icon:Lightbulb,    accent:"text-slate-500 dark:text-[#A1A1AA]",  dot:"bg-slate-400",  card:"hover:border-slate-300 dark:hover:border-slate-700",       badge:"bg-slate-100 text-slate-600 border-slate-200 dark:bg-[#2C2C2E] dark:text-[#A1A1AA] dark:border-[#3A3A3C]",               emptyText:"Nenhuma proposta ainda." },
   { id:"fazendo",   label:"Fazendo",   icon:PenTool,      accent:"text-indigo-500",                     dot:"bg-indigo-500", card:"hover:border-indigo-200 dark:hover:border-indigo-900/60",  badge:"bg-indigo-50 text-indigo-600 border-indigo-100 dark:bg-indigo-900/20 dark:text-indigo-400 dark:border-indigo-900/30",   emptyText:"Nenhuma redação em andamento." },
-  { id:"concluida", label:"Concluída", icon:CheckCircle2, accent:"text-teal-500",                       dot:"bg-teal-500",   card:"hover:border-teal-200 dark:hover:border-teal-900/60",      badge:"bg-teal-50 text-teal-600 border-teal-100 dark:bg-teal-900/20 dark:text-teal-400 dark:border-teal-900/30",               emptyText:"Arraste as finalizadas para cá." },
+  { id:"concluida", label:"Corrigida", icon:CheckCircle2, accent:"text-teal-500",                       dot:"bg-teal-500",   card:"hover:border-teal-200 dark:hover:border-teal-900/60",      badge:"bg-teal-50 text-teal-600 border-teal-100 dark:bg-teal-900/20 dark:text-teal-400 dark:border-teal-900/30",               emptyText:"Arraste as finalizadas para cá." },
+  { id:"analisada", label:"Analisada", icon:BarChart3,    accent:"text-fuchsia-500",                    dot:"bg-fuchsia-500",card:"hover:border-fuchsia-200 dark:hover:border-fuchsia-900/60",badge:"bg-fuchsia-50 text-fuchsia-600 border-fuchsia-100 dark:bg-fuchsia-900/20 dark:text-fuchsia-400 dark:border-fuchsia-900/30", emptyText:"Nenhuma redação analisada." },
 ];
 
 // ─── Custom Dropdown ───────────────────────────────────────────────────────────
@@ -178,7 +179,7 @@ function DetalheModal({redacao,col,onClose,onDelete,onLancarNota}:{
             <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">{redacao.tema}</p>
           </div>
         )}
-        {redacao.status==="concluida"&&(
+        {(redacao.status==="concluida"||redacao.status==="analisada")&&(
           <div className="mb-6">
             {redacao.nota!=null?(
               <div>
@@ -275,7 +276,7 @@ function RedacaoCard({redacao,col,onDelete,onLancarNota,onOpenDetalhe,onAdvance}
                 {new Date(redacao.dataCriacao).toLocaleDateString("pt-BR",{day:"2-digit",month:"short"})}
               </div>
               <div className="flex items-center gap-2">
-                {col.id==="concluida"&&(
+                {(col.id==="concluida"||col.id==="analisada")&&(
                   <>
                     {redacao.nota!=null?(
                       <span className={`flex items-center gap-1 font-black text-xs px-2 py-0.5 rounded-lg ${col.badge}`}>
@@ -289,7 +290,7 @@ function RedacaoCard({redacao,col,onDelete,onLancarNota,onOpenDetalhe,onAdvance}
                     )}
                   </>
                 )}
-                {col.id!=="concluida"&&onAdvance?(
+                {col.id!=="analisada"&&onAdvance?(
                   <button onPointerDown={e=>{e.stopPropagation();onAdvance(redacao);}}
                     className="p-1.5 text-slate-300 hover:text-indigo-500 hover:bg-indigo-50 dark:hover:bg-indigo-900/20 rounded-lg opacity-0 group-hover:opacity-100 transition-all flex-shrink-0">
                     <ChevronRight className="w-4 h-4"/>
@@ -342,7 +343,7 @@ function KanbanColumn({col,items,onDelete,onLancarNota,onOpenDetalhe,onAdvance}:
 function EvolucaoRedacao({redacoes}: {redacoes: RedacaoGlobal[]}) {
   const [tipoFiltro, setTipoFiltro] = useState<TipoProva>("enem");
 
-  const concluidas = redacoes.filter(r => r.status === "concluida" && r.nota != null && (r.tipo_prova || "enem") === tipoFiltro);
+  const concluidas = redacoes.filter(r => (r.status === "concluida" || r.status === "analisada") && r.nota != null && (r.tipo_prova || "enem") === tipoFiltro);
   const concluidasEnem = concluidas.filter(r => (r.tipo_prova || "enem") === "enem");
 
   // Dados para gráfico de evolução (linha do tempo)
@@ -379,12 +380,12 @@ function EvolucaoRedacao({redacoes}: {redacoes: RedacaoGlobal[]}) {
   const mediaNota = concluidas.length > 0 ? Math.round(concluidas.reduce((a, r) => a + (r.nota || 0), 0) / concluidas.length) : null;
   const totalConcluidas = concluidas.length;
 
-  if (redacoes.filter(r => r.status === "concluida").length === 0) {
+  if (redacoes.filter(r => r.status === "concluida" || r.status === "analisada").length === 0) {
     return (
       <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-16 shadow-sm border border-slate-100 dark:border-[#2C2C2E] flex flex-col items-center justify-center text-center">
         <PieChart className="w-12 h-12 text-slate-300 dark:text-slate-700 mb-4"/>
-        <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhuma redação concluída ainda.</p>
-        <p className="text-xs text-slate-400 mt-2">Mova suas redações para &ldquo;Concluída&rdquo; e lance as notas para ver a evolução.</p>
+        <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhuma redação finalizada ainda.</p>
+        <p className="text-xs text-slate-400 mt-2">Mova suas redações para &ldquo;Corrigida&rdquo; ou &ldquo;Analisada&rdquo; e lance as notas para ver a evolução.</p>
       </div>
     );
   }
@@ -396,7 +397,7 @@ function EvolucaoRedacao({redacoes}: {redacoes: RedacaoGlobal[]}) {
         <span className="text-[10px] font-black uppercase tracking-widest text-slate-400 whitespace-nowrap">Tipo de Prova:</span>
         <div className="flex gap-2 flex-1 min-w-0">
           {TIPOS_PROVA.map(t => {
-            const cnt = redacoes.filter(r => r.status === "concluida" && r.nota != null && (r.tipo_prova || "enem") === t.value).length;
+            const cnt = redacoes.filter(r => (r.status === "concluida" || r.status === "analisada") && r.nota != null && (r.tipo_prova || "enem") === t.value).length;
             return (
               <button key={t.value} onClick={() => setTipoFiltro(t.value)}
                 className={`px-4 py-2 rounded-[1.2rem] text-xs font-black uppercase tracking-widest whitespace-nowrap transition-all ${tipoFiltro === t.value ? "bg-indigo-600 text-white shadow-lg shadow-indigo-600/20" : "bg-slate-50 dark:bg-[#2C2C2E] text-slate-500 dark:text-slate-400 hover:text-slate-700"}`}>
@@ -619,6 +620,7 @@ export default function RedacaoPage() {
     if (["PROPOSTA","A_FAZER","planejamento"].includes(dbStatus)) return "proposta";
     if (["FAZENDO","EM_AVALIACAO","andamento"].includes(dbStatus)) return "fazendo";
     if (["CONCLUIDA","concluida","DEVOLVIDA"].includes(dbStatus)) return "concluida";
+    if (["ANALISADA","analisada"].includes(dbStatus)) return "analisada";
     return "proposta";
   };
 
@@ -692,8 +694,11 @@ export default function RedacaoPage() {
   };
 
   const handleAdvance = async (r: RedacaoGlobal) => {
-    const next: StudentKanbanStatus = r.status === "proposta" ? "fazendo" : r.status === "fazendo" ? "concluida" : "concluida";
-    if (r.status === "concluida") return;
+    const next: StudentKanbanStatus =
+        r.status === "proposta" ? "fazendo" :
+        r.status === "fazendo" ? "concluida" :
+        "analisada";
+    if (r.status === "analisada") return;
     setRedacoes(prev => prev.map(x => x.id === r.id ? { ...x, status: next } : x));
     await supabase.from("redacoes_aluno").update({ status: next.toUpperCase() }).eq("id", r.id);
   };
@@ -793,7 +798,7 @@ export default function RedacaoPage() {
           <DndContext sensors={sensors} collisionDetection={closestCenter} onDragStart={handleDragStart} onDragEnd={handleDragEnd}>
             <div className="w-full">
               {/* Kanban */}
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6">
                 {COLUMNS.map(col=>(
                   <KanbanColumn key={col.id} col={col} items={redacoes.filter(r=>r.status===col.id)}
                     onDelete={deleteRedacao}

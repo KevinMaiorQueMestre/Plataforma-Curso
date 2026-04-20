@@ -477,9 +477,9 @@ function EditSimuladoModal({
      Object.keys(sim.dados_modelo).forEach(k => {
          const val = sim.dados_modelo[k];
          if (typeof val === 'object' && val !== null) {
-            initialForm[`${k}_c`] = val.certos;
-            initialForm[`${k}_e`] = val.errados;
-            initialForm[`${k}_b`] = val.branco;
+            initialForm[`${k}_c`] = (val as any).certos;
+            initialForm[`${k}_e`] = (val as any).errados;
+            initialForm[`${k}_b`] = (val as any).branco;
          } else {
             initialForm[k] = val ? String(val) : '';
          }
@@ -1108,7 +1108,7 @@ export default function SimuladosPage() {
                   <div className="bg-slate-50 dark:bg-[#2C2C2E] border-2 border-dashed border-slate-200 dark:border-[#3A3A3C] rounded-[2rem] p-10 flex flex-col items-center justify-center text-center gap-3">
                     <CheckCircle className="w-10 h-10 text-slate-300 dark:text-slate-600" />
                     <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhum simulado concluído ainda.</p>
-                    <p className="text-xs text-slate-400">Crie e conclua um simulado na sub-aba <strong className="text-[#F97316]">Tarefas</strong> para lançar aqui.</p>
+                    <p className="text-xs text-slate-400">Crie e conclua um simulado na sub-aba <strong className="text-[#F97316]">Programados</strong> para lançar aqui.</p>
                   </div>
                 ) : (
                   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">

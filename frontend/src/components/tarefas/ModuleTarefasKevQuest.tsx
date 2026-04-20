@@ -55,8 +55,10 @@ export default function ModuleTarefasKevQuest({ refreshTrigger = 0 }: { refreshT
     setIsSaving(true);
     const ok = await concluirProblema(
       modalConcluir.id,
-      formConcluir.tempo ? parseInt(formConcluir.tempo) : null,
-      formConcluir.conforto || null
+      {
+        tempoMin: formConcluir.tempo ? parseInt(formConcluir.tempo) : null,
+        conforto: formConcluir.conforto || null,
+      }
     );
     if (ok) {
       toast.success('Tarefa concluída!');

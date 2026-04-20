@@ -33,6 +33,10 @@ export type ProblemaEstudo = {
   // Conclusão
   tempo_gasto_min: number | null;
   conforto: number | null;      // 1–5
+  questoes_feitas: number | null;
+  acertos: number | null;
+  // Revisão automática
+  numero_revisao: number | null; // null = atividade original; 1 = R1, 2 = R2...
   // Timestamps
   created_at: string;
   concluido_at: string | null;
@@ -70,6 +74,7 @@ export async function criarProblemaManual(payload: {
   agendadoPara?: string | null;
   prioridade?: number;
   origem?: OrigemProblema;
+  origemRefId?: string | null;
   prova?: string | null;
   ano?: string | null;
   corProva?: string | null;
@@ -86,6 +91,7 @@ export async function criarProblemaManual(payload: {
     .insert({
       user_id: payload.userId,
       origem: payload.origem ?? 'manual',
+      origem_ref_id: payload.origemRefId ?? null,
       titulo: payload.titulo,
       disciplina_id: payload.disciplinaId ?? null,
       disciplina_nome: payload.disciplinaNome ?? null,
@@ -109,25 +115,109 @@ export async function criarProblemaManual(payload: {
 }
 
 /**
- * Marca um problema como concluído com tempo gasto e nível de conforto (opcional).
+ * Marca um problema como concluído com tempo gasto, nível de conforto e métricas de desempenho.
+ * Também agenda revisões futuras se solicitado.
  */
 export async function concluirProblema(
   id: string,
-  tempoMin?: number | null,
-  conforto?: number | null
+  payload: {
+    tempoMin?: number | null;
+    conforto?: number | null;
+    questoesFeitas?: number | null;
+    acertos?: number | null;
+    comentario?: string | null;
+    revisoes?: number[]; // dias para revisão (ex: [3, 7, 30])
+  }
 ): Promise<boolean> {
   const supabase = createClient();
-  const { error } = await supabase
+  
+  // 1. Buscar o problema original para clonar o contexto nas revisões
+  const { data: original, error: fetchError } = await supabase
+    .from('problemas_estudo')
+    .select('*')
+    .eq('id', id)
+    .single();
+
+  if (fetchError || !original) {
+    console.error('[concluirProblema] Erro ao buscar problema original:', fetchError?.message);
+    return false;
+  }
+
+  // 2. Atualizar o problema atual
+  const { error: updateError } = await supabase
     .from('problemas_estudo')
     .update({
       status: 'concluido',
-      tempo_gasto_min: tempoMin ?? null,
-      conforto: conforto ?? null,
+      tempo_gasto_min: payload.tempoMin ?? null,
+      conforto: payload.conforto ?? null,
+      questoes_feitas: payload.questoesFeitas ?? 0,
+      acertos: payload.acertos ?? 0,
+      comentario: payload.comentario ?? original.comentario,
       concluido_at: new Date().toISOString(),
     })
     .eq('id', id);
 
-  if (error) { console.error('[concluirProblema]', error.message); return false; }
+  if (updateError) {
+    console.error('[concluirProblema] Erro ao atualizar:', updateError.message);
+    return false;
+  }
+
+  // 3. Registrar como uma Sessão de Estudo também (para aparecer no histórico)
+  const { error: sessionError } = await supabase
+    .from('sessoes_estudo')
+    .insert({
+      user_id: original.user_id,
+      disciplina_id: original.disciplina_id,
+      conteudo_id: original.conteudo_id,
+      duracao_segundos: (payload.tempoMin || 0) * 60,
+      acertos: payload.acertos || 0,
+      total_questoes: payload.questoesFeitas || 0,
+      tipo_estudo: original.origem === 'redacao' ? 'Redação' : 
+                   original.origem === 'kevquest' ? 'Questões' : 'Revisão',
+      comentario: payload.comentario || original.comentario,
+      conforto: payload.conforto || null
+    });
+
+  if (sessionError) {
+    console.error('[concluirProblema] Erro ao registrar sessão:', sessionError.message);
+  }
+
+  // 4. Agendar revisões (criar novos problemas pendentes, numerados R1, R2, R3...)
+  if (payload.revisoes && payload.revisoes.length > 0) {
+    const revisoesParaInserir = payload.revisoes.map((dias, idx) => {
+      const dataRevisao = new Date();
+      dataRevisao.setDate(dataRevisao.getDate() + dias);
+      const numRevisao = idx + 1; // R1 = 1, R2 = 2, ...
+      
+      return {
+        user_id: original.user_id,
+        origem: original.origem,
+        titulo: `R${numRevisao}: ${original.titulo}`,
+        disciplina_id: original.disciplina_id,
+        disciplina_nome: original.disciplina_nome,
+        conteudo_id: original.conteudo_id,
+        conteudo_nome: original.conteudo_nome,
+        sub_conteudo: original.sub_conteudo,
+        prova: original.prova,
+        ano: original.ano,
+        q_num: original.q_num,
+        prioridade: 0,
+        status: 'pendente',
+        agendado_para: dataRevisao.toISOString().split('T')[0],
+        numero_revisao: numRevisao,
+      };
+    });
+
+    const { error: insertError } = await supabase
+      .from('problemas_estudo')
+      .insert(revisoesParaInserir);
+
+    if (insertError) {
+      console.error('[concluirProblema] Erro ao agendar revisões:', insertError.message);
+      // Não retornamos false aqui porque o problema principal foi concluído
+    }
+  }
+
   return true;
 }
 

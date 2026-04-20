@@ -55,8 +55,9 @@ export default function ModuleTarefasSimulado({ refreshTrigger = 0 }: { refreshT
     setIsSaving(true);
     const ok = await concluirProblema(
       modalConcluir.id,
-      null, // tempo removido
-      formConcluir.conforto || null
+      {
+        conforto: formConcluir.conforto || null,
+      }
     );
     if (ok) {
       toast.success('Simulado concluído!');

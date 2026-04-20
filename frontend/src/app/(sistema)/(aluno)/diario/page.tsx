@@ -33,9 +33,28 @@ type SessaoEstudo = {
   total_questoes: number;
   tipo_estudo: string;
   comentario?: string;
+  conforto?: number;
   created_at: string;
   disciplinas?: Disciplina;
   conteudos?: Conteudo;
+};
+type KevQuestItem = {
+  id: string;
+  titulo: string;
+  prova: string | null;
+  ano: string | null;
+  q_num: string | null;
+  tipo_erro: string | null;
+  disciplina_nome: string | null;
+  conteudo_nome: string | null;
+  status: string;
+};
+type RedacaoItem = {
+  id: string;
+  status: string;
+  nota: number | null;
+  tema_titulo: string | null;
+  eixo_tematico: string | null;
 };
 
 // --- CUSTOM DROPDOWN ---
@@ -162,24 +181,35 @@ export default function HomeEstudosPage() {
   const [isLoaded, setIsLoaded] = useState(false);
   const [isSaving, setIsSaving] = useState(false);
   const [modalOpen, setModalOpen] = useState(false);
-  const [activeTab, setActiveTab] = useState<'tarefas' | 'sessoes' | 'evolucao'>(() => {
+  const [activeTab, setActiveTab] = useState<'atividades' | 'sessoes' | 'evolucao'>(() => {
     if (typeof window !== 'undefined') {
       const saved = localStorage.getItem('diario_activeTab');
       if (saved === 'evolucao') return 'evolucao';
       if (saved === 'sessoes') return 'sessoes';
     }
-    return 'tarefas';
+    return 'atividades';
   });
 
   // --- PROBLEMAS DE ESTUDO ---
   const [problemas, setProblemas] = useState<ProblemaEstudo[]>([]);
   const [userId, setUserId] = useState<string | null>(null);
-  const [modalConcluir, setModalConcluir] = useState<{ open: boolean; id: string | null }>({
-    open: false, id: null,
+  const [modalConcluir, setModalConcluir] = useState<{ open: boolean; prob: ProblemaEstudo | null }>({
+    open: false, prob: null,
   });
   const [modalNovo, setModalNovo] = useState(false);
-  const [formConcluir, setFormConcluir] = useState({ tempo: '', conforto: 0 });
-  const [formNovo, setFormNovo] = useState({ titulo: '', agendado_para: '', prioridade: 0 });
+  const [modalVincular, setModalVincular] = useState<{ open: boolean; tipo: 'kevquest' | 'redacao' | null }>({ open: false, tipo: null });
+  const [vincularItems, setVincularItems] = useState<KevQuestItem[] | RedacaoItem[]>([]);
+  const [vincularLoading, setVincularLoading] = useState(false);
+  const [formVincular, setFormVincular] = useState({ itemId: '', comentario: '' });
+  const [formConcluir, setFormConcluir] = useState({
+    tempo: '',
+    conforto: 0,
+    questoesFeitas: '',
+    acertos: '',
+    revisoes: [] as number[], // dias para revisão
+    comentario: '',
+  });
+  const [formNovo, setFormNovo] = useState({ disciplinaId: '', conteudoId: '', comentario: '' });
   const [isSavingProblema, setIsSavingProblema] = useState(false);
 
   // Timer State
@@ -188,7 +218,7 @@ export default function HomeEstudosPage() {
 
   // Filtros e Ordenação
   const [filterDisciplina, setFilterDisciplina] = useState("all");
-  const [sortKey, setSortKey] = useState<'created_at' | 'performance'>('created_at');
+  const [sortKey, setSortKey] = useState<'created_at' | 'performance' | 'conforto'>('created_at');
   const [sortDir, setSortDir] = useState<'asc' | 'desc'>('desc');
   const [isFocusMode, setIsFocusMode] = useState(false);
 
@@ -202,7 +232,8 @@ export default function HomeEstudosPage() {
     tempoH: "",
     tempoM: "",
     tipoEstudo: "misto",
-    comentario: ""
+    comentario: "",
+    conforto: 0
   });
 
   const [editingId, setEditingId] = useState<string | null>(null);
@@ -239,18 +270,25 @@ export default function HomeEstudosPage() {
   };
 
   const handleConcluirProblema = async () => {
-    if (!modalConcluir.id) return;
+    if (!modalConcluir.prob) return;
     setIsSavingProblema(true);
     const ok = await concluirProblema(
-      modalConcluir.id,
-      formConcluir.tempo ? parseInt(formConcluir.tempo) : null,
-      formConcluir.conforto || null
+      modalConcluir.prob.id,
+      {
+        tempoMin: formConcluir.tempo ? parseInt(formConcluir.tempo) : null,
+        conforto: formConcluir.conforto || null,
+        questoesFeitas: formConcluir.questoesFeitas ? parseInt(formConcluir.questoesFeitas) : 0,
+        acertos: formConcluir.acertos ? parseInt(formConcluir.acertos) : 0,
+        comentario: formConcluir.comentario || null,
+        revisoes: formConcluir.revisoes
+      }
     );
     if (ok) {
       toast.success('Problema concluído!');
       await refreshProblemas();
-      setModalConcluir({ open: false, id: null });
-      setFormConcluir({ tempo: '', conforto: 0 });
+      await fetchSessions();
+      setModalConcluir({ open: false, prob: null });
+      setFormConcluir({ tempo: '', conforto: 0, questoesFeitas: '', acertos: '', revisoes: [], comentario: '' });
     } else {
       toast.error('Erro ao concluir problema.');
     }
@@ -258,21 +296,115 @@ export default function HomeEstudosPage() {
   };
 
   const handleNovoProblema = async () => {
-    if (!userId || !formNovo.titulo.trim()) return;
+    if (!userId || !formNovo.disciplinaId) return;
     setIsSavingProblema(true);
+    const discSel = disciplinas.find(d => d.id === formNovo.disciplinaId);
+    const contSel = conteudos.find(c => c.id === formNovo.conteudoId);
+    const titulo = [discSel?.nome, contSel?.nome].filter(Boolean).join(' — ') || 'Estudo Manual';
     const novo = await criarProblemaManual({
       userId,
-      titulo: formNovo.titulo.trim(),
-      agendadoPara: formNovo.agendado_para || null,
-      prioridade: formNovo.prioridade,
+      titulo,
+      disciplinaId: formNovo.disciplinaId || null,
+      disciplinaNome: discSel?.nome ?? null,
+      conteudoId: formNovo.conteudoId || null,
+      conteudoNome: contSel?.nome ?? null,
+      comentario: formNovo.comentario.trim() || null,
     });
     if (novo) {
-      toast.success('Problema adicionado à fila!');
+      toast.success('Matéria registrada!');
       setProblemas(prev => [novo, ...prev]);
       setModalNovo(false);
-      setFormNovo({ titulo: '', agendado_para: '', prioridade: 0 });
+      setFormNovo({ disciplinaId: '', conteudoId: '', comentario: '' });
     } else {
-      toast.error('Erro ao criar problema.');
+      toast.error('Erro ao registrar.');
+    }
+    setIsSavingProblema(false);
+  };
+
+  const abrirModalVincular = async (tipo: 'kevquest' | 'redacao') => {
+    setModalVincular({ open: true, tipo });
+    setFormVincular({ itemId: '', comentario: '' });
+    setVincularItems([]);
+    setVincularLoading(true);
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) { setVincularLoading(false); return; }
+
+    if (tipo === 'kevquest') {
+      const { data } = await supabase
+        .from('problemas_estudo')
+        .select(`id, titulo, prova, ano, q_num, tipo_erro, disciplina_nome, conteudo_nome, status`)
+        .eq('user_id', user.id)
+        .or('origem.eq.kevquest,and(origem.eq.simulado,tipo_erro.not.is.null)')
+        .order('created_at', { ascending: false });
+      if (data) {
+        setVincularItems(data.map((d: any) => ({
+          id: d.id,
+          titulo: d.titulo,
+          prova: d.prova,
+          ano: d.ano,
+          q_num: d.q_num,
+          tipo_erro: d.tipo_erro,
+          disciplina_nome: d.disciplina_nome,
+          conteudo_nome: d.conteudo_nome,
+          status: d.status,
+        })) as KevQuestItem[]);
+      }
+    } else {
+      const { data } = await supabase
+        .from('redacoes_aluno')
+        .select(`id, status, nota, temas_redacao(titulo, eixo_tematico)`)
+        .eq('aluno_id', user.id)
+        .in('status', ['ANALISADA', 'analisada'])
+        .order('created_at', { ascending: false });
+      if (data) {
+        setVincularItems(data.map((d: any) => ({
+          id: d.id,
+          status: d.status,
+          nota: d.nota,
+          tema_titulo: d.temas_redacao?.titulo ?? null,
+          eixo_tematico: d.temas_redacao?.eixo_tematico ?? null,
+        })) as RedacaoItem[]);
+      }
+    }
+    setVincularLoading(false);
+  };
+
+  const handleVincular = async () => {
+    if (!userId || !formVincular.itemId || !modalVincular.tipo) return;
+    setIsSavingProblema(true);
+
+    let titulo = '';
+    let origemRefId = formVincular.itemId;
+    
+    if (modalVincular.tipo === 'kevquest') {
+      const item = (vincularItems as KevQuestItem[]).find(i => i.id === formVincular.itemId);
+      if (item) {
+        titulo = item.titulo || 'Questão KevQuest';
+      }
+    } else {
+      const item = (vincularItems as RedacaoItem[]).find(i => i.id === formVincular.itemId);
+      if (item) {
+        titulo = item.tema_titulo || `Redação ${item.status}`;
+      }
+    }
+
+    const novo = await criarProblemaManual({
+      userId,
+      origem: modalVincular.tipo,
+      origemRefId,
+      titulo,
+      comentario: formVincular.comentario.trim() || null,
+      agendadoPara: null,
+      prioridade: 0,
+    });
+    if (novo) {
+      toast.success('Vinculado com sucesso!');
+      setProblemas(prev => [novo, ...prev]);
+      setModalVincular({ open: false, tipo: null });
+      setFormVincular({ itemId: '', comentario: '' });
+      setVincularItems([]);
+    } else {
+      toast.error('Erro ao vincular.');
     }
     setIsSavingProblema(false);
   };
@@ -353,7 +485,8 @@ export default function HomeEstudosPage() {
       acertos: parseInt(acertos) || 0,
       total_questoes: parseInt(questoesFeitas) || 0,
       tipo_estudo: tipoEstudo,
-      comentario: comentario.trim() || null
+      comentario: comentario.trim() || null,
+      conforto: form.conforto > 0 ? form.conforto : null
     };
 
     let error;
@@ -372,7 +505,7 @@ export default function HomeEstudosPage() {
       setModalOpen(false);
       setEditingId(null);
       setSeconds(0);
-      setForm({ data: format(new Date(), 'yyyy-MM-dd'), disciplinaId: "", conteudoId: "", questoesFeitas: "", acertos: "", tempoH: "", tempoM: "", tipoEstudo: "misto", comentario: "" });
+      setForm({ data: format(new Date(), 'yyyy-MM-dd'), disciplinaId: "", conteudoId: "", questoesFeitas: "", acertos: "", tempoH: "", tempoM: "", tipoEstudo: "misto", comentario: "", conforto: 0 });
       await fetchSessions();
     }
     setIsSaving(false);
@@ -391,7 +524,8 @@ export default function HomeEstudosPage() {
       tempoH: h.toString(),
       tempoM: m.toString(),
       tipoEstudo: e.tipo_estudo || "misto",
-      comentario: e.comentario || ""
+      comentario: e.comentario || "",
+      conforto: e.conforto || 0
     });
     setModalOpen(true);
   };
@@ -408,7 +542,7 @@ export default function HomeEstudosPage() {
     }
   };
 
-  const toggleSort = (key: 'created_at' | 'performance') => {
+  const toggleSort = (key: 'created_at' | 'performance' | 'conforto') => {
     if (sortKey === key) {
       setSortDir(prev => prev === 'desc' ? 'asc' : 'desc');
     } else {
@@ -423,6 +557,11 @@ export default function HomeEstudosPage() {
       const dir = sortDir === 'desc' ? -1 : 1;
       if (sortKey === 'created_at') {
         return (new Date(a.created_at).getTime() - new Date(b.created_at).getTime()) * dir;
+      }
+      if (sortKey === 'conforto') {
+        const valA = a.conforto || 0;
+        const valB = b.conforto || 0;
+        return (valA - valB) * dir;
       }
       const pA = a.total_questoes > 0 ? a.acertos / a.total_questoes : 0;
       const pB = b.total_questoes > 0 ? b.acertos / b.total_questoes : 0;
@@ -453,13 +592,6 @@ export default function HomeEstudosPage() {
             <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em]">Central de Problemas</p>
           </div>
         </div>
-        <button
-          onClick={() => setModalNovo(true)}
-          className="flex items-center gap-2 bg-[#F97316] hover:bg-orange-600 text-white font-black px-5 py-3 rounded-2xl text-sm uppercase tracking-widest transition-all active:scale-95 shadow-lg shadow-orange-500/20"
-        >
-          <Plus className="w-4 h-4" />
-          <span className="hidden sm:inline">Novo Problema</span>
-        </button>
       </header>
 
       <div className="flex flex-col gap-8">
@@ -467,14 +599,14 @@ export default function HomeEstudosPage() {
         {/* TAB CONTROLS */}
         <div className="bg-white dark:bg-[#1C1C1E] p-2 rounded-[2rem] flex items-center w-full border border-slate-100 dark:border-[#2C2C2E] shadow-sm mb-2">
           <button
-            onClick={() => { setActiveTab('tarefas'); localStorage.setItem('diario_activeTab', 'tarefas'); }}
+            onClick={() => { setActiveTab('atividades'); localStorage.setItem('diario_activeTab', 'atividades'); }}
             className={`flex-1 py-4 text-sm font-black rounded-[1.8rem] transition-all duration-200 uppercase tracking-[0.18em] ${
-              activeTab === 'tarefas'
+              activeTab === 'atividades'
                 ? 'bg-[#1B2B5E] text-white shadow-lg shadow-[#1B2B5E]/20'
                 : 'text-slate-400 dark:text-[#A1A1AA] hover:text-slate-600 dark:hover:text-white'
             }`}
           >
-            Tarefas
+            Atividades
           </button>
           <button
             onClick={() => { setActiveTab('sessoes'); localStorage.setItem('diario_activeTab', 'sessoes'); }}
@@ -503,69 +635,70 @@ export default function HomeEstudosPage() {
              <SummaryCards />
              <EvolutionCharts />
           </div>
-        ) : activeTab === 'tarefas' ? (
+        ) : activeTab === 'atividades' ? (
           (() => {
-            const hoje = new Date().toISOString().split('T')[0];
-            const paraHoje = problemas.filter(p => p.status === 'pendente' && p.agendado_para === hoje);
-            const fila = problemas.filter(p => p.status === 'pendente' && p.agendado_para !== hoje);
-            const concluidos = problemas.filter(p => p.status === 'concluido').slice(0, 8);
-            const metaBatida = paraHoje.length > 0 && paraHoje.every(p => p.status === 'concluido');
+            const pendingKevquest = problemas.filter(p => p.status === 'pendente' && p.origem === 'kevquest' && !p.numero_revisao);
+            const pendingRedacao = problemas.filter(p => p.status === 'pendente' && p.origem === 'redacao' && !p.numero_revisao);
+            const pendingMaterias = problemas.filter(p => p.status === 'pendente' && p.origem === 'manual' && !p.numero_revisao);
+            const concluidos = problemas.filter(p => p.status === 'concluido' && !p.numero_revisao).slice(0, 8);
 
             const ProblemaCard = ({ prob, showDate = true }: { prob: ProblemaEstudo; showDate?: boolean }) => {
               const cor = ORIGEM_COLORS[prob.origem];
               return (
-                <div className={`bg-white dark:bg-[#1C1C1E] rounded-2xl p-5 border transition-all hover:shadow-md ${
+                <div className={`bg-white dark:bg-[#1C1C1E] rounded-2xl p-5 border transition-all hover:shadow-md flex flex-col justify-between h-full ${
                   prob.prioridade === 1
                     ? 'border-orange-200 dark:border-orange-500/30'
                     : 'border-slate-100 dark:border-[#2C2C2E]'
                 }`}>
-                  <div className="flex items-start justify-between gap-3">
-                    <div className="flex flex-wrap gap-2 mb-2">
-                      <span className={`text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full ${cor.bg} ${cor.text} ${cor.darkBg} ${cor.darkText}`}>
-                        {ORIGEM_LABELS[prob.origem]}
-                      </span>
-                      {prob.prioridade === 1 && (
-                        <span className="text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full bg-orange-100 text-orange-600 dark:bg-orange-900/30 dark:text-orange-400">
-                          Urgente
+                  <div>
+                    <div className="flex items-start justify-between gap-3">
+                      <div className="flex flex-wrap gap-2 mb-2">
+                        <span className={`text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full ${cor.bg} ${cor.text} ${cor.darkBg} ${cor.darkText}`}>
+                          {ORIGEM_LABELS[prob.origem]}
                         </span>
-                      )}
-                      {prob.tipo_erro && (
-                        <span className={`text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full ${
-                          TIPO_ERRO_COLORS[prob.tipo_erro].bg
-                        } ${TIPO_ERRO_COLORS[prob.tipo_erro].text}`}>
-                          {TIPO_ERRO_LABELS[prob.tipo_erro]}
-                        </span>
-                      )}
+                        {prob.prioridade === 1 && (
+                          <span className="text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full bg-orange-100 text-orange-600 dark:bg-orange-900/30 dark:text-orange-400">
+                            Urgente
+                          </span>
+                        )}
+                        {prob.tipo_erro && (
+                          <span className={`text-[10px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full ${
+                            TIPO_ERRO_COLORS[prob.tipo_erro].bg
+                          } ${TIPO_ERRO_COLORS[prob.tipo_erro].text}`}>
+                            {TIPO_ERRO_LABELS[prob.tipo_erro]}
+                          </span>
+                        )}
+                      </div>
+                      <button
+                        onClick={() => handleDeletarProblema(prob.id)}
+                        className="p-1.5 text-slate-300 hover:text-rose-500 dark:text-slate-600 dark:hover:text-rose-400 flex-shrink-0 transition-colors"
+                      >
+                        <Trash className="w-3.5 h-3.5" />
+                      </button>
                     </div>
-                    <button
-                      onClick={() => handleDeletarProblema(prob.id)}
-                      className="p-1.5 text-slate-300 hover:text-rose-500 dark:text-slate-600 dark:hover:text-rose-400 flex-shrink-0 transition-colors"
-                    >
-                      <Trash className="w-3.5 h-3.5" />
-                    </button>
+                    <p className="font-black text-slate-800 dark:text-white text-sm leading-snug mb-2">
+                      {prob.titulo}
+                    </p>
+                    {(prob.prova || prob.ano || prob.q_num) && (
+                      <div className="flex flex-wrap gap-x-3 gap-y-1 text-[11px] text-slate-400 dark:text-slate-500 mb-3">
+                        {prob.prova && <span>{prob.prova}</span>}
+                        {prob.ano && <span>· {prob.ano}</span>}
+                        {prob.cor_prova && <span>· Cor {prob.cor_prova}</span>}
+                        {prob.q_num && <span>· Q.{prob.q_num}</span>}
+                      </div>
+                    )}
+                    {prob.comentario && (
+                      <p className="text-xs text-slate-400 italic mb-3 line-clamp-2">"{prob.comentario}"</p>
+                    )}
                   </div>
-                  <p className="font-black text-slate-800 dark:text-white text-sm leading-snug mb-2">
-                    {prob.titulo}
-                  </p>
-                  {(prob.prova || prob.ano || prob.q_num) && (
-                    <div className="flex flex-wrap gap-x-3 gap-y-1 text-[11px] text-slate-400 dark:text-slate-500 mb-3">
-                      {prob.prova && <span>{prob.prova}</span>}
-                      {prob.ano && <span>· {prob.ano}</span>}
-                      {prob.cor_prova && <span>· Cor {prob.cor_prova}</span>}
-                      {prob.q_num && <span>· Q.{prob.q_num}</span>}
-                    </div>
-                  )}
-                  {prob.comentario && (
-                    <p className="text-xs text-slate-400 italic mb-3 line-clamp-2">"{prob.comentario}"</p>
-                  )}
-                  <div className="flex items-center justify-between mt-3">
+                  <div className="flex items-center justify-between mt-4">
                     {showDate && prob.agendado_para ? (
                       <span className="text-[10px] text-slate-400">
                         Agendado: {new Date(prob.agendado_para + 'T12:00:00').toLocaleDateString('pt-BR')}
                       </span>
                     ) : <span />}
                     <button
-                      onClick={() => { setModalConcluir({ open: true, id: prob.id }); }}
+                      onClick={() => { setModalConcluir({ open: true, prob: prob }); }}
                       className="flex items-center gap-1.5 bg-[#1B2B5E] hover:bg-blue-900 text-white text-xs font-black px-4 py-2 rounded-xl uppercase tracking-widest transition-all active:scale-95"
                     >
                       <CheckCircle2 className="w-3.5 h-3.5" /> Concluir
@@ -577,81 +710,98 @@ export default function HomeEstudosPage() {
 
             return (
               <div className="space-y-8 animate-in fade-in duration-500">
-                {/* Para Hoje */}
+                {/* 1. KevQuest */}
                 <div>
-                  <div className="flex items-center gap-3 mb-4">
-                    <div className="w-8 h-8 rounded-xl bg-[#F97316]/10 flex items-center justify-center">
-                      <AlertCircle className="w-4 h-4 text-[#F97316]" />
-                    </div>
-                    <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
-                      Para Hoje
-                    </h2>
-                    <span className="text-xs font-black text-slate-400">({paraHoje.length})</span>
-                    {metaBatida && (
-                      <span className="ml-auto text-xs font-black text-emerald-500 flex items-center gap-1">
-                        <Star className="w-3.5 h-3.5 fill-current" /> Meta Batida!
-                      </span>
-                    )}
-                  </div>
-                  {paraHoje.length === 0 ? (
-                    <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-6 border border-slate-100 dark:border-[#2C2C2E] text-center text-slate-400 text-sm">
-                      Nenhum problema agendado para hoje.
-                    </div>
-                  ) : (
-                    <div className="grid gap-3 md:grid-cols-2">
-                      {paraHoje.map(p => <ProblemaCard key={p.id} prob={p} showDate={false} />)}
-                    </div>
-                  )}
-                </div>
-
-                {/* Fila */}
-                <div>
-                  <div className="flex items-center gap-3 mb-4">
-                    <div className="w-8 h-8 rounded-xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center">
-                      <Inbox className="w-4 h-4 text-slate-500" />
-                    </div>
-                    <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
-                      Fila de Problemas
-                    </h2>
-                    <span className="text-xs font-black text-slate-400">({fila.length})</span>
-                  </div>
-                  {fila.length === 0 ? (
-                    <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-6 border border-slate-100 dark:border-[#2C2C2E] text-center">
-                      <p className="text-slate-400 text-sm font-bold">Fila limpa. Você está em dia. ✅</p>
-                    </div>
-                  ) : (
-                    <div className="grid gap-3 md:grid-cols-2">
-                      {fila.map(p => <ProblemaCard key={p.id} prob={p} />)}
-                    </div>
-                  )}
-                </div>
-
-                {/* Concluídos */}
-                {concluidos.length > 0 && (
-                  <div>
-                    <div className="flex items-center gap-3 mb-4">
-                      <div className="w-8 h-8 rounded-xl bg-emerald-50 dark:bg-emerald-900/20 flex items-center justify-center">
-                        <CheckCircle2 className="w-4 h-4 text-emerald-500" />
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="flex items-center gap-3">
+                      <div className="w-8 h-8 rounded-xl bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+                        <Target className="w-4 h-4 text-blue-600 dark:text-blue-400" />
                       </div>
                       <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
-                        Concluídos Recentes
+                        Questões (KevQuest)
                       </h2>
+                      <span className="text-xs font-black text-slate-400">({pendingKevquest.length})</span>
                     </div>
-                    <div className="grid gap-3 md:grid-cols-2 opacity-60">
-                      {concluidos.map(p => (
-                        <div key={p.id} className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-4 border border-slate-100 dark:border-[#2C2C2E] flex items-center gap-3">
-                          <CheckCircle2 className="w-5 h-5 text-emerald-500 flex-shrink-0" />
-                          <div className="min-w-0">
-                            <p className="font-bold text-sm text-slate-600 dark:text-slate-400 truncate">{p.titulo}</p>
-                            {p.tempo_gasto_min && (
-                              <p className="text-[11px] text-slate-400">{p.tempo_gasto_min} min{p.conforto ? ` · ${p.conforto}★` : ''}</p>
-                            )}
-                          </div>
-                        </div>
-                      ))}
-                    </div>
+                    <button
+                      onClick={() => abrirModalVincular('kevquest')}
+                      className="flex items-center gap-2 bg-blue-50 dark:bg-blue-900/20 hover:bg-blue-100 dark:hover:bg-blue-900/40 text-blue-600 dark:text-blue-400 font-black px-4 py-2 rounded-xl text-xs uppercase tracking-widest transition-all active:scale-95 border border-blue-100 dark:border-blue-900/30"
+                    >
+                      <Plus className="w-3.5 h-3.5" />
+                      <span className="hidden sm:inline">Vincular</span>
+                    </button>
                   </div>
-                )}
+                  {pendingKevquest.length === 0 ? (
+                    <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-6 border border-slate-100 dark:border-[#2C2C2E] text-center text-slate-400 text-sm font-medium">
+                      Nenhuma questão pendente do KevQuest.
+                    </div>
+                  ) : (
+                    <div className="grid gap-3 md:grid-cols-2">
+                      {pendingKevquest.map(p => <ProblemaCard key={p.id} prob={p} />)}
+                    </div>
+                  )}
+                </div>
+
+                {/* 2. Redação */}
+                <div>
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="flex items-center gap-3">
+                      <div className="w-8 h-8 rounded-xl bg-orange-100 dark:bg-orange-900/30 flex items-center justify-center">
+                        <PenTool className="w-4 h-4 text-orange-600 dark:text-orange-400" />
+                      </div>
+                      <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
+                        Lacunas de Redação
+                      </h2>
+                      <span className="text-xs font-black text-slate-400">({pendingRedacao.length})</span>
+                    </div>
+                    <button
+                      onClick={() => abrirModalVincular('redacao')}
+                      className="flex items-center gap-2 bg-orange-50 dark:bg-orange-900/20 hover:bg-orange-100 dark:hover:bg-orange-900/40 text-orange-600 dark:text-orange-400 font-black px-4 py-2 rounded-xl text-xs uppercase tracking-widest transition-all active:scale-95 border border-orange-100 dark:border-orange-900/30"
+                    >
+                      <Plus className="w-3.5 h-3.5" />
+                      <span className="hidden sm:inline">Vincular</span>
+                    </button>
+                  </div>
+                  {pendingRedacao.length === 0 ? (
+                    <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-6 border border-slate-100 dark:border-[#2C2C2E] text-center text-slate-400 text-sm font-medium">
+                      Nenhuma lacuna de redação pendente.
+                    </div>
+                  ) : (
+                    <div className="grid gap-3 md:grid-cols-2">
+                      {pendingRedacao.map(p => <ProblemaCard key={p.id} prob={p} />)}
+                    </div>
+                  )}
+                </div>
+
+                {/* 3. Matérias */}
+                <div>
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="flex items-center gap-3">
+                      <div className="w-8 h-8 rounded-xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center">
+                        <BookOpen className="w-4 h-4 text-slate-500 dark:text-slate-400" />
+                      </div>
+                      <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
+                        Estudo de Matérias
+                      </h2>
+                      <span className="text-xs font-black text-slate-400">({pendingMaterias.length})</span>
+                    </div>
+                    <button
+                      onClick={() => setModalNovo(true)}
+                      className="flex items-center gap-2 bg-slate-700 hover:bg-slate-800 dark:bg-slate-600 dark:hover:bg-slate-500 text-white font-black px-4 py-2 rounded-xl text-xs uppercase tracking-widest transition-all active:scale-95 shadow-md"
+                    >
+                      <Plus className="w-3.5 h-3.5" />
+                      <span className="hidden sm:inline">Registrar Manual</span>
+                    </button>
+                  </div>
+                  {pendingMaterias.length === 0 ? (
+                    <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-6 border border-slate-100 dark:border-[#2C2C2E] text-center text-slate-400 text-sm font-medium">
+                      Nenhuma matéria adicionada para estudo.
+                    </div>
+                  ) : (
+                    <div className="grid gap-3 md:grid-cols-2">
+                      {pendingMaterias.map(p => <ProblemaCard key={p.id} prob={p} />)}
+                    </div>
+                  )}
+                </div>
               </div>
             );
           })()
@@ -696,11 +846,6 @@ export default function HomeEstudosPage() {
                     </div>
                     <div className="hidden sm:block w-px h-8 md:h-10 bg-slate-200 dark:bg-white/5 mx-1 md:mx-2"></div>
                     <div className="flex items-center gap-2">
-                      <button onClick={() => { setIsRunning(false); setModalOpen(true); }} className="bg-indigo-600 hover:bg-indigo-700 text-white font-black px-4 md:px-6 py-3 md:py-4 rounded-xl md:rounded-2xl text-xs uppercase tracking-[0.15em] md:tracking-[0.2em] flex items-center gap-2 active:scale-95 transition-all">
-                        <Plus className="w-4 h-4" />
-                        <span className="hidden sm:inline">Registro Manual</span>
-                        <span className="sm:hidden">Manual</span>
-                      </button>
                       <button onClick={() => setIsFocusMode(true)} className="w-11 h-11 md:w-14 md:h-14 bg-slate-900 text-white rounded-xl md:rounded-2xl flex items-center justify-center active:scale-95 transition-all">
                         <Maximize2 className="w-5 h-5 md:w-6 md:h-6" />
                       </button>
@@ -712,7 +857,7 @@ export default function HomeEstudosPage() {
             {/* HISTORICO */}
             <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] md:rounded-[2.5rem] p-4 md:p-8 border border-slate-100 dark:border-slate-800 shadow-sm">
                <div className="flex flex-col md:flex-row justify-between mb-6 md:mb-8 gap-3 md:gap-4">
-                  <h2 className="text-lg md:text-xl font-black text-slate-800 dark:text-white uppercase tracking-tighter">Meu Progresso Histórico</h2>
+                  <h2 className="text-lg md:text-xl font-black text-slate-800 dark:text-white uppercase tracking-tighter">Histórico de Sessões</h2>
                   <div className="flex items-center gap-3 md:gap-4">
                      <CustomDropdown
                        value={filterDisciplina}
@@ -740,10 +885,15 @@ export default function HomeEstudosPage() {
                           </button>
                         </th>
                         <th className="pb-4 px-4 text-[10px] font-black text-slate-400 uppercase tracking-widest">Disciplina / Conteúdo</th>
-                        <th className="pb-4 px-4 text-center">
-                          <button onClick={() => toggleSort('performance')} className={`flex items-center justify-center gap-2 text-[10px] font-black uppercase tracking-widest ${sortKey === 'performance' ? 'text-indigo-500' : 'text-slate-400'}`}>
+                        <th className="pb-4 px-4 text-center text-[10px] font-black text-slate-400 uppercase tracking-widest">
+                          <button onClick={() => toggleSort('performance')} className={`mx-auto flex items-center justify-center gap-2 text-[10px] font-black uppercase tracking-widest ${sortKey === 'performance' ? 'text-indigo-500' : 'text-slate-400'}`}>
                             Performance {sortKey === 'performance' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3"/> : <ArrowUp className="w-3 h-3"/>)}
                           </button>
+                        </th>
+                        <th className="pb-4 px-4 text-center text-[10px] font-black text-slate-400 uppercase tracking-widest">
+                           <button onClick={() => toggleSort('conforto')} className={`mx-auto flex items-center justify-center gap-2 text-[10px] font-black uppercase tracking-widest ${sortKey === 'conforto' ? 'text-indigo-500' : 'text-slate-400'}`}>
+                             Avaliação {sortKey === 'conforto' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3"/> : <ArrowUp className="w-3 h-3"/>)}
+                           </button>
                         </th>
                         <th className="pb-4 px-4 text-right text-[10px] font-black text-slate-400 uppercase tracking-widest">Ações</th>
                      </tr>
@@ -771,6 +921,13 @@ export default function HomeEstudosPage() {
                                 {p}% • {e.acertos}/{e.total_questoes}
                               </div>
                             </td>
+                            <td className="py-5 px-4 text-center">
+                               <div className="flex justify-center gap-0.5">
+                                 {[1, 2, 3, 4, 5].map(n => (
+                                   <Star key={n} className={`w-3 h-3 ${e.conforto && e.conforto >= n ? 'text-amber-400 fill-amber-400' : 'text-slate-200 dark:text-slate-700'}`} />
+                                 ))}
+                               </div>
+                             </td>
                            <td className="py-5 px-4 text-right opacity-0 group-hover:opacity-100 transition-opacity">
                               <div className="flex items-center justify-end gap-1">
                                  <button onClick={() => handleEdit(e)} className="p-2 text-slate-400 hover:text-amber-500"><Edit2 className="w-4 h-4"/></button>
@@ -810,9 +967,16 @@ export default function HomeEstudosPage() {
                        {e.comentario && (
                          <div className="text-xs text-indigo-500 dark:text-indigo-400 mb-3 max-h-16 overflow-y-auto italic font-medium">"{e.comentario}"</div>
                        )}
-                       {e.total_questoes > 0 && (
-                         <div className="text-xs text-slate-500 mb-3">{e.acertos}/{e.total_questoes} acertos</div>
-                       )}
+                       <div className="flex items-center gap-3 mb-3">
+                          <div className="flex gap-0.5">
+                              {[1, 2, 3, 4, 5].map(n => (
+                                <Star key={n} className={`w-3 h-3 ${e.conforto && e.conforto >= n ? 'text-amber-400 fill-amber-400' : 'text-slate-200 dark:text-slate-700'}`} />
+                              ))}
+                           </div>
+                           {e.total_questoes > 0 && (
+                             <div className="text-xs text-slate-500">{e.acertos}/{e.total_questoes} acertos</div>
+                           )}
+                       </div>
                        {/* Ações sempre visíveis no mobile */}
                        <div className="flex gap-2 pt-2 border-t border-slate-100 dark:border-white/5">
                          <button onClick={() => handleEdit(e)} className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-xl bg-amber-50 dark:bg-amber-900/20 text-amber-600 dark:text-amber-400 text-xs font-bold active:scale-95 transition-all">
@@ -915,6 +1079,26 @@ export default function HomeEstudosPage() {
                       <textarea value={form.comentario} onChange={e => setForm({...form, comentario: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800 p-4 rounded-2xl text-sm font-medium outline-none border border-slate-200 dark:border-slate-700 focus:border-indigo-500 resize-none text-slate-800 dark:text-white" rows={3} placeholder="Escreva observações aqui..."></textarea>
                    </div>
 
+                   <div className="space-y-3">
+                      <label className="text-xs font-black text-slate-400 uppercase">Avaliação da Sessão</label>
+                      <div className="flex gap-2">
+                        {[1, 2, 3, 4, 5].map(n => (
+                          <button
+                            key={n}
+                            type="button"
+                            onClick={() => setForm(f => ({ ...f, conforto: f.conforto === n ? 0 : n }))}
+                            className={`flex-1 py-4 rounded-2xl text-sm font-black transition-all ${
+                              form.conforto >= n
+                                ? 'bg-amber-400 text-amber-950 shadow-lg shadow-amber-400/20'
+                                : 'bg-slate-50 dark:bg-slate-800 text-slate-400 border border-slate-100 dark:border-white/5'
+                            }`}
+                          >
+                            {n}★
+                          </button>
+                        ))}
+                      </div>
+                   </div>
+
                    <button disabled={isSaving} type="submit" className="w-full py-5 bg-indigo-600 text-white font-black rounded-2xl shadow-xl flex items-center justify-center gap-2">
                      {isSaving ? <Loader2 className="animate-spin w-5 h-5"/> : <CheckSquare className="w-5 h-5"/>}
                      {editingId ? "Atualizar Registro" : "Finalizar e Salvar"}
@@ -949,42 +1133,135 @@ export default function HomeEstudosPage() {
 
       {/* MODAL — CONCLUIR PROBLEMA */}
       <AnimatePresence>
-        {modalConcluir.open && (
+        {modalConcluir.open && modalConcluir.prob && (
           <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
             <motion.div
-              initial={{ scale: 0.9, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 0.9, opacity: 0 }}
-              className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-sm shadow-2xl p-8"
+              initial={{ scale: 0.9, opacity: 0, y: 20 }}
+              animate={{ scale: 1, opacity: 1, y: 0 }}
+              exit={{ scale: 0.9, opacity: 0, y: 20 }}
+              className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-w-md shadow-2xl p-8 border border-slate-200 dark:border-slate-800"
             >
-              <div className="flex items-center justify-between mb-6">
-                <h2 className="text-xl font-black text-slate-800 dark:text-white">Concluir Problema</h2>
-                <button onClick={() => setModalConcluir({ open: false, id: null })} className="text-slate-400 hover:text-slate-700"><X /></button>
-              </div>
-              <div className="space-y-5">
+              <div className="flex items-center justify-between mb-8">
                 <div>
-                  <label className="text-xs font-black uppercase tracking-widest text-slate-500 mb-2 block">Tempo gasto (minutos)</label>
-                  <input
-                    type="number"
-                    min="1"
-                    value={formConcluir.tempo}
-                    onChange={e => setFormConcluir(f => ({ ...f, tempo: e.target.value }))}
-                    placeholder="Ex: 45"
-                    className="w-full px-4 py-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-2 focus:ring-[#1B2B5E]/20"
-                  />
+                  <h2 className="text-xl font-black text-slate-800 dark:text-white">Concluir Estudo</h2>
+                  <p className="text-xs text-slate-400 font-bold mt-1 uppercase tracking-wider">{modalConcluir.prob.titulo}</p>
                 </div>
+                <button onClick={() => setModalConcluir({ open: false, prob: null })} className="p-2 bg-slate-100 dark:bg-slate-800 rounded-full text-slate-400 hover:text-slate-700 dark:hover:text-white transition-colors"><X className="w-5 h-5"/></button>
+              </div>
+
+              <div className="space-y-6">
+                {/* TEMPO */}
                 <div>
-                  <label className="text-xs font-black uppercase tracking-widest text-slate-500 mb-2 block">Nível de conforto (opcional)</label>
+                  <label className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2 block">Quanto tempo você estudou? (min)</label>
+                  <div className="relative">
+                    <Clock className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-slate-400" />
+                    <input
+                      type="number"
+                      min="1"
+                      value={formConcluir.tempo}
+                      onChange={e => setFormConcluir(f => ({ ...f, tempo: e.target.value }))}
+                      placeholder="Ex: 45"
+                      className="w-full pl-12 pr-4 py-4 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-4 focus:ring-indigo-500/10 font-bold transition-all"
+                    />
+                  </div>
+                </div>
+
+                {/* REDAÇÃO: COMENTÁRIO */}
+                {modalConcluir.prob.origem === 'redacao' ? (
+                  <div>
+                    <label className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2 block">Comentários / Observações</label>
+                    <textarea
+                      rows={3}
+                      value={formConcluir.comentario}
+                      onChange={e => setFormConcluir(f => ({ ...f, comentario: e.target.value }))}
+                      placeholder="Quais pontos você focou nesta revisão?"
+                      className="w-full px-4 py-4 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-4 focus:ring-indigo-500/10 font-bold transition-all resize-none"
+                    />
+                  </div>
+                ) : (
+                  /* KEVQUEST / MANUAL: QUESTÕES E ACERTOS */
+                  <div className="grid grid-cols-2 gap-4">
+                    <div>
+                      <label className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2 block">Nº Questões</label>
+                      <input
+                        type="number"
+                        value={formConcluir.questoesFeitas}
+                        onChange={e => setFormConcluir(f => ({ ...f, questoesFeitas: e.target.value }))}
+                        placeholder="0"
+                        className="w-full px-4 py-4 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-4 focus:ring-indigo-500/10 font-bold text-center"
+                      />
+                    </div>
+                    <div>
+                      <label className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2 block">Acertos</label>
+                      <input
+                        type="number"
+                        value={formConcluir.acertos}
+                        onChange={e => setFormConcluir(f => ({ ...f, acertos: e.target.value }))}
+                        placeholder="0"
+                        className="w-full px-4 py-4 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-4 focus:ring-indigo-500/10 font-bold text-center"
+                      />
+                    </div>
+                  </div>
+                )}
+
+                {/* REVISÃO ESPAÇADA */}
+                <div>
+                  <label className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2 block">Agendar próximas revisões</label>
+                  <div className="grid grid-cols-4 gap-2">
+                    {[3, 7, 30, 'Outra'].map(days => (
+                      <button
+                        key={days}
+                        type="button"
+                        onClick={() => {
+                          if (days === 'Outra') {
+                            const val = prompt('Em quantos dias você quer revisar?');
+                            if (val && !isNaN(parseInt(val))) {
+                              const d = parseInt(val);
+                              setFormConcluir(f => ({
+                                ...f,
+                                revisoes: f.revisoes.includes(d) ? f.revisoes.filter(x => x !== d) : [...f.revisoes, d]
+                              }));
+                            }
+                          } else {
+                            const d = days as number;
+                            setFormConcluir(f => ({
+                              ...f,
+                              revisoes: f.revisoes.includes(d) ? f.revisoes.filter(x => x !== d) : [...f.revisoes, d]
+                            }));
+                          }
+                        }}
+                        className={`py-3 rounded-xl text-[10px] font-black transition-all border ${
+                          (days === 'Outra' ? false : formConcluir.revisoes.includes(days as number))
+                            ? 'bg-indigo-600 border-indigo-600 text-white shadow-lg shadow-indigo-600/20'
+                            : 'bg-white dark:bg-slate-800 border-slate-200 dark:border-slate-700 text-slate-500'
+                        }`}
+                      >
+                        {days === 'Outra' ? 'Outra' : `D+${days}`}
+                      </button>
+                    ))}
+                  </div>
+                  {formConcluir.revisoes.length > 0 && (
+                    <div className="mt-2 flex flex-wrap gap-1">
+                       {formConcluir.revisoes.map(r => (
+                         <span key={r} className="text-[9px] bg-emerald-50 text-emerald-600 dark:bg-emerald-900/30 dark:text-emerald-400 px-2 py-0.5 rounded-full font-bold">D+{r}</span>
+                       ))}
+                    </div>
+                  )}
+                </div>
+
+                {/* CONFORTO */}
+                <div>
+                  <label className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2 block">Nível de segurança com o tema</label>
                   <div className="flex gap-2">
-                    {[1,2,3,4,5].map(n => (
+                    {[1, 2, 3, 4, 5].map(n => (
                       <button
                         key={n}
                         type="button"
                         onClick={() => setFormConcluir(f => ({ ...f, conforto: f.conforto === n ? 0 : n }))}
-                        className={`flex-1 py-2 rounded-xl text-sm font-black transition-all ${
+                        className={`flex-1 py-3 rounded-xl text-sm font-black transition-all ${
                           formConcluir.conforto >= n
-                            ? 'bg-[#F97316] text-white'
-                            : 'bg-slate-100 dark:bg-slate-700 text-slate-400'
+                            ? 'bg-amber-400 text-amber-950'
+                            : 'bg-slate-100 dark:bg-slate-800 text-slate-400'
                         }`}
                       >
                         {n}★
@@ -993,20 +1270,21 @@ export default function HomeEstudosPage() {
                   </div>
                 </div>
               </div>
-              <div className="flex gap-3 mt-8">
+
+              <div className="flex gap-3 mt-10">
                 <button
-                  onClick={() => setModalConcluir({ open: false, id: null })}
-                  className="flex-1 py-3 rounded-xl border border-slate-200 dark:border-slate-700 text-slate-500 font-black text-sm"
+                  onClick={() => setModalConcluir({ open: false, prob: null })}
+                  className="flex-1 py-4 rounded-2xl border border-slate-200 dark:border-slate-700 text-slate-500 font-black text-xs uppercase tracking-widest transition-all hover:bg-slate-50 dark:hover:bg-slate-800"
                 >
                   Cancelar
                 </button>
                 <button
                   onClick={handleConcluirProblema}
-                  disabled={isSavingProblema}
-                  className="flex-1 py-3 rounded-xl bg-[#1B2B5E] text-white font-black text-sm flex items-center justify-center gap-2 disabled:opacity-60"
+                  disabled={isSavingProblema || !formConcluir.tempo}
+                  className="flex-1 py-4 rounded-2xl bg-[#1B2B5E] text-white font-black text-xs uppercase tracking-widest flex items-center justify-center gap-2 disabled:opacity-60 shadow-xl shadow-[#1B2B5E]/20 transition-all hover:scale-[1.02] active:scale-95"
                 >
                   {isSavingProblema ? <Loader2 className="w-4 h-4 animate-spin" /> : <CheckCircle2 className="w-4 h-4" />}
-                  Concluído
+                  Concluir Estudo
                 </button>
               </div>
             </motion.div>
@@ -1025,48 +1303,50 @@ export default function HomeEstudosPage() {
               className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-sm shadow-2xl p-8"
             >
               <div className="flex items-center justify-between mb-6">
-                <h2 className="text-xl font-black text-slate-800 dark:text-white">Novo Problema</h2>
+                <h2 className="text-xl font-black text-slate-800 dark:text-white">Registrar Manual</h2>
                 <button onClick={() => setModalNovo(false)} className="text-slate-400 hover:text-slate-700"><X /></button>
               </div>
               <div className="space-y-4">
                 <div>
-                  <label className="text-xs font-black uppercase tracking-widest text-slate-500 mb-2 block">O que precisa ser resolvido? *</label>
-                  <input
+                  <label className="text-xs font-black uppercase tracking-widest text-slate-500 mb-2 block">Disciplina *</label>
+                  <select
                     autoFocus
-                    type="text"
-                    value={formNovo.titulo}
-                    onChange={e => setFormNovo(f => ({ ...f, titulo: e.target.value }))}
-                    placeholder="Ex: Geometria Espacial — Prismas"
+                    value={formNovo.disciplinaId}
+                    onChange={e => setFormNovo(f => ({ ...f, disciplinaId: e.target.value, conteudoId: '' }))}
                     className="w-full px-4 py-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-2 focus:ring-[#1B2B5E]/20"
-                  />
+                  >
+                    <option value="">Selecione a disciplina...</option>
+                    {disciplinas.map(d => (
+                      <option key={d.id} value={d.id}>{d.nome}</option>
+                    ))}
+                  </select>
                 </div>
                 <div>
-                  <label className="text-xs font-black uppercase tracking-widest text-slate-500 mb-2 block">Agendar para (opcional)</label>
-                  <input
-                    type="date"
-                    value={formNovo.agendado_para}
-                    onChange={e => setFormNovo(f => ({ ...f, agendado_para: e.target.value }))}
-                    className="w-full px-4 py-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-2 focus:ring-[#1B2B5E]/20"
-                  />
+                  <label className="text-xs font-black uppercase tracking-widest text-slate-500 mb-2 block">Conteúdo (opcional)</label>
+                  <select
+                    value={formNovo.conteudoId}
+                    onChange={e => setFormNovo(f => ({ ...f, conteudoId: e.target.value }))}
+                    disabled={!formNovo.disciplinaId}
+                    className="w-full px-4 py-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-2 focus:ring-[#1B2B5E]/20 disabled:opacity-40"
+                  >
+                    <option value="">Selecione o conteúdo...</option>
+                    {conteudos
+                      .filter(c => c.disciplina_id === formNovo.disciplinaId)
+                      .map(c => (
+                        <option key={c.id} value={c.id}>{c.nome}</option>
+                      ))
+                    }
+                  </select>
                 </div>
                 <div>
-                  <label className="text-xs font-black uppercase tracking-widest text-slate-500 mb-2 block">Prioridade</label>
-                  <div className="flex gap-3">
-                    <button
-                      type="button"
-                      onClick={() => setFormNovo(f => ({ ...f, prioridade: 0 }))}
-                      className={`flex-1 py-2.5 rounded-xl text-sm font-black transition-all ${formNovo.prioridade === 0 ? 'bg-slate-700 text-white' : 'bg-slate-100 dark:bg-slate-700 text-slate-400'}`}
-                    >
-                      Normal
-                    </button>
-                    <button
-                      type="button"
-                      onClick={() => setFormNovo(f => ({ ...f, prioridade: 1 }))}
-                      className={`flex-1 py-2.5 rounded-xl text-sm font-black transition-all ${formNovo.prioridade === 1 ? 'bg-[#F97316] text-white' : 'bg-slate-100 dark:bg-slate-700 text-slate-400'}`}
-                    >
-                      Urgente
-                    </button>
-                  </div>
+                  <label className="text-xs font-black uppercase tracking-widest text-slate-500 mb-2 block">Comentário (opcional)</label>
+                  <textarea
+                    rows={3}
+                    value={formNovo.comentario}
+                    onChange={e => setFormNovo(f => ({ ...f, comentario: e.target.value }))}
+                    placeholder="Ex: Revisar fórmulas de área e volume..."
+                    className="w-full px-4 py-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-2 focus:ring-[#1B2B5E]/20 resize-none"
+                  />
                 </div>
               </div>
               <div className="flex gap-3 mt-8">
@@ -1078,11 +1358,168 @@ export default function HomeEstudosPage() {
                 </button>
                 <button
                   onClick={handleNovoProblema}
-                  disabled={isSavingProblema || !formNovo.titulo.trim()}
-                  className="flex-1 py-3 rounded-xl bg-[#F97316] text-white font-black text-sm flex items-center justify-center gap-2 disabled:opacity-60"
+                  disabled={isSavingProblema || !formNovo.disciplinaId}
+                  className="flex-1 py-3 rounded-xl bg-slate-700 text-white font-black text-sm flex items-center justify-center gap-2 disabled:opacity-60"
                 >
                   {isSavingProblema ? <Loader2 className="w-4 h-4 animate-spin" /> : <Plus className="w-4 h-4" />}
-                  Adicionar
+                  Registrar
+                </button>
+              </div>
+            </motion.div>
+          </div>
+        )}
+      </AnimatePresence>
+
+      {/* MODAL — VINCULAR PROBLEMA */}
+      <AnimatePresence>
+        {modalVincular.open && (
+          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+            <motion.div
+              initial={{ scale: 0.9, opacity: 0, y: 20 }}
+              animate={{ scale: 1, opacity: 1, y: 0 }}
+              exit={{ scale: 0.9, opacity: 0, y: 20 }}
+              className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-w-lg shadow-2xl p-8 border border-slate-200 dark:border-slate-800 flex flex-col max-h-[90vh]"
+            >
+              {/* Header */}
+              <div className="flex items-center justify-between mb-6 flex-shrink-0">
+                <div>
+                  <h2 className="text-xl font-black text-slate-800 dark:text-white">
+                    {modalVincular.tipo === 'kevquest' ? '🎯 Vincular Questão' : '✍️ Vincular Redação'}
+                  </h2>
+                  <p className="text-xs text-slate-400 font-bold mt-1">
+                    {modalVincular.tipo === 'kevquest'
+                      ? 'Selecione uma questão do seu histórico KevQuest'
+                      : 'Selecione uma redação analisada para estudar'}
+                  </p>
+                </div>
+                <button
+                  onClick={() => { setModalVincular({ open: false, tipo: null }); setVincularItems([]); }}
+                  className="p-2 bg-slate-100 dark:bg-slate-800 rounded-full text-slate-400 hover:text-slate-700 dark:hover:text-white transition-colors"
+                >
+                  <X className="w-5 h-5"/>
+                </button>
+              </div>
+
+              {/* Lista de itens */}
+              <div className="flex-1 overflow-y-auto min-h-0 space-y-2 pr-1 custom-scrollbar">
+                {vincularLoading ? (
+                  <div className="flex items-center justify-center py-16">
+                    <Loader2 className="w-8 h-8 text-indigo-500 animate-spin" />
+                  </div>
+                ) : vincularItems.length === 0 ? (
+                  <div className="text-center py-16 text-slate-400">
+                    <p className="font-black text-sm">Nenhum item encontrado.</p>
+                    <p className="text-xs mt-1">
+                      {modalVincular.tipo === 'kevquest'
+                        ? 'Adicione questões ao KevQuest primeiro.'
+                        : 'Você precisa ter redações avaliadas ou devolvidas.'}
+                    </p>
+                  </div>
+                ) : modalVincular.tipo === 'kevquest' ? (
+                  (vincularItems as KevQuestItem[]).map(item => (
+                    <button
+                      key={item.id}
+                      type="button"
+                      onClick={() => setFormVincular(f => ({ ...f, itemId: f.itemId === item.id ? '' : item.id }))}
+                      className={`w-full text-left p-4 rounded-2xl border-2 transition-all ${
+                        formVincular.itemId === item.id
+                          ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/20'
+                          : 'border-slate-100 dark:border-slate-800 bg-white dark:bg-slate-800/50 hover:border-blue-200 dark:hover:border-blue-900/50'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between gap-3">
+                        <div className="flex-1 min-w-0">
+                          <p className="font-black text-sm text-slate-800 dark:text-white truncate">
+                            {item.titulo}
+                          </p>
+                          <div className="flex flex-wrap gap-x-3 gap-y-0.5 mt-1 text-[11px] text-slate-400">
+                            {item.prova && <span>{item.prova}</span>}
+                            {item.ano && <span>· {item.ano}</span>}
+                            {item.q_num && <span>· Q.{item.q_num}</span>}
+                          </div>
+                        </div>
+                        <span className={`text-[9px] font-black uppercase px-2 py-1 rounded-full flex-shrink-0 ${
+                          item.status === 'concluido' ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-400' :
+                          'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400'
+                        }`}>
+                          {item.status}
+                        </span>
+                      </div>
+                    </button>
+                  ))
+                ) : (
+                  (vincularItems as RedacaoItem[]).map(item => (
+                    <button
+                      key={item.id}
+                      type="button"
+                      onClick={() => setFormVincular(f => ({ ...f, itemId: f.itemId === item.id ? '' : item.id }))}
+                      className={`w-full text-left p-4 rounded-2xl border-2 transition-all ${
+                        formVincular.itemId === item.id
+                          ? 'border-orange-500 bg-orange-50 dark:bg-orange-900/20'
+                          : 'border-slate-100 dark:border-slate-800 bg-white dark:bg-slate-800/50 hover:border-orange-200 dark:hover:border-orange-900/50'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between gap-3">
+                        <div className="flex-1 min-w-0">
+                          <p className="font-black text-sm text-slate-800 dark:text-white truncate">
+                            {item.tema_titulo || 'Redação sem tema'}
+                          </p>
+                          {item.eixo_tematico && (
+                            <p className="text-[11px] text-slate-400 mt-0.5 truncate">{item.eixo_tematico}</p>
+                          )}
+                        </div>
+                        <div className="flex-shrink-0 text-right">
+                          {item.nota && (
+                            <span className="text-xs font-black text-orange-600 dark:text-orange-400">{item.nota} pts</span>
+                          )}
+                          <span className={`block text-[9px] font-black uppercase px-2 py-1 rounded-full mt-1 ${
+                            item.status === 'CONCLUIDA' ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-400' :
+                            item.status === 'DEVOLVIDA' ? 'bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400' :
+                            item.status === 'ANALISADA' ? 'bg-fuchsia-100 text-fuchsia-700 dark:bg-fuchsia-900/30 dark:text-fuchsia-400' :
+                            'bg-slate-100 text-slate-600 dark:bg-slate-700 dark:text-slate-300'
+                          }`}>
+                            {item.status}
+                          </span>
+                        </div>
+                      </div>
+                    </button>
+                  ))
+                )}
+              </div>
+
+              {/* Campo de comentário */}
+              {formVincular.itemId && (
+                <div className="mt-4 flex-shrink-0">
+                  <label className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2 block">Observação / Foco do estudo (opcional)</label>
+                  <textarea
+                    rows={2}
+                    value={formVincular.comentario}
+                    onChange={e => setFormVincular(f => ({ ...f, comentario: e.target.value }))}
+                    placeholder="Ex: Revisar a teoria de fotossíntese, fui mal nesta questão por falta de conceito..."
+                    className="w-full px-4 py-3 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-800 dark:text-white outline-none focus:ring-4 focus:ring-indigo-500/10 font-medium text-sm transition-all resize-none"
+                  />
+                </div>
+              )}
+
+              {/* Footer */}
+              <div className="flex gap-3 mt-6 flex-shrink-0">
+                <button
+                  onClick={() => { setModalVincular({ open: false, tipo: null }); setVincularItems([]); }}
+                  className="flex-1 py-4 rounded-2xl border border-slate-200 dark:border-slate-700 text-slate-500 font-black text-xs uppercase tracking-widest hover:bg-slate-50 dark:hover:bg-slate-800 transition-all"
+                >
+                  Cancelar
+                </button>
+                <button
+                  onClick={handleVincular}
+                  disabled={isSavingProblema || !formVincular.itemId}
+                  className={`flex-1 py-4 rounded-2xl text-white font-black text-xs uppercase tracking-widest flex items-center justify-center gap-2 disabled:opacity-40 shadow-xl transition-all hover:scale-[1.02] active:scale-95 ${
+                    modalVincular.tipo === 'kevquest'
+                      ? 'bg-blue-600 shadow-blue-600/20'
+                      : 'bg-orange-500 shadow-orange-500/20'
+                  }`}
+                >
+                  {isSavingProblema ? <Loader2 className="w-4 h-4 animate-spin" /> : <Plus className="w-4 h-4" />}
+                  Adicionar à Fila
                 </button>
               </div>
             </motion.div>

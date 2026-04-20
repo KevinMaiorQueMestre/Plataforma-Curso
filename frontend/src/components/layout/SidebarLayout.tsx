@@ -32,7 +32,7 @@ const NAV_ITEMS = [
   { label: "KevQuest",          href: "/kevquest",      icon: Target        },
   { label: "Redação",           href: "/redacao",       icon: PenTool       },
   { label: "Estudo",            href: "/diario",        icon: Layers        },
-  { label: "Calendário",        href: "/calendario",    icon: CalendarDays  },
+  { label: "Central de Revisões", href: "/calendario",    icon: CalendarDays  },
   { label: "Evolução Geral",    href: "/evolucao",      icon: BarChart2     },
   { label: "Ligas",             href: "/liga",          icon: Trophy        },
 ];

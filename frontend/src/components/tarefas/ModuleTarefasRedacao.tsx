@@ -55,8 +55,10 @@ export default function ModuleTarefasRedacao({ refreshTrigger = 0 }: { refreshTr
     setIsSaving(true);
     const ok = await concluirProblema(
       modalConcluir.id,
-      formConcluir.tempo ? parseInt(formConcluir.tempo) : null,
-      formConcluir.conforto || null
+      {
+        tempoMin: formConcluir.tempo ? parseInt(formConcluir.tempo) : null,
+        conforto: formConcluir.conforto || null,
+      }
     );
     if (ok) {
       toast.success('Tarefa concluída!');
