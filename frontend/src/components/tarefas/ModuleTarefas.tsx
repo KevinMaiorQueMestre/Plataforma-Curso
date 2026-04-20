@@ -163,13 +163,25 @@ export default function ModuleTarefas({ origem }: { origem: OrigemProblema }) {
 
   return (
     <div className="space-y-6 animate-in fade-in duration-500">
-      <div className="flex justify-between items-center mb-6">
-        <h2 className="text-xl font-black text-slate-800 dark:text-white">Tarefas da Seção</h2>
-        <button 
+      <div className="flex justify-between items-end mb-8">
+        <div className="relative">
+          <h2 className="text-2xl md:text-3xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-3 md:gap-4 relative z-10">
+            <div className="bg-[#1B2B5E] p-2 md:p-3 rounded-[1rem] md:rounded-[1.2rem] shadow-lg shadow-[#1B2B5E]/20">
+              <Inbox className="w-5 h-5 md:w-6 md:h-6 text-white" />
+            </div>
+            Tarefas do Módulo
+          </h2>
+          <div className="flex items-center gap-2 md:gap-3 mt-2 md:mt-3 relative z-10">
+            <div className="h-1 w-8 md:w-12 bg-[#F97316] rounded-full"></div>
+            <p className="text-xs md:text-sm text-slate-400 font-bold uppercase tracking-[0.15em] md:tracking-[0.2em]">Metas e Pendências</p>
+          </div>
+        </div>
+        <button
           onClick={() => setModalNovo(true)}
-          className="flex items-center gap-2 bg-[#F97316] hover:bg-orange-600 text-white font-black px-4 py-2 rounded-xl text-xs uppercase tracking-widest transition-all shadow-lg shadow-orange-500/20 active:scale-95"
+          className="flex items-center gap-2 bg-[#F97316] hover:bg-orange-600 text-white font-black px-4 md:px-5 py-2.5 md:py-3 rounded-xl md:rounded-2xl text-xs md:text-sm uppercase tracking-widest transition-all active:scale-95 shadow-lg shadow-orange-500/20"
         >
-          <Plus className="w-4 h-4" /> Nova Tarefa
+          <Plus className="w-4 h-4 md:w-5 md:h-5" />
+          <span className="hidden sm:inline">Nova Tarefa</span>
         </button>
       </div>
 
