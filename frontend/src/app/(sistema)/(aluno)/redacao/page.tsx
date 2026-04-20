@@ -5,8 +5,10 @@ import {
   PenTool, Plus, Trash2, ArrowRight,
   Lightbulb, CheckCircle2, Award, Activity,
   X, Star, Calendar, ChevronRight, ChevronDown,
-  BarChart2, PieChart, BookOpen
+  BarChart2, PieChart, BookOpen, CheckCircle
 } from "lucide-react";
+import { listarProblemas, criarProblemaManual } from "@/lib/db/estudo";
+import { toast } from "sonner";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   DndContext,
@@ -33,7 +35,7 @@ import {
 import { format as formatDate } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { createClient } from "@/utils/supabase/client";
-import ModuleTarefas from "@/components/tarefas/ModuleTarefas";
+import ModuleTarefasRedacao from "@/components/tarefas/ModuleTarefasRedacao";
 
 // ─── Tipos ─────────────────────────────────────────────────────────────────────
 type StudentKanbanStatus = "proposta" | "fazendo" | "concluida";
@@ -658,6 +660,40 @@ export default function RedacaoPage() {
   const supabase = createClient();
 
   const [activeDragId, setActiveDragId] = useState<string | null>(null);
+
+  const [isModalNovoOpen, setIsModalNovoOpen] = useState(false);
+  const [isSavingTarefa, setIsSavingTarefa] = useState(false);
+  const [refreshTrigger, setRefreshTrigger] = useState(0);
+  const [formNovoTarefa, setFormNovoTarefa] = useState({ prova: '', tema: '', agendado_para: '', prioridade: 0 });
+
+  const handleNovoTarefaRedacao = async (e: React.FormEvent) => {
+    e.preventDefault();
+    const { data: { user } } = await createClient().auth.getUser();
+    if (!user || !formNovoTarefa.prova.trim() || !formNovoTarefa.tema.trim()) {
+      toast.error("Prova e Tema são obrigatórios!");
+      return;
+    }
+    setIsSavingTarefa(true);
+    
+    const titulo = `Redação: ${formNovoTarefa.prova} - ${formNovoTarefa.tema}`.trim();
+
+    const p = await criarProblemaManual({
+      userId: user.id,
+      titulo,
+      agendadoPara: formNovoTarefa.agendado_para || null,
+      prioridade: formNovoTarefa.prioridade,
+      origem: 'redacao'
+    });
+    if (p) {
+      toast.success("Tarefa criada!");
+      setIsModalNovoOpen(false);
+      setFormNovoTarefa({ prova: '', tema: '', agendado_para: '', prioridade: 0 });
+      setRefreshTrigger(prev => prev + 1);
+    } else {
+      toast.error("Erro ao criar tarefa.");
+    }
+    setIsSavingTarefa(false);
+  };
   const [selectedRedacao, setSelectedRedacao] = useState<RedacaoGlobal | null>(null);
   const [selectedTema, setSelectedTema] = useState<TemaProposta | null>(null);
 
@@ -837,22 +873,28 @@ export default function RedacaoPage() {
   return (
     <div className="max-w-[1600px] mx-auto pb-20 animate-in fade-in duration-500 space-y-8 px-4 md:px-0">
       {/* Header */}
-      <header className="flex flex-col md:flex-row md:items-end justify-between gap-6">
+      <header className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-6">
         <div className="relative">
-          <div className="absolute -top-20 -left-20 w-64 h-64 bg-indigo-500/10 rounded-full blur-[100px] pointer-events-none"/>
+          <div className="absolute -top-20 -left-20 w-64 h-64 bg-[#1B2B5E]/10 rounded-full blur-[100px] pointer-events-none"/>
           <h1 className="text-4xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-4 relative z-10">
-            <div className="bg-indigo-600 p-3 rounded-[1.2rem] shadow-lg shadow-indigo-600/20"><PenTool className="w-8 h-8 text-white"/></div>
+            <div className="bg-[#1B2B5E] p-3 rounded-[1.2rem] shadow-lg shadow-[#1B2B5E]/20"><PenTool className="w-8 h-8 text-white"/></div>
             Minha Bancada
           </h1>
           <div className="flex items-center gap-3 mt-3 relative z-10">
-            <div className="h-1 w-12 bg-indigo-500 rounded-full"/>
+            <div className="h-1 w-12 bg-[#F97316] rounded-full"/>
             <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em]">Asas para o Enem! Acompanhe suas notas.</p>
           </div>
         </div>
-        <button onClick={openNew}
-          className="flex items-center gap-2 bg-indigo-600 hover:bg-indigo-700 active:scale-95 transition-all text-white font-black px-7 py-4 rounded-2xl shadow-xl shadow-indigo-500/20 text-sm uppercase tracking-widest">
-          <Plus className="w-5 h-5"/> Nova Proposta
-        </button>
+        <div className="flex items-center gap-4">
+          <button onClick={openNew}
+            className="flex items-center gap-2 bg-white dark:bg-[#1C1C1E] text-slate-800 dark:text-white border border-slate-200 dark:border-white/10 font-black px-7 py-4 rounded-2xl shadow-sm text-sm uppercase tracking-widest active:scale-95 transition-all">
+            <Plus className="w-5 h-5 text-[#F97316]"/> <span className="hidden sm:inline">Nova Proposta</span>
+          </button>
+          <button onClick={() => setIsModalNovoOpen(true)}
+            className="flex items-center gap-2 bg-[#F97316] hover:bg-orange-600 active:scale-95 transition-all text-white font-black px-7 py-4 rounded-2xl shadow-xl shadow-orange-500/20 text-sm uppercase tracking-widest">
+            <Plus className="w-5 h-5"/> <span className="hidden sm:inline">Nova Tarefa</span>
+          </button>
+        </div>
       </header>
 
       {/* Toggle Bancada / Evolução */}
@@ -872,7 +914,7 @@ export default function RedacaoPage() {
       </div>
 
       {activeTab === "tarefas" && (
-        <ModuleTarefas origem="redacao" />
+        <ModuleTarefasRedacao refreshTrigger={refreshTrigger} />
       )}
 
       {/* Conteúdo por Tab */}
@@ -1092,6 +1134,44 @@ export default function RedacaoPage() {
           </motion.div>
         )}
       </AnimatePresence>
+      {/* Modal Nova Tarefa */}
+      {isModalNovoOpen && (
+        <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-md shadow-2xl p-8 animate-in fade-in zoom-in-95 relative">
+            <button onClick={() => setIsModalNovoOpen(false)} className="absolute top-6 right-6 text-slate-400 hover:text-slate-600 transition-colors"><X className="w-5 h-5"/></button>
+            <h2 className="text-2xl font-black mb-6 text-slate-800 dark:text-white flex items-center gap-3">
+              <CheckCircle className="w-6 h-6 text-[#1B2B5E]" />
+              Nova Tarefa
+            </h2>
+            <form onSubmit={handleNovoTarefaRedacao} className="space-y-5">
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Prova/Modelo *</label>
+                  <input required autoFocus value={formNovoTarefa.prova} onChange={e => setFormNovoTarefa({...formNovoTarefa, prova: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: ENEM, FUVEST..." />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Tema *</label>
+                  <input required value={formNovoTarefa.tema} onChange={e => setFormNovoTarefa({...formNovoTarefa, tema: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: Impactos da IA..." />
+                </div>
+              </div>
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Agendar para</label>
+                  <input type="date" value={formNovoTarefa.agendado_para} onChange={e => setFormNovoTarefa({...formNovoTarefa, agendado_para: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Prioridade</label>
+                  <select value={formNovoTarefa.prioridade} onChange={e => setFormNovoTarefa({...formNovoTarefa, prioridade: parseInt(e.target.value)})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium">
+                    <option value={0}>Normal</option>
+                    <option value={1}>Urgente</option>
+                  </select>
+                </div>
+              </div>
+              <button disabled={isSavingTarefa} type="submit" className="w-full py-4 mt-4 bg-[#F97316] text-white text-sm font-black uppercase tracking-widest rounded-xl shadow-lg shadow-orange-500/20 active:scale-95 transition-all">Salvar Tarefa</button>
+            </form>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

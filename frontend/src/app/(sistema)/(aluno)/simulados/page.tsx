@@ -6,7 +6,7 @@ import { format } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { toast } from "sonner";
 import { motion, AnimatePresence } from "framer-motion";
-import { Activity, Book, Globe2, Leaf, Calculator, PenTool, Send, Clock, Play, Pause, X, PieChart, Maximize2, Minimize2, Trash2, Loader2, ChevronDown, Pencil, Filter } from "lucide-react";
+import { Activity, Book, Globe2, Leaf, Calculator, PenTool, Send, Clock, Play, Pause, X, PieChart, Maximize2, Minimize2, Trash2, Loader2, ChevronDown, Pencil, Filter, Plus, CheckCircle } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
 import { getPreferences, updatePreferences } from "@/lib/db/preferences";
 import {
@@ -16,7 +16,8 @@ import {
   deletarSimulado,
   type SimuladoDB
 } from "@/lib/db/simulados";
-import ModuleTarefas from "@/components/tarefas/ModuleTarefas";
+import { criarProblemaManual, listarProblemas, type ProblemaEstudo } from "@/lib/db/estudo";
+import ModuleTarefasSimulado from "@/components/tarefas/ModuleTarefasSimulado";
 import { MODELOS_PROVAS, type ModeloProva, type FaseProva, type CampoProva } from "@/lib/config/provas";
 import {
   BarChart,
@@ -111,6 +112,7 @@ function CustomDropdown({
   const [isOpen, setIsOpen] = useState(false);
   const [isAdding, setIsAdding] = useState(false);
   const [newVal, setNewVal] = useState("");
+
   const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -656,6 +658,50 @@ export default function SimuladosPage() {
   // ONE GLOBAL MODEL FOR EVERYTHING
   const [globalModeloProva, setGlobalModeloProva] = useState("ENEM");
 
+  // Tasks Modal Logic
+  const [isModalNovoOpen, setIsModalNovoOpen] = useState(false);
+  const [isSavingTarefa, setIsSavingTarefa] = useState(false);
+  const [refreshTrigger, setRefreshTrigger] = useState(0);
+  const [formNovoTarefa, setFormNovoTarefa] = useState({ prova: '', ano: '', aplicacao: '', dia: '', cor: '', agendado_para: '', prioridade: 0 });
+
+  // Simulados concluídos (da sub-aba tarefas) para uso no Lançamento
+  const [simuladosConcluidos, setSimuladosConcluidos] = useState<ProblemaEstudo[]>([]);
+  const [selectedTarefaSimulado, setSelectedTarefaSimulado] = useState<ProblemaEstudo | null>(null);
+
+  const handleNovoTarefaSimulado = async (e: React.FormEvent) => {
+    e.preventDefault();
+    const { data: { user } } = await createClient().auth.getUser();
+    if (!user || !formNovoTarefa.prova.trim() || !formNovoTarefa.ano.trim()) {
+      toast.error("Prova e Ano são obrigatórios!");
+      return;
+    }
+    setIsSavingTarefa(true);
+    
+    const titulo = `Simulado: ${formNovoTarefa.prova} ${formNovoTarefa.ano} ${formNovoTarefa.aplicacao ? `- ${formNovoTarefa.aplicacao}` : ''} ${formNovoTarefa.dia ? `(${formNovoTarefa.dia})` : ''} ${formNovoTarefa.cor ? `- Cor ${formNovoTarefa.cor}` : ''}`.trim();
+
+    const p = await criarProblemaManual({
+      userId: user.id,
+      titulo,
+      agendadoPara: formNovoTarefa.agendado_para || null,
+      prioridade: formNovoTarefa.prioridade,
+      origem: 'simulado',
+      prova: formNovoTarefa.prova,
+      ano: formNovoTarefa.ano,
+      corProva: formNovoTarefa.cor
+    });
+    
+    if (p) {
+      toast.success("Tarefa de simulado criada!");
+      setIsModalNovoOpen(false);
+      setFormNovoTarefa({ prova: '', ano: '', aplicacao: '', dia: '', cor: '', agendado_para: '', prioridade: 0 });
+      setRefreshTrigger(prev => prev + 1);
+    } else {
+      toast.error("Erro ao criar tarefa.");
+    }
+    setIsSavingTarefa(false);
+  };
+
+
   useEffect(() => {
     async function init() {
       const supabase = createClient();
@@ -669,10 +715,16 @@ export default function SimuladosPage() {
 
       const data = await listarSimulados(user.id);
       setSimulados(data);
+
+      // Carrega simulados concluídos da sub-aba tarefas
+      const todos = await listarProblemas(user.id);
+      const concluidos = todos.filter(p => p.origem === 'simulado' && p.status === 'concluido');
+      setSimuladosConcluidos(concluidos);
+
       setIsLoaded(true);
     }
     init();
-  }, []);
+  }, [refreshTrigger]);
 
   const [form, setForm] = useState<any>({
     nomeProva: "",
@@ -698,6 +750,8 @@ export default function SimuladosPage() {
   const [isTimerRunning, setIsTimerRunning] = useState(false);
   const [showExactTime, setShowExactTime] = useState(false);
   const [isFocusMode, setIsFocusMode] = useState(false);
+  const [isTimerMinimized, setIsTimerMinimized] = useState(false);
+  const [floatPos, setFloatPos] = useState({ x: 24, y: 80 });
 
   useEffect(() => {
     let interval: NodeJS.Timeout;
@@ -741,7 +795,7 @@ export default function SimuladosPage() {
   };
 
   const handleSubmit = async () => {
-    if (!form.nomeProva) { toast.error("Preencha a identificação (Nome) da prova!"); return; }
+    if (!form.nomeProva && !selectedTarefaSimulado) { toast.error("Selecione ou identifique um simulado!"); return; }
     if (!userId) { toast.error("Sessão expirada. Faça login novamente."); return; }
 
     let acertos = 0;
@@ -779,7 +833,9 @@ export default function SimuladosPage() {
 
     setIsSaving(true);
     try {
-      const tituloCompleto = form.anoProva ? `${form.nomeProva} ${form.anoProva}` : form.nomeProva;
+      const tituloCompleto = selectedTarefaSimulado
+        ? selectedTarefaSimulado.titulo
+        : (form.anoProva ? `${form.nomeProva} ${form.anoProva}` : form.nomeProva);
       const entry = await criarSimulado({
         userId,
         tituloSimulado: tituloCompleto,
@@ -899,34 +955,67 @@ export default function SimuladosPage() {
       
       {/* ─── HEAD & GLOBAL SELECTOR ───────────────────────────────────────── */}
       <header className="mb-2 relative z-50">
-        <div className="absolute -top-20 -left-20 w-64 h-64 bg-indigo-500/10 rounded-full blur-[100px] pointer-events-none"></div>
+        <div className="absolute -top-20 -left-20 w-64 h-64 bg-[#1B2B5E]/10 rounded-full blur-[100px] pointer-events-none"></div>
         <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-6">
           
           <div>
             <h1 className="text-2xl md:text-4xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-3 md:gap-4">
-              <div className="bg-indigo-600 p-2.5 md:p-3 rounded-[1rem] md:rounded-[1.2rem] shadow-lg shadow-indigo-600/20">
+              <div className="bg-[#1B2B5E] p-2.5 md:p-3 rounded-[1rem] md:rounded-[1.2rem] shadow-lg shadow-[#1B2B5E]/20">
                 <Activity className="w-6 h-6 md:w-8 md:h-8 text-white" />
               </div>
               Simulados
             </h1>
             <div className="flex items-center gap-3 mt-2 md:mt-3">
-              <div className="h-1 w-12 bg-indigo-500 rounded-full"></div>
+              <div className="h-1 w-12 bg-[#F97316] rounded-full"></div>
               <p className="text-xs md:text-sm text-slate-400 font-bold uppercase tracking-[0.15em] md:tracking-[0.2em]">Alta Performance & Múltiplas Bancas</p>
             </div>
           </div>
 
-          <div className="w-full md:w-64 bg-white dark:bg-[#1C1C1E]/80 backdrop-blur-md p-2 rounded-[1.5rem] border border-slate-200 dark:border-white/10 shadow-sm flex items-center">
-            <CustomDropdown
-              value={globalModeloProva}
-              onChange={setGlobalModeloProva}
-              options={MODELOS_PROVAS.map(m => ({ value: m.id, label: m.nome }))}
-              placeholder="Banca..."
-              className="h-12 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-indigo-500/20 hover:border-indigo-500/40 rounded-[1.2rem] px-5 text-sm font-black text-indigo-600 dark:text-indigo-400"
-            />
-          </div>
+          <button
+            onClick={() => { setIsFocusMode(true); setIsTimerMinimized(false); }}
+            className={`flex items-center gap-2.5 px-5 py-3 rounded-2xl border-2 font-black text-sm uppercase tracking-widest transition-all active:scale-95 shadow-sm ${
+              isTimerRunning
+                ? 'bg-indigo-600 border-indigo-600 text-white shadow-indigo-500/30 animate-pulse'
+                : 'bg-white dark:bg-[#1C1C1E] border-slate-200 dark:border-[#2C2C2E] text-slate-700 dark:text-white hover:border-indigo-400'
+            }`}
+          >
+            <Clock className="w-4 h-4" />
+            <span className="hidden sm:inline">Cronômetro</span>
+            {isTimerRunning && <span className="text-xs font-mono">{getDisplayTime().slice(0,5)}</span>}
+          </button>
 
         </div>
       </header>
+
+      {isFocusMode && !isTimerMinimized && (
+        <SimulatorOverlay
+          getDisplayTime={getDisplayTime}
+          timeLeft={timeLeft}
+          timerConfig={timerConfig}
+          setTimerConfig={setTimerConfig}
+          isTimerRunning={isTimerRunning}
+          pauseTimer={pauseTimer}
+          startTimer={startTimer}
+          resetTimer={resetTimer}
+          showExactTime={showExactTime}
+          setShowExactTime={setShowExactTime}
+          onClose={() => setIsFocusMode(false)}
+          onMinimize={() => setIsTimerMinimized(true)}
+        />
+      )}
+
+      {isFocusMode && isTimerMinimized && (
+        <FloatingTimer
+          getDisplayTime={getDisplayTime}
+          isTimerRunning={isTimerRunning}
+          pauseTimer={pauseTimer}
+          startTimer={startTimer}
+          pos={floatPos}
+          setPos={setFloatPos}
+          onExpand={() => setIsTimerMinimized(false)}
+          onClose={() => { setIsFocusMode(false); setIsTimerMinimized(false); }}
+        />
+      )}
 
       {/* ─── TOGGLE TRIFÁSICO ─────────────────────────────────── */}
       <div className="bg-white dark:bg-[#1C1C1E] p-2 rounded-[2rem] flex items-center w-full border border-slate-100 dark:border-[#2C2C2E] shadow-sm mb-6 relative z-10">
@@ -942,114 +1031,97 @@ export default function SimuladosPage() {
       </div>
 
       {activeTab === "tarefas" && (
-        <ModuleTarefas origem="simulado" />
+        <div className="space-y-6">
+          <div className="flex items-center justify-between">
+            <div>
+              <h2 className="text-xl font-black text-slate-800 dark:text-white">Simulados Agendados</h2>
+              <p className="text-xs text-slate-400 font-bold uppercase tracking-widest mt-0.5">Gerencie seus simulados planejados</p>
+            </div>
+            <button
+              onClick={() => setIsModalNovoOpen(true)}
+              className="flex items-center justify-center gap-2 bg-[#F97316] hover:bg-orange-600 text-white font-black px-6 py-4 rounded-[1.5rem] text-sm uppercase tracking-widest transition-all active:scale-95 shadow-lg shadow-orange-500/20 w-full sm:w-auto"
+            >
+              <Plus className="w-5 h-5" />
+              <span>Novo Simulado</span>
+            </button>
+          </div>
+          <ModuleTarefasSimulado refreshTrigger={refreshTrigger} />
+        </div>
       )}
 
       {activeTab === "lancamento" && (
         <>
-          <section className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] md:rounded-[2.5rem] p-4 md:p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
-            <div className="absolute top-0 right-0 w-80 h-80 bg-indigo-500/5 rounded-full blur-[100px] -mr-40 -mt-40 pointer-events-none"></div>
-            <div className="relative z-10 flex items-center gap-4 md:gap-6 mb-4 md:mb-6">
-              <div className={`relative w-14 h-14 md:w-24 md:h-24 rounded-[1.5rem] md:rounded-[2rem] flex-shrink-0 flex items-center justify-center border-2 transition-all duration-500 shadow-lg ${isTimerRunning ? 'bg-indigo-500/10 border-indigo-500/30' : 'bg-slate-50 dark:bg-slate-800 border-slate-200 dark:border-slate-700'}`}>
-                <Clock className={`w-6 h-6 md:w-8 md:h-8 transition-colors duration-500 ${isTimerRunning ? 'text-indigo-400' : 'text-slate-500'}`} />
-                {isTimerRunning && <motion.div animate={{ scale: [1, 1.2, 1], opacity: [0.3, 0.6, 0.3] }} transition={{ repeat: Infinity, duration: 2 }} className="absolute inset-0 bg-indigo-500 rounded-[2rem] blur-xl -z-10" />}
-              </div>
-              <div className="flex flex-col gap-1 flex-1">
-                <h2 className="text-[10px] font-black text-slate-400 dark:text-slate-500 uppercase tracking-[0.2em] leading-tight mb-0.5">Cronômetro de Simulado</h2>
-                <div className="flex items-baseline gap-1.5">
-                  <div className={`text-4xl md:text-7xl font-black font-mono tracking-tighter transition-all duration-500 ${isTimerRunning ? 'text-slate-900 dark:text-white' : 'text-slate-300 dark:text-slate-700'}`}>{getDisplayTime().split(':')[0]}:{getDisplayTime().split(':')[1]}</div>
-                  <div className={`text-xl md:text-3xl font-black font-mono ${isTimerRunning ? 'text-indigo-500' : 'text-slate-300 dark:text-slate-700'}`}>:{getDisplayTime().split(':')[2]}</div>
-                </div>
-              </div>
-            </div>
-
-            <div className="relative z-10 flex flex-wrap items-center justify-center gap-4 bg-slate-50 dark:bg-slate-800/50 p-4 rounded-[2rem] border border-slate-200 dark:border-white/5 shadow-inner">
-              {!isTimerRunning && timeLeft === 0 && (
-                <motion.div initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} className="flex gap-2 items-center bg-white dark:bg-slate-700/50 px-6 py-4 rounded-2xl border border-slate-100 dark:border-white/5 shadow-sm">
-                  <div className="flex flex-col items-center">
-                    <input type="number" min="0" value={timerConfig.hours} onChange={e => setTimerConfig({ ...timerConfig, hours: parseInt(e.target.value) || 0 })} className="w-12 bg-transparent text-slate-800 dark:text-white font-black text-2xl text-center focus:outline-none focus:text-indigo-500" />
-                    <span className="text-[8px] text-slate-500 font-bold uppercase tracking-widest">Horas</span>
-                  </div>
-                  <span className="text-slate-300 dark:text-slate-600 font-black text-2xl pb-6">:</span>
-                  <div className="flex flex-col items-center">
-                    <input type="number" min="0" max="59" value={timerConfig.minutes} onChange={e => setTimerConfig({ ...timerConfig, minutes: parseInt(e.target.value) || 0 })} className="w-12 bg-transparent text-slate-800 dark:text-white font-black text-2xl text-center focus:outline-none focus:text-indigo-500" />
-                    <span className="text-[8px] text-slate-500 font-bold uppercase tracking-widest">Mins</span>
-                  </div>
-                </motion.div>
-              )}
-              <div className="flex gap-2">
-                <button onClick={isTimerRunning ? pauseTimer : startTimer} className={`w-16 h-16 rounded-[1.5rem] flex items-center justify-center transition-all active:scale-95 shadow-2xl ${isTimerRunning ? 'bg-amber-500 text-white shadow-amber-500/20' : 'bg-indigo-600 text-white shadow-indigo-600/30 hover:bg-indigo-700'}`}>
-                  {isTimerRunning ? <Pause className="w-7 h-7 fill-current" /> : <Play className="w-7 h-7 fill-current ml-1" />}
-                </button>
-                <button onClick={resetTimer} className="w-16 h-16 bg-white dark:bg-slate-700/50 text-slate-400 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500 rounded-2xl flex items-center justify-center transition-all active:scale-95 border border-white/5">
-                  <X className="w-7 h-7" />
-                </button>
-                <button onClick={() => setIsFocusMode(true)} className="w-16 h-16 bg-slate-900 dark:bg-slate-700 text-white rounded-2xl flex items-center justify-center transition-all active:scale-95 border border-white/5 hover:border-white/10">
-                  <Maximize2 className="w-7 h-7" />
-                </button>
-              </div>
-            </div>
-          </section>
+          <div className="mb-2">
+            <h2 className="text-xl font-black text-slate-800 dark:text-white">Lançar Desempenho</h2>
+            <p className="text-xs text-slate-400 font-bold uppercase tracking-widest mt-0.5">Registre o resultado do simulado concluído</p>
+          </div>
 
           <section className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] md:rounded-[2.5rem] p-4 md:p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] relative overflow-hidden">
             <div className="absolute top-0 left-0 w-80 h-80 bg-indigo-500/5 rounded-full blur-[100px] -ml-40 -mt-40 pointer-events-none"></div>
 
             <div className="relative z-10 space-y-10">
-              <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 pb-6 border-b border-slate-100 dark:border-[#2C2C2E]">
-                <div>
-                  <h3 className="text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3"><Send className="w-7 h-7 text-indigo-500" />Cadastrar</h3>
-                  <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Preencha o desempenho em {globalModeloProva}</p>
+              {/* Seleção do simulado concluído */}
+              <div className="pb-6 border-b border-slate-100 dark:border-[#2C2C2E]">
+                <div className="flex items-center justify-between mb-5">
+                  <div>
+                    <h3 className="text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3"><Send className="w-7 h-7 text-indigo-500" />Cadastrar Desempenho</h3>
+                    <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Selecione o simulado que você concluiu</p>
+                  </div>
+                  {selectedTarefaSimulado && (
+                    <button onClick={handleSubmit} disabled={isSaving} className="h-12 bg-indigo-600 hover:bg-indigo-700 disabled:opacity-60 text-white font-black px-8 rounded-2xl shadow-xl shadow-indigo-600/20 active:scale-95 transition-all flex items-center justify-center gap-3 uppercase text-xs tracking-widest">
+                      {isSaving ? <Loader2 className="w-4 h-4 animate-spin" /> : <Send className="w-4 h-4" />}
+                      {isSaving ? "Salvando..." : "Finalizar"}
+                    </button>
+                  )}
                 </div>
 
-                <div className="flex flex-col md:flex-row items-stretch md:items-end gap-5 w-full md:w-auto">
-                  <div className="w-full md:w-64">
-                    <label className="block text-[10px] font-black text-slate-400 dark:text-slate-500 mb-2 uppercase tracking-[0.25em]">Identificação</label>
-                    {cfgProvas.length > 0 ? (
-                      <CustomDropdown
-                        value={form.nomeProva}
-                        onChange={v => setForm({ ...form, nomeProva: v })}
-                        options={cfgProvas.map(p => ({ value: p, label: p }))}
-                        placeholder="Ex: SAS, Evolucional..."
-                        className="h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white"
-                        onAddNewItem={async (val) => {
-                          const novas = [...cfgProvas, val];
-                          setCfgProvas(novas);
-                          await updatePreferences({ provas: novas });
-                          setForm({ ...form, nomeProva: val });
-                          toast.success("Nova prova adicionada!");
-                        }}
-                      />
-                    ) : (
-                      <input type="text" placeholder="Ex: Simulado SAS" value={form.nomeProva} onChange={e => setForm({ ...form, nomeProva: e.target.value })} className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white outline-none" />
-                    )}
+                {simuladosConcluidos.length === 0 ? (
+                  <div className="bg-slate-50 dark:bg-[#2C2C2E] border-2 border-dashed border-slate-200 dark:border-[#3A3A3C] rounded-[2rem] p-10 flex flex-col items-center justify-center text-center gap-3">
+                    <CheckCircle className="w-10 h-10 text-slate-300 dark:text-slate-600" />
+                    <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhum simulado concluído ainda.</p>
+                    <p className="text-xs text-slate-400">Crie e conclua um simulado na sub-aba <strong className="text-[#F97316]">Tarefas</strong> para lançar aqui.</p>
                   </div>
-                  <div className="w-full md:w-32">
-                    <label className="block text-[10px] font-black text-slate-400 dark:text-slate-500 mb-2 uppercase tracking-[0.25em]">Ano</label>
-                    {cfgAnos.length > 0 ? (
-                      <CustomDropdown
-                        value={form.anoProva}
-                        onChange={v => setForm({ ...form, anoProva: v })}
-                        options={cfgAnos.map(a => ({ value: a, label: a }))}
-                        placeholder="2024"
-                        className="h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white"
-                        onAddNewItem={async (val) => {
-                          const novas = [...cfgAnos, val];
-                          setCfgAnos(novas);
-                          await updatePreferences({ anos: novas });
-                          setForm({ ...form, anoProva: val });
-                          toast.success("Novo ano adicionado!");
-                        }}
-                      />
-                    ) : (
-                      <input type="text" placeholder="2024" value={form.anoProva} onChange={e => setForm({ ...form, anoProva: e.target.value })} className="w-full h-14 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-slate-100 dark:border-transparent rounded-2xl px-5 text-sm font-bold text-slate-700 dark:text-white outline-none" />
-                    )}
+                ) : (
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                    {simuladosConcluidos.map(tarefa => {
+                      const isSelected = selectedTarefaSimulado?.id === tarefa.id;
+                      return (
+                        <button
+                          key={tarefa.id}
+                          onClick={() => setSelectedTarefaSimulado(isSelected ? null : tarefa)}
+                          className={`text-left p-4 rounded-2xl border-2 transition-all active:scale-[0.98] ${
+                            isSelected
+                              ? 'border-indigo-500 bg-indigo-50 dark:bg-indigo-500/10 shadow-lg shadow-indigo-500/10'
+                              : 'border-slate-100 dark:border-[#2C2C2E] bg-white dark:bg-[#1C1C1E] hover:border-slate-200 dark:hover:border-[#3A3A3C]'
+                          }`}
+                        >
+                          <div className="flex items-start gap-3">
+                            <div className={`w-10 h-10 rounded-xl flex-shrink-0 flex items-center justify-center ${
+                              isSelected ? 'bg-indigo-500 text-white' : 'bg-[#1B2B5E]/10 text-[#1B2B5E] dark:text-blue-400'
+                            }`}>
+                              <Activity className="w-5 h-5" />
+                            </div>
+                            <div className="flex-1 min-w-0">
+                              <p className={`font-black text-sm leading-tight truncate ${
+                                isSelected ? 'text-indigo-700 dark:text-indigo-300' : 'text-slate-800 dark:text-white'
+                              }`}>{tarefa.titulo}</p>
+                              {tarefa.concluido_at && (
+                                <p className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">
+                                  Concluído em {new Date(tarefa.concluido_at).toLocaleDateString('pt-BR')}
+                                </p>
+                              )}
+                            </div>
+                            {isSelected && (
+                              <div className="w-5 h-5 rounded-full bg-indigo-500 flex-shrink-0 flex items-center justify-center">
+                                <CheckCircle className="w-3 h-3 text-white" />
+                              </div>
+                            )}
+                          </div>
+                        </button>
+                      );
+                    })}
                   </div>
-
-                  <button onClick={handleSubmit} disabled={isSaving} className="h-14 bg-indigo-600 hover:bg-indigo-700 disabled:opacity-60 text-white font-black px-10 rounded-2xl shadow-xl shadow-indigo-600/20 active:scale-95 transition-all flex items-center justify-center gap-3 uppercase text-xs tracking-widest">
-                    {isSaving ? <Loader2 className="w-4 h-4 animate-spin" /> : <Send className="w-4 h-4" />}
-                    {isSaving ? "Salvando..." : "Finalizar" }
-                  </button>
-                </div>
+                )}
               </div>
 
               <SimuladoFormFields form={form} setForm={setForm} modelo={modeloSelecionado} />
@@ -1058,22 +1130,41 @@ export default function SimuladosPage() {
         </>
       )}
 
-      {activeTab === "metricas" && simulados.length === 0 && (
-        <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-16 shadow-sm border border-slate-100 dark:border-[#2C2C2E] flex flex-col items-center justify-center text-center">
-          <PieChart className="w-12 h-12 text-slate-300 dark:text-slate-700 mb-4" />
-          <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhum simulado registrado ainda.</p>
-        </div>
-      )}
-
-      {activeTab === "metricas" && simulados.length > 0 && simuladosFiltrados.length === 0 && (
-        <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-16 shadow-sm border border-slate-100 dark:border-[#2C2C2E] flex flex-col items-center justify-center text-center">
-          <PieChart className="w-12 h-12 text-slate-300 dark:text-slate-700 mb-4" />
-          <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhum simulado registrado para o modelo {globalModeloProva}.</p>
-        </div>
-      )}
-
-      {activeTab === "metricas" && simuladosFiltrados.length > 0 && (
+      {activeTab === "metricas" && (
         <div className="space-y-6">
+          {/* Subtitle + banca selector */}
+          <div className="flex items-center justify-between gap-4">
+            <div>
+              <h2 className="text-xl font-black text-slate-800 dark:text-white">Evolução de Desempenho</h2>
+              <p className="text-xs text-slate-400 font-bold uppercase tracking-widest mt-0.5">Análise por banca e modelo de prova</p>
+            </div>
+            <div className="flex-shrink-0 w-56 bg-white dark:bg-[#1C1C1E]/80 backdrop-blur-md p-1.5 rounded-[1.2rem] border border-slate-200 dark:border-[#2C2C2E] shadow-sm">
+              <CustomDropdown
+                value={globalModeloProva}
+                onChange={setGlobalModeloProva}
+                options={MODELOS_PROVAS.map(m => ({ value: m.id, label: m.nome }))}
+                placeholder="Banca..."
+                className="h-11 bg-slate-50 dark:bg-[#2C2C2E] border-2 border-indigo-500/20 hover:border-indigo-500/40 rounded-[1rem] px-4 text-sm font-black text-indigo-600 dark:text-indigo-400"
+              />
+            </div>
+          </div>
+
+          {simulados.length === 0 && (
+            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-16 shadow-sm border border-slate-100 dark:border-[#2C2C2E] flex flex-col items-center justify-center text-center">
+              <PieChart className="w-12 h-12 text-slate-300 dark:text-slate-700 mb-4" />
+              <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhum simulado registrado ainda.</p>
+            </div>
+          )}
+
+          {simulados.length > 0 && simuladosFiltrados.length === 0 && (
+            <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-16 shadow-sm border border-slate-100 dark:border-[#2C2C2E] flex flex-col items-center justify-center text-center">
+              <PieChart className="w-12 h-12 text-slate-300 dark:text-slate-700 mb-4" />
+              <p className="text-sm font-black uppercase tracking-widest text-slate-400">Nenhum simulado registrado para o modelo {globalModeloProva}.</p>
+            </div>
+          )}
+
+          {simuladosFiltrados.length > 0 && (
+            <>
             <section className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-4 md:p-8 shadow-sm border border-slate-100 dark:border-[#2C2C2E] overflow-hidden relative">
               <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between mb-6 md:mb-10 gap-3 md:gap-4">
                 <div><h3 className="text-lg md:text-2xl font-black text-slate-800 dark:text-white flex items-center gap-3"><Activity className="w-6 h-6 md:w-7 md:h-7 text-indigo-500" /> Rendimento: {globalModeloProva}</h3><p className="text-xs md:text-sm text-slate-400 font-bold uppercase tracking-[0.2em] mt-1">Evolução do Saldo de Acertos Líquidos</p></div>
@@ -1212,25 +1303,12 @@ export default function SimuladosPage() {
                 })}
               </div>
             </section>
+            </>
+          )}
         </div>
       )}
 
       <AnimatePresence>
-        {isFocusMode && (
-          <SimulatorOverlay
-            getDisplayTime={getDisplayTime}
-            timeLeft={timeLeft}
-            timerConfig={timerConfig}
-            setTimerConfig={setTimerConfig}
-            isTimerRunning={isTimerRunning}
-            pauseTimer={pauseTimer}
-            startTimer={startTimer}
-            resetTimer={resetTimer}
-            showExactTime={showExactTime}
-            setShowExactTime={setShowExactTime}
-            onClose={() => setIsFocusMode(false)}
-          />
-        )}
         {editingSimulado && (
           <EditSimuladoModal
             sim={editingSimulado}
@@ -1243,71 +1321,259 @@ export default function SimuladosPage() {
           />
         )}
       </AnimatePresence>
+
+      {/* Modal Novo Simulado (Tarefa) */}
+      {isModalNovoOpen && (
+        <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-lg shadow-2xl p-8 animate-in fade-in zoom-in-95 relative">
+            <button onClick={() => setIsModalNovoOpen(false)} className="absolute top-6 right-6 text-slate-400 hover:text-slate-600 transition-colors"><X className="w-5 h-5"/></button>
+            <h2 className="text-2xl font-black mb-6 text-slate-800 dark:text-white flex items-center gap-3">
+              <Activity className="w-6 h-6 text-[#1B2B5E]" />
+              Novo Simulado
+            </h2>
+            <form onSubmit={handleNovoTarefaSimulado} className="space-y-4">
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Prova *</label>
+                  <input required autoFocus value={formNovoTarefa.prova} onChange={e => setFormNovoTarefa({...formNovoTarefa, prova: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: ENEM, FUVEST" />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Ano *</label>
+                  <input required type="number" value={formNovoTarefa.ano} onChange={e => setFormNovoTarefa({...formNovoTarefa, ano: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: 2023" />
+                </div>
+              </div>
+              <div className="grid grid-cols-3 gap-4">
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Aplicação</label>
+                  <input value={formNovoTarefa.aplicacao} onChange={e => setFormNovoTarefa({...formNovoTarefa, aplicacao: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: Regular, PPL" />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Dia</label>
+                  <input value={formNovoTarefa.dia} onChange={e => setFormNovoTarefa({...formNovoTarefa, dia: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: Dia 1" />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Cor</label>
+                  <input value={formNovoTarefa.cor} onChange={e => setFormNovoTarefa({...formNovoTarefa, cor: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: Azul" />
+                </div>
+              </div>
+              <div className="grid grid-cols-2 gap-4 pt-2 border-t border-slate-100 dark:border-[#2C2C2E]">
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Agendar para</label>
+                  <input type="date" value={formNovoTarefa.agendado_para} onChange={e => setFormNovoTarefa({...formNovoTarefa, agendado_para: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Prioridade</label>
+                  <select value={formNovoTarefa.prioridade} onChange={e => setFormNovoTarefa({...formNovoTarefa, prioridade: parseInt(e.target.value)})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium">
+                    <option value={0}>Normal</option>
+                    <option value={1}>Urgente</option>
+                  </select>
+                </div>
+              </div>
+              <button disabled={isSavingTarefa} type="submit" className="w-full py-4 mt-6 bg-[#F97316] text-white text-sm font-black uppercase tracking-widest rounded-xl shadow-lg shadow-orange-500/20 active:scale-95 transition-all">
+                {isSavingTarefa ? "Salvando..." : "Cadastrar Simulado"}
+              </button>
+            </form>
+          </div>
+        </div>
+      )}
+
     </div>
   );
 }
 
 function SimulatorOverlay({
-  getDisplayTime, timeLeft, timerConfig, setTimerConfig, isTimerRunning, pauseTimer, startTimer, resetTimer, showExactTime, setShowExactTime, onClose
+  getDisplayTime, timeLeft, timerConfig, setTimerConfig, isTimerRunning, pauseTimer, startTimer, resetTimer, showExactTime, setShowExactTime, onClose, onMinimize
 }: any) {
+  const [h, m, s] = getDisplayTime().split(':');
   return (
-    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="fixed inset-0 z-[100] bg-slate-950 flex flex-col items-center justify-center p-10 text-white overflow-hidden font-sans">
-      <div className="absolute top-0 left-0 w-full h-1.5 bg-white/5 z-20">
-        <motion.div initial={{ width: "0%" }} animate={{ width: "100%" }} transition={{ duration: 1, ease: "linear" }} className="h-full bg-gradient-to-r from-indigo-600 to-indigo-400 shadow-[0_0_25px_rgba(99,102,241,0.6)]" />
+    <motion.div
+      initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+      className="fixed inset-0 z-[200] bg-slate-950 flex flex-col text-white overflow-hidden font-sans"
+    >
+      {/* Ambient glow */}
+      <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-indigo-500/10 rounded-full blur-[150px] -mr-60 -mt-60 pointer-events-none" />
+      <div className="absolute bottom-0 left-0 w-[400px] h-[400px] bg-indigo-800/10 rounded-full blur-[120px] -ml-40 -mb-40 pointer-events-none" />
+
+      {/* Top progress bar */}
+      <div className="absolute top-0 left-0 w-full h-1 bg-white/5 z-20">
+        <motion.div
+          initial={{ width: "0%" }} animate={{ width: "100%" }}
+          transition={{ duration: 1, ease: "linear" }}
+          className="h-full bg-gradient-to-r from-indigo-600 to-indigo-400 shadow-[0_0_20px_rgba(99,102,241,0.6)]"
+        />
       </div>
-      <div className="absolute top-0 right-0 w-[800px] h-[800px] bg-indigo-500/10 rounded-full blur-[150px] -mr-60 -mt-60 z-0 opacity-50"></div>
-      <div className="absolute bottom-0 left-0 w-[600px] h-[600px] bg-rose-500/5 rounded-full blur-[120px] -ml-40 -mb-40 z-0 opacity-30"></div>
-      <div className="absolute top-5 md:top-12 left-4 md:left-12 right-4 md:right-12 flex justify-between items-center z-10">
-        <div className="flex items-center gap-3 md:gap-6">
-          <div className="hidden md:flex w-16 h-16 bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl items-center justify-center shadow-2xl">
-            <Activity className="w-8 h-8 text-indigo-400 animate-pulse" />
+
+      {/* Header bar */}
+      <div className="relative z-10 flex items-center justify-between px-6 md:px-12 pt-8 pb-4 flex-shrink-0">
+        <div className="flex items-center gap-4">
+          <div className="w-12 h-12 bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl flex items-center justify-center">
+            <Activity className="w-6 h-6 text-indigo-400" />
           </div>
           <div>
-            <h3 className="text-lg md:text-3xl font-black tracking-tighter uppercase italic">Simulado Imersivo</h3>
-            <p className="text-[10px] text-slate-500 font-bold uppercase tracking-[0.3em] md:tracking-[0.4em] mt-0.5">Status: {isTimerRunning ? 'Ativo' : 'Pausado'}</p>
+            <h3 className="text-base md:text-xl font-black tracking-widest uppercase">Modo Imersivo</h3>
+            <div className="flex items-center gap-2 mt-0.5">
+              <div className={`w-1.5 h-1.5 rounded-full ${isTimerRunning ? 'bg-indigo-400 animate-pulse' : 'bg-slate-600'}`} />
+              <p className="text-[10px] text-slate-500 font-bold uppercase tracking-[0.3em]">{isTimerRunning ? 'Em andamento' : 'Pausado'}</p>
+            </div>
           </div>
         </div>
-        <div className="flex items-center gap-2 md:gap-4">
-          <button onClick={() => setShowExactTime(!showExactTime)} className="hidden md:block px-8 py-4 bg-white/5 hover:bg-white/10 text-white rounded-2xl font-black text-[11px] uppercase tracking-[0.2em] transition-all border border-white/10 backdrop-blur-md shadow-lg">{showExactTime ? "Mascara on" : "Ver exato"}</button>
-          <button onClick={onClose} className="w-12 h-12 md:w-16 md:h-16 bg-white/5 hover:bg-rose-500/20 hover:text-rose-400 text-white rounded-2xl flex items-center justify-center transition-all border border-white/10 backdrop-blur-md shadow-lg active:scale-95"><X className="w-5 h-5 md:w-7 md:h-7" /></button>
+        <div className="flex items-center gap-2 md:gap-3">
+          <button
+            onClick={() => setShowExactTime(!showExactTime)}
+            className="hidden md:flex items-center gap-2 px-5 py-2.5 bg-white/5 hover:bg-white/10 text-white rounded-xl font-black text-[10px] uppercase tracking-[0.2em] transition-all border border-white/10"
+          >
+            {showExactTime ? 'Máscara' : 'Ver exato'}
+          </button>
+          <button
+            onClick={onMinimize}
+            title="Minimizar"
+            className="w-10 h-10 md:w-12 md:h-12 bg-white/5 hover:bg-indigo-500/20 hover:text-indigo-300 text-slate-400 rounded-xl flex items-center justify-center transition-all border border-white/10 active:scale-95"
+          >
+            <Minimize2 className="w-4 h-4 md:w-5 md:h-5" />
+          </button>
+          <button
+            onClick={onClose}
+            className="w-10 h-10 md:w-12 md:h-12 bg-white/5 hover:bg-rose-500/20 hover:text-rose-400 text-slate-400 rounded-xl flex items-center justify-center transition-all border border-white/10 active:scale-95"
+          >
+            <X className="w-4 h-4 md:w-5 md:h-5" />
+          </button>
         </div>
       </div>
-      <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: "spring", damping: 20, stiffness: 100 }} className="relative z-10 flex flex-col items-center">
-        <div className="relative">
-          <div className="absolute inset-0 bg-white/5 blur-[100px] rounded-full scale-150 -z-10"></div>
-          <div className="text-[5rem] sm:text-[8rem] md:text-[16rem] font-black font-mono tracking-tighter tabular-nums leading-none select-none text-transparent bg-clip-text bg-gradient-to-b from-white via-white to-slate-500/20 drop-shadow-[0_35px_35px_rgba(0,0,0,0.6)]">
-            {getDisplayTime().split(':')[0]}:{getDisplayTime().split(':')[1]}
-          </div>
-          <div className="absolute -bottom-4 md:-bottom-8 right-0 text-3xl md:text-5xl font-black font-mono text-indigo-500/60 drop-shadow-lg">:{getDisplayTime().split(':')[2]}</div>
-        </div>
+
+      {/* Center: clock */}
+      <div className="flex-1 flex flex-col items-center justify-center relative z-10 px-6">
+        <motion.div
+          initial={{ scale: 0.85, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+          transition={{ type: "spring", damping: 18, stiffness: 90 }}
+          className="flex items-end justify-center gap-0 leading-none select-none"
+        >
+          <span className="text-[4.5rem] sm:text-[7rem] md:text-[12rem] font-black font-mono tracking-tighter tabular-nums text-transparent bg-clip-text bg-gradient-to-b from-white via-white to-slate-500/30">
+            {h}:{m}
+          </span>
+          <span className="text-[2rem] sm:text-[3rem] md:text-[5rem] font-black font-mono tracking-tighter tabular-nums text-indigo-500/50 mb-1 md:mb-3">
+            :{s}
+          </span>
+        </motion.div>
+
+        {/* Config inputs when paused and at 0 */}
         {!isTimerRunning && timeLeft === 0 && (
-          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="flex gap-6 items-center bg-white/5 backdrop-blur-3xl px-12 py-8 rounded-[3rem] border border-white/10 mt-12 shadow-2xl">
+          <motion.div
+            initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }}
+            className="flex items-center gap-4 bg-white/5 backdrop-blur-xl px-8 py-5 rounded-2xl border border-white/10 mt-8 shadow-xl"
+          >
             <div className="flex flex-col items-center">
-              <input type="number" min="0" value={timerConfig.hours} onChange={e => setTimerConfig({ ...timerConfig, hours: parseInt(e.target.value) || 0 })} className="w-24 bg-transparent text-white font-black text-5xl text-center focus:outline-none focus:text-indigo-400 transition-colors" />
-              <span className="text-[10px] text-slate-500 font-black uppercase tracking-[0.3em] mt-2">Horas</span>
+              <input
+                type="number" min="0"
+                value={timerConfig.hours}
+                onChange={e => setTimerConfig({ ...timerConfig, hours: parseInt(e.target.value) || 0 })}
+                className="w-16 md:w-20 bg-transparent text-white font-black text-3xl md:text-4xl text-center focus:outline-none focus:text-indigo-400 transition-colors"
+              />
+              <span className="text-[9px] text-slate-500 font-black uppercase tracking-[0.3em] mt-1">Horas</span>
             </div>
-            <span className="text-slate-700 font-black text-4xl mb-6">:</span>
+            <span className="text-slate-600 font-black text-3xl pb-4">:</span>
             <div className="flex flex-col items-center">
-              <input type="number" min="0" max="59" value={timerConfig.minutes} onChange={e => setTimerConfig({ ...timerConfig, minutes: parseInt(e.target.value) || 0 })} className="w-24 bg-transparent text-white font-black text-5xl text-center focus:outline-none focus:text-indigo-400 transition-colors" />
-              <span className="text-[10px] text-slate-500 font-black uppercase tracking-[0.3em] mt-2">Minutos</span>
+              <input
+                type="number" min="0" max="59"
+                value={timerConfig.minutes}
+                onChange={e => setTimerConfig({ ...timerConfig, minutes: parseInt(e.target.value) || 0 })}
+                className="w-16 md:w-20 bg-transparent text-white font-black text-3xl md:text-4xl text-center focus:outline-none focus:text-indigo-400 transition-colors"
+              />
+              <span className="text-[9px] text-slate-500 font-black uppercase tracking-[0.3em] mt-1">Minutos</span>
             </div>
           </motion.div>
         )}
-        <div className="flex items-center justify-center gap-4 md:gap-8 mt-12 md:mt-24">
-          <button onClick={isTimerRunning ? pauseTimer : startTimer} className={`w-24 h-24 md:w-36 md:h-36 rounded-[2rem] md:rounded-[3rem] flex items-center justify-center transition-all active:scale-90 shadow-[0_20px_50px_rgba(0,0,0,0.4)] ${isTimerRunning ? 'bg-amber-500 shadow-amber-500/20' : 'bg-white text-slate-950 shadow-white/10'}`}>
-            {isTimerRunning ? <Pause className="w-10 h-10 md:w-14 md:h-14 fill-current" /> : <Play className="w-10 h-10 md:w-14 md:h-14 fill-current ml-1 md:ml-2" />}
-          </button>
-          <button onClick={resetTimer} className="w-24 h-24 md:w-36 md:h-36 bg-slate-800/80 hover:bg-slate-700 text-white rounded-[2rem] md:rounded-[3rem] flex items-center justify-center transition-all active:scale-95 shadow-2xl border border-white/5 backdrop-blur-md">
-            <X className="w-9 h-9 md:w-12 md:h-12" />
-          </button>
-        </div>
-      </motion.div>
-      <div className="absolute bottom-16 left-0 right-0 flex flex-col items-center z-10">
-        <div className="inline-flex items-center gap-4 bg-white/5 backdrop-blur-2xl px-10 py-4 rounded-full border border-white/5 shadow-2xl">
-          <div className={`w-2.5 h-2.5 rounded-full ${isTimerRunning ? 'bg-indigo-500 animate-pulse' : 'bg-slate-600'}`}></div>
-          <p className="text-slate-500 font-black uppercase tracking-[0.5em] text-[10px]">Mentoria • High Performance</p>
+      </div>
+
+      {/* Bottom: action buttons */}
+      <div className="relative z-10 flex items-center justify-center gap-4 md:gap-6 px-6 pb-10 flex-shrink-0">
+        <button
+          onClick={isTimerRunning ? pauseTimer : startTimer}
+          className={`w-20 h-20 md:w-28 md:h-28 rounded-[1.8rem] md:rounded-[2.5rem] flex items-center justify-center transition-all active:scale-90 shadow-2xl font-black ${
+            isTimerRunning
+              ? 'bg-amber-500 shadow-amber-500/30'
+              : 'bg-white text-slate-950 shadow-white/10 hover:bg-indigo-50'
+          }`}
+        >
+          {isTimerRunning
+            ? <Pause className="w-8 h-8 md:w-11 md:h-11 fill-current" />
+            : <Play className="w-8 h-8 md:w-11 md:h-11 fill-current ml-1" />
+          }
+        </button>
+        <button
+          onClick={resetTimer}
+          className="w-16 h-16 md:w-20 md:h-20 bg-slate-800/80 hover:bg-slate-700 text-slate-400 hover:text-white rounded-2xl md:rounded-[1.8rem] flex items-center justify-center transition-all active:scale-95 border border-white/5"
+        >
+          <X className="w-7 h-7 md:w-9 md:h-9" />
+        </button>
+      </div>
+
+      {/* Footer brand */}
+      <div className="absolute bottom-4 left-0 right-0 flex justify-center z-10">
+        <div className="inline-flex items-center gap-3 bg-white/5 backdrop-blur-xl px-8 py-2.5 rounded-full border border-white/5">
+          <div className={`w-2 h-2 rounded-full ${isTimerRunning ? 'bg-indigo-500 animate-pulse' : 'bg-slate-600'}`} />
+          <p className="text-slate-600 font-black uppercase tracking-[0.5em] text-[9px]">Método Autônomo • Alta Performance</p>
         </div>
       </div>
     </motion.div>
+  );
+}
+
+function FloatingTimer({ getDisplayTime, isTimerRunning, pauseTimer, startTimer, pos, setPos, onExpand, onClose }: any) {
+  const dragging = useRef(false);
+  const offset = useRef({ x: 0, y: 0 });
+
+  const onMouseDown = (e: React.MouseEvent) => {
+    dragging.current = true;
+    offset.current = { x: e.clientX - pos.x, y: e.clientY - pos.y };
+    e.preventDefault();
+  };
+
+  useEffect(() => {
+    const onMove = (e: MouseEvent) => {
+      if (!dragging.current) return;
+      setPos({ x: e.clientX - offset.current.x, y: e.clientY - offset.current.y });
+    };
+    const onUp = () => { dragging.current = false; };
+    window.addEventListener('mousemove', onMove);
+    window.addEventListener('mouseup', onUp);
+    return () => { window.removeEventListener('mousemove', onMove); window.removeEventListener('mouseup', onUp); };
+  }, [setPos]);
+
+  return (
+    <div
+      style={{ left: pos.x, top: pos.y, position: 'fixed', zIndex: 200, userSelect: 'none' }}
+      className="w-56 bg-slate-900/95 backdrop-blur-xl border border-white/10 rounded-3xl shadow-2xl shadow-black/40 overflow-hidden"
+    >
+      {/* drag handle */}
+      <div
+        onMouseDown={onMouseDown}
+        className="flex items-center gap-2 px-4 pt-3 pb-2 cursor-grab active:cursor-grabbing"
+      >
+        <div className={`w-2 h-2 rounded-full ${isTimerRunning ? 'bg-indigo-400 animate-pulse' : 'bg-slate-600'}`} />
+        <span className="text-[9px] font-black uppercase tracking-[0.3em] text-slate-500">Cronômetro</span>
+        <div className="flex-1" />
+        <button onClick={onExpand} title="Expandir" className="text-slate-500 hover:text-indigo-400 transition-colors p-0.5">
+          <Maximize2 className="w-3.5 h-3.5" />
+        </button>
+        <button onClick={onClose} title="Fechar" className="text-slate-500 hover:text-rose-400 transition-colors p-0.5">
+          <X className="w-3.5 h-3.5" />
+        </button>
+      </div>
+      <div className="px-4 pb-4">
+        <div className="text-4xl font-black font-mono tracking-tighter text-center text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-400 leading-none mb-3">
+          {getDisplayTime().slice(0, 5)}<span className="text-indigo-500/60 text-2xl">{getDisplayTime().slice(5)}</span>
+        </div>
+        <div className="flex gap-2 justify-center">
+          <button
+            onClick={isTimerRunning ? pauseTimer : startTimer}
+            className={`flex-1 py-2.5 rounded-xl font-black text-xs uppercase tracking-widest transition-all active:scale-95 ${
+              isTimerRunning ? 'bg-amber-500 text-white' : 'bg-indigo-600 text-white hover:bg-indigo-700'
+            }`}
+          >
+            {isTimerRunning ? 'Pausar' : 'Iniciar'}
+          </button>
+        </div>
+      </div>
+    </div>
   );
 }

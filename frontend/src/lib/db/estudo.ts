@@ -70,6 +70,9 @@ export async function criarProblemaManual(payload: {
   agendadoPara?: string | null;
   prioridade?: number;
   origem?: OrigemProblema;
+  prova?: string | null;
+  ano?: string | null;
+  corProva?: string | null;
 }): Promise<ProblemaEstudo | null> {
   const supabase = createClient();
   const { data, error } = await supabase
@@ -82,6 +85,9 @@ export async function criarProblemaManual(payload: {
       disciplina_nome: payload.disciplinaNome ?? null,
       agendado_para: payload.agendadoPara ?? null,
       prioridade: payload.prioridade ?? 0,
+      prova: payload.prova ?? null,
+      ano: payload.ano ?? null,
+      cor_prova: payload.corProva ?? null,
     })
     .select('*')
     .single();

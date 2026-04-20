@@ -25,7 +25,8 @@ import {
 } from "@/lib/db/kevquest";
 import { getDisciplinas, getConteudos, addConteudo, type Disciplina, type Conteudo } from "@/lib/db/disciplinas";
 import { getPreferences, updatePreferences } from "@/lib/db/preferences";
-import ModuleTarefas from "@/components/tarefas/ModuleTarefas";
+import { listarProblemas, criarProblemaManual, type ProblemaEstudo } from "@/lib/db/estudo";
+import ModuleTarefasKevQuest from "@/components/tarefas/ModuleTarefasKevQuest";
 
 function CustomDropdown({
   value,
@@ -156,6 +157,39 @@ export default function KevQuestPage() {
   const [editingId, setEditingId]                 = useState<string | null>(null);
   const [showFunnelFilters, setShowFunnelFilters] = useState(true);
   const [activeTab, setActiveTab]                 = useState<'tarefas' | 'kevquest' | 'evolucao'>('tarefas');
+  const [isModalNovoOpen, setIsModalNovoOpen] = useState(false);
+  const [isSavingTarefa, setIsSavingTarefa] = useState(false);
+  const [refreshTrigger, setRefreshTrigger] = useState(0);
+  const [formNovoTarefa, setFormNovoTarefa] = useState({ disciplina: '', conteudo: '', agendado_para: '', prioridade: 0 });
+
+  const handleNovoTarefaKevQuest = async (e: React.FormEvent) => {
+    e.preventDefault();
+    const { data: { user } } = await createClient().auth.getUser();
+    if (!user || !formNovoTarefa.disciplina.trim() || !formNovoTarefa.conteudo.trim()) {
+      toast.error("Disciplina e Conteúdo são obrigatórios!");
+      return;
+    }
+    setIsSavingTarefa(true);
+    
+    const titulo = `KevQuest: ${formNovoTarefa.disciplina} - ${formNovoTarefa.conteudo}`.trim();
+
+    const p = await criarProblemaManual({
+      userId: user.id,
+      titulo,
+      agendadoPara: formNovoTarefa.agendado_para || null,
+      prioridade: formNovoTarefa.prioridade,
+      origem: 'kevquest'
+    });
+    if (p) {
+      toast.success("Tarefa criada!");
+      setIsModalNovoOpen(false);
+      setFormNovoTarefa({ disciplina: '', conteudo: '', agendado_para: '', prioridade: 0 });
+      setRefreshTrigger(prev => prev + 1);
+    } else {
+      toast.error("Erro ao criar tarefa.");
+    }
+    setIsSavingTarefa(false);
+  };
   const [isSendingToEstudo, setIsSendingToEstudo] = useState<string | null>(null);
 
   // Modal Avaliação do Erro (Diagnóstico)
@@ -451,19 +485,36 @@ export default function KevQuestPage() {
   return (
     <div className="space-y-8 animate-in fade-in max-w-7xl mx-auto pb-20">
       
-      <header className="flex justify-between items-end mb-2">
-        <div>
-          <h1 className="text-3xl font-black text-slate-800 dark:text-[#FFFFFF] tracking-tight flex items-center gap-3">
-            <CheckCircle className="w-8 h-8 text-[#1B2B5E] dark:text-blue-400" /> KevQuest
+      <header className="flex justify-between items-end mb-6">
+        <div className="relative">
+          <div className="absolute -top-20 -left-20 w-64 h-64 bg-[#1B2B5E]/10 rounded-full blur-[100px] pointer-events-none"></div>
+          <h1 className="text-4xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-4 relative z-10">
+            <div className="bg-[#1B2B5E] p-3 rounded-[1.2rem] shadow-lg shadow-[#1B2B5E]/20">
+              <CheckCircle className="w-8 h-8 text-white" />
+            </div>
+            KevQuest
           </h1>
-          <p className="text-slate-500 dark:text-[#A1A1AA] mt-1 font-medium">Motor de Análise Qualitativa de Erros</p>
+          <div className="flex items-center gap-3 mt-3 relative z-10">
+            <div className="h-1 w-12 bg-[#F97316] rounded-full"></div>
+            <p className="text-sm text-slate-400 font-bold uppercase tracking-[0.2em]">Motor de Análise Qualitativa de Erros</p>
+          </div>
         </div>
-        <button 
-          onClick={openNewModal}
-          className="bg-[#1B2B5E] hover:bg-[#243870] text-white font-bold px-5 py-3 rounded-xl flex items-center gap-2 shadow-lg shadow-[#1B2B5E]/20 transition-all active:scale-95"
-        >
-          <Plus className="w-5 h-5" /> Nova Questão
-        </button>
+        <div className="flex items-center gap-4">
+          <button 
+            onClick={openNewModal}
+            className="flex items-center gap-2 bg-white dark:bg-[#1C1C1E] text-slate-800 dark:text-white border border-slate-200 dark:border-white/10 font-black px-7 py-4 rounded-2xl text-sm uppercase tracking-widest transition-all active:scale-95 shadow-sm"
+          >
+            <Plus className="w-5 h-5 text-[#F97316]" />
+            <span className="hidden sm:inline">Nova Questão</span>
+          </button>
+          <button 
+            onClick={() => setIsModalNovoOpen(true)}
+            className="flex items-center gap-2 bg-[#F97316] hover:bg-orange-600 text-white font-black px-7 py-4 rounded-2xl text-sm uppercase tracking-widest transition-all active:scale-95 shadow-lg shadow-orange-500/20"
+          >
+            <Plus className="w-5 h-5" />
+            <span className="hidden sm:inline">Nova Tarefa</span>
+          </button>
+        </div>
       </header>
 
       {/* TAB CONTROLS */}
@@ -484,7 +535,7 @@ export default function KevQuestPage() {
       </div>
 
       {activeTab === 'tarefas' && (
-        <ModuleTarefas origem="kevquest" />
+        <ModuleTarefasKevQuest refreshTrigger={refreshTrigger} />
       )}
 
       {/* --- WIDGETS GLOBAIS --- */}
@@ -927,6 +978,44 @@ export default function KevQuestPage() {
               </div>
             </div>
 
+          </div>
+        </div>
+      )}
+      {/* Modal Nova Tarefa */}
+      {isModalNovoOpen && (
+        <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-md shadow-2xl p-8 animate-in fade-in zoom-in-95 relative">
+            <button onClick={() => setIsModalNovoOpen(false)} className="absolute top-6 right-6 text-slate-400 hover:text-slate-600 transition-colors"><X className="w-5 h-5"/></button>
+            <h2 className="text-2xl font-black mb-6 text-slate-800 dark:text-white flex items-center gap-3">
+              <CheckCircle className="w-6 h-6 text-[#1B2B5E]" />
+              Nova Tarefa
+            </h2>
+            <form onSubmit={handleNovoTarefaKevQuest} className="space-y-5">
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Disciplina *</label>
+                  <input required autoFocus value={formNovoTarefa.disciplina} onChange={e => setFormNovoTarefa({...formNovoTarefa, disciplina: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: Matemática..." />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Conteúdo *</label>
+                  <input required value={formNovoTarefa.conteudo} onChange={e => setFormNovoTarefa({...formNovoTarefa, conteudo: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: Geometria Plana..." />
+                </div>
+              </div>
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Agendar para</label>
+                  <input type="date" value={formNovoTarefa.agendado_para} onChange={e => setFormNovoTarefa({...formNovoTarefa, agendado_para: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" />
+                </div>
+                <div>
+                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Prioridade</label>
+                  <select value={formNovoTarefa.prioridade} onChange={e => setFormNovoTarefa({...formNovoTarefa, prioridade: parseInt(e.target.value)})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium">
+                    <option value={0}>Normal</option>
+                    <option value={1}>Urgente</option>
+                  </select>
+                </div>
+              </div>
+              <button disabled={isSavingTarefa} type="submit" className="w-full py-4 mt-4 bg-[#F97316] text-white text-sm font-black uppercase tracking-widest rounded-xl shadow-lg shadow-orange-500/20 active:scale-95 transition-all">Salvar Tarefa</button>
+            </form>
           </div>
         </div>
       )}

@@ -8,7 +8,8 @@ import { createClient } from "@/utils/supabase/client";
 import { Trash, CheckCircle2, AlertCircle, Inbox, Plus, X } from "lucide-react";
 import { toast } from "sonner";
 
-export default function ModuleTarefas({ origem }: { origem: OrigemProblema }) {
+export default function ModuleTarefasKevQuest({ refreshTrigger = 0 }: { refreshTrigger?: number }) {
+  const origem: OrigemProblema = "kevquest";
   const [problemas, setProblemas] = useState<ProblemaEstudo[]>([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const [userId, setUserId] = useState<string | null>(null);
@@ -17,9 +18,6 @@ export default function ModuleTarefas({ origem }: { origem: OrigemProblema }) {
   const [modalConcluir, setModalConcluir] = useState<{ open: boolean; id: string | null }>({ open: false, id: null });
   const [formConcluir, setFormConcluir] = useState({ tempo: '', conforto: 0 });
   const [isSaving, setIsSaving] = useState(false);
-
-  const [modalNovo, setModalNovo] = useState(false);
-  const [formNovo, setFormNovo] = useState({ titulo: '', agendado_para: '', prioridade: 0 });
 
   useEffect(() => {
     const init = async () => {
@@ -30,7 +28,7 @@ export default function ModuleTarefas({ origem }: { origem: OrigemProblema }) {
       await fetchProblemas(user.id);
     };
     init();
-  }, [origem]);
+  }, [refreshTrigger]);
 
   const fetchProblemas = async (uid: string) => {
     const todos = await listarProblemas(uid);
@@ -67,28 +65,6 @@ export default function ModuleTarefas({ origem }: { origem: OrigemProblema }) {
       refresh();
     } else {
       toast.error('Erro ao concluir tarefa.');
-    }
-    setIsSaving(false);
-  };
-
-  const handleNovo = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!userId || !formNovo.titulo.trim()) return;
-    setIsSaving(true);
-    const p = await criarProblemaManual({
-      userId,
-      titulo: formNovo.titulo,
-      agendadoPara: formNovo.agendado_para || null,
-      prioridade: formNovo.prioridade,
-      origem: origem
-    });
-    if (p) {
-      toast.success("Tarefa criada!");
-      setModalNovo(false);
-      setFormNovo({ titulo: '', agendado_para: '', prioridade: 0 });
-      refresh();
-    } else {
-      toast.error("Erro ao criar tarefa.");
     }
     setIsSaving(false);
   };
@@ -163,27 +139,7 @@ export default function ModuleTarefas({ origem }: { origem: OrigemProblema }) {
 
   return (
     <div className="space-y-6 animate-in fade-in duration-500">
-      <div className="flex justify-between items-end mb-8">
-        <div className="relative">
-          <h2 className="text-2xl md:text-3xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-3 md:gap-4 relative z-10">
-            <div className="bg-[#1B2B5E] p-2 md:p-3 rounded-[1rem] md:rounded-[1.2rem] shadow-lg shadow-[#1B2B5E]/20">
-              <Inbox className="w-5 h-5 md:w-6 md:h-6 text-white" />
-            </div>
-            Tarefas do Módulo
-          </h2>
-          <div className="flex items-center gap-2 md:gap-3 mt-2 md:mt-3 relative z-10">
-            <div className="h-1 w-8 md:w-12 bg-[#F97316] rounded-full"></div>
-            <p className="text-xs md:text-sm text-slate-400 font-bold uppercase tracking-[0.15em] md:tracking-[0.2em]">Metas e Pendências</p>
-          </div>
-        </div>
-        <button
-          onClick={() => setModalNovo(true)}
-          className="flex items-center gap-2 bg-[#F97316] hover:bg-orange-600 text-white font-black px-4 md:px-5 py-2.5 md:py-3 rounded-xl md:rounded-2xl text-xs md:text-sm uppercase tracking-widest transition-all active:scale-95 shadow-lg shadow-orange-500/20"
-        >
-          <Plus className="w-4 h-4 md:w-5 md:h-5" />
-          <span className="hidden sm:inline">Nova Tarefa</span>
-        </button>
-      </div>
+      {/* Header removido para evitar duplicidade com page.tsx */}
 
       {/* Para Hoje */}
       <div>
@@ -254,35 +210,6 @@ export default function ModuleTarefas({ origem }: { origem: OrigemProblema }) {
         </div>
       )}
 
-      {/* Modal Novo */}
-      {modalNovo && (
-        <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-md shadow-2xl p-8 animate-in fade-in zoom-in-95 relative">
-            <button onClick={() => setModalNovo(false)} className="absolute top-6 right-6 text-slate-400 hover:text-slate-600 transition-colors"><X className="w-5 h-5"/></button>
-            <h2 className="text-2xl font-black mb-6 text-slate-800 dark:text-white">Nova Tarefa</h2>
-            <form onSubmit={handleNovo} className="space-y-5">
-              <div>
-                <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Título da Tarefa</label>
-                <input required autoFocus value={formNovo.titulo} onChange={e => setFormNovo({...formNovo, titulo: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" placeholder="Ex: Revisar teoria..." />
-              </div>
-              <div className="grid grid-cols-2 gap-4">
-                <div>
-                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Agendar para</label>
-                  <input type="date" value={formNovo.agendado_para} onChange={e => setFormNovo({...formNovo, agendado_para: e.target.value})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium" />
-                </div>
-                <div>
-                  <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Prioridade</label>
-                  <select value={formNovo.prioridade} onChange={e => setFormNovo({...formNovo, prioridade: parseInt(e.target.value)})} className="w-full bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-sm outline-none focus:border-indigo-500 font-medium">
-                    <option value={0}>Normal</option>
-                    <option value={1}>Urgente</option>
-                  </select>
-                </div>
-              </div>
-              <button disabled={isSaving} type="submit" className="w-full py-4 mt-4 bg-[#F97316] text-white text-sm font-black uppercase tracking-widest rounded-xl shadow-lg shadow-orange-500/20 active:scale-95 transition-all">Salvar Tarefa</button>
-            </form>
-          </div>
-        </div>
-      )}
     </div>
   );
 }
