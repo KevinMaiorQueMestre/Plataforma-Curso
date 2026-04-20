@@ -510,6 +510,7 @@ export default function KevQuestPage() {
           <span className="text-sm font-bold text-slate-500 dark:text-[#A1A1AA] uppercase tracking-wider">Total Lançadas</span>
         </div>
       </section>
+      )}
 
       {/* --- CARDS / FILTROS DO FUNIL --- */}
       {activeTab !== 'tarefas' && showFunnelFilters && (
