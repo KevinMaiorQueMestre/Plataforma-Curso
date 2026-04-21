@@ -1151,6 +1151,14 @@ export default function SemanaPage() {
 
       <div className="flex items-center justify-between mb-4">
         <button
+          onClick={gerarSemana}
+          title="Gerar semana a partir da rotina"
+          className="px-4 py-2 bg-[#1B2B5E] text-white font-black rounded-xl text-[10px] uppercase tracking-widest hover:bg-[#253b7d] flex items-center gap-2 shadow-lg shadow-[#1B2B5E]/20 transition-all active:scale-95"
+        >
+          <Zap className="w-3.5 h-3.5 text-amber-400" /> Gerar Semana
+        </button>
+
+        <button
           onClick={limparSemana}
           className="px-4 py-2 text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10 rounded-xl transition-all flex items-center gap-2 text-[10px] font-black uppercase tracking-widest"
         >

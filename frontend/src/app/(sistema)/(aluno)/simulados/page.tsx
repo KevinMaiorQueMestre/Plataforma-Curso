@@ -475,7 +475,7 @@ function EditSimuladoModal({
 
   if (sim.dados_modelo) {
      Object.keys(sim.dados_modelo).forEach(k => {
-         const val = sim.dados_modelo[k];
+         const val = (sim.dados_modelo as any)[k];
          if (typeof val === 'object' && val !== null) {
             initialForm[`${k}_c`] = (val as any).certos;
             initialForm[`${k}_e`] = (val as any).errados;
