@@ -15,7 +15,7 @@ import {
   Target,
   X
 } from "lucide-react";
-import { format, differenceInDays } from "date-fns";
+import { format, differenceInDays, differenceInCalendarDays } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { createClient } from "@/utils/supabase/client";
 import { motion, AnimatePresence } from "framer-motion";
@@ -250,7 +250,7 @@ export default function HomePage() {
 
   const selectedEvent = allEventsForSelect.find(e => e.id === selectedEventId);
   const daysToSelectedEvent = selectedEvent 
-    ? Math.max(0, differenceInDays(new Date(selectedEvent.date_iso), TODAY))
+    ? Math.max(0, differenceInCalendarDays(new Date(selectedEvent.date_iso + "T00:00:00"), new Date()))
     : null;
 
 
@@ -388,12 +388,12 @@ export default function HomePage() {
           <h1 className="text-2xl md:text-4xl font-black text-slate-800 dark:text-white tracking-tight flex items-center gap-2 md:gap-3">
             Olá, {userName.split(' ')[0]}! <span className="animate-bounce">👋</span>
           </h1>
-          <p className="text-slate-500 dark:text-[#A1A1AA] mt-1 font-medium text-sm md:text-lg">Bem-vindo de volta à sua central de evolução.</p>
+          <p className="text-slate-500 dark:text-[#A1A1AA] mt-1 font-medium text-sm md:text-lg">Bem-vindo de volta à sua plataforma de aprovação.</p>
         </div>
         <div className="hidden md:flex bg-white dark:bg-[#1C1C1E] px-6 py-3 rounded-2xl border border-slate-100 dark:border-[#2C2C2E] shadow-sm items-center gap-3">
           <Calendar className="w-5 h-5 text-[#1B2B5E] dark:text-blue-400" />
           <span className="text-sm font-bold text-slate-700 dark:text-slate-200 capitalize">
-            {format(TODAY, "EEEE, dd 'de' MMMM", { locale: ptBR })}
+            {format(new Date(), "EEEE, dd 'de' MMMM", { locale: ptBR })}
           </span>
         </div>
       </header>
@@ -658,7 +658,7 @@ export default function HomePage() {
                   }}
                   options={allEventsForSelect.map(ev => ({
                     value: ev.id,
-                    label: `${format(new Date(ev.date_iso), "dd/MM")} - ${ev.titulo}`
+                    label: `${format(new Date(ev.date_iso + "T00:00:00"), "dd/MM")} - ${ev.titulo}`
                   }))}
                   placeholder="Selecione um evento..."
                   className="w-full bg-white/10 border border-white/20 text-white placeholder-white/50 rounded-xl px-3 py-3 text-xs focus:ring-2 focus:ring-white/50 outline-none transition-colors backdrop-blur-md cursor-pointer font-medium"
