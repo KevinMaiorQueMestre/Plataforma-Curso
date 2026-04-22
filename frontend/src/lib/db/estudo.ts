@@ -256,6 +256,7 @@ export async function atualizarProblema(
     disciplinaNome?: string | null;
     conteudoId?: string | null;
     conteudoNome?: string | null;
+    subConteudo?: string | null;
     tipo_erro?: TipoErro | null;
   }
 ): Promise<boolean> {
@@ -275,6 +276,7 @@ export async function atualizarProblema(
       disciplina_nome: payload.disciplinaNome,
       conteudo_id: payload.conteudoId,
       conteudo_nome: payload.conteudoNome,
+      sub_conteudo: payload.subConteudo,
       tipo_erro: payload.tipo_erro,
       updated_at: new Date().toISOString()
     })

@@ -18,16 +18,18 @@ import { motion, AnimatePresence } from "framer-motion";
 import { createClient } from "@/utils/supabase/client";
 import SummaryCards from "@/components/dashboard/SummaryCards";
 import EvolutionCharts from "@/components/dashboard/EvolutionCharts";
-import { addConteudo } from "@/lib/db/disciplinas";
+import { addConteudo, addSubConteudo } from "@/lib/db/disciplinas";
 
 // --- TYPES ---
 type Disciplina = { id: string; nome: string; cor_hex: string };
-type Conteudo = { id: string; disciplina_id: string; nome: string };
+type SubConteudo = { id: string; conteudo_id: string; nome: string };
+type Conteudo = { id: string; disciplina_id: string; nome: string; sub_conteudos?: SubConteudo[] };
 type SessaoEstudo = {
   id: string;
   user_id: string;
   disciplina_id: string;
   conteudo_id: string;
+  sub_conteudo_id?: string | null;
   duracao_segundos: number;
   acertos: number;
   total_questoes: number;
@@ -182,6 +184,7 @@ export default function HomeEstudosPage() {
   const [estudos, setEstudos] = useState<SessaoEstudo[]>([]);
   const [disciplinas, setDisciplinas] = useState<Disciplina[]>([]);
   const [conteudos, setConteudos] = useState<Conteudo[]>([]);
+  const [subConteudos, setSubConteudos] = useState<SubConteudo[]>([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const [isSaving, setIsSaving] = useState(false);
   const [modalOpen, setModalOpen] = useState(false);
@@ -231,6 +234,7 @@ export default function HomeEstudosPage() {
     data: format(new Date(), 'yyyy-MM-dd'),
     disciplinaId: "",
     conteudoId: "",
+    subConteudoId: "",
     questoesFeitas: "",
     acertos: "",
     tempoH: "",
@@ -250,13 +254,15 @@ export default function HomeEstudosPage() {
       if (!user) return;
       setUserId(user.id);
 
-      const [discRes, contRes] = await Promise.all([
+      const [discRes, contRes, subContRes] = await Promise.all([
         supabase.from('disciplinas').select('*').order('nome'),
-        supabase.from('conteudos').select('*').order('nome')
+        supabase.from('conteudos').select('*').order('nome'),
+        supabase.from('sub_conteudos').select('*').order('nome')
       ]);
 
       if (discRes.data) setDisciplinas(discRes.data);
       if (contRes.data) setConteudos(contRes.data);
+      if (subContRes.data) setSubConteudos(subContRes.data);
 
       const [, probs] = await Promise.all([
         fetchSessions(),
@@ -467,7 +473,7 @@ export default function HomeEstudosPage() {
     e.preventDefault();
     if (isSaving) return;
 
-    const { tipoEstudo, disciplinaId, conteudoId, tempoH, tempoM, questoesFeitas, acertos, comentario } = form;
+    const { tipoEstudo, disciplinaId, conteudoId, subConteudoId, tempoH, tempoM, questoesFeitas, acertos, comentario } = form;
 
     if (!disciplinaId || !conteudoId || (!tempoH && !tempoM && seconds === 0)) {
       toast.error("Preencha Disciplina, Conteúdo e Tempo.");
@@ -485,6 +491,7 @@ export default function HomeEstudosPage() {
       user_id: user?.id,
       disciplina_id: disciplinaId,
       conteudo_id: conteudoId,
+      sub_conteudo_id: subConteudoId || null,
       duracao_segundos: totalSegundos,
       acertos: parseInt(acertos) || 0,
       total_questoes: parseInt(questoesFeitas) || 0,
@@ -509,7 +516,7 @@ export default function HomeEstudosPage() {
       setModalOpen(false);
       setEditingId(null);
       setSeconds(0);
-      setForm({ data: format(new Date(), 'yyyy-MM-dd'), disciplinaId: "", conteudoId: "", questoesFeitas: "", acertos: "", tempoH: "", tempoM: "", tipoEstudo: "misto", comentario: "", conforto: 0 });
+      setForm({ data: format(new Date(), 'yyyy-MM-dd'), disciplinaId: "", conteudoId: "", subConteudoId: "", questoesFeitas: "", acertos: "", tempoH: "", tempoM: "", tipoEstudo: "misto", comentario: "", conforto: 0 });
       await fetchSessions();
     }
     setIsSaving(false);
@@ -523,6 +530,7 @@ export default function HomeEstudosPage() {
       data: e.created_at,
       disciplinaId: e.disciplina_id,
       conteudoId: e.conteudo_id,
+      subConteudoId: e.sub_conteudo_id || "",
       questoesFeitas: (e.total_questoes || 0).toString(),
       acertos: (e.acertos || 0).toString(),
       tempoH: h.toString(),
@@ -604,6 +612,7 @@ export default function HomeEstudosPage() {
               data: format(new Date(), 'yyyy-MM-dd'),
               disciplinaId: "",
               conteudoId: "",
+              subConteudoId: "",
               questoesFeitas: "",
               acertos: "",
               tempoH: "",
@@ -1060,7 +1069,7 @@ export default function HomeEstudosPage() {
                     <CustomDropdown 
                      disabled={!form.disciplinaId} 
                      value={form.conteudoId} 
-                     onChange={v => setForm({...form, conteudoId: v})} 
+                     onChange={v => setForm({...form, conteudoId: v, subConteudoId: ""})} 
                      options={conteudos.filter(c => c.disciplina_id === form.disciplinaId).map(c => ({value: c.id, label: c.nome}))} 
                      placeholder="Selecione o Conteúdo" 
                      className="p-4 border border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" 
@@ -1069,8 +1078,26 @@ export default function HomeEstudosPage() {
                         const added = await addConteudo(form.disciplinaId, val);
                         if (added) {
                           setConteudos(prev => [...prev, added]);
-                          setForm({ ...form, conteudoId: added.id });
+                          setForm({ ...form, conteudoId: added.id, subConteudoId: "" });
                           toast.success("Novo conteúdo salvo!");
+                        }
+                     }}
+                    />
+
+                    <CustomDropdown 
+                     disabled={!form.conteudoId} 
+                     value={form.subConteudoId || ""} 
+                     onChange={v => setForm({...form, subConteudoId: v})} 
+                     options={subConteudos.filter(s => s.conteudo_id === form.conteudoId).map(s => ({value: s.id, label: s.nome}))} 
+                     placeholder="Selecione o Sub-conteúdo" 
+                     className="p-4 border border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" 
+                     onAddNewItem={async (val) => {
+                        if (!form.conteudoId) return;
+                        const added = await addSubConteudo(form.conteudoId, val);
+                        if (added) {
+                          setSubConteudos(prev => [...prev, added]);
+                          setForm({ ...form, subConteudoId: added.id });
+                          toast.success("Novo sub-conteúdo salvo!");
                         }
                      }}
                     />

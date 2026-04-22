@@ -10,11 +10,19 @@ export type Disciplina = {
   conteudos?: Conteudo[];
 };
 
+export type SubConteudo = {
+  id: string;
+  conteudo_id: string;
+  nome: string;
+  ordem: number;
+};
+
 export type Conteudo = {
   id: string;
   disciplina_id: string;
   nome: string;
   ordem: number;
+  sub_conteudos?: SubConteudo[];
 };
 
 /**
@@ -74,7 +82,7 @@ export async function getDisciplinasComConteudos(): Promise<
 
   let query = supabase
     .from("disciplinas")
-    .select("id, nome, cor_hex, icone, ordem, user_id, conteudos(id, disciplina_id, nome, ordem)");
+    .select("id, nome, cor_hex, icone, ordem, user_id, conteudos(id, disciplina_id, nome, ordem, sub_conteudos(id, conteudo_id, nome, ordem))");
 
   if (user) {
     query = query.or(`user_id.is.null,user_id.eq.${user.id}`);
@@ -151,4 +159,21 @@ export async function deleteConteudo(id: string): Promise<boolean> {
     return false;
   }
   return true;
+}
+
+export async function addSubConteudo(conteudo_id: string, nome: string): Promise<SubConteudo | null> {
+  const supabase = createClient();
+  const { data: { user } } = await supabase.auth.getUser();
+
+  const { data, error } = await supabase
+    .from("sub_conteudos")
+    .insert({ conteudo_id, nome, ordem: 99, user_id: user?.id })
+    .select()
+    .single();
+
+  if (error) {
+    console.error("[addSubConteudo]", error.message);
+    return null;
+  }
+  return data;
 }
