@@ -29,7 +29,7 @@ type SessaoEstudo = {
   user_id: string;
   disciplina_id: string;
   conteudo_id: string;
-  sub_conteudo_id?: string | null;
+  sub_conteudo?: string | null;
   duracao_segundos: number;
   acertos: number;
   total_questoes: number;
@@ -228,13 +228,16 @@ export default function HomeEstudosPage() {
   const [sortKey, setSortKey] = useState<'created_at' | 'performance' | 'conforto'>('created_at');
   const [sortDir, setSortDir] = useState<'asc' | 'desc'>('desc');
   const [isFocusMode, setIsFocusMode] = useState(false);
+  const [expandKevquest, setExpandKevquest] = useState(false);
+  const [expandRedacao, setExpandRedacao] = useState(false);
+  const [expandMaterias, setExpandMaterias] = useState(false);
 
   // Form
   const [form, setForm] = useState({
     data: format(new Date(), 'yyyy-MM-dd'),
     disciplinaId: "",
     conteudoId: "",
-    subConteudoId: "",
+    subConteudo: "",
     questoesFeitas: "",
     acertos: "",
     tempoH: "",
@@ -473,7 +476,7 @@ export default function HomeEstudosPage() {
     e.preventDefault();
     if (isSaving) return;
 
-    const { tipoEstudo, disciplinaId, conteudoId, subConteudoId, tempoH, tempoM, questoesFeitas, acertos, comentario } = form;
+    const { tipoEstudo, disciplinaId, conteudoId, subConteudo, tempoH, tempoM, questoesFeitas, acertos, comentario } = form;
 
     if (!disciplinaId || !conteudoId || (!tempoH && !tempoM && seconds === 0)) {
       toast.error("Preencha Disciplina, Conteúdo e Tempo.");
@@ -491,7 +494,7 @@ export default function HomeEstudosPage() {
       user_id: user?.id,
       disciplina_id: disciplinaId,
       conteudo_id: conteudoId,
-      sub_conteudo_id: subConteudoId || null,
+      sub_conteudo: subConteudo || null,
       duracao_segundos: totalSegundos,
       acertos: parseInt(acertos) || 0,
       total_questoes: parseInt(questoesFeitas) || 0,
@@ -516,7 +519,7 @@ export default function HomeEstudosPage() {
       setModalOpen(false);
       setEditingId(null);
       setSeconds(0);
-      setForm({ data: format(new Date(), 'yyyy-MM-dd'), disciplinaId: "", conteudoId: "", subConteudoId: "", questoesFeitas: "", acertos: "", tempoH: "", tempoM: "", tipoEstudo: "misto", comentario: "", conforto: 0 });
+      setForm({ data: format(new Date(), 'yyyy-MM-dd'), disciplinaId: "", conteudoId: "", subConteudo: "", questoesFeitas: "", acertos: "", tempoH: "", tempoM: "", tipoEstudo: "misto", comentario: "", conforto: 0 });
       await fetchSessions();
     }
     setIsSaving(false);
@@ -530,7 +533,7 @@ export default function HomeEstudosPage() {
       data: e.created_at,
       disciplinaId: e.disciplina_id,
       conteudoId: e.conteudo_id,
-      subConteudoId: e.sub_conteudo_id || "",
+      subConteudo: e.sub_conte_id || e.sub_conteudo || "",
       questoesFeitas: (e.total_questoes || 0).toString(),
       acertos: (e.acertos || 0).toString(),
       tempoH: h.toString(),
@@ -612,7 +615,7 @@ export default function HomeEstudosPage() {
               data: format(new Date(), 'yyyy-MM-dd'),
               disciplinaId: "",
               conteudoId: "",
-              subConteudoId: "",
+              subConteudo: "",
               questoesFeitas: "",
               acertos: "",
               tempoH: "",
@@ -772,8 +775,18 @@ export default function HomeEstudosPage() {
                       Nenhuma questão pendente do KevQuest.
                     </div>
                   ) : (
-                    <div className="grid gap-3 md:grid-cols-2">
-                      {pendingKevquest.map(p => <ProblemaCard key={p.id} prob={p} />)}
+                    <div className="space-y-3">
+                      <div className="grid gap-3 md:grid-cols-2">
+                        {(expandKevquest ? pendingKevquest : pendingKevquest.slice(0, 2)).map(p => <ProblemaCard key={p.id} prob={p} />)}
+                      </div>
+                      {pendingKevquest.length > 2 && (
+                        <button
+                          onClick={() => setExpandKevquest(!expandKevquest)}
+                          className="w-full py-3 text-xs font-black uppercase tracking-widest text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-colors"
+                        >
+                          {expandKevquest ? "Ver menos" : `Ver mais ${pendingKevquest.length - 2} atividades`}
+                        </button>
+                      )}
                     </div>
                   )}
                 </div>
@@ -803,8 +816,18 @@ export default function HomeEstudosPage() {
                       Nenhuma lacuna de redação pendente.
                     </div>
                   ) : (
-                    <div className="grid gap-3 md:grid-cols-2">
-                      {pendingRedacao.map(p => <ProblemaCard key={p.id} prob={p} />)}
+                    <div className="space-y-3">
+                      <div className="grid gap-3 md:grid-cols-2">
+                        {(expandRedacao ? pendingRedacao : pendingRedacao.slice(0, 2)).map(p => <ProblemaCard key={p.id} prob={p} />)}
+                      </div>
+                      {pendingRedacao.length > 2 && (
+                        <button
+                          onClick={() => setExpandRedacao(!expandRedacao)}
+                          className="w-full py-3 text-xs font-black uppercase tracking-widest text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-colors"
+                        >
+                          {expandRedacao ? "Ver menos" : `Ver mais ${pendingRedacao.length - 2} atividades`}
+                        </button>
+                      )}
                     </div>
                   )}
                 </div>
@@ -834,8 +857,18 @@ export default function HomeEstudosPage() {
                       Nenhuma matéria adicionada para estudo.
                     </div>
                   ) : (
-                    <div className="grid gap-3 md:grid-cols-2">
-                      {pendingMaterias.map(p => <ProblemaCard key={p.id} prob={p} />)}
+                    <div className="space-y-3">
+                      <div className="grid gap-3 md:grid-cols-2">
+                        {(expandMaterias ? pendingMaterias : pendingMaterias.slice(0, 2)).map(p => <ProblemaCard key={p.id} prob={p} />)}
+                      </div>
+                      {pendingMaterias.length > 2 && (
+                        <button
+                          onClick={() => setExpandMaterias(!expandMaterias)}
+                          className="w-full py-3 text-xs font-black uppercase tracking-widest text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-colors"
+                        >
+                          {expandMaterias ? "Ver menos" : `Ver mais ${pendingMaterias.length - 2} atividades`}
+                        </button>
+                      )}
                     </div>
                   )}
                 </div>
@@ -1060,7 +1093,8 @@ export default function HomeEstudosPage() {
 
                    <CustomDropdown 
                     value={form.disciplinaId} 
-                    onChange={v => setForm({...form, disciplinaId: v, conteudoId: ""})} 
+                                         onChange={v => setForm({...form, disciplinaId: v, conteudoId: "", subConteudo: ""})} 
+ 
                     options={disciplinas.map(d => ({value: d.id, label: d.nome}))} 
                     placeholder="Selecione a Disciplina" 
                     className="p-4 border border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" 
@@ -1069,7 +1103,7 @@ export default function HomeEstudosPage() {
                     <CustomDropdown 
                      disabled={!form.disciplinaId} 
                      value={form.conteudoId} 
-                     onChange={v => setForm({...form, conteudoId: v, subConteudoId: ""})} 
+                     onChange={v => setForm({...form, conteudoId: v, subConteudo: ""})} 
                      options={conteudos.filter(c => c.disciplina_id === form.disciplinaId).map(c => ({value: c.id, label: c.nome}))} 
                      placeholder="Selecione o Conteúdo" 
                      className="p-4 border border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" 
@@ -1078,29 +1112,23 @@ export default function HomeEstudosPage() {
                         const added = await addConteudo(form.disciplinaId, val);
                         if (added) {
                           setConteudos(prev => [...prev, added]);
-                          setForm({ ...form, conteudoId: added.id, subConteudoId: "" });
+                          setForm({ ...form, conteudoId: added.id, subConteudo: "" });
                           toast.success("Novo conteúdo salvo!");
                         }
                      }}
                     />
 
-                    <CustomDropdown 
-                     disabled={!form.conteudoId} 
-                     value={form.subConteudoId || ""} 
-                     onChange={v => setForm({...form, subConteudoId: v})} 
-                     options={subConteudos.filter(s => s.conteudo_id === form.conteudoId).map(s => ({value: s.id, label: s.nome}))} 
-                     placeholder="Selecione o Sub-conteúdo" 
-                     className="p-4 border border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold" 
-                     onAddNewItem={async (val) => {
-                        if (!form.conteudoId) return;
-                        const added = await addSubConteudo(form.conteudoId, val);
-                        if (added) {
-                          setSubConteudos(prev => [...prev, added]);
-                          setForm({ ...form, subConteudoId: added.id });
-                          toast.success("Novo sub-conteúdo salvo!");
-                        }
-                     }}
-                    />
+                    <div className="space-y-2">
+                       <label className="text-xs font-black text-slate-400 uppercase">Sub-conteúdo (Opcional)</label>
+                       <input 
+                         type="text"
+                         disabled={!form.conteudoId}
+                         value={form.subConteudo}
+                         onChange={e => setForm({...form, subConteudo: e.target.value})}
+                         className="w-full p-4 border border-slate-100 dark:border-slate-800 rounded-2xl bg-slate-50 dark:bg-slate-800 font-bold outline-none focus:border-indigo-500 transition-all placeholder:font-medium placeholder:opacity-50"
+                         placeholder={form.conteudoId ? "Ex: Estática..." : "Escolha o conteúdo primeiro"}
+                       />
+                    </div>
 
                    <div className="space-y-2">
                       <label className="text-xs font-black text-slate-400 uppercase">Tempo de Estudo</label>

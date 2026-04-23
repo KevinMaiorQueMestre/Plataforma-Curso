@@ -810,7 +810,8 @@ export default function SimuladosPage() {
     anoProva: "",
     tempo1H: "", tempo1M: "",
     tempo2H: "", tempo2M: "",
-    tempoRedH: "", tempoRedM: ""
+    tempoRedH: "", tempoRedM: "",
+    questoesErradas: []
   });
 
   // When global model changes, reset form
@@ -818,7 +819,8 @@ export default function SimuladosPage() {
     setForm((prev: any) => ({
        nomeProva: prev.nomeProva,
        anoProva: prev.anoProva,
-       tempo1H: "", tempo1M: "", tempo2H: "", tempo2M: "", tempoRedH: "", tempoRedM: ""
+       tempo1H: "", tempo1M: "", tempo2H: "", tempo2M: "", tempoRedH: "", tempoRedM: "",
+       questoesErradas: []
     }));
   }, [globalModeloProva]);
 
@@ -831,6 +833,7 @@ export default function SimuladosPage() {
   const [isFocusMode, setIsFocusMode] = useState(false);
   const [isTimerMinimized, setIsTimerMinimized] = useState(false);
   const [floatPos, setFloatPos] = useState({ x: 24, y: 80 });
+  const [questaoInput, setQuestaoInput] = useState("");
 
   useEffect(() => {
     let interval: NodeJS.Timeout;
@@ -946,11 +949,35 @@ export default function SimuladosPage() {
            setSelectedTarefaSimulado(null);
         }
 
+        if (form.questoesErradas && form.questoesErradas.length > 0) {
+           const nums = form.questoesErradas;
+           if (nums.length > 0) {
+              const promises = nums.map((qNum: number) => {
+                 return criarProblemaManual({
+                    userId,
+                    titulo: `Q${qNum} - ${tituloCompleto}`,
+                    agendadoPara: null,
+                    prioridade: 0,
+                    origem: 'kevquest',
+                    prova: currentModelId,
+                    ano: selectedTarefaSimulado?.ano || form.anoProva || '',
+                    corProva: selectedTarefaSimulado?.cor_prova || form.cor || null,
+                    qNum: qNum.toString(),
+                    tipoErro: null as any,
+                    comentario: ""
+                 });
+              });
+              await Promise.all(promises);
+              toast.success(`${nums.length} questões enviadas ao funil KevQuest! 📥`);
+           }
+        }
+
         // triggers re-render and cleans form via useEffect but let's force a clean manually preserving name
         setForm({
            nomeProva: form.nomeProva,
            anoProva: form.anoProva,
-           tempo1H: "", tempo1M: "", tempo2H: "", tempo2M: "", tempoRedH: "", tempoRedM: ""
+           tempo1H: "", tempo1M: "", tempo2H: "", tempo2M: "", tempoRedH: "", tempoRedM: "",
+           questoesErradas: []
         });
       } else {
         toast.error("Erro ao salvar.");
@@ -1228,6 +1255,44 @@ export default function SimuladosPage() {
                     if (selectedTarefaSimulado.titulo.includes("(Dia 2)")) return 2;
                     return undefined;
                   })()} />
+                  
+                  <div className="mt-8 bg-slate-50 dark:bg-[#2C2C2E]/50 border border-slate-100 dark:border-white/5 rounded-[2rem] p-6 shadow-sm">
+                    <label className="block text-[10px] font-black text-slate-400 mb-2 uppercase tracking-[0.25em]">Questões Erradas (KevQuest)</label>
+                    <p className="text-xs text-slate-500 mb-4 font-bold">Digite o número da questão e aperte Enter. Elas serão enviadas automaticamente para o funil do KevQuest.</p>
+                    
+                    <div className="flex flex-wrap gap-2 mb-4">
+                      {Array.isArray(form.questoesErradas) && form.questoesErradas.map((num: number) => (
+                        <div key={num} className="flex items-center gap-2 bg-rose-50 dark:bg-rose-500/10 text-rose-500 px-3 py-1.5 rounded-lg border border-rose-100 dark:border-rose-500/20 shadow-sm">
+                          <span className="text-xs font-black">Q{num}</span>
+                          <button 
+                            type="button" 
+                            onClick={() => setForm({...form, questoesErradas: form.questoesErradas.filter((n: number) => n !== num)})}
+                            className="hover:bg-rose-200 dark:hover:bg-rose-500/30 p-0.5 rounded-md transition-colors"
+                          >
+                            <X className="w-3 h-3" />
+                          </button>
+                        </div>
+                      ))}
+                    </div>
+
+                    <input
+                      type="number"
+                      value={questaoInput}
+                      onChange={e => setQuestaoInput(e.target.value)}
+                      onKeyDown={e => {
+                        if (e.key === 'Enter') {
+                          e.preventDefault();
+                          const val = parseInt(questaoInput);
+                          if (!isNaN(val) && val > 0 && !form.questoesErradas.includes(val)) {
+                            setForm({...form, questoesErradas: [...form.questoesErradas, val]});
+                            setQuestaoInput("");
+                          }
+                        }
+                      }}
+                      placeholder="Ex: 15 (aperte Enter)"
+                      className="w-full bg-white dark:bg-[#1C1C1E] font-bold text-lg px-6 py-4 rounded-2xl shadow-inner outline-none focus:ring-4 focus:ring-indigo-500/10 border border-transparent transition-all"
+                    />
+                  </div>
                 </div>
               ) : (
                 <div className="flex flex-col items-center justify-center py-12 text-center">

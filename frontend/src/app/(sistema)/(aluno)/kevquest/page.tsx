@@ -145,10 +145,11 @@ export default function KevQuestPage() {
     numQuestao: "",
     disciplinaId: "",
     conteudoId: "",
-    subConteudoId: "",
+    subConteudo: "",
     tipoErro: "" as TipoErro | "",
     comentario: ""
   });
+  const [editingErroId, setEditingErroId] = useState<string | null>(null);
   const [isSaving, setIsSaving] = useState(false);
   
   // Edit Error Modal State
@@ -157,7 +158,7 @@ export default function KevQuestPage() {
     numQuestao: "",
     disciplinaId: "",
     conteudoId: "",
-    subConteudoId: "",
+    subConteudo: "",
     tipoErro: "" as TipoErro | "",
     comentario: "",
     prova: "",
@@ -203,7 +204,6 @@ export default function KevQuestPage() {
 
   const currentDisciplina = disciplinas.find(d => d.id === formErro.disciplinaId);
   const opcoesConteudo = currentDisciplina?.conteudos.map(c => ({ value: c.id, label: c.nome })) || [];
-  const opcoesSubConteudo = currentDisciplina?.conteudos.find(c => c.id === formErro.conteudoId)?.sub_conteudos?.map(s => ({ value: s.id, label: s.nome })) || [];
 
   const opcoesDisciplina = disciplinas
     .filter(d => {
@@ -267,6 +267,46 @@ export default function KevQuestPage() {
 
     const titulo = `Q${formErro.numQuestao} - ${selectedSimulado.titulo_simulado}`;
 
+    if (editingErroId) {
+       const ok = await atualizarProblema(editingErroId, {
+          q_num: formErro.numQuestao,
+          disciplinaId: formErro.disciplinaId,
+          disciplinaNome: discNome,
+          conteudoId: formErro.conteudoId,
+          conteudoNome: contNome,
+          subConteudo: formErro.subConteudo || null,
+          tipo_erro: formErro.tipoErro as TipoErro,
+          comentario: formErro.comentario
+       });
+       if (ok) {
+         toast.success("Erro atualizado com sucesso!");
+         setQuestoesCadastradas(prev => prev.map(q => q.id === editingErroId ? {
+            ...q,
+            q_num: formErro.numQuestao,
+            disciplina_id: formErro.disciplinaId,
+            disciplina_nome: discNome,
+            conteudo_id: formErro.conteudoId,
+            conteudo_nome: contNome,
+            sub_conteudo: formErro.subConteudo || null,
+            tipo_erro: formErro.tipoErro as TipoErro,
+            comentario: formErro.comentario
+         } : q));
+         setEditingErroId(null);
+         setFormErro({
+           numQuestao: "",
+           disciplinaId: "",
+           conteudoId: "",
+           subConteudo: "",
+           tipoErro: "",
+           comentario: ""
+         });
+       } else {
+         toast.error("Erro ao atualizar.");
+       }
+       setIsSaving(false);
+       return;
+    }
+
     const p = await criarProblemaManual({
       userId,
       titulo,
@@ -281,7 +321,7 @@ export default function KevQuestPage() {
       disciplinaNome: discNome,
       conteudoId: formErro.conteudoId,
       conteudoNome: contNome,
-      subConteudo: formErro.subConteudoId || null,
+      subConteudo: formErro.subConteudo || null,
       tipoErro: formErro.tipoErro as TipoErro,
       comentario: formErro.comentario
     });
@@ -295,7 +335,7 @@ export default function KevQuestPage() {
         ...prev,
         numQuestao: "",
         conteudoId: "", // reseta o assunto mas mantém a matéria
-        subConteudoId: "",
+        subConteudo: "",
         comentario: ""
       }));
       // Focar de volta no input da questão seria ideal, mas já é um avanço.
@@ -333,7 +373,7 @@ export default function KevQuestPage() {
       disciplinaNome: discSel?.nome || null,
       conteudoId: formEditErro.conteudoId,
       conteudoNome: contSel?.nome || null,
-      subConteudo: formEditErro.subConteudoId || null,
+      subConteudo: formEditErro.subConteudo || null,
       tipo_erro: formEditErro.tipoErro as TipoErro,
       comentario: formEditErro.comentario,
       prova: formEditErro.prova || null,
@@ -350,7 +390,7 @@ export default function KevQuestPage() {
         disciplina_nome: discSel?.nome || null,
         conteudo_id: formEditErro.conteudoId,
         conteudo_nome: contSel?.nome || null,
-        sub_conteudo: formEditErro.subConteudoId || null,
+        sub_conteudo: formEditErro.subConteudo || null,
         tipo_erro: formEditErro.tipoErro as TipoErro,
         comentario: formEditErro.comentario,
         prova: formEditErro.prova,
@@ -483,7 +523,7 @@ export default function KevQuestPage() {
                       key={sim.id}
                       onClick={() => {
                         setSelectedSimulado(isSelected ? null : sim);
-                        setFormErro({ numQuestao: "", disciplinaId: "", conteudoId: "", subConteudoId: "", tipoErro: "", comentario: "" });
+                        setFormErro({ numQuestao: "", disciplinaId: "", conteudoId: "", subConteudo: "", tipoErro: "", comentario: "" });
                       }}
                       className={`text-left p-4 rounded-2xl border-2 transition-all active:scale-[0.98] ${
                         isSelected
@@ -585,7 +625,7 @@ export default function KevQuestPage() {
                       <label className="block text-[10px] font-black mb-2 text-slate-400 uppercase tracking-widest">Assunto/Conteúdo</label>
                       <CustomDropdown
                         value={formErro.conteudoId}
-                        onChange={(v) => setFormErro({...formErro, conteudoId: v, subConteudoId: ""})}
+                        onChange={(v) => setFormErro({...formErro, conteudoId: v, subConteudo: ""})}
                         options={opcoesConteudo}
                         placeholder={formErro.disciplinaId ? "Selecione..." : "Escolha a matéria"}
                         disabled={!formErro.disciplinaId}
@@ -600,7 +640,7 @@ export default function KevQuestPage() {
                               }
                               return d;
                             }));
-                            setFormErro(prev => ({ ...prev, conteudoId: added.id, subConteudoId: "" }));
+                            setFormErro(prev => ({ ...prev, conteudoId: added.id, subConteudo: "" }));
                             toast.success('Novo conteúdo adicionado!');
                           }
                         }}
@@ -608,35 +648,13 @@ export default function KevQuestPage() {
                     </div>
                     <div className="flex-1">
                       <label className="block text-[10px] font-black mb-2 text-slate-400 uppercase tracking-widest">Sub-conteúdo</label>
-                      <CustomDropdown
-                        value={formErro.subConteudoId || ""}
-                        onChange={(v) => setFormErro({...formErro, subConteudoId: v})}
-                        options={opcoesSubConteudo}
-                        placeholder={formErro.conteudoId ? "Selecione..." : "Escolha o conteúdo"}
+                      <input 
+                        type="text"
+                        placeholder={formErro.conteudoId ? "Ex: Estática..." : "Escolha o conteúdo"}
                         disabled={!formErro.conteudoId}
-                        className="bg-slate-50 dark:bg-[#2C2C2E]/50 border border-slate-200 dark:border-white/10 rounded-2xl px-4 py-3.5 text-sm font-bold text-slate-800 dark:text-white"
-                        onAddNewItem={async (val) => {
-                          if (!formErro.conteudoId) return;
-                          const added = await addSubConteudo(formErro.conteudoId, val);
-                          if (added) {
-                            setDisciplinas(prev => prev.map(d => {
-                              if (d.id === formErro.disciplinaId) {
-                                return {
-                                  ...d,
-                                  conteudos: d.conteudos.map(c => {
-                                    if (c.id === formErro.conteudoId) {
-                                      return { ...c, sub_conteudos: [...(c.sub_conteudos || []), added] };
-                                    }
-                                    return c;
-                                  })
-                                };
-                              }
-                              return d;
-                            }));
-                            setFormErro(prev => ({ ...prev, subConteudoId: added.id }));
-                            toast.success('Novo sub-conteúdo adicionado!');
-                          }
-                        }}
+                        value={formErro.subConteudo}
+                        onChange={e => setFormErro({...formErro, subConteudo: e.target.value})}
+                        className="w-full bg-slate-50 dark:bg-[#2C2C2E]/50 border border-slate-200 dark:border-white/10 rounded-2xl px-4 py-3.5 text-sm font-bold text-slate-800 dark:text-white outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10 transition-all placeholder:font-medium placeholder:opacity-50"
                       />
                     </div>
                   </div>
@@ -675,13 +693,31 @@ export default function KevQuestPage() {
                     />
                   </div>
 
-                  <div className="flex justify-end pt-4">
+                  <div className="flex justify-end pt-4 gap-4">
+                    {editingErroId && (
+                       <button
+                         onClick={() => {
+                           setEditingErroId(null);
+                           setFormErro({
+                             numQuestao: "",
+                             disciplinaId: "",
+                             conteudoId: "",
+                             subConteudo: "",
+                             tipoErro: "",
+                             comentario: ""
+                           });
+                         }}
+                         className="flex items-center gap-2 bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 font-black px-8 py-4 rounded-2xl text-sm uppercase tracking-widest transition-all active:scale-95"
+                       >
+                         Cancelar
+                       </button>
+                    )}
                     <button 
                       onClick={handleAddErro}
                       disabled={isSaving}
                       className="flex items-center gap-2 bg-[#1B2B5E] hover:bg-blue-900 text-white font-black px-8 py-4 rounded-2xl text-sm uppercase tracking-widest transition-all active:scale-95 shadow-lg shadow-blue-900/20 disabled:opacity-50"
                     >
-                      {isSaving ? "Injetando..." : "Injetar no Funil"}
+                      {isSaving ? (editingErroId ? "Salvando..." : "Injetando...") : (editingErroId ? "Salvar Alterações" : "Injetar no Funil")}
                       {!isSaving && <Send className="w-4 h-4 ml-2" />}
                     </button>
                   </div>
@@ -703,17 +739,46 @@ export default function KevQuestPage() {
                     </div>
                   ) : (
                     questoesDesteSimulado.map(q => (
-                      <div key={q.id} className="bg-white dark:bg-[#1C1C1E] p-4 rounded-2xl shadow-sm border border-slate-100 dark:border-[#3A3A3C]">
+                      <div 
+                        key={q.id} 
+                        onClick={() => {
+                          setEditingErroId(q.id);
+                          setFormErro({
+                            numQuestao: q.q_num || "",
+                            disciplinaId: q.disciplina_id || "",
+                            conteudoId: q.conteudo_id || "",
+                            subConteudo: q.sub_conteudo || "",
+                            tipoErro: q.tipo_erro || "",
+                            comentario: q.comentario || ""
+                          });
+                        }}
+                        className={`cursor-pointer bg-white dark:bg-[#1C1C1E] p-4 rounded-2xl shadow-sm border relative group transition-all ${editingErroId === q.id ? 'border-indigo-500 ring-2 ring-indigo-500/20' : 'border-slate-100 dark:border-[#3A3A3C] hover:border-slate-200 dark:hover:border-slate-700'}`}
+                      >
                         <div className="flex justify-between items-start mb-2">
                           <span className="text-xs font-black text-slate-800 dark:text-white bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded-md">Q{q.q_num}</span>
-                          {q.tipo_erro && (
-                            <span className={`text-[10px] font-black uppercase tracking-wider px-2 py-1 rounded-md ${TIPO_ERRO_COLORS[q.tipo_erro].bg} ${TIPO_ERRO_COLORS[q.tipo_erro].text}`}>
-                              {TIPO_ERRO_LABELS[q.tipo_erro]}
-                            </span>
-                          )}
+                          <div className="flex items-center gap-2">
+                            {q.tipo_erro ? (
+                              <span className={`text-[10px] font-black uppercase tracking-wider px-2 py-1 rounded-md ${TIPO_ERRO_COLORS[q.tipo_erro].bg} ${TIPO_ERRO_COLORS[q.tipo_erro].text}`}>
+                                {TIPO_ERRO_LABELS[q.tipo_erro]}
+                              </span>
+                            ) : (
+                              <span className="text-[10px] font-black uppercase tracking-wider px-2 py-1 rounded-md bg-rose-50 text-rose-500 dark:bg-rose-500/10 dark:text-rose-400 animate-pulse">PENDENTE</span>
+                            )}
+                            <div className="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity">
+                              <button 
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  handleDeleteErro(q.id);
+                                }}
+                                className="bg-rose-50 dark:bg-rose-500/10 text-rose-500 p-1.5 rounded-lg hover:bg-rose-100 dark:hover:bg-rose-500/20 transition-colors"
+                              >
+                                <Trash2 className="w-3.5 h-3.5" />
+                              </button>
+                            </div>
+                          </div>
                         </div>
-                        <p className="text-xs font-bold text-slate-600 dark:text-slate-400 truncate">{q.disciplina_nome}</p>
-                        <p className="text-[10px] text-slate-400 truncate">{q.conteudo_nome}</p>
+                        <p className={`text-xs font-bold truncate ${q.disciplina_nome ? 'text-slate-600 dark:text-slate-400' : 'text-slate-400 italic'}`}>{q.disciplina_nome || "Sem disciplina"}</p>
+                        <p className={`text-[10px] truncate mt-0.5 ${q.conteudo_nome ? 'text-slate-400' : 'text-slate-400 italic'}`}>{q.conteudo_nome || "Sem conteúdo"}</p>
                       </div>
                     ))
                   )}
@@ -837,7 +902,7 @@ export default function KevQuestPage() {
                                 numQuestao: q.q_num || "",
                                 disciplinaId: q.disciplina_id || "",
                                 conteudoId: q.conteudo_id || "",
-                                subConteudoId: q.sub_conteudo || "",
+                                subConteudo: q.sub_conteudo || "",
                                 tipoErro: q.tipo_erro || "",
                                 comentario: q.comentario || "",
                                 prova: q.prova || "",
@@ -889,7 +954,7 @@ export default function KevQuestPage() {
                           numQuestao: q.q_num || "",
                           disciplinaId: q.disciplina_id || "",
                           conteudoId: q.conteudo_id || "",
-                          subConteudoId: q.sub_conteudo || "",
+                          subConteudo: q.sub_conteudo || "",
                           tipoErro: q.tipo_erro || "",
                           comentario: q.comentario || "",
                           prova: q.prova || "",
@@ -974,7 +1039,7 @@ export default function KevQuestPage() {
                       <label className="block text-[10px] font-black mb-2 text-slate-400 uppercase tracking-widest">Disciplina</label>
                       <CustomDropdown
                         value={formEditErro.disciplinaId}
-                        onChange={(v) => setFormEditErro({...formEditErro, disciplinaId: v, conteudoId: "", subConteudoId: ""})}
+                        onChange={(v) => setFormEditErro({...formEditErro, disciplinaId: v, conteudoId: "", subConteudo: ""})}
                         options={disciplinas.map(d => ({ value: d.id, label: d.nome }))}
                         placeholder="Selecione..."
                         className="bg-slate-50 dark:bg-[#2C2C2E]/50 border border-slate-200 dark:border-white/10 rounded-2xl px-4 py-3.5 text-sm font-bold text-slate-800 dark:text-white"
@@ -984,22 +1049,22 @@ export default function KevQuestPage() {
                       <label className="block text-[10px] font-black mb-2 text-slate-400 uppercase tracking-widest">Conteúdo</label>
                       <CustomDropdown
                         value={formEditErro.conteudoId}
-                        onChange={(v) => setFormEditErro({...formEditErro, conteudoId: v, subConteudoId: ""})}
+                        onChange={(v) => setFormEditErro({...formEditErro, conteudoId: v, subConteudo: ""})}
                         options={disciplinas.find(d => d.id === formEditErro.disciplinaId)?.conteudos.map(c => ({ value: c.id, label: c.nome })) || []}
                         placeholder={formEditErro.disciplinaId ? "Selecione..." : "Escolha a matéria"}
                         disabled={!formEditErro.disciplinaId}
                         className="bg-slate-50 dark:bg-[#2C2C2E]/50 border border-slate-200 dark:border-white/10 rounded-2xl px-4 py-3.5 text-sm font-bold text-slate-800 dark:text-white"
                       />
                     </div>
-                    <div>
+                     <div>
                       <label className="block text-[10px] font-black mb-2 text-slate-400 uppercase tracking-widest">Sub-conteúdo</label>
-                      <CustomDropdown
-                        value={formEditErro.subConteudoId || ""}
-                        onChange={(v) => setFormEditErro({...formEditErro, subConteudoId: v})}
-                        options={disciplinas.find(d => d.id === formEditErro.disciplinaId)?.conteudos.find(c => c.id === formEditErro.conteudoId)?.sub_conteudos?.map(s => ({ value: s.id, label: s.nome })) || []}
-                        placeholder={formEditErro.conteudoId ? "Selecione..." : "Escolha o conteúdo"}
+                      <input 
+                        type="text"
+                        placeholder={formEditErro.conteudoId ? "Ex: Estática..." : "Escolha o conteúdo"}
                         disabled={!formEditErro.conteudoId}
-                        className="bg-slate-50 dark:bg-[#2C2C2E]/50 border border-slate-200 dark:border-white/10 rounded-2xl px-4 py-3.5 text-sm font-bold text-slate-800 dark:text-white"
+                        value={formEditErro.subConteudo}
+                        onChange={e => setFormEditErro({...formEditErro, subConteudo: e.target.value})}
+                        className="w-full bg-slate-50 dark:bg-[#2C2C2E]/50 border border-slate-200 dark:border-white/10 rounded-2xl px-4 py-3.5 text-sm font-bold text-slate-800 dark:text-white outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10 transition-all placeholder:font-medium placeholder:opacity-50"
                       />
                     </div>
                   </div>
