@@ -1,13 +1,42 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import { CheckCircle, LayoutGrid, BarChart2, Activity, Send, AlertCircle, Book, Target, ChevronDown, ArrowDown, ArrowUp, Trash2, Pencil, X, Loader2 } from "lucide-react";
+import { CheckCircle, LayoutGrid, BarChart2, Activity, Send, AlertCircle, Book, Target, ChevronDown, ArrowDown, ArrowUp, Trash2, Pencil, X, Loader2, RotateCcw } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { createClient } from "@/utils/supabase/client";
 import { toast } from "sonner";
+import { 
+  BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell, PieChart, Pie 
+} from 'recharts';
 import { listarSimulados, marcarSimuladoAnalisado, type SimuladoDB } from "@/lib/db/simulados";
 import { criarProblemaManual, listarProblemas, deletarProblema, atualizarProblema, type ProblemaEstudo, type TipoErro, TIPO_ERRO_COLORS, TIPO_ERRO_LABELS } from "@/lib/db/estudo";
 import { getDisciplinasComConteudos, addConteudo, addSubConteudo, type Disciplina, type Conteudo } from "@/lib/db/disciplinas";
+
+const CustomChartTooltip = ({ active, payload, label }: any) => {
+  if (active && payload && payload.length) {
+    return (
+      <div className="bg-white dark:bg-[#1C1C1E] p-4 rounded-2xl border border-slate-100 dark:border-[#2C2C2E] shadow-2xl">
+        <p className="text-xs font-black text-slate-800 dark:text-white uppercase tracking-widest mb-3">{label}</p>
+        <div className="space-y-2">
+          {payload.map((entry: any, index: number) => (
+            <div key={index} className="flex items-center justify-between gap-8">
+              <div className="flex items-center gap-2">
+                <div className="w-2 h-2 rounded-full" style={{ backgroundColor: entry.fill }} />
+                <span className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">{TIPO_ERRO_LABELS[entry.dataKey as TipoErro]}</span>
+              </div>
+              <span className="text-xs font-black text-slate-800 dark:text-white">{entry.value}</span>
+            </div>
+          ))}
+          <div className="pt-2 mt-2 border-t border-slate-50 dark:border-slate-800 flex items-center justify-between gap-8">
+            <span className="text-[10px] font-black text-slate-400 uppercase tracking-wider">Total</span>
+            <span className="text-xs font-black text-indigo-500">{payload.reduce((acc: number, curr: any) => acc + curr.value, 0)}</span>
+          </div>
+        </div>
+      </div>
+    );
+  }
+  return null;
+};
 
 // --- CUSTOM DROPDOWN (Reusable) ---
 function CustomDropdown({
@@ -171,6 +200,7 @@ export default function KevQuestPage() {
   const [filterErro, setFilterErro] = useState<string>("all");
   const [sortKey, setSortKey] = useState<string>('q_num');
   const [sortDir, setSortDir] = useState<'asc' | 'desc'>('asc');
+  const [selectedDiscForPie, setSelectedDiscForPie] = useState<string | null>(null);
   
   const toggleSort = (key: string) => {
     if (sortKey === key) {
@@ -390,7 +420,7 @@ export default function KevQuestPage() {
         disciplina_nome: discSel?.nome || null,
         conteudo_id: formEditErro.conteudoId,
         conteudo_nome: contSel?.nome || null,
-        sub_conteudo: formEditErro.subConteudo || null,
+        sub_conteudo: formEditErro.sub_conteudo || null,
         tipo_erro: formEditErro.tipoErro as TipoErro,
         comentario: formEditErro.comentario,
         prova: formEditErro.prova,
@@ -452,6 +482,45 @@ export default function KevQuestPage() {
     if (valA > valB) return sortDir === 'asc' ? 1 : -1;
     return 0;
   });
+
+  const chartData = uniqueDisciplinas.map(discName => {
+    const relatedQuestões = questoesCadastradas.filter(q => 
+      q.disciplina_nome === discName && 
+      (filterProva === 'all' || (q.prova || (q.titulo?.toUpperCase().includes('ENEM') ? 'ENEM' : (q.titulo?.toUpperCase().includes('FUVEST') ? 'FUVEST' : 'Outra'))) === filterProva)
+    );
+    
+    return {
+      name: discName,
+      teoria: relatedQuestões.filter(q => q.tipo_erro === 'teoria').length,
+      pratica: relatedQuestões.filter(q => q.tipo_erro === 'pratica').length,
+      desatencao: relatedQuestões.filter(q => q.tipo_erro === 'desatencao').length,
+      total: relatedQuestões.length
+    };
+  }).filter(d => d.total > 0).sort((a, b) => b.total - a.total);
+
+  // --- DADOS PARA O GRÁFICO DE PIZZA (DRILL-DOWN) ---
+  const pieDataDisciplinas = uniqueDisciplinas.map(discName => {
+    const count = questoesCadastradas.filter(q => q.disciplina_nome === discName).length;
+    return { name: discName, value: count };
+  }).filter(d => d.value > 0).sort((a, b) => b.value - a.value);
+
+  const pieDataConteudos = selectedDiscForPie 
+    ? Array.from(new Set(questoesCadastradas
+        .filter(q => q.disciplina_nome === selectedDiscForPie)
+        .map(q => q.conteudo_nome || "Sem Conteúdo")))
+        .map(contName => {
+          const count = questoesCadastradas.filter(q => q.disciplina_nome === selectedDiscForPie && (q.conteudo_nome || "Sem Conteúdo") === contName).length;
+          return { name: contName, value: count };
+        }).filter(d => d.value > 0).sort((a, b) => b.value - a.value)
+    : [];
+
+  const activePieData = selectedDiscForPie ? pieDataConteudos : pieDataDisciplinas;
+  const totalPie = activePieData.reduce((acc, curr) => acc + curr.value, 0);
+
+  const PIE_COLORS = [
+    '#6366F1', '#8B5CF6', '#EC4899', '#F43F5E', '#EF4444', 
+    '#F97316', '#F59E0B', '#10B981', '#06B6D4', '#3B82F6'
+  ];
 
   if (!isLoaded) return <div className="p-8 text-slate-400 font-bold animate-pulse">Carregando KevQuest...</div>;
 
@@ -793,7 +862,185 @@ export default function KevQuestPage() {
       {/* ABA: EVOLUÇÃO (WIP) */}
       {activeTab === 'evolucao' && (
         <section className="space-y-6 animate-in fade-in">
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[3rem] border border-slate-100 dark:border-[#2C2C2E] p-6 lg:p-12">
+          <div className="bg-white dark:bg-[#1C1C1E] rounded-[3rem] border border-slate-100 dark:border-[#2C2C2E] p-6 lg:p-12 mb-8">
+            
+            {/* GRÁFICO DE PIZZA E RANKING */}
+            <div className="grid grid-cols-1 xl:grid-cols-2 gap-12 mb-24 items-start">
+              
+              {/* Lado Esquerdo: Pizza */}
+              <div className="bg-slate-50 dark:bg-[#2C2C2E]/20 p-8 rounded-[2.5rem] border border-slate-100 dark:border-[#2C2C2E]">
+                <div className="flex items-center justify-between mb-8">
+                  <div className="flex items-center gap-3">
+                    <div className="bg-white dark:bg-[#1C1C1E] p-2.5 rounded-xl shadow-sm">
+                      <Activity className="w-5 h-5 text-indigo-500" />
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-black text-slate-800 dark:text-white uppercase tracking-tight">
+                        {selectedDiscForPie ? `Erros: ${selectedDiscForPie}` : 'Foco por Disciplina'}
+                      </h3>
+                      <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest mt-0.5">Clique na fatia para detalhar</p>
+                    </div>
+                  </div>
+                  {selectedDiscForPie && (
+                    <button 
+                      onClick={() => setSelectedDiscForPie(null)}
+                      className="flex items-center gap-2 text-indigo-600 dark:text-indigo-400 font-black text-[10px] uppercase tracking-widest bg-white dark:bg-[#1C1C1E] px-4 py-2 rounded-xl shadow-sm hover:scale-105 transition-all"
+                    >
+                      <RotateCcw className="w-3.5 h-3.5" /> Voltar
+                    </button>
+                  )}
+                </div>
+
+                <div className="h-[350px] w-full relative">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <PieChart>
+                      <Pie
+                        data={activePieData}
+                        cx="50%"
+                        cy="50%"
+                        innerRadius={80}
+                        outerRadius={120}
+                        paddingAngle={5}
+                        dataKey="value"
+                        onClick={(data) => {
+                          if (!selectedDiscForPie) {
+                            setSelectedDiscForPie(data.name);
+                          }
+                        }}
+                        className="cursor-pointer outline-none"
+                        animationBegin={0}
+                        animationDuration={800}
+                      >
+                        {activePieData.map((entry, index) => (
+                          <Cell key={`cell-${index}`} fill={PIE_COLORS[index % PIE_COLORS.length]} stroke="transparent" />
+                        ))}
+                      </Pie>
+                      <Tooltip 
+                        content={({ active, payload }) => {
+                          if (active && payload && payload.length) {
+                            const data = payload[0].payload;
+                            const percent = ((data.value / totalPie) * 100).toFixed(1);
+                            return (
+                              <div className="bg-white dark:bg-[#1C1C1E] p-3 rounded-xl border border-slate-100 dark:border-[#2C2C2E] shadow-xl">
+                                <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1">{data.name}</p>
+                                <p className="text-sm font-black text-slate-800 dark:text-white">{data.value} erros ({percent}%)</p>
+                              </div>
+                            );
+                          }
+                          return null;
+                        }}
+                      />
+                    </PieChart>
+                  </ResponsiveContainer>
+                  
+                  {/* Centro da Pizza */}
+                  <div className="absolute inset-0 flex flex-col items-center justify-center pointer-events-none">
+                    <span className="text-3xl font-black text-slate-800 dark:text-white">{totalPie}</span>
+                    <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Total Erros</span>
+                  </div>
+                </div>
+              </div>
+
+              {/* Lado Direito: Ranking */}
+              <div className="flex flex-col">
+                <div className="flex items-center gap-3 mb-8">
+                  <div className="bg-indigo-50 dark:bg-indigo-500/10 p-2.5 rounded-xl">
+                    <Target className="w-5 h-5 text-indigo-500" />
+                  </div>
+                  <h3 className="text-lg font-black text-slate-800 dark:text-white uppercase tracking-tight">
+                    {selectedDiscForPie ? `Assuntos mais falhos` : 'Disciplinas Críticas'}
+                  </h3>
+                </div>
+
+                <div className="flex-1 space-y-3 overflow-y-auto max-h-[400px] pr-2 custom-scrollbar">
+                  {activePieData.map((item, index) => {
+                    const percent = ((item.value / totalPie) * 100).toFixed(1);
+                    return (
+                      <motion.div 
+                        key={item.name}
+                        initial={{ opacity: 0, x: 20 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        transition={{ delay: index * 0.05 }}
+                        onClick={() => !selectedDiscForPie && setSelectedDiscForPie(item.name)}
+                        className={`group flex items-center gap-4 p-4 rounded-2xl border-2 transition-all cursor-pointer ${
+                          !selectedDiscForPie ? 'hover:border-indigo-500 hover:bg-indigo-50/30 dark:hover:bg-indigo-500/5 shadow-sm' : 'cursor-default border-slate-50 dark:border-[#2C2C2E]'
+                        } border-slate-50 dark:border-[#2C2C2E] bg-white dark:bg-[#1C1C1E]`}
+                      >
+                        <div className="w-10 h-10 rounded-xl flex items-center justify-center font-black text-sm" style={{ backgroundColor: `${PIE_COLORS[index % PIE_COLORS.length]}20`, color: PIE_COLORS[index % PIE_COLORS.length] }}>
+                          {index + 1}º
+                        </div>
+                        <div className="flex-1 min-w-0">
+                          <p className="font-bold text-slate-800 dark:text-white truncate">{item.name}</p>
+                          <div className="w-full h-1.5 bg-slate-100 dark:bg-slate-800 rounded-full mt-2 overflow-hidden">
+                            <motion.div 
+                              initial={{ width: 0 }}
+                              animate={{ width: `${percent}%` }}
+                              className="h-full rounded-full"
+                              style={{ backgroundColor: PIE_COLORS[index % PIE_COLORS.length] }}
+                            />
+                          </div>
+                        </div>
+                        <div className="text-right">
+                          <p className="text-sm font-black text-slate-800 dark:text-white">{item.value}</p>
+                          <p className="text-[10px] font-bold text-slate-400">{percent}%</p>
+                        </div>
+                      </motion.div>
+                    );
+                  })}
+                </div>
+              </div>
+
+            </div>
+
+            {/* GRÁFICO DE DISTRIBUIÇÃO DE ERROS */}
+            <div className="mb-16">
+              <div className="flex items-center gap-3 mb-10">
+                <div className="bg-indigo-50 dark:bg-indigo-500/10 p-3 rounded-2xl">
+                  <BarChart2 className="w-6 h-6 text-indigo-500" />
+                </div>
+                <div>
+                  <h3 className="text-xl font-black text-slate-800 dark:text-white uppercase tracking-tight">Distribuição de Erros</h3>
+                  <p className="text-xs font-bold text-slate-400 uppercase tracking-widest mt-1">Visão geral por disciplina e tipo de falha</p>
+                </div>
+              </div>
+
+              <div className="h-[400px] w-full">
+                <ResponsiveContainer width="100%" height="100%">
+                  <BarChart data={chartData} margin={{ top: 20, right: 30, left: 0, bottom: 60 }}>
+                    <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#E2E8F0" opacity={0.3} />
+                    <XAxis 
+                      dataKey="name" 
+                      axisLine={false}
+                      tickLine={false}
+                      tick={{ fill: '#94A3B8', fontSize: 10, fontWeight: 900 }}
+                      interval={0}
+                      angle={-45}
+                      textAnchor="end"
+                      height={80}
+                    />
+                    <YAxis 
+                      axisLine={false}
+                      tickLine={false}
+                      tick={{ fill: '#94A3B8', fontSize: 10, fontWeight: 900 }}
+                    />
+                    <Tooltip content={<CustomChartTooltip />} cursor={{ fill: 'transparent' }} />
+                    <Bar dataKey="teoria" stackId="a" fill="#3B82F6" radius={[0, 0, 0, 0]} barSize={32} />
+                    <Bar dataKey="pratica" stackId="a" fill="#F97316" radius={[0, 0, 0, 0]} barSize={32} />
+                    <Bar dataKey="desatencao" stackId="a" fill="#EF4444" radius={[6, 6, 0, 0]} barSize={32} />
+                  </BarChart>
+                </ResponsiveContainer>
+              </div>
+              
+              <div className="flex flex-wrap justify-center gap-8 mt-6">
+                {(['teoria', 'pratica', 'desatencao'] as const).map(tipo => (
+                  <div key={tipo} className="flex items-center gap-2">
+                    <div className={`w-3 h-3 rounded-full ${tipo === 'teoria' ? 'bg-blue-500 shadow-[0_0_10px_rgba(59,130,246,0.5)]' : tipo === 'pratica' ? 'bg-orange-500 shadow-[0_0_10px_rgba(249,115,22,0.5)]' : 'bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.5)]'}`} />
+                    <span className="text-[10px] font-black uppercase tracking-[0.15em] text-slate-500 dark:text-slate-400">{TIPO_ERRO_LABELS[tipo]}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+
             <div className="flex flex-col md:flex-row justify-between mb-8 gap-4 items-start md:items-center">
               <div>
                 <h2 className="text-xl font-black text-slate-800 dark:text-white flex items-center gap-2">
@@ -1062,8 +1309,8 @@ export default function KevQuestPage() {
                         type="text"
                         placeholder={formEditErro.conteudoId ? "Ex: Estática..." : "Escolha o conteúdo"}
                         disabled={!formEditErro.conteudoId}
-                        value={formEditErro.subConteudo}
-                        onChange={e => setFormEditErro({...formEditErro, subConteudo: e.target.value})}
+                        value={formEditErro.sub_conteudo}
+                        onChange={e => setFormEditErro({...formEditErro, sub_conteudo: e.target.value})}
                         className="w-full bg-slate-50 dark:bg-[#2C2C2E]/50 border border-slate-200 dark:border-white/10 rounded-2xl px-4 py-3.5 text-sm font-bold text-slate-800 dark:text-white outline-none focus:border-indigo-500 focus:ring-4 focus:ring-indigo-500/10 transition-all placeholder:font-medium placeholder:opacity-50"
                       />
                     </div>

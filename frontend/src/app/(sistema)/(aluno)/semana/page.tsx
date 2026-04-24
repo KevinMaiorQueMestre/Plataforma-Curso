@@ -5,7 +5,7 @@ import {
   Calendar, Plus, X, Check, Clock, BookOpen, PenTool,
   Layers, RotateCcw, AlertCircle, ChevronLeft, ChevronRight,
   Trash2, Edit2, Book, Zap, Coffee, BarChart2,
-  CheckSquare, Loader2, ArrowRight, Target, Save, ChevronDown
+  MessageSquare, CheckSquare, Loader2, ArrowRight, Target, Save, ChevronDown
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { toast } from "sonner";
@@ -197,7 +197,7 @@ function BlocoCard({
       layout
       initial={{ opacity: 0, y: 4 }}
       animate={{ opacity: 1, y: 0 }}
-      onMouseEnter={() => !concluido && setIsExpanded(true)}
+      onMouseEnter={() => setIsExpanded(true)}
       onMouseLeave={() => setIsExpanded(false)}
       draggable={!concluido}
       onDragStart={(e: any) => onDragStart && onDragStart(e, bloco.id)}
@@ -210,21 +210,34 @@ function BlocoCard({
         </div>
 
         {/* 2. TIPO E DISCIPLINA */}
-        <div className="flex items-center gap-2 mt-1">
-          {disc ? (
-            <div className="flex items-center gap-1.5">
-              <span className="w-2 h-2 rounded-full" style={{ backgroundColor: disc.cor_hex }} />
-              <span className="text-[10px] font-black uppercase tracking-widest" style={{ color: disc.cor_hex }}>
-                {disc.nome}
-              </span>
-            </div>
-          ) : (
-            <div className="flex items-center gap-1.5">
-              <span className={`w-2 h-2 rounded-full ${getTipoCor(bloco.tipo)}`} />
-              <span className="text-[10px] font-black uppercase tracking-widest text-slate-500 dark:text-slate-400">
-                {tipoDef?.label}
-              </span>
-            </div>
+        <div className="flex items-center justify-between mt-1">
+          <div className="flex items-center gap-2">
+            {disc ? (
+              <div className="flex items-center gap-1.5">
+                <span className="w-2 h-2 rounded-full" style={{ backgroundColor: disc.cor_hex }} />
+                <span className="text-[10px] font-black uppercase tracking-widest" style={{ color: disc.cor_hex }}>
+                  {disc.nome}
+                </span>
+              </div>
+            ) : (
+              <div className="flex items-center gap-1.5">
+                <span className={`w-2 h-2 rounded-full ${getTipoCor(bloco.tipo)}`} />
+                <span className="text-[10px] font-black uppercase tracking-widest text-slate-500 dark:text-slate-400">
+                  {tipoDef?.label}
+                </span>
+              </div>
+            )}
+          </div>
+
+          {/* INDICADOR DE COMENTÁRIO (Quando concluído e não expandido) */}
+          {concluido && bloco.notas && !isExpanded && (
+            <motion.div 
+              initial={{ opacity: 0, scale: 0.8 }}
+              animate={{ opacity: 1, scale: 1 }}
+              className="text-indigo-500/60"
+            >
+              <MessageSquare className="w-3 h-3 fill-current opacity-20" />
+            </motion.div>
           )}
         </div>
 
@@ -235,11 +248,25 @@ function BlocoCard({
             <span>{bloco.horario_ini.slice(0,5)} – {bloco.horario_fim.slice(0,5)}</span>
           </div>
 
-          {bloco.notas && (
-            <p className="text-slate-500 dark:text-slate-400 text-[10px] mt-1.5 italic border-l-2 border-slate-200 dark:border-slate-700 pl-2">
-              {bloco.notas}
-            </p>
-          )}
+          <AnimatePresence>
+            {bloco.notas && (!concluido || isExpanded) && (
+              <motion.div
+                initial={concluido ? { height: 0, opacity: 0, marginTop: 0 } : { height: "auto", opacity: 1, marginTop: 6 }}
+                animate={{ height: "auto", opacity: 1, marginTop: 6 }}
+                exit={{ height: 0, opacity: 0, marginTop: 0 }}
+                className="overflow-hidden"
+              >
+                <div className={`flex items-start gap-2 text-[10px] italic border-l-2 pl-2 py-1.5 rounded-r-xl ${
+                  concluido 
+                    ? "bg-white/50 dark:bg-white/5 border-indigo-400 dark:border-indigo-500/50 text-slate-600 dark:text-slate-300" 
+                    : "bg-slate-50/50 dark:bg-slate-800/50 border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400"
+                }`}>
+                  <MessageSquare className={`w-3 h-3 mt-0.5 flex-shrink-0 ${concluido ? "text-indigo-500" : "text-slate-400"}`} />
+                  <p className="leading-tight">{bloco.notas}</p>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
         </div>
 
         {/* ACTIONS (Expandable) */}
@@ -529,7 +556,7 @@ function ModalNaoFeito({
           {isSaving ? <Loader2 className="animate-spin w-5 h-5" /> : <Check className="w-5 h-5" />}
           Confirmar
         </button>
-      </motion.div>
+      </div>
     </div>
   );
 }
