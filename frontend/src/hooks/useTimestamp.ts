@@ -1,21 +1,58 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 
-/**
- * Cronômetro crescente (stopwatch) ancorado em timestamp real (Date.now).
- * Resistente a throttling de aba em background e tela apagada.
- *
- * Uso:
- *   const { elapsedSeconds, isRunning, start, pause, reset } = useStopwatch();
- */
-export function useStopwatch() {
+const isBrowser = typeof window !== 'undefined';
+
+function readStorage<T>(key: string): T | null {
+  if (!isBrowser) return null;
+  try { const raw = localStorage.getItem(key); return raw ? JSON.parse(raw) : null; }
+  catch { return null; }
+}
+
+function writeStorage(key: string, data: object) {
+  if (!isBrowser) return;
+  try { localStorage.setItem(key, JSON.stringify(data)); } catch { /* noop */ }
+}
+
+function clearStorage(key: string) {
+  if (!isBrowser) return;
+  try { localStorage.removeItem(key); } catch { /* noop */ }
+}
+
+// ─── STOPWATCH (crescente) ────────────────────────────────────────────────────
+// storageKey: chave opcional de localStorage para sobreviver a navegação entre abas
+
+interface StopwatchStorage { accumulated: number; startedAt: number | null }
+
+export function useStopwatch(storageKey?: string) {
   const [elapsedSeconds, setElapsedSeconds] = useState(0);
   const [isRunning, setIsRunning] = useState(false);
 
-  // Momento exato em que o trecho atual de contagem começou
   const startTimestampRef = useRef<number | null>(null);
-  // Segundos acumulados de sessões anteriores (antes de pausas)
-  const accumulatedRef = useRef(0);
-  const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const accumulatedRef    = useRef(0);
+  const intervalRef       = useRef<ReturnType<typeof setInterval> | null>(null);
+  const restoredRef       = useRef(false);
+
+  // Restaura estado ao montar o componente
+  useEffect(() => {
+    if (!storageKey || restoredRef.current) return;
+    restoredRef.current = true;
+
+    const saved = readStorage<StopwatchStorage>(storageKey);
+    if (!saved) return;
+
+    if (saved.startedAt) {
+      // Estava rodando quando navegou — recalcula tempo decorrido
+      accumulatedRef.current     = saved.accumulated || 0;
+      startTimestampRef.current  = saved.startedAt;
+      const sinceStart = Math.floor((Date.now() - saved.startedAt) / 1000);
+      setElapsedSeconds(accumulatedRef.current + sinceStart);
+      setIsRunning(true);
+    } else if ((saved.accumulated || 0) > 0) {
+      // Estava pausado
+      accumulatedRef.current = saved.accumulated;
+      setElapsedSeconds(saved.accumulated);
+    }
+  }, [storageKey]);
 
   const tick = useCallback(() => {
     if (startTimestampRef.current === null) return;
@@ -25,29 +62,33 @@ export function useStopwatch() {
 
   useEffect(() => {
     if (isRunning) {
-      startTimestampRef.current = Date.now();
-      // Atualiza a cada 500ms para UI responsiva; o valor real vem do Date.now()
+      // Garante que startTimestampRef está definido (pode vir da restauração)
+      if (startTimestampRef.current === null) {
+        startTimestampRef.current = Date.now();
+      }
+      if (storageKey) {
+        writeStorage(storageKey, { accumulated: accumulatedRef.current, startedAt: startTimestampRef.current });
+      }
       intervalRef.current = setInterval(tick, 500);
     } else {
       if (intervalRef.current) clearInterval(intervalRef.current);
-      // Salva os segundos acumulados no momento da pausa
       if (startTimestampRef.current !== null) {
-        accumulatedRef.current = elapsedSeconds;
+        // Congela valor acumulado
+        accumulatedRef.current    = elapsedSeconds;
         startTimestampRef.current = null;
+        if (storageKey) {
+          writeStorage(storageKey, { accumulated: accumulatedRef.current, startedAt: null });
+        }
       }
     }
-    return () => {
-      if (intervalRef.current) clearInterval(intervalRef.current);
-    };
+    return () => { if (intervalRef.current) clearInterval(intervalRef.current); };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isRunning]);
 
-  // Força recálculo quando a aba volta ao foco (tela desbloqueada)
+  // Atualiza imediatamente quando a aba volta ao foco
   useEffect(() => {
     const handleVisible = () => {
-      if (document.visibilityState === 'visible' && isRunning) {
-        tick();
-      }
+      if (document.visibilityState === 'visible' && isRunning) tick();
     };
     document.addEventListener('visibilitychange', handleVisible);
     return () => document.removeEventListener('visibilitychange', handleVisible);
@@ -57,35 +98,49 @@ export function useStopwatch() {
   const pause = useCallback(() => setIsRunning(false), []);
   const reset = useCallback(() => {
     setIsRunning(false);
-    accumulatedRef.current = 0;
+    accumulatedRef.current    = 0;
     startTimestampRef.current = null;
     setElapsedSeconds(0);
-  }, []);
+    if (storageKey) clearStorage(storageKey);
+  }, [storageKey]);
 
   return { elapsedSeconds, isRunning, start, pause, reset };
 }
 
-/**
- * Contagem regressiva (countdown) ancorada em timestamp real (Date.now).
- * Resistente a throttling de aba em background e tela apagada.
- *
- * Uso:
- *   const { timeLeft, isRunning, start, pause, resume, reset } = useCountdown(() => toast.success("Fim!"));
- *
- *   start(totalSeconds)  → inicia do zero
- *   pause()              → pausa mantendo o timestamp de término
- *   resume()             → retoma da pausa (endTimestamp já calculado)
- *   reset()              → zera tudo
- */
-export function useCountdown(onExpire?: () => void) {
+// ─── COUNTDOWN (regressivo) ───────────────────────────────────────────────────
+// storageKey: chave opcional de localStorage para sobreviver a navegação entre abas
+
+interface CountdownStorage { endTimestamp: number; wasRunning: boolean }
+
+export function useCountdown(onExpire?: () => void, storageKey?: string) {
   const [timeLeft, setTimeLeft] = useState(0);
   const [isRunning, setIsRunning] = useState(false);
 
-  // Timestamp Unix (ms) em que o timer deve chegar a zero
   const endTimestampRef = useRef<number | null>(null);
-  const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
-  const onExpireRef = useRef(onExpire);
-  onExpireRef.current = onExpire;
+  const intervalRef     = useRef<ReturnType<typeof setInterval> | null>(null);
+  const onExpireRef     = useRef(onExpire);
+  onExpireRef.current   = onExpire;
+  const restoredRef     = useRef(false);
+
+  // Restaura estado ao montar o componente
+  useEffect(() => {
+    if (!storageKey || restoredRef.current) return;
+    restoredRef.current = true;
+
+    const saved = readStorage<CountdownStorage>(storageKey);
+    if (!saved?.endTimestamp) return;
+
+    const remaining = Math.ceil((saved.endTimestamp - Date.now()) / 1000);
+    if (remaining <= 0) {
+      // Expirou enquanto estava fora
+      clearStorage(storageKey);
+      onExpireRef.current?.();
+    } else {
+      endTimestampRef.current = saved.endTimestamp;
+      setTimeLeft(remaining);
+      if (saved.wasRunning) setIsRunning(true);
+    }
+  }, [storageKey]);
 
   const tick = useCallback(() => {
     if (endTimestampRef.current === null) return;
@@ -94,30 +149,32 @@ export function useCountdown(onExpire?: () => void) {
       setTimeLeft(0);
       setIsRunning(false);
       endTimestampRef.current = null;
+      if (storageKey) clearStorage(storageKey);
       onExpireRef.current?.();
     } else {
       setTimeLeft(remaining);
     }
-  }, []);
+  }, [storageKey]);
 
   useEffect(() => {
     if (isRunning) {
-      // Atualiza a cada 500ms para UI responsiva; o valor real vem do Date.now()
+      if (storageKey && endTimestampRef.current) {
+        writeStorage(storageKey, { endTimestamp: endTimestampRef.current, wasRunning: true });
+      }
       intervalRef.current = setInterval(tick, 500);
     } else {
       if (intervalRef.current) clearInterval(intervalRef.current);
+      if (storageKey && endTimestampRef.current) {
+        writeStorage(storageKey, { endTimestamp: endTimestampRef.current, wasRunning: false });
+      }
     }
-    return () => {
-      if (intervalRef.current) clearInterval(intervalRef.current);
-    };
+    return () => { if (intervalRef.current) clearInterval(intervalRef.current); };
   }, [isRunning, tick]);
 
-  // Força recálculo quando a aba volta ao foco (tela desbloqueada)
+  // Atualiza imediatamente quando a aba volta ao foco
   useEffect(() => {
     const handleVisible = () => {
-      if (document.visibilityState === 'visible' && isRunning) {
-        tick();
-      }
+      if (document.visibilityState === 'visible' && isRunning) tick();
     };
     document.addEventListener('visibilitychange', handleVisible);
     return () => document.removeEventListener('visibilitychange', handleVisible);
@@ -130,17 +187,13 @@ export function useCountdown(onExpire?: () => void) {
     setIsRunning(true);
   }, []);
 
-  /** Retoma após uma pausa — endTimestampRef ajustado em pause() */
+  /** Retoma após pausa */
   const resume = useCallback(() => {
     if (endTimestampRef.current === null) return;
     setIsRunning(true);
   }, []);
 
-  /**
-   * Pausa o timer.
-   * Ao pausar, ajustamos endTimestampRef para daqui a `timeLeft` segundos,
-   * de modo que ao retomar (resume) o cálculo seja imediatamente correto.
-   */
+  /** Pausa ajustando endTimestamp para o tempo restante atual */
   const pause = useCallback(() => {
     setIsRunning(false);
     setTimeLeft(prev => {
@@ -153,7 +206,8 @@ export function useCountdown(onExpire?: () => void) {
     setIsRunning(false);
     setTimeLeft(0);
     endTimestampRef.current = null;
-  }, []);
+    if (storageKey) clearStorage(storageKey);
+  }, [storageKey]);
 
   return { timeLeft, isRunning, start, pause, resume, reset };
 }

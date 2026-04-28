@@ -1184,7 +1184,7 @@ export default function SimuladosPage() {
     reset: resetTimer,
   } = useCountdown(() => {
     toast.success("Tempo esgotado!");
-  });
+  }, 'metauto_timer_simulados');
 
   const [showExactTime, setShowExactTime] = useState(false);
   const [isFocusMode, setIsFocusMode] = useState(false);

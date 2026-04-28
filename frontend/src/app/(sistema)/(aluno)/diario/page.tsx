@@ -220,8 +220,8 @@ export default function HomeEstudosPage() {
   const [formNovo, setFormNovo] = useState({ disciplinaId: '', conteudoId: '', comentario: '' });
   const [isSavingProblema, setIsSavingProblema] = useState(false);
 
-  // Timer State — ancorado em Date.now() para resistir a tela apagada
-  const { elapsedSeconds: seconds, isRunning, start: startTimer, pause: pauseTimer, reset: resetTimer } = useStopwatch();
+  // Timer State — ancorado em Date.now() + persistência entre navegações
+  const { elapsedSeconds: seconds, isRunning, start: startTimer, pause: pauseTimer, reset: resetTimer } = useStopwatch('metauto_timer_diario');
 
   // Filtros e Ordenação
   const [filterDisciplina, setFilterDisciplina] = useState("all");
