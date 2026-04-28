@@ -3,6 +3,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
+import { useCountdown } from "@/hooks/useTimestamp";
 import { format } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { toast } from "sonner";
@@ -1172,37 +1173,36 @@ export default function SimuladosPage() {
   const modeloSelecionado = MODELOS_PROVAS.find(m => m.id === globalModeloProva) || MODELOS_PROVAS[0];
 
   const [timerConfig, setTimerConfig] = useState({ hours: 5, minutes: 30 });
-  const [timeLeft, setTimeLeft] = useState(0);
-  const [isTimerRunning, setIsTimerRunning] = useState(false);
+
+  // Countdown ancorado em Date.now() — resistente a tela apagada
+  const {
+    timeLeft,
+    isRunning: isTimerRunning,
+    start: startCountdown,
+    pause: pauseTimer,
+    resume: resumeCountdown,
+    reset: resetTimer,
+  } = useCountdown(() => {
+    toast.success("Tempo esgotado!");
+  });
+
   const [showExactTime, setShowExactTime] = useState(false);
   const [isFocusMode, setIsFocusMode] = useState(false);
   const [isTimerMinimized, setIsTimerMinimized] = useState(false);
   const [floatPos, setFloatPos] = useState({ x: 24, y: 80 });
   const [questaoInput, setQuestaoInput] = useState("");
 
-  useEffect(() => {
-    let interval: NodeJS.Timeout;
-    if (isTimerRunning && timeLeft > 0) {
-      interval = setInterval(() => {
-        setTimeLeft(prev => prev - 1);
-      }, 1000);
-    } else if (timeLeft === 0 && isTimerRunning) {
-      toast.success("Tempo esgotado!");
-      setIsTimerRunning(false);
-    }
-    return () => clearInterval(interval);
-  }, [isTimerRunning, timeLeft]);
-
+  /**
+   * Inicia o countdown:
+   * - Se timeLeft === 0 → começa do zero com a config atual
+   * - Se timeLeft > 0 (timer pausado) → retoma de onde parou
+   */
   const startTimer = () => {
     if (timeLeft === 0) {
-      setTimeLeft(timerConfig.hours * 3600 + timerConfig.minutes * 60);
+      startCountdown(timerConfig.hours * 3600 + timerConfig.minutes * 60);
+    } else {
+      resumeCountdown();
     }
-    setIsTimerRunning(true);
-  };
-  const pauseTimer = () => setIsTimerRunning(false);
-  const resetTimer = () => {
-    setIsTimerRunning(false);
-    setTimeLeft(0);
   };
 
   const formatTime = (seconds: number) => {

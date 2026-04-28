@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
+import { useStopwatch } from "@/hooks/useTimestamp";
 import { format, differenceInDays } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { 
@@ -219,9 +220,8 @@ export default function HomeEstudosPage() {
   const [formNovo, setFormNovo] = useState({ disciplinaId: '', conteudoId: '', comentario: '' });
   const [isSavingProblema, setIsSavingProblema] = useState(false);
 
-  // Timer State
-  const [seconds, setSeconds] = useState(0);
-  const [isRunning, setIsRunning] = useState(false);
+  // Timer State — ancorado em Date.now() para resistir a tela apagada
+  const { elapsedSeconds: seconds, isRunning, start: startTimer, pause: pauseTimer, reset: resetTimer } = useStopwatch();
 
   // Filtros e Ordenação
   const [filterDisciplina, setFilterDisciplina] = useState("all");
@@ -445,16 +445,7 @@ export default function HomeEstudosPage() {
     if (data) setEstudos(data as any);
   };
 
-  // --- TIMER LOGIC ---
-  useEffect(() => {
-    let interval: any = null;
-    if (isRunning) {
-      interval = setInterval(() => {
-        setSeconds(s => s + 1);
-      }, 1000);
-    }
-    return () => clearInterval(interval);
-  }, [isRunning]);
+  // --- TIMER LOGIC --- (gerenciado pelo hook useStopwatch — resistente a tela apagada)
 
   const formatTime = (totalSeconds: number) => {
     const h = Math.floor(totalSeconds / 3600);
@@ -464,7 +455,7 @@ export default function HomeEstudosPage() {
   };
 
   const handleFinish = () => {
-    setIsRunning(false);
+    pauseTimer();
     const h = Math.floor(seconds / 3600);
     const m = Math.floor((seconds % 3600) / 60);
     setForm(prev => ({ ...prev, tempoH: h.toString(), tempoM: m.toString() }));
@@ -518,7 +509,7 @@ export default function HomeEstudosPage() {
       toast.success(editingId ? "Estudo atualizado!" : "Estudo registrado!");
       setModalOpen(false);
       setEditingId(null);
-      setSeconds(0);
+      resetTimer();
       setForm({ data: format(new Date(), 'yyyy-MM-dd'), disciplinaId: "", conteudoId: "", subConteudo: "", questoesFeitas: "", acertos: "", tempoH: "", tempoM: "", tipoEstudo: "misto", comentario: "", conforto: 0 });
       await fetchSessions();
     }
@@ -904,13 +895,13 @@ export default function HomeEstudosPage() {
                   {/* Botões do timer */}
                   <div className="flex items-center gap-2 md:gap-4 bg-slate-50 dark:bg-slate-800/50 p-3 md:p-4 rounded-[1.5rem] md:rounded-[2rem] border border-slate-200 dark:border-white/5 w-full md:w-auto justify-between md:justify-start">
                     <div className="flex gap-2">
-                      <button onClick={() => setIsRunning(!isRunning)} className={`w-12 h-12 md:w-16 md:h-16 rounded-[1.2rem] md:rounded-[1.5rem] flex items-center justify-center transition-all active:scale-95 ${isRunning ? 'bg-amber-500 text-white' : 'bg-indigo-600 text-white'}`}>
+                      <button onClick={() => isRunning ? pauseTimer() : startTimer()} className={`w-12 h-12 md:w-16 md:h-16 rounded-[1.2rem] md:rounded-[1.5rem] flex items-center justify-center transition-all active:scale-95 ${isRunning ? 'bg-amber-500 text-white' : 'bg-indigo-600 text-white'}`}>
                         {isRunning ? <Pause className="w-5 h-5 md:w-7 md:h-7 fill-current" /> : <Play className="w-5 h-5 md:w-7 md:h-7 fill-current ml-0.5" />}
                       </button>
                       <button onClick={handleFinish} className="w-12 h-12 md:w-16 md:h-16 bg-indigo-600 text-white rounded-[1.2rem] md:rounded-[1.5rem] flex items-center justify-center transition-all active:scale-95">
                         <CheckSquare className="w-5 h-5 md:w-7 md:h-7" />
                       </button>
-                      <button onClick={() => { setSeconds(0); setIsRunning(false); }} className="w-12 h-12 md:w-16 md:h-16 bg-white dark:bg-slate-700/50 text-slate-400 hover:text-rose-500 rounded-xl md:rounded-2xl flex items-center justify-center border border-slate-200 dark:border-white/5 active:scale-95">
+                      <button onClick={resetTimer} className="w-12 h-12 md:w-16 md:h-16 bg-white dark:bg-slate-700/50 text-slate-400 hover:text-rose-500 rounded-xl md:rounded-2xl flex items-center justify-center border border-slate-200 dark:border-white/5 active:scale-95">
                         <X className="w-5 h-5 md:w-7 md:h-7" />
                       </button>
                     </div>
@@ -1204,7 +1195,7 @@ export default function HomeEstudosPage() {
               {formatTime(seconds)}
             </div>
             <div className="flex gap-5 md:gap-8 mt-8 md:mt-10">
-               <button onClick={() => setIsRunning(!isRunning)} className={`w-20 h-20 md:w-24 md:h-24 rounded-full flex items-center justify-center shadow-2xl active:scale-90 transition-all ${isRunning ? 'bg-amber-500' : 'bg-indigo-600'}`}>
+               <button onClick={() => isRunning ? pauseTimer() : startTimer()} className={`w-20 h-20 md:w-24 md:h-24 rounded-full flex items-center justify-center shadow-2xl active:scale-90 transition-all ${isRunning ? 'bg-amber-500' : 'bg-indigo-600'}`}>
                  {isRunning ? <Pause className="w-8 h-8 md:w-10 md:h-10 fill-current"/> : <Play className="w-8 h-8 md:w-10 md:h-10 fill-current ml-1"/>}
                </button>
                <button onClick={handleFinish} className="w-20 h-20 md:w-24 md:h-24 bg-white/10 rounded-full flex items-center justify-center border border-white/20 active:scale-90 transition-all"><CheckSquare className="w-8 h-8 md:w-10 md:h-10"/></button>
