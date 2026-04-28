@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useState, useEffect } from "react";
+import GlobalTimerWidget from "./GlobalTimerWidget";
 import { createClient } from "@/utils/supabase/client";
 import {
   LayoutDashboard,
@@ -164,6 +165,7 @@ export default function SidebarLayout({
 
   return (
     <div className="flex min-h-screen bg-slate-50 dark:bg-[#121212] transition-colors duration-300 font-sans">
+      <GlobalTimerWidget />
       
       {/* Top Bar Fixa (Somente Mobile) */}
       <div className="md:hidden fixed top-0 w-full h-16 bg-white dark:bg-[#1C1C1E] border-b border-slate-200 dark:border-[#2C2C2E] flex items-center px-4 z-40 shadow-sm gap-3 transition-colors duration-300">

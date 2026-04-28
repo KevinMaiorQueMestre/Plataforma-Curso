@@ -19,7 +19,6 @@ function clearStorage(key: string) {
 }
 
 // ─── STOPWATCH (crescente) ────────────────────────────────────────────────────
-// storageKey: chave opcional de localStorage para sobreviver a navegação entre abas
 
 interface StopwatchStorage { accumulated: number; startedAt: number | null }
 
@@ -27,12 +26,14 @@ export function useStopwatch(storageKey?: string) {
   const [elapsedSeconds, setElapsedSeconds] = useState(0);
   const [isRunning, setIsRunning] = useState(false);
 
-  const startTimestampRef = useRef<number | null>(null);
-  const accumulatedRef    = useRef(0);
-  const intervalRef       = useRef<ReturnType<typeof setInterval> | null>(null);
-  const restoredRef       = useRef(false);
+  const startTimestampRef  = useRef<number | null>(null);
+  const accumulatedRef     = useRef(0);
+  const intervalRef        = useRef<ReturnType<typeof setInterval> | null>(null);
+  const restoredRef        = useRef(false);
+  // Evita que o branch "else" do isRunning effect limpe os refs na montagem inicial
+  const hasEverRunRef      = useRef(false);
 
-  // Restaura estado ao montar o componente
+  // Restaura do localStorage na montagem
   useEffect(() => {
     if (!storageKey || restoredRef.current) return;
     restoredRef.current = true;
@@ -41,14 +42,14 @@ export function useStopwatch(storageKey?: string) {
     if (!saved) return;
 
     if (saved.startedAt) {
-      // Estava rodando quando navegou — recalcula tempo decorrido
-      accumulatedRef.current     = saved.accumulated || 0;
-      startTimestampRef.current  = saved.startedAt;
+      // Estava rodando quando navegou — recalcula elapsed sem sobrescrever refs
+      accumulatedRef.current    = saved.accumulated || 0;
+      startTimestampRef.current = saved.startedAt;
+      hasEverRunRef.current     = true; // marca como "já rodou" antes mesmo do setIsRunning
       const sinceStart = Math.floor((Date.now() - saved.startedAt) / 1000);
       setElapsedSeconds(accumulatedRef.current + sinceStart);
       setIsRunning(true);
     } else if ((saved.accumulated || 0) > 0) {
-      // Estava pausado
       accumulatedRef.current = saved.accumulated;
       setElapsedSeconds(saved.accumulated);
     }
@@ -62,7 +63,7 @@ export function useStopwatch(storageKey?: string) {
 
   useEffect(() => {
     if (isRunning) {
-      // Garante que startTimestampRef está definido (pode vir da restauração)
+      hasEverRunRef.current = true;
       if (startTimestampRef.current === null) {
         startTimestampRef.current = Date.now();
       }
@@ -72,20 +73,20 @@ export function useStopwatch(storageKey?: string) {
       intervalRef.current = setInterval(tick, 500);
     } else {
       if (intervalRef.current) clearInterval(intervalRef.current);
-      if (startTimestampRef.current !== null) {
-        // Congela valor acumulado
-        accumulatedRef.current    = elapsedSeconds;
+      // Só congela se já houve uma sessão de corrida real (evita reset na montagem)
+      if (hasEverRunRef.current && startTimestampRef.current !== null) {
+        const sinceStart = Math.floor((Date.now() - startTimestampRef.current) / 1000);
+        accumulatedRef.current   += sinceStart;
         startTimestampRef.current = null;
+        setElapsedSeconds(accumulatedRef.current);
         if (storageKey) {
           writeStorage(storageKey, { accumulated: accumulatedRef.current, startedAt: null });
         }
       }
     }
     return () => { if (intervalRef.current) clearInterval(intervalRef.current); };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [isRunning]);
+  }, [isRunning, tick, storageKey]);
 
-  // Atualiza imediatamente quando a aba volta ao foco
   useEffect(() => {
     const handleVisible = () => {
       if (document.visibilityState === 'visible' && isRunning) tick();
@@ -98,6 +99,7 @@ export function useStopwatch(storageKey?: string) {
   const pause = useCallback(() => setIsRunning(false), []);
   const reset = useCallback(() => {
     setIsRunning(false);
+    hasEverRunRef.current     = false;
     accumulatedRef.current    = 0;
     startTimestampRef.current = null;
     setElapsedSeconds(0);
@@ -108,12 +110,11 @@ export function useStopwatch(storageKey?: string) {
 }
 
 // ─── COUNTDOWN (regressivo) ───────────────────────────────────────────────────
-// storageKey: chave opcional de localStorage para sobreviver a navegação entre abas
 
 interface CountdownStorage { endTimestamp: number; wasRunning: boolean }
 
 export function useCountdown(onExpire?: () => void, storageKey?: string) {
-  const [timeLeft, setTimeLeft] = useState(0);
+  const [timeLeft, setTimeLeft]   = useState(0);
   const [isRunning, setIsRunning] = useState(false);
 
   const endTimestampRef = useRef<number | null>(null);
@@ -122,7 +123,6 @@ export function useCountdown(onExpire?: () => void, storageKey?: string) {
   onExpireRef.current   = onExpire;
   const restoredRef     = useRef(false);
 
-  // Restaura estado ao montar o componente
   useEffect(() => {
     if (!storageKey || restoredRef.current) return;
     restoredRef.current = true;
@@ -132,7 +132,6 @@ export function useCountdown(onExpire?: () => void, storageKey?: string) {
 
     const remaining = Math.ceil((saved.endTimestamp - Date.now()) / 1000);
     if (remaining <= 0) {
-      // Expirou enquanto estava fora
       clearStorage(storageKey);
       onExpireRef.current?.();
     } else {
@@ -171,7 +170,6 @@ export function useCountdown(onExpire?: () => void, storageKey?: string) {
     return () => { if (intervalRef.current) clearInterval(intervalRef.current); };
   }, [isRunning, tick]);
 
-  // Atualiza imediatamente quando a aba volta ao foco
   useEffect(() => {
     const handleVisible = () => {
       if (document.visibilityState === 'visible' && isRunning) tick();
@@ -180,20 +178,17 @@ export function useCountdown(onExpire?: () => void, storageKey?: string) {
     return () => document.removeEventListener('visibilitychange', handleVisible);
   }, [isRunning, tick]);
 
-  /** Inicia um novo countdown com `totalSeconds` segundos */
   const start = useCallback((totalSeconds: number) => {
     endTimestampRef.current = Date.now() + totalSeconds * 1000;
     setTimeLeft(totalSeconds);
     setIsRunning(true);
   }, []);
 
-  /** Retoma após pausa */
   const resume = useCallback(() => {
     if (endTimestampRef.current === null) return;
     setIsRunning(true);
   }, []);
 
-  /** Pausa ajustando endTimestamp para o tempo restante atual */
   const pause = useCallback(() => {
     setIsRunning(false);
     setTimeLeft(prev => {

@@ -1187,8 +1187,24 @@ export default function SimuladosPage() {
   }, 'metauto_timer_simulados');
 
   const [showExactTime, setShowExactTime] = useState(false);
-  const [isFocusMode, setIsFocusMode] = useState(false);
-  const [isTimerMinimized, setIsTimerMinimized] = useState(false);
+
+  // Persiste no localStorage para que GlobalTimerWidget saiba quando mostrar o timer flutuante
+  const setIsFocusMode     = (v: boolean) => {
+    _setIsFocusMode(v);
+    try {
+      const cur = JSON.parse(localStorage.getItem('metauto_timer_ui') || '{}');
+      localStorage.setItem('metauto_timer_ui', JSON.stringify({ ...cur, isFocusMode: v }));
+    } catch { /* noop */ }
+  };
+  const setIsTimerMinimized = (v: boolean) => {
+    _setIsTimerMinimized(v);
+    try {
+      const cur = JSON.parse(localStorage.getItem('metauto_timer_ui') || '{}');
+      localStorage.setItem('metauto_timer_ui', JSON.stringify({ ...cur, isMinimized: v }));
+    } catch { /* noop */ }
+  };
+  const [isFocusMode,      _setIsFocusMode]      = useState(false);
+  const [isTimerMinimized, _setIsTimerMinimized]  = useState(false);
   const [floatPos, setFloatPos] = useState({ x: 24, y: 80 });
   const [questaoInput, setQuestaoInput] = useState("");
 
