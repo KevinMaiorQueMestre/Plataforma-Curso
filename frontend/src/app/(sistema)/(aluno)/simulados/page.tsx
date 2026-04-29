@@ -1233,8 +1233,22 @@ export default function SimuladosPage() {
     if (showExactTime || timeLeft === 0 || !isTimerRunning) {
       return formatTime(totalSeconds);
     }
-    const blocks30 = Math.ceil(totalSeconds / 1800) * 1800; 
-    return formatTime(blocks30);
+
+    // Máscaras progressivas de alerta: 30min -> 15min -> 5min
+    const CINCO_MIN = 5 * 60;
+    const TRINTA_MIN = 30 * 60;
+    
+    let blockSize: number;
+    if (totalSeconds <= CINCO_MIN) {
+      blockSize = 5 * 60; // Bloco de 5 min se faltarem 5 min ou menos
+    } else if (totalSeconds <= TRINTA_MIN) {
+      blockSize = 15 * 60; // Bloco de 15 min se faltarem entre 5 e 30 min
+    } else {
+      blockSize = 30 * 60; // Bloco de 30 min se faltarem mais de 30 min
+    }
+
+    const masked = Math.ceil(totalSeconds / blockSize) * blockSize;
+    return formatTime(masked);
   };
 
   const handleSubmit = async () => {
