@@ -349,8 +349,21 @@ export default function ModuleTarefasKevQuest({ refreshTrigger = 0 }: { refreshT
 
       {/* Modal Concluir */}
       {modalConcluir.open && (
-        <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-sm:max-w-sm shadow-2xl overflow-hidden p-10 animate-in fade-in zoom-in-95">
+        <div
+          className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4"
+          onClick={() => setModalConcluir({open:false, id:null})}
+        >
+          <div
+            className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-sm:max-w-sm shadow-2xl overflow-hidden p-10 animate-in fade-in zoom-in-95 relative"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              onClick={() => setModalConcluir({open:false, id:null})}
+              className="absolute top-6 right-6 w-9 h-9 flex items-center justify-center rounded-2xl text-slate-400 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10 transition-all"
+              title="Fechar"
+            >
+              <X className="w-5 h-5" />
+            </button>
             <h2 className="text-xl font-black mb-6 text-slate-800 dark:text-white">Concluir Tarefa</h2>
             
             <div className="space-y-6">
@@ -385,12 +398,16 @@ export default function ModuleTarefasKevQuest({ refreshTrigger = 0 }: { refreshT
       {/* Modal Editar */}
       <AnimatePresence>
         {modalEditar.open && (
-          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+          <div
+            className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4"
+            onClick={() => setModalEditar({ open: false, prob: null })}
+          >
             <motion.div 
               initial={{ opacity: 0, scale: 0.95, y: 20 }}
               animate={{ opacity: 1, scale: 1, y: 0 }}
               exit={{ opacity: 0, scale: 0.95, y: 20 }}
               className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-w-lg shadow-2xl overflow-hidden flex flex-col"
+              onClick={(e) => e.stopPropagation()}
             >
               <div className="p-8">
                   <div className="flex items-center justify-between mb-8">

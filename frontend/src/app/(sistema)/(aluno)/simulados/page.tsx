@@ -2121,9 +2121,11 @@ export default function SimuladosPage() {
 
       {/* Modal Novo Simulado (Tarefa) */}
       {isModalNovoOpen && (
-        <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
-          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-lg shadow-2xl p-8 animate-in fade-in zoom-in-95 relative">
-            <button onClick={() => setIsModalNovoOpen(false)} className="absolute top-6 right-6 text-slate-400 hover:text-slate-600 transition-colors"><X className="w-5 h-5"/></button>
+        <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4" onClick={() => setIsModalNovoOpen(false)}>
+          <div className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-w-lg shadow-2xl p-8 animate-in fade-in zoom-in-95 relative" onClick={(e) => e.stopPropagation()}>
+            <button onClick={() => setIsModalNovoOpen(false)} className="absolute top-6 right-6 p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-all text-slate-400">
+              <X className="w-5 h-5" />
+            </button>
             <h2 className="text-2xl font-black mb-2 text-slate-800 dark:text-white flex items-center gap-3">
               <Activity className="w-6 h-6 text-[#1B2B5E]" />
               Novo Simulado

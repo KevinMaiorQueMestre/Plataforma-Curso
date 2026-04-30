@@ -167,7 +167,9 @@ function DetalheModal({redacao,col,onClose,onDelete,onLancarNota}:{
       <motion.div initial={{scale:0.95,y:20,opacity:0}} animate={{scale:1,y:0,opacity:1}} exit={{scale:0.95,y:20,opacity:0}}
         className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 w-full max-w-lg shadow-2xl relative border border-slate-100 dark:border-[#2C2C2E] max-h-[90vh] overflow-y-auto"
         onClick={e=>e.stopPropagation()}>
-        <button onClick={onClose} className="absolute top-6 right-6 w-10 h-10 bg-slate-100 dark:bg-[#2C2C2E] rounded-full flex items-center justify-center"><X className="w-5 h-5 text-slate-500"/></button>
+        <button onClick={onClose} className="absolute top-6 right-6 p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-all text-slate-400">
+          <X className="w-5 h-5" />
+        </button>
         <span className={`inline-flex items-center gap-1.5 text-[10px] font-black uppercase tracking-widest px-3 py-1.5 rounded-full border mb-5 ${col.badge}`}>
           <span className={`w-1.5 h-1.5 rounded-full ${col.dot}`}/>{col.label}
         </span>
@@ -860,10 +862,13 @@ export default function RedacaoPage() {
       <AnimatePresence>
         {notaForm&&(
           <motion.div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-md"
-            initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}}>
+            initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}} onClick={()=>setNotaForm(null)}>
             <motion.div initial={{scale:0.95,y:20,opacity:0}} animate={{scale:1,y:0,opacity:1}} exit={{scale:0.95,y:20,opacity:0}}
-              className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 w-full max-w-lg shadow-2xl relative border border-slate-100 dark:border-[#2C2C2E] max-h-[90vh] overflow-y-auto custom-scrollbar">
-              <button onClick={()=>setNotaForm(null)} className="absolute top-6 right-6 w-10 h-10 bg-slate-100 dark:bg-[#2C2C2E] hover:bg-slate-200 rounded-full flex items-center justify-center"><X className="w-5 h-5 text-slate-500"/></button>
+              className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 w-full max-w-lg shadow-2xl relative border border-slate-100 dark:border-[#2C2C2E] max-h-[90vh] overflow-y-auto custom-scrollbar"
+              onClick={e=>e.stopPropagation()}>
+              <button onClick={()=>setNotaForm(null)} className="absolute top-6 right-6 p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-all text-slate-400">
+                <X className="w-5 h-5" />
+              </button>
               <div className="w-14 h-14 bg-indigo-50 dark:bg-indigo-900/20 text-indigo-600 dark:text-indigo-400 rounded-2xl flex items-center justify-center mb-6"><Award className="w-7 h-7"/></div>
               <h2 className="text-2xl font-black text-slate-800 dark:text-white mb-2">Lançar Nota</h2>
               <p className="text-sm text-slate-500 mb-6">Selecione a prova e registre o desempenho.</p>
@@ -937,10 +942,13 @@ export default function RedacaoPage() {
       <AnimatePresence>
         {isModalOpen&&(
           <motion.div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-md"
-            initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}}>
+            initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}} onClick={()=>setIsModalOpen(false)}>
             <motion.div initial={{scale:0.95,y:20,opacity:0}} animate={{scale:1,y:0,opacity:1}} exit={{scale:0.95,y:20,opacity:0}}
-              className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 w-full max-w-lg shadow-2xl relative border border-slate-100 dark:border-[#2C2C2E] max-h-[90vh] overflow-y-auto custom-scrollbar">
-              <button onClick={()=>setIsModalOpen(false)} className="absolute top-6 right-6 w-10 h-10 bg-slate-100 dark:bg-[#2C2C2E] rounded-full flex items-center justify-center"><X className="w-5 h-5 text-slate-500"/></button>
+              className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] p-8 w-full max-w-lg shadow-2xl relative border border-slate-100 dark:border-[#2C2C2E] max-h-[90vh] overflow-y-auto custom-scrollbar"
+              onClick={e=>e.stopPropagation()}>
+              <button onClick={()=>setIsModalOpen(false)} className="absolute top-6 right-6 p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-all text-slate-400">
+                <X className="w-5 h-5" />
+              </button>
               <div className="w-14 h-14 bg-indigo-50 dark:bg-indigo-900/20 text-indigo-600 dark:text-indigo-400 rounded-2xl flex items-center justify-center mb-6"><Lightbulb className="w-7 h-7"/></div>
               <h2 className="text-2xl font-black text-slate-800 dark:text-white mb-2">Nova Proposta</h2>
               <p className="text-sm text-slate-500 mb-8">Crie uma proposta de tema livre.</p>

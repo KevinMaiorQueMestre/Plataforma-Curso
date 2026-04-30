@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { CheckCircle, LayoutGrid, BarChart2, Activity, Send, AlertCircle, Book, Target, ChevronDown, ArrowDown, ArrowUp, Trash2, Pencil, X, Loader2, RotateCcw } from "lucide-react";
+import { FilterColumn } from "@/components/ui/FilterColumn";
 import { motion, AnimatePresence } from "framer-motion";
 import { createClient } from "@/utils/supabase/client";
 import { toast } from "sonner";
@@ -524,7 +525,45 @@ export default function KevQuestPage() {
     '#F97316', '#F59E0B', '#10B981', '#06B6D4', '#3B82F6'
   ];
 
-  if (!isLoaded) return <div className="p-8 text-slate-400 font-bold animate-pulse">Carregando KevQuest...</div>;
+  if (!isLoaded) return (
+    <div className="space-y-8 max-w-7xl mx-auto pb-20 animate-pulse">
+      {/* Skeleton Header */}
+      <div className="flex justify-between items-center mb-8">
+        <div className="flex items-center gap-4">
+          <div className="w-14 h-14 rounded-2xl bg-slate-200 dark:bg-[#2C2C2E]" />
+          <div className="space-y-2">
+            <div className="h-8 w-40 rounded-xl bg-slate-200 dark:bg-[#2C2C2E]" />
+            <div className="h-3 w-56 rounded-lg bg-slate-100 dark:bg-[#3A3A3C]" />
+          </div>
+        </div>
+      </div>
+      {/* Skeleton Tabs */}
+      <div className="h-16 w-full rounded-[2rem] bg-slate-100 dark:bg-[#1C1C1E]" />
+      {/* Skeleton Cards */}
+      <div className="bg-white dark:bg-[#1C1C1E] border border-slate-100 dark:border-[#2C2C2E] rounded-[3rem] p-10">
+        <div className="flex items-center gap-4 mb-8">
+          <div className="w-12 h-12 rounded-2xl bg-slate-200 dark:bg-[#2C2C2E]" />
+          <div className="space-y-2">
+            <div className="h-5 w-48 rounded-xl bg-slate-200 dark:bg-[#2C2C2E]" />
+            <div className="h-3 w-32 rounded-lg bg-slate-100 dark:bg-[#3A3A3C]" />
+          </div>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+          {[1,2,3].map(i => (
+            <div key={i} className="p-4 rounded-2xl border border-slate-100 dark:border-[#2C2C2E] bg-slate-50 dark:bg-[#2C2C2E]/30">
+              <div className="flex items-start gap-3">
+                <div className="w-10 h-10 rounded-xl bg-slate-200 dark:bg-[#3A3A3C] flex-shrink-0" />
+                <div className="flex-1 space-y-2">
+                  <div className="h-4 rounded-lg bg-slate-200 dark:bg-[#3A3A3C]" style={{width: `${60 + i * 10}%`}} />
+                  <div className="h-3 w-24 rounded-md bg-slate-100 dark:bg-[#2C2C2E]" />
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
 
   return (
     <div className="space-y-8 animate-in fade-in max-w-7xl mx-auto pb-20">
@@ -1061,66 +1100,45 @@ export default function KevQuestPage() {
               <table className="w-full text-left">
                 <thead>
                   <tr className="border-b-2 border-slate-50 dark:border-slate-800/50">
-                    <th className="pb-4 px-4 w-20 align-top">
-                      <button onClick={() => toggleSort('q_num')} className={`flex items-center gap-2 text-[10px] font-black uppercase tracking-widest ${sortKey === 'q_num' ? 'text-indigo-500' : 'text-slate-400'}`}>
-                        Nº {sortKey === 'q_num' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3"/> : <ArrowUp className="w-3 h-3"/>)}
+                    <th className="pb-4 px-4 w-20 align-middle">
+                      <button
+                        onClick={() => toggleSort('q_num')}
+                        className={`flex items-center gap-1.5 text-[10px] font-black uppercase tracking-widest transition-colors ${
+                          sortKey === 'q_num' ? 'text-indigo-500' : 'text-slate-400 hover:text-slate-600 dark:hover:text-slate-300'
+                        }`}
+                      >
+                        Nº
+                        {sortKey === 'q_num' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3" /> : <ArrowUp className="w-3 h-3" />)}
                       </button>
                     </th>
-                    <th className="pb-4 px-4 align-top">
-                      <div className="flex flex-col gap-2 items-start">
-                        <button onClick={() => toggleSort('prova')} className={`flex items-center gap-2 text-[10px] font-black uppercase tracking-widest ${sortKey === 'prova' ? 'text-indigo-500' : 'text-slate-400'}`}>
-                          Prova {sortKey === 'prova' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3"/> : <ArrowUp className="w-3 h-3"/>)}
-                        </button>
-                        <CustomDropdown
-                          value={filterProva}
-                          onChange={v => setFilterProva(v)}
-                          options={[
-                            { value: "all", label: "Todas" },
-                            ...uniqueProvas.map(p => ({ value: p, label: p }))
-                          ]}
-                          placeholder="Todas"
-                          className="text-[10px] bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg px-2 py-1.5 outline-none text-slate-600 dark:text-slate-300 w-full max-w-[120px] font-bold"
-                          dropdownClasses="min-w-[150px]"
-                        />
-                      </div>
+                    <th className="pb-4 px-4 align-middle">
+                      <FilterColumn
+                        label="Prova"
+                        value={filterProva}
+                        onChange={setFilterProva}
+                        options={[{ value: 'all', label: 'Todas' }, ...uniqueProvas.map(p => ({ value: p, label: p }))]}
+                        dropdownWidth="min-w-[150px]"
+                      />
                     </th>
-                    <th className="pb-4 px-4 align-top">
-                      <div className="flex flex-col gap-2 items-start">
-                        <button onClick={() => toggleSort('disciplina')} className={`flex items-center gap-2 text-[10px] font-black uppercase tracking-widest ${sortKey === 'disciplina' ? 'text-indigo-500' : 'text-slate-400'}`}>
-                          Disciplina e Conteúdo {sortKey === 'disciplina' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3"/> : <ArrowUp className="w-3 h-3"/>)}
-                        </button>
-                        <CustomDropdown
-                          value={filterDisciplina}
-                          onChange={v => setFilterDisciplina(v)}
-                          options={[
-                            { value: "all", label: "Todas" },
-                            ...uniqueDisciplinas.map(d => ({ value: d, label: d }))
-                          ]}
-                          placeholder="Todas"
-                          className="text-[10px] bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg px-2 py-1.5 outline-none text-slate-600 dark:text-slate-300 w-full max-w-[150px] font-bold"
-                          dropdownClasses="min-w-[180px]"
-                        />
-                      </div>
+                    <th className="pb-4 px-4 align-middle">
+                      <FilterColumn
+                        label="Disciplina e Conteúdo"
+                        value={filterDisciplina}
+                        onChange={setFilterDisciplina}
+                        options={[{ value: 'all', label: 'Todas' }, ...uniqueDisciplinas.map(d => ({ value: d, label: d }))]}
+                        dropdownWidth="min-w-[180px]"
+                      />
                     </th>
-                    <th className="pb-4 px-4 align-top">
-                      <div className="flex flex-col gap-2 items-start">
-                        <button onClick={() => toggleSort('erro')} className={`flex items-center gap-2 text-[10px] font-black uppercase tracking-widest ${sortKey === 'erro' ? 'text-indigo-500' : 'text-slate-400'}`}>
-                          Tipo de Erro {sortKey === 'erro' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3"/> : <ArrowUp className="w-3 h-3"/>)}
-                        </button>
-                        <CustomDropdown
-                          value={filterErro}
-                          onChange={v => setFilterErro(v)}
-                          options={[
-                            { value: "all", label: "Todos" },
-                            ...uniqueTiposErro.map(t => ({ value: t, label: TIPO_ERRO_LABELS[t as TipoErro] }))
-                          ]}
-                          placeholder="Todos"
-                          className="text-[10px] bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg px-2 py-1.5 outline-none text-slate-600 dark:text-slate-300 w-full max-w-[140px] font-bold"
-                          dropdownClasses="min-w-[160px]"
-                        />
-                      </div>
+                    <th className="pb-4 px-4 align-middle">
+                      <FilterColumn
+                        label="Tipo de Erro"
+                        value={filterErro}
+                        onChange={setFilterErro}
+                        options={[{ value: 'all', label: 'Todos' }, ...uniqueTiposErro.map(t => ({ value: t, label: TIPO_ERRO_LABELS[t as TipoErro] }))]}
+                        dropdownWidth="min-w-[160px]"
+                      />
                     </th>
-                    <th className="pb-4 px-4 text-right align-top pt-2">
+                    <th className="pb-4 px-4 text-right align-middle">
                       <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Ações</span>
                     </th>
                   </tr>
@@ -1232,12 +1250,13 @@ export default function KevQuestPage() {
       {/* MODAL EDITAR ERRO */}
       <AnimatePresence>
         {modalEditErro.open && (
-          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4" onClick={() => setModalEditErro({ open: false, prob: null })}>
             <motion.div 
               initial={{ opacity: 0, scale: 0.95, y: 20 }}
               animate={{ opacity: 1, scale: 1, y: 0 }}
               exit={{ opacity: 0, scale: 0.95, y: 20 }}
-              className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-w-2xl shadow-2xl overflow-hidden flex flex-col"
+              className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-w-2xl shadow-2xl overflow-hidden flex flex-col relative"
+              onClick={e => e.stopPropagation()}
             >
               <div className="p-8">
                 <div className="flex items-center justify-between mb-8">

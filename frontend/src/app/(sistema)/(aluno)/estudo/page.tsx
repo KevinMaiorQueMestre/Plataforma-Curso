@@ -10,6 +10,7 @@ import {
   ArrowUp, ArrowDown, ArrowUpDown, Maximize2, Minimize2, Edit2, Trash2, Settings2, Loader2,
   Star, Inbox, CheckCircle2, AlertCircle, Trash
 } from "lucide-react";
+import { FilterColumn } from "@/components/ui/FilterColumn";
 import {
   listarProblemas, concluirProblema, criarProblemaManual, deletarProblema,
   type ProblemaEstudo, ORIGEM_LABELS, ORIGEM_COLORS, TIPO_ERRO_LABELS, TIPO_ERRO_COLORS
@@ -574,6 +575,10 @@ export default function HomeEstudosPage() {
       return (pA - pB) * dir;
     });
 
+  // Disciplinas que realmente aparecem nas sessões cadastradas (Lei das Opções Dinâmicas — Seção 15 da skill)
+  const uniqueDisciplinaIds = Array.from(new Set(estudos.map(e => e.disciplina_id))).filter(Boolean);
+  const uniqueDisciplinas = disciplinas.filter(d => uniqueDisciplinaIds.includes(d.id));
+
   if (!isLoaded) return (
     <div className="h-[80vh] flex items-center justify-center">
       <Loader2 className="w-10 h-10 text-indigo-500 animate-spin" />
@@ -919,20 +924,7 @@ export default function HomeEstudosPage() {
             <div className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] md:rounded-[2.5rem] p-4 md:p-8 border border-slate-100 dark:border-slate-800 shadow-sm">
                <div className="flex flex-col md:flex-row justify-between mb-6 md:mb-8 gap-3 md:gap-4">
                   <h2 className="text-lg md:text-xl font-black text-slate-800 dark:text-white uppercase tracking-tighter">Histórico de Sessões</h2>
-                  <div className="flex items-center gap-3 md:gap-4">
-                     <CustomDropdown
-                       value={filterDisciplina}
-                       onChange={v => setFilterDisciplina(v)}
-                       options={[
-                         { value: 'all', label: 'Todas Disciplinas' },
-                         ...disciplinas.map(d => ({ value: d.id, label: d.nome }))
-                       ]}
-                       placeholder="Todas Disciplinas"
-                       className="min-w-0 w-full md:min-w-[180px] px-3 md:px-4 py-2.5 border border-slate-200 dark:border-slate-700 rounded-xl bg-slate-50 dark:bg-slate-800 text-xs font-black text-slate-600 dark:text-slate-300"
-                       dropdownClasses="min-w-[200px]"
-                     />
-                     <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest whitespace-nowrap">{filtered.length} sessões</div>
-                  </div>
+                  <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest whitespace-nowrap self-center">{filtered.length} sessões</div>
                </div>
 
                {/* TABELA — visível apenas em desktop */}
@@ -945,7 +937,18 @@ export default function HomeEstudosPage() {
                             Data {sortKey === 'created_at' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3"/> : <ArrowUp className="w-3 h-3"/>)}
                           </button>
                         </th>
-                        <th className="pb-4 px-4 text-[10px] font-black text-slate-400 uppercase tracking-widest">Disciplina / Conteúdo</th>
+                         <th className="pb-4 px-4 align-middle">
+                           <FilterColumn
+                             label="Disciplina / Conteudo"
+                             value={filterDisciplina}
+                             onChange={setFilterDisciplina}
+                             options={[
+                               { value: 'all', label: 'Todas' },
+                               ...uniqueDisciplinas.map(d => ({ value: d.id, label: d.nome }))
+                             ]}
+                             dropdownWidth="min-w-[200px]"
+                           />
+                         </th>
                         <th className="pb-4 px-4 text-center text-[10px] font-black text-slate-400 uppercase tracking-widest">
                           <button onClick={() => toggleSort('performance')} className={`mx-auto flex items-center justify-center gap-2 text-[10px] font-black uppercase tracking-widest ${sortKey === 'performance' ? 'text-indigo-500' : 'text-slate-400'}`}>
                             Performance {sortKey === 'performance' && (sortDir === 'desc' ? <ArrowDown className="w-3 h-3"/> : <ArrowUp className="w-3 h-3"/>)}
@@ -1062,8 +1065,11 @@ export default function HomeEstudosPage() {
       {/* MODAL REGISTRO */}
       <AnimatePresence>
         {modalOpen && (
-          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[100] flex items-center justify-center p-4">
-             <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] md:rounded-[3rem] w-full max-w-md shadow-2xl relative max-h-[90vh] overflow-hidden flex flex-col">
+          <div
+            className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[100] flex items-center justify-center p-4"
+            onClick={() => { setModalOpen(false); setEditingId(null); }}
+          >
+             <motion.div initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] md:rounded-[3rem] w-full max-w-md shadow-2xl relative max-h-[90vh] overflow-hidden flex flex-col" onClick={(e) => e.stopPropagation()}>
                 <button onClick={() => { setModalOpen(false); setEditingId(null); }} className="absolute top-8 right-8 text-slate-400 hover:text-slate-800 z-10"><X /></button>
                 <div className="p-6 md:p-10 overflow-y-auto custom-scrollbar flex-1 w-full relative">
                   <h2 className="text-2xl font-black mb-8 text-slate-800 dark:text-white pr-8">{editingId ? "Editar Evolução" : "Registrar Evolução"}</h2>
@@ -1208,12 +1214,16 @@ export default function HomeEstudosPage() {
       {/* MODAL — CONCLUIR PROBLEMA */}
       <AnimatePresence>
         {modalConcluir.open && modalConcluir.prob && (
-          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+          <div
+            className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4"
+            onClick={() => setModalConcluir({ open: false, prob: null })}
+          >
             <motion.div
               initial={{ scale: 0.9, opacity: 0, y: 20 }}
               animate={{ scale: 1, opacity: 1, y: 0 }}
               exit={{ scale: 0.9, opacity: 0, y: 20 }}
               className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-w-md shadow-2xl p-8 border border-slate-200 dark:border-slate-800"
+              onClick={(e) => e.stopPropagation()}
             >
               <div className="flex items-center justify-between mb-8">
                 <div>
@@ -1369,12 +1379,16 @@ export default function HomeEstudosPage() {
       {/* MODAL — NOVO PROBLEMA MANUAL */}
       <AnimatePresence>
         {modalNovo && (
-          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+          <div
+            className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4"
+            onClick={() => setModalNovo(false)}
+          >
             <motion.div
               initial={{ scale: 0.9, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               exit={{ scale: 0.9, opacity: 0 }}
               className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-sm shadow-2xl p-8"
+              onClick={(e) => e.stopPropagation()}
             >
               <div className="flex items-center justify-between mb-6">
                 <h2 className="text-xl font-black text-slate-800 dark:text-white">Registrar Manual</h2>
@@ -1446,12 +1460,16 @@ export default function HomeEstudosPage() {
       {/* MODAL — VINCULAR PROBLEMA */}
       <AnimatePresence>
         {modalVincular.open && (
-          <div className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4">
+          <div
+            className="fixed inset-0 bg-slate-900/60 backdrop-blur-md z-[200] flex items-center justify-center p-4"
+            onClick={() => { setModalVincular({ open: false, tipo: null }); setVincularItems([]); }}
+          >
             <motion.div
               initial={{ scale: 0.9, opacity: 0, y: 20 }}
               animate={{ scale: 1, opacity: 1, y: 0 }}
               exit={{ scale: 0.9, opacity: 0, y: 20 }}
               className="bg-white dark:bg-[#1C1C1E] rounded-[2.5rem] w-full max-w-lg shadow-2xl p-8 border border-slate-200 dark:border-slate-800 flex flex-col max-h-[90vh]"
+              onClick={(e) => e.stopPropagation()}
             >
               {/* Header */}
               <div className="flex items-center justify-between mb-6 flex-shrink-0">

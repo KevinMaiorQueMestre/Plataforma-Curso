@@ -5,8 +5,9 @@ import { format, addDays, startOfWeek, addWeeks, subWeeks, isToday, isPast, isFu
 import { ptBR } from "date-fns/locale/pt-BR";
 import {
   ChevronLeft, ChevronRight, Calendar as CalendarIcon, CheckCircle2,
-  RefreshCw, BookOpen, Loader2, RotateCcw, Clock, AlertTriangle, Globe, Trash2
+  RefreshCw, BookOpen, Loader2, RotateCcw, Clock, AlertTriangle, Globe, Trash2, X
 } from "lucide-react";
+import { TIPO_ERRO_LABELS, TIPO_ERRO_COLORS } from "@/lib/db/estudo";
 import { createClient } from "@/utils/supabase/client";
 import { motion, AnimatePresence } from "framer-motion";
 import { toast } from "sonner";
@@ -18,6 +19,13 @@ type Revisao = {
   agendado_para: string;
   numero_revisao: number;
   disciplina_nome: string | null;
+  conteudo_nome: string | null;
+  sub_conteudo: string | null;
+  tipo_erro: string | null;
+  comentario: string | null;
+  prova: string | null;
+  ano: string | null;
+  q_num: string | null;
   origem: string;
   status: string;
 };
@@ -42,6 +50,15 @@ function getRevisaoCor(n: number) {
   return REVISAO_COLORS[n] ?? REVISAO_COLORS[4];
 }
 
+function InfoRow({ label, value }: { label: string; value: string }) {
+  return (
+    <div>
+      <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1">{label}</p>
+      <p className="text-sm font-bold text-slate-800 dark:text-white">{value}</p>
+    </div>
+  );
+}
+
 export default function CentralRevisoesPage() {
   const supabase = createClient();
   const [revisoes, setRevisoes] = useState<Revisao[]>([]);
@@ -49,6 +66,7 @@ export default function CentralRevisoesPage() {
   const [isLoaded, setIsLoaded] = useState(false);
   const [weekRef, setWeekRef] = useState(new Date());
   const [concluding, setConcluding] = useState<string | null>(null);
+  const [selectedRevisao, setSelectedRevisao] = useState<Revisao | null>(null);
 
   const semana = Array.from({ length: 7 }, (_, i) =>
     addDays(startOfWeek(weekRef, { weekStartsOn: 1 }), i)
@@ -60,7 +78,7 @@ export default function CentralRevisoesPage() {
 
     const { data } = await supabase
       .from("problemas_estudo")
-      .select("id, titulo, agendado_para, numero_revisao, disciplina_nome, origem, status")
+      .select("id, titulo, agendado_para, numero_revisao, disciplina_nome, conteudo_nome, sub_conteudo, tipo_erro, comentario, prova, ano, q_num, origem, status")
       .eq("user_id", user.id)
       .not("numero_revisao", "is", null)
       .order("agendado_para", { ascending: true });
@@ -223,7 +241,8 @@ export default function CentralRevisoesPage() {
 
                     return (
                       <motion.div key={rev.id} layout initial={{ opacity: 0, y: 4 }} animate={{ opacity: 1, y: 0 }}
-                        className={`rounded-xl border p-2 transition-all ${done ? "opacity-50" : ""} ${atrasada ? "border-rose-300 dark:border-rose-700/60 bg-rose-50 dark:bg-rose-900/20" : cor.bg}`}>
+                        onClick={() => setSelectedRevisao(rev)}
+                        className={`rounded-xl border p-2 transition-all cursor-pointer hover:scale-[1.02] active:scale-[0.98] ${done ? "opacity-50" : ""} ${atrasada ? "border-rose-300 dark:border-rose-700/60 bg-rose-50 dark:bg-rose-900/20" : cor.bg}`}>
                         <div className="flex items-start gap-1.5">
                           {/* Badge R1/R2... */}
                           <span className={`text-[9px] font-black px-1.5 py-0.5 rounded-md flex-shrink-0 ${atrasada ? "bg-rose-500 text-white" : cor.badge}`}>
@@ -239,7 +258,7 @@ export default function CentralRevisoesPage() {
                             )}
                           </div>
                           <button
-                            onClick={() => handleDeletar(rev.id)}
+                            onClick={(e) => { e.stopPropagation(); handleDeletar(rev.id); }}
                             className="p-1 text-slate-400 hover:text-rose-500 transition-colors"
                           >
                             <Trash2 className="w-3 h-3" />
@@ -248,7 +267,7 @@ export default function CentralRevisoesPage() {
 
                         {!done && (
                           <button
-                            onClick={() => handleConcluir(rev)}
+                            onClick={(e) => { e.stopPropagation(); handleConcluir(rev); }}
                             disabled={!!concluding}
                             className="mt-1.5 w-full flex items-center justify-center gap-1 py-1 rounded-lg bg-white/60 dark:bg-black/20 hover:bg-white dark:hover:bg-white/10 transition-colors text-[9px] font-black text-slate-600 dark:text-slate-300"
                           >
@@ -288,7 +307,11 @@ export default function CentralRevisoesPage() {
               const diasAtraso = differenceInDays(TODAY, parseISO(rev.agendado_para));
               const isLoading = concluding === rev.id;
               return (
-                <div key={rev.id} className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-4 border border-rose-100 dark:border-rose-700/30 flex items-center gap-4">
+                <div 
+                  key={rev.id} 
+                  onClick={() => setSelectedRevisao(rev)}
+                  className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-4 border border-rose-100 dark:border-rose-700/30 flex items-center gap-4 cursor-pointer hover:scale-[1.01] transition-transform"
+                >
                   <span className="text-[10px] font-black px-2 py-1 rounded-xl bg-rose-500 text-white flex-shrink-0">R{rev.numero_revisao}</span>
                   <div className="flex-1 min-w-0">
                     <p className="font-black text-slate-800 dark:text-white text-sm truncate">{rev.titulo.replace(/^R\d+:\s*/, "")}</p>
@@ -296,13 +319,13 @@ export default function CentralRevisoesPage() {
                   </div>
                   <div className="flex items-center gap-2">
                     <button
-                      onClick={() => handleDeletar(rev.id)}
+                      onClick={(e) => { e.stopPropagation(); handleDeletar(rev.id); }}
                       className="p-2 text-slate-400 hover:text-rose-500 transition-colors"
                     >
                       <Trash2 className="w-4 h-4" />
                     </button>
                     <button
-                      onClick={() => handleConcluir(rev)}
+                      onClick={(e) => { e.stopPropagation(); handleConcluir(rev); }}
                       disabled={!!concluding}
                       className="px-4 py-2 bg-rose-500 hover:bg-rose-600 text-white text-xs font-black rounded-xl flex items-center gap-1.5 flex-shrink-0 transition-colors"
                     >
@@ -331,6 +354,123 @@ export default function CentralRevisoesPage() {
         </div>
       </div>
 
+      {/* CARD FLUTUANTE DE DETALHES DA REVISÃO */}
+      <AnimatePresence>
+        {selectedRevisao && (() => {
+          const cor = getRevisaoCor(selectedRevisao.numero_revisao);
+          return (
+            <div
+              className="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-[200] flex items-center justify-center p-4"
+              onClick={() => setSelectedRevisao(null)}
+            >
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95, y: 16 }}
+                animate={{ opacity: 1, scale: 1, y: 0 }}
+                exit={{ opacity: 0, scale: 0.95, y: 16 }}
+                transition={{ duration: 0.2, ease: "easeOut" }}
+                onClick={(e) => e.stopPropagation()}
+                className="bg-white dark:bg-[#1C1C1E] rounded-[2rem] w-full max-w-md shadow-2xl overflow-hidden"
+              >
+                {/* HEADER DO CARD */}
+                <div className={`p-6 border-b border-slate-100 dark:border-[#2C2C2E] flex items-start justify-between gap-4 ${cor.bg}`}>
+                  <div className="flex items-center gap-3">
+                    <span className={`text-sm font-black px-3 py-1.5 rounded-xl ${cor.badge}`}>
+                      R{selectedRevisao.numero_revisao}
+                    </span>
+                    <div>
+                      <p className={`font-black text-sm ${cor.text}`}>
+                        {selectedRevisao.titulo.replace(/^R\d+:\s*/, "")}
+                      </p>
+                      <p className="text-[10px] text-slate-400 mt-0.5 font-bold uppercase tracking-widest">
+                        {selectedRevisao.agendado_para
+                          ? format(parseISO(selectedRevisao.agendado_para), "d 'de' MMMM yyyy", { locale: ptBR })
+                          : "Sem data"}
+                      </p>
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => setSelectedRevisao(null)}
+                    className="w-8 h-8 flex items-center justify-center rounded-xl text-slate-400 hover:text-rose-500 hover:bg-rose-50 dark:hover:bg-rose-500/10 transition-all"
+                  >
+                    <X className="w-4 h-4" />
+                  </button>
+                </div>
+
+                {/* CORPO DO CARD */}
+                <div className="p-6 space-y-4">
+                  
+                  {/* Grade de metadados */}
+                  <div className="grid grid-cols-2 gap-3">
+                    
+                    {selectedRevisao.disciplina_nome && (
+                      <InfoRow label="Disciplina" value={selectedRevisao.disciplina_nome} />
+                    )}
+                    {selectedRevisao.conteudo_nome && (
+                      <InfoRow label="Conteúdo" value={selectedRevisao.conteudo_nome} />
+                    )}
+                    {selectedRevisao.sub_conteudo && (
+                      <InfoRow label="Sub-conteúdo" value={selectedRevisao.sub_conteudo} />
+                    )}
+                    {selectedRevisao.q_num && (
+                      <InfoRow label="Questão" value={`Q${selectedRevisao.q_num}`} />
+                    )}
+                    {selectedRevisao.prova && (
+                      <InfoRow label="Prova" value={selectedRevisao.prova} />
+                    )}
+                    {selectedRevisao.ano && (
+                      <InfoRow label="Ano" value={selectedRevisao.ano} />
+                    )}
+                    {selectedRevisao.tipo_erro && (
+                      <div>
+                        <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1">Tipo de Erro</p>
+                        <span className={`text-xs font-black px-2 py-1 rounded-lg ${TIPO_ERRO_COLORS[selectedRevisao.tipo_erro as any]?.bg ?? ''} ${TIPO_ERRO_COLORS[selectedRevisao.tipo_erro as any]?.text ?? ''}`}>
+                          {TIPO_ERRO_LABELS[selectedRevisao.tipo_erro as any] ?? selectedRevisao.tipo_erro}
+                        </span>
+                      </div>
+                    )}
+                  </div>
+
+                  {/* Comentário (destaque separado) */}
+                  {selectedRevisao.comentario && (
+                    <div className="bg-indigo-50 dark:bg-indigo-500/10 rounded-2xl p-4 border border-indigo-100 dark:border-indigo-500/20">
+                      <p className="text-[10px] font-black text-indigo-500 uppercase tracking-widest mb-1">Anotação</p>
+                      <p className="text-sm text-indigo-800 dark:text-indigo-300 font-medium italic leading-relaxed">
+                        "{selectedRevisao.comentario}"
+                      </p>
+                    </div>
+                  )}
+
+                  {/* Status badge */}
+                  <div className="flex items-center justify-between pt-2">
+                    <span className={`text-xs font-black px-3 py-1.5 rounded-xl ${
+                      selectedRevisao.status === 'concluido'
+                        ? 'bg-emerald-50 text-emerald-600 dark:bg-emerald-500/10 dark:text-emerald-400'
+                        : 'bg-amber-50 text-amber-600 dark:bg-amber-500/10 dark:text-amber-400'
+                    }`}>
+                      {selectedRevisao.status === 'concluido' ? '✅ Concluída' : '⏳ Pendente'}
+                    </span>
+
+                    {/* Botão de concluir, se pendente */}
+                    {selectedRevisao.status !== 'concluido' && (
+                      <button
+                        onClick={() => {
+                          handleConcluir(selectedRevisao);
+                          setSelectedRevisao(null);
+                        }}
+                        disabled={!!concluding}
+                        className="flex items-center gap-2 px-4 py-2 bg-violet-600 hover:bg-violet-700 text-white text-xs font-black rounded-xl transition-all active:scale-95"
+                      >
+                        <CheckCircle2 className="w-4 h-4" />
+                        Marcar como Feita
+                      </button>
+                    )}
+                  </div>
+                </div>
+              </motion.div>
+            </div>
+          );
+        })()}
+      </AnimatePresence>
     </div>
   );
 }
