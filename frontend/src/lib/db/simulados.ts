@@ -65,6 +65,7 @@ export type AtualizarSimuladoPayload = {
   tempo1Min: number;
   tempo2Min: number;
   tempoRedMin: number;
+  realizadoEm?: string;
 };
 
 /**
@@ -164,27 +165,33 @@ export async function atualizarSimulado(
     payload.linguagens + payload.humanas + payload.naturezas + payload.matematica;
   const tempoTotal = payload.tempo1Min + payload.tempo2Min + payload.tempoRedMin;
 
+  const updateData: any = {
+    titulo_simulado:  payload.tituloSimulado,
+    modelo_prova:     payload.modeloProva,
+    dados_modelo:     payload.dadosModelo,
+    total_questoes:   payload.totalQuestoes || totalQuestoes,
+    acertos:          payload.acertos || acertos,
+    erros:            (payload.totalQuestoes || totalQuestoes) - (payload.acertos || acertos),
+    exam_year:        payload.examYear,
+    exam_day:         payload.examDay,
+    linguagens:       payload.linguagens,
+    humanas:          payload.humanas,
+    naturezas:        payload.naturezas,
+    matematica:       payload.matematica,
+    redacao:          payload.redacao,
+    tempo1_min:       payload.tempo1Min,
+    tempo2_min:       payload.tempo2Min,
+    tempo_red_min:    payload.tempoRedMin,
+    tempo_total_min:  tempoTotal,
+  };
+
+  if (payload.realizadoEm) {
+    updateData.realizado_em = payload.realizadoEm;
+  }
+
   const { data, error } = await supabase
     .from("simulado_resultados")
-    .update({
-      titulo_simulado:  payload.tituloSimulado,
-      modelo_prova:     payload.modeloProva,
-      dados_modelo:     payload.dadosModelo,
-      total_questoes:   payload.totalQuestoes || totalQuestoes,
-      acertos:          payload.acertos || acertos,
-      erros:            (payload.totalQuestoes || totalQuestoes) - (payload.acertos || acertos),
-      exam_year:        payload.examYear,
-      exam_day:         payload.examDay,
-      linguagens:       payload.linguagens,
-      humanas:          payload.humanas,
-      naturezas:        payload.naturezas,
-      matematica:       payload.matematica,
-      redacao:          payload.redacao,
-      tempo1_min:       payload.tempo1Min,
-      tempo2_min:       payload.tempo2Min,
-      tempo_red_min:    payload.tempoRedMin,
-      tempo_total_min:  tempoTotal,
-    })
+    .update(updateData)
     .eq("id", payload.id)
     .select()
     .single();

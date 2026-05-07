@@ -20,28 +20,28 @@ export const ESTAGIO_ORDER: EstagioFunil[] = [
 ];
 
 export const ESTAGIO_COLORS: Record<EstagioFunil, string> = {
-  Quarentena:  "#3b82f6", // azul
+  Quarentena: "#3b82f6", // azul
   Diagnostico: "#f59e0b", // laranja
-  UTI:         "#ef4444", // vermelho
-  Refacao:     "#a855f7", // roxo
+  UTI: "#ef4444", // vermelho
+  Refacao: "#a855f7", // roxo
   Consolidada: "#22c55e", // verde
 };
 
 export const ESTAGIO_LABELS: Record<EstagioFunil, string> = {
-  Quarentena:  "Quarentena",
+  Quarentena: "Quarentena",
   Diagnostico: "Diagnóstico",
-  UTI:         "UTI",
-  Refacao:     "Refação",
+  UTI: "UTI",
+  Refacao: "Refação",
   Consolidada: "Consolidada",
 };
 
 /** Avança o estágio para o próximo no funil. */
 export function getNextStage(current: EstagioFunil): EstagioFunil | null {
   const sequence: Record<EstagioFunil, EstagioFunil | null> = {
-    Quarentena:  "Diagnostico",
+    Quarentena: "Diagnostico",
     Diagnostico: "UTI",
-    UTI:         "Refacao",
-    Refacao:     "Consolidada",
+    UTI: "Refacao",
+    Refacao: "Consolidada",
     Consolidada: null,
   };
   return sequence[current];
@@ -79,10 +79,10 @@ export function calcRefacaoDates(startDate: Date) {
  */
 export function calcProximaRevisao(estagio: EstagioFunil): string | null {
   const diasPorEstagio: Partial<Record<EstagioFunil, number>> = {
-    Quarentena:  1,
+    Quarentena: 1,
     Diagnostico: 3,
-    UTI:         7,
-    Refacao:     14,
+    UTI: 7,
+    Refacao: 14,
     Consolidada: null as unknown as number, // dominado, sem revisão
   };
   const dias = diasPorEstagio[estagio];

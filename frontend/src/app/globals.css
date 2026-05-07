@@ -77,3 +77,11 @@ body {
   background-color: rgba(148, 163, 184, 0.6);
   border-width: 2px;
 }
+ 
+ /* Expansão global de página (Edge-to-Edge) */
+ /* Alvos: Apenas os containers principais das páginas (filhos diretos do main) */
+ main > :is(.max-w-7xl, .max-w-6xl, .max-w-5xl, .max-w-4xl, .max-w-3xl, .max-w-2xl, .max-w-xl, .max-w-lg) {
+   max-width: 100% !important;
+   padding-left: 1.5rem !important;
+   padding-right: 1.5rem !important;
+ }

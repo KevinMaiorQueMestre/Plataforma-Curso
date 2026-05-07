@@ -29,7 +29,7 @@ const NAV_ITEMS = [
   { label: "Home",              href: "/home",          icon: Home          },
   { label: "Semana",            href: "/semana",        icon: CalendarRange },
   { label: "Simulados",         href: "/simulados",     icon: FileCheck2    },
-  { label: "KevQuest",          href: "/kevquest",      icon: Target        },
+
   { label: "Redação",           href: "/redacao",       icon: PenTool       },
   { label: "Estudo",            href: "/estudo",        icon: Layers        },
   { label: "Central de Revisões", href: "/calendario",    icon: CalendarDays  },
@@ -42,7 +42,7 @@ const BOTTOM_NAV_ITEMS = [
   { label: "Home",     href: "/home",      icon: Home          },
   { label: "Semana",   href: "/semana",    icon: CalendarRange },
   { label: "Simulado", href: "/simulados", icon: FileCheck2    },
-  { label: "KevQuest", href: "/kevquest",  icon: Target        },
+
   { label: "Estudo",   href: "/estudo",    icon: Layers        },
 ];
 

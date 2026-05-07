@@ -5,7 +5,7 @@ import {
   type ProblemaEstudo, type OrigemProblema, ORIGEM_LABELS, ORIGEM_COLORS, TIPO_ERRO_LABELS, TIPO_ERRO_COLORS
 } from "@/lib/db/estudo";
 import { createClient } from "@/utils/supabase/client";
-import { Trash, CheckCircle2, AlertCircle, Inbox, Plus, X, Activity, Pencil, Loader2, ChevronDown } from "lucide-react";
+import { Trash, CheckCircle2, AlertCircle, Inbox, Plus, X, Activity, Pencil, Loader2, ChevronDown, Clock } from "lucide-react";
 import { toast } from "sonner";
 import { motion, AnimatePresence } from "framer-motion";
 import { MODELOS_PROVAS } from "@/lib/config/provas";
@@ -130,7 +130,15 @@ function CustomDropdown({
   );
 }
 
-export default function ModuleTarefasSimulado({ refreshTrigger = 0, onRefresh }: { refreshTrigger?: number; onRefresh?: () => void }) {
+export default function ModuleTarefasSimulado({ 
+  refreshTrigger = 0, 
+  onRefresh,
+  onNewClick
+}: { 
+  refreshTrigger?: number; 
+  onRefresh?: () => void;
+  onNewClick?: () => void;
+}) {
   const [problemas, setProblemas] = useState<ProblemaEstudo[]>([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const [userId, setUserId] = useState<string | null>(null);
@@ -264,56 +272,107 @@ export default function ModuleTarefasSimulado({ refreshTrigger = 0, onRefresh }:
   };
 
   const hoje = new Date().toISOString().split('T')[0];
-  const paraHoje = problemas.filter(p => p.status === 'pendente' && p.agendado_para === hoje);
-  const fila = problemas.filter(p => p.status === 'pendente' && p.agendado_para !== hoje);
+  const pendentes = problemas.filter(p => p.status === 'pendente');
+  const paraHoje = pendentes.filter(p => {
+    const isAtrasado = p.agendado_para && p.agendado_para < hoje;
+    return p.agendado_para === hoje || p.prioridade === 1 || isAtrasado;
+  });
+  const fila = pendentes.filter(p => !paraHoje.includes(p));
 
   const ProblemaListRow = ({ prob, showDate = true }: { prob: ProblemaEstudo; showDate?: boolean }) => {
+    const [showActions, setShowActions] = useState(false);
+
+    const isAtrasado = prob.agendado_para && prob.agendado_para < hoje;
+    const isVisualmenteUrgente = prob.prioridade === 1 || isAtrasado;
+
     return (
-      <div className={`bg-white dark:bg-[#1C1C1E] rounded-xl p-4 flex flex-col md:flex-row md:items-center justify-between gap-4 border transition-all hover:bg-slate-50 dark:hover:bg-[#2C2C2E] ${
-        prob.prioridade === 1 ? 'border-orange-200 dark:border-orange-500/30 shadow-lg shadow-orange-500/5' : 'border-slate-100 dark:border-[#2C2C2E]'
-      }`}>
-        <div className="flex items-center gap-4 flex-1">
-          <div className="w-12 h-12 rounded-xl bg-[#1B2B5E]/10 flex items-center justify-center flex-shrink-0">
-            <Activity className="w-6 h-6 text-[#1B2B5E] dark:text-blue-400" />
-          </div>
-          <div>
-            <h3 className="font-black text-slate-800 dark:text-white text-base md:text-lg leading-tight mb-1">
-              {prob.titulo}
-            </h3>
-            <div className="flex flex-wrap items-center gap-2 text-xs font-bold uppercase tracking-widest text-slate-400">
-              {prob.prioridade === 1 && <span className="text-orange-500 bg-orange-50 dark:bg-orange-900/20 px-2 py-0.5 rounded-md">Urgente</span>}
-              {showDate && prob.agendado_para && <span>Agendado: {new Date(prob.agendado_para + 'T12:00:00').toLocaleDateString('pt-BR')}</span>}
+      <motion.div 
+        layout
+        className={`bg-white dark:bg-[#1C1C1E] rounded-[2rem] p-6 flex flex-col justify-between gap-6 border-2 transition-all hover:shadow-xl hover:shadow-indigo-500/5 group relative overflow-hidden ${
+          isVisualmenteUrgente ? 'border-orange-200 dark:border-orange-500/30' : 'border-slate-100 dark:border-[#2C2C2E]'
+        }`}
+      >
+        {/* Glow effect on hover */}
+        <div className="absolute top-0 right-0 w-32 h-32 bg-indigo-500/5 rounded-full blur-3xl -mr-16 -mt-16 opacity-0 group-hover:opacity-100 transition-opacity" />
+
+        <div className="flex items-start justify-between relative z-10">
+          <div className="flex items-start gap-4">
+            <div className={`w-14 h-14 rounded-2xl flex items-center justify-center flex-shrink-0 transition-transform group-hover:scale-110 duration-500 ${
+              isVisualmenteUrgente ? 'bg-orange-50 dark:bg-orange-500/10 text-orange-500' : 'bg-indigo-50 dark:bg-indigo-500/10 text-indigo-500'
+            }`}>
+              <Activity className="w-7 h-7" />
             </div>
+            <div className="min-w-0">
+              <h3 className="font-black text-slate-800 dark:text-white text-lg leading-tight mb-2 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
+                {prob.titulo}
+              </h3>
+              <div className="flex flex-wrap items-center gap-2">
+                {isVisualmenteUrgente && (
+                  <span className="text-[10px] font-black uppercase tracking-widest text-orange-600 bg-orange-50 dark:bg-orange-500/10 px-2.5 py-1 rounded-lg border border-orange-100 dark:border-orange-500/20">
+                    {prob.prioridade === 1 ? 'Urgente' : 'Atrasado'}
+                  </span>
+                )}
+                {showDate && prob.agendado_para && (
+                  <span className="text-[10px] font-black uppercase tracking-widest text-slate-400 flex items-center gap-1.5">
+                    <Clock className="w-3 h-3" />
+                    {new Date(prob.agendado_para + 'T12:00:00').toLocaleDateString('pt-BR')}
+                  </span>
+                )}
+              </div>
+            </div>
+          </div>
+          
+          <div className="flex flex-col gap-2">
+             <button
+                onClick={() => setShowActions(!showActions)}
+                className="p-2 text-slate-300 hover:text-indigo-500 dark:text-slate-600 dark:hover:text-indigo-400 bg-slate-50 dark:bg-[#2C2C2E]/50 rounded-xl transition-all"
+                title="Ver Mais"
+              >
+                <ChevronDown className={`w-5 h-5 transition-transform duration-300 ${showActions ? 'rotate-180' : ''}`} />
+              </button>
           </div>
         </div>
 
-        <div className="flex items-center gap-2 justify-end w-full md:w-auto">
-          <button
-            onClick={() => {
-                setModalEditar({ open: true, prob: prob });
-                parseTitulo(prob);
-            }}
-            className="p-3 text-slate-300 hover:text-indigo-500 dark:text-slate-600 dark:hover:text-indigo-400 bg-slate-50 dark:bg-slate-800 hover:bg-indigo-50 dark:hover:bg-indigo-900/30 rounded-xl transition-all"
-            title="Editar"
-          >
-            <Pencil className="w-4 h-4" />
-          </button>
-          <button
-            onClick={() => handleDeletar(prob.id)}
-            className="p-3 text-slate-300 hover:text-rose-500 dark:text-slate-600 dark:hover:text-rose-400 bg-slate-50 dark:bg-slate-800 hover:bg-rose-50 dark:hover:bg-rose-900/30 rounded-xl transition-all"
-            title="Excluir"
-          >
-            <Trash className="w-4 h-4" />
-          </button>
+        <AnimatePresence>
+          {showActions && (
+            <motion.div 
+              initial={{ height: 0, opacity: 0 }}
+              animate={{ height: 'auto', opacity: 1 }}
+              exit={{ height: 0, opacity: 0 }}
+              className="overflow-hidden border-t border-slate-50 dark:border-[#2C2C2E] pt-4"
+            >
+              <div className="flex items-center gap-2 justify-end">
+                <button
+                  onClick={() => {
+                      setModalEditar({ open: true, prob: prob });
+                      parseTitulo(prob);
+                  }}
+                  className="flex-1 flex items-center justify-center gap-2 py-3 px-4 text-slate-500 hover:text-indigo-600 hover:bg-indigo-50 dark:text-slate-400 dark:hover:text-indigo-400 dark:hover:bg-indigo-500/10 rounded-xl transition-all font-black text-[10px] uppercase tracking-widest"
+                >
+                  <Pencil className="w-3.5 h-3.5" /> Editar
+                </button>
+                <button
+                  onClick={() => handleDeletar(prob.id)}
+                  className="flex-1 flex items-center justify-center gap-2 py-3 px-4 text-slate-500 hover:text-rose-600 hover:bg-rose-50 dark:text-slate-400 dark:hover:text-rose-400 dark:hover:bg-rose-500/10 rounded-xl transition-all font-black text-[10px] uppercase tracking-widest"
+                >
+                  <Trash className="w-3.5 h-3.5" /> Excluir
+                </button>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        <div className="mt-2 relative z-10">
           <button
             onClick={() => handleConcluir(prob.id)}
             disabled={isSaving}
-            className="flex items-center gap-2 bg-[#1B2B5E] hover:bg-blue-900 text-white text-xs font-black px-5 py-3 rounded-xl uppercase tracking-widest transition-all active:scale-95 shadow-md shadow-[#1B2B5E]/20 disabled:opacity-50"
+            className="w-full flex items-center justify-center gap-3 bg-[#1B2B5E] hover:bg-blue-900 text-white text-[10px] font-black py-4 rounded-[1.2rem] uppercase tracking-[0.2em] transition-all active:scale-[0.97] shadow-lg shadow-[#1B2B5E]/20 disabled:opacity-50"
           >
-            {isSaving ? <Loader2 className="w-4 h-4 animate-spin" /> : <CheckCircle2 className="w-4 h-4" />} Concluir
+            {isSaving ? <Loader2 className="w-4 h-4 animate-spin" /> : <CheckCircle2 className="w-5 h-5" />}
+            Concluir Simulado
           </button>
         </div>
-      </div>
+      </motion.div>
     );
   };
 
@@ -324,16 +383,32 @@ export default function ModuleTarefasSimulado({ refreshTrigger = 0, onRefresh }:
       {/* Para Hoje */}
       {paraHoje.length > 0 && (
         <div>
-          <div className="flex items-center gap-3 mb-4">
-            <div className="w-8 h-8 rounded-xl bg-[#F97316]/10 flex items-center justify-center">
-              <AlertCircle className="w-4 h-4 text-[#F97316]" />
+          <div className="flex items-center justify-between mb-6">
+            <div className="flex items-center gap-4">
+              <div className="w-12 h-12 rounded-2xl bg-[#F97316]/10 flex items-center justify-center shadow-sm">
+                <AlertCircle className="w-6 h-6 text-[#F97316]" />
+              </div>
+              <div className="flex flex-col">
+                <h2 className="text-xl md:text-2xl font-black uppercase tracking-tight text-slate-800 dark:text-white leading-tight">
+                  Para Hoje
+                </h2>
+                <p className="text-[10px] md:text-xs text-slate-400 font-bold uppercase tracking-widest mt-0.5">
+                  Tarefas agendadas para o dia atual
+                </p>
+              </div>
+              <span className="text-sm font-black text-slate-400 bg-slate-100 dark:bg-[#2C2C2E] px-2.5 py-1 rounded-lg self-start mt-1">({paraHoje.length})</span>
             </div>
-            <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
-              Para Hoje
-            </h2>
-            <span className="text-xs font-black text-slate-400">({paraHoje.length})</span>
+            {onNewClick && (
+              <button
+                onClick={onNewClick}
+                className="hidden sm:flex items-center justify-center gap-2 bg-[#F97316] hover:bg-orange-600 text-white font-black px-6 py-4 rounded-[1.5rem] text-sm uppercase tracking-widest transition-all active:scale-95 shadow-lg shadow-orange-500/20"
+              >
+                <Plus className="w-5 h-5" />
+                <span>Novo Simulado</span>
+              </button>
+            )}
           </div>
-          <div className="flex flex-col gap-3">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {paraHoje.map(p => <ProblemaListRow key={p.id} prob={p} showDate={false} />)}
           </div>
         </div>
@@ -341,21 +416,37 @@ export default function ModuleTarefasSimulado({ refreshTrigger = 0, onRefresh }:
 
       {/* Fila */}
       <div>
-        <div className="flex items-center gap-3 mb-4 mt-8">
-          <div className="w-8 h-8 rounded-xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center">
-            <Inbox className="w-4 h-4 text-slate-500" />
+        <div className="flex items-center justify-between mb-6 mt-12">
+          <div className="flex items-center gap-4">
+            <div className="w-12 h-12 rounded-2xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center shadow-sm">
+              <Inbox className="w-6 h-6 text-slate-500" />
+            </div>
+            <div className="flex flex-col">
+              <h2 className="text-xl md:text-2xl font-black uppercase tracking-tight text-slate-800 dark:text-white leading-tight">
+                Fila
+              </h2>
+              <p className="text-[10px] md:text-xs text-slate-400 font-bold uppercase tracking-widest mt-0.5">
+                Agendados Futuros ou Sem Data
+              </p>
+            </div>
+            <span className="text-sm font-black text-slate-400 bg-slate-100 dark:bg-[#2C2C2E] px-2.5 py-1 rounded-lg self-start mt-1">({fila.length})</span>
           </div>
-          <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
-            Fila (Agendados Futuros ou Sem Data)
-          </h2>
-          <span className="text-xs font-black text-slate-400">({fila.length})</span>
+          {onNewClick && paraHoje.length === 0 && (
+            <button
+              onClick={onNewClick}
+              className="hidden sm:flex items-center justify-center gap-2 bg-[#F97316] hover:bg-orange-600 text-white font-black px-6 py-4 rounded-[1.5rem] text-sm uppercase tracking-widest transition-all active:scale-95 shadow-lg shadow-orange-500/20"
+            >
+              <Plus className="w-5 h-5" />
+              <span>Novo Simulado</span>
+            </button>
+          )}
         </div>
         {fila.length === 0 ? (
           <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-12 border border-slate-100 dark:border-[#2C2C2E] text-center text-slate-400 text-sm font-medium">
             Sua fila está vazia. Ótimo trabalho!
           </div>
         ) : (
-          <div className="flex flex-col gap-3">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {fila.map(p => <ProblemaListRow key={p.id} prob={p} />)}
           </div>
         )}
@@ -459,10 +550,16 @@ export default function ModuleTarefasSimulado({ refreshTrigger = 0, onRefresh }:
                 </div>
                 <div>
                   <label className="block text-xs font-bold mb-2 text-slate-500 uppercase tracking-wider">Prioridade</label>
-                  <select value={formEditar.prioridade} onChange={e => setFormEditar({...formEditar, prioridade: parseInt(e.target.value)})} className="w-full h-11 bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 text-sm outline-none focus:border-indigo-500 font-medium">
-                    <option value={0}>Normal</option>
-                    <option value={1}>Urgente</option>
-                  </select>
+                  <CustomDropdown
+                    value={formEditar.prioridade.toString()}
+                    onChange={v => setFormEditar({ ...formEditar, prioridade: parseInt(v) })}
+                    options={[
+                      { value: "0", label: "Normal" },
+                      { value: "1", label: "Urgente" }
+                    ]}
+                    placeholder="Prioridade"
+                    className="h-11 bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl px-4 text-sm font-medium outline-none focus:border-indigo-500 text-slate-800 dark:text-white"
+                  />
                 </div>
               </div>
 

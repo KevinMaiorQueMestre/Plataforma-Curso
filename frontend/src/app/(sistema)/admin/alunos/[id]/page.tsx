@@ -205,11 +205,10 @@ export default function AlunoDetailPage() {
             <div className="flex-1">
               <div className="flex flex-wrap items-center gap-3 mb-2">
                 <h1 className="text-3xl md:text-4xl font-black text-white">{aluno.nome || "Sem nome"}</h1>
-                <span className={`text-[9px] font-black uppercase tracking-widest px-3 py-1 rounded-full ${
-                  aluno.is_active !== false
+                <span className={`text-[9px] font-black uppercase tracking-widest px-3 py-1 rounded-full ${aluno.is_active !== false
                     ? "bg-teal-400/20 text-teal-100 ring-1 ring-teal-300/30"
                     : "bg-rose-400/20 text-rose-100 ring-1 ring-rose-300/30"
-                }`}>
+                  }`}>
                   {aluno.is_active !== false ? "✓ Ativo" : "✗ Bloqueado"}
                 </span>
               </div>
@@ -229,11 +228,10 @@ export default function AlunoDetailPage() {
               </button>
               <button
                 onClick={toggleStatus}
-                className={`flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-black uppercase tracking-wider transition-all ${
-                  aluno.is_active !== false
+                className={`flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs font-black uppercase tracking-wider transition-all ${aluno.is_active !== false
                     ? "bg-rose-500/20 hover:bg-rose-500/30 text-rose-100"
                     : "bg-teal-500/20 hover:bg-teal-500/30 text-teal-100"
-                }`}
+                  }`}
               >
                 {aluno.is_active !== false ? <><ShieldOff className="w-3.5 h-3.5" /> Bloquear</> : <><Shield className="w-3.5 h-3.5" /> Ativar</>}
               </button>
@@ -277,11 +275,10 @@ export default function AlunoDetailPage() {
             <button
               key={t.id}
               onClick={() => setActiveTab(t.id)}
-              className={`flex-1 flex items-center justify-center gap-2 py-4 text-[11px] font-black uppercase tracking-wider transition-all border-b-2 ${
-                activeTab === t.id
+              className={`flex-1 flex items-center justify-center gap-2 py-4 text-[11px] font-black uppercase tracking-wider transition-all border-b-2 ${activeTab === t.id
                   ? "text-indigo-600 dark:text-indigo-400 border-indigo-500 bg-white dark:bg-[#1C1C1E]"
                   : "text-slate-400 border-transparent hover:text-slate-600 dark:hover:text-slate-300"
-              }`}
+                }`}
             >
               <t.icon className="w-4 h-4" />
               <span className="hidden sm:inline">{t.label}</span>
@@ -369,7 +366,7 @@ export default function AlunoDetailPage() {
                       <p className="font-bold text-lg">Nenhum simulado registrado ainda</p>
                     </div>
                   ) : metrics.simulados.map((s: any, i: number) => {
-                    const total = (s.linguagens||0)+(s.humanas||0)+(s.naturezas||0)+(s.matematica||0);
+                    const total = (s.linguagens || 0) + (s.humanas || 0) + (s.naturezas || 0) + (s.matematica || 0);
                     const pct = Math.round((total / 180) * 100);
                     return (
                       <div key={s.id} className="bg-slate-50 dark:bg-[#2C2C2E]/60 rounded-2xl p-5 border border-slate-100 dark:border-white/5">
@@ -446,11 +443,10 @@ export default function AlunoDetailPage() {
                         )}
                       </div>
                       <div className="mt-3 flex gap-2">
-                        <span className={`text-[9px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full ${
-                          r.status === "CONCLUIDA" ? "bg-teal-100 text-teal-700 dark:bg-teal-500/20 dark:text-teal-400" :
-                          r.status === "FAZENDO" ? "bg-amber-100 text-amber-700 dark:bg-amber-500/20 dark:text-amber-400" :
-                          "bg-slate-100 text-slate-500 dark:bg-white/10 dark:text-slate-400"
-                        }`}>
+                        <span className={`text-[9px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full ${r.status === "CONCLUIDA" ? "bg-teal-100 text-teal-700 dark:bg-teal-500/20 dark:text-teal-400" :
+                            r.status === "EM CORREÇÃO" ? "bg-amber-100 text-amber-700 dark:bg-amber-500/20 dark:text-amber-400" :
+                              "bg-slate-100 text-slate-500 dark:bg-white/10 dark:text-slate-400"
+                          }`}>
                           {r.status || "Pendente"}
                         </span>
                       </div>

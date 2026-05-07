@@ -25,10 +25,11 @@ type RotinaItem = {
   dia_semana: number;
   ordem: number;
   tipo: TipoBloco;
-  horario_ini: string;
-  horario_fim: string;
+  horario_ini: string | null;
+  horario_fim: string | null;
   disciplina_id: string | null;
-  descricao: string;
+  conteudo_id: string | null;
+  descricao: string | null;
   disciplinas?: Disciplina;
 };
 
@@ -39,10 +40,11 @@ type SemanaBloco = {
   tarefa_origem_id?: string | null;
   data_referencia: string;
   tipo: TipoBloco;
-  horario_ini: string;
-  horario_fim: string;
+  horario_ini: string | null;
+  horario_fim: string | null;
   disciplina_id: string | null;
-  descricao: string;
+  conteudo_id: string | null;
+  descricao: string | null;
   status: StatusBloco;
   sessao_id: string | null;
   notas: string | null;
@@ -67,7 +69,7 @@ const STATUS_CONFIG: Record<StatusBloco, { cor: string; label: string; bg: strin
   prontidao:   { cor: "text-amber-700 dark:text-amber-300",  label: "Prontidão",   bg: "bg-amber-50 dark:bg-amber-500/10",   border: "border-amber-200 dark:border-amber-500/30" },
   personalizado:{ cor: "text-indigo-700 dark:text-indigo-300",label: "Personalizado",bg: "bg-indigo-50 dark:bg-indigo-500/10", border: "border-indigo-200 dark:border-indigo-500/30" },
   concluido:   { cor: "text-emerald-700 dark:text-emerald-300",label: "Concluído", bg: "bg-emerald-50 dark:bg-emerald-500/10",border: "border-emerald-200 dark:border-emerald-500/30" },
-  abandonado:  { cor: "text-slate-500 dark:text-slate-400",   label: "Abandonado", bg: "bg-slate-50 dark:bg-slate-800",       border: "border-slate-200 dark:border-slate-700" },
+  abandonado:  { cor: "text-rose-700 dark:text-rose-300",   label: "Abandonado", bg: "bg-rose-50 dark:bg-rose-500/10",       border: "border-rose-200 dark:border-rose-500/30" },
   reposicao:   { cor: "text-purple-700 dark:text-purple-300", label: "Reposição",  bg: "bg-purple-50 dark:bg-purple-500/10",  border: "border-purple-200 dark:border-purple-500/30" },
 };
 
@@ -89,6 +91,7 @@ function CustomDropdown({
   placeholder,
   disabled = false,
   className = "",
+  onAddNewItem,
 }: {
   value: string;
   onChange: (val: string) => void;
@@ -96,8 +99,10 @@ function CustomDropdown({
   placeholder: string;
   disabled?: boolean;
   className?: string;
+  onAddNewItem?: (val: string) => void;
 }) {
   const [isOpen, setIsOpen] = useState(false);
+  const [searchTerm, setSearchTerm] = useState("");
   const containerRef = useRef<HTMLDivElement>(null);
   const isOpenRef = useRef(isOpen);
   isOpenRef.current = isOpen;
@@ -112,7 +117,16 @@ function CustomDropdown({
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
+  useEffect(() => {
+    if (!isOpen) setSearchTerm("");
+  }, [isOpen]);
+
   const selectedOpt = options.find(o => o.value === value);
+  const filteredOptions = onAddNewItem 
+    ? options.filter(o => o.label.toLowerCase().includes(searchTerm.toLowerCase()))
+    : options;
+
+  const showAdd = onAddNewItem && searchTerm.trim() !== "" && !options.some(o => o.label.toLowerCase() === searchTerm.toLowerCase());
 
   return (
     <div className="relative w-full" ref={containerRef}>
@@ -135,8 +149,20 @@ function CustomDropdown({
             transition={{ duration: 0.2, ease: "easeOut" }}
             className="absolute z-[100] w-full mt-2 bg-white dark:bg-[#1C1C1EE6] backdrop-blur-xl border border-slate-200 dark:border-slate-800 rounded-2xl shadow-2xl overflow-hidden"
           >
+            {onAddNewItem && (
+              <div className="p-2 border-b border-slate-100 dark:border-slate-800">
+                <input 
+                  type="text" 
+                  autoFocus 
+                  value={searchTerm} 
+                  onChange={e => setSearchTerm(e.target.value)} 
+                  placeholder="Buscar ou adicionar..." 
+                  className="w-full bg-slate-50 dark:bg-slate-800 text-sm font-bold p-2 rounded-xl outline-none border border-transparent focus:border-indigo-500"
+                />
+              </div>
+            )}
             <div className="max-h-60 overflow-y-auto p-1.5 flex flex-col gap-1 custom-scrollbar">
-              {[...options].sort((a, b) => {
+              {[...filteredOptions].sort((a, b) => {
                 if (a.value === "") return -1;
                 if (b.value === "") return 1;
                 return a.label.localeCompare(b.label);
@@ -150,6 +176,15 @@ function CustomDropdown({
                   {opt.label}
                 </button>
               ))}
+              {showAdd && (
+                <button
+                  type="button"
+                  onClick={() => { onAddNewItem(searchTerm); setIsOpen(false); }}
+                  className="w-full text-left px-3 py-2.5 rounded-xl text-sm font-bold transition-all bg-indigo-50 text-indigo-600 hover:bg-indigo-100 dark:bg-indigo-500/10 dark:text-indigo-400 dark:hover:bg-indigo-500/20"
+                >
+                  + Adicionar "{searchTerm}"
+                </button>
+              )}
             </div>
           </motion.div>
         )}
@@ -261,7 +296,7 @@ function BlocoCard({
         <div className="flex flex-col gap-1 mt-0.5">
           <div className="flex items-center gap-1.5 text-[10px] font-bold text-slate-400/80">
             <Clock className="w-3 h-3" />
-            <span>{bloco.horario_ini.slice(0,5)} – {bloco.horario_fim.slice(0,5)}</span>
+            <span>{bloco.horario_ini?.slice(0,5) || "--:--"} – {bloco.horario_fim?.slice(0,5) || "--:--"}</span>
           </div>
 
           <AnimatePresence>
@@ -287,27 +322,31 @@ function BlocoCard({
 
         {/* ACTIONS (Expandable) */}
         <AnimatePresence>
-          {isExpanded && !concluido && (
+          {isExpanded && (
             <motion.div 
               initial={{ height: 0, opacity: 0, marginTop: 0 }}
               animate={{ height: "auto", opacity: 1, marginTop: 10 }}
               exit={{ height: 0, opacity: 0, marginTop: 0 }}
               className="flex items-center gap-1.5 overflow-hidden border-t border-slate-200 dark:border-slate-700/50 pt-2.5"
             >
-              <button
-                title="Confirmar feito"
-                onClick={(e) => { e.stopPropagation(); onConfirmar(bloco); }}
-                className="flex-1 py-1.5 flex items-center justify-center rounded-lg bg-emerald-100 dark:bg-emerald-500/20 text-emerald-600 hover:bg-emerald-200 dark:hover:bg-emerald-500/30 transition-colors"
-              >
-                <Check className="w-3.5 h-3.5" />
-              </button>
-              <button
-                title="Não feito"
-                onClick={(e) => { e.stopPropagation(); onNaoFeito(bloco); }}
-                className="flex-1 py-1.5 flex items-center justify-center rounded-lg bg-rose-100 dark:bg-rose-500/20 text-rose-500 hover:bg-rose-200 dark:hover:bg-rose-500/30 transition-colors"
-              >
-                <X className="w-3.5 h-3.5" />
-              </button>
+              {!concluido && (
+                <>
+                  <button
+                    title="Confirmar feito"
+                    onClick={(e) => { e.stopPropagation(); onConfirmar(bloco); }}
+                    className="flex-1 py-1.5 flex items-center justify-center rounded-lg bg-emerald-100 dark:bg-emerald-500/20 text-emerald-600 hover:bg-emerald-200 dark:hover:bg-emerald-500/30 transition-colors"
+                  >
+                    <Check className="w-3.5 h-3.5" />
+                  </button>
+                  <button
+                    title="Não feito"
+                    onClick={(e) => { e.stopPropagation(); onNaoFeito(bloco); }}
+                    className="flex-1 py-1.5 flex items-center justify-center rounded-lg bg-rose-100 dark:bg-rose-500/20 text-rose-500 hover:bg-rose-200 dark:hover:bg-rose-500/30 transition-colors"
+                  >
+                    <X className="w-3.5 h-3.5" />
+                  </button>
+                </>
+              )}
               <button
                 title="Editar"
                 onClick={(e) => { e.stopPropagation(); onEditar(bloco); }}
@@ -635,15 +674,42 @@ function ModalBloco({
   onClose: () => void;
   onSave: (dados: Partial<SemanaBloco>) => Promise<void>;
 }) {
+  const supabase = createClient();
+  const [conteudos, setConteudos] = useState<Conteudo[]>([]);
   const [isSaving, setIsSaving] = useState(false);
   const [form, setForm] = useState({
     tipo: (bloco?.tipo ?? "estudo") as TipoBloco,
-    horario_ini: bloco?.horario_ini?.slice(0, 5) ?? "08:00",
-    horario_fim: bloco?.horario_fim?.slice(0, 5) ?? "09:00",
+    horario_ini: bloco?.horario_ini?.slice(0, 5) ?? "",
+    horario_fim: bloco?.horario_fim?.slice(0, 5) ?? "",
     descricao: bloco?.descricao ?? "",
     disciplina_id: bloco?.disciplina_id ?? "",
+    conteudo_id: bloco?.conteudo_id ?? "",
+    status: (bloco?.status ?? "personalizado") as StatusBloco,
     data_referencia: bloco?.data_referencia ?? diaAlvo ?? "",
   });
+
+  useEffect(() => {
+    if (!form.disciplina_id) { setConteudos([]); return; }
+    supabase
+      .from("conteudos")
+      .select("id, nome")
+      .eq("disciplina_id", form.disciplina_id)
+      .order("ordem", { ascending: true })
+      .then(({ data }) => setConteudos(data ?? []));
+  }, [form.disciplina_id]);
+
+  async function handleAddConteudo(nome: string) {
+    if (!form.disciplina_id) return;
+    const { data } = await supabase.from("conteudos").insert({
+      disciplina_id: form.disciplina_id,
+      nome
+    }).select("id, nome").single();
+    if (data) {
+      setConteudos(prev => [...prev, data]);
+      setForm(f => ({ ...f, conteudo_id: data.id }));
+      toast.success("Conteúdo adicionado!");
+    }
+  }
 
   async function handleSave() {
     if (!form.data_referencia) { toast.error("Selecione uma data."); return; }
@@ -653,7 +719,10 @@ function ModalBloco({
     await onSave({
       ...form,
       descricao: descricaoFinal,
+      horario_ini: form.horario_ini || null,
+      horario_fim: form.horario_fim || null,
       disciplina_id: form.disciplina_id || null,
+      conteudo_id: form.conteudo_id || null,
     });
     setIsSaving(false);
     onClose();
@@ -713,19 +782,36 @@ function ModalBloco({
               />
             </div>
 
-            {/* Disciplina */}
-            <div>
-              <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Disciplina (Opcional)</label>
-              <CustomDropdown
-                value={form.disciplina_id}
-                onChange={v => setForm(f => ({ ...f, disciplina_id: v }))}
-                options={[
-                  { value: '', label: 'Sem disciplina' },
-                  ...disciplinas.map(d => ({ value: d.id, label: d.nome }))
-                ]}
-                placeholder="Sem disciplina"
-                className="bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold"
-              />
+            {/* Disciplina e Conteúdo */}
+            <div className="grid grid-cols-2 gap-3">
+              <div>
+                <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Disciplina (Opcional)</label>
+                <CustomDropdown
+                  value={form.disciplina_id}
+                  onChange={v => setForm(f => ({ ...f, disciplina_id: v, conteudo_id: "" }))}
+                  options={[
+                    { value: '', label: 'Sem disciplina' },
+                    ...disciplinas.map(d => ({ value: d.id, label: d.nome }))
+                  ]}
+                  placeholder="Sem disciplina"
+                  className="bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold"
+                />
+              </div>
+              <div>
+                <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Conteúdo (Opcional)</label>
+                <CustomDropdown
+                  value={form.conteudo_id}
+                  onChange={v => setForm(f => ({ ...f, conteudo_id: v }))}
+                  onAddNewItem={form.disciplina_id ? handleAddConteudo : undefined}
+                  options={[
+                    { value: '', label: 'Sem conteúdo' },
+                    ...conteudos.map(c => ({ value: c.id, label: c.nome }))
+                  ]}
+                  placeholder={form.disciplina_id ? "Selecionar conteúdo" : "Escolha a disciplina"}
+                  disabled={!form.disciplina_id}
+                  className="bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold"
+                />
+              </div>
             </div>
 
             {/* Horários */}
@@ -750,18 +836,48 @@ function ModalBloco({
               </div>
             </div>
 
-            {/* Data (só ao criar) */}
-            {!bloco && (
-              <div>
-                <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Data</label>
-                <input
-                  type="date"
-                  value={form.data_referencia}
-                  onChange={e => setForm(f => ({ ...f, data_referencia: e.target.value }))}
-                  className="w-full bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold outline-none"
-                />
-              </div>
-            )}
+            {/* Data e Status (edição) */}
+            <div className="grid grid-cols-2 gap-3">
+              {!bloco ? (
+                <div>
+                  <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Data</label>
+                  <input
+                    type="date"
+                    value={form.data_referencia}
+                    onChange={e => setForm(f => ({ ...f, data_referencia: e.target.value }))}
+                    className="w-full bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold outline-none"
+                  />
+                </div>
+              ) : (
+                <>
+                  <div>
+                    <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Data</label>
+                    <input
+                      type="date"
+                      value={form.data_referencia}
+                      onChange={e => setForm(f => ({ ...f, data_referencia: e.target.value }))}
+                      className="w-full bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold outline-none"
+                    />
+                  </div>
+                  <div>
+                    <label className="text-[10px] font-black text-slate-400 uppercase mb-2 block">Status</label>
+                    <CustomDropdown
+                      value={form.status}
+                      onChange={v => setForm(f => ({ ...f, status: v as StatusBloco }))}
+                      options={[
+                        { value: 'prontidao', label: 'Prontidão' },
+                        { value: 'personalizado', label: 'Personalizado' },
+                        { value: 'concluido', label: 'Concluído' },
+                        { value: 'abandonado', label: 'Abandonado' },
+                        { value: 'reposicao', label: 'Reposição' },
+                      ]}
+                      placeholder="Status"
+                      className="w-full bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold"
+                    />
+                  </div>
+                </>
+              )}
+            </div>
           </div>
 
           <button
@@ -788,32 +904,61 @@ function RotinaSetup({
   initialData?: RotinaItem[];
   onSalvar: (itens: Omit<RotinaItem, "id" | "user_id" | "ordem">[]) => Promise<void>;
 }) {
-  type ItemTemp = { dia_semana: number; tipo: TipoBloco; horario_ini: string; horario_fim: string; disciplina_id: string; descricao: string };
+  type ItemTemp = { dia_semana: number; tipo: TipoBloco; horario_ini: string; horario_fim: string; disciplina_id: string; conteudo_id: string; descricao: string };
   const [itens, setItens] = useState<ItemTemp[]>(initialData.map(d => ({
     dia_semana: d.dia_semana,
     tipo: d.tipo,
-    horario_ini: d.horario_ini.slice(0, 5),
-    horario_fim: d.horario_fim.slice(0, 5),
+    horario_ini: d.horario_ini?.slice(0, 5) ?? "",
+    horario_fim: d.horario_fim?.slice(0, 5) ?? "",
     disciplina_id: d.disciplina_id ?? "",
-    descricao: d.descricao
+    conteudo_id: d.conteudo_id ?? "",
+    descricao: d.descricao ?? ""
   })));
   const [isSaving, setIsSaving] = useState(false);
   const [diaAtivo, setDiaAtivo] = useState(1);
   const [form, setForm] = useState<ItemTemp>({
-    dia_semana: 1, tipo: "estudo", horario_ini: "08:00", horario_fim: "09:00", disciplina_id: "", descricao: ""
+    dia_semana: 1, tipo: "estudo", horario_ini: "08:00", horario_fim: "09:00", disciplina_id: "", conteudo_id: "", descricao: ""
   });
+  
+  const [conteudos, setConteudos] = useState<Conteudo[]>([]);
+  const supabase = createClient();
+
+  useEffect(() => {
+    if (!form.disciplina_id) { setConteudos([]); return; }
+    supabase
+      .from("conteudos")
+      .select("id, nome")
+      .eq("disciplina_id", form.disciplina_id)
+      .order("ordem", { ascending: true })
+      .then(({ data }) => setConteudos(data ?? []));
+  }, [form.disciplina_id]);
+
+  async function handleAddConteudo(nome: string) {
+    if (!form.disciplina_id) return;
+    const { data } = await supabase.from("conteudos").insert({
+      disciplina_id: form.disciplina_id,
+      nome
+    }).select("id, nome").single();
+    if (data) {
+      setConteudos(prev => [...prev, data]);
+      setForm(f => ({ ...f, conteudo_id: data.id }));
+      toast.success("Conteúdo adicionado!");
+    }
+  }
 
   function addItem() {
     const tipoDef = TIPOS_BLOCO.find(t => t.value === form.tipo);
     const descricaoFinal = form.descricao.trim() || tipoDef?.label || form.tipo;
     const disciplinaFinal = form.disciplina_id.trim() || null;
+    const conteudoFinal = form.conteudo_id.trim() || null;
     setItens(prev => [...prev, { 
       ...form, 
       descricao: descricaoFinal,
       disciplina_id: disciplinaFinal as any,
+      conteudo_id: conteudoFinal as any,
       dia_semana: diaAtivo 
     }]);
-    setForm(f => ({ ...f, descricao: "", disciplina_id: "" }));
+    setForm(f => ({ ...f, descricao: "", disciplina_id: "", conteudo_id: "" }));
   }
 
   function removeItem(idx: number) {
@@ -917,16 +1062,30 @@ function RotinaSetup({
             className="w-full bg-slate-50 dark:bg-slate-800 border-2 border-transparent focus:border-indigo-500 rounded-xl px-4 py-3 text-sm font-bold outline-none"
           />
 
-          <CustomDropdown
-            value={form.disciplina_id}
-            onChange={v => setForm(f => ({ ...f, disciplina_id: v }))}
-            options={[
-              { value: '', label: 'Sem disciplina vinculada' },
-              ...disciplinas.map(d => ({ value: d.id, label: d.nome }))
-            ]}
-            placeholder="Sem disciplina vinculada"
-            className="w-full bg-slate-50 dark:bg-slate-800 rounded-xl px-4 py-3 text-sm font-bold"
-          />
+          <div className="grid grid-cols-2 gap-3">
+            <CustomDropdown
+              value={form.disciplina_id}
+              onChange={v => setForm(f => ({ ...f, disciplina_id: v, conteudo_id: "" }))}
+              options={[
+                { value: '', label: 'Sem disciplina vinculada' },
+                ...disciplinas.map(d => ({ value: d.id, label: d.nome }))
+              ]}
+              placeholder="Sem disciplina"
+              className="w-full bg-slate-50 dark:bg-slate-800 rounded-xl px-4 py-3 text-sm font-bold"
+            />
+            <CustomDropdown
+              value={form.conteudo_id}
+              onChange={v => setForm(f => ({ ...f, conteudo_id: v }))}
+              onAddNewItem={form.disciplina_id ? handleAddConteudo : undefined}
+              options={[
+                { value: '', label: 'Sem conteúdo' },
+                ...conteudos.map(c => ({ value: c.id, label: c.nome }))
+              ]}
+              placeholder={form.disciplina_id ? "Selecionar conteúdo" : "Escolha a disciplina"}
+              disabled={!form.disciplina_id}
+              className="w-full bg-slate-50 dark:bg-slate-800 rounded-xl px-4 py-3 text-sm font-bold"
+            />
+          </div>
 
           <div className="grid grid-cols-2 gap-2">
             <div>
@@ -1082,6 +1241,7 @@ export default function SemanaPage() {
             horario_ini: item.horario_ini,
             horario_fim: item.horario_fim,
             disciplina_id: item.disciplina_id,
+            conteudo_id: item.conteudo_id,
             descricao: item.descricao,
             status: "prontidao",
           });
@@ -1259,19 +1419,21 @@ export default function SemanaPage() {
 
     if (modalBloco?.bloco) {
       // Editar
+      const statusFinal = dados.status ?? "personalizado";
       const { error } = await supabase.from("semana_blocos")
-        .update({ ...dados, status: "personalizado", updated_at: new Date().toISOString() })
+        .update({ ...dados, status: statusFinal, updated_at: new Date().toISOString() })
         .eq("id", modalBloco.bloco.id);
       if (!error) {
-        setBlocos(prev => prev.map(b => b.id === modalBloco.bloco!.id ? { ...b, ...dados, status: "personalizado" } : b));
+        setBlocos(prev => prev.map(b => b.id === modalBloco.bloco!.id ? { ...b, ...dados, status: statusFinal } : b));
         toast.success("Bloco atualizado!");
       }
     } else {
       // Novo
+      const statusFinal = "personalizado";
       const { data, error } = await supabase.from("semana_blocos").insert({
         user_id: userId,
         ...dados,
-        status: "personalizado",
+        status: statusFinal,
       }).select("*, disciplinas(id,nome,cor_hex)").single();
       if (!error && data) {
         setBlocos(prev => [...prev, data as any]);
@@ -1296,6 +1458,7 @@ export default function SemanaPage() {
       horario_fim: item.horario_fim || "09:00",
       descricao: item.descricao?.trim() || TIPOS_BLOCO.find(t => t.value === item.tipo)?.label || item.tipo,
       disciplina_id: (item.disciplina_id && item.disciplina_id.trim() !== "") ? item.disciplina_id : null,
+      conteudo_id: (item.conteudo_id && item.conteudo_id.trim() !== "") ? item.conteudo_id : null,
     }));
     const { data, error } = await supabase.from("rotina_semanal").insert(inserts).select("*, disciplinas(id,nome,cor_hex)");
     if (error) console.error("Erro ao salvar rotina:", error);
@@ -1491,7 +1654,7 @@ export default function SemanaPage() {
               const dataRef = dia.toISOString().split("T")[0];
               const blocosDia = blocos
                 .filter(b => b.data_referencia === dataRef)
-                .sort((a, b) => a.horario_ini.localeCompare(b.horario_ini));
+                .sort((a, b) => (a.horario_ini ?? "").localeCompare(b.horario_ini ?? ""));
               const hoje = isToday(dia);
 
               return (

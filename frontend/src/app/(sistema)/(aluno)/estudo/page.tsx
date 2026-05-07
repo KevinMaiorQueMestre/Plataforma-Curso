@@ -441,6 +441,7 @@ export default function HomeEstudosPage() {
         conteudos (id, nome)
       `)
       .eq('user_id', user?.id)
+      .not('tipo_estudo', 'in', '("Redação","Questões","Revisão")')
       .order('created_at', { ascending: false });
 
     if (data) setEstudos(data as any);
@@ -746,88 +747,6 @@ export default function HomeEstudosPage() {
 
             return (
               <div className="space-y-8 animate-in fade-in duration-500">
-                {/* 1. KevQuest */}
-                <div>
-                  <div className="flex items-center justify-between mb-4">
-                    <div className="flex items-center gap-3">
-                      <div className="w-8 h-8 rounded-xl bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
-                        <Target className="w-4 h-4 text-blue-600 dark:text-blue-400" />
-                      </div>
-                      <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
-                        Questões (KevQuest)
-                      </h2>
-                      <span className="text-xs font-black text-slate-400">({pendingKevquest.length})</span>
-                    </div>
-                    <button
-                      onClick={() => abrirModalVincular('kevquest')}
-                      className="flex items-center gap-2 bg-blue-50 dark:bg-blue-900/20 hover:bg-blue-100 dark:hover:bg-blue-900/40 text-blue-600 dark:text-blue-400 font-black px-4 py-2 rounded-xl text-xs uppercase tracking-widest transition-all active:scale-95 border border-blue-100 dark:border-blue-900/30"
-                    >
-                      <Plus className="w-3.5 h-3.5" />
-                      <span className="hidden sm:inline">Vincular</span>
-                    </button>
-                  </div>
-                  {pendingKevquest.length === 0 ? (
-                    <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-6 border border-slate-100 dark:border-[#2C2C2E] text-center text-slate-400 text-sm font-medium">
-                      Nenhuma questão pendente do KevQuest.
-                    </div>
-                  ) : (
-                    <div className="space-y-3">
-                      <div className="grid gap-3 md:grid-cols-2">
-                        {(expandKevquest ? pendingKevquest : pendingKevquest.slice(0, 2)).map(p => <ProblemaCard key={p.id} prob={p} />)}
-                      </div>
-                      {pendingKevquest.length > 2 && (
-                        <button
-                          onClick={() => setExpandKevquest(!expandKevquest)}
-                          className="w-full py-3 text-xs font-black uppercase tracking-widest text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-colors"
-                        >
-                          {expandKevquest ? "Ver menos" : `Ver mais ${pendingKevquest.length - 2} atividades`}
-                        </button>
-                      )}
-                    </div>
-                  )}
-                </div>
-
-                {/* 2. Redação */}
-                <div>
-                  <div className="flex items-center justify-between mb-4">
-                    <div className="flex items-center gap-3">
-                      <div className="w-8 h-8 rounded-xl bg-orange-100 dark:bg-orange-900/30 flex items-center justify-center">
-                        <PenTool className="w-4 h-4 text-orange-600 dark:text-orange-400" />
-                      </div>
-                      <h2 className="text-sm font-black uppercase tracking-widest text-slate-700 dark:text-slate-300">
-                        Lacunas de Redação
-                      </h2>
-                      <span className="text-xs font-black text-slate-400">({pendingRedacao.length})</span>
-                    </div>
-                    <button
-                      onClick={() => abrirModalVincular('redacao')}
-                      className="flex items-center gap-2 bg-orange-50 dark:bg-orange-900/20 hover:bg-orange-100 dark:hover:bg-orange-900/40 text-orange-600 dark:text-orange-400 font-black px-4 py-2 rounded-xl text-xs uppercase tracking-widest transition-all active:scale-95 border border-orange-100 dark:border-orange-900/30"
-                    >
-                      <Plus className="w-3.5 h-3.5" />
-                      <span className="hidden sm:inline">Vincular</span>
-                    </button>
-                  </div>
-                  {pendingRedacao.length === 0 ? (
-                    <div className="bg-white dark:bg-[#1C1C1E] rounded-2xl p-6 border border-slate-100 dark:border-[#2C2C2E] text-center text-slate-400 text-sm font-medium">
-                      Nenhuma lacuna de redação pendente.
-                    </div>
-                  ) : (
-                    <div className="space-y-3">
-                      <div className="grid gap-3 md:grid-cols-2">
-                        {(expandRedacao ? pendingRedacao : pendingRedacao.slice(0, 2)).map(p => <ProblemaCard key={p.id} prob={p} />)}
-                      </div>
-                      {pendingRedacao.length > 2 && (
-                        <button
-                          onClick={() => setExpandRedacao(!expandRedacao)}
-                          className="w-full py-3 text-xs font-black uppercase tracking-widest text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-xl transition-colors"
-                        >
-                          {expandRedacao ? "Ver menos" : `Ver mais ${pendingRedacao.length - 2} atividades`}
-                        </button>
-                      )}
-                    </div>
-                  )}
-                </div>
-
                 {/* 3. Matérias */}
                 <div>
                   <div className="flex items-center justify-between mb-4">
@@ -969,21 +888,25 @@ export default function HomeEstudosPage() {
                        return (
                          <tr key={e.id} className="border-b border-slate-50 dark:border-slate-800 hover:bg-slate-50/50 dark:hover:bg-slate-800/30 transition-all group">
                            <td className="py-5 px-4">
-                              <div className="font-black text-slate-800 dark:text-white">{format(new Date(e.created_at), "dd/MM - EEEE", { locale: ptBR })}</div>
+                              <div className="font-black text-slate-800 dark:text-white">{format(new Date(e.created_at), "dd/MM/yyyy - EEEE", { locale: ptBR }).replace(/ - (\w)/, (m) => m.toUpperCase())}</div>
                               <div className="text-[10px] font-black uppercase text-indigo-500">{e.tipo_estudo} • {h}h dedicada</div>
                            </td>
-                           <td className="py-5 px-4 font-bold">
-                              <div className="text-slate-800 dark:text-white flex items-center gap-2">
-                                <div className="w-2 h-2 rounded-full" style={{ backgroundColor: e.disciplinas?.cor_hex || '#ccc' }}></div>
-                                {e.disciplinas?.nome}
+                           <td className="py-5 px-4">
+                              <div className="flex items-center gap-2 mb-1">
+                                <div className="w-2 h-2 rounded-full shrink-0" style={{ backgroundColor: e.disciplinas?.cor_hex || '#ccc' }}></div>
+                                <div className="text-sm font-bold text-slate-800 dark:text-white">{e.disciplinas?.nome}</div>
                               </div>
                               <div className="text-xs text-slate-400 ml-4">{e.conteudos?.nome}</div>
-                              {e.comentario && <div className="text-xs text-indigo-500 dark:text-indigo-400 mt-2 font-medium italic">"{e.comentario}"</div>}
+                              {e.comentario && <div className="text-xs text-indigo-500 dark:text-indigo-400 mt-2 font-medium italic ml-4">&quot;{e.comentario}&quot;</div>}
                            </td>
                            <td className="py-5 px-4 text-center">
-                              <div className={`px-3 py-1 rounded-full text-[10px] font-black inline-block ${p >= 80 ? 'bg-emerald-100 text-emerald-600' : p >= 60 ? 'bg-amber-100 text-amber-600' : 'bg-rose-100 text-rose-600'}`}>
-                                {p}% • {e.acertos}/{e.total_questoes}
-                              </div>
+                               {e.total_questoes > 0 ? (
+                                 <div className={`px-3 py-1 rounded-full text-[10px] font-black inline-block ${p >= 80 ? 'bg-emerald-100 text-emerald-600' : p >= 60 ? 'bg-amber-100 text-amber-600' : 'bg-rose-100 text-rose-600'}`}>
+                                   {p}% • {e.acertos}/{e.total_questoes}
+                                 </div>
+                               ) : (
+                                 <div className="text-slate-300 dark:text-slate-600 font-black">-</div>
+                               )}
                             </td>
                             <td className="py-5 px-4 text-center">
                                <div className="flex justify-center gap-0.5">
@@ -1014,12 +937,16 @@ export default function HomeEstudosPage() {
                      <div key={e.id} className="bg-slate-50 dark:bg-[#2C2C2E]/60 rounded-2xl p-4 border border-slate-100 dark:border-white/5">
                        <div className="flex items-start justify-between gap-2 mb-3">
                          <div className="flex-1 min-w-0">
-                           <div className="font-black text-slate-800 dark:text-white text-sm">{format(new Date(e.created_at), "dd/MM - EEE", { locale: ptBR })}</div>
+                            <div className="font-black text-slate-800 dark:text-white text-sm">{format(new Date(e.created_at), "dd/MM/yyyy - EEEE", { locale: ptBR }).replace(/ - (\w)/, (m) => m.toUpperCase())}</div>
                            <div className="text-[10px] font-black uppercase text-indigo-500 mt-0.5 truncate">{e.tipo_estudo} • {h}h</div>
                          </div>
-                         <div className={`px-2.5 py-1 rounded-full text-[10px] font-black flex-shrink-0 ${p >= 80 ? 'bg-emerald-100 text-emerald-600' : p >= 60 ? 'bg-amber-100 text-amber-600' : 'bg-rose-100 text-rose-600'}`}>
-                           {p}%
-                         </div>
+                          {e.total_questoes > 0 ? (
+                            <div className={`px-2.5 py-1 rounded-full text-[10px] font-black flex-shrink-0 ${p >= 80 ? 'bg-emerald-100 text-emerald-600' : p >= 60 ? 'bg-amber-100 text-amber-600' : 'bg-rose-100 text-rose-600'}`}>
+                              {p}%
+                            </div>
+                          ) : (
+                            <div className="text-slate-300 dark:text-slate-600 font-black">-</div>
+                          )}
                        </div>
                        <div className="flex items-center gap-2 mb-3 min-w-0">
                          <div className="w-2.5 h-2.5 rounded-full flex-shrink-0" style={{ backgroundColor: e.disciplinas?.cor_hex || '#ccc' }}></div>

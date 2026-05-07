@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect, useCallback } from "react";
 import { motion } from "framer-motion";
-import { PlayCircle, Target, ArrowLeft, Lock, Loader2, Link2, ArrowRight, Users } from "lucide-react";
+import { PlayCircle, Target, ArrowLeft, Lock, Loader2, Link2, ArrowRight, Users, LogOut } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 import { createClient } from "@/utils/supabase/client";
@@ -105,9 +105,10 @@ export default function HubPage() {
     }, 600);
   };
 
-  const handleLogout = async () => {
+  const handleLogout = () => {
     setIsLoggingOut(true);
-    await supabase.auth.signOut();
+    // Removemos o await para não aguardar a resposta do servidor (deixando o processo instantâneo para o usuário)
+    supabase.auth.signOut();
     router.push("/login");
   };
 
@@ -131,10 +132,10 @@ export default function HubPage() {
         <button
           onClick={handleLogout}
           disabled={isLoggingOut}
-          className="flex items-center gap-2 text-slate-500 dark:text-[#A1A1AA] hover:text-slate-900 dark:hover:text-white transition-colors font-medium cursor-pointer"
+          className="flex items-center gap-2 text-slate-500 dark:text-[#A1A1AA] hover:text-rose-600 dark:hover:text-rose-400 transition-colors font-medium cursor-pointer"
         >
-          {isLoggingOut ? <Loader2 className="w-4 h-4 animate-spin" /> : <ArrowLeft className="w-4 h-4" />}
-          Sair para Login
+          {isLoggingOut ? <Loader2 className="w-4 h-4 animate-spin" /> : <LogOut className="w-4 h-4" />}
+          Logout
         </button>
         <div className="flex items-center gap-4">
           {/* Badge de alunos online */}
