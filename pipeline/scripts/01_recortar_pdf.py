@@ -262,7 +262,7 @@ def costurar_imagens(pix1: fitz.Pixmap, pix2: fitz.Pixmap, espaco: int = 15) -> 
     altura_total = len(todas)
     dados_finais = b"".join(todas)
 
-    return fitz.Pixmap(pix1.colorspace, 0, fitz.IRect(0, 0, w, altura_total), dados_finais)
+    return fitz.Pixmap(pix1.colorspace, w, altura_total, dados_finais, pix1.alpha)
 
 
 # Cache das margens de texto por pagina

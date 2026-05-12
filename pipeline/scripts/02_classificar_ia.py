@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import io as _io, sys as _sys
+_sys.stdout = _io.TextIOWrapper(_sys.stdout.buffer, encoding='utf-8', errors='replace')
+_sys.stderr = _io.TextIOWrapper(_sys.stderr.buffer, encoding='utf-8', errors='replace')
 """
-02_classificar_ia.py â€” Fase 2 do Pipeline ENEM
-Classifica cada questÃ£o com IA (disciplina e conteÃºdo).
-Aceita JSON legado para evitar chamadas desnecessÃ¡rias Ã  API.
+02_classificar_ia.py — Fase 2 do Pipeline ENEM
+Classifica cada questão com IA (disciplina e conteúdo).
+Aceita JSON legado para evitar chamadas desnecessárias à API.
 
 Uso:
     python scripts/02_classificar_ia.py <prova_id>

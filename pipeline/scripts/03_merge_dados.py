@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import io as _io, sys as _sys
+_sys.stdout = _io.TextIOWrapper(_sys.stdout.buffer, encoding='utf-8', errors='replace')
+_sys.stderr = _io.TextIOWrapper(_sys.stderr.buffer, encoding='utf-8', errors='replace')
 """
-03_merge_dados.py â€” Fase 3 do Pipeline ENEM
-Extrai o gabarito do PDF oficial e mescla nos JSONs das questÃµes.
+03_merge_dados.py — Fase 3 do Pipeline ENEM
+Extrai o gabarito do PDF oficial e mescla nos JSONs das questões.
 Gera o master.json consolidado da prova.
 
 Uso:
