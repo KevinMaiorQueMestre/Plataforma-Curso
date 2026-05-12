@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nCom o objetivo de demonstrar a transferência \nde energia de um sistema para outro, um professor \nsolicitou a seus alunos que determinassem o calor \nde combustão de alguns alimentos e, para auxiliar \nnessa tarefa, forneceu um quadro que apresenta cinco \nalimentos identificados por números e seus respectivos \ncalores de combustão.\nAlimento\nCalor de combustão (cal/g)\nI\n15\nII\n120\nIII\n160\nIV\n240\nV\n400\nPosteriormente, entregou uma amostra de 0,5 g de \num alimento indeterminado a um dos estudantes, que \nrealizou o seguinte procedimento experimental: colocou \n4 mL de água em um tubo de ensaio e mediu a temperatura, \nencontrando 20 °C. Em seguida, o estudante queimou o \nalimento recebido, abaixo do tubo de ensaio contendo a \nágua, o que elevou a temperatura da água para 50 °C. \nConsidere que, nas condições do experimento, a perda de \ncalor para o ambiente é desprezível e o calor específico \nda água e sua densidade são, respectivamente, \n1 cal/(g °C) e 1 g/mL.\nQual alimento do quadro o estudante recebeu do professor?\nA\t\nA\t I\nB\t\nB\t II\nC\t\nC\t III\nD\t\nD\t IV\nE\t\nE\t V",
+  "processado_em": "2026-05-08T14:05:26.130972",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 80 \nCom a inclusão da farinha de mandioca de Cruzeiro do \nSul (AC), do guaraná de Maués (AM), do queijo de Colônia \nWitmarsum (PR) e das amêndoas de cacau da região do sul \nda Bahia, o Mapa das Indicações Geográficas do Brasil passa \na contar com 58 certificações. O projeto é fruto de uma parceria \ndo IBGE com o Instituto Nacional de Propriedade Industrial. \nAs indicações geográficas são selos que identificam a origem de \nprodutos ou serviços característicos de determinada localidade.\nDisponível em: https://agenciadenoticias.ibge.gov.br. \nAcesso em: 9 dez. 2018 (adaptado).\nO reconhecimento por indicação geográfica favorece a produção \nlocal pelo(a)\nA estabilização de preços.\nB garantia de autenticidade.\nC massificação da produção.\nD incentivo à industrialização.\nE valorização dos transgênicos.",
+  "processado_em": "2026-05-08T14:06:30.615275",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

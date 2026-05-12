@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\n'H\u0003DFRUGR\u0003FRP\u0003D\u0003/HL\u00038QLYHUVDO\u0003GD\u0003*UDYLWDomR\u000f\u0003SURSRVWD\u0003\nSRU\u0003,VDDF\u00031HZWRQ\u000f\u0003D\u0003LQWHQVLGDGH\u0003GD\u0003IRUoD\u0003JUDYLWDFLRQDO\u0003F\nque a Terra exerce sobre um satélite em órbita circular \né proporcional à massa m do satélite e inversamente \nproporcional ao quadrado do raio r da órbita, ou seja,\nNo plano cartesiano, três satélites, A, B e C\u000f\u0003HVWmR\u0003\nrepresentados, cada um, por um ponto (m ; r) cujas \nFRRUGHQDGDV\u0003VmR\u000f\u0003UHVSHFWLYDPHQWH\u000f\u0003D\u0003PDVVD\u0003GR\u0003VDWpOLWH\u0003\ne o raio da sua órbita em torno da Terra.\nA\nC\n0\nB\nRaio (r)\nMassa (m)\nCom base nas posições relativas dos pontos no \nJUi¿FR\u000f\u0003GHVHMD\u0010VH\u0003FRPSDUDU\u0003DV\u0003LQWHQVLGDGHV\u0003FA, FB e FC\nda força gravitacional que a Terra exerce sobre os satélites \nA, B e C, respectivamente.\nAs intensidades FA, FB e FC H[SUHVVDV\u0003 QR\u0003 JUi¿FR\u0003\nVDWLVID]HP\u0003D\u0003UHODomR\nA FC   FA \u001f FB\nB FA   FB \u001f FC\nC FA \u001f FB \u001f FC\nD FA \u001f FC \u001f FB\nE FC \u001f FA \u001f FB\nF\nkm\nr\n \n\u0015",
+  "processado_em": "2026-05-11T23:26:48.629367",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

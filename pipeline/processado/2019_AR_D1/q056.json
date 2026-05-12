@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 56\t\nA reestruturação global da indústria, condicionada \npelas estratégias de gestão global da cadeia de valor \ndos grandes grupos transnacionais, promoveu um forte \ndeslocamento do processo produtivo, até mesmo de \nplantas industriais inteiras, e redirecionou os fluxos de \nprodução e de investimento. Entretanto, o aumento da \nparticipação dos países em desenvolvimento no produto \nglobal deu-se de forma bastante assimétrica quando se \ncompara o dinamismo dos países do leste asiático com \no dos demais países, sobretudo os latino-americanos, \nno período 1980-2000.\nSARTI, F.; HIRATUKA, C. Indústria mundial: mudanças e \ntendências recentes. Campinas: Unicamp, n. 186, dez. 2010.",
+  "processado_em": "2026-05-11T23:27:25.305921",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

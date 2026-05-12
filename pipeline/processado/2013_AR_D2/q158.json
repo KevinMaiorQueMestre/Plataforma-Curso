@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nUm banco solicitou aos seus clientes a criação de \numa senha pessoal de seis dígitos, formada somente \npor algarismos de 0 a 9, para acesso à conta corrente \npela internet.\nEntretanto, um especialista em sistemas de \nsegurança eletrônica recomendou à direção do banco \nrecadastrar seus usuários, solicitando, para cada um \ndeles, a criação de uma nova senha com seis dígitos, \npermitindo agora o uso das 26 letras do alfabeto, além \ndos algarismos de 0 a 9. Nesse novo sistema, cada \nletra maiúscula era considerada distinta de sua versão \nminúscula. Além disso, era proibido o uso de outros \ntipos de caracteres.\nUma forma de avaliar uma alteração no sistema de \nsenhas é a verificação do coeficiente de melhora, que é \na razão do novo número de possibilidades de senhas em \nrelação ao antigo.\nO coeficiente de melhora da alteração recomendada é\nA 626\n106\nB 62!\n10!\nC\n62! 4!\n10! 56!\nD 62! − 10!\nE 626 − 106",
+  "processado_em": "2026-05-08T14:00:23.761452",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

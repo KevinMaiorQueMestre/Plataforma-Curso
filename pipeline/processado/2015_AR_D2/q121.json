@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 121\t\nA emergência da sociedade da informação está \nassociada a um conjunto de profundas transformações \nocorridas desde as últimas duas décadas do século XX. \nTais mudanças ocorrem em dimensões distintas da vida \nhumana em sociedade, as quais interagem de maneira \nsinérgica e confluem para projetar a informação e o \nconhecimento como elementos estratégicos, dos pontos \nde vista econômico-produtivo, político e sociocultural. \nA sociedade da informação caracteriza-se pela \ncrescente utilização de técnicas de transmissão, \narmazenamento de dados e informações a baixo custo, \nacompanhadas por inovações organizacionais, sociais e \nlegais. Ainda que tenha surgido motivada por um conjunto \nde transformações na base técnico-científica, ela se \ninveste de um significado bem mais abrangente.\nLEGEY, L.-R.; ALBAGLI, S. Disponível em: www.dgz.org.br. Acesso em: 4 dez. 2012 (adaptado).",
+  "processado_em": "2026-05-08T14:00:55.129969",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 93\t\nNanopartículas de sílica recobertas com antibióticos \nforam desenvolvidas com sucesso como material \nbactericida, \npois \nsão \neficazes \ncontra \nbactérias \nsensíveis e resistentes, sem citotoxicidade significativa \na células de mamíferos. As nanopartículas livres \nde antibióticos também foram capazes de matar as \nbactérias E. coli sensíveis e resistentes ao antibiótico \nestudado. Os autores sugerem que a interação entre \nos grupos hidroxil da superfície das nanopartículas e \nos lipopolissacarídeos da parede celular da bactéria \ndesestabilizaria sua estrutura.\nCAPELETTI, L. B. et al. Tailored Silica – Antibiotic Nanoparticles: \nOvercoming Bacterial Resistance with Low Cytotoxicity. \nLangmuir, n. 30, 2014 (adaptado).\nA interação entre a superfície da nanopartícula e o \nlipopolissacarídeo ocorre por uma ligação\nA\t de hidrogênio.\nB\t hidrofóbica.\nC\t dissulfeto.\nD\t metálica.\nE\t iônica.",
+  "processado_em": "2026-05-11T23:27:06.663284",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

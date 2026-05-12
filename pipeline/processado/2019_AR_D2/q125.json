@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 125\t\nGlicólise é um processo que ocorre nas células, convertendo glicose em piruvato. Durante a prática de exercícios \nfísicos que demandam grande quantidade de esforço, a glicose é completamente oxidada na presença de O2. \nEntretanto, em alguns casos, as células musculares podem sofrer um déficit de O2 e a glicose ser convertida em \nduas moléculas de ácido lático. As equações termoquímicas para a combustão da glicose e do ácido lático são, \nrespectivamente, mostradas a seguir:\nC6H12O6 (s) + 6 O2 (g) → 6 CO2 (g) + 6 H2O (l)      ∆cH = −2 800 kJ\nCH3CH(OH)COOH (s) + 3 O2 (g) → 3 CO2 (g) + 3 H2O (l)      ∆cH = −1 344 kJ\nO processo anaeróbico é menos vantajoso energeticamente porque\nA\t libera 112 kJ por mol de glicose.\nB\t libera 467 kJ por mol de glicose.\nC\t libera 2 688 kJ por mol de glicose.\nD\t absorve 1 344 kJ por mol de glicose.\nE\t absorve 2 800 kJ por mol de glicose.",
+  "processado_em": "2026-05-11T23:27:34.664016",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

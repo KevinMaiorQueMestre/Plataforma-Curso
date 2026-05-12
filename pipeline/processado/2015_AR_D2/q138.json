@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nApós realizar uma pesquisa de mercado, uma \noperadora de telefonia celular ofereceu aos clientes que \nutilizavam até 500 ligações ao mês o seguinte plano \nmensal: um valor fixo de R$ 12,00 para os clientes que \nfazem até 100 ligações ao mês. Caso o cliente faça mais \nde 100 ligações, será cobrado um valor adicional de \nR$ 0,10 por ligação, a partir da 101ª até a 300ª; e caso \nrealize entre 300 e 500 ligações, será cobrado um valor \nfixo mensal de R$ 32,00.\nCom base nos elementos apresentados, o gráfico que \nmelhor representa a relação entre o valor mensal pago \nnesse plano e o número de ligações feitas é:\nA\n      50    100  150      200      250     300       350     400\nnúmero de \nligações\nValor mensal pago por \nplano em reais\n33\n30\n27\n24\n21\n18\n15\n12\n9\n6\n3\n0\nB\n      50    100  150      200      250     300       350     400\n33\n30\n27\n24\n21\n18\n15\n12\n9\n6\n3\n0\nnúmero de \nligações\nValor mensal pago por \nplano em reais\nC\n      50    100  150      200      250     300       350     400\n33\n30\n27\n24\n21\n18\n15\n12\n9\n6\n3\n0\nnúmero de \nligações\nValor mensal pago por \nplano em reais\nD\n      50    100  150      200      250     300       350     400\n33\n30\n27\n24\n21\n18\n15\n12\n9\n6\n3\n0\nnúmero de \nligações\nValor mensal pago por \nplano em reais\nE\n33\n30\n27\n24\n21\n18\n15\n12\n9\n6\n3\nnúmero de\nValor mensal pago por \nplano em reais",
+  "processado_em": "2026-05-08T14:00:56.506265",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

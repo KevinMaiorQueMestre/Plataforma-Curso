@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 68          \nNas cidades, os agentes sociais que se rebelavam \ncontra o arbítrio do governo também eram proprietários de \nescravos. Levavam seu protesto às autoridades policiais \npelo recrutamento sem permissão. Conseguimos levantar, \nem ocorrências policiais de 1867, na Província do Rio de \nJaneiro, 140 casos de escravos aprisionados e remetidos \nà Corte para serem enviados aos campos de batalha.\nSOUSA, J. P. Escravidão ou morte: os escravos brasileiros na Guerra do Paraguai.\nRio de Janeiro: Mauad; Adesa, 1996.\nDesconstruindo o mito dos “voluntários da pátria”, o texto \ndestaca o descontentamento com a mobilização para a \nGuerra do Paraguai expresso pelo grupo dos\nA \t pais, pela separação forçada dos filhos.\nB \t cativos, pelo envio compulsório ao conflito.\nC \t religiosos, pela diminuição da frequência aos cultos.\nD \t oficiais, pelo despreparo militar dos novos recrutas.\nE \t senhores, pela perda do investimento em mão de obra.",
+  "processado_em": "2026-05-08T14:03:31.222957",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

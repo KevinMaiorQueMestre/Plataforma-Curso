@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 158          \nQuerendo reduzir custos na limpeza da área de \nestacionamento de um prédio, o síndico resolveu comprar \numa lavadora de alta pressão. Sabe-se que, na utilização \ndesse equipamento, o consumo de água é menor, \nentretanto, existe o gasto com energia elétrica. O síndico \ncoletou os dados de cinco modelos de lavadora com \nmesmo preço, e cujos consumos de água e de energia \nsão os fornecidos no quadro.\nModelo de \nlavadora\nGasto médio de \nágua (litro/hora)\nConsumo de \nenergia em uma \nhora (kWh)\nI\n350\n1,3\nII\n264\n2,0\nIII\n320\n1,5\nIV\n300\n1,7\nV\n276\n1,8\nAs tarifas de água e de energia elétrica são, \nrespectivamente, R$ 0,0025 por litro de água e R$ 0,30 \npor quilowatt-hora.\nO modelo de lavadora que o síndico deve adquirir para \ngastar menos com a limpeza do estacionamento é\nA \t I.\nB \t II.\nC\t III.\nD\t IV.\nE V.",
+  "processado_em": "2026-05-08T14:03:39.121652",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

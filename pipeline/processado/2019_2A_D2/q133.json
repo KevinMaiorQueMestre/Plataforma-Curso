@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 133\t\nAntigamente, em lugares com invernos rigorosos, \nas pessoas acendiam fogueiras dentro de uma sala \nfechada para se aquecerem do frio. O risco no uso \ndesse recurso ocorria quando as pessoas adormeciam \nantes de apagarem totalmente a fogueira, o que poderia \nlevá-las a óbito, mesmo sem a ocorrência de incêndio.\nA causa principal desse risco era o(a)\nA\t produção de fuligem pela fogueira.\nB\t liberação de calor intenso pela fogueira.\nC\t consumo de todo o oxigênio pelas pessoas.\nD\t geração de queimaduras pela emissão de faíscas \nda lenha.\nE\t geração de monóxido de carbono pela combustão \nincompleta da lenha.",
+  "processado_em": "2026-05-11T23:27:10.755226",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

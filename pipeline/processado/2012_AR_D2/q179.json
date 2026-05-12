@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nExistem no mercado chuveiros elétricos de diferentes \npotências, que representam consumos e custos diversos. \nA potência (P) de um chuveiro elétrico é dada pelo produto \nentre sua resistência elétrica (R) e o quadrado da corrente \nelétrica (i) que por ele circula. O consumo de energia \nelétrica (E), por sua vez, é diretamente proporcional à \npotência do aparelho.\nConsiderando as características apresentadas, qual dos \ngráficos a seguir representa a relação entre a energia \nconsumida (E) por um chuveiro elétrico e a corrente \nelétrica (i) que circula por ele?\nA\nE\ni\n0\nD\nE\ni\n0\nB\nE\ni\n0\nE\nE\ni\n0\nC\nE\ni\n0",
+  "processado_em": "2026-05-08T13:59:16.059783",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

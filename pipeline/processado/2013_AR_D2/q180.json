@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nA Secretaria de Saúde de um município avalia um \nprograma que disponibiliza, para cada aluno de uma \nescola municipal, uma bicicleta, que deve ser usada no \ntrajeto de ida e volta, entre sua casa e a escola. Na fase \nde implantação do programa, o aluno que morava mais \ndistante da escola realizou sempre o mesmo trajeto, \nrepresentado na figura, na   escala 1 : 25 000, por um \nperíodo de cinco dias.\n1 cm\n1 cm\nCasa\nEscola\nQuantos quilômetros esse aluno percorreu na fase de \nimplantação do programa?\nA\t 4\nB\t 8\nC\t 16\nD\t 20\nE\t 40",
+  "processado_em": "2026-05-08T14:00:24.789426",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

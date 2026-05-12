@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\n$V\u0003OkPSDGDV\u0003HFRQ{PLFDV\u0003WUDQVIRUPDP\u0003\u001b\u0013\b\u0003GD\u0003HQHUJLD\u0003HOpWULFD\u0003FRQVXPLGD\u0003HP\u0003OX]\u0003H\u0003GLVVLSDP\u0003RV\u0003\u0015\u0013\b\u0003UHVWDQWHV\u0003HP\u0003\nIRUPD\u0003GH\u0003FDORU\u0011\u0003-i\u0003DV\u0003LQFDQGHVFHQWHV\u0003WUDQVIRUPDP\u0003\u0015\u0013\b\u0003GD\u0003HQHUJLD\u0003HOpWULFD\u0003FRQVXPLGD\u0003HP\u0003OX]\u0003H\u0003GLVVLSDP\u0003R\u0003UHVWDQWH\u0003HP\u0003\nIRUPD\u0003GH\u0003FDORU\u0011\u0003$VVLP\u000f\u0003TXDQGR\u0003GXDV\u0003GHVVDV\u0003OkPSDGDV\u0003SRVVXHP\u0003OXPLQRVLGDGHV\u0003HTXLYDOHQWHV\u000f\u0003D\u0003HFRQ{PLFD\u0003DSUHVHQWD\u0003\numa potência igual a um quarto da potência da incandescente.\n4XDQGR\u0003XPD\u0003OkPSDGD\u0003LQFDQGHVFHQWH\u0003GH\u0003\u0019\u0013\u0003:\u0003p\u0003VXEVWLWXtGD\u0003SRU\u0003XPD\u0003HFRQ{PLFD\u0003GH\u0003PHVPD\u0003OXPLQRVLGDGH\u000f\u0003GHL[D\u0010VH\u0003GH\u0003\ntransferir para o ambiente, a cada segundo, uma quantidade de calor, em joule, igual a\nA 3.\nB 12.\nC 15.\nD 45.\nE 48.",
+  "processado_em": "2026-05-11T23:25:27.065468",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

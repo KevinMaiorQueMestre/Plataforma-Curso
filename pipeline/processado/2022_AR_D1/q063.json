@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nAinda que a fome ocorrida na Itália em 536 tenha \norigem nos eventos climáticos, suas implicações são \ntanto políticas quanto econômicas. Nos primeiros séculos \nda Idade Média, o auxílio aos famintos se inscreve no \ndomínio da gestão pública, mesmo quando a ação de \nseus agentes é apresentada sob o ângulo da piedade e da \ncaridade individuais, como é o caso da Gália merovíngia. \nAssim, o fato de que as respostas à fome são mostradas, \nna Gália, como o fruto de iniciativas pessoais fundadas \nno imperativo da caridade deriva da natureza das fontes \ndo século VI.\nSILVA, M. C. Os agentes públicos e a fome nos primeiros séculos da Idade Média. \nVaria Historia, n. 60, set.-dez. 2016 (adaptado).",
+  "processado_em": "2026-05-08T14:05:04.188145",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

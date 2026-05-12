@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 118\t\nO elemento radioativo tório (Th) pode substituir os combustíveis fósseis e baterias. Pequenas quantidades desse \nelemento seriam suficientes para gerar grande quantidade de energia. A partícula liberada em seu decaimento poderia \nser bloqueada utilizando-se uma caixa de aço inoxidável. A equação nuclear para o decaimento do \n230\n90Th é:\n230\n90Th → \n226\n88Ra + partícula + energia\nConsiderando a equação de decaimento nuclear, a partícula que fica bloqueada na caixa de aço inoxidável é o(a)\nA\t alfa.\nB\t beta.\nC\t próton.\nD\t nêutron.\nE\t pósitron.",
+  "processado_em": "2026-05-11T23:26:21.134670",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

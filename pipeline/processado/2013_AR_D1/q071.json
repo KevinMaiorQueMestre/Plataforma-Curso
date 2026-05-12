@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nA varfarina é um fármaco que diminui a agregação \nplaquetária, e por isso é utilizada como anticoagulante, \ndesde que esteja presente no plasma, com uma \nconcentração \nsuperior \na \n1,0 \nmg/L. \nEntretanto, \nconcentrações plasmáticas superiores a 4,0 mg/L \npodem \ndesencadear \nhemorragias. \nAs \nmoléculas \ndesse fármaco ficam retidas no espaço intravascular e \ndissolvidas exclusivamente no plasma, que representa \naproximadamente 60% do sangue em volume. \nEm um medicamento, a varfarina é administrada por \nvia intravenosa na forma de solução aquosa, com \nconcentração de 3,0 mg/mL. Um indivíduo adulto, com \nvolume sanguíneo total de 5,0 L, será submetido a um \ntratamento com solução injetável desse medicamento.\nQual é o máximo volume da solução do medicamento \nque pode ser administrado a esse indivíduo, pela via \nintravenosa, de maneira que não ocorram hemorragias \ncausadas pelo anticoagulante?\nA\t 1,0 mL\nB\t 1,7 mL\nC\t 2,7 mL\nD\t 4,0 mL\nE\t 6,7 mL",
+  "processado_em": "2026-05-08T14:00:13.724175",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

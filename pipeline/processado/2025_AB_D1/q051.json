@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 51\t\nOs clubes negros são espaços criados no século XIX, \nsobretudo a partir da década de 1870, por e para pessoas negras \n— com base em uma ideia de raça — autoidentificadas como \nnegras; pretas; morenas; mulatas; etiópicas; de cor; nos quais \ndesenvolvem atividades sociais — de caráter autodenominado \ncultural, social, político, dançante, beneficente, recreativo ou \ncarnavalesco — cuja nomeação era atribuída como clube, \ncentro e/ou sociedade, e cujo objetivo era manter um espaço \nde convívio social no qual essas atividades eram realizadas.\nSILVA, F. O. As lutas políticas nos clubes negros: culturas negras, racialização \ne cidadania na fronteira Brasil-Uruguai no pós-Abolição (1870-1960). \nPorto Alegre: UFRGS, 2017 (adaptado).\nAs ações realizadas pelas organizações mencionadas no texto \ntinham por objetivo promover\nA\tideias xenofóbicas e comportamentos separatistas.\nB\tpesquisa científica e eurocentrismo intelectual.\nC\tcelebrações religiosas e encontros espirituais.\nD\tprojetos coletivos e práticas associativas.\nE\tformação técnica e inserção profissional.",
+  "processado_em": "2026-05-08T14:06:46.190574",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

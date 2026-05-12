@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 144 \nOs egípcios utilizavam um dos sistemas de escrita numérica \nmais antigos, datado aproximadamente de 3500 a.C. Esse sistema \ntrabalhava com agrupamentos não posicionais. O quadro \napresenta alguns dos símbolos utilizados e seus respectivos \nvalores equivalentes.\nAssim, a representação do número 12 023, em símbolos \negípcios, é:\n12 023 = 1 ⋅ (10)4 + 2 ⋅ (10)3 + 2 ⋅ (10) + 3 = \nDisponível em: www.matematica.br. Acesso em: 24 ago. 2014 (adaptado).\nNo sistema egípcio, qual é a representação do número 2 030?\nA \nB \nC \nD \nE",
+  "processado_em": "2026-05-08T14:06:36.934315",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

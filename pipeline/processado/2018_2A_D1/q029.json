@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 29\t\nTEXTO I\nERNESTO NETO. Dancing on the Cutting Edge. \nInstalação interativa, 2004. \nDisponível em: http://dailyserving.com. Acesso em: 29 nov. 2013.\nTEXTO II\nOs artistas, liberados do peso da história, ficavam \nlivres para fazer arte da maneira que desejassem ou \nmesmo sem nenhuma finalidade. Essa é a marca da arte \ncontemporânea, e não é para menos que, em contraste \ncom o Modernismo, não existe essa coisa de estilo \ncontemporâneo.\nDANTO, A. Após o fim da arte: a arte contemporânea e os limites da história. \nSão Paulo: Odysseus, 2006.",
+  "processado_em": "2026-05-11T23:26:11.328159",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

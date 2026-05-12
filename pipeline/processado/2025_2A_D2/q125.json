@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 125 \nNa produção do vinho pode ocorrer a contaminação por As\nse desenvolvem, principalmente, nas bagas danificadas de uvas\n(OTA), um tipo de micotoxina, possivelmente cancerígena, que p\nWELKE, J. E.; HOELTZ, M.; NOLL, I. B. Aspectos r\nConsiderando os princípios dessa técnica de produção, que pro\nA Seleção dos cachos.\nB Utilização de inseticidas.\nC Maceração dos frutos.\nD Medição da infrutescência.\nE Escolha da variedade de uva.",
+  "processado_em": "2026-05-08T14:06:36.034505",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 96\n\u0003\b\u0007\u0007\u0004\t\u0002 \n2Z\r\u0007\u000e\u001e\u0004\t\u0002 \n\t\r\u001d\u0004\u0002 \u001e\b\u000f\b\u0002 #\n\u0002 \u0010\b\u000e\t\u0002 !\b\u0007\b\r\u0004\t$\u0002 \n\u0005\u0004\u0002\n\u0005\r\b\u0005\r\u0004$\u0002\u0004\t\u0002B\u0007J\u001d\u0004\t\u0002J\u0004#\n\u0007\u0005\b\u0010\n\u0005\r\b\u000e\t\u0002\n\u0002\b\u0002\u000e\u0005\u000fK\t\r\u0007\u000e\b\u0002\t\n\u0002\npreocupam com o tempo de recarga das baterias, que é \nmuito mais lento quando comparado ao tempo gasto para \nencher o tanque de combustível. Portanto, os usuários \nde transporte individual precisam se conscientizar dos \nganhos ambientais dessa mudança e planejar com \nantecedência seus percursos, pensando em pausas \nnecessárias para recargas.\nApós realizar um percurso de 110 km, um motorista \npretende recarregar as baterias de seu carro elétrico, que \n\r\n\u0010\u0002\f\u0010\u0002\u000f\n\t\n\u0010%\n\u0005+\u0004\u0002\u0010Z\u000f\u000e\u0004\u0002\u000f\n\u0002&$}\u0002\u0010]w+$\u0002\f\t\b\u0005\u000f\u0004\u0002\f\u0010\u0002\n\u001e\b\u0007\u0007\nJ\b\u000f\u0004\u0007\u0002\u000e\u000f\n\b2\u0002\u000b\f\n\u0002\u0004%\n\u0007\b\u0002\b\u0002\f\u0010\b\u0002\r\n\u0005\t\u001d\u0004\u0002\u000f\n\u0002~~}\u0002=\u0002\n\u0002Z\u0002\npercorrido por uma corrente de 20 A.\n\u0018\f\b\u0005\r\b\t\u0002+\u0004\u0007\b\t\u0002\t\u001d\u0004\u0002\u0005\n\u001e\n\t\t?\u0007\u000e\b\t\u0002%\b\u0007\b\u0002\u0007\n\u001e\b\u0007\u0007\nJ\b\u0007\u0002\b\u0002\n\u0005\n\u0007J\u000e\b\u0002\n\f\r\u000e2\u000e\b\u000f\b\u0002\u0005\n\t\t\n\u0002%\n\u0007\u001e\f\u0007\t\u0004\nA 0,005\nB 0,125\nC 2,5\nD 5,0\nE 8,0",
+  "processado_em": "2026-05-08T14:04:28.543191",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -11,6 +11,7 @@ import {
 import { format, addDays, isPast, differenceInDays, differenceInHours } from "date-fns";
 import { ptBR } from "date-fns/locale/pt-BR";
 import { createClient } from "@/utils/supabase/client";
+import { useGlobalPresence } from "@/components/GlobalPresenceProvider";
 
 // ─── Tipos ─────────────────────────────────────────────────────────────────
 interface PlatformStats {
@@ -104,7 +105,7 @@ export default function AdminDashboardPage() {
   const [loadingPosts, setLoadingPosts] = useState(true);
 
   // ── Presence ─────────────────────────────────────────────────────────────
-  const [onlineUsers, setOnlineUsers] = useState<OnlineUser[]>([]);
+  const { onlineUsers } = useGlobalPresence();
 
   // ── Comunicados ───────────────────────────────────────────────────────────
   const [comunicados, setComunicados] = useState<Comunicado[]>([]);
@@ -301,28 +302,9 @@ export default function AdminDashboardPage() {
       })
       .subscribe();
 
-    // Presence: alunos online
-    const presenceChannel = supabase.channel("online-hub");
-    presenceChannel
-      .on("presence", { event: "sync" }, () => {
-        if (!mounted) return;
-        const state = presenceChannel.presenceState();
-        const users: OnlineUser[] = Object.values(state)
-          .flat()
-          .map((p: any) => ({
-            user_id: p.user_id as string,
-            nome: (p.nome as string) || "Aluno",
-            avatar_url: p.avatar_url as string | undefined,
-          }));
-        const unique = Array.from(new Map(users.map((u) => [u.user_id, u])).values());
-        setOnlineUsers(unique);
-      })
-      .subscribe();
-
     return () => {
       mounted = false;
       supabase.removeChannel(muralChannel);
-      supabase.removeChannel(presenceChannel);
     };
   }, []);
 

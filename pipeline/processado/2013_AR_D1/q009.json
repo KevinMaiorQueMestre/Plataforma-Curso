@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nDe todas as transformações impostas pelo meio \ntécnico-científico-informacional à logística de transportes, \ninteressa-nos mais de perto a intermodalidade. E por \numa razão muito simples: o potencial que tal “ferramenta \nlogística” ostenta permite que haja, de fato, um sistema de \ntransportes condizente com a escala geográfica do Brasil.\nHUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. \nRevista Transporte y Territorio, Universidade de Buenos Aires, n. 3, 2010 (adaptado).\nA necessidade de modais de transporte interligados, no \nterritório brasileiro, justifica-se pela(s)\nA\t variações climáticas no território, associadas à \ninteriorização da produção.\nB\t grandes distâncias e a busca da redução dos custos \nde transporte.\nC\t formação geológica do país, que impede o uso de um \núnico modal.\nD\t proximidade entre a área de produção agrícola \nintensiva e os portos.\nE\t diminuição dos fluxos materiais em detrimento de \nfluxos imateriais.",
+  "processado_em": "2026-05-08T14:00:08.674682",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

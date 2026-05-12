@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 133\t\nA agência norte-americana que regula medicamentos \n(FDA) aprovou um fármaco cujo uso contínuo reduz o risco \nde infecção do vírus HIV. Esse fármaco surge como profilaxia \nmedicamentosa aos grupos de alto risco, uma vez que age \nna célula infectada inibindo a ação da enzima transcriptase \nreversa. Contudo, a camisinha ainda é o método mais \nseguro, barato e eficaz na prevenção de doenças como a \naids, com taxas de aproximadamente 100% de proteção.\nSEGATTO, C. Época, n. 740, jul. 2012 (adaptado).\nO bloqueio dessa enzima contribui para o controle da \ndoença, pois\nA\tinibe a transcrição do DNA viral, que impede a formação \nde moléculas de RNA celular.\nB\timpede a transformação do RNA viral numa fita dupla \nde DNA, que se integra ao DNA celular.\nC\tevita a duplicação do RNA viral, que leva à formação \nde proteínas virais defeituosas e inativas.\nD\tdificulta a duplicação do DNA celular, com a formação \nde duas novas fitas a partir do DNA viral.\nE\tcontrola a formação de moléculas de RNA transportadoras, \nque impedem a formação de novos vírus",
+  "processado_em": "2026-05-08T14:06:03.347289",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

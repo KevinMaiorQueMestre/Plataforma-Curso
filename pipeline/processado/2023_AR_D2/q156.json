@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nUm agricultor é informado sobre um método de proteção \npara sua lavoura que consiste em inserir larvas específicas, \nde rápida reprodução. A reprodução dessas larvas faz com \nque sua população multiplique-se por 10 a cada 3 dias e, \npara evitar eventuais desequilíbrios, é possível cessar essa \nreprodução aplicando-se um produto X. O agricultor decide \niniciar esse método com 100 larvas e dispõe de 5 litros do \nproduto X, cuja aplicação recomendada é de exatamente \n1 litro para cada população de 200 000 larvas. A quantidade \ntotal do produto X de que ele dispõe deverá ser aplicada \nde uma única vez.\nQuantos dias após iniciado esse método o agricultor \ndeverá aplicar o produto X?\nA\t\nA\t 2\nB\t\nB\t 4\nC\t\nC\t 6\nD\t\nD\t 12\nE\t\nE\t 18",
+  "processado_em": "2026-05-08T14:05:46.273537",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

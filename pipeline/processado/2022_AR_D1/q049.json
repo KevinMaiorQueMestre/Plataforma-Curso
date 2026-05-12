@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\n          \n10% - 20% de superfície impermeável\npercolação\nprofunda: 21%\ninfiltração\nsubsuperficial: 21%\nescoamento\nsuperficial: 20%\nevapotranspiração: 38%\nescoamento\nsuperficial: 30%\ninfiltração\nsubsuperficial: 20%\npercolação\nprofunda: 15%\nevapotranspiração: 35%\nescoamento\nsuperficial: 55%\ninfiltração\nsubsuperficial: 10%\npercolação\nprofunda: 5%\n75% - 100% de superfície impermeável\nevapotranspiração: 30%\nCobertura natural do solo\ninfiltração\nsubsuperficial: 25%\nescoamento\nsuperficial:10%\npercolação\nprofunda: 25%\nevapotranspiração: 40%\n35% - 50% de superfície impermeável\nPAZ, A. D.  Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021 (adaptado).\nA intensificação da ocupação urbana demonstrada afeta \nde forma imediata o(a)\nA\t\nA\t nível altimétrico.\nB\t\nB\t ciclo hidrológico.\nC\t\nC\t padrão climático.\nD\t\nD\t tectônica de placas.\nE\t\nE\t estrutura das rochas.",
+  "processado_em": "2026-05-08T14:05:03.389762",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

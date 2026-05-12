@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 64\t\nTEXTO I\nBiocélulas \ncombustíveis \nsão \numa \nalternativa \ntecnológica para substituição das baterias convencionais. \nEm uma biocélula microbiológica, bactérias catalisam \nreações de oxidação de substratos orgânicos. Liberam \nelétrons produzidos na respiração celular para um \neletrodo, onde fluem por um circuito externo até o cátodo \ndo sistema, produzindo corrente elétrica. Uma reação \ntípica que ocorre em biocélulas microbiológicas utiliza o \nacetato como substrato.\nAQUINO NETO, S. Preparação e caracterização de bioanodos para biocélula a combustível \netanol/O2. Disponível em: www.teses.usp.br. Acesso em: 23 jun. 2015 (adaptado).\nTEXTO II\nEm \nsistemas \nbioeletroquímicos, \nos \npotenciais \npadrão \n(E°’) \napresentam \nvalores \ncaracterísticos. \nPara as biocélulas de acetato, considere as seguintes \nsemirreações de redução e seus respectivos potenciais:\n2 CO2 + 7 H+ + 8 e− → CH3COO − + 2 H2O\nE°’ = -0,3 V\nO2 + 4 H+ + 4 e− → 2 H2O\nE°’ = 0,8 V\nSCOTT, K.; YU, E. H. Microbial electrochemical and fuel cells: fundamentals and \napplications. Woodhead Publishing Series in Energy, n. 88, 2016 (adaptado).\nNessas condições, qual é o número mínimo de biocélulas \nde acetato, ligadas em série, necessárias para se obter \numa diferença de potencial de 4,4 V?\nA\t 3\nB\t 4\nC\t 6\nD\t 9\nE\t 15",
+  "processado_em": "2026-05-08T14:01:09.389389",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

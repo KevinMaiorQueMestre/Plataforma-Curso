@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 108\t\nDispositivos eletrônicos que utilizam materiais de \nbaixo custo, como polímeros semicondutores, têm sido \ndesenvolvidos para monitorar a concentração de amônia \n(gás tóxico e incolor) em granjas avícolas. A polianilina \né um polímero semicondutor que tem o valor de sua \nresistência elétrica nominal quadruplicado quando exposta \na altas concentrações de amônia. Na ausência de amônia, \na polianilina se comporta como um resistor ôhmico e a sua \nresposta elétrica é mostrada no gráfico.\nCorrente (10–6 A)\nDiferença de potencial (V)\n6,0\n5,0\n4,0\n3,0\n2,0\n1,0\n1,0\n0,5\n1,5\n2,0\n2,5\n3,0\nO valor da resistência elétrica da polianilina na presença \nde altas concentrações de amônia, em ohm, é igual a\nA\t 0,5 × 100.\nB\t 2,0 × 100.\nC\t 2,5 × 105.\nD\t 5,0 × 105.\nE\t 2,0 × 106.",
+  "processado_em": "2026-05-11T23:25:50.195744",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

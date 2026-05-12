@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 151\t\nUm forro retangular de tecido traz em sua etiqueta \na informação de que encolherá após a primeira lavagem \nmantendo, entretanto, seu formato. A figura a seguir \nmostra as medidas originais do forro e o tamanho do \nencolhimento (x) no comprimento e (y) na largura. \nA expressão algébrica que representa a área do forro \napós ser lavado é (5 – x) (3 – y).\n3\n5\ny\nx\nNestas condições, a área perdida do forro, após a primeira \nlavagem, será expressa por\nA\t 2xy\nB\t 15 − 3x\nC\t 15 − 5y\nD\t −5y − 3x\nE",
+  "processado_em": "2026-05-08T13:59:51.312907",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

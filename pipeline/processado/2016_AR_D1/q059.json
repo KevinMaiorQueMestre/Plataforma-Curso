@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 59\t\nPor apresentar significativa resistividade elétrica, o \ngrafite pode ser utilizado para simular resistores elétricos \nem circuitos desenhados no papel, com o uso de lápis e \nlapiseiras. Dependendo da espessura e do comprimento \ndas linhas desenhadas, é possível determinar a resistência \nelétrica de cada traçado produzido. No esquema foram \nutilizados três tipos de lápis diferentes (2H, HB e 6B) para \nefetuar três traçados distintos.\n2H\nHB\n6B\n \nMunido dessas informações, um estudante pegou \numa folha de papel e fez o desenho de um sorvete de \ncasquinha utilizando-se desses traçados. Os valores \nencontrados nesse experimento, para as resistências \nelétricas (R), medidas com o auxílio de um ohmímetro \nligado nas extremidades das resistências, são mostrados \nna figura. Verificou-se que os resistores obedeciam à \nLei de Ohm.\nA\nB\nC\n10 kΩ\n10 kΩ \n20 kΩ\n5 kΩ\nNa sequência, conectou o ohmímetro nos terminais \nA e B do desenho e, em seguida, conectou-o nos terminais \nB e C, anotando as leituras RAB e R­BC, respectivamente. \nAo estabelecer a razão \nR AB\nR BC\n, qual resultado o estudante\nobteve?\nA\t  1\nB\t  \n4\n7\nC\t  \n10\n27\nD\t  \n14\n81\nE\t  \n4\n81",
+  "processado_em": "2026-05-08T14:01:09.141181",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

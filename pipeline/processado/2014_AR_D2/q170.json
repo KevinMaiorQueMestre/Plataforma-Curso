@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nOs candidatos K, L, M, N e P estão disputando uma \núnica vaga de emprego em uma empresa e fizeram provas \nde português, matemática, direito e informática. A tabela \napresenta as notas obtidas pelos cinco candidatos.\nCandidatos Português Matemática Direito Informática\nK\n33\n33\n33\n34\nL\n32\n39\n33\n34\nM\n35\n35\n36\n34\nN\n24\n37\n40\n35\nP\n36\n16\n26\n41\nSegundo o edital de seleção, o candidato aprovado \nserá aquele para o qual a mediana das notas obtidas por \nele nas quatro disciplinas for a maior.\nO candidato aprovado será \nA\t K.\nB\t L.\nC\t M.\nD\t N.\nE\t P.",
+  "processado_em": "2026-05-08T14:00:40.183832",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

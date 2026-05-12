@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\nNo centro de uma praça será construída uma estátua \nque ocupará um terreno quadrado com área de 9 metros \nquadrados. O executor da obra percebeu que a escala do \ndesenho na planta baixa do projeto é de 1 : 25.\n1D\u0003 SODQWD\u0003 EDL[D\u000f\u0003 D\u0003 iUHD\u0003 GD\u0003 ¿JXUD\u0003 TXH\u0003 UHSUHVHQWD\u0003 HVVH\u0003\nterreno, em centímetro quadrado, é\nA 144.\nB 225.\nC 3 600.\nD 7 500.\nE 32 400.",
+  "processado_em": "2026-05-11T23:25:30.394816",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

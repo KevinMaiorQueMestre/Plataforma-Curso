@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 42          \nA Associação Internacional das Federações de \nAtletismo (IAAF) aprovou o aumento da suspensão de \ndois para quatro anos em casos de atletas flagrados por \ndoping. Em sincronia com o próximo Código Mundial \nAntidoping, da Agência Mundial de Doping (WADA), a \nnova punição entrará em vigor no dia 1º de janeiro de \n2015. Até lá, a penalidade continua sendo de dois anos.\nDisponível em: http://globoesporte.com. Acesso em: 15 ago. 2013.\nCom base na decisão da Associação Internacional \ndas Federações de Atletismo, considera-se que as \npenalidades previstas para esse esporte indicam um(a)",
+  "processado_em": "2026-05-08T14:03:29.358600",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

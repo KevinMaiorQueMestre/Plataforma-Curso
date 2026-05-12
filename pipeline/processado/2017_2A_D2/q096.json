@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 96\n8P\u0003ORQJR\u0003WUHFKR\u0003UHWLOtQHR\u0003GH\u0003XP\u0003ULR\u0003WHP\u0003XP\u0003DÀXHQWH\u0003\nperpendicular em sua margem esquerda, conforme \nPRVWUD\u0003 D\u0003 ¿JXUD\u0011\u0003 2EVHUYDGR\u0003 GH\u0003 FLPD\u000f\u0003 XP\u0003 EDUFR\u0003 WUDIHJD\u0003\nFRP\u0003YHORFLGDGH\u0003FRQVWDQWH\u0003SHOR\u0003DÀXHQWH\u0003SDUD\u0003HQWUDU\u0003QR\u0003ULR\u0011\u0003\nSabe-se que a velocidade da correnteza desse rio varia \nuniformemente, sendo muito pequena junto à margem \ne máxima no meio. O barco entra no rio e é arrastado \nlateralmente pela correnteza, mas o navegador procura \nPDQWr\u0010OR\u0003VHPSUH\u0003QD\u0003GLUHomR\u0003SHUSHQGLFXODU\u0003j\u0003FRUUHQWH]D\u0003\ndo rio e o motor acionado com a mesma potência.\nPelas condições descritas, a trajetória que representa o \nmovimento seguido pelo barco é:\nA\nB\nC\nD\nE\nCorrenteza",
+  "processado_em": "2026-05-11T23:25:25.946298",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -19,3 +19,9 @@ venv/
 /out/
 *.tsbuildinfo
 next-env.d.ts
+
+# Pipeline ENEM — Imagens geradas (arquivos pesados, não versionar)
+pipeline/processado/**/*.png
+
+# Pipeline ENEM — Dependências Node legadas
+pipeline/legado/node_modules/

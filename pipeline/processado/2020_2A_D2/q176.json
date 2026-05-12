@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 176          \nProjetado pelo arquiteto Oscar Niemeyer, o Museu de A\nda cidade de Niterói (Figura 1).\nFigu\nConsidere que a forma da cúpula do MAC seja a de u\nbase maior mede 50 m e 12 m é a distância entre as duas b\nrevitalizando o piso de seu pátio e, para isso, precisa estim\ne 3 para ). \nPá\n60º\n\t\n\t\n\t\nFigu\nA medida da área do pátio do museu a ser revitalizada, em\nA\t [100, 200]\nB \t [300, 400]\nC \t [600, 700]\nD \t [900, 1 000]\nE \t [1 000, 1 100]",
+  "processado_em": "2026-05-08T14:03:40.402180",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

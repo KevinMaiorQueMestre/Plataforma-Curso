@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 86\t\nTEXTO I\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\nTEXTO II\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\nA comparação entre as imagens de satélite indica a \nocorrência de um processo de\nA\tconservação de lugares afetivos.\nB\taumento de áreas desertificadas.\nC\tredefinição de fronteiras nacionais.\nD\tartificialização do espaço geográfico.\nE\tmudança da dinâmica macroclimática.",
+  "processado_em": "2026-05-08T14:06:14.548743",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

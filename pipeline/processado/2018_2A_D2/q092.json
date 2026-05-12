@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 92\t\nDuas jarras idênticas foram pintadas, uma de branco \ne a outra de preto, e colocadas cheias de água na \ngeladeira. No dia seguinte, com a água a 8 °C, foram \nretiradas da geladeira e foi medido o tempo decorrido \npara que a água, em cada uma delas, atingisse a \ntemperatura ambiente. Em seguida, a água das duas \njarras foi aquecida até 90 °C e novamente foi medido o \ntempo decorrido para que a água nas jarras atingisse a \ntemperatura ambiente.\nQual jarra demorou menos tempo para chegar à \ntemperatura ambiente nessas duas situações?\nA\t A jarra preta demorou menos tempo nas duas \nsituações.\nB\t A jarra branca demorou menos tempo nas duas \nsituações.\nC\t As jarras demoraram o mesmo tempo, já que são \nfeitas do mesmo material.\nD\t A jarra preta demorou menos tempo na primeira \nsituação e a branca, na segunda.\nE\t A jarra branca demorou menos tempo na primeira \nsituação e a preta, na segunda.",
+  "processado_em": "2026-05-11T23:26:19.393824",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

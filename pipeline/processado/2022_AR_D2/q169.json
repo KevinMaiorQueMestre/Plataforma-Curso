@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nPeças metálicas de aeronaves abandonadas em \naeroportos serão recicladas. Uma dessas peças é \nmaciça e tem o formato cilíndrico, com a medida do raio \nda base igual a 4 cm e a da altura igual a 50 cm. Ela será \nderretida, e o volume de metal resultante será utilizado \npara a fabricação de esferas maciças com diâmetro de \n1 cm, a serem usadas para confeccionar rolamentos. \nPara estimar a quantidade de esferas que poderão ser \nproduzidas a partir de cada uma das peças cilíndricas, \nadmite-se que não ocorre perda de material durante o \nprocesso de derretimento.\nQuantas dessas esferas poderão ser obtidas a partir de \ncada peça cilíndrica?\nA\t\nA\t 800\nB\t\nB\t 1 200\nC\t\nC\t 2 400\nD\t\nD\t 4 800\nE\t\nE\t 6 400",
+  "processado_em": "2026-05-08T14:05:12.889092",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\t\nPara reduzir a poluição atmosférica gerada pela e\nprecipitadores eletrostáticos. Sua função é suprimir os gas\nA figura ilustra um precipitador constituído, basicamente, p\nde cobre, conectado a uma fonte de tensão. O acúmulo de\npoluentes. Os gases poluídos são injetados pela entrad\natmosfera pela saída do precipitador.\nEntrada\nde gases\n+\nNo precipitador eletrostático, as partículas poluentes são\nA\t\nA\t atraídas e se acumulam no fio carregado.\nB\t\nB\t decompostas em moléculas não poluentes.\nC\t\nC\t ionizadas e podem ser lançadas na atmosfera.\nD\t\nD\t repelidas pelo fio carregado e se acumulam na parede\nE\t\nE\t induzidas a fazer ligações iônicas, formando íons não",
+  "processado_em": "2026-05-08T14:04:48.045690",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

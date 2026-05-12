@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nNum restaurante, a última sexta-feira do mês é o \nDia da Solidariedade: as gorjetas arrecadadas nesse dia \nserão distribuídas, igualmente, entre todos os garçons \nque estiverem trabalhando nessa data. Para um maior \ncontrole, o administrador do restaurante organiza uma \ntabela das gorjetas arrecadadas por cada garçom; \nassim, ele pode distribuir corretamente os valores a cada \num deles. O quadro de certo Dia da Solidariedade é \napresentado a seguir.\nGarçom\nTotal de gorjetas recebidas (R$)\nA\n17,00\nB\n24,00\nC\nFolga\nD\n17,00\nE\n20,00\nF\nFolga\nG\n16,00\nH\n27,00\nI\n18,00\nJ\n21,00\nQuanto cada garçom recebeu do total das gorjetas nesse \nDia da Solidariedade?\nA\t\nA\t R$ 16,00\nB\t\nB\t R$ 17,00\nC\t\nC\t R$ 18,00\nD\t\nD\t R$ 19,00\nE\t\nE\t R$ 20,00",
+  "processado_em": "2026-05-08T14:04:49.369664",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

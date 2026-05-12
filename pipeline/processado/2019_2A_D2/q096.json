@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 96\t\nO nitrogênio é essencial aos seres vivos e pode \nser adquirido pelas plantas, através da absorção pelas \nraízes, e pelos animais, através da alimentação. Sua \nutilização na agricultura de forma inadequada tem \naumentado sua concentração no ambiente, e o excesso, \nque é transportado para os cursos-d’água, tem causado \na eutrofização. Contudo, tal dano ambiental pode ser \nminimizado pela adoção de práticas sustentáveis, que \naprisionam esse elemento no solo, impedindo seu \nescoamento para rios e lagos.\nO método sustentável visando a incorporação desse \nelemento na produção, prevenindo tal dano ambiental, \né o(a)\nA\t adição de minhocas na terra.\nB\t irrigação da terra antes do plantio.\nC\t reaproveitamento do esterco fresco.\nD\t descanso do solo sem adição de culturas.\nE\t fixação biológica nas raízes por bactérias.",
+  "processado_em": "2026-05-11T23:27:07.527584",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

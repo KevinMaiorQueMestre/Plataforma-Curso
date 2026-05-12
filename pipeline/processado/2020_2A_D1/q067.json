@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 67          \nHá \noutras \nrazões \nfortes \npara \npromover \na \nparticipação da população em eleições. Grande parte \ndela, particularmente os mais pobres, esteve sempre \nalijada do processo eleitoral no Brasil, não somente nos \nperíodos ditatoriais, mas também nos democráticos. \nNa eleição de 1933, por exemplo, apenas 3,3% da \npopulação do país votaram. Em 1945, com a volta da \ndemocracia, foram parcos 13,4%. Em 1962, só 20% \ndos brasileiros foram às urnas.\nKERCHE, F.; FERES JR., J. Um nobre dever. Revista de História da Biblioteca Nacional,\nn. 109, out. 2014.\nO baixo índice de participação popular em eleições nos \nperíodos mencionados ocorria em função da\nA \t adoção do voto facultativo.\nB \t exclusão do sufrágio feminino.\nC \t interdição das pessoas analfabetas.\nD \t exigência da comprovação de renda.\nE \t influência dos interesses das oligarquias.",
+  "processado_em": "2026-05-08T14:03:31.165474",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

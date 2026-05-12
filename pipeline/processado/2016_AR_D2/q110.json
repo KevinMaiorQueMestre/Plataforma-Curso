@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nO senso comum é que só os seres humanos são \ncapazes de rir. Isso não é verdade?\nNão. O riso básico — o da brincadeira, da diversão, \nda expressão física do riso, do movimento da face e da \nvocalização — nós compartilhamos com diversos animais. \nEm ratos, já foram observadas vocalizações ultrassônicas \n— que nós não somos capazes de perceber — e que \neles emitem quando estão brincando de “rolar no chão”. \nAcontecendo de o cientista provocar um dano em um \nlocal específico no cérebro, o rato deixa de fazer essa \nvocalização e a brincadeira vira briga séria. Sem o riso, o \noutro pensa que está sendo atacado. O que nos diferencia \ndos animais é que não temos apenas esse mecanismo \nbásico. Temos um outro mais evoluído. Os animais têm o \nsenso de brincadeira, como nós, mas não têm senso de \nhumor. O córtex, a parte superficial do cérebro deles, não \né tão evoluído como o nosso. Temos mecanismos corticais \nque nos permitem, por exemplo, interpretar uma piada.\nDisponível em: http://globonews.globo.com. Acesso em: 31 maio 2012 (adaptado).\nA coesão textual é responsável por estabelecer relações \nentre as partes do texto. Analisando o trecho “Acontecendo \nde o cientista provocar um dano em um local específico \nno cérebro”, verifica-se que ele estabelece com a oração \nseguinte uma relação de\nA\t finalidade, porque os danos causados ao cérebro têm \npor finalidade provocar a falta de vocalização dos ratos.\nB\t oposição, visto que o dano causado em um local \nespecífico no cérebro é contrário à vocalização dos ratos.\nC\t condição, pois é preciso que se tenha lesão específica \nno cérebro para que não haja vocalização dos ratos.\nD\t consequência, uma vez que o motivo de não haver mais \nvocalização dos ratos é o dano causado no cérebro.\nE\t proporção, já que à medida que se lesiona o cérebro \nnão é mais possível que haja vocalização dos ratos.",
+  "processado_em": "2026-05-08T14:01:16.186951",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

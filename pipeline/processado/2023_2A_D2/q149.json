@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nRestaurantes geralmente se deparam com o problema \nde definir a quantidade de alimentos a serem preparados \npara cada dia. Diante desse problema, o gerente de \num restaurante anotou as quantidades de clientes que \nalmoçaram em seu restaurante durante os 10 primeiros \ndias do mês e registrou esses dados, obtendo este gráfico:\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n1\n2\n3\n4\n5\n6\nDia\nQuantidade de clientes\nQuantidade de clientes nos \n10 primeiros dias do mês\n7\n8\n9\n10\n80\n90\n94\n94\n92\n94\n80\n86\n100\n100\nEle considerou a moda da distribuição das quantidades \nde clientes que almoçaram em seu restaurante nesses \n10 primeiros dias do mês como uma boa medida para \ndimensionar a quantidade de alimentos a serem preparados \ndiariamente.\nO valor da moda dessa distribuição é\nA\t\nA\t 90.\nB\t\nB\t 91.\nC\t\nC\t 93.\nD\t\nD\t 94.\nE\t\nE\t 97.",
+  "processado_em": "2026-05-08T14:05:27.277242",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

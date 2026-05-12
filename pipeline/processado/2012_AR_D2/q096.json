@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 96\t\nDisponível em: www.ivancabral.com. Acesso em: 27 fev. 2012.\nO efeito de sentido da charge é provocado pela \ncombinação de informações visuais e recursos \nlinguísticos. No contexto da ilustração, a frase proferida \nrecorre à\nA\t polissemia, ou seja, aos múltiplos sentidos da \nexpressão “rede social” para transmitir a ideia que \npretende veicular.\nB\t ironia para conferir um novo significado ao termo \n“outra coisa”.\nC\t homonímia para opor, a partir do advérbio de \nlugar, o espaço da população pobre e o espaço da \npopulação rica.\nD\t personificação para opor o mundo real pobre ao \nmundo virtual rico.\nE\t antonímia para comparar a rede mundial de \ncomputadores com a rede caseira de descanso \nda família.",
+  "processado_em": "2026-05-08T13:59:20.694015",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

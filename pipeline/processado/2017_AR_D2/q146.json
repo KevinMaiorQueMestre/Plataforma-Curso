@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nRaios de luz solar estão atingindo a superfície de \num lago formando um ângulo x com a sua superfície, \nconforme indica a figura. \nEm determinadas condições, pode-se supor que a \nintensidade luminosa desses raios, na superfície do \nlago, seja dada aproximadamente por I x\nsen x\n( )\n( )\n=\n⋅\nκ\n, sendo k uma constante, e supondo-se que x está entre \n0° e 90°.\nx\nQuando x = 30º, a intensidade luminosa se reduz a qual \npercentual de seu valor máximo?\nA\t 33%\nB\t 50%\nC\t 57%\nD\t 70%\nE\t 86%",
+  "processado_em": "2026-05-11T23:25:53.171016",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

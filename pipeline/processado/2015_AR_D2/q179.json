@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nUma fábrica de sorvetes utiliza embalagens \nplásticas no formato de paralelepípedo retangular reto. \nInternamente, a embalagem tem 10 cm de altura e \nbase de 20 cm por 10 cm. No processo de confecção \ndo sorvete, uma mistura é colocada na embalagem \nno estado líquido e, quando levada ao congelador, \ntem seu volume aumentado em 25%, ficando com \nconsistência cremosa.\nInicialmente é colocada na embalagem uma mistura \nsabor chocolate com volume de 1 000 cm3 e, após essa \nmistura ficar cremosa, será adicionada uma mistura \nsabor morango, de modo que, ao final do processo de \ncongelamento, a embalagem fique completamente \npreenchida com sorvete, sem transbordar.\nO volume máximo, em cm³, da mistura sabor morango \nque deverá ser colocado na embalagem é\nA\t 450.\nB\t 500.\nC\t 600.\nD\t 750.\nE\t 1 000.",
+  "processado_em": "2026-05-08T14:00:59.488391",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

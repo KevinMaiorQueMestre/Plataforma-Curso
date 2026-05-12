@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 46\t\nChristiaan Huygens, em 1656, criou o relógio de \npêndulo. Nesse dispositivo, a pontualidade baseia-se na \nregularidade das pequenas oscilações do pêndulo. Para \nmanter a precisão desse relógio, diversos problemas foram \ncontornados. Por exemplo, a haste passou por ajustes até \nque, no início do século XX, houve uma inovação, que foi \nsua fabricação usando uma liga metálica que se comporta \nregularmente em um largo intervalo de temperaturas.\nYODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. \nCambridge: Cambridge University Press, 2004 (adaptado).\nDesprezando a presença de forças dissipativas e \nconsiderando a aceleração da gravidade constante, para \nque esse tipo de relógio realize corretamente a contagem \ndo tempo, é necessário que o(a)\nA\t comprimento da haste seja mantido constante.\nB\t massa do corpo suspenso pela haste seja pequena. \nC\t material da haste possua alta condutividade térmica.\nD\t amplitude da oscilação seja constante a qualquer \ntemperatura. \nE\t energia potencial gravitacional do corpo suspenso se \nmantenha constante.",
+  "processado_em": "2026-05-08T14:00:30.083490",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

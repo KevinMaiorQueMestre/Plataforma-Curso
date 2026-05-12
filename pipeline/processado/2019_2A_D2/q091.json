@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 91\t\nAstrônomos medem a velocidade de afastamento de \ngaláxias distantes pela detecção da luz emitida por \nesses sistemas. A Lei de Hubble afirma que a velocidade \nde afastamento de uma galáxia (em km\ns ) é proporcional \nà sua distância até a Terra, medida em megaparsec \n(Mpc). Nessa lei, a constante de proporcionalidade é a \nconstante de Hubble (H0) e seu valor mais aceito é de \n72 km s\nMpc\n/\n(\n). O parsec (pc) é uma unidade de distância \nutilizada em astronomia que vale aproximadamente \n3 × 1016 m. Observações astronômicas determinaram \nque a velocidade de afastamento de uma determinada \ngaláxia é de 1 440 km\ns .\nUtilizando a Lei de Hubble, pode-se concluir que a \ndistância até essa galáxia, medida em km, é igual a:\nA\t 20 × 100\nB\t 20 × 106\nC\t 6 × 1020\nD\t 6 × 1023\nE\t 6 × 1026",
+  "processado_em": "2026-05-11T23:27:05.866458",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

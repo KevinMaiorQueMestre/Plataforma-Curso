@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 78\t\nO marco inicial das discussões parlamentares \nem torno do direito do voto feminino são os debates \nque antecederam a Constituição de 1824, que não \ntrazia qualquer impedimento ao exercício dos direitos \npolíticos por mulheres, mas, por outro lado, também \nnão era explícita quanto à possibilidade desse \nexercício. Foi somente em 1932, dois anos antes de \nestabelecido o voto aos 18 anos, que as mulheres \nobtiveram o direito de votar, o que veio a se concretizar \nno ano seguinte. Isso ocorreu a partir da aprovação do \nCódigo Eleitoral de 1932.\nDisponível em: http://tse.jusbrasil.com.br. Acesso em: 14 maio 2018.\nUm dos fatores que contribuíram para a efetivação da \nmedida mencionada no texto foi a\nA\t superação da cultura patriarcal.\nB\t influência de igrejas protestantes.\nC\t pressão do governo revolucionário.\nD\t fragilidade das oligarquias regionais.\nE\t campanha de extensão da cidadania.",
+  "processado_em": "2026-05-11T23:26:41.086536",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

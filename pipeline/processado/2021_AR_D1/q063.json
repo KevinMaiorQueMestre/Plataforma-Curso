@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 63\n;\u0006\u0005 \b\u0012\n\u001d\n\u0010\b\u0010\u0011\u0006\u0005 \u0004\n\u000f\u0011\f\b\u0010\u0003\f\b\u0006\u0005 \u00122\u0004\u0005 \u0002\f\n\b\u0010\u0003\u0005 \u0002\u0003\u000fy\n\u0012\u0003\u0006\u0005\n\u0002\u0003\u0004\u0005 \u0011W\u0012\f\b\u0012\n\u001d\n\u0006\u0012\b\u0006\u000e\u0005 \u0017\u0007\n\t\u0003\u0004&\u0003\t\b\u0006\u000e\u0005 (\u0011\u0017\u0007\u0011\u000f\u0003\u0006\u0005 \b\u000b\f\n\u0002\u0007\t\u0012\u0003\f\u0011\u0006\u000e\u0005\n\f\n&\u0011\n\f\n\u000f8\u0003\u0006\u000e\u0005 (\u0011\u0006\u0002\b\u0010\u0003\f\u0011\u0006\u0005 \b\f\u0012\u0011\u0006\b\u000f\b\n\u0006\u0005 \u0011\u0005 (\u0003\u001d\u0003\u0006\u0005 \n\u000f\u00105\u000b\u0011\u000f\b\u00064\u0005\n=\u0004\u0005 \u000b\u0011\f\b\t\u000e\u0005 \u0011\u0006\u0012\u0011\u0006\u0005 \u0006\u0007H\u0011\n\u0012\u0003\u0006\u0005 \u00122\u0004\u0005 \u0011\u000f\u0002\u0003\u000f\u0012\f\b\u0010\u0003\u0005 \u000b\f\b\u000f\u0010\u0011\u0005\n\u0010\n\r\u0002\u0007\t\u0010\b\u0010\u0011\u0005 \u0010\u0011\u0005 \f\u0011(\f\u0003\u0010\u0007k\n\f\u0005 \u0006\u0007\b\u0006\u0005 \u0010\n\u000f\u0004\n\u0002\b\u0006\u0005 \u0012\u0011\f\f\n\u0012\u0003\f\n\b\n\u0006\u0005\ndepois da instalação da atividade mineradora, nem",
+  "processado_em": "2026-05-08T14:04:24.658559",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

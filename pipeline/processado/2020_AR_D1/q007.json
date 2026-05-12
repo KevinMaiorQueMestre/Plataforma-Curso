@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 7          \nDisponível em: www.globofilmes.globo.com. Acesso em: 13 dez. 2017 (adaptado).\nA frase, título do filme, reproduz uma variedade \nlinguística recorrente na fala de muitos brasileiros. \nEssa estrutura caracteriza-se pelo(a)\nA \tuso de uma marcação temporal.\nB \timprecisão do referente de pessoa.\nC \torganização interrogativa da frase.\nD \tutilização de um verbo de ação.\nE \tapagamento de uma preposição.",
+  "processado_em": "2026-05-11T23:27:58.781246",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

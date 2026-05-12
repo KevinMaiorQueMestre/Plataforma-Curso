@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nNo Brasil, cerca de 80% da energia elétrica advém \nde hidrelétricas, cuja construção implica o represamento \nde rios. A formação de um reservatório para esse \nfim, por sua vez, pode modificar a ictiofauna local. \nUm exemplo é o represamento do Rio Paraná, onde \nse observou o desaparecimento de peixes cascudos \nquase que simultaneamente ao aumento do número \nde peixes de espécies exóticas introduzidas, como \no mapará e a corvina, as três espécies com nichos \necológicos semelhantes.\nPETESSE, M. L.; PETRERE JR., M. Ciência Hoje, São Paulo, n. 293, v. 49, jun. 2012 (adaptado).\nNessa modificação da ictiofauna, o desaparecimento de \ncascudos é explicado pelo(a)\nA\t redução do fluxo gênico da espécie nativa.\nB\t diminuição da competição intraespecífica.\nC\t aumento da  competição interespecífica.\nD\t isolamento geográfico dos peixes.\nE\t extinção de nichos ecológicos.",
+  "processado_em": "2026-05-08T14:00:13.303756",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

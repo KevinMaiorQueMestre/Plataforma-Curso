@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 91\t\nAs \nlarvas \ndo \ninseto \ndo \nbicho-da-farinha \n(Tenebrio molitor) conseguem se alimentar de isopor \ndescartado (poliestireno expandido), transformando-o \nem dióxido de carbono e outros componentes. \nDessa forma, essas larvas contribuem para a redução \ndos impactos negativos causados pelo acúmulo de \nisopor no ambiente.\nDisponível em: www.bbc.com. Acesso em: 29 out. 2015 (adaptado).\nA redução dos impactos causados pelo acúmulo de isopor \né resultante de qual processo desempenhado pelas larvas \ndo bicho-da-farinha?\nA\t Bioindicação.\nB\t Biomarcação.\nC\t Biodegradação.\nD\t Bioacumulação.\nE\t Biomonitoramento.",
+  "processado_em": "2026-05-11T23:26:19.358043",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

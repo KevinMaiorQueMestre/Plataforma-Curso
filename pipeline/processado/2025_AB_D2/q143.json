@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 143\t\nUm matemático brasileiro recebeu, em 2014, a Medalha \nFields, premiação popularmente conhecida como o “Nobel da \nMatemática”. Ele é o primeiro ganhador da América Latina. \nComo parte da premiação, ele ainda recebeu cerca de R$ 31,3 mil \npela conquista.\nDisponível em: www1.folha.uol.com.br. Acesso em: 5 nov. 2014 (adaptado).\nQual é o valor, em real, representado pelo algarismo 1 no valor \nda premiação recebida pelo matemático brasileiro?\nA\t1\nB\t10\nC\t100\nD\t1 000\nE\t10 000",
+  "processado_em": "2026-05-08T14:06:52.386844",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

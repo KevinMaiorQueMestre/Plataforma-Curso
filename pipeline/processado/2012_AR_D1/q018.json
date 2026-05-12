@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 18\t\nPortadora de memória, a paisagem ajuda a construir \nos sentimentos de pertencimento; ela cria uma atmosfera \nque convém aos momentos fortes da vida, às festas, às \ncomemorações.\nCLAVAL, P. Terra dos homens: a geografia. São Paulo: Contexto, 2010 (adaptado).\nNo texto, é apresentada uma forma de integração da \npaisagem geográfica com a vida social. Nesse sentido, a \npaisagem, além de existir como forma concreta, apresenta \numa dimensão\nA\t política de apropriação efetiva do espaço.\nB\t econômica de uso de recursos do espaço.\nC\t privada de limitação sobre a utilização do espaço.\nD\t natural de composição por elementos físicos do espaço.\nE\t simbólica de relação subjetiva do indivíduo com o \nespaço.",
+  "processado_em": "2026-05-08T13:59:01.986558",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

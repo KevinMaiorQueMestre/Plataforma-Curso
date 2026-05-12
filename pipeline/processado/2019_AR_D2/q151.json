@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 151\t\nUma administração municipal encomendou a pintura \nde dez placas de sinalização para colocar em seu pátio \nde estacionamento.\nO profissional contratado para o serviço inicial \npintará o fundo de dez placas e cobrará um valor de \nacordo com a área total dessas placas. O formato \nde cada placa é um círculo de diâmetro d = 40 cm, \nque tangencia lados de um retângulo, sendo que \no comprimento total da placa é h = 60 cm, conforme \nilustrado na figura. Use 3,14 como aproximação para π.\nQual é a soma das medidas das áreas, em centímetros \nquadrados, das dez placas?\nA\t 16 628\nB\t 22 280\nC\t 28 560\nD\t 41 120\nE\t 66 240\n\nd\nh\nE\nPROIBIDO\nESTACIONAR",
+  "processado_em": "2026-05-11T23:27:36.224465",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

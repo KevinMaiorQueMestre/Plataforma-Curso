@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 88          \nA ampliação das áreas urbanizadas, devido à \nconstrução de áreas impermeabilizadas, repercute na \ncapacidade de infiltração das águas no solo, favorecendo \no escoamento superficial, a concentração das enxurradas \ne a ocorrência de ondas de cheia. A urbanização afeta \no funcionamento do ciclo hidrológico, pois interfere no \nrearranjo dos armazenamentos e na trajetória das águas.\nCHRISTOFOLETTI, A. Aplicabilidade do conhecimento geomorfológico nos projetos de \nplanejamento. In: GUERRA, A. J. T.; CUNHA, S. B. (Org.). Geomorfologia:\numa atualização de bases e conceitos. Rio de Janeiro: Bertrand Brasil, 2008.",
+  "processado_em": "2026-05-08T14:03:32.370084",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

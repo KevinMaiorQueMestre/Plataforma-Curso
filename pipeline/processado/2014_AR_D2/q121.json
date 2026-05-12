@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 121\t\nDisponível em: http://info.abril.com.br. Acesso em: 9 maio 2013 (adaptado).\nO texto introduz uma reportagem a respeito do futuro \nda televisão, destacando que as tecnologias a ela \nincorporadas serão responsáveis por\nA\t estimular a substituição dos antigos aparelhos de TV. \nB\t contemplar os desejos individuais com recursos de \nponta.\nC\t transformar a televisão no principal meio de acesso \nàs redes sociais.\nD\t renovar técnicas de apresentação de programas e de \ncaptação de imagens.\nE\t minimizar a importância dessa ferramenta como meio \nde comunicação de massa.",
+  "processado_em": "2026-05-08T14:00:36.483544",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

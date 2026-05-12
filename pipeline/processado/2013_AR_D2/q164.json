@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nNa aferição de um novo semáforo, os tempos são \najustados de modo que, em cada ciclo completo (verde-\namarelo-vermelho), a luz amarela permaneça acesa por \n5 segundos, e o tempo em que a luz verde permaneça \nacesa seja igual a 2\n3  do tempo em que a luz vermelha \nfique acesa. A luz verde fica acesa, em cada ciclo, \ndurante X segundos e cada ciclo dura Y segundos.\nQual é a expressão que representa a relação entre X e Y?\nA\t 5X − 3Y + 15 = 0\nB\t 5X − 2Y + 10 = 0\nC\t 3X − 3Y + 15 = 0\nD\t 3X − 2Y + 15 = 0\nE\t 3X − 2Y + 10 = 0",
+  "processado_em": "2026-05-08T14:00:23.985544",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

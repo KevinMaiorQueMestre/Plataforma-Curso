@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q017",
+  "imagem": "q017.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 17,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 17\t\nFornecedor\nEstoque\nProdução\nEstoque\nCliente\nModelo 1\nCliente\nProdução\nFornecedor\nRequisição\nEntrega\nModelo 2\nRequisição\nEntrega\nDisponível em: http://ensino.univates.br. Acesso em: 11 maio 2013 (adaptado). \nNa imagem, estão representados dois modelos \nde produção. A possibilidade de uma crise de \nsuperprodução é distinta entre eles em função do \nseguinte fator:\nA\t Origem da matéria-prima.\nB\t Qualificação da mão de obra.\nC\t Velocidade de processamento.\nD\t Necessidade de armazenamento.\nE\t Amplitude do mercado consumidor.",
+  "processado_em": "2026-05-08T14:00:09.484740",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

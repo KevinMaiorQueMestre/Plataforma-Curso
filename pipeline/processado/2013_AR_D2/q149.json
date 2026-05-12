@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nDeseja-se postar cartas não comerciais, sendo duas \nde 100 g, três de 200 g e uma de 350 g. O gráfico mostra o \ncusto para enviar uma carta não comercial pelos Correios:\nCusto (R$)\n4,45\n4,00\n3,55\n3,10\n2,65\n2,15\n1,70\n1,25\n0,80\nMassa (g)\n50\n100\n150\n200\n250\n300\n350\n400\nDisponível em: www.correios.com.br. Acesso em: 2 ago. 2012 (adaptado).\nO valor total gasto, em reais, para postar essas cartas é de\nA\t 8,35.\nB\t 12,50.\nC\t 14,40.\nD\t 15,35.\nE 18 05",
+  "processado_em": "2026-05-08T14:00:23.389115",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 108\t\nUm pesquisador observou, em uma árvore, um ninho de uma espécie de falcão. Apenas um filhote apresentava \numa coloração típica de penas de ambos os pais. Foram coletadas amostras de DNA dos pais e filhotes para \ncaracterização genética dos alelos responsáveis pela coloração das penas. O perfil de bandas obtido para cada \nindivíduo do ninho para os lócus 1 e 2, onde se localizam os genes dessa característica, está representado \nna figura.\nPadrões de bandas em gel das moléculas de DNA dos indivíduos\nCARVALHO, C. S.; CARVALHO, M. A.; COLLEVATTI, R. G. Identificando o sistema de acasalamento em aves. \nGenética na Escola, n. 1, 2013 (adaptado).\nDos filhotes, qual apresenta a coloração típica de penas dos pais?\nA\t 1\nB\t 2\nC\t 3\nD\t 4\nE\t 5\nPais\nFilhotes\n1\n2\n3\n4\n5\nLócus 1\nAlelo A\nAlelo B\nAlelo C\nAlelo D\nPais\nFilhotes\n1\n2\n3\n4\n5\nLócus 2\nAlelo E\nAlelo F\nAlelo G\nAlelo H",
+  "processado_em": "2026-05-11T23:27:08.904063",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

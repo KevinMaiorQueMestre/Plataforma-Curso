@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nA London Eye é uma enorme roda-gigante na capital \ninglesa. Por ser um dos monumentos construídos para \ncelebrar a entrada do terceiro milênio, ela também é \nconhecida como Roda do Milênio. Um turista brasileiro, \nem visita à Inglaterra, perguntou a um londrino o diâmetro \n(destacado na imagem) da Roda do Milênio e ele \nrespondeu que ele tem 443 pés.\nDisponível em: www.mapadelondres.org. Acesso em: 14 maio 2015 (adaptado).\nNão habituado com a unidade pé, e querendo \nsatisfazer sua curiosidade, esse turista consultou um \nmanual de unidades de medidas e constatou que 1 pé \nequivale a 12 polegadas, e que 1 polegada equivale a \n2,54 cm. Após alguns cálculos de conversão, o turista \nficou surpreendido com o resultado obtido em metros.\nQual a medida que mais se aproxima do diâmetro da \nRoda do Milênio, em metro?\nA\t 53\nB\t 94\nC\t 113\nD\t 135\nE\t 145",
+  "processado_em": "2026-05-08T14:01:25.372886",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

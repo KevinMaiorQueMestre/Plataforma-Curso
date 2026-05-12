@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nCamelôs\nAbençoado seja o camelô dos brinquedos de tostão:\nO que vende balõezinhos de cor\nO macaquinho que trepa no coqueiro\nO cachorrinho que bate com o rabo\nOs homenzinhos que jogam boxe\nA perereca verde que de repente dá um pulo que \nengraçado\nE as canetinhas-tinteiro que jamais escreverão coisa \nalguma.\nAlegria das calçadas\nUns falam pelos cotovelos:\n— “O cavalheiro chega em casa e diz: Meu filho, vai \nbuscar um\npedaço de banana para eu acender o charuto.\nNaturalmente o menino pensará: Papai está malu...”\nOutros, coitados, têm a língua atada.\nTodos porém sabem mexer nos cordéis como o tino \ningênuo de\ndemiurgos de inutilidades.\nE ensinam no tumulto das ruas os mitos heroicos da \nmeninice...\nE dão aos homens que passam preocupados ou tristes \numa lição de infância.",
+  "processado_em": "2026-05-08T14:00:37.961648",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

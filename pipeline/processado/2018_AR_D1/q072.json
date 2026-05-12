@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 72\t\nUma \npesquisa \nrealizada \npor \nCarolina \nLevis, \nespecialista em ecologia do Instituto Nacional de \nPesquisas da Amazônia, e publicada na revista Science, \ndemonstra que as espécies vegetais domesticadas pelas \ncivilizações pré-colombianas são as mais dominantes. \n“A domesticação de plantas na floresta começou há mais \nde 8 000 anos. Primeiro eram selecionadas as plantas \ncom características que poderiam ser úteis ao homem e \nem um segundo momento era feita a propagação dessas \nespécies. Começaram a cultivá-las em pátios e jardins, \npor meio de um processo quase intuitivo de seleção”.\nOLIVEIRA, J. Indígenas foram os primeiros a alterar o ecossistema da Amazônia. \nDisponível em: https://brasil.elpais.com. Acesso em: 11 dez. 2017 (adaptado).\nO texto apresenta um novo olhar sobre a configuração da \nFloresta Amazônica por romper com a ideia de\nA\t primazia de saberes locais.\nB\t ausência de ação antrópica.\nC\t insuficiência de recursos naturais.\nD\t necessidade de manejo ambiental.\nE\t predominância de práticas agropecuárias.",
+  "processado_em": "2026-05-11T23:26:40.386708",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

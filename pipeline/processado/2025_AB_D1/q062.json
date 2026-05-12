@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 62\t\nTEXTO I\nPOST, F. Paisagem com plantação: o engenho. Óleo sobre tela,  \n71,5 × 91,5 cm. Boijmans van Beuningen Museum,  \nRoterdã, Holanda, 1660.\nDisponível em: www.boijmans.nl. Acesso em: 18 nov. 2021.\nTEXTO II\nA continentalização do açúcar e o renovado estímulo à \nmonocultura em Pernambuco permitiu a adaptação do modelo \nmadeirense trazido pelo primeiro donatário. A primeira e \ntalvez melhor iconografia dessa imposição da monocultura da \ncana-de-açúcar sobre o bioma local foi, contudo, elaborada pelos \nholandeses, o que dá nota à pintura de paisagem de Frans Post, \nartista oficial da comitiva de João Maurício de Nassau.\nCHAVES JR., J. I. As capitanias de Pernambuco e a construção dos territórios \ne das jurisdições na América portuguesa (século XVIII). \nNiterói: UFF 2017 (adaptado)",
+  "processado_em": "2026-05-08T14:06:46.580769",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

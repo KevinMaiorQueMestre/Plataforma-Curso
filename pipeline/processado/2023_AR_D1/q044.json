@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nDisponível em: www.facebook.com/minsaude. Acesso em: 13 jun. 2018.",
+  "processado_em": "2026-05-08T14:05:36.591948",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

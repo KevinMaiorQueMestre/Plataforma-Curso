@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 26\nQUESTÃO 163\t\nUm reservatório é abastecido com água por uma \ntorneira e um ralo faz a drenagem da água desse \nreservatório. Os gráficos representam as vazões Q, \nem litro por minuto, do volume de água que entra no \nreservatório pela torneira e do volume que sai pelo ralo, \nem função do tempo t, em minuto.\nt (min)\nTorneira\nQ (L/min)\nt (min)\nRalo\n20\n5\n0\n5\n10\n15\n20\n25\nQ (L/min)\n20\n5\n0\n5\n10\n15\n20\n25\nEm qual intervalo de tempo, em minuto, o reservatório \ntem uma vazão constante de enchimento?\nA\t De 0 a 10.\nB\t De 5 a 10.\nC\t De 5 a 15.\nD\t De 15 a 25.\nE\t De 0 a 25.",
+  "processado_em": "2026-05-08T14:01:22.995296",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

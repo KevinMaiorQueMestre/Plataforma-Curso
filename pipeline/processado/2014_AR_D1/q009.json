@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nTEXTO I\nDisponível em: http://twistedsifter.com. Acesso em: 5 nov. 2013 (adaptado).\nTEXTO II\nA Índia deu um passo alto no setor de teleatendimento \npara países mais desenvolvidos, como os Estados Unidos \ne as nações europeias. Atualmente mais de 245 mil \nindianos realizam ligações para todas as partes do mundo \na fim de oferecer cartões de créditos ou telefones celulares \nou cobrar contas em atraso.\nDisponível em: www.conectacallcenter.com.br. Acesso em: 12 nov. 2013 (adaptado).\nAo relacionar os textos, a explicação para o processo de \nterritorialização descrito está no(a)\nA\t aceitação das diferenças culturais.\nB\t adequação da posição geográfica.\nC\t incremento do ensino superior.\nD\t qualidade da rede logística.\nE\t custo da mão de obra local.",
+  "processado_em": "2026-05-08T14:00:27.416229",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

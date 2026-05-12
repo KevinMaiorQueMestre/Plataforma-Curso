@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nA manchete demonstra que o transporte de grandes \ncargas representa cada vez mais preocupação quando \nfeito em vias urbanas.\nCaminhão entala em viaduto no Centro\nUm caminhão de grande porte entalou embaixo do \nviaduto no cruzamento das avenidas Borges de Medeiros \ne Loureiro da Silva no sentido Centro-Bairro, próximo à \nPonte de Pedra, na capital. Esse veículo vinha de São \nPaulo para Porto Alegre e transportava três grandes \ntubos, conforme ilustrado na foto.\nDisponível em: www.caminhoes-e-carretas.com. Acesso em: 21 maio 2012 (adaptado).\nConsidere que o raio externo de cada cano da imagem \nseja 0,60 m e que eles estejam em cima de uma carroceria \ncuja parte superior está a 1,30 m do solo. O desenho \nrepresenta a vista traseira do empilhamento dos canos.\n0,60 m\nA margem de segurança recomendada para que \num veículo passe sob um viaduto é que a altura total do \nveículo com a carga seja, no mínimo, 0,50 m menor do \nque a altura do vão do viaduto.\nConsidere 1,7 como aproximação para \n3 .\nQual deveria ser a altura mínima do viaduto, em metro, \npara que esse caminhão pudesse passar com segurança \nsob seu vão? \nA\t 2,82\nB\t 3,52\nC\t 3,70\nD\t 4,02\nE\t 4,20",
+  "processado_em": "2026-05-11T23:25:55.386092",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

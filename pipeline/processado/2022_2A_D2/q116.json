@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 116\t\nUm dos materiais mais antigos e ainda utilizados na \nrestauração dos dentes são as amálgamas, um produto \nda combinação de mercúrio (Hg) com prata (Ag) e estanho \n(Sn), como apresenta a equação química:\n24 Ag (s) + 8 Sn (s) + 37 Hg (l) → 12 Ag2Hg3 (s) + Sn8Hg (s)\nOs materiais formados pelos elementos citados são \ncaracterizados como \nA\t\nA\t precipitados.\nB\t\nB\t ligas metálicas.\nC\t\nC\t compostos iônicos.\nD\t\nD\t produtos de oxidação.\nE\t\nE\t compostos covalentes.",
+  "processado_em": "2026-05-08T14:04:47.622102",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

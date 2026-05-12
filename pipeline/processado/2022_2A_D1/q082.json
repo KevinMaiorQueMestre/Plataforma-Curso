@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nPetrobras identifica a presença de hidrocarbonetos \nem poço na Bacia de Santos\nA Petrobras anunciou que identificou a presença \nde hidrocarbonetos (que dão origem ao petróleo) no \npré-sal da Bacia de Santos, em poço pioneiro do bloco \nAram. Segundo a estatal, o poço 1-BRSA-1381-SPS \n(Curaçao) está localizado a 240 km da cidade de Santos, \nno litoral de São Paulo, em profundidade de 1 905 m. A \nPetrobras informou que o intervalo portador de petróleo \nfoi constatado por meio de perfis elétricos e amostras \nde fluido, que serão posteriormente caracterizados \npor análises de laboratório. Esses dados permitirão \navaliar o potencial e direcionar as próximas atividades \nexploratórias na área.\nDisponível em: https://g1.globo.com. Acesso em: 20 dez. 2021 (adaptado).\nA ocorrência do recurso natural na área destacada está \nrelacionada à\nA\t\nA\t ação de correntes marinhas na beira-mar.\nB\t\nB\t colisão de placas tectônicas na costa brasileira.\nC\t\nC\t temperatura elevada da água do Atlântico na região.\nD\t\nD\t presença de rochas de origem magmática no local.\nE\t\nE\t deposição de compostos orgânicos no leito oceânico.",
+  "processado_em": "2026-05-08T14:04:42.973875",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

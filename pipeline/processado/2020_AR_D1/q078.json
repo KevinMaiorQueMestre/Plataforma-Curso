@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 78          \nO toyotismo, a partir dos anos 1970, teve grande \nimpacto no mundo ocidental, quando se mostrou para \nos países avançados como uma opção possível para a \nsuperação de uma crise de acumulação.\nANTUNES, R. Os sentidos do trabalho: ensaio sobre a afirmação e a negação do trabalho. \nSão Paulo: Boitempo, 2009 (adaptado).\nA característica organizacional do modelo em questão, \nrequerida no contexto de crise, foi o(a)",
+  "processado_em": "2026-05-11T23:28:06.383731",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

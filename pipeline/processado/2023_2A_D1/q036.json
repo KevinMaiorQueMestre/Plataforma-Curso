@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nA animação Vida Maria\nProduzido em computação gráfica 3D e finalizado \nem 35 mm, o curta-metragem mostra personagens e \ncenários modelados com texturas e cores pesquisadas \ne capturadas no sertão cearense, no Nordeste do Brasil, \ncriando uma atmosfera realista e humanizada.\nO filme nos mostra a história da rotina da personagem \nMaria José, uma menina de cinco anos de idade que \nse diverte aprendendo a escrever o nome, mas que é \nobrigada pela mãe a abandonar os estudos e começar a \ncuidar dos afazeres domésticos e trabalhar na roça.\nEnquanto trabalha, ela cresce, casa e tem filhos e \ndepois envelhece, e o ciclo continua a se reproduzir nas \noutras Marias suas filhas, netas e bisnetas.\nDisponível em: www.revistaprosaversoearte.com. Acesso em: 1 nov. 2021.\nEsse fragmento é caracterizado como gênero sinopse, \npois apresenta\nA\t\nA\t posicionamento da revista sobre a produção da \nanimação.\nB\t\nB\t relato da história abordada no curta-metragem.\nC\t\nC\t acontecimentos do cotidiano de uma família.\nD\t\nD\t história sucinta com poucos personagens.\nE\t\nE\t fatos da vida de uma menina e seus familiares.",
+  "processado_em": "2026-05-08T14:05:19.025116",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

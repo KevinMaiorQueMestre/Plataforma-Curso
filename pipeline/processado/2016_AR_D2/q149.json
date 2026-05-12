@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 21\nQUESTÃO 149\t\nCinco marcas de pão integral apresentam as \nseguintes concentrações de fibras (massa de fibra por \nmassa de pão):\n•\t Marca A: 2 g de fibras a cada 50 g de pão;\n•\t Marca B: 5 g de fibras a cada 40 g de pão;\n•\t Marca C: 5 g de fibras a cada 100 g de pão;\n•\t Marca D: 6 g de fibras a cada 90 g de pão;\n•\t Marca E: 7 g de fibras a cada 70 g de pão.\nRecomenda-se a ingestão do pão que possui a maior \nconcentração de fibras.\nDisponível em: www.blog.saude.gov.br. Acesso em: 25 fev. 2013.\nA marca a ser escolhida é\nA\t A.\nB\t B.\nC\t C.\nD\t D.\nE\t E.",
+  "processado_em": "2026-05-08T14:01:22.263571",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

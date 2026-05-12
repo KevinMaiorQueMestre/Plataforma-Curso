@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 71\t\nA alimentação é uma atividade que envolve muito mais que \no ato de comer e a disponibilidade de alimentos. Há uma cadeia \nde produção, que se inicia no campo, ou antes, na preparação de \nsementes, mudas e insumos, passando por ciclos, do plantio à colheita, \nem que elementos da natureza têm um papel crucial, mas que vêm \nsendo, cada vez mais, envolvidos por questões tecnológicas, financeiras \ne sociais. Nas etapas produtivas, no campo, as inter-relações \ncom a sustentabilidade parecem claras. De fato, o próprio termo \nsustentabilidade foi cunhado com forte influência da atividade agrária.\nRIBEIRO, H. et al. Alimentação e sustentabilidade. \nEstudos Avançados, n. 89, 2017 (adaptado).\nCom base no texto, uma medida que contribui para a \nsustentabilidade da alimentação é o(a)\nA\tmelhoria dos níveis de renda.\nB\tmanejo das técnicas no cultivo.\nC\tmanutenção dos padrões de consumo.\nD\tampliação da infraestrutura nas rodovias.\nE\temprego de adubo químico nas lavouras.",
+  "processado_em": "2026-05-08T14:06:46.995735",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

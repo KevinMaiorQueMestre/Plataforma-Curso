@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 31\t\nMURRAY, R.; KLIGERMAN, E. Teias de afeto e poesia. Disponível em: \nhttps://roseanamurray.com. Acesso em: 5 maio 2024.\nNesse texto, a autora aborda diferentes sentidos da palavra \n“rede” para evidenciar\nA\tas formas de comunicação em meios digitais.\nB\ta necessidade de atualização das mídias sociais.\nC\tos conflitos de identidade dos usuários da internet.\nD\to impacto das tecnologias nas interações humanas.\nE os desejos de compartilhar vivências com os amigos",
+  "processado_em": "2026-05-08T14:06:59.130573",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

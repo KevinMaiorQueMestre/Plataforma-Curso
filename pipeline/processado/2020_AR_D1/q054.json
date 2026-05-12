@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 54          \nA arte pré-histórica africana foi incontestavelmente um \nveículo de mensagens pedagógicas e sociais. Os San, \nque constituem hoje o povo mais próximo da realidade \ndas representações rupestres, afirmam que seus \nantepassados lhes explicaram sua visão do mundo a partir \ndesse gigantesco livro de imagens que são as galerias. \nA educação dos povos que desconhecem a escrita está \nbaseada sobretudo na imagem e no som, no audiovisual.\nKI-ZERBO, J. A arte pré-histórica africana. In: KI-ZERBO, J. (Org.)\nHistória geral da África, I: metodologia e pré-história da África.\nBrasília: Unesco, 2010.\nDe acordo com o texto, a arte mencionada é importante \npara os povos que a cultivam por colaborar para o(a)\nA \t transmissão dos saberes acumulados.\nB \t expansão da propriedade individual.\nC \t ruptura da disciplina hierárquica.\nD \t surgimento dos laços familiares.\nE \t rejeição de práticas exógenas.",
+  "processado_em": "2026-05-11T23:28:04.579935",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 149\t\nPara decorar a fachada de um edifício, um arquiteto \nprojetou a colocação de vitrais compostos de quadrados \nde lado medindo 1 m, conforme a figura a seguir.\nA\nB\nC\nD\nP\nQ\nNesta figura, os pontos A, B, C e D são pontos médios \ndos lados do quadrado e os segmentos AP e QC medem \n1/4 da medida do lado do quadrado. Para confeccionar \num vitral, são usados dois tipos de materiais: um para a \nparte sombreada da figura, que custa R$ 30,00 o m2, e \noutro para a parte mais clara (regiões ABPDA e BCDQB), \nque custa R$ 50,00 o m2.\nDe acordo com esses dados, qual é o custo dos materiais \nusados na fabricação de um vitral?\nA\t R$ 22,50\nB\t R$ 35,00\nC\t R$ 40,00\nD\t R$ 42,50\nE R$ 45 00",
+  "processado_em": "2026-05-08T13:59:50.309028",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

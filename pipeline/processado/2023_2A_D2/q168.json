@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nUma quadra oficial de futebol de salão ocupa uma área \nque corresponde à área de um retângulo com comprimento \nde 40 m e largura de 20 m. Para segurança dos atletas, as \nlinhas demarcatórias da quadra, nas laterais e nos fundos, \ndeverão estar a uma distância de, no mínimo, 2 m de \nobstáculos que não fazem parte da quadra, tais como \nrede de proteção, tela, grade ou parede.\nDisponível em: www.cbfs.com.br. Acesso em: 20 out. 2019 (adaptado).\nA gerência do Departamento de Obras de uma \nPrefeitura avalia adquirir um terreno e nele construir \numa quadra oficial de futebol de salão. Há cinco terrenos \ndisponíveis, e a gerência comprará o terreno que tiver \nmenor área, desde que comporte a construção da quadra \ngarantindo todas as demandas que ofereçam segurança \naos atletas. Planeja-se ainda que a quadra seja construída \nde modo que o seu lado maior seja paralelo à rua. A figura \nilustra os terrenos disponíveis e que estão sendo avaliados.\nRua\nCalçada\n44 m\n24 m\n22 m\nTerreno 1 \nRua\nCalçada\n40 m\n20 m\nTerreno 2 \nRua\nCalçada\n42 m\n22 m\nTerreno 3 \nRua\nCalçada\n60 m\n48 m\n20 m\nTerreno 4 \nTerreno 5 \nRua\nCalçada\n50 m\n40 m\nQual dos cinco terrenos a gerência deve adquirir a fim de \natender a todas as exigências apresentadas?\nA\t\nA\t 1\nB\t\nB\t 2\nC\t\nC\t 3\nD\t\nD\t 4\nE\t\nE\t 5",
+  "processado_em": "2026-05-08T14:05:28.627250",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

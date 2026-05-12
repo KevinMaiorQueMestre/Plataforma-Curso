@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nUma cozinheira produz docinhos especiais por \nencomenda. Usando uma receita-base de massa, ela \nprepara uma porção, com a qual produz 50 docinhos \nmaciços de formato esférico, com 2 cm de diâmetro. \nUm cliente encomenda 150 desses docinhos, mas pede \nque cada um tenha formato esférico com 4 cm de diâmetro. \nA cozinheira pretende preparar o número exato de \nporções da receita-base de massa necessário para \nproduzir os docinhos dessa encomenda.\nQuantas porções da receita-base de massa ela deve \npreparar para atender esse cliente?\nA\t\nA\t 2\nB\t\nB\t 3\nC\t\nC\t 6\nD\t\nD\t 12\nE\t\nE\t 24",
+  "processado_em": "2026-05-08T14:05:11.841131",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

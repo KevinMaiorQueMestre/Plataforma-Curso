@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 175          \nO nanofio é um feixe de metais semicondutores usu\nilustra, sem escala, as representações das medidas dos diâ\ncomparar suas espessuras e constatar o avanço das nova\n \nO número que expressa a razão existente entre o comprim\nA  6 × 10\n−14\nB  6 × 10\n−5\n9\nC  6 × 10\n5\n9\nD  6 × 10 4\nE  6 × 10 45",
+  "processado_em": "2026-05-08T14:03:40.292546",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

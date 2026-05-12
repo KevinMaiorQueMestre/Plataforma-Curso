@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\nO gerente do setor de recursos humanos de uma \nHPSUHVD\u0003HVWi\u0003RUJDQL]DQGR\u0003XPD\u0003DYDOLDomR\u0003HP\u0003TXH\u0003XPD\u0003\ndas etapas é um jogo de perguntas e respostas. Para \nHVVD\u0003 HWDSD\u000f\u0003 HOH\u0003 FODVVL¿FRX\u0003 DV\u0003 SHUJXQWDV\u000f\u0003 SHOR\u0003 QtYHO\u0003 GH\u0003\nGL¿FXOGDGH\u000f\u0003 HP\u0003 IiFLO\u000f\u0003 PpGLR\u0003 H\u0003 GLItFLO\u000f\u0003 H\u0003 HVFUHYHX\u0003 FDGD\u0003\nSHUJXQWD\u0003HP\u0003FDUW}HV\u0003SDUD\u0003FRORFDomR\u0003HP\u0003XPD\u0003XUQD\u0011\nContudo, após depositar vinte perguntas de diferentes \nQtYHLV\u0003QD\u0003XUQD\u000f\u0003HOH\u0003REVHUYRX\u0003TXH\u0003\u0015\u0018\b\u0003GHODV\u0003HUDP\u0003GH\u0003QtYHO\u0003\nfácil. Querendo que as perguntas de nível fácil sejam a \nmaioria, o gerente decidiu acrescentar mais perguntas \nde nível fácil à urna, de modo que a probabilidade de o \nprimeiro participante retirar, aleatoriamente, uma pergunta \nGH\u0003QtYHO\u0003IiFLO\u0003VHMD\u0003GH\u0003\u001a\u0018\b\u0011\nCom essas informações, a quantidade de perguntas de \nnível fácil que o gerente deve acrescentar à urna é igual a\nA 10.\nB 15.\nC 35.\nD \u0017\u0013\u0011\nE \u0017\u0018\u0011",
+  "processado_em": "2026-05-11T23:26:49.481827",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

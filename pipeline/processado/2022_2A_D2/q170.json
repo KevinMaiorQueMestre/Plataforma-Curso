@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nUm carcinicultor tem um viveiro de camarão cuja \ncerca na superfície tem formato de um trapézio isósceles. \nA base maior e a altura desse trapézio têm medidas, \nrespectivamente, de 45 e 20 metros. Para manter \numa produção de qualidade, ele segue o padrão de \n10 camarões para cada metro quadrado da área \ndelimitada para o viveiro, com uma produção atual \ncorrespondente \na \n6 000 \ncamarões. \nMantendo \no \nmesmo padrão de qualidade, ele pretende aumentar a \ncapacidade produtiva desse viveiro em 2 400 unidades \nde camarão, com a ampliação da área delimitada para \no viveiro, modificando apenas a medida da base menor \ndo trapézio.\nEm quantos metros ele deverá aumentar a medida da \nbase menor do trapézio para alcançar a capacidade \nprodutiva desejada?\nA\t\nA\t 21\nB\t\nB\t 24\nC\t\nC\t 36\nD\t\nD\t 39\nE\t\nE\t 54",
+  "processado_em": "2026-05-08T14:04:50.814002",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 108\t\nAs cetonas fazem parte de famílias olfativas encontradas \nem muitos alimentos. A molécula de hexan-3-ona é um \nexemplo desses compostos voláteis responsáveis pelo \naroma, podendo ser obtida por processos energéticos \nrealizados em meio ácido, na presença de oxidantes como \no permanganato de potássio.\nPara se produzir esse composto volátil em laboratório, \ndeve-se oxidar a molécula de\nA\t\nA\t hexanal.\nB\t\nB\t hexan-1-ol.\nC\t\nC\t hexan-3-ol.\nD\t\nD\t hex-1-en-1-ol.\nE\t\nE\t ácido hexanoico.",
+  "processado_em": "2026-05-08T14:05:43.759477",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

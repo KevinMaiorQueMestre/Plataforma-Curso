@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 24 \nS. Exa., o leitor\nDeus é testemunha de que nada tenho contra os leitores. \nPelo contrário, se não existissem esses seres abnegados, não haveria \nlivros nem jornais, e eu teria morrido de fome há anos. Mas vamos \ne venhamos, não podemos nos escravizar a eles, bajulando-os, \nprocurando adivinhar o que pensam ou desejam. Ao contrário dos \nrestaurantes e dos balcões comerciais, nem sempre os fregueses do \nnosso produto têm razão. Leio com atenção as cartas que as Redações \nrecebem. [...] Raro é o dia em que não aparece um leitor furibundo \ncomunicando que não mais assinará nem lerá o jornal por causa de \num editorial, uma notícia ou um comentário que ele não aprovou.\nTrabalhei durante anos num jornal que até o dia 1º de abril \nde 1964 criticava o governo de então. Veio o golpe militar e já \nno dia 2 o jornal passou a criticar o novo regime que se instalava \nno país. Naquele tempo, o jornal tinha uns 150 mil assinantes, \nera troço pra burro. [...] Com a mudança na opinião, a cólera \ndos leitores foi tal e tamanha que a tiragem chegou à metade. \nDois meses depois, o estoque de papel, que deveria durar \num ano, foi consumido pelas rotativas, as vendas triplicaram. \nO jornal era vendido até no câmbio paralelo",
+  "processado_em": "2026-05-08T14:06:26.738290",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nUma pessoa compra semanalmente, numa mesma \nloja, sempre a mesma quantidade de um produto que \ncusta R$ 10,00 a unidade. Como já sabe quanto deve \ngastar, leva sempre R$ 6,00 a mais do que a quantia \nnecessária para comprar tal quantidade, para o caso \nde eventuais despesas extras. Entretanto, um dia, ao \nchegar à loja, foi informada de que o preço daquele \nproduto havia aumentado 20%. Devido a esse reajuste, \nconcluiu que o dinheiro levado era a quantia exata para \ncomprar duas unidades a menos em relação à quantidade \nhabitualmente comprada.\nA quantia que essa pessoa levava semanalmente para \nfazer a compra era\nA\t R$ 166,00.\nB\t R$ 156,00.\nC\t R$ 84,00.\nD\t R$ 46,00.\nE\t R$ 24,00.",
+  "processado_em": "2026-05-08T14:00:40.367862",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

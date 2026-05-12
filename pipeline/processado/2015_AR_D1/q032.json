@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 32\t\nAlgumas regiões do Brasil passam por uma crise \nde água por causa da seca. Mas, uma região de Minas \nGerais está enfrentando a falta de água no campo tanto \nem tempo de chuva como na seca.  As veredas estão \nsecando no norte e no noroeste mineiro. Ano após ano, \nelas vêm perdendo a capacidade de ser a caixa-d’água \ndo grande sertão de Minas.\nVIEIRA, C. Degradação do solo causa perda de fontes de água de famílias de MG. \nDisponível em: http://g1.globo.com. Acesso em: 1 nov.  2014.\nAs veredas têm um papel fundamental no equilíbrio \nhidrológico dos cursos de água no ambiente do \nCerrado, pois\nA\t colaboram para a formação de vegetação xerófila.\nB\t formam os leques aluviais nas planícies das bacias.\nC\t fornecem sumidouro para as águas de recarga \nda bacia.\nD\t contribuem para o aprofundamento dos talvegues \nà jusante.\nE\t constituem um sistema represador da água na \nchapada.",
+  "processado_em": "2026-05-08T14:00:44.901936",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

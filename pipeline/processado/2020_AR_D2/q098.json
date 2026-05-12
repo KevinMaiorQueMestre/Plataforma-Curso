@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 98        \nAranhas, escorpiões, carrapatos e ácaros são \nrepresentantes da classe dos Aracnídeos. Esses animais \nsão terrestres em sua grande maioria e ocupam os mais \nvariados hábitats, tais como montanhas altas, pântanos, \ndesertos e solos arenosos. Podem ter sido os primeiros \nrepresentantes do filo Arthropoda a habitar a terra seca.\nA característica que justifica o sucesso adaptativo desse \ngrupo na ocupação do ambiente terrestre é a presença de\nA \t quelíceras e pedipalpos que coordenam o movimento \ncorporal.\nB \t excreção de ácido úrico que confere estabilidade ao \npH corporal.\nC \t exoesqueleto constituído de quitina que auxilia no \ncontrole hídrico corporal.\nD \t circulação sanguínea aberta que impede a desidratação \ndos tecidos corporais.\nE \t sistema nervoso ganglionar que promove a coordenação \ncentral do movimento corporal.",
+  "processado_em": "2026-05-11T23:28:13.196041",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

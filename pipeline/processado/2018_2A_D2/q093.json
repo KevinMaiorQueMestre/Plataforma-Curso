@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 93\t\nDe acordo com o Ministério da Saúde, a cegueira \nnoturna ou nictalopia é uma doença caracterizada pela \ndificuldade de se enxergar em ambientes com baixa \nluminosidade. Sua ocorrência pode estar relacionada \na uma alteração ocular congênita ou a problemas \nnutricionais. Com esses sintomas, uma senhora dirigiu-se \nao serviço de saúde e seu médico sugeriu a ingestão de \nvegetais ricos em carotenoides, como a cenoura.\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 1 mar. 2012 (adaptado).\nEssa indicação médica deve-se ao fato de que os \ncarotenoides são os precursores de\nA\t hormônios, estimulantes da regeneração celular da \nretina.\nB\t enzimas, utilizadas na geração de ATP pela \nrespiração celular.\nC\t vitamina A, necessária para a formação de estruturas \nfotorreceptoras.\nD\t tocoferol, uma vitamina com função na propagação \ndos impulsos nervosos.\nE\t vitamina C, substância antioxidante que diminui a \ndegeneração de cones e bastonetes.",
+  "processado_em": "2026-05-11T23:26:19.429995",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

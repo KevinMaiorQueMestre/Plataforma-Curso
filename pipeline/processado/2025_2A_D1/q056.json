@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 56 \nA fome convive hoje com as condições materiais para \nresolvê-la. Vejamos um pouco mais de perto: a evolução recente \nda expansão do padrão agrário/agrícola vai nos esclarecer parte \ndo mistério em que, mesmo com queda de preços, cresce a área \nplantada, aprofundando as contradições entre produção de \nalimentos e aumento da fome no mundo. A produção de alimentos \nvem sendo cada vez mais concentrada nas mãos de menos \nprodutores. Acredita-se que se trata de um problema técnico \nou de distribuição, seja de renda ou dos próprios alimentos.\nPORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente: \npequena contribuição crítica ao atual modelo agrário/agrícola de uso \ndos recursos naturais. Revista INTERthesis, n. 1, 2004 (adaptado).\nO paradoxo apresentado no texto é resultante da\nA degradação das áreas de cultivo.\nB modificação dos hábitos de consumo.\nC estagnação dos níveis de produtividade.\nD desorganização dos sistemas de repartição.\nE valorização dos modelos de agroecologia.",
+  "processado_em": "2026-05-08T14:06:29.357808",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

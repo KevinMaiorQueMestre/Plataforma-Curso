@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 178\t\nUm relatório sobre a equipe inicial dos estudantes de uma \nescola, inscritos para uma competição esportiva, informava que a \nmédia das alturas desses estudantes era 1,66 m. Após a elaboração \ndesse relatório, houve a inclusão de dois novos estudantes na \nequipe, cujas alturas eram de 1,75 m e 1,85 m. Com isso, a média \ndas alturas dos estudantes da nova equipe passou a ser 1,67 m.\nO número de estudantes que formam a nova equipe é\nA\t14.\nB\t16.\nC\t26.\nD\t28.\nE\t30.",
+  "processado_em": "2026-05-08T14:06:54.511820",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

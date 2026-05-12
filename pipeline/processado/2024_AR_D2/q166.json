@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nUm artesão utiliza dois tipos de componentes, X e \nY, nos enfeites que produz. Ele sempre compra todos os \ncomponentes em uma mesma loja. O quadro apresenta \nos preços dos dois tipos de componentes nas lojas I e II.\nLojas\nPreços dos componentes (R$)\nX\nY\nI\n3,00\n1,00\nII\n2,00\n4,00\nEle confeccionará enfeites formados por duas unidades \ndo componente X e uma unidade do componente Y e \nefetuará a compra na loja que oferecer o menor valor total \npara a confecção de um enfeite.\nO artesão efetuará a compra na loja\nA\tI, pois o valor é R$ 7,00.\nB\tI, pois o valor é R$ 4,00.\nC\tII, pois o valor é R$ 6,00.\nD\tI, pois anuncia o componente com o menor preço.\nE\tII, pois o componente X, que é o mais utilizado, tem \nmenor preço.",
+  "processado_em": "2026-05-08T14:06:21.120505",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

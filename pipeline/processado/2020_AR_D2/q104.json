@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 104                \nO dióxido de carbono passa para o estado sólido (gelo seco) a −78 °C e retorna ao estado gasoso à temperatura \nambiente. O gás é facilmente solubilizado em água, capaz de absorver radiação infravermelha da superfície da terra e \nnão conduz eletricidade. Ele é utilizado como matéria-prima para a fotossíntese até o limite de saturação. Após a fixação \npelos organismos autotróficos, o gás retorna ao meio ambiente pela respiração aeróbica, fermentação, decomposição \nou por resíduos industriais, queima de combustíveis fósseis e queimadas. Apesar da sua importância ecológica, seu \nexcesso causa perturbações no equilíbrio ambiental.\nConsiderando as propriedades descritas, o aumento atmosférico da substância afetará os organismos aquáticos em \nrazão da\nA \t redução do potencial hidrogeniônico da água.\nB \t restrição da aerobiose pelo excesso de poluentes.\nC \t diminuição da emissão de oxigênio pelos autótrofos.\nD \t limitação de transferência de energia entre os seres vivos.\nE \t retração dos oceanos pelo congelamento do gás nos polos.",
+  "processado_em": "2026-05-11T23:28:13.549379",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

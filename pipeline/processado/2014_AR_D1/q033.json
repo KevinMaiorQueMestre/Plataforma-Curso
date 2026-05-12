@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 33\t\nExiste uma cultura política que domina o sistema \ne é fundamental para entender o conservadorismo \nbrasileiro. Há um argumento, partilhado pela direita e pela \nesquerda, de que a sociedade brasileira é conservadora. \nIsso legitimou o conservadorismo do sistema político: \nexistiriam limites para transformar o país, porque a \nsociedade é conservadora, não aceita mudanças bruscas. \nIsso justifica o caráter vagaroso da redemocratização e \nda redistribuição da renda. Mas não é assim. A sociedade \né muito mais avançada que o sistema político. Ele se \nmantém porque consegue convencer a sociedade de que \né a expressão dela, de seu conservadorismo.\nNOBRE, M. Dois ismos que não rimam. Disponível em: www.unicamp.br. \nAcesso em: 28 mar. 2014 (adaptado).\nA característica do sistema político brasileiro, ressaltada \nno texto, obtém sua legitimidade da\nA\t dispersão regional do poder econômico.\nB\t polarização acentuada da disputa partidária.\nC\t orientação radical dos movimentos populares.\nD\t condução eficiente das ações administrativas.\nE\t sustentação ideológica das desigualdades existentes.",
+  "processado_em": "2026-05-08T14:00:29.016606",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

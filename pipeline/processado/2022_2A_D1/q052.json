@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nA morte de um homem negro em Minnesota, nos \nEstados Unidos, causou uma onda de indignação depois \nda divulgação de um vídeo que mostra um policial branco \najoelhado no pescoço dele. Nas imagens, o homem, \nidentificado como George Floyd, de 40 anos, reclama e \ndiz repetidamente: “Não consigo respirar”.\n Caso George Floyd: morte de homem negro filmado com policial branco com joelhos em seu \npescoço causa indignação nos EUA. Disponível em: https://g1.globo.com.\nAcesso em: 11 nov. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:04:40.982577",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

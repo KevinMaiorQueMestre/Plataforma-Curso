@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 51                \nZona de pastoreio e cultura do algodão e cereais d\nCONVENÇÕES\nPASTOREIO - - - - - - - - - - - - - - -\nPLANTIO E LIMPA - - - - - - - - - -\nCRESCIMENTO- - - - - - - - - - -\nCOLHEITA DE FEIJÃO - - - - - - - -\nCOLHEITA DE MILHO VERDE - - -\nCOLHEITA DE MILHO SECO - - -\nCOLHEITA DE ALGODÃO - - - - - -\nANDRADE, M. C\nA dinâmica produtiva apresentada na imagem tem como estratégia central a \nA \t separação pelo tipo de solo.\nB \t exportação da colheita sazonal.\nC \t priorização da tecnologia moderna.\nD \t adequação pelo tempo da natureza.\nE \t intensificação da atividade pecuária.",
+  "processado_em": "2026-05-11T23:28:04.395921",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

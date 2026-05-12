@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 49\t\nTEXTO I\nCARLEVARIS, L. La piazetta (detalhe). Óleo sobre tela, 49 × 41 cm. \nAshmolean Museum, Oxford, 1729.\nDisponível em: www.meinsterart.de. Acesso em: 13 dez. 2017.\nTEXTO II\nAntigo centro da economia mundo-europeia do século XV, \nno final do século XVII e início do século XVIII, Veneza ainda era \numa cidade cosmopolita onde orientais podiam sentir-se em casa.\nBRAUDEL, F. O tempo do mundo. São Paulo: \nMartins Fontes, 1979 (adaptado).\nQual elemento da condição cosmopolita de Veneza na Idade \nModerna está explicitado nos textos?\nA\tAvanço do ensino laico.\nB\tConquista das terras da América.\nC\tIntegração do comércio mediterrâneo.\nD\tPopularização do pensamento humanista.\nE\tDesenvolvimento das corporações de ofício.",
+  "processado_em": "2026-05-08T14:07:00.445316",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

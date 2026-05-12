@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 84\t\nPrimeiro de dezembro de 1955. Rosa Parks, uma \ncostureira negra norte-americana se recusa a ceder o lugar \na um homem branco nos Estados Unidos. Foi durante uma \nviagem de ônibus no estado do Alabama, região sudeste \ndo país. Ela acabou presa.\nAs primeiras filas de assentos nos ônibus eram \nreservadas para os passageiros brancos. Por lei, \nos negros tinham que ocupar os lugares de trás nos \ntransportes coletivos.\nDisponível em: http://radioagencianacional.ebc.com.br. \nAcesso em: 7 dez. 2017.\nEsse ato individual ganhou repercussão nacional e \ncolaborou decisivamente para\nA\treacender a disputa militar entre estados da união.\nB\testimular o ativismo político entre grupos oprimidos.\nC\taprofundar o fosso econômico entre as classes sociais.\nD\tdemonstrar o resultado insatisfatório de táticas pacifistas.\nE\tpromover a emigração forçada de contingentes \npopulacionais.",
+  "processado_em": "2026-05-08T14:05:57.427763",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

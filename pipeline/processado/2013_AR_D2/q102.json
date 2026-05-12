@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 102\t\nKUCZYNSKIEGO, P. Ilustração, 2008. \nDisponível em: http://capu.pl. Acesso em: 3 ago. 2012.\nO artista gráfico polonês Pawla Kuczynskiego nasceu em \n1976 e recebeu diversos prêmios por suas ilustrações. \nNessa obra, ao abordar o trabalho infantil, Kuczynskiego \nusa sua arte para\nA\t difundir a origem de marcantes diferenças sociais.\nB\t estabelecer uma postura proativa da sociedade.\nC\t provocar a reflexão sobre essa realidade. \nD\t propor alternativas para solucionar esse problema.\nE\t retratar como a questão é enfrentada em vários países \ndo mundo.",
+  "processado_em": "2026-05-08T14:00:20.168905",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

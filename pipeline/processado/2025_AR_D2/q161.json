@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 161\t\nUma empresa produziu, em um determinado mês, \n110 toneladas de plástico a partir de derivados de petróleo \ne 80 toneladas a partir de plásticos reciclados. O custo para \nreciclar uma tonelada de plástico é de R$ 500,00, que equivale \na 5% do custo para produzir a mesma quantidade de plástico \na partir de derivados de petróleo. Para o mês seguinte, a meta \ndessa empresa é produzir a mesma quantidade de plástico que \nfoi produzida nesse mês, mas com redução de, pelo menos, \n50% no custo de produção.\nPara que no mês seguinte a empresa atinja a meta, a quantidade \nmínima de toneladas de plástico que devem ser produzidas a \npartir de reciclagem deverá ser\nA\t135.\nB\t140.\nC\t155.\nD\t160.\nE 175",
+  "processado_em": "2026-05-08T14:07:09.812516",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

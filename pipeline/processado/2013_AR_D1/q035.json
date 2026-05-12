@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q035",
+  "imagem": "q035.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 35,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 35\t\nRua Preciados, seis da tarde. Ao longe, a massa \nhumana que abarrota a Praça Puerta Del Sol, em Madri, \nse levanta. Um grupo de garotas, ao ver a cena, corre em \ndireção à multidão. Milhares de pessoas fazem ressoar o \nslogan: “Que não, que não, que não nos representem”. \nUm garoto fala pelo megafone: “Demandamos submeter \na referendo o resgate bancário”.\nRODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de Fato, \nSão Paulo, 26 maio-1 jun. 2011(adaptado).\nEm 2011, o acampamento dos Indignados espanhóis \nexpressou \ntodo \no \ndescontentamento \npolítico \nda \njuventude europeia. Que proposta sintetiza o conjunto de \nreivindicações políticas destes jovens?\nA\t Voto universal.\nB\t Democracia direta.\nC\t Pluralidade partidária.\nD\t Autonomia legislativa.\nE\t Imunidade parlamentar.",
+  "processado_em": "2026-05-08T14:00:11.629033",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

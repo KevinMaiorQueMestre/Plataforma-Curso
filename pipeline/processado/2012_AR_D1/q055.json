@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 55\t\nO mecanismo que permite articular uma porta (de \num móvel ou de acesso) é a dobradiça. Normalmente, \nsão necessárias duas ou mais dobradiças para que a \nporta seja fixada no móvel ou no portal, permanecendo \nem equilíbrio e podendo ser articulada com facilidade.\nNo plano, o diagrama vetorial das forças que as \ndobradiças exercem na porta está representado em\nA \nB \nC\nD\nE",
+  "processado_em": "2026-05-08T13:59:02.480600",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

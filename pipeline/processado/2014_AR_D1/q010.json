@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nO jovem espanhol Daniel se sente perdido. \nSeu diploma de desenhista industrial e seu alto \nconhecimento de inglês devem ajudá-lo a tomar um \nrumo. Mas a taxa de desemprego, que supera 52% \nentre os que têm menos de 25 anos, o desnorteia. \nEle está convencido de que seu futuro profissional \nnão está na Espanha, como o de, pelo menos, 120 mil \nconterrâneos que emigraram nos últimos dois anos. \nO irmão dele, que é engenheiro-agrônomo, conseguiu \nemprego no Chile. Atualmente, Daniel participa de \numa “oficina de procura de emprego” em países como \nBrasil, Alemanha e China. A oficina é oferecida por \numa universidade espanhola.\nGUILAYN, P. Na Espanha, universidade ensina a emigrar. O Globo, 17 fev. 2013 (adaptado).\nA situação ilustra uma crise econômica que implica\nA\t valorização do trabalho fabril.\nB\t expansão dos recursos tecnológicos.\nC\t exportação de mão de obra qualificada.\nD\t diversificação dos mercados produtivos.\nE intensificação dos intercâmbios estudantis",
+  "processado_em": "2026-05-08T14:00:27.450976",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

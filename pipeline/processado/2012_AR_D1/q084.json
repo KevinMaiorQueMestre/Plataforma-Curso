@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 84\t\nA falta de conhecimento em relação ao que vem a ser \num material radioativo e quais os efeitos, consequências \ne usos da irradiação pode gerar o medo e a tomada de \ndecisões equivocadas, como a apresentada no exemplo \na seguir.\n“Uma companhia aérea negou-se a transportar \nmaterial médico por este portar um certificado de \nesterilização por irradiação.”\nFísica na Escola, v. 8, n. 2, 2007 (adaptado).\nA decisão tomada pela companhia é equivocada, pois\nA\t o material é incapaz de acumular radiação, não se \ntornando radioativo por ter sido irradiado.\nB\t a utilização de uma embalagem é suficiente para \nbloquear a radiação emitida pelo material.\nC\t a contaminação radioativa do material não se \nprolifera da mesma forma que as infecções por \nmicrorganismos.\nD\t o material irradiado emite radiação de intensidade \nabaixo daquela que ofereceria risco à saúde.\nE\t o intervalo de tempo após a esterilização é suficiente \nt\ni l\nã\nit\ni\ndi\nã",
+  "processado_em": "2026-05-08T13:59:02.519827",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

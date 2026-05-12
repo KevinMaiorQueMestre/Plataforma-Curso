@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nUma loja de roupas fixou uma meta de vendas de \n77 000 reais para um determinado mês de 30 dias. \nO gráfico mostra o volume de vendas dessa loja, em real, \nnos dez primeiros dias do mês e entre o dia dez e o dia \nvinte desse mês, nos seus dois únicos setores (infantil e \nadulto). Suponha que a variação no volume de vendas, \npara o período registrado, tenha se dado de forma linear, \ncomo mostrado no gráfico, e que essa tendência se \nmantenha a mesma para os próximos dez dias.\n18 000\n8 000\n10\n30\n7 000\n15 000\nAdulto\nDias\nInfantil\n20\nAo final do trigésimo dia, quanto faltará no volume de vendas, \nem real, para que a meta fixada para o mês seja alcançada?\nA\t\nA\t 5 000\nB\t\nB\t 7 000\nC\t\nC\t 11 000\nD\t\nD\t 18 000\nE\t\nE\t 29 000",
+  "processado_em": "2026-05-08T14:05:13.406935",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

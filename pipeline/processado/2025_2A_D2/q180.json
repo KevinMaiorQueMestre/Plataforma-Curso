@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 180 \nPretende-se utilizar uma bomba de combustível para abast\nisso vazões σ1 > 0 e σ2 > 0, respectivamente. A aeronave A2 te\nabastecimento, mas A1 está sem combustível. Portanto, passad\nde combustível nas aeronaves são dados por V1 = σ1t e V2 = σ2t \na um valor fixo de 2 litros por segundo, conforme especificado \ninicia no mesmo instante, e o operador da bomba foi orientado p\nVT de combustível após 10 minutos de abastecimento.\nApós ser ajustada, a vazão σ1, em termos do volume VT, é expr\nA \u001f1\n2\n100\n\u001e\n\u001d\nV V\nT\nT\n(\n)\nB \u001f1\n2\n100\n\u001e\n\u001d\nV V\nT\nT\n(\n)\nC \u001f1\n2\n100\n\u001e\n\u001d\nV\nV\nT\nT\nD \u001f1\n2\n100\n\u001e\n\u001d\nV\nV\nT\nT\nE \u001f1\n50\n\u001e\n\u001d\nV\nV\nT\nT",
+  "processado_em": "2026-05-08T14:06:38.775356",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

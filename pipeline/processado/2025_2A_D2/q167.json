@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 167 \nUma fábrica produzirá caixas de papelão com capacidade pa\n dobro do diâmetro de sua base. Essas caixas têm formato de \nA parte superior é tampada por quatro abas (duas grandes e du\nrande ocupa metade da face superior do paralelepípedo, enqua\nessas caixas com as abas abertas.\nEm uma reunião, cinco funcionários apresentaram expressõe\naixa, em função da medida (d) do diâmetro de cada pote.\n• Funcionário 1: 80d 2.\n• Funcionário 2: 104d 2.\n• Funcionário 3: 128d 2.\n• Funcionário 4: 144d 2.\n• Funcionário 5: 152d 2.\nara a fábrica produzir caixas nas condições pretendidas, deverá\nA 1.\nB 2.\nC 3.\nD 4.\nE 5.",
+  "processado_em": "2026-05-08T14:06:38.190776",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

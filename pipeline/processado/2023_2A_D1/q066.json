@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nSuponha-se que seja trazida de súbito a este mundo \numa pessoa dotada das mais poderosas faculdades \nda razão e reflexão. É verdade que ela observaria \nimediatamente um acontecimento seguindo-se a outro, \nmas não conseguiria descobrir nada além disso. Ela não \nseria, no início, capaz de apreender, por meio de nenhum \nraciocínio, a ideia de causa e efeito.\nHUME, D. Investigação sobre o entendimento humano e sobre \nos princípios da moral. São Paulo: Unesp, 2003.",
+  "processado_em": "2026-05-08T14:05:20.331285",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

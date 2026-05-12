@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nEm 1953, o veterinário francês Monsier LeBeau \ndescobriu que um cão de pequeno porte tem um ritmo de \nenvelhecimento maior do que o de um ser humano, sendo \nmais acentuado nos dois primeiros anos de vida. Depois \ndesse tempo, esse ritmo de envelhecimento diminui \ne obtêm-se as seguintes relações:\n•\t um cão de um ano corresponde a um humano de \n15 anos;\n•\t um cão de 2 anos corresponde a um humano de \n24 anos;\n•\t depois de 2 anos de idade, cada ano vivido por um \ncão equivale a quatro anos vividos por humanos.\nDisponível em: http://online.wsj.com. Acesso em: 16 nov. 2014 (adaptado).\nConsidere o dia em que um cão de pequeno porte \ncompletou 6 anos de idade.\nCom base nessas informações, a idade humana, em \nano, correspondente à idade desse cão, nesse dia, é\nA\t\nA\t 90.\nB\t\nB\t 60.\nC\t\nC\t 44.\nD\t\nD\t 40.\nE\t\nE\t 35.",
+  "processado_em": "2026-05-08T14:05:28.325036",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

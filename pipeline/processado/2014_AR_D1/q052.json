@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nA talidomida é um sedativo leve e foi muito utilizado \nQuando foi lançada, era considerada segura para o uso de\ncomposta pelos seus dois enantiômeros (R e S). Entreta\nmalformação congênita, afetando principalmente o desenv\nCOELHO, F. A. S. Fármacos e quiralidad\nEssa malformação congênita ocorre porque esses enantiô\nA\t reagem entre si.\nB\t não podem ser separados.\nC\t não estão presentes em partes iguais.\nD\t interagem de maneira distinta com o organismo.\nE\t são estruturas com diferentes grupos funcionais.",
+  "processado_em": "2026-05-08T14:00:30.332915",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

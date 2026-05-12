@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 150\nUma pessoa pretende viajar por uma companhia \naérea que despacha gratuitamente uma mala com até \n10 kg.\nEm duas viagens que realizou, essa pessoa utilizou \na mesma mala e conseguiu 10 kg com as seguintes \ncombinações de itens:\nViagem\nCamisetas\nCalças\nSapatos\nI\n12\n4\n3\nII\n18\n3\n2\nPara ter certeza de que sua bagagem terá massa de \n10 kg, ela decide levar essa mala com duas calças, um \nsapato e o máximo de camisetas, admitindo que itens do \nmesmo tipo têm a mesma massa.\nQual a quantidade máxima de camisetas que essa \n%\n\t\t\u0004\b\u0002%\u0004\u000f\n\u0007?\u00022\n#\b\u0007\nA  22\nB  24\nC  26\nD  33",
+  "processado_em": "2026-05-08T14:04:31.162619",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

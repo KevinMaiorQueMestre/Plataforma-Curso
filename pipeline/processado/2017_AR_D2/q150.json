@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\t\nUma empresa especializada em conservação de \npiscinas utiliza um produto para tratamento da água cujas \nespecificações técnicas sugerem que seja adicionado \n1,5 mL desse produto para cada 1 000 L de água da \npiscina. Essa empresa foi contratada para cuidar de uma \npiscina de base retangular, de profundidade constante \nigual a 1,7 m, com largura e comprimento iguais a 3 m \ne 5 m, respectivamente. O nível da lâmina d’água dessa \npiscina é mantido a 50 cm da borda da piscina.\nA quantidade desse produto, em mililitro, que deve ser \nadicionada a essa piscina de modo a atender às suas \nespecificações técnicas é\nA\t 11,25.\nB\t 27,00.\nC\t 28,80.\nD\t 32,25.\nE\t 49,50.",
+  "processado_em": "2026-05-11T23:25:53.404004",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

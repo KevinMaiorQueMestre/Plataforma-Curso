@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\t\nPara economizar em suas contas mensais de \nágua, uma família de 10 pessoas deseja construir \num reservatório para armazenar a água captada das \nchuvas, que tenha capacidade suficiente para abastecer \na família por 20 dias. Cada pessoa da família consome, \ndiariamente, 0,08 m3 de água.\nPara que os objetivos da família sejam atingidos, a \ncapacidade mínima, em litros, do reservatório a ser \nconstruído deve ser\nA\t 16.\nB\t 800.\nC\t 1 600.\nD\t 8 000.\nE\t 16 000.",
+  "processado_em": "2026-05-08T14:00:59.297856",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

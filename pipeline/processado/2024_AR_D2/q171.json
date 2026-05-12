@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nPara obter um sólido de revolução (rotação de 360° \nem torno de um eixo fixo), uma professora realizou as \nseguintes etapas:\n•\t recortou o trapézio retângulo PQRS de um \nmaterial rígido;\n•\t afixou o lado PS do trapézio em uma vareta fixa \nretilínea (eixo de rotação);\n•\t girou o trapézio 360° em torno da vareta e obteve \num sólido de revolução.\nObserve a figura que apresenta o trapézio afixado na \nvareta e o sentido de giro.\nO sólido obtido foi um(a)\nA\tcone.\nB\tcilindro.\nC\tpirâmide.\nD\ttronco de cone.\nE\ttronco de pirâmide.",
+  "processado_em": "2026-05-08T14:06:21.406113",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

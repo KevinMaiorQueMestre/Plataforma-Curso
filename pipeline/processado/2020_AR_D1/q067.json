@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 67          \nVale da Grande\nFenda\nVulcões\nDisponível em: https://noticias.uol.com.br. Acesso em: 13 jun. 2018 (adaptado).\nOs aspectos físicos apresentados originam-se da atuação \nda força natural de\nA  colisão de placas tectônicas. \nB  rifteamento da crosta terrestre. \nC  subducção da plataforma oceânica. \nD  formação de cadeias montanhosas.\nE  metamorfi smo de bordas continentais.",
+  "processado_em": "2026-05-11T23:28:05.901757",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

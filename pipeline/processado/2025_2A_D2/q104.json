@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 104 \nA preparação do tetracloreto de carbono, CCl4, substância \nusada como solvente industrial e em procedimentos de análise \nquímica, pode ser feita a partir da reação de clorofórmio \n(CHCl3) com cloro (Cl2), em fase gasosa e em equilíbrio químico, \nrepresentada a seguir:\nCHCl  (g)\nCl  (g)\nCCl  (g)\nHCl (g)\n0\n3\n2\n4\n\u001f\n\u001f\n\u001e\n\u001d\n\nH\nPara maximizar a formação de CCl4, é necessário\nA elevar a temperatura do sistema reacional.\nB reduzir o volume do sistema reacional.\nC aumentar a concentração de HCl.\nD elevar a concentração de CHCl3.\nE reduzir a pressão parcial de Cl",
+  "processado_em": "2026-05-08T14:06:34.983437",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

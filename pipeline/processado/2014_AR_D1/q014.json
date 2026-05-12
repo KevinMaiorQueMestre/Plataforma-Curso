@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 14\t\nUma norma só deve pretender validez quando todos \nos que possam ser concernidos por ela cheguem (ou \npossam chegar), enquanto participantes de um discurso \nprático, a um acordo quanto à validade dessa norma.\nHABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989.\nSegundo Habermas, a validez de uma norma deve ser \nestabelecida pelo(a)\nA\t liberdade humana, que consagra a vontade. \nB\t razão comunicativa, que requer um consenso.\nC\t conhecimento filosófico, que expressa a verdade.\nD\t técnica científica, que aumenta o poder do homem.\nE\t poder político, que se concentra no sistema partidário.",
+  "processado_em": "2026-05-08T14:00:27.589405",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

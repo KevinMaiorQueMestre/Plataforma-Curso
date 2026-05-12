@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 110\nO cladograma demonstra o grau de parentesco entre \ncinco grupos de animais vertebrados.\nSardinha                 Sapo                  Jacaré           Pardal        Coelho\nVértebras\nOvo amniótico\nMembros\nlocomotores e\npulmões\nGlândulas\nmamárias\nAdaptação para voo\nDe acordo com esse cladograma, quais animais \napresentam maior semelhança genética?\nA  Sapo e jacaré.\nB  Jacaré e pardal.\nC  Pardal e coelho.\nD  Sardinha e sapo.\nE  Coelho e sardinha.",
+  "processado_em": "2026-05-08T14:04:14.042296",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

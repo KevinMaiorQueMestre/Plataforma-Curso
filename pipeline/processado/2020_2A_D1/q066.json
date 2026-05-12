@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 66          \nA erosão laminar tem origem na desagregação e \nmovimentação de pequenas partículas do solo causadas \npela ação da água. Para evitá-la, deve-se eliminar o \ndesprendimento causado pelas gotas das chuvas que \ngolpeiam o terreno.\nROCHA, J. S. M. Educação ambiental técnica para os ensinos fundamental, médio e superior.\nSanta Maria: Imprensa Universitária, 1999 (adaptado).\nO processo erosivo descrito no texto é minimizado pela\nA \t inserção de pecuária extensiva.\nB \t manutenção da cobertura vegetal.\nC \t alteração da declividade do relevo.\nD \t construção de barreiras de contenção.\nE \t instalação de medidores pluviométricos.",
+  "processado_em": "2026-05-08T14:03:31.108588",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\nA figura mostra uma praça circular que contém \num chafariz em seu centro e, em seu entorno, um \npasseio. Os círculos que definem a praça e o chafariz \nVmR\u0003FRQFrQWULFRV\u0011\nPraça\nChafariz\nP\na\ns\ns\ne\ni\no\nP\na\ns\ns\ne\ni\no\nP\na\ns\ns\ne\ni\no\nP\na\ns\ns\ne\ni\no\nO passeio terá seu piso revestido com ladrilhos. Sem \ncondições de calcular os raios, pois o chafariz está cheio, \nXP\u0003 HQJHQKHLUR\u0003 IH]\u0003 D\u0003 VHJXLQWH\u0003 PHGLomR\u001d\u0003 HVWLFRX\u0003 XPD\u0003\ntrena tangente ao chafariz, medindo a distância entre \ndois pontos A e B\u000f\u0003FRQIRUPH\u0003D\u0003¿JXUD\u0011\u0003&RP\u0003LVVR\u000f\u0003REWHYH\u0003D\u0003\nmedida do segmento de reta AB: 16 m.\n16 m\nA\nB\nDispondo apenas dessa medida, o engenheiro \ncalculou corretamente a medida da área do passeio, em \nmetro quadrado.\nA medida encontrada pelo engenheiro foi\nA \u0017S\nB 8S\nC \u0017\u001bS\nD \u0019\u0017S\nE \u0014\u001c\u0015S",
+  "processado_em": "2026-05-11T23:26:50.282781",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

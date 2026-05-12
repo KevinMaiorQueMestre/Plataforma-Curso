@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 50          \nSem dúvida, os sons da voz (phone) exprimem a dor \ne o prazer; também a encontramos nos animais em geral; \nsua natureza lhes permite somente sentir a dor e o prazer \ne manifestar-lhes entre si. Mas o lógos é feito para exprimir \no justo e o injusto. Este é o caráter distintivo do homem \nface a todos os outros animais: só ele percebe o bem e \no mal, o justo e o injusto, e os outros valores; é a posse \ncomum desses valores que faz a família e a cidade. \nARISTÓTELES. A política. São Paulo: Nova Cultural, 1987 (adaptado).\nPara o autor, a característica que define o ser humano é \no lógos, que consiste na\nA \t evolução espiritual da alma.\nB \t apreensão gradual da verdade.\nC \t segurança material do indivíduo.\nD \t capacidade racional de discernir.\nE \t possibilidade eventual de transcender.",
+  "processado_em": "2026-05-08T14:03:30.040620",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

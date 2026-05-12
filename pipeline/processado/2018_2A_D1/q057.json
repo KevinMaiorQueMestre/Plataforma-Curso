@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 57\t\nA recente crise generalizada que se instalou na \nprimeira república negra do mundo não pode ser \nentendida de forma pontual e simplória. É necessário \ncompreender sua história, marcada por intervenções, \nregimes ditatoriais, corrupção e desastres ambientais, \noriginando a atual realidade socioeconômica e política \ndo Haiti.\nMORAES, I. A.; ANDRADE, C. A. A.; MATTOS, B. R. B. A imigração haitiana para o Brasil: \ncausas e desafios. Conjuntura Austral, n. 20, 2013.\nNo contexto atual, os problemas enfrentados pelo Haiti \nresultaram em um expressivo fluxo migratório em direção \nao Brasil devido ao seguinte fato:\nA\t Melhores condições de vida.\nB\t Tratamento legal diferenciado.\nC\t Garantia de empregos formais.\nD\t Equivalência de costumes culturais.\nE\t Auxílio para qualificação profissional.",
+  "processado_em": "2026-05-11T23:26:13.096824",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

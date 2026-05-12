@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q006",
+  "imagem": "q006.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 6,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 06\t\nSer ou não ser — eis a questão.\nMorrer — dormir — Dormir! Talvez sonhar. Aí está o obstáculo!\nOs sonhos que hão de vir no sono da morte \nQuando tivermos escapado ao tumulto vital\nNos obrigam a hesitar: e é essa a reflexão\nQue dá à desventura uma vida tão longa.\nSHAKESPEARE, W. Hamlet. Porto Alegre: L&PM, 2007.\nEste solilóquio pode ser considerado um precursor do \nexistencialismo ao enfatizar a tensão entre\nA\t consciência de si e angústia humana.\nB\t inevitabilidade do destino e incerteza moral.\nC\t tragicidade da personagem e ordem do mundo.\nD\t racionalidade argumentativa e loucura iminente.\nE\t dependência paterna e impossibilidade de ação.",
+  "processado_em": "2026-05-08T14:01:02.251332",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

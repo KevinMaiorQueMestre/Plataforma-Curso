@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 13\t\nGirassol da madrugada\nTeu dedo curioso me segue lento no rosto \nOs sulcos, as sombras machucadas por onde a\n[vida passou.\nQue silêncio, prenda minha... Que desvio triunfal\n[da verdade,\nQue círculos vagarosos na lagoa em que uma asa\n[gratuita roçou...\nTive quatro amores eternos... \nO primeiro era moça donzela, \nO segundo... eclipse, boi que fala, cataclisma, \nO terceiro era a rica senhora, \nO quarto és tu... E eu afinal me repousei dos\n[meus cuidados\nANDRADE, M. Poesias completas. Rio de Janeiro: Nova Fronteira, 2013 (fragmento).\nPerante o outro, o eu lírico revela, na força das memórias \nevocadas, a\nA\t\nA\t vergonha das marcas provocadas pela passagem do \ntempo.\nB\t\nB\t indecisão em face das possibilidades afetivas do \npresente.\nC\t\nC\t serenidade sedimentada pela entrega pacífica ao \ndesejo.\nD\t\nD\t frustração causada pela vontade de retorno ao \npassado.\nE\t\nE\t disponibilidade para a exploração do prazer efêmero.",
+  "processado_em": "2026-05-08T14:05:34.690524",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

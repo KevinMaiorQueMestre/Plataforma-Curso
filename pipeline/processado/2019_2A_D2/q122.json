@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 122\t\nO gás hidrogênio é considerado um ótimo \ncombustível — o único produto da combustão \ndesse gás é o vapor de água, como mostrado na \nequação química.\n2 H2 (g) + O2 (g) → 2 H2O (g)\nUm cilindro contém 1 kg de hidrogênio e todo \nesse gás foi queimado. Nessa reação, são rompidas e \nformadas ligações químicas que envolvem as energias \nlistadas no quadro.\nLigação química\nEnergia de ligação\n ( kJ\nmol)\nH−H\n437 \nH−O\n463 \nO=O\n494 \nMassas molares ( g\nmol): H2 = 2; O2 = 32; H2O = 18.\nQual é a variação da entalpia, em quilojoule, da reação \nde combustão do hidrogênio contido no cilindro?\nA\t −242 000\nB\t −121 000\nC\t −2 500\nD\t +110 500\nE\t +234 000",
+  "processado_em": "2026-05-11T23:27:10.082587",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

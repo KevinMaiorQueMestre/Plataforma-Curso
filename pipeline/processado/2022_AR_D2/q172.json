@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nA luminosidade L de uma estrela está relacionada com \no raio R e com a temperatura T dessa estrela segundo a \nLei de Stefan-Boltzmann: L = c ⋅ R 2 ⋅ T 4, em que c é uma \nconstante igual para todas as estrelas.\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\nConsidere duas estrelas E e F, sendo que a estrela E \ntem metade do raio da estrela F e o dobro da temperatura \nde F.\nIndique por LE e LF suas respectivas luminosidades.\nA relação entre as luminosidades dessas duas estrelas é \ndada por\nA\t\nA\t L\nL\nE\nF\n= 2\nB\t\nB\t L\nL\nE\nF\n= 4\nC\t\nC\t LE = LF\nD\t\nD\t LE = 4LF\nE\t\nE\t LE = 8LF",
+  "processado_em": "2026-05-08T14:05:13.009178",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 109\t\nA biomassa celulósica pode ser utilizada para a produç\nque os polissacarídeos sejam convertidos em mono e d\nácido, conforme mostra o esquema:\nO\nOH\nO\nH\nO\nO\nOH\nO\nOH\nO\nH\nO\nH\nO\nO\nH\nO\nH\nO\nOH\nO\nH\nO\nOH\nH\nO\nH\nO\nOH\nO\nH\nO+\nO\nOH\nH\nH\nH\n+\n+\nNessa conversão de polissacarídeos, a função do íon H+ é\nA\t\nA\t dissolver os reagentes.\nB\t\nB\t deslocar o equilíbrio químico.\nC\t\nC\t aumentar a velocidade da reação.\nD\t\nD\t mudar a constante de equilíbrio da reação.\nE\t\nE\t formar ligações de hidrogênio com o polissacarídeo.",
+  "processado_em": "2026-05-08T14:05:09.703969",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

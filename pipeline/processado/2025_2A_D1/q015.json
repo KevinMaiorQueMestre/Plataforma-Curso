@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 15 \nO perfil epidemiológico e os problemas de saúde da \npopulação brasileira mudaram ao longo do último século. \nEstudos longitudinais têm mostrado diminuição na mortalidade \ninfantil, bem como melhorias nos níveis educacionais, aumento \nda cobertura de saneamento básico, melhorias nas habitações \ne aumento nas coberturas de vacinação. Essas mudanças \ncontribuíram para o aumento na expectativa de vida da \npopulação. No entanto, de forma concomitante, houve aumento \ndo excesso de peso corporal e da morbidade e mortalidade por \ndoenças crônicas não transmissíveis. Atualmente, no Brasil, mais \nde 50% dos adultos têm excesso de peso, 14,8% são tabagistas \ne 79,8% não consomem pelo menos cinco porções diárias de \nfrutas, verduras ou legumes. As doenças cardiovasculares, \nrespiratórias crônicas, renais, o diabetes e os cânceres são as \nprincipais causas de morte, hoje, no país. Além disso, inquéritos \nfeitos em amostras de adultos das capitais brasileiras têm \nindicado que 60% deles não praticam nenhum tipo de atividade \nfísica no lazer e cerca de 85% das pessoas não praticam pelo \nmenos 150 minutos de atividade física por semana.\nFLORINDO, A. A. Promoção da atividade física e da alimentação saudável e a \nsaúde da família em municípios com academia da saúde. Revista Brasileira \nEducação Física Esporte n 4 out dez 2016 (adaptado)",
+  "processado_em": "2026-05-08T14:06:26.000603",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

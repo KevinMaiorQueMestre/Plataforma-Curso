@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 62 \nAs 35 minas de sal-gema da Braskem foram escavadas com \ncerca de 1 km de profundidade no período que vai da década de \n1970 até 2019, quando os trabalhos foram interrompidos, depois \ndos primeiros afundamentos. Desde 2018, a catástrofe em \nMaceió vinha ocorrendo em câmera lenta, com o afundamento \nprogressivo do solo. No final de 2019, o processo acelerou, \nchegando a 5 cm por hora em 30 de novembro. Um dia antes, \na prefeitura decretara estado de emergência na cidade, após \no solo ceder quase 2 metros. No início da tarde de 10 de \ndezembro de 2019, a mina 18, sob o bairro Mutange, começou \na desmoronar.\nMORIYAMA, V. Um bairro ameaçado pelo desmoronamento das minas da \nBraskem em Maceió. Disponível em: https://piaui.folha.uol.com.br. \nAcesso em: 16 abr. 2024 (adaptado).\nO problema socioambiental descrito no texto foi causado pela\nA retração do manto terrestre.\nB expansão da margem continental.\nC diminuição do nível dos aquíferos.\nD ampliação dos movimentos de massa.\nE intensificação dos agentes exógenos.",
+  "processado_em": "2026-05-08T14:06:29.691567",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

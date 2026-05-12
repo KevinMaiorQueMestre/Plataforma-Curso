@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 91\t\nTEXTO I\nAs mariposas\nAs mariposa, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]\nBARBOSA, A. Reviva: Adoniran Barbosa. \nSão Paulo: Som Livre, 2002 (fragmento).\nTEXTO II\nAs mariposas se aproximam das lâmpadas atraídas pela luz, \npois, sendo basicamente criaturas noturnas, estão adaptadas \na seguir o brilho da lua, em um processo conhecido como \norientação transversal. Assim, o que o sambista Adoniran \nBarbosa, no Texto I, descreve não é a causa, mas sim uma das \nconsequências possíveis dessa aproximação. De fato, o calor \ngerado pelas lâmpadas, sobretudo as incandescentes, pode \naquecer as mariposas.\nHERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? \nNational Geographic, nov. 2020 (adaptado).\nNesse contexto, o processo de transferência de calor para as \nmariposas que independe da presença de fluidos é a\nA\treflexão.\nB\trefração.\nC\tirradiação.\nD\tdispersão.\nE\tconvecção.\nalém do cumprimento estrito de verificações de segurança. \nNo esquema, estão demonstradas as etapas básicas realizadas \npara a fabricação de uma vacina utilizando a tecnologia tradicional \ne o efeito dela no organismo.\nO antígeno utilizado na vacina causa um efeito protetor contra \no vírus porque\nA\tmata o vírus pela ligação.\nB\taglutina o vírus por associação.\nC\tcontém imunoglobulinas de defesa.\nD induz a produção de proteínas neutralizadoras",
+  "processado_em": "2026-05-11T23:29:52.762001",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 287.0
+  }
+}

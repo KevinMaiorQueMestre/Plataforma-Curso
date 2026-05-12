@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nNos últimos anos, a televisão tem passado por \numa verdadeira revolução, em termos de qualidade de \nimagem, som e interatividade com o telespectador. Essa \ntransformação se deve à conversão do sinal analógico \npara o sinal digital. Entretanto, muitas cidades ainda não \ncontam com essa nova tecnologia. Buscando levar esses \nbenefícios a três cidades, uma emissora de televisão \npretende construir uma nova torre de transmissão, que \nenvie sinal às antenas A, B e C, já existentes nessas \ncidades. As localizações das antenas estão representadas \nno plano cartesiano:\n10\n20\n30\n40\n50\n60\n70\n80\n90\n10\n20\n30\n40\n50\n60\n70\ny (km)\nx (km)\nC\nA\nB\nA torre deve estar situada em um local equidistante \ndas três antenas.\nO local adequado para a construção dessa torre \ncorresponde ao ponto de coordenadas\nA\t (65 ; 35).\nB\t (53 ; 30).\nC\t (45 ; 35).\nD\t (50 ; 20).\nE\t (50 ; 30).",
+  "processado_em": "2026-05-08T14:00:24.232481",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

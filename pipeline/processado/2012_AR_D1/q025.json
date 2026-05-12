@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 25\t\nPara Platão, o que havia de verdadeiro em Parmênides \nera que o objeto de conhecimento é um objeto de razão e \nnão de sensação, e era preciso estabelecer uma relação \nentre objeto racional e objeto sensível ou material que \nprivilegiasse o primeiro em detrimento do segundo. Lenta, \nmas irresistivelmente, a Doutrina das Ideias formava-se \nem sua mente.\nZINGANO, M. Platão e Aristóteles: o fascínio da filosofia. \nSão Paulo: Odysseus, 2012 (adaptado).\nO texto faz referência à relação entre razão e sensação, \num aspecto essencial da Doutrina das Ideias de Platão \n(427 a.C.-346 a.C.). De acordo com o texto, como Platão \nse situa diante dessa relação?\nA\t Estabelecendo um abismo intransponível entre as duas.\nB\t Privilegiando \nos \nsentidos \ne \nsubordinando \no \nconhecimento a eles.\nC\t Atendo-se à posição de Parmênides de que razão e \nsensação são inseparáveis.\nD\t Afirmando que a razão é capaz de gerar conhecimento, \nmas a sensação não.\nE\t Rejeitando a posição de Parmênides de que a \nsensação é superior à razão.",
+  "processado_em": "2026-05-08T13:59:01.995811",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

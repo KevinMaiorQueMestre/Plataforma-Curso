@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 108\t\nNo início do século XX, as fórmulas das substâncias eram rep\nfotografia bem antiga (1909) que registra uma aula de química m\npermite identificar como os compostos químicos eram represen\nO nitrogênio era chamado de azoto e representado pelo sím\noxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a form\nde sódio era representado por NaAzO3.\nEm 1909, as representações das substâncias ácido nítrico e clo\nmesma lógica, seriam, respectivamente:\nA\tHAzO3 e CaCl2\nB\tHAz3O e Ca2Cl\nC\tH3AzO4 e CaCl\nD\tHAz3O e KCl2\nE HAzO2 e KCl",
+  "processado_em": "2026-05-08T14:07:05.837775",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

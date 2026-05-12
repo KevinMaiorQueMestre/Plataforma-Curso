@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 50 \nA Inglaterra passou a subvencionar publicações \nabolicionistas com o intuito de exercer pressão sobre o \nParlamento. Simultaneamente, intensificou sua campanha \ncontra os negreiros. Em total desrespeito à soberania brasileira, \nnavios ingleses invadiram as águas territoriais nacionais em \nsua perseguição aos contrabandistas de escravos.\nCOSTA, E. A Abolição. São Paulo: Edunesp, 2008.\nNa segunda metade do século XIX, o posicionamento do governo \ninglês buscava proibir o(a)\nA intervenção na região platina.\nB autonomia do governo imperial.\nC fluxo internacional de capitais.\nD exploração dos recursos naturais.\nE comércio transatlântico de pessoas.",
+  "processado_em": "2026-05-08T14:06:29.063089",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

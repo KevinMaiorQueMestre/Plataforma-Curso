@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t 159 Hz.\nQuestão 110        \nInstituições acadêmicas e de pesquisa no mundo estão \ninserindo genes em genomas de plantas que possam \ncodificar produtos de interesse farmacológico. No Brasil, \nestá sendo desenvolvida uma variedade de soja com um \nviricida ou microbicida capaz de prevenir a contaminação \npelo vírus causador da aids. Essa leguminosa está sendo \ninduzida a produzir a enzima cianovirina-N, que tem \neficiência comprovada contra o vírus.\nOLIVEIRA, M. Remédio na planta. Pesquisa Fapesp, n. 206, abr. 2013.\nA técnica para gerar essa leguminosa é um exemplo de\nA \t hibridismo.\nB \t transgenia.\nC \t conjugação.\nD \t terapia gênica.\nE \t melhoramento genético.",
+  "processado_em": "2026-05-11T23:28:13.852385",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

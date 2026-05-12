@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 147          \nEm uma campanha promocional de uma loja, um \ncliente gira uma roleta, conforme a apresentada no \nesquema, almejando obter um desconto sobre o valor \ntotal de sua compra. O resultado é o que está marcado na \nregião apontada pela seta, sendo que todas as regiões \nsão congruentes. Além disso, um dispositivo impede \nque a seta venha a apontar exatamente para a linha \nde fronteira entre duas regiões adjacentes. Um cliente \nrealiza uma compra e gira a roleta, torcendo para obter o \ndesconto máximo.\nA probabilidade, em porcentagem, de esse cliente ganhar \no desconto máximo com um único giro da roleta é melhor \naproximada por\nA \t 8,3.\nB \t 10,0.\nC \t 12,5.\nD \t 16,6.\nE \t 50,0",
+  "processado_em": "2026-05-08T14:03:38.592960",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

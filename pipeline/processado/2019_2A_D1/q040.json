@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q040",
+  "imagem": "q040.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 40,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 40\t\nTEXTO I\nTEXTO II\nFotografia em preto e branco de músico da cultura lupa (norte de \nAngola) tocando uma kalimba ou lamelofone.\nManifestação carnavalesca registrada por Debret (1826): escravos \nvestidos como europeus, em cortejo musical, à época do Império.\nINTERNATIONAL Library of African Music, Angola. \n Disponível em: http://keywordsuggest.org. Acesso em: 18 ago. 2017.\nDEBRET, J.-B. Disponível em: http://koyre.ehess.fr. \nAcesso em: 18 ago. 2017.\nO instrumento feito de lâminas metálicas e cabaça é comum a manifestações musicais na África e no Brasil. \nNos textos, apesar de figurarem em contextos geográficos separados pelo Oceano Atlântico e terem cerca de um \nséculo de distanciamento temporal, a semelhança do instrumento demonstra a\nA\t vinculação desses instrumentos com a cultura dos negros escravizados.\nB\t influência da cultura africana na construção da musicalidade brasileira.\nC\t condição de colônia europeia comum ao Brasil e grande parte da África.\nD\t escassez de variedade de instrumentos musicais relacionados à cultura africana.\nE\t importância de registros artísticos na difusão e manutenção de uma tradição musical.",
+  "processado_em": "2026-05-11T23:26:58.965064",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

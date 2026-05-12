@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 81\t\nPaleontólogos estudam fósseis e esqueletos de \ndinossauros para tentar explicar o desaparecimento \ndesses animais. Esses estudos permitem afirmar que \nesses animais foram extintos há cerca de 65 milhões \nde anos. Uma teoria aceita atualmente é a de que um \nasteroide colidiu com a Terra, formando uma densa \nnuvem de poeira na atmosfera.\nDe acordo com essa teoria, a extinção ocorreu em função \nde modificações no planeta que\nA\t desestabilizaram o relógio biológico dos animais, \ncausando alterações no código genético.\nB\t reduziram a penetração da luz solar até a \nsuperfície \nda \nTerra, \ninterferindo \nno \nfluxo \nenergético das teias tróficas.\nC\t causaram uma série de intoxicações nos animais, \nprovocando a bioacumulação de partículas de poeira \nnos organismos.\nD\t resultaram na sedimentação das partículas de poeira \nlevantada com o impacto do meteoro, provocando o \ndesaparecimento de rios e lagos.\nE\t evitaram a precipitação de água até a superfície da \nTerra, causando uma grande seca que impediu a \nretroalimentação do ciclo hidrológico.",
+  "processado_em": "2026-05-08T13:59:02.517063",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

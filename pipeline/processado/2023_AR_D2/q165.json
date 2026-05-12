@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nOs 100 funcionários de uma empresa estão \ndistribuídos em dois setores: Produção e Administração. \nOs funcionários de um mesmo setor recebem salários \ncom valores iguais. O quadro apresenta a quantidade de \nfuncionários por setor e seus respectivos salários.\nSetor\nQuantidade de \nfuncionários\nSalário \n(em real)\nProdução\n75\n2 000,00\nAdministração\n25\n7 000,00\nA média dos salários dos 100 funcionários dessa \nempresa, em real, é\nA\t\nA\t 2 000,00.\nB\t\nB\t 2 500,00.\nC\t\nC\t 3 250,00.\nD\t\nD\t 4 500,00.\nE\t\nE\t 9 000,00.",
+  "processado_em": "2026-05-08T14:05:46.739174",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

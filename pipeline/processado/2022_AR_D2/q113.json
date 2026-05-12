@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\t\nEm 2002, foi publicado um artigo científico que \nrelacionava alterações na produção de hormônios sexuais \nde sapos machos expostos à atrazina, um herbicida, com \no desenvolvimento anômalo de seus caracteres sexuais \nprimários e secundários. Entre os animais sujeitos à \ncontaminação, observaram-se casos de hermafroditismo \ne desmasculinização da laringe. O estudo em questão \ncomparou a concentração de um hormônio específico \nno sangue de machos expostos ao agrotóxico com a de \noutros machos e fêmeas que não o foram (controles). \nOs resultados podem ser vistos na figura.\nMachos\ncontrole\nConcentração do hormônio (ng mL−1)\nMachos\nexpostos\nà atrazina\nFêmeas\ncontrole\n6\n5\n4\n3\n2\n1\n0\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to \nthe Herbicide Atrazine at Low Ecologically Relevant Doses. Proceedings of \nthe National Academy of Sciences, n. 8, 2002 (adaptado). \nCom base nas informações do texto, qual é o hormônio \ncujas concentrações estão representadas na figura?\nA\t\nA\t Estrogênio.\nB\t\nB\t Feromônio.\nC\t\nC\t Testosterona.\nD\t\nD\t Somatotrofina.\nE\t\nE\t Hormônio folículo estimulante.",
+  "processado_em": "2026-05-08T14:05:09.940147",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nTEXTO I\nA sociedade cultiva a violência, inculcando-a nos \nindivíduos como virtude do homem forte, do homem \ncorajoso, do homem honrado, que se arrisca a morrer \npara defender os “valores” que dão sentido à sua vida.\nMULLER, J. M. O princípio da não violência: uma trajetória filosófica.\nSão Paulo: Palas Athena, 2007. \nTEXTO II\nA ideia de a humanidade tomar seu destino nas \npróprias mãos somente faz sentido se atribuirmos \nconsciência e propósito à espécie; as espécies são \napenas correntes na flutuação aleatória dos genes.\nGRAY, J. Cachorros de palha: reflexões sobre humanos e outros animais.\nSão Paulo: Record, 2002.\nOs textos articulam argumentos em torno de dois \nmodelos explicativos da condição humana. Esses \ndois modelos caracterizam-se, respectivamente, por \nvalorizar como determinantes dessa condição elementos\nA\t\nA\t estéticos e éticos.\nB\t\nB\t místicos e científicos.\nC\t\nC\t culturais e biológicos.\nD\t\nD\t emocionais e racionais.\nE\t\nE\t voluntaristas e possibilistas.",
+  "processado_em": "2026-05-08T14:04:43.863691",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

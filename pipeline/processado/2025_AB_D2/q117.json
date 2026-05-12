@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 117\t\nDescobriu-se a provável causa da alteração de cores do \nquadro Flores em um vaso azul, do pintor Van Gogh, de 1887. \nQuando usado em pinturas, o amarelo cádmio (sulfeto de \ncádmio) reage com o ar formando sulfato de cádmio (CdSO4), \nque é um sólido esbranquiçado e solúvel em água, o que faz com \nque os pigmentos percam cor e luminosidade. Para interromper \nesse processo, foi utilizado um verniz. Contudo, após o uso do \nverniz, contendo íons de chumbo (Pb2+), formou-se uma camada \nacinzentada no quadro.\nDisponível em: http://revistapesquisa.fapesp.br. \nAcesso em: 2 out. 2015 (adaptado).\nA equação química que representa o processo de formação da \ncamada acinzentada no quadro é:\nA\tCdSO4 (sólido) + Pb (sólido) → PbSO4 (sólido) + Cd (sólido)\nB\tCdSO4 (sólido) + Pb2+ (solução) → PbSO4 (sólido) + Cd (sólido)\nC\tCdSO4 (sólido) + Pb2+ (solução) → PbSO4 (sólido) + Cd2+ (solução)\nD\tPbSO4 (solução) + Cd2+ (solução) → CdSO4 (sólido) + Pb (sólido)\nE\tPbSO4 (sólido) + Cd2+ (solução) → CdSO4 (sólido) + Pb2+ (solução)",
+  "processado_em": "2026-05-08T14:06:51.077148",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

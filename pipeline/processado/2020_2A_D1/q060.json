@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 60          \nUma sombra pairava sobre as tão esperadas \ndescobertas auríferas: a multidão de aventureiros que \nse espalhara por serras e grotões mostrava-se criminosa \ne desobediente aos ditames da Coroa ou da Igreja. \nCarregavam consigo tantos escravos que o preço da mão \nde obra começara a aumentar na Bahia, Pernambuco \ne Rio de Janeiro. Ao fim de dez anos, a tensão entre \npaulistas e forasteiros, entre autoridades e mineradores, \nsó fazia aumentar.\nDEL PRIORE, M.; VENÂNCIO, R. Uma breve história do Brasil. \nSão Paulo: Planeta, 2010.\nNo contexto abordado, do início do século XVIII, a medida \ntomada pela Coroa lusitana visando garantir a ordem na \nregião foi a\nA \t regulamentação da exploração do trabalho.\nB \t proibição da fixação de comerciantes.\nC \t fundação de núcleos de povoamento.\nD \t revogação da concessão de lavras.\nE \t criação das intendências das minas.",
+  "processado_em": "2026-05-08T14:03:30.768901",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

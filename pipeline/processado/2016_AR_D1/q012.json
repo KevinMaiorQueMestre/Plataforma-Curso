@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q012",
+  "imagem": "q012.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 12,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 12\t\nNo início de maio de 2014, a instalação da \nplataforma petrolífera de perfuração HYSY-981 nas \náguas contestadas do Mar da China Meridional \nsuscitou especulações sobre as motivações chinesas. \nNa avaliação de diversos observadores ocidentais, \nPequim pretendeu, com esse gesto, demonstrar que \npode impor seu controle e dissuadir outros países de \nseguir com suas reivindicações de direito de exploração \ndessas águas, como é o caso do Vietnã e das Filipinas.\nKLARE, M.T. A guerra pelo petróleo se joga no mar. Le Monde Diplomatique Brasil, abr. 2015.\nA ação da China em relação à situação descrita no texto \nevidencia um conflito que tem como foco o(a):\nA\t Distribuição das zonas econômicas especiais.\nB\t Monopólio das inovações tecnológicas extrativas.\nC\t Dinamização da atividade comercial. \nD\t Jurisdição da soberania territorial.\nE\t Embargo da produção industrial.",
+  "processado_em": "2026-05-08T14:01:03.907666",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

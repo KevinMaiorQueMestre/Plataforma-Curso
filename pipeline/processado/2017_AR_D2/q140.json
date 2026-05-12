@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\t\nUma empresa construirá sua página na internet \ne espera atrair um público de aproximadamente um \nmilhão de clientes. Para acessar essa página, será \nnecessária uma senha com formato a ser definido pela \nempresa. Existem cinco opções de formato oferecidas \npelo programador, descritas no quadro, em que “L” e “D” \nrepresentam, respectivamente, letra maiúscula e dígito. \nOpção\nFormato\nI\nLDDDDD\nII\nDDDDDD\nIII\nLLDDDD\nIV\nDDDDD\nV\nLLLDD\nAs letras do alfabeto, entre as 26 possíveis, bem \ncomo os dígitos, entre os 10 possíveis, podem se repetir \nem qualquer das opções.\nA empresa quer escolher uma opção de formato cujo \nnúmero de senhas distintas possíveis seja superior ao \nnúmero esperado de clientes, mas que esse número não \nseja superior ao dobro do número esperado de clientes.\nA opção que mais se adequa às condições da empresa é\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-11T23:25:52.774636",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

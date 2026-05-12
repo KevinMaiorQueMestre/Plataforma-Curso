@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nNo mercado de valores, denominam-se ativos \ndiversos produtos que podem ser negociados em \nmercados de valores (ações de uma companhia, moeda \nestrangeira, metais preciosos, entre outros).\nCurioso para descobrir o melhor momento para \nvender um ativo, um jovem perguntou a um corretor o que \nfazer. Ele respondeu que sempre sugere a seus clientes \nque verifiquem o gráfico que representa a variação, nas \núltimas horas, do preço do ativo que lhes interessa, \numa vez que são de fácil leitura, pois são formados por \nsegmentos de reta. Um bom momento para vender é \nimediatamente após o gráfico apresentar dois períodos \nconsecutivos cujos segmentos têm inclinação positiva, \nsendo que no segundo a inclinação é maior ou igual a \n45°. Para exemplificar, mostrou ao jovem o gráfico a \nseguir, no qual se observa a variação do preço de um \nativo num período de 19 horas.\nPreço (R$)\nTempo\n(h)\n27,90\n27,23\n23,92\n22,93\n30\n26,52\n26,01\n25,19\n23,92\n23,92\n1 2 3,5\n6\n8\n11 12\n15\n17\n19\nEm quantos períodos a variação do preço do ativo, \napresentada no gráfico, indicava que era um bom \nmomento para efetuar a venda?\nA\t\nA\t 7\nB\t\nB\t 4\nC\t\nC\t 3\nD\t\nD\t 2\nE\t\nE\t 1",
+  "processado_em": "2026-05-08T14:04:51.235271",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 132\t\nA filtração em carvão é uma das mais antigas formas de \npurificação de água. O carvão ativado, diferentemente do carvão \ncomum, é útil para ser empregado na remoção de material \norgânico, cloro e outros contaminantes. Essa capacidade decorre \nde suas propriedades de adsorção. A origem do material utilizado \npara produzir o carvão ativado pode influenciar sua porosidade \ne, consequentemente, interferir na capacidade do material de \nremover impurezas. Na figura, é ilustrada esquematicamente \na diferença entre as estruturas físicas do carvão comum e do \ncarvão ativado.\nCORRÊA, M. A. Cosmetologia: ciência e técnica. \nSão Paulo: Medfarma, 2012 (adaptado).\nQual característica do carvão ativado explica a sua maior \neficiência nesse processo?\nA\tMassa.\nB\tDureza.\nC\tDensidade.\nD\tSuperfície.\nE\tCondutividade.",
+  "processado_em": "2026-05-08T14:07:08.089077",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

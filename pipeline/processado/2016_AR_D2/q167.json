@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 27\nQUESTÃO 167\t\nPreocupada com seus resultados, uma empresa fez \num balanço dos lucros obtidos nos últimos sete meses, \nconforme dados do quadro.\nMês\nI\nII\nIII\nIV\nV\nVI\nVII\nLucro \n(em milhões de reais)\n37\n33\n35\n22\n30\n35\n25\nAvaliando os resultados, o conselho diretor da \nempresa decidiu comprar, nos dois meses subsequentes, \na mesma quantidade de matéria-prima comprada no mês \nem que o lucro mais se aproximou da média dos lucros \nmensais dessa empresa nesse período de sete meses.\nNos próximos dois meses, essa empresa deverá comprar \na mesma quantidade de matéria-prima comprada no mês\nA\t I.\nB\t II.\nC\t IV.\nD\t V.\nE\t VII.",
+  "processado_em": "2026-05-08T14:01:23.886327",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 58\t\nAtlas Geográfico. Rio de Janeiro: IBGE, 1986. Disponível em: www.ibge.gov.br. Acesso em: 16 ago. 2014 (adaptado).\nA partida final da Copa do Mundo de 2014 aconteceu no dia 13 de julho, às 16 horas, na cidade do Rio de Janeiro. \nConsiderando o horário de verão em Berlim, de 1 hora, os telespectadores alemães assistiram ao apito inicial do \njuiz às\nA\t 11 horas.\nB\t 12 horas.\nC\t 19 horas.\nD\t 20 horas.\nE\t 21 horas.",
+  "processado_em": "2026-05-11T23:27:01.598103",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

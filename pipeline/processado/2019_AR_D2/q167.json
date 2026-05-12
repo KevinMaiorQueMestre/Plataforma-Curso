@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 167\t\nO Sistema Métrico Decimal é o mais utilizado \natualmente para medir comprimentos e distâncias. \nEm algumas atividades, porém, é possível observar \na utilização de diferentes unidades de medida. \nUm exemplo disso pode ser observado no quadro.\nUnidade\nEquivalência\nPolegada\n2,54 centímetros\nJarda\n3 pés\nJarda\n0,9144 metro\nAssim, um pé, em polegada, equivale a\nA\t 0,1200.\nB\t 0,3048.\nC\t 1,0800.\nD\t 12,0000.\nE\t 36,0000.",
+  "processado_em": "2026-05-11T23:27:37.764795",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

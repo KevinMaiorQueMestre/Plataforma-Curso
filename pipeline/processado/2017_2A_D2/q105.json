@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\nSabendo-se que as enzimas podem ter sua atividade regulada por diferentes condições de temperatura e \npH, foi realizado um experimento para testar as condições ótimas para a atividade de uma determinada enzima. \n2V\u0003UHVXOWDGRV\u0003HVWmR\u0003DSUHVHQWDGRV\u0003QR\u0003JUi¿FR\u0011\n10 °C, pH<7\n20 °C, pH<7\n30 °C, pH<7\n10 °C, pH>8\n20 °C, pH>8\n30 °C, pH>8\nAtividade da enzima\n(P\u0003UHODomR\u0003DR\u0003IXQFLRQDPHQWR\u0003GD\u0003HQ]LPD\u000f\u0003RV\u0003UHVXOWDGRV\u0003REWLGRV\u0003LQGLFDP\u0003TXH\u0003R\u000bD\f\nA aumento do pH leva a uma atividade maior da enzima.\nB WHPSHUDWXUD\u0003EDL[D\u0003\u000b\u0014\u0013\u0003&\f\u0003p\u0003R\u0003SULQFLSDO\u0003LQLELGRU\u0003GD\u0003HQ]LPD\u0011\nC DPELHQWH\u0003EiVLFR\u0003UHGX]\u0003D\u0003TXDQWLGDGH\u0003GH\u0003HQ]LPD\u0003QHFHVViULD\u0003QD\u0003UHDomR\u0011\nD ambiente básico reduz a quantidade de substrato metabolizado pela enzima.\nE temperatura ótima de funcionamento da enzima é 30 °C, independentemente do pH.",
+  "processado_em": "2026-05-11T23:25:26.578103",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

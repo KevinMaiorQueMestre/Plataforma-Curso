@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 177\t\nUma empresa especializou-se no aluguel de \ncontêineres que são utilizados como unidades comerciais \nmóveis. O modelo padrão alugado pela empresa tem \naltura de 2,4 m e as outras duas dimensões (largura e \ncomprimento), 3,0 m e 7,0 m, respectivamente.\n3,0 m\n7,0 m\n2,4 m\nUm cliente solicitou um contêiner com altura padrão, \nporém, com largura 40% maior e comprimento 20% \nmenor que as correspondentes medidas do modelo \npadrão. Para atender às necessidades de mercado, a \nempresa também disponibiliza um estoque de outros \nmodelos de contêineres, conforme o quadro.\nModelos com \naltura de 2,4 m\nLargura  \n(em metro)\nComprimento \n(em metro)\n I \n4,2 \n8,4 \nII \n4,2 \n5,6 \nIII \n4,2 \n5,8 \nIV \n5,0 \n5,6 \nV \n5,0 \n8,4 \nDos modelos disponíveis, qual atende às necessidades \ndo cliente?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-11T23:27:13.956818",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

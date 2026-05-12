@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 55\t\nA “invenção” dessa nova anatomia política não deve \nser entendida como uma descoberta súbita. Mas como uma \nmultiplicidade de processos muitas vezes mínimos, de origens \ndiferentes, de localizações esparsas, que se recordam, que se \nrepetem, ou se imitam, apoiam-se uns sobre os outros e esboçam \naos poucos a fachada de um método geral. Encontramo-los \nem funcionamento nos colégios, muito cedo; mais tarde, nas \nescolas primárias, no espaço hospitalar e na organização militar.\nFOUCAULT, M. Vigiar e punir. Petrópolis: Vozes, 2011.\nO texto indica o seguinte aspecto da disciplina como ferramenta \npolítica:\nA\tExpansão das técnicas de suplício.\nB\tJudicialização das relações de poder.\nC\tDissolução das distinções de nobreza.\nD\tCapilarização das práticas de controle.\nE\tEspetacularização das medidas de penitência.",
+  "processado_em": "2026-05-08T14:07:00.926087",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

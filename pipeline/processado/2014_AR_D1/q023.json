@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 23\t\nTrês décadas — de 1884 a 1914 — separam o século XIX \n— que terminou com a corrida dos países europeus para a \nÁfrica e com o surgimento dos movimentos de unificação \nnacional na Europa — do século XX, que começou com \na Primeira Guerra Mundial. É o período do Imperialismo, \nda quietude estagnante na Europa e dos acontecimentos \nempolgantes na Ásia e na África. \nARENDT, H. As origens do totalitarismo. São Paulo: Cia. das Letras, 2012.",
+  "processado_em": "2026-05-08T14:00:28.135412",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

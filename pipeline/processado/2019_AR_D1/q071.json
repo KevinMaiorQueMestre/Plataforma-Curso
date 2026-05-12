@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 71\t\nNo sistema capitalista, as muitas manifestações \nde crise criam condições que forçam a algum tipo de \nracionalização. Em geral, essas crises periódicas têm o \nefeito de expandir a capacidade produtiva e de renovar \nas condições de acumulação. Podemos conceber cada \ncrise como uma mudança do processo de acumulação \npara um nível novo e superior.\nHARVEY, D. A produção capitalista do espaço. \nSão Paulo: Annablume, 2005 (adaptado).\nA condição para a inclusão dos trabalhadores no novo \nprocesso produtivo descrito no texto é a\nA\t associação sindical.\nB\t participação eleitoral.\nC\t migração internacional.\nD\t qualificação profissional.\nE\t regulamentação funcional.",
+  "processado_em": "2026-05-11T23:27:26.101011",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

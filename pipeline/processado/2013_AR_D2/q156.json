@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nAs torres Puerta de Europa são duas torres inclinadas \numa contra a outra, construídas numa avenida de Madri, \nna Espanha. A inclinação das torres é de 15° com a vertical \ne elas têm, cada uma, uma altura de 114 m (a altura é \nindicada na figura como o segmento AB). Estas torres são \num bom exemplo de um prisma oblíquo de base quadrada \ne uma delas pode ser observada na imagem.\nDisponível em: www.flickr.com. Acesso em: 27 mar. 2012.\nUtilizando 0,26 como valor aproximado para a \ntangente de 15° e duas casas decimais nas operações, \ndescobre-se que a área da base desse prédio ocupa \nna avenida um espaço\nA\t menor que 100 m2.\nB\t entre 100 m2 e 300 m2.\nC\t entre 300 m2 e 500 m2.\nD\t entre 500 m2 e 700 m2.\nE\t maior que 700 m2.",
+  "processado_em": "2026-05-08T14:00:23.686214",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

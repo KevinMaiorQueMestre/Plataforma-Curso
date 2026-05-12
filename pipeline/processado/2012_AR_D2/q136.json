@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 136\t\nO diretor de uma escola convidou os 280 alunos \nde terceiro ano a participarem de uma brincadeira. \nSuponha que existem 5 objetos e 6 personagens \nnuma casa de 9 cômodos; um dos personagens \nesconde um dos objetos em um dos cômodos da casa. \nO objetivo da brincadeira é adivinhar qual objeto foi \nescondido por qual personagem e em qual cômodo da \ncasa o objeto foi escondido.\nTodos os alunos decidiram participar. A cada vez um \naluno é sorteado e dá a sua resposta. As respostas  devem \nser sempre distintas das anteriores, e um mesmo aluno \nnão pode ser sorteado mais de uma vez. Se a resposta \ndo aluno estiver correta, ele é declarado vencedor e a \nbrincadeira é encerrada.\nO diretor sabe que algum aluno acertará a resposta \nporque há\nA\t 10 alunos a mais do que possíveis respostas distintas.\nB\t 20 alunos a mais do que possíveis respostas distintas.\nC\t 119 alunos a mais do que possíveis respostas distintas.\nD\t 260 alunos a mais do que possíveis respostas distintas.\nE 270 alunos a mais do que possíveis respostas distintas.",
+  "processado_em": "2026-05-08T13:59:43.636648",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

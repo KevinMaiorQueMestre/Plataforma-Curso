@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 165\t\nEm uma loja de informática, 5 dispositivos de armazenage\ngigabytes (GB): 32, 64, 128, 256 e 512. Nessa loja, esses disposit\nsão determinados considerando-se R$ 10,00 por GB.\nQual é o termo geral da sequência desses preços?\nA\t2n+4\nB\t5 ⋅ 2n+6\nC\t10 ⋅ 2n+4\nD\t10 ⋅ (2n + 4)\nE\t10 ⋅ (2n-1 + 32)",
+  "processado_em": "2026-05-08T14:06:53.738610",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

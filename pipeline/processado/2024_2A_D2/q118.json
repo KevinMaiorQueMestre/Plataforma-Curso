@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 118\t\nA hipertensão arterial é um problema de saúde que \nse agrava pelo crescente consumo de sal rico em sódio. \nO consumo máximo diário recomendado pelo Ministério da \nSaúde é de, aproximadamente, 5 g de NaCl. No entanto, \nos brasileiros consomem em média 12 g desse sal por dia. \nPor isso, a indústria lançou no mercado o chamado sal \nlight, que apresenta um teor reduzido de cloreto de sódio. \nSua composição é cerca de 50% de NaCl e 50% de KCl, \nem massa.\nMassas molares: \nNa = 23 g\nmol; Cl = 35,5 g\nmol; K = 39 g\nmol\nPesquisa de orçamentos familiares: análise do consumo alimentar \npessoal no Brasil. Disponível em: www.biblioteca.ibge.gov.br. \nAcesso em: 27 nov. 2019 (adaptado).\nAinda que os brasileiros consumam apenas sal light, a massa \nde sódio ingerida em excesso será mais próxima de\nA\t0,4 g.\nB\t1,0 g.\nC\t1,4 g.\nD\t2,8 g.\nE\t3,5 g.",
+  "processado_em": "2026-05-08T14:06:02.455110",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

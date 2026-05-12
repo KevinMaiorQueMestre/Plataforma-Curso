@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nA imigração foi um dos principais temas durante \na campanha eleitoral que antecedeu o referendo de 2016, \nno qual a população britânica optou pelo Brexit, ou seja, \npor deixar a União Europeia. O governo do primeiro-ministro \nBoris Johnson, que apoiou o Brexit, já anunciou que pretende \ndiminuir drasticamente o número de imigrantes e retomar \no “controle total” sobre as fronteiras. Setores que dependem \nda mão de obra estrangeira reagiram imediatamente \ne argumentaram que poderá faltar pessoal em clínicas, \nrestaurantes, bares e nas lavouras. Isso, afirmam, poderá \nprejudicar duramente a quinta maior economia do mundo.\nReino Unido dificulta imigração no pós-Brexit. Disponível em: \nwww.dw.com. Acesso em: 6 out. 2021 (adaptado).\nO temor da política apresentada no texto expõe a \ndependência do país à\nA\tcirculação da força de trabalho.\nB\timposição do sindicato patronal.\nC\tadoção da tecnologia digital.\nD\toscilação do mercado financeiro.\nE\tpromoção de assistência pública.",
+  "processado_em": "2026-05-08T14:05:56.568287",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

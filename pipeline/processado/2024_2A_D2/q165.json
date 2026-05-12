@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nUma fábrica de produtos químicos utiliza, para \narmazenar a sua produção, recipientes na forma de cilindros \ncirculares retos, com 1 metro de altura e raio externo da \nbase igual a 25 cm. Para facilitar o transporte desse tipo \nde recipiente, cada um deles será colocado dentro de uma \ncaixa, na forma de paralelepípedo retangular reto de base \nquadrada, e com a mesma altura do cilindro. A empresa \ndeseja construir a menor caixa possível em que possa \ncolocar cada cilindro.\nDe acordo com o texto, a medida interna do lado da base \nda caixa, em centímetro, a ser construída será igual a\nA\t25.\nB\t35.\nC\t39.\nD\t50.\nE\t157.",
+  "processado_em": "2026-05-08T14:06:05.198361",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

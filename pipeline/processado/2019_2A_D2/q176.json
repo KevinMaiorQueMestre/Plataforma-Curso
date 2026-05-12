@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 176\t\nPara decorar sua casa, uma pessoa comprou um \nvaso de vidro em forma de um paralelepípedo retangular, \ncujas medidas internas são: 40 cm de comprimento, \n35 cm de largura e 60 cm de altura. Em seguida, foi \naté uma floricultura e escolheu uma planta aquática \npara colocar nesse vaso. Segundo uma proposta do \ngerente do local, essa pessoa avaliou a possibilidade \nde enfeitar o vaso colocando uma certa quantidade de \npedrinhas artificiais brancas, de volume igual a 100 cm3 \ncada uma delas, que ficarão totalmente imersas na água \nque será colocada no vaso. O gerente alertou que seria \nadequado, em função da planta escolhida, que metade \ndo volume do vaso fosse preenchido com água e que, \napós as pedrinhas colocadas, a altura da água deveria \nfi\n10\nd\nt\nd\nd\nd\ná\nl",
+  "processado_em": "2026-05-11T23:27:13.848117",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

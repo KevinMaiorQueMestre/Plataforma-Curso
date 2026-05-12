@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nEscrito durante a Primeira Guerra Mundial, o seguinte \ntrecho faz parte da carta enviada pelo secretário do exterior \nbritânico, Sir Arthur James Balfour, ao banqueiro Lord \nRotschild, presidente da Liga Sionista, em 2 de novembro \nde 1917, a carta ficou conhecida como Declaração Balfour:\n“O governo de Sua Majestade vê com aprovação o \nestabelecimento na Palestina de um lar nacional para \no povo judeu, e fará todos os esforços para facilitar tal \nobjetivo. Nada será feito que possa prejudicar os direitos \ncivis e religiosos das comunidades não judaicas na \nPalestina.”\nGATTAZ, A. A Guerra da Palestina. São Paulo: Usina do Livro, 2002 (adaptado).\nA análise do resultado do processo em questão revela que \no governo inglês foi incapaz de garantir seu objetivo de\nA\t\nA\t promover o bem-estar social.\nB\t\nB\t negociar o apoio muçulmano.\nC\t\nC\t mediar os conflitos territoriais.\nD\t\nD\t estimular a cooperação regional.\nE\t\nE\t combater os governos autocráticos.",
+  "processado_em": "2026-05-08T14:05:36.968014",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

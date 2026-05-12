@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 105\t\nPesquisadores descobriram que uma espécie de \nabelha sem ferrão nativa do Brasil — a mandaguari \n(Scaptotrigona depilis) — cultiva um fungo nos ninhos \ndentro da colmeia. Após observações, verificaram \nque a sobrevivência das larvas da abelha depende da \ningestão de filamentos do fungo, que produz metabólitos \nsecundários com ação antimicrobiana, antitumoral e \nimunológica, além da alimentação convencional. Por \nsua vez, o fungo depende da abelha para se reproduzir \ne garante a sua multiplicação ao longo das gerações.\nMIURA, J. Pequenas agricultoras: abelhas Mandaguari cultivam \nfungos para alimentar suas larvas. Disponível em: \nwww.embrapa.br. Acesso em: 3 maio 2019 (adaptado).\nO uso de fungicida ocasionaria à colmeia dessa \nespécie o(a)\nA\t controle de pragas.\nB\t acúmulo de resíduos.\nC\t ampliação de espaço.\nD\t redução da população.\nE\t incremento de alimento.",
+  "processado_em": "2026-05-11T23:27:08.581236",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q045",
+  "imagem": "q045.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 45,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 45\t\nTEXTO I\nBRACCO, A; LOSCHI, M. Quando rotas se tornam arte. Retratos: a revista do IBGE. \nRio de Janeiro, n. 3, set. 2017 (adaptado).\nTEXTO II\nStephen Lund, artista canadense, morador em \nVictoria, capital da Colúmbia Britânica (Canadá), \ntransformou-se em fenômeno mundial produzindo obras \nde arte virtuais pedalando sua bike. Seguindo rotas \ntraçadas com o auxílio de um dispositivo de GPS, ele \ncalcula ter percorrido mais de 10 mil quilômetros.\nDisponível em: www.booooooom.com. Acesso em: 9 dez. 2017 (adaptado).\nOs textos destacam a inovação artística proposta por \nStephen Lund a partir do(a)\nA\t deslocamento das tecnologias de suas funções habituais.\nB\t perspectiva de funcionamento do dispositivo de GPS.\nC\t ato de guiar sua bicicleta pelas ruas da cidade.\nD\t análise dos problemas de mobilidade urbana.\nE\t foco na promoção cultural da sua cidade.",
+  "processado_em": "2026-05-11T23:26:37.550676",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

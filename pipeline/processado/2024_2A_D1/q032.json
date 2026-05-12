@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 32\t\nComo dois e dois são quatro\nSei que a vida vale a pena\nEmbora o pão seja caro\nE a liberdade pequena\nComo teus olhos são claros\nE a tua pele, morena\nComo é azul o oceano\nE a lagoa, serena\nComo um tempo de alegria\nPor trás do terror me acena\nE a noite carrega o dia\nNo seu colo de açucena\nSei que dois e dois são quatro\nsei que a vida vale a pena\nmesmo que o pão seja caro\ne a liberdade pequena\nGULLAR, F. Dentro da noite veloz. Rio de Janeiro: \nCivilização Brasileira, 1975.\nEm diálogo com importante fato da história política brasileira, \no poema de Ferreira Gullar instaura tensivamente um olhar\nA\trevigorado acerca do futuro sociopolítico do país.\nB\tconformado com o limitado exercício dos direitos políticos.\nC\tsaudosista ao lembrar momentos em que imperava a \npaz social.\nD\tesperançoso em relação à melhoria da política \neconômica nacional.\nE\tracional ao propor uma solução matemática para as \nturbulências políticas.",
+  "processado_em": "2026-05-08T14:05:53.311305",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

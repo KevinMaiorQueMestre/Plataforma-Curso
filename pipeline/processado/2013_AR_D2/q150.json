@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\t\nFoi realizado um levantamento nos 200 hotéis de uma \ncidade, no qual foram anotados os valores, em reais, das \ndiárias para um quarto padrão de casal e a quantidade de \nhotéis para cada valor da diária. Os valores das diárias \nforam: A = R$ 200,00; B = R$ 300,00; C = R$ 400,00 \ne D = R$ 600,00. No gráfico, as áreas representam as \nquantidades de hotéis pesquisados, em porcentagem, \npara cada valor da diária.\n40%\n25%\n25%\n10%\nA\nB\nD\nC\nO valor mediano da diária, em reais, para o quarto padrão \nde casal nessa cidade, é\nA\t 300,00.\nB\t 345,00.\nC\t 350,00.\nD\t 375,00.\nE\t 400,00.",
+  "processado_em": "2026-05-08T14:00:23.430089",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

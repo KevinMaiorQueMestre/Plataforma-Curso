@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nUma empresa de transporte faz regularmente um leva\npor todos os 160 motoristas cadastrados em seu aplicativo\ngráfico de barras, no qual se relacionaram a quantidade d\naquele instante do dia.\nQuantidade de viagens realizadas\nQuantidade d\n0\n5\n10\n15\n20\n2\n7\n6\n4\n3\n2\n1\n5\nComparando os valores da média, da mediana e da mod\npelos motoristas cadastrados nessa empresa, obtém-se\nA\t\nA\t mediana = média < moda.\nB\t\nB\t mediana = moda < média.\nC\t\nC\t mediana < média < moda.\nD\t\nD\t moda < média < mediana.\nE\t\nE\t moda < mediana < média.",
+  "processado_em": "2026-05-08T14:05:45.645822",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

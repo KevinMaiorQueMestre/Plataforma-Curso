@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 131\t\nO ácido úsnico é retirado de liquens e foi testado contra \ndiversas espécies, conforme o quadro.\nTeste\nResultado\nAedes aegypti (larvas)\nBaixa eficiência\nBacilo de Koch\nMédia eficiência\nMoluscos aquáticos (adultos)\nAlta eficiência\nPernilongo (larvas)\nMédia eficiência\nVermes platelmintos\nIneficiente\nO ácido úsnico mostrou-se mais indicado para o controle da\nA\tesquistossomose.\nB\tfebre amarela.\nC\tcoqueluche.\nD\ttuberculose.\nE dengue",
+  "processado_em": "2026-05-08T14:07:08.035944",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

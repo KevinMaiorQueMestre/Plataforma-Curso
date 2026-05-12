@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 108\t\nBrasil fecha 2020 entre os maiores\nA bauxita contém alumina (Al2O3), que é a matéria-p\nnecessários 50 kg de bauxita para produzir 10 kg de alum\nmundiais em reciclagem de latas de alumínio. De acordo c\nde Latas de Alumínio (Abralatas), o país obteve um índice d\nde latas vendidas. Considere que a lata é constituída de a\nDisponível em\nLevando em conta apenas a reciclagem de latas, qual é o \ndeixou de ser extraída da natureza em 2020 no Brasil?\nA\t1,0 × 104 ton\nB\t3,9 × 105 ton\nC\t5,0 × 105 ton\nD\t1,9 × 106 ton\nE 2,0 × 107 ton",
+  "processado_em": "2026-05-08T14:06:17.649353",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

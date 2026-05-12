@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nCom o avanço das multifunções dos dispositivos \neletrônicos \nportáteis, \ncomo \nos \nsmartphones, \no \ngerenciamento \nda \nduração \nda \nbateria \ndesses \nequipamentos torna-se cada vez mais crítico. O manual \nde um telefone celular diz que a quantidade de carga \nfornecida pela sua bateria é de 1 500 mAh.\nA quantidade de carga fornecida por essa bateria, em \ncoulomb, é de\nA\t 90.\nB\t 1 500.\nC\t 5 400.\nD\t 90 000.\nE\t 5 400 000.",
+  "processado_em": "2026-05-11T23:26:22.339704",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

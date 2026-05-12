@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 03\t\n¿Qué es la X Solidaria?\nLa X Solidaria es una equis que ayuda a las personas \nmás vulnerables. Podrás marcarla cuando hagas la \ndeclaración de la renta. Es la casilla que se denomina \n“Fines Sociales”. Nosotros preferimos llamarla X Solidaria:\n•\t porque al marcarla haces que se destine un 0,7% \nde tus impuestos a programas sociales que realizan \nlas ONG.\n•\t porque \nse \nbenefician \nlos \ncolectivos \nmás \ndesfavorecidos, sin ningún coste económico para ti.\n•\t porque NO marcarla es tomar una actitud pasiva, \ny dejar que sea el Estado quien decida el destino de \nesa parte de tus impuestos.\n•\t porque marcándola te conviertes en contribuyente \nactivo solidario.\nDisponível em: http://xsolidaria.org. Acesso em: 20 fev. 2012 (adaptado).\nAs ações solidárias contribuem para o enfrentamento \nde problemas sociais. No texto, a ação solidária ocorre \nquando o contribuinte\nA\t delega ao governo o destino de seus impostos.\nB\t escolhe projetos que terão isenção de impostos.\nC\t destina parte de seus impostos para custeio de \nprogramas sociais.\nD\t determina a criação de impostos para implantação de \nprojetos sociais.\nE\t seleciona \nprogramas \npara \nbeneficiar \ncidadãos \nvulneráveis socialmente.",
+  "processado_em": "2026-05-11T23:26:28.052169",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

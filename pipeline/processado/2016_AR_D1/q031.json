@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 31\t\nTEXTO I\nMais de 50 mil refugiados entraram no território \nhúngaro apenas no primeiro semestre de 2015. \nBudapeste lançou os “trabalhos preparatórios” para a \nconstrução de um muro de quatro metros de altura e \n175 km ao longo de sua fronteira com a Sérvia, informou \no ministro húngaro das Relações Exteriores. “Uma \nresposta comum da União Europeia a este desafio da \nimigração é muito demorada, e a Hungria não pode \nesperar. Temos que agir”, justificou o ministro.\nDisponível em: www.portugues.rfi.fr. Acesso em: 19 jun. 2015 (adaptado).\nTEXTO II\nO Alto Comissariado das Nações Unidas para \nRefugiados (ACNUR) critica as manifestações de \nxenofobia adotadas pelo governo da Hungria. O país foi \ninvadido por cartazes nos quais o chefe do executivo insta \nos imigrantes a respeitarem as leis e a não “roubarem” \nos empregos dos húngaros. Para o ACNUR, a medida é \nsurpreendente, pois a xenofobia costuma ser instigada \npor pequenos grupos radicais e não pelo próprio governo \ndo país.\nDisponível em: http://pt.euronews.com. Acesso em: 19 jun. 2015 (adaptado).\nO posicionamento governamental citado nos textos é \ncriticado pelo ACNUR por ser considerado um caminho \npara o(a)\nA\t alteração do regime político.\nB\t fragilização da supremacia nacional.\nC\t expansão dos domínios geográficos.\nD\t cerceamento da liberdade de expressão.\nE\t fortalecimento das práticas de discriminação.",
+  "processado_em": "2026-05-08T14:01:05.512156",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 23\t\nTEXTO I\nOs trabalhos da exposição Adriana Varejão: suturas, fissuras, \nruínas colocam em pauta o exame da história visual, das tradições \niconográficas europeias e do fazer artístico ocidental. O corte, \na rachadura, o talho e a fissura são elementos de narrativas \nrecorrentes nos trabalhos da artista desde 1992. As produções \nrecentes incluem pinturas tridimensionais de grande escala das \nséries Ruínas de charque e Línguas.\nDisponível em: https://pinacoteca.org.br. \nAcesso em: 10 jan. 2025 (adaptado).\nTEXTO II\nVAREJÃO, A. Azulejaria em carne viva. Óleo sobre tela, poliuretano, \nmadeira e alumínio, 160 × 200 × 25 cm. 1999.\nDisponível em: www.adrianavarejao.net. Acesso em: 10 jan. 2025.\nA utilização de recursos visuais como suturas, cortes e ruínas por \nAdriana Varejão, na obra Azulejaria em carne viva, remete à(s)\nA\tsobreposição da cultura brasileira à arte portuguesa.\nB\tmanutenção da representação realista na arte brasileira.\nC\tviolências desencadeadas pelo processo colonial brasileiro.\nD\tdesigualdades nos incentivos à produção artística brasileira.\nE\tnegligência na conservação do patrimônio arquitetônico \nluso-brasileiro",
+  "processado_em": "2026-05-08T14:06:58.582266",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

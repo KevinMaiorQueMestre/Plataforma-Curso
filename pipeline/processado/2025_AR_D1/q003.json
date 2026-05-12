@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questões de 01 a 05 (opção espanhol)\nQuestão 03",
+  "processado_em": "2026-05-11T23:29:49.313745",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 287.0
+  }
+}

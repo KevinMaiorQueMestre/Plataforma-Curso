@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 155\t\nAs curvas de oferta e de demanda de um produto \nrepresentam, respectivamente, as quantidades que \nvendedores e consumidores estão dispostos a \ncomercializar em função do preço do produto. Em alguns \ncasos, essas curvas podem ser representadas por retas. \nSuponha que as quantidades de oferta e de demanda \nde um produto sejam, respectivamente, representadas \npelas equações:\nQO = –20 + 4P\nQD = 46 – 2P\nem que QO é quantidade de oferta, QD é a quantidade de \ndemanda e P é o preço do produto.\nA partir dessas equações, de oferta e de demanda, os \neconomistas encontram o preço de equilíbrio de mercado, \nou seja, quando QO e QD se igualam.\nPara a situação descrita, qual o valor do preço de equilíbrio?\nA\t 5\nB\t 11\nC\t 13\nD\t 23\nE\t 33",
+  "processado_em": "2026-05-08T13:59:53.321291",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

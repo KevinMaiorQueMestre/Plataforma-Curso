@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nEm um placar acirrado (quatro votos a três), a \nSuprema Corte dos EUA decidiu que a cota racial \nconquistada por negros(as) e latinos(as) para admissão \nde novos(as) alunos(as) nas universidades não viola \no princípio de igualdade perante a lei. Portanto, não é \ninconstitucional, como foi alegado. Nos EUA, a cota racial \né chamada de “ação afirmativa”.\n MELO, J. O. Suprema Corte mantém cota racial para universidades dos EUA. \nDisponível em: www.conjur.com.br. Acesso em: 12 nov. 2021 (adaptado).\nA decisão da Suprema Corte, com impacto sobre o \nsistema educacional estadunidense, objetivou garantir a \nA\t\nA\t obtenção do perdão judicial.\nB\t\nB\t anulação das dívidas estudantis.\nC\t\nC\t aprovação dos cursos superiores.\nD\t\nD\t utilização dos recursos estrangeiros.\nE\t\nE\t promoção da diversidade acadêmica.",
+  "processado_em": "2026-05-08T14:04:42.673825",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 175\t\nUm confeiteiro passou a produzir tortas em formato de \ncilindro circular reto, com raio da base variando entre 12 cm e \n16 cm e altura de 6 cm. Essas tortas deverão ser embaladas em \ncaixas com formato de prisma reto de base quadrada, de modo \nque seja possível acomodar a torta em seu interior e ainda restar \npelo menos 1 cm de distância entre a torta e as superfícies internas \nda caixa, lateral e superior. Ele dispõe, originalmente, de caixas \nno formato pretendido, cujas dimensões internas são 14 cm de \ncomprimento do lado da base e 7 cm de altura, que não atendem \nàs suas necessidades. Portanto, ele comprará novas caixas, com \no mesmo formato das caixas originais, mas com comprimento do \nlado da base maior, que sejam adequadas para embalar todos \nos tipos de torta que produz.\nA aresta da base das novas caixas deve ser, no mínimo, quantos \ncentímetros maior do que a das caixas originais?\nA\t4\nB\t12\nC\t16\nD\t18\nE\t20",
+  "processado_em": "2026-05-08T14:07:10.534995",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

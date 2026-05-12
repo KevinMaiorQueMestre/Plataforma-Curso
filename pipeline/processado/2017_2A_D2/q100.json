@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\n$\u0003FpOXOD\u0003IRWRYROWDLFD\u0003p\u0003XPD\u0003DSOLFDomR\u0003SUiWLFD\u0003GR\u0003HIHLWR\u0003\nfotoelétrico. Quando a luz incide sobre certas substâncias, \nlibera elétrons que, circulando livremente de átomo \npara átomo, formam uma corrente elétrica. Uma célula \nfotovoltaica é composta por uma placa de ferro recoberta \npor uma camada de selênio e uma película transparente \nde ouro. A luz atravessa a película, incide sobre o selênio \nH\u0003UHWLUD\u0003HOpWURQV\u000f\u0003TXH\u0003VmR\u0003DWUDtGRV\u0003SHOR\u0003RXUR\u000f\u0003XP\u0003yWLPR\u0003\ncondutor de eletricidade. A película de ouro é conectada à \nplaca de ferro, que recebe os elétrons e os devolve para \no selênio, fechando o circuito e formando uma corrente \nelétrica de pequena intensidade.\nDIAS, C. B. Célula fotovoltaica. Disponível em: http://super.abril.com.br. \n$FHVVR\u0003HP\u001d\u0003\u0014\u0019\u0003DJR\u0011\u0003\u0015\u0013\u0014\u0015\u0003\u000bDGDSWDGR\f\u0011\nO processo biológico que se assemelha ao descrito é a\nA fotossíntese.\nB IHUPHQWDomR\u0011\nC quimiossíntese.\nD hidrólise de ATP.\nE UHVSLUDomR\u0003FHOXODU\u0011",
+  "processado_em": "2026-05-11T23:25:26.131348",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nO glifosato (C3H8NO5P) é um herbicida pertencente \nao grupo químico das glicinas, classificado como não \nseletivo. Esse composto possui os grupos funcionais \ncarboxilato, amino e fosfonato. A degradação do glifosato \nno solo é muito rápida e realizada por grande variedade \nde microrganismos, que usam o produto como fonte \nde energia e fósforo. Os produtos da degradação são \no ácido aminometilfosfônico (AMPA) e o N-metilglicina \n(sarcosina):\nGlifosato\nSarcosina\nAMPA\nH3C\nNH\nO\nOH\nH2N\nO\nOH\nOH\nP\nAMARANTE JR., O. P. et al. Química Nova, São Paulo, v. 25, n. 3, 2002 (adaptado).\nA partir do texto e dos produtos de degradação \napresentados, a estrutura química que representa o \nglifosato é:\nA \nO\nOH\nOH\nP\nH2N\nO\nO\n \nB\nO\nOH\nOH\nP\nHO\nO\nNH\n \nC\nHO\nO\nNH2 O\nOH\nOH\nP\n \nD\nO\nOH\nOH\nP\nH2N\nO\nO\n \nE\nO\nOH\nOH\nP\nO\nH2N\nO\nO",
+  "processado_em": "2026-05-08T14:00:13.568872",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

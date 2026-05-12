@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nO Black Lives Matter vai para além do nacionalismo \nestreito que pode prevalecer no seio das comunidades \nnegras, que se limita a apelar aos negros a amar \nos negros, viver como os negros e comprar produtos \ndos negros, e mantém à frente do movimento homens \nnegros heterossexuais. Black Lives Matter estima as \nvidas dos negros e negras homossexuais e transexuais, \npessoas incapacitadas, negros sem documentos ou com \nantecedentes criminais, mulheres e as vidas de todos os \nnegros de todo o espectro de gêneros.\nLA BOTZ, D. O movimento Black Lives Matter organiza-se e procura \ndefinir-se politicamente. Disponível em: www.ufes.br. \nAcesso em: 4 out. 2021 (adaptado).\nA reivindicação do movimento norte-americano apresentada \nno texto consiste na necessidade de\nA\tmanter a conquista de direitos sociais.\nB\tintegrar a diversidade do grupo identitário.\nC\tpriorizar a preservação de culturas africanas.\nD\tdefender a adoção de valores supremacistas.\nE\tpermitir a permanência do modelo androcêntrico.",
+  "processado_em": "2026-05-08T14:06:12.003599",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

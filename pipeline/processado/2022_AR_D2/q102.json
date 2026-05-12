@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 102\t\nDe modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de \ncanela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” \napresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram \nelucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos \nque continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas \neletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais.\nH\nO\nO\nCH3\nO\nOH\nCH3\nO\nC\nH3\nH\nO\nOH\nO\nCH3\nCH2\nO\nH\nO\nC\nH3\nH\nO\nBenzaldeído\n(no óleo de amêndoas)\nSalicilato de metila\n(no óleo de gaultéria)\nAnetol\n(no óleo de anis)\nVanilina\n(no óleo de baunilha)\nEugenol\n(no óleo de cravos)\nCinamaldeído\n(no óleo de canela)\nSOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica. Rio de Janeiro: LTC, 2009 (adaptado).\nA característica estrutural dessa família de compostos é a presença de \nA\t\nA\t ramificações.\nB\t\nB\t insaturações.\nC\t\nC\t anel benzênico.\nD\t\nD\t átomos de oxigênio.\nE\t\nE\t carbonos assimétricos.",
+  "processado_em": "2026-05-11T23:28:58.964562",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

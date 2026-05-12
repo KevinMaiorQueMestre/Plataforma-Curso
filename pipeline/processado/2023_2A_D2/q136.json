@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\t\nNo ano em que uma empresa lançou seu novo modelo \nde celular no mercado brasileiro, investiu 45 milhões de \nreais no primeiro semestre em cada uma das cinco regiões \ndo país, colocando à venda 30 mil aparelhos por região. \nNo primeiro semestre, todos os aparelhos colocados \nà venda foram vendidos, gerando um lucro total de \n30 milhões de reais. No segundo semestre, a empresa \ndecidiu que faria o mesmo investimento e colocou à \nvenda as mesmas quantidades de aparelhos por região. \nPor causa da demanda observada, a empresa considerou \nque todos os aparelhos desse modelo que fossem \nofertados sejam vendidos e, além disso, planeja obter um \nlucro total 10% maior no segundo semestre do que o que \nobteve no primeiro.\nPara que essa empresa alcance o lucro planejado, qual \ndeve ser o valor de venda, em real, de um aparelho \ncelular desse modelo, no segundo semestre desse ano?\nA\t\nA\t R$ 1 650,00\nB\t\nB\t R$ 1 720,00\nC\t\nC\t R$ 1 870,00\nD\t\nD\t R$ 2 500,00\nE\t\nE\t R$ 2 600,00",
+  "processado_em": "2026-05-08T14:05:26.564810",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

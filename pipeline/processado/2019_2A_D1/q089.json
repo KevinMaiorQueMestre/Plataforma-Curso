@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 89\t\nNo litoral sudeste, especialmente na região de \nCabo Frio (RJ), ocorre, por vezes, um fenômeno \ninteressante, que abaixa a temperatura da água do \nmar a até 14 °C, nos meses de janeiro e fevereiro. \nIsso acontece devido ao vento, que, no verão, sopra \nconstantemente da direção nordeste. Assim, esse \nvento constante empurra as águas da superfície, \nque haviam sofrido insolação e, portanto, estavam \naquecidas (em torno de 26 °C), para o oceano aberto. \nOrigina-se, então, uma lacuna de água junto à costa, \nque é preenchida por águas profundas, bem mais \nfrias, que sobem e atingem a superfície. A ascensão \ndas águas frias é chamada de ressurgência.\nVIEIRA, A. C. M.; ALVES, D. S. C.; MATSCHINSKE, E. G. Influência \ndas correntes oceânicas no clima do Brasil. Disponível em: \nhttp://portal.mec.gov.br. Acesso em: 10 out. 2015.\nUma importância econômica do fenômeno apresentado \nreside no fato de que ele favorece o surgimento de\nA\t recifes de corais, atraindo o turismo.\nB\t áreas de cardumes, beneficiando a pesca.\nC\t zonas de calmaria, facilitando a navegação.\nD\t locais de águas límpidas, favorecendo o mergulho.\nE\t campos de sedimentos orgânicos, formando o petróleo.",
+  "processado_em": "2026-05-11T23:27:02.934596",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q028",
+  "imagem": "q028.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 28,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 28\t\nA Comissão Nacional da Verdade (CNV) reuniu \nrepresentantes de comissões estaduais e de várias \ninstituições para apresentar um balanço dos trabalhos \nfeitos e assinar termos de cooperação com quatro \norganizações. O coordenador da CNV estima que, até \no momento, a comissão examinou, “por baixo”, cerca de \n30 milhões de páginas de documentos e fez centenas \nde entrevistas.\nDisponível em: www.jb.com.br. Acesso em: 2 mar. 2013 (adaptado).\nA notícia descreve uma iniciativa do Estado que resultou \nda ação de diversos movimentos sociais no Brasil diante \nde eventos ocorridos entre 1964 e 1988. O objetivo dessa \niniciativa é\nA\t anular a anistia concedida aos chefes militares.\nB\t rever as condenações judiciais aos presos políticos.\nC\t perdoar \nos \ncrimes \natribuídos \naos \nmilitantes \nesquerdistas.\nD\t comprovar o apoio da sociedade aos golpistas \nanticomunistas.\nE\t esclarecer as circunstâncias de violações aos direitos \nhumanos.",
+  "processado_em": "2026-05-08T14:00:28.545050",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

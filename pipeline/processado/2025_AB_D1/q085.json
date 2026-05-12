@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 85\t\nComo estratégia para minimizar os efeitos dos longos \nperíodos cíclicos de escassez hídrica no estado do Ceará, diversos \nreservatórios foram construídos ao longo de décadas, além de \ncanais e sistemas de transposição que conduzem água ao principal \nsistema de abastecimento da região metropolitana de Fortaleza. \nContudo, em um cenário no qual novos desafios são postos, ações \ndistintas das tradicionalmente adotadas podem complementar as \nsoluções anteriores, dando uma segurança a mais ao sistema que \nantes não contemplava as incertezas climáticas que hoje temos. \nNessa perspectiva, a Companhia de Água e Esgoto do Estado do \nCeará tem sido demandada para criar alternativas de abastecimento \nque fortaleçam a matriz hídrica do estado, em especial da região \nmetropolitana de Fortaleza, responsável pela maior demanda \nde água para consumo humano e fortemente dependente da \nimportação de água de bacias distantes (do interior).\nDisponível em: www.cagece.com.br. Acesso em: 14 out. 2023 (adaptado).\nUma estratégia para viabilizar a manutenção do fornecimento de \nágua para a região metropolitana mencionada, sem comprometer \na disponibilidade desse recurso para o interior do estado, é a\nA\tampliação das redes de distribuição.\nB\tdiversificação da produção de energia.\nC\tcriação de projetos de desvios fluviais.\nD\taplicação da técnica de dessalinização.\nE\texpansão do tratamento de resíduos sólidos.",
+  "processado_em": "2026-05-08T14:06:47.669701",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

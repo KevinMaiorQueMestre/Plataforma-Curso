@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 97\t\nNuma feira de ciências, um estudante utilizará o \ndisco de Maxwell (ioiô) para demonstrar o princípio da \nconservação da energia. A apresentação consistirá em \nduas etapas:\nEtapa 1 - a explicação de que, à medida que o disco \ndesce, parte de sua energia potencial gravitacional \né transformada em energia cinética de translação e \nenergia cinética de rotação;\nEtapa 2 - o cálculo da energia cinética de rotação do \ndisco no ponto mais baixo de sua trajetória, supondo o \nsistema conservativo.\nAo preparar a segunda etapa, ele considera a \naceleração da gravidade igual a 10 m s−2 e a velocidade \nlinear do centro de massa do disco desprezível em \ncomparação com a velocidade angular. Em seguida, \nmede a altura do topo do disco em relação ao chão no \nponto mais baixo de sua trajetória, obtendo 1\n3  da altura \nda haste do brinquedo.\nAs especificações de tamanho do brinquedo, isto é, \nde comprimento (C), largura (L) e altura (A), assim como \nda massa de seu disco de metal, foram encontradas \npelo estudante no recorte de manual ilustrado a seguir.\nConteúdo: base de metal, hastes metálicas,\nbarra superior, disco de metal.\nTamanho (C × L × A): 300 mm × 100 mm × 410 mm\nMassa do disco de metal: 30 g\n2h\n3\nh\nO resultado do cálculo da etapa 2, em joule, é:\nA\t 4,10 × 10−2\nB\t 8,20 × 10−2\nC\t 1,23 × 10−1\nD\t 8,20 × 104\nE\t 1,23 × 105",
+  "processado_em": "2026-05-11T23:27:32.573430",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

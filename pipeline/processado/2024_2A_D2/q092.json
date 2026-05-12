@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\tDiminuição da carga viral nas cobaias.\nB\tSupressão do sistema imune das cobaias.\nC\tElevada taxa de mutação dos vírus ativos.\nD\tPerda da memória imunológica das cobaias.\nE\tMudança da janela imunológica dos animais testados.\nQUESTÃO 92\t\nA abordagem científica do termo força aparece na frase\nA\t1.\nB\t2.\nC\t3.\nD\t4.\nE\t5.\nNEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2",
+  "processado_em": "2026-05-11T23:29:25.018677",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 284.3
+  }
+}

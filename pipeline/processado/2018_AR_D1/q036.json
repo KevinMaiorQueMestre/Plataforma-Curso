@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nO rio que fazia uma volta atrás de nossa casa era a\nimagem de um vidro mole que fazia uma volta atrás\nde casa.\nPassou um homem e disse: Essa volta que o\nrio faz por trás de sua casa se chama enseada.\nNão era mais a imagem de uma cobra de vidro que\nfazia uma volta atrás de casa.\nEra uma enseada.\nAcho que o nome empobreceu a imagem.\nBARROS, M. O livro das ignorãças. Rio de Janeiro: Best Seller, 2008.\nO sujeito poético questiona o uso do vocábulo “enseada” \nporque a\nA\t terminologia mencionada é incorreta.\nB\t nomeação minimiza a percepção subjetiva.\nC\t palavra é aplicada a outro espaço geográfico.\nD\t designação atribuída ao termo é desconhecida.\nE\t definição modifica o significado do termo no dicionário.",
+  "processado_em": "2026-05-11T23:26:36.050324",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

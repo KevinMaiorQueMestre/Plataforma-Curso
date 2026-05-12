@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 138\t\nO gráfico a seguir mostra a evolução mensal das \nvendas de certo produto de julho a novembro de 2011.\nSabe-se que o mês de julho foi o pior momento da \nempresa em 2011 e que o número de unidades vendidas \ndesse produto em dezembro de 2011 foi igual à média \naritmética do número de unidades vendidas nos meses \nde julho a novembro do mesmo ano.\nO gerente de vendas disse, em uma reunião da \ndiretoria, que, se essa redução no número de unidades \nvendidas de novembro para dezembro de 2011 se \nmantivesse constante nos meses subsequentes, as \nvendas só voltariam a ficar piores que julho de 2011 \napenas no final de 2012.\nO diretor financeiro rebateu imediatamente esse \nargumento mostrando que, mantida a tendência, \nisso aconteceria já em\nA\t janeiro.\nB\t fevereiro.\nC\t março.\nD\t abril.\nE\t maio.\nUnidades\nvendidas\n2 800\n2 700\n2 500\n700\nJul\nAgo\nSet\nOut\nNov\nMês",
+  "processado_em": "2026-05-11T23:27:35.458820",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

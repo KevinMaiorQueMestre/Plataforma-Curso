@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 101\t\nA utilização de corantes na indústria de alimentos é bastante difundida e a escolha por corantes naturais vem \nsendo mais explorada por diversas razões. A seguir são mostradas três estruturas de corantes naturais.\nBixina (presente no urucum)\nLicopeno (presente no tomate)\nβ-caroteno (presente na cenoura e na laranja)\nCOOCH3\nHOOC\nHAMERSKI, L.; REZENDE, M. J. C.; SILVA, B. V. Usando as cores da natureza para atender aos desejos do consumidor: \nsubstâncias naturais como corantes na indústria alimentícia. Revista Virtual de Química, n. 3, 2013.\nA propriedade comum às estruturas que confere cor a esses compostos é a presença de\nA\t cadeia conjugada.\nB\t cadeia ramificada.\nC\t átomos de carbonos terciários.\nD\t ligações duplas de configuração cis.\nE\t átomos de carbonos de hibridação sp3.",
+  "processado_em": "2026-05-11T23:27:32.770491",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 61\t\nO corpo de cidadãos é o poder supremo dos Estados. \nA supremacia pode residir ou num homem, ou na minoria, \nou em todos. Sempre que o Um, ou a Minoria, ou Todos governam, \ntendo em vista o bem-estar comum, essas constituições são \njustas; mas se procuram apenas o benefício de uma das partes, \nseja ela o Um, a Minoria ou Todos, estabelece-se um desvio.\nARISTÓTELES. Política. São Paulo: Nova Cultural, 2000.\nNo excerto encontra-se a base da teoria clássica das três formas \nde governo representadas pela\nA\ttirania, oligarquia e república.\nB\tburocracia, autarquia e império.\nC\tditadura, autocracia e anarquia.\nD\tplutocracia, tecnocracia e demagogia.\nE monarquia aristocracia e democracia",
+  "processado_em": "2026-05-08T14:07:01.689204",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

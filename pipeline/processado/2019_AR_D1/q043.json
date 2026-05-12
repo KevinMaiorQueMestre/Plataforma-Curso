@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 43\t\nDisponível em: www.tecmundo.com.br. \nAcesso em: 10 dez. 2018 (adaptado).\nO texto tem o formato de uma carta de jogo e apresenta \ndados a respeito de Marcelo Gleiser, premiado \npesquisador brasileiro da atualidade. Essa apresentação \nsubverte um gênero textual ao\nA\t vincular áreas distintas do conhecimento.\nB\t evidenciar a formação acadêmica do pesquisador.\nC\t relacionar \no \nuniverso \nlúdico \na \ninformações \nbiográficas.\nD\t especificar as contribuições mais conhecidas \ndo pesquisador.\nE\t destacar o nome do pesquisador e sua imagem \nno início do texto.",
+  "processado_em": "2026-05-11T23:27:24.431018",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

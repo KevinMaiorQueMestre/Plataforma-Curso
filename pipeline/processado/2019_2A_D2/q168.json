@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 168\t\nEm um trabalho escolar, um aluno fez uma planta \ndo seu bairro, utilizando a escala 1 : 500, sendo que as \nquadras possuem as mesmas medidas, conforme a figura.\nPonte\n9 cm\n8 cm\n20 cm\nO professor constatou que o aluno esqueceu de \ncolocar a medida do comprimento da ponte na planta, \nmas foi informado por ele que ela media 73 m.\nO valor a ser colocado na planta, em centímetro, \nreferente ao comprimento da ponte deve ser\nA\t 1,46.\nB\t 6,8.\nC\t 14,6.\nD\t 68.\nE\t 146.",
+  "processado_em": "2026-05-11T23:27:13.455510",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

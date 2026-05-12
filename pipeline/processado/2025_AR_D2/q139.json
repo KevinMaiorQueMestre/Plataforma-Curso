@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 139\t\nUma empresa de tecnologia vai padronizar a velocidade de \nconexão de internet que oferece a seus clientes em dez cidades. \nA direção da empresa decide que seu novo padrão de velocidade de \nreferência será a mediana dos valores das velocidades de referência \nde conexões nessas dez cidades. Esses valores, em megabyte \npor segundo (MB/s), são apresentados no quadro.\nCidades\nVelocidade de referência (MB/s)\nC1\n390\nC2\n380\nC3\n320\nC4\n390\nC5\n340\nC6\n380\nC7\n390\nC8\n400\nC9\n350\nC10\n360\nA velocidade de referência, em megabyte por segundo, a ser \nadotada por essa empresa é\nA\t360.\nB\t370.\nC\t380.\nD\t390.\nE 400",
+  "processado_em": "2026-05-08T14:07:08.403735",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

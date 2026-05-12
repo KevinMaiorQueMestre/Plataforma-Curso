@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 04\t\nAMARILDO. Disponível em: www.amarildo.com.br. Acesso em: 3 mar. 2013.\nNa charge há uma crítica ao processo produtivo agrícola \nbrasileiro relacionada ao \nA\t elevado preço das mercadorias no comércio.\nB\t aumento da demanda por produtos naturais.\nC\t crescimento da produção de alimentos.\nD\t hábito de adquirir derivados industriais. \nE\t uso de agrotóxicos nas plantações.",
+  "processado_em": "2026-05-08T14:00:42.493683",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

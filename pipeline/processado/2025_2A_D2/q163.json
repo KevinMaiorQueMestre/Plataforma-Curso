@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 163 \nUm país decidiu investir em programas de reeducação alime\nde investimento, distribuídos de acordo com a idade média da p\nNível de investimento\nI\nII\nIII\nIV\nV\nEm uma cidade desse país, 70% da população obesa era com\nde 50 anos, e a média de idade das mulheres obesas era de 30 a\nO nível de investimento recebido por essa cidade foi o\nA I.\nB II.\nC III.\nD IV.\nE V.",
+  "processado_em": "2026-05-08T14:06:38.002627",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

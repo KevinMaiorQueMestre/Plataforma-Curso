@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 76\t\nEssa atmosfera de loucura e irrealidade, criada \npela aparente ausência de propósitos, é a verdadeira \ncortina de ferro que esconde dos olhos do mundo \ntodas as formas de campos de concentração. Vistos de \nfora, os campos e o que neles acontece só podem ser \ndescritos com imagens extraterrenas, como se a vida \nfosse neles separada das finalidades deste mundo. \nMais que o arame farpado, é a irrealidade dos detentos \nque ele confina que provoca uma crueldade tão incrível \nque termina levando à aceitação do extermínio como \nsolução perfeitamente normal.\nARENDT, H. Origens do totalitarismo. São Paulo: \nCia. das Letras, 1989 (adaptado).\nA partir da análise da autora, no encontro das \ntemporalidades históricas, evidencia-se uma crítica à \nnaturalização do(a)\nA\t ideário nacional, que legitima as desigualdades sociais.\nB\t alienação ideológica, que justifica as ações individuais.\nC\t cosmologia religiosa, que sustenta as tradições \nhierárquicas.\nD\t segregação humana, que fundamenta os projetos \nbiopolíticos.\nE\t enquadramento \ncultural, \nque \nfavorece \nos \ncomportamentos punitivos.",
+  "processado_em": "2026-05-11T23:27:26.368283",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

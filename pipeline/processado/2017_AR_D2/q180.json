@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nPara decorar uma mesa de festa infantil, um chefe de \ncozinha usará um melão esférico com diâmetro medindo \n10 cm, o qual servirá de suporte para espetar diversos \ndoces. Ele irá retirar uma calota esférica do melão, \nconforme ilustra a figura, e, para garantir a estabilidade \ndeste suporte, dificultando que o melão role sobre a \nmesa, o chefe fará o corte de modo que o raio r da seção \ncircular de corte seja de pelo menos 3 cm. Por outro lado, \no chefe desejará dispor da maior área possível da região \nem que serão afixados os doces.\nh\nO\nA\nB\nr\nRegião onde serão\nafixados os doces \nA parte hachurada \nserá apoiada \nna mesa\nCalota a ser cortada \ne eliminada\nPara atingir todos os seus objetivos, o chefe deverá cortar \na calota do melão numa altura h, em centímetro, igual a\nA\n5\n91\n2\n−\nB 10\n91\n−\nC 1\nD 4\nE 5",
+  "processado_em": "2026-05-11T23:25:58.268754",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

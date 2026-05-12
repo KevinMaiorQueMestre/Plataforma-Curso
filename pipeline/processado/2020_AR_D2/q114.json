@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t A e B.\nB \t A e C.\nC \t B e C.\nD \t B e D.\nE \t C e D.\nQuestão 114        \nOs diferentes tipos de café que consumimos nem \nsempre vêm da mesma espécie de planta. As duas \nespécies de café mais utilizadas são Coffea canephora \ne Coffea arabica. A primeira é diploide (2n = 22) e a \nsegunda é tetraploide (2n = 44). Acredita-se que a \nespécie tetraploide surgiu de um cruzamento natural \nentre C. canephora e C. eugenioides, ambas diploides, \nhá milhões de anos. De fato, as análises genéticas atuais \nnos cromossomos de C. arabica detectam os alelos de \nambas as origens.\nA alteração cromossômica que poderia explicar o \nsurgimento do café da espécie C. arabica é:\nA \t Duplicação em uma das plantas parentais antes do \ncruzamento.\nB \t Inversão durante a meiose gamética em ambas as \nplantas parentais.\nC \t Separação desigual na meiose gamética de uma das \nplantas parentais.\nD \t Falha na separação durante a meiose gamética em \nambas as plantas parentais.\nE \t Deleções durante as primeiras mitoses zigóticas na \nplanta descendente C. arabica.",
+  "processado_em": "2026-05-11T23:28:14.031248",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

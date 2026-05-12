@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nUma loja acompanhou o número de compradores \nde dois produtos, A e B, durante os meses de janeiro, \nfevereiro e março de 2012. Com isso, obteve este gráfico:\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\n10\n20\n30\n20\n60\n80\nJaneiro\nFevereiro\nMarço\nA\nB\nNúmero de compradores\nA loja sorteará um brinde entre os compradores do \nproduto A e outro brinde entre os compradores do produto B.\nQual a probabilidade de que os dois sorteados tenham \nfeito suas compras em fevereiro de 2012?\nA 1\n20\nB\n3\n242\nC\n5\n22\nD\n6\n25\nE\n7\n15",
+  "processado_em": "2026-05-08T14:00:23.056092",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

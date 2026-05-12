@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nA um príncipe, portanto, não é necessário ter de fato \ntodas as qualidades, mas é indispensável parecer tê-las. \nAliás, ousarei dizer que, se as tiver e utilizar sempre, \nserão danosas, enquanto, se parecer tê-las, serão úteis. \nAssim, deves parecer clemente, fiel, humano, íntegro, \nreligioso — e sê-lo, mas com a condição de estares com \no ânimo disposto a, quando necessário, não o seres, de \nmodo que possas e saibas como tornar-te o contrário.\n MAQUIAVEL, N. O príncipe. São Paulo: Martins Fontes, 2004 (adaptado).\nSegundo o autor, a conquista e a conservação do poder \npolítico exigem a\nA\t\nA\t flexibilidade moral do monarca.\nB\t\nB\t retomada dos valores cristãos.\nC\t\nC\t consulta periódica dos cidadãos.\nD\t\nD\t adoção do imperativo categórico.\nE\t\nE\t liberdade incondicional do estadista.",
+  "processado_em": "2026-05-08T14:04:41.556879",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

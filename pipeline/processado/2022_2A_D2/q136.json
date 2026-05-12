@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\t\nDemografia médica é o estudo da população de \nmédicos sob vários aspectos quantitativos e qualitativos. \nUm dos componentes desse estudo é a densidade \nmédica, a qual é obtida dividindo-se o número de médicos \nregistrados no Conselho Federal de Medicina (CFM) \nem uma região pela respectiva quantidade de pessoas \nda Unidade Federativa (UF) correspondente à região \nem estudo. A tabela apresenta informações sobre cinco \nunidades federativas, relativamente ao total de médicos \nregistrados no CFM e à população existente.\nUF\nTotal de \nmédicos\nPopulação\n(em milhar)\nDistrito Federal\n10 800\n2 650\nMinas Gerais\n40 400\n19 900\nSão Paulo\n110 450 \n41 900\nSergipe\n3 000\n2 120\nPiauí\n3 300\n3 140\nDisponível em: www.cremesp.org.br. Acesso em: 24 jun. 2015 (adaptado).\nDentre as unidades federativas indicadas, qual apresenta \na maior densidade médica?\nA\t\nA\t Distrito Federal.\nB\t\nB\t Minas Gerais.\nC\t\nC\t São Paulo.\nD\t\nD\t Sergipe.\nE\t\nE\t Piauí.",
+  "processado_em": "2026-05-08T14:04:48.956384",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

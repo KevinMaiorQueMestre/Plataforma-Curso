@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q016",
+  "imagem": "q016.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 16,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 16\t\nSímbolos\nEu e tu, ante a noite e o amplo desdobramento\ndo mar, fero, a estourar de encontro à rocha nua...\nUm símbolo descubro aqui, neste momento\nesta rocha, este mar... a minha vida e a tua.\nO mar vem, o mar vai, nele há o gesto violento\nde quem maltrata e, após, se arrepende e recua.\nComo compreendo bem da rocha o sentimento!\nSão muito iguais, por certo, a minha mágoa e a sua.\nContemplo neste quadro a nossa triste vida;\ntu és dúbio mar que, na sua inconsciência,\ntem carinhos de amor e fúrias de demência!\nEu sou a dor estanque, a dor empedernida,\nsou rocha a emergir de um côncavo de areia,\nimóvel, muda, isenta e alheia ao mar, alheia.\nMACHADO, G. Poesia completa. Rio de Janeiro: \nCátedra/MEC 1978",
+  "processado_em": "2026-05-08T14:06:57.957935",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

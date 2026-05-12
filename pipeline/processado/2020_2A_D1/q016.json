@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q016",
+  "imagem": "q016.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 16,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 16          \nO Brasil (descrição física e política)\nO Brasil é um país maior do que os menores e \nmenor do que os maiores. É um país grande, porque, \nmedida sua extensão, verifica-se que não é pequeno. \nDivide-se em três zonas climatéricas absolutamente \ndistintas: a primeira, a segunda e a terceira. Sendo que \na segunda fica entre a primeira e a terceira. Há muitas \ndiferenças entre as várias regiões geográficas do país, \nmas a mais importante é a principal. Na agricultura \nfaz-se exclusivamente o cultivo de produtos vegetais, \nenquanto a pecuária especializa-se na criação de gado. \nA população é toda baseada no elemento humano, sendo \nque as pessoas não nascidas no país são, sem exceção, \nestrangeiras. Tão privilegiada é hoje, enfim, a situação do \npaís que os cientistas procuram apenas descobrir o que \nnão está descoberto, deixando para a indústria tudo o que \njá foi aprovado como industrializável e para o comércio \ntudo o que é vendável. É, enfim, o país do futuro, e este \nse aproxima a cada dia que passa.\nFERNANDES, M. In: ANTUNES, I. Língua, texto e ensino: outra escola possível. \nSão Paulo: Parábola 2009 (adaptado)",
+  "processado_em": "2026-05-08T14:03:24.527313",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

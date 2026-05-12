@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\t\nNo século XVII, um cientista alemão chamado \nJan Baptista van Helmont fez a seguinte experiência \npara tentar entender como as plantas se nutriam: \nplantou uma muda de salgueiro, que pesava 2,5 kg, em \num vaso contendo 100 kg de terra seca. Tampou o vaso \ncom uma placa de ferro perfurada para deixar passar \nágua. Molhou diariamente a planta com água da chuva. \nApós 5 anos, pesou novamente a terra seca e encontrou \nos mesmos 100 kg, enquanto que a planta de salgueiro \npesava 80 kg.\nBAKER, J. J. W.; ALLEN, G. E. Estudo da biologia. \nSão Paulo: Edgar Blucher, 1975 (adaptado).\nOs resultados desse experimento permitem confrontar \na interpretação equivocada do senso comum de que \nas plantas\nA\t absorvem gás carbônico do ar.\nB\t usam a luz como fonte de energia.\nC\t absorvem matéria orgânica do solo.\nD\t usam a água para constituir seu corpo.\nE\t produzem oxigênio na presença de luz.",
+  "processado_em": "2026-05-11T23:26:20.493308",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

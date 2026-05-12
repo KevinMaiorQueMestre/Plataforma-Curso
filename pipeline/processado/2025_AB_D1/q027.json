@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 27\t\nA gravura como obra múltipla\nNa experiência mexicana, a gravura se destacava como \nmeio para ilustrar panfletos e material para mobilizar e \ninformar os trabalhadores rurais e urbanos, de acordo com \na luta iniciada na Revolução Mexicana. Inexistindo no Brasil \numa “revolução em marcha”, as gravuras, realizadas pelos \nClubes de Gravuras, limitavam-se a representar os temas rural \ne/ou urbano, focalizando o trabalhador e seu ambiente de \ntrabalho, assim como suas lutas reivindicatórias. Além disso, \nas gravuras circulavam apenas entre os associados do clube \ne não amplamente, como no caso mexicano, em que eram \ndistribuídas pela cidade e pelo campo.\nAMARAL, A. Arte para quê?: a preocupação social na arte brasileira, 1930-1970. \nSão Paulo: Studio Nobel 2003 (adaptado)",
+  "processado_em": "2026-05-08T14:06:43.508354",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

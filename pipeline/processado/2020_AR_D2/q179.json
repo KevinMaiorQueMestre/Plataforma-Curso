@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 179        \nNo período de fi m de ano, o síndico de um condomínio \nresolveu colocar, em um poste, uma iluminação natalina \nem formato de cone, lembrando uma árvore de Natal, \nconforme as fi guras 1 e 2.\nPoste\nFigura 2\nFigura 1\nh = 3 m\nc\nA árvore deverá ser feita colocando-se mangueiras \nde iluminação, consideradas segmentos de reta de \nmesmo comprimento, a partir de um ponto situado a 3 m \nde altura no poste até um ponto de uma circunferência de \nfi xação, no chão, de tal forma que esta fi que dividida em \n20 arcos iguais. O poste está fi xado no ponto C (centro \nda circunferência) perpendicularmente ao plano do chão.\nPara economizar, ele utilizará mangueiras de \niluminação aproveitadas de anos anteriores, que juntas \ntotalizaram pouco mais de 100 m de comprimento, dos \nquais ele decide usar exatamente 100 m e deixar o \nrestante como reserva.\nPara que ele atinja seu objetivo, o raio, em metro, da \ncircunferência deverá ser de\nA  4,00.\nB 4,87.\nC 5,00.\nD  5,83.\nE 6,26.",
+  "processado_em": "2026-05-11T23:28:20.676571",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 31\t\nPICASSO, P. Cabeça de touro. Bronze, 33,5 cm x 43,5 cm x 19 cm.  \nMusée Picasso, Paris. França, 1945.\n JANSON, H. W. Iniciação à história da arte. \nSão Paulo: Martins Fontes, 1988.\nNa obra Cabeça de touro, o material descartado torna-se \nobjeto de arte por meio da\nA\t reciclagem da matéria-prima original.\nB\t complexidade da combinação de formas abstratas.\nC\t perenidade \ndos \nelementos \nque \nconstituem \na escultura.\nD\t mudança \nda \nfuncionalidade \npela \nintegração \ndos objetos.\nE\t fragmentação da imagem no uso de elementos \ndiversificados.",
+  "processado_em": "2026-05-11T23:27:23.139229",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

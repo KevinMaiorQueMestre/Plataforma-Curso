@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q128",
+  "imagem": "q128.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 128,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 128\t\n BONS DIAS!\n14 de junho de 1889\nÓ doce, ó longa, ó inexprimível melancolia dos \njornais velhos! Conhece-se um homem diante de um \ndeles. Pessoa que não sentir alguma coisa ao ler folhas \nde meio século, bem pode crer que não terá nunca uma \ndas mais profundas sensações da vida, — igual ou quase \nigual à que dá a vista das ruínas de uma civilização. Não \né a saudade piegas, mas a recomposição do extinto, a \nrevivescência do passado.\nASSIS, M. Bons dias! (Crônicas 1888-1889). Campinas: Editora da Unicamp; \nSão Paulo: Hucitec, 1990.\nO jornal impresso é parte integrante do que hoje \nse compreende por tecnologias de informação e \ncomunicação. Nesse texto, o jornal é reconhecido como\nA\t objeto de devoção pessoal.\nB\t elemento de afirmação da cultura.\nC\t instrumento de reconstrução da memória.\nD\t ferramenta de investigação do ser humano.\nE\t veículo de produção de fatos da realidade.",
+  "processado_em": "2026-05-08T14:01:17.419078",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

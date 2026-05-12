@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 176\t\nUm engenheiro precisa fazer uma escada conforme a imagem.\nDisponível em: http://arquitetura-interiores.blogspot.com.br. \nAcesso em: 21 maio 2012 (adaptado).\nUma planta inicial foi elaborada, conforme a figura a seguir, \nusando instrumentos de medição, com as medidas de algumas \ninclinações. As semirretas que representam os pisos superior \ne inferior são paralelas.\nA medida, em grau, do ângulo x é\nA\t146°30’\nB\t147°00’\nC\t147°30’\nD\t148°00’\nE 150°00’",
+  "processado_em": "2026-05-08T14:06:54.424630",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

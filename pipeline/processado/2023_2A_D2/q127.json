@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 127\t\nA figura apresenta o ciclo biogeoquímico do enxof\nantropogênicas que podem causar danos no ambiente.\nOceano\nMagma\nH2S / SO2 / SO4\n2−\nSO2 / SO4\n2−\nSO4\n2−\nEmissões\nvulcânicas\nSpray\nmarinho\nCompostos\nreduzidos\nS\nCo\nre\nEmissões\nbiogênicas,\nOceanos\nMagma\nSedimento\nSO4\n2–\nDeposição\nEm\nbio\nco\nChuva e outras\ndeposições\nSedimento\nSO4\n2−\nDeposição\nOceano\nQual é o impacto ambiental gerado a partir dessas emiss\nA\t\nA\t Aumento do efeito estufa.\nB\t\nB\t Surgimento de ilhas de calor.\nC\t\nC\t Aparecimento de chuva ácida.\nD\t\nD\t Formação do smog fotoquímico.\nE\t\nE\t Degradação da camada de ozônio.",
+  "processado_em": "2026-05-08T14:05:26.034265",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

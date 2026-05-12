@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 54\t\nDisponível em: http://revistaepoca.globo.com. Acesso em: 30 jun. 2015.\nA evolução da pirâmide etária apresentada indica a seguinte tendência:\nA\t Crescimento da faixa juvenil.\nB\t Aumento da expectativa de vida.\nC\t Elevação da taxa de fecundidade.\nD\t Predomínio da população masculina.\nE\t Expansão do índice de mortalidade.\nComposição da população brasileira, por faixa de idade\n1980\n2011\n2040\n70 ou mais\n60-69\n50-59\n40-49\n30-39\n20-29\n10-19\n0-9\nHomens\nMulheres\nHomens\nMulheres\nFonte: IBGE\nHomens\nMulheres",
+  "processado_em": "2026-05-11T23:26:12.991454",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

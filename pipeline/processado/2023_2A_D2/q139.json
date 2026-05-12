@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nNo espaço, a falta de gravidade faz com que o \norganismo produza mais cálcio e, como o mineral não \né usado, o corpo o expele, fazendo com que os ossos \ndiminuam de tamanho. Um dos ossos que sofrem essa \nredução é o fêmur. O gráfico apresenta a evolução linear \ndo tamanho desse osso, ao longo de três meses, em um \nastronauta que, antes de ir para o espaço, tinha um fêmur \nde 50 cm.\n50\n49,5\n49\n48,5\n48\n47,5\n47\n46,5\n46\n0\n1\n2\n3\nTempo (mês)\nTamanho (cm)\n4\n5\nDUARTE, M. O guia dos curiosos. São Paulo: Panda Books, 2015 (adaptado).\nComo esse astronauta ficará cinco meses no espaço, \nconsidere que a tendência de sua evolução óssea, \nobservada nos três primeiros meses, mantenha-se a \nmesma ao longo dos próximos meses.\nO tamanho, em centímetro, do fêmur desse astronauta, \nao completar quatro meses no espaço, será\nA\t\nA\t 44,8.\nB\t\nB\t 46,0.\nC\t\nC\t 46,8.\nD\t\nD\t 47,0.\nE\t\nE\t 47,8.",
+  "processado_em": "2026-05-08T14:05:26.702732",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

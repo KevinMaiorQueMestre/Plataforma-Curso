@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 33\t\nDisponível em: www.tjdft.jus.br. Acesso em: 15 out. 2024 (adaptado).\nEsse texto trata de um problema social com o propósito de\nA\tdivulgar campanha virtual contra casos de feminicídio.\nB\tpromover engajamento do setor educacional na luta contra \na violência.\nC\tcomparar o impacto da violência na qualidade de vida de \nmeninas e meninos.\nD\tressaltar a importância da segurança dos estudantes no \nambiente escolar.\nE dar visibilidade a estudos e pesquisas do setor de segurança",
+  "processado_em": "2026-05-08T14:06:59.272763",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

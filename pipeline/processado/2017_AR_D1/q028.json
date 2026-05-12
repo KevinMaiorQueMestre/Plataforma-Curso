@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q028",
+  "imagem": "q028.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 28,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 28\t\nDisponível em: www.agenciapatriciagalvao.org.br. Acesso em: 15 maio 2017 (adaptado).\nCampanhas publicitárias podem evidenciar problemas \nsociais. O cartaz tem como finalidade\nA\t \talertar \nos \nhomens \nagressores \nsobre \nas \nconsequências de seus atos.\nB\t \tconscientizar a população sobre a necessidade de \ndenunciar a violência doméstica.\nC\t \tinstruir as mulheres sobre o que fazer em casos de \nagressão.\nD\t \tdespertar nas crianças a capacidade de reconhecer \natos de violência doméstica.\nE\t \texigir das autoridades ações preventivas contra a \nviolência doméstica.",
+  "processado_em": "2026-05-11T23:25:37.661117",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

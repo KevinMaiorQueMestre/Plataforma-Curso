@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 57\t\nA \ndiversidade \nde \natividades \nrelacionadas \nao \nsetor terciário reforça a tendência mais geral de \ndesindustrialização de muitos dos países desenvolvidos \nsem que estes, contudo, percam o comando da economia. \nEssa mudança implica nova divisão internacional do \ntrabalho, que não é mais apoiada na clara segmentação \nsetorial das atividades econômicas.\nRIO, G. A. P. A espacialidade da economia. In: CASTRO, I. E.; GOMES, P. C. C.; CORRÊA, \nR. L. (Org.). Olhares geográficos: modos de ver e viver o espaço. Rio de Janeiro: \n Bertrand Brasil, 2012 (adaptado).\nNesse contexto, o fenômeno descrito tem como um de \nseus resultados a\nA\t saturação do setor secundário.\nB\t \tampliação dos direitos laborais.\nC\t \tbipolarização do poder geopolítico.\nD\t \tconsolidação do domínio tecnológico.\nE\t \tprimarização das exportações globais.",
+  "processado_em": "2026-05-11T23:25:41.547927",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

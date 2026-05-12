@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 112 \nO calor não flui espontaneamente de uma fonte fria para \numa fonte quente, mas, em um refrigerador, às custas da \nrealização de trabalho externo sobre um gás, isso é possível. \nNa operação de um refrigerador, um compressor realiza trabalho \nsobre um gás por um processo cíclico, no qual o gás transporta \ncalor de uma fonte fria para um reservatório mais quente. \nA qualidade de um refrigerador se mede pelo coeficiente de \nperformance (COP), dado por:\nCOP \u001f\n\u001e\nT\nT\nT\n1\n2\n1\n(\n)\n, em que T2 é a temperatura absoluta do \ngás em contato com o reservatório quente que vai receber o \ncalor da fonte fria, e T1 é a temperatura absoluta do gás em \ncontato com a fonte fria.\nSuponha o funcionamento de um refrigerador doméstico \n(freezer) que apresenta um COP de 5,0 e a temperatura da fonte \nfria igual a T1 = −10 °C.\nA temperatura do gás no dissipador de calor, em kelvin, será \nmais próxima de\nA 658 K.\nB 316 K.\nC 261 K.\nD 53 K.\nE −12 K.",
+  "processado_em": "2026-05-08T14:06:35.442023",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

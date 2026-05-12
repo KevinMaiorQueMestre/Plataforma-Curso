@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 167        \nO gerente de uma loja de cosméticos colocou à venda \ncinco diferentes tipos de perfume, tendo em estoque na \nloja as mesmas quantidades de cada um deles. O setor \nde controle de estoque encaminhou ao gerente registros \ngráficos descrevendo os preços unitários de cada \nperfume, em real, e a quantidade vendida de cada um \ndeles, em percentual, ocorrida no mês de novembro.\n \nPreço do perfume por unidade (R$)\nPerfume I\nPerfume II\nPerfume III\nPerfume IV\nPerfume V\n200\n170\n150\n100\n80\nPerfume V\n32%\nPerfume IV\n29%\nPerfume III\n16%\nPerfume I\n13%\nPerfume II\n10%\nPorcentagem da quantidade vendida de\ncada perfume\nDados a chegada do final de ano e o aumento das \nvendas, a gerência pretende aumentar a quantidade \nestocada do perfume do tipo que gerou a maior \narrecadação em espécie, em real, no mês de novembro.\nNessas condições, qual o tipo de perfume que deverá ter \nmaior reposição no estoque?\nA \t I\nB \t II\nC\t III\nD\t IV\nE \t V",
+  "processado_em": "2026-05-11T23:28:19.900942",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

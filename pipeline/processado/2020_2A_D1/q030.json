@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 30",
+  "processado_em": "2026-05-08T14:03:27.748697",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 116\t\nDisponível em: http://orion-oblog.blogspot.com.br. Acesso em: 6 jun. 2012 (adaptado).\nO cartaz aborda a questão do aquecimento global. \nA relação entre os recursos verbais e não verbais \nnessa propaganda revela que\nA\t o discurso ambientalista propõe formas radicais de \nresolver os problemas climáticos.\nB\t a preservação da vida na Terra depende de ações de \ndessalinização da água marinha.\nC\t a acomodação da topografia terrestre desencadeia o \nnatural degelo das calotas polares.\nD\t o descongelamento das calotas polares diminui a \nquantidade de água doce potável do mundo.\nE\t a agressão ao planeta é dependente da posição \nassumida pelo homem frente aos problemas \nbi\nt i",
+  "processado_em": "2026-05-08T14:00:20.938619",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

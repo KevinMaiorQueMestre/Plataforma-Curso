@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nNo calor tórrido e seco da Serra do Cabral, em Minas \nGerais, o delgado talo com translúcidas flores lilases \ndesponta da areia branca. Philcoxia minensis recorre a \ntruques para sobreviver. Um deles é manter as folhas \nenterradas, protegidas do sol, que mesmo assim chega \nsuficiente para a fotossíntese. O segundo é atrair vermes \nsubterrâneos, que viram suplemento alimentar num \nsolo pobre. A digestão fica por conta das fosfatases \nsecretadas pelas glândulas.\nDisponível em: http://revistapesquisa.fapesp.br. Acesso em: 7 jul. 2015 (adaptado).\nQual tipo de substância liberada pelos vermes digeridos \né absorvida por Philcoxia minensis?\nA\t\nA\t Glicose.\nB\t\nB\t Aminoácidos.\nC\t\nC\t Sais minerais.\nD\t\nD\t Fosfolipídeos.\nE\t\nE\t Ácidos nucleicos.",
+  "processado_em": "2026-05-08T14:05:25.196781",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

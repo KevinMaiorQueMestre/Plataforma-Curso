@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\t\nNa lavagem a seco, um solvente é considerado efetivo \npara limpeza de roupas quando evita o encolhimento dos \ntecidos, evapora facilmente e dissolve manchas lipofílicas, \ncomo óleos, ceras e gorduras em geral, por apresentar \npolaridade similar.\nBORGES, L.; MACHADO, P. F. L. Lavagem a seco. \nQuímica Nova na Escola, n. 1, fev. 2013.\nQual estrutura molecular representa o solvente mais efetivo \nna lavagem a seco de roupas?\nA\t\nB\t\nC\t\nD\t\nE",
+  "processado_em": "2026-05-08T14:06:02.204479",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

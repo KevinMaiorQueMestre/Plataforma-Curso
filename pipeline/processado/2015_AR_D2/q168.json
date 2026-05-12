@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nDevido ao aumento do fluxo de passageiros, uma \nempresa de transporte coletivo urbano está fazendo \nestudos para a implantação de um novo ponto de parada \nem uma determinada rota. A figura mostra o percurso, \nindicado pelas setas, realizado por um ônibus nessa rota \ne a localização de dois de seus atuais pontos de parada, \nrepresentados por P e Q. \nRua A\nRua B\nRua C\nQ\nP\n320\n20\n0\n30\n550\ny\nx\nOs estudos indicam que o novo ponto T deverá \nser instalado, nesse percurso, entre as paradas \njá existentes P e Q, de modo que as distâncias \npercorridas pelo ônibus entre os pontos P e T e entre \nos pontos T e Q sejam iguais.\nDe acordo com os dados, as coordenadas do novo ponto \nde parada são\nA\t (290 ; 20).\nB\t (410 ; 0).\nC\t (410 ; 20).\nD\t (440 ; 0).\nE\t (440 ; 20).",
+  "processado_em": "2026-05-08T14:00:58.120744",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

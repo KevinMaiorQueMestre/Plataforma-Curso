@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 133\nO heredograma mostra a incidência de uma anomalia \ngenética em um grupo familiar.\nO indivíduo representado pelo número 10, preocupado \nem transmitir o alelo para a anomalia genética a seus \n¿OKRV\u000f\u0003 FDOFXOD\u0003 TXH\u0003 D\u0003 SUREDELOLGDGH\u0003 GH\u0003 HOH\u0003 VHU\u0003 SRUWDGRU\u0003\ndesse alelo é de\nA 0%.\nB 25%.\nC 50%.\nD 67%.\nE 75%.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\nMulher com anomalia\nMulher sem anomalia\nHomem com anomalia\nHomem sem anomalia",
+  "processado_em": "2026-05-11T23:25:29.716581",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\t\nO tampo de vidro de uma mesa quebrou-se e deverá \nser substituído por outro que tenha a forma de círculo. \nO suporte de apoio da mesa tem o formato de um prisma \nreto, de base em forma de triângulo equilátero com lados \nmedindo 30 cm.\nUma loja comercializa cinco tipos de tampos de vidro \ncirculares com cortes já padronizados, cujos raios medem \n18 cm, 26 cm, 30 cm, 35 cm e 60 cm. O proprietário \nda mesa deseja adquirir nessa loja o tampo de menor \ndiâmetro que seja suficiente para cobrir a base superior \ndo suporte da mesa.\nConsidere 1,7 como aproximação para √3 .\nO tampo a ser escolhido será aquele cujo raio, em \ncentímetros, é igual a\nA\t 18.\nB\t 26.\nC\t 30.\nD\t 35.\nE\t 60.",
+  "processado_em": "2026-05-08T14:00:56.590398",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

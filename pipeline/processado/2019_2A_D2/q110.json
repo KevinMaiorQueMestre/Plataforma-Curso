@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 110\t\nAlgumas moedas utilizam cobre metálico em sua \ncomposição. Esse metal, ao ser exposto ao ar úmido, na \npresença de CO2, sofre oxidação formando o zinabre, \num carbonato básico de fórmula Cu2(OH)2CO3, que é \ntóxico ao homem e, portanto, caracteriza-se como um \npoluente do meio ambiente. Com o objetivo de reduzir \na contaminação com o zinabre, diminuir o custo de \nfabricação e aumentar a durabilidade das moedas, é \ncomum utilizar ligas resultantes da associação do cobre \ncom outro elemento metálico.\nA propriedade que o metal associado ao cobre deve \napresentar para impedir a formação de zinabre nas \nmoedas é, em relação ao cobre,\nA\t maior caráter ácido.\nB\t maior número de oxidação.\nC\t menor potencial de redução.\nD\t menor capacidade de reação.\nE\t menor número de elétrons na camada de valência.",
+  "processado_em": "2026-05-11T23:27:09.146860",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

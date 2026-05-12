@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 115\t\nAlgumas \ntoneladas \nde \nmedicamentos \npara \nuso humano e veterinário são produzidas por ano. \nOs fármacos são desenvolvidos para serem estáveis, \nmantendo suas propriedades químicas de forma a \natender a um propósito terapêutico. Após o consumo \nde fármacos, parte de sua dosagem é excretada \nde forma inalterada, persistindo no meio ambiente. \nEm todo o mundo, antibióticos, hormônios, anestésicos, \nanti-inflamatórios, entre outros, são detectados em \nconcentrações preocupantes no esgoto doméstico, \nem águas superficiais e de subsolo. Dessa forma, a \nocorrência de fármacos residuais no meio ambiente \npode apresentar efeitos adversos em organismos \naquáticos e terrestres.\nBILA, D. M.; DEZOTTI, M. Fármacos no meio ambiente. \n Química Nova, v. 26, n. 4, ago. 2003 (adaptado).\nQual \nação \nminimiza \na \npermanência \ndesses \ncontaminantes nos recursos hídricos?\nA\t \tUtilização de esterco como fertilizante na agricultura.\nB\t \tAmpliação das redes de coleta de esgoto \nna zona urbana.\nC\t \tDescarte dos medicamentos fora do prazo de \nvalidade em lixões.\nD\t \tDesenvolvimento de novos processos nas estações \nde tratamento de efluentes.\nE\t \tReúso dos lodos provenientes das estações de \ntratamento de esgoto na agricultura.",
+  "processado_em": "2026-05-11T23:27:33.911992",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

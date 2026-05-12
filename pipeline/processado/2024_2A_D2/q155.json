@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nUm engenheiro civil organizou duas equipes de \npedreiros, I e II, para a construção de um muro bastante \nextenso. Todos os pedreiros, de ambas as equipes, \napresentam o mesmo rendimento por hora trabalhada \nfrente à construção planejada. A equipe I era composta \npor 3 pedreiros, que construíram 36 metros quadrados de \nmuro, em 2 dias, trabalhando 6 horas por dia. A equipe II \nera composta por 5 pedreiros, que trabalharam 8 horas \ndiárias, durante 6 dias.\nQuantos metros quadrados a equipe II construiu a mais \ndo que a equipe I?\nA\t144\nB\t180\nC\t204\nD\t240\nE\t276",
+  "processado_em": "2026-05-08T14:06:04.557130",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

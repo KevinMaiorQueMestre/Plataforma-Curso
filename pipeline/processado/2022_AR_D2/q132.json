@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 132\t\nO eixo de rotação da Terra apresenta uma inclinação \nem relação ao plano de sua órbita em torno do Sol, \ninterferindo na duração do dia e da noite ao longo do ano. \nIncidência direta\nao meio-dia\nPolo Norte\nTrópico de\nCâncer\nEquador\nTrópico de\nCapricórnio\nCírculo Polar\nAntártico\nPolo Sul\nCírculo Polar\nÁrtico\nTerra em 21 de dezembro\nDIA\nNOITE\nUma pessoa instala em sua residência uma placa \nfotovoltaica, que transforma energia solar em elétrica. \nEla monitora a energia total produzida por essa placa \nem 4 dias do ano, ensolarados e sem nuvens, e lança os \nresultados no gráfico.\nEnergia\nDia\n10/01\n10/04\n10/07\n10/10\nDisponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado).\nPróximo a que região se situa a residência onde as placas \nforam instaladas?\nA\t\nA\t Trópico de Capricórnio.\nB\t\nB\t Trópico de Câncer.\nC\t\nC\t Polo Norte.\nD\t\nD\t Polo Sul.\nE\t\nE\t Equador.",
+  "processado_em": "2026-05-08T14:05:11.260419",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

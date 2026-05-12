@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 31\t\nNão ignoro a opinião antiga e muito difundida de \nque o que acontece no mundo é decidido por Deus e \npelo acaso. Essa opinião é muito aceita em nossos dias, \ndevido às grandes transformações ocorridas, e que \nocorrem diariamente, as quais escapam à conjectura \nhumana. Não obstante, para não ignorar inteiramente o \nnosso livre-arbítrio, creio que se pode aceitar que a sorte \ndecida metade dos nossos atos, mas [o livre-arbítrio] nos \npermite o controle sobre a outra metade.\nMAQUIAVEL, N. O Príncipe. Brasília: EdUnB, 1979 (adaptado).\nEm O Príncipe, Maquiavel refletiu sobre o exercício do \npoder em seu tempo. No trecho citado, o autor demonstra \no vínculo entre o seu pensamento político e o humanismo \nrenascentista ao\nA\t valorizar a interferência divina nos acontecimentos \ndefinidores do seu tempo.\nB\t rejeitar a intervenção do acaso nos processos políticos.\nC\t afirmar a confiança na razão autônoma como \nfundamento da ação humana.\nD\t romper com a tradição que valorizava o passado \ncomo fonte de aprendizagem.\nE\t redefinir a ação política com base na unidade entre \nfé\nã",
+  "processado_em": "2026-05-08T13:59:02.001925",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

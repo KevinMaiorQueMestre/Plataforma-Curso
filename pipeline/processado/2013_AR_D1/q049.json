@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\nGlicose marcada com nuclídeos de carbono-11 \né utilizada na medicina para se obter imagens \ntridimensionais do cérebro, por meio de tomografia de \nemissão de pósitrons. A desintegração do carbono-11 \ngera um pósitron, com tempo de meia-vida de 20,4 min, \nde acordo com a equação da reação nuclear:\nC\nB + e\n11\n11\n0\n6\n5\n1\n(pósitron)\nA partir da injeção de glicose marcada com esse \nnuclídeo, o tempo de aquisição de uma imagem de \ntomografia é de cinco meias-vidas.\nConsiderando que o medicamento contém 1,00 g do \ncarbono-11, a massa, em miligramas, do nuclídeo \nrestante, após a aquisição da imagem, é mais próxima de \nA\t 0,200.\nB\t 0,969.\nC\t 9,80.\nD\t 31,3.\nE 200",
+  "processado_em": "2026-05-08T14:00:12.526997",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

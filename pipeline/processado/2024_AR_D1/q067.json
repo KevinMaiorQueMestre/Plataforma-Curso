@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nA internet fortalece o engajamento e a visibilidade de \npopulações tradicionais e indígenas por meio de redes \nsociais, rádios e veículos de mídia digital. Ela também \npromove a criação e o fortalecimento de mercados e \na inovação nos sistemas de financiamento, integrando \npequenos agricultores e produtores da comunidade florestal \na cadeias de abastecimento maiores.\nGROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia \npode ser uma aliada na conservação ambiental. \nNexo Jornal, 14 ago. 2021.\nA adoção da tecnologia mencionada amplia a rentabilidade \ndas comunidades citadas, ao possibilitar o(a):\nA\tValorização da economia local.\nB\tElaboração de projetos culturais.\nC\tEstabelecimento de regras comerciais.\nD\tIncremento da infraestrutura educacional.\nE\tHomogeneização da qualificação profissional.",
+  "processado_em": "2026-05-08T14:06:13.494711",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

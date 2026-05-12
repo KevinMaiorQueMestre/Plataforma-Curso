@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 105          \nOs acidentes de trânsito são causados geralmente por \nexcesso de velocidade. Em zonas urbanas no Brasil, o \nlimite de velocidade normalmente adotado é de 60 km  h−1. \nUma alternativa para diminuir o número de acidentes \nseria reduzir esse limite de velocidade. Considere uma \npista seca em bom estado, onde um carro é capaz de \nfrear com uma desaceleração constante de 5 m  s−2 e \nque o limite de velocidade reduza de 60 km  h−1 para \n50 km  h−1.\nNessas condições, a distância necessária para a \nfrenagem desde a velocidade limite até a parada completa \ndo veículo será reduzida em um valor mais próximo de\nA \t 1 m.\nB \t 9 m.\nC \t 15 m.\nD \t 19 m.\nE \t 38 m.",
+  "processado_em": "2026-05-08T14:03:36.337308",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

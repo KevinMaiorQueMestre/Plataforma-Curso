@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 135\t\nRéguas elétricas são dispositivos que permitem a ligação \nsegura e simultânea de dois ou mais aparelhos eletroeletrônicos \nà rede elétrica. Uma estudante comprou uma régua com seis \ntomadas, conforme a figura. Essa régua suporta uma intensidade \nmáxima de corrente elétrica igual a 20 A. Acima desse valor, o \nfusível de segurança da régua se rompe, inutilizando-a até que \num novo fusível seja instalado. Considere as potências nominais \nde alguns aparelhos eletroeletrônicos apresentadas no quadro.\nAparelho\nPotência (watt)\nLuminária de LED\n5\nComputador\n250\nImpressora a laser\n660\nSecador de cabelos\n750\nCafeteira\n900\nCondicionador \nde ar portátil\n1 100\nEm um dia quente, a estudante mantém o computador e o \ncondicionador de ar portátil ligados à régua permanentemente. \nNessa situação, ela tenta realizar algumas atividades, uma de \ncada vez, utilizando a mesma régua, na seguinte ordem:\n1º – imprimir um trabalho escolar;\n2º – fazer um café com a cafeteira;\n3º – ligar a luminária;\n4º – secar os cabelos.\nSabe-se que a régua foi ligada à tensão elétrica de 110 V, \nadequada para o funcionamento desses aparelhos.\nConsiderando a ordem das tentativas, quantas atividades a \nestudante conseguiu realizar sem queimar o fusível?\nA\t4\nB\t3\nC\t2\nD\t1\nE 0",
+  "processado_em": "2026-05-08T14:07:08.220898",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

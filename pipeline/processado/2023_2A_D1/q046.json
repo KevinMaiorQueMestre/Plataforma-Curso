@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS\nQuestões de 46 a 90\nQUESTÃO 46\t\nO Estado surge pelo fato de ser o homem um animal \nnaturalmente social, político. O Estado provê, inicialmente, \na satisfação daquelas necessidades materiais, negativas \ne positivas, defesa e segurança, conservação e \nengrandecimento, de outro modo irrealizáveis. Mas o seu \nfim essencial é espiritual, isto é, deve promover a virtude \ne, consequentemente, a felicidade dos súditos mediante \na ciência.\nARISTÓTELES A política São Paulo: Martins Fontes 2006 (adaptado)",
+  "processado_em": "2026-05-08T14:05:19.463641",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

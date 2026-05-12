@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 47\t\nFelizes tempos eram esses! As moças iam à missa de \nmadrugada. De dia ninguém as via e se alguma, em dia \nde festa, queria passear com a avó ou a tia, havia de ir de \ncadeirinhas. Bem razão têm os nossos velhos de chorar \npor esses tempos, em que as filhas não sabiam escrever, \ne por isso não mandavam nem recebiam bilhetinhos.\nNovo Correio de Modas, 1853, apud DONEGÁ, A. L. Publicar ficção em \nmeados do século XIX: um estudo das revistas femininas editadas \npelos irmãos Laemmert. Campinas: Unicamp, 2013 (adaptado).\nNa perspectiva do autor, as tradições e os costumes \nsociofamiliares sofreram alterações, no século XIX, \ndecorrentes de quais fatores?\nA\t\nA\t Hábitos de leitura e mobilidade regional.\nB\t\nB\t Circulação de impressos e trânsito religioso.\nC\t\nC\t Valorização da língua e imigração estrangeira.\nD\t\nD\t Práticas de letramento e transformação cultural.\nE\t\nE\t Flexibilização do ensino e reformismo pedagógico.",
+  "processado_em": "2026-05-08T14:05:36.773633",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nTudo sobre a batalha de Belo Monte. Disponível em: http://arte.folha.uol.com.br. Acesso em: 10 jan. 2014.\nComparando os dados das hidrelétricas, uma característica territorial positiva de Belo Monte é o(a)\nA\t \treduzido espaço relativo inundado.\nB\t \tacentuado desnível do relevo local.\nC\t \televado índice de urbanização regional.\nD\t \tpresença dos grandes parques industriais.\nE\t \tproximidade de fronteiras internacionais estratégicas.",
+  "processado_em": "2026-05-11T23:25:42.675729",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

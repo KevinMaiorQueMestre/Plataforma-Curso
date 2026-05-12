@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nPara \nimpedir \na \ncontaminação \nmicrobiana \ndo \nsuprimento de água, deve-se eliminar as emissões de \nefluentes e, quando necessário, tratá-lo com desinfetante. \nO ácido hipocloroso (HClO), produzido pela reação entre \ncloro e água, é um dos compostos mais empregados \ncomo desinfetante. Contudo, ele não atua somente como \noxidante, mas também como um ativo agente de cloração. \nA presença de matéria orgânica dissolvida no suprimento \nde água clorada pode levar à formação de clorofórmio \n(CHCl3) e outras espécies orgânicas cloradas tóxicas.\nSPIRO, T. G.; STIGLIANI, W. M. Química ambiental. \nSão Paulo: Pearson, 2009 (adaptado).\nVisando eliminar da água o clorofórmio e outras moléculas \norgânicas, o tratamento adequado é a\nA\t filtração, com o uso de filtros de carvão ativo.\nB\t fluoretação, pela adição de fluoreto de sódio.\nC\t coagulação, pela adição de sulfato de alumínio.\nD\t correção do pH, pela adição de carbonato de sódio.\nE\t floculação, em tanques de concreto com a água em \nmovimento.",
+  "processado_em": "2026-05-08T14:00:30.301726",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

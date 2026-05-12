@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 52\t\nMedidas de saneamento básico são fundamentais \nno processo de promoção de saúde e qualidade de vida \nda população. Muitas vezes, a falta de saneamento está \nrelacionada com o aparecimento de várias doenças. \nNesse contexto, um paciente dá entrada em um pronto \natendimento relatando que há 30 dias teve contato com \náguas de enchente. Ainda informa que nesta localidade \nnão há rede de esgoto e drenagem de águas pluviais e que \na coleta de lixo é inadequada. Ele apresenta os seguintes \nsintomas: febre, dor de cabeça e dores musculares.\nDisponível em: http://portal saude gov br Acesso em: 27 fev 2012 (adaptado)",
+  "processado_em": "2026-05-08T13:59:02.471794",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

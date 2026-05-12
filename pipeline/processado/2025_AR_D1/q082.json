@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 82\t\nA cidade justa é governada pelos filósofos, administrada \npelos cientistas, protegida pelos guerreiros e mantida pelos \nprodutores. Cada classe cumprirá sua função para o bem da \npólis, racionalmente dirigida pelos filósofos. Em contrapartida, \na cidade injusta é aquela onde o governo está nas mãos dos \nproprietários — que não pensam no bem comum da pólis \ne lutarão por interesses econômicos particulares.\nCHAUÍ, M. Convite à filosofia. São Paulo: Ática, 2000.\nO texto apresenta a estrutura de governo da cidade ideal pensada \npor Platão, que postula uma indissociabilidade entre\nA\tcognoscência e relação intersubjetiva.\nB\tmitologia e teorias cosmogônicas.\nC\tcidadania e primazia da retórica.\nD\tmoralidade e virtudes cardeais.\nE\tética e exercício do poder.",
+  "processado_em": "2026-05-08T14:07:02.877409",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

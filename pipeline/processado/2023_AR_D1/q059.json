@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 59\t\nDo século XVI em diante, pelo menos nas classes \nmais altas, o garfo passou a ser usado como utensílio \npara comer, chegando através da Itália primeiramente à \nFrança e, em seguida, à Inglaterra e à Alemanha, depois \nde ter servido, durante algum tempo, apenas para retirar \nalimentos sólidos da travessa. Henrique III introduziu-o \nna França, trazendo-o provavelmente de Veneza. Seus \ncortesãos não foram pouco ridicularizados por essa \nmaneira “afetada” de comer e, no princípio, não eram \nmuito hábeis no uso do utensílio: pelo menos se dizia \nque metade da comida caía do garfo no caminho do prato \nà boca. Em data tão recente como o século XVII, o garfo \nera ainda basicamente artigo de luxo, geralmente feito de \nprata ou ouro.\nELIAS, N. O processo civilizador: uma história dos costumes. \nRio de Janeiro: Zahar, 1994.",
+  "processado_em": "2026-05-08T14:05:37.335514",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nEuphorbia milii é uma planta ornamental amplamente\nO estudo químico do látex dessa espécie forneceu o mais \nMOREIRA, C. P. S.; ZANI, C. L.; ALVES, T. M. A. Atividade\nO uso desse látex em água infestada por hospedeiros inte\nA\t dengue.\nB\t malária.\nC\t elefantíase.\nD\t ascaridíase.\nE\t esquistossomose.",
+  "processado_em": "2026-05-08T14:00:49.120780",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

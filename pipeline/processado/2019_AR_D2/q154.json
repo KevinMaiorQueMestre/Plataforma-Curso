@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 154\t\nUma pessoa se interessou em adquirir um produto \nanunciado em uma loja. Negociou com o gerente e \nconseguiu comprá-lo a uma taxa de juros compostos \nde 1% ao mês. O primeiro pagamento será um mês \napós a aquisição do produto, e no valor de R$ 202,00. \nO segundo pagamento será efetuado um mês após o \nprimeiro, e terá o valor de R$ 204,02. Para concretizar a \ncompra, o gerente emitirá uma nota fiscal com o valor do \nproduto à vista negociado com o cliente, correspondendo \nao financiamento aprovado.\nO valor à vista, em real, que deverá constar na nota \nfiscal é de\nA\t 398,02.\nB\t 400,00.\nC\t 401,94.\nD\t 404,00.\nE\t 406,02.",
+  "processado_em": "2026-05-11T23:27:36.475166",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

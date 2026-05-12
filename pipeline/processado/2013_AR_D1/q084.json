@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 84\t\nApesar de belos e impressionantes, corais exóticos \nencontrados na Ilha Grande podem ser uma ameaça ao \nequilíbrio dos ecossistemas do litoral do Rio de Janeiro. \nOriginários do Oceano Pacífico, esses organismos foram \ntrazidos por plataformas de petróleo e outras embarcações, \nprovavelmente na década de 1980, e disputam com \nas espécies nativas elementos primordiais para a \nsobrevivência, como espaço e alimento. Organismos \ninvasores são a segunda maior causa de perda de \nbiodiversidade, superados somente pela destruição \ndireta de hábitats pela ação do homem. As populações de \nespécies invasoras crescem indefinidamente e ocupam o \nespaço de organismos nativos.\nLEVY, I. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 5 dez. 2011 (adaptado).\nAs populações de espécies invasoras crescem bastante \npor terem a vantagem de\nA\t não apresentarem genes deletérios no seu pool gênico.\nB\t não possuírem parasitas e predadores naturais \npresentes no ambiente exótico.\nC\t apresentarem características genéticas para se \nadaptarem a qualquer clima ou condição ambiental.\nD\t apresentarem \ncapacidade \nde \nconsumir \ntoda \na variedade de alimentos disponibilizados no \nambiente exótico.\nE\t apresentarem \ncaracterísticas \nfisiológicas \nque \nlhes conferem maior tamanho corporal que o das \nespécies nativas.",
+  "processado_em": "2026-05-08T14:00:14.316825",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 114 \nO Brasil produz em média 30 bilhões de litros de etanol \npor ano. Para cada litro de álcool produzido, são gerados, \naproximadamente, 10 litros de vinhaça, resíduo rico em sais \nminerais e em matéria orgânica. Esse resíduo pode ser utilizado \npara a produção do óleo de microalgas para fabricação de \nbiodiesel. A cada mil litros de vinhaça, são produzidos cerca \nde 2,8 L de óleo, prontos para produzir biodiesel. A proporção \nentre a massa do óleo consumida e a do biodiesel produzida é \npraticamente 1 : 1. Considere a densidade do óleo igual a 0,9 kg/L.\nDisponível em: https://revistapesquisa.fapesp.br. \n Acesso em: 2 dez. 2021 (adaptado).\nSe toda a vinhaça produzida anualmente no Brasil fosse utilizada \nna produção de biodiesel, a massa obtida seria mais próxima de\nA 3,0 × 1011 kg.\nB 8,4 × 108 kg.\nC 7,6 × 108 kg.\nD 8,4 × 107 kg.\nE 7 6 × 107 kg",
+  "processado_em": "2026-05-08T14:06:35.537883",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

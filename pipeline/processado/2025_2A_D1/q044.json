@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 44 \nAMARILDO. Disponível em: www.robertomoraes.com.br. Acesso em: 3 dez. 2012.\nNessa charge, revela-se uma representação recorrente no esporte \nde alto rendimento relacionada ao(à)\nA valorização do esforço coletivo.\nB desejo de superação constante.\nC indiferença em relação aos adversários.\nD reflexão sobre os resultados alcançados.\nE desigualdade das condições de treinamento",
+  "processado_em": "2026-05-08T14:06:28.712765",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

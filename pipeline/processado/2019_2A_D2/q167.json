@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 167\t\nUma empresa divide o balanço anual de vendas de \nseus produtos em duas partes, calculando o número de \nvendas dos produtos ao final de cada semestre do ano. \nApós o balanço do primeiro semestre, foram realizadas \nações de marketing para os cinco produtos menos vendidos \nda empresa. A tabela mostra a evolução das vendas desses \nprodutos, do primeiro para o segundo semestre.\nProduto\nNúmero de unidades \nvendidas no \nprimeiro semestre\nNúmero de unidades \nvendidas no \nsegundo semestre\nI\n350\n600\nII\n1 000\n1 100\nIII\n4 000\n4 500\nIV\n850\n1 200\nV\n2 000\n2 600\nO sucesso de uma ação de marketing de um \nproduto é medido pelo aumento percentual do número \nde unidades vendidas desse produto, do primeiro para o \nsegundo semestre.\nA ação de marketing mais bem-sucedida foi para o produto\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-11T23:27:13.416878",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

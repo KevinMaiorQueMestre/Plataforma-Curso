@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 59\t\nFigura 1\nFigura 2\nJ\nF\nM\nA\nM\nTemperatura\nTaxa de pluviosidade\nJ\nJ\nA\nS\nO\nN\nD\n−10\n10\n20\n30\n40\n50\nºC\nmm\n0\n20\n40\n60\n80\n100\n0\nCidade do Cabo\nBarcelona \nMoscou\nMumbai\nSydney\nDisponível em: https://pt.climate-data.org. Acesso em: 12 maio 2017 (adaptado).",
+  "processado_em": "2026-05-11T23:25:41.648954",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

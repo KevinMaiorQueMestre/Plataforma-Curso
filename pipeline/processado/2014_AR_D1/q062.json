@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 62\t\nUm sistema de pistão contendo um gás é mostrado \npode movimentar-se livremente sem atrito, encontra-se um\nfornecer calor ao gás e, com auxílio de um manômetro, \nfornecido, considerando o sistema como hermético, o ob\nForam estudadas, separadamente, quantidades equimolar\nObjeto\nManômetro\nChapa de aquecimento\n∆\n∆h\nA diferença no comportamento dos gases no experimento \nA\t maior pressão de vapor.\nB\t menor massa molecular.\nC\t maior compressibilidade.\nD\t menor energia de ativação.\nE\nid d\nl\nífi",
+  "processado_em": "2026-05-08T14:00:30.779610",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

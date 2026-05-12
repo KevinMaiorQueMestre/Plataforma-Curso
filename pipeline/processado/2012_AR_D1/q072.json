@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 72\t\nUma empresa de transportes precisa efetuar a \nentrega de uma encomenda o mais breve possível. \nPara tanto, a equipe de logística analisa o trajeto desde \na empresa até o local da entrega. Ela verifica que o \ntrajeto apresenta dois trechos de distâncias diferentes e \nvelocidades máximas permitidas diferentes. No primeiro \ntrecho, a velocidade máxima permitida é de 80 km/h e a \ndistância a ser percorrida é de 80 km. No segundo trecho, \ncujo comprimento vale 60 km, a velocidade máxima \npermitida é 120 km/h.\nSupondo que as condições de trânsito sejam favoráveis \npara que o veículo da empresa ande continuamente \nna velocidade máxima permitida, qual será o tempo \nnecessário, em horas, para a realização da entrega?\nA\t 0,7\nB\t 1,4\nC\t 1,5\nD\t 2,0\nE\t 3,0",
+  "processado_em": "2026-05-08T13:59:02.505322",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

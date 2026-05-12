@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 135\t\nOs satélites artificiais e as sondas para exploração espacial\no último século. Para coletar e armazenar informações ao\nomo forma de fornecer energia limpa ao satélite, são acoplados\nezes são confundidos com “asas”.\nUm satélite geoestacionário precisa armazenar a energia ob\ne otimizar o processo de absorção da energia solar, o ideal é qu\nolares incidentes. Para isso, foi adaptado um sistema que rotac\nQual é a velocidade de rotação dos painéis em comparação à ve\nA\t0,25 RT\nB\t0,5 RT\nC\tRT\nD\t2 RT\nE 4 R",
+  "processado_em": "2026-05-08T14:06:51.993125",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

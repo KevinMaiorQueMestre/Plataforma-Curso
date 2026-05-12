@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 116\t\nO 2-BHA é um fenol usado como antioxidante para \nretardar a rancificação em alimentos e cosméticos que \ncontêm ácidos graxos insaturados. Esse composto \ncaracteriza-se por apresentar uma cadeia carbônica \naromática \nmononuclear, \napresentando \no \ngrupo \nsubstituinte terc-butil na posição orto e o grupo metóxi \nna posição para.\nA fórmula estrutural do fenol descrito é\nA\nCH2CH(CH3)2\nH3CO\nHO\nB\nC(CH3)3\nH3CO\nHO\nC\nC(CH3)3\nH2COH\nHO\nD\nC(CH3)3\nH3CO\nHO\nE\nC(CH3)3\nHO",
+  "processado_em": "2026-05-11T23:27:09.606530",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

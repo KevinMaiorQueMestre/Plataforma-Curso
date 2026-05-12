@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 11\nSuperinteressante, n. 290, abr. 2011 (adaptado).\nNo processo de criação da capa de uma revista, é parte importante não só destacar o tema principal da edição, mas \ntambém captar a atenção do leitor. Com essa capa sobre os desastres naturais, desperta-se o interesse do leitor ao se \napresentar uma ilustração com impacto visual e uma parte verbal que agrega ao texto um caráter\nA fantasioso, pois se cria a expectativa de uma matéria jornalística, com a natureza protagonizando ações \nespetaculares no futuro.\nB instrucional, pois se cria a expectativa da apresentação de conselhos e orientações para a precaução contra os \ndesastres naturais.\nC alarmista, pois se reforça a imagem da natureza como um agressor e um inimigo temido pela sua avassaladora \nforça de destruição.\nD místico, pois se cria uma imagem do espaço brasileiro como ameaçado por uma natureza descontrolada, em meio \na um cenário apocalíptico.\nE intimista, pois se reforça a imagem de uma publicação organizada em torno das impressões e crenças do leitor \npreocupado com os desastres naturais.",
+  "processado_em": "2026-05-11T23:25:18.135260",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

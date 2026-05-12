@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nAdmita que um grupo musical deseja produzir \nseu próprio CD. Para tanto, adquire um pequeno \nequipamento para gravar CDs ao valor de R$ 252,00, \ne vários CDs novos, sendo esses os únicos gastos \nrealizados na produção dos CDs. Sabe-se que o custo \ntotal na compra do equipamento e dos CDs totalizou o \nvalor de R$ 1 008,00, e que o custo unitário de cada CD \nnovo, em real, varia de acordo com o número n de CDs \nadquiridos, segundo o quadro.\nNúmero n de CDs \nadquiridos \nCusto unitário de cada \nCD novo (em real)\nn < 1 000\n0,45\n1 000 < n < 2 500\n0,40\n2 500 < n\n0,35\nNessas condições, o número de CDs adquiridos pelo \ngrupo musical é igual a\nA\t\nA\t 1 680.\nB\t\nB\t 1 890.\nC\t\nC\t 2 160.\nD\t\nD\t 2 520.\nE\t\nE\t 2 880.",
+  "processado_em": "2026-05-08T14:04:50.448022",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

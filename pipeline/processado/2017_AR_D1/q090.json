@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 90\t\nFigura 1\nRecorte fotográfico de Maria \nBonita, década de 1930.\nFigura 2\n Traje de coleção de \nZuzu Angel.\nABRAÃO, B. Disponível em: www.brasilcult.pro.br. \n Acesso em: 18 maio 2013.\nDisponível em: www.zuzuangel.com.br. \nAcesso em: 18 maio 2013.\nElaborada em 1969, a releitura contida na Figura 2 revela \naspectos de uma trajetória e obra dedicadas à\nA\t valorização de uma representação tradicional da \nmulher.\nB\t \tdescaracterização \nde \nreferências \ndo \nfolclore \nnordestino.\nC\t \tfusão de elementos brasileiros à moda da Europa.\nD\t \tmassificação do consumo de uma arte local.\nE\t \tcriação de uma estética de resistência.",
+  "processado_em": "2026-05-11T23:25:44.339291",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

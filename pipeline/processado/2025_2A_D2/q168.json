@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 168 \nUm mestre de obras coordena o andamento da construção d\nrealizado por 24 profissionais, com um mesmo rendimento r, qu\ndurante o andamento da obra, 18 deles abandonaram o serv\nPara terminar a obra exatamente no prazo estabelecido, o me\nempresa a contratação de novos profissionais. Para isso, o RH su\nas seguintes opções de contratação, indicando o rendimento de\n• Opção I: contratar 6 profissionais com rendimento igual a \n• Opção II: contratar 8 profissionais com rendimento igual a\n• Opção III: contratar 9 profissionais com rendimento igual a\n• Opção IV: contratar 12 profissionais com rendimento igua\n• Opção V: contratar 15 profissionais com rendimento igual \nO mestre de obras deverá escolher a opção que permita \nprofissionais.\nNessas condições, a escolha do mestre de obras deverá ser a opç\nA I.\nB II.\nC III.\nD IV.\nE V.",
+  "processado_em": "2026-05-08T14:06:38.232345",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

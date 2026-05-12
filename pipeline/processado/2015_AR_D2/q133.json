@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 133\t\nAquarela\nO corpo no cavalete\né um pássaro que agoniza\nexausto do próprio grito.\nAs vísceras vasculhadas\nprincipiam a contagem\nregressiva.\nNo assoalho o sangue\nse decompõe em matizes\nque a brisa beija e balança:\no verde – de nossas matas\no amarelo – de nosso ouro\no azul – de nosso céu\no branco o negro o negro\nCACASO. In: HOLLANDA, H. B (Org.). 26 poetas hoje. Rio de Janeiro: Aeroplano, 2007.\nSituado na vigência do Regime Militar que governou o \nBrasil, na década de 1970, o poema de Cacaso edifica \numa forma de resistência e protesto a esse período, \nmetaforizando \nA\t as artes plásticas, deturpadas pela repressão e censura.\nB\t a natureza brasileira, agonizante como um pássaro \nenjaulado.\nC\t o nacionalismo romântico, silenciado pela perplexidade \ncom a Ditadura.\nD\t o emblema nacional, transfigurado pelas marcas do \nmedo e da violência.\nE\t as riquezas da terra, espoliadas durante o aparelhamento \ndo poder armado.",
+  "processado_em": "2026-05-08T14:00:56.032280",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

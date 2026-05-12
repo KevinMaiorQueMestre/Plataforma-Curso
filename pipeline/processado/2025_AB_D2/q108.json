@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 108\t\nAs mulheres tendem a sofrer alterações periódicas nos níveis \nde hormônios sexuais. Uma exceção é o período da gravidez, \népoca em que ocorrem menores variações hormonais.\nIsso se deve à manutenção de níveis elevados do hormônio \nplacentário:\nA\tProgesterona, que reduz os níveis dos hormônios ovarianos.\nB\tEstrógeno, que estimula a produção dos hormônios \nhipofisários.\nC\tLuteinizante, que diminui os níveis das gonadotrofinas \nhipofisárias.\nD\tGonadotrofina coriônica, que diminui os níveis dos hormônios \nhipofisários.\nE\tFolículo estimulante, que aumenta a concentração dos \nhormônios ovarianos.",
+  "processado_em": "2026-05-08T14:06:50.430659",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

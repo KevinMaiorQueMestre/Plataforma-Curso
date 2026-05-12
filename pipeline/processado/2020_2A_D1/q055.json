@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 55          \nPosturas e concepções presentes nos movimentos \nreligiosos, como a ideia de que existem povos \nescolhidos e abençoados por Deus, passariam a \npovoar o imaginário coletivo da nação que se acreditava \neleita para um destino glorioso. A fé nas instituições \nlivres e democráticas também se intensificava. A partir \ndisso, desenvolveu-se a ideia de “destino manifesto”: \nseria uma missão espalhar a concepção de sociedade \nnorte-americana para as regiões vistas como carentes e \nnecessitadas de ajuda.\nKARNAL, L. et al. História dos Estados Unidos: \ndas origens ao século XXI. São Paulo: Contexto, 2013.\nO projeto de posicionamento geopolítico exposto no texto \nfundamentava-se na articulação entre\nA \t fomento à expansão territorial e avanço da \nacumulação capitalista.\nB \t apelo a lideranças carismáticas e adoção de \ndiplomacia isolacionista.\nC \t privatização da instrução pública e ampliação do \nensino confessional.\nD \t construção do monolitismo partidário e abandono do \nlegislativo bicameral.\nE \t contenção da indústria de defesa e promoção do \ninternacionalismo pacifista.",
+  "processado_em": "2026-05-08T14:03:30.286098",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

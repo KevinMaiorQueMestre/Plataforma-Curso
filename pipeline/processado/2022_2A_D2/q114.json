@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\t\nTrês inseticidas mortais para as abelhas serão \nproibidos na União Europeia (UE) durante dois anos, a \npartir de julho, anunciou a Comissão Europeia em 2013. \nA medida foi adotada por causa da morte de milhares de \nabelhas, insetos vitais para o nosso ecossistema, uma vez \nque desempenham um importante papel na agricultura e, \nportanto, na produção de alimentos para a humanidade.\nDisponível em: http://noticias.r7.com. Acesso em: 24 maio 2013 (adaptado).\nO impacto dos inseticidas mencionados na produção de \nalimentos agrícolas é causado pelo(a)\nA\t\nA\t redução da produção de mel.\nB\t\nB\t decréscimo da taxa de polinização.\nC\t\nC\t contaminação do solo com abelhas mortas.\nD\t\nD\t aumento de resíduos tóxicos nos alimentos.\nE\t\nE\t alteração da cadeia alimentar no ecossistema.",
+  "processado_em": "2026-05-08T14:04:47.552533",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

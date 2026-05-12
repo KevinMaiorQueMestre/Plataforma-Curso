@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 95\t\nEsteiras e escadas rolantes são dispositivos que deslocam, a velocidade constante, os objetos neles colocados, \npor meio de sistemas de controle com sensores. Quando a massa total do dispositivo varia, seja pelo acréscimo ou \npela retirada de objetos, a ação de forças impulsivas mantém a velocidade constante. Como exemplo, considere que \na massa total diminua de 1 200 kg para 1 000 kg em um intervalo de tempo de 0,10 s, e que, então, seja aplicada uma \nforça impulsiva constante de 250 N para manter constante a velocidade.\nNo exemplo mencionado, o valor da velocidade constante do dispositivo rolante é, em m\ns\n,\nA\t\nA\t 0,011.\nB\t\nB\t 0,021.\nC\t\nC\t 0,025.\nD\t\nD\t 0,125.\nE\t\nE\t 0,500.",
+  "processado_em": "2026-05-11T23:28:42.005352",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 72\t\nO funcionamento dos geradores de usinas elétricas \nbaseia-se no fenômeno da indução eletromagnética, \ndescoberto por Michael Faraday no século XIX. Pode-se \nobservar esse fenômeno ao se movimentar um ímã e uma \nespira em sentidos opostos com módulo da velocidade \nigual a v, induzindo uma corrente elétrica de intensidade i, \ncomo ilustrado na figura.\nS\nN\nv\nA\ni\nv\nB\nA fim de se obter uma corrente com o mesmo sentido da \napresentada na figura, utilizando os mesmos materiais, \noutra possibilidade é mover a espira para a\nA\t esquerda e o ímã para a direita com polaridade \ninvertida.\nB\t direita e o ímã para a esquerda com polaridade \ninvertida.\nC\t esquerda e o ímã para a esquerda com mesma \npolaridade.\nD\t direita e manter o ímã em repouso com polaridade \ninvertida.\nE\t esquerda e manter o ímã em repouso com mesma \npolaridade.",
+  "processado_em": "2026-05-08T14:00:31.466360",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nNum projeto da parte elétrica de um edifício \nresidencial a ser construído, consta que as tomadas \ndeverão ser colocadas a 0,20 m acima do piso, enquanto \nos interruptores de luz deverão ser colocados a 1,47 m \nacima do piso. Um cadeirante, potencial comprador de \num apartamento desse edifício, ao ver tais medidas, \nalerta para o fato de que elas não contemplarão suas \nnecessidades. Os referenciais de alturas (em metros) para \natividades que não exigem o uso de força são mostrados \nna figura seguinte.\nUma proposta substitutiva, relativa às alturas de tomadas \ne interruptores, respectivamente, que atenderá àquele \npotencial comprador é\nA\t 0,20 m e 1,45 m.\nB\t 0,20 m e 1,40 m.\nC\t 0,25 m e 1,35 m.\nD\t 0,25 m e 1,30 m.\nE 0 45\n1 20",
+  "processado_em": "2026-05-08T13:59:15.327658",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

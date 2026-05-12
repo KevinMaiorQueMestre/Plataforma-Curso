@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 13\t\nA mídia divulga à exaustão um padrão corporal \ndeterminado, padrão único, branco, jovem, musculoso \ne, especialmente no caso do corpo feminino, magro. \nPesquisas apontam para o fato de que esse padrão \nde beleza divulgado se aplica apenas de 5 a 8% da \npopulação mundial. Especialmente no Brasil, onde a \ndiversidade é uma característica marcante, a mídia no \ngeral acaba por mostrar seu desprezo pela riqueza de \ntipos, de raças, pela própria mestiçagem, insistindo \nnum padrão único de beleza tanto para mulheres \nquanto para homens.\nMALDONADO, G. A educação física e o adolescente: a imagem corporal e \na estética da transformação na mídia impressa. Revista Mackenzie \nde Educação Física e Esportes, n. 1, 2006 (adaptado).",
+  "processado_em": "2026-05-11T23:26:54.718153",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nUm torrefador comprou uma saca de 60 kg de café \nespecial cru (antes de torrar) por R$ 400,00. Devido à \nperda de umidade durante o processo de torrefação, são \nperdidos 10 kg de café por saca.\nO torrefador irá vender o café torrado em embalagens \nde um quilograma e tem por objetivo obter um lucro de \n200%, em relação ao valor pago, por unidade vendida.\nQue preço de venda, por unidade, este torrefador deverá \nestabelecer para atingir o seu objetivo?\nA\t R$ 32,00\nB\t R$ 24,00\nC\t R$ 20,00\nD\t R$ 16,00\nE\t R$ 8,00",
+  "processado_em": "2026-05-11T23:26:22.849676",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

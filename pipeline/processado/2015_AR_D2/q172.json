@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nAlguns exames médicos requerem uma ingestão de \nágua maior do que a habitual. Por recomendação médica, \nantes do horário do exame, uma paciente deveria ingerir \n1 copo de água de 150 mililitros a cada meia hora, durante \nas 10 horas que antecederiam um exame. A paciente foi \na um supermercado comprar água e verificou que havia \ngarrafas dos seguintes tipos:\n•\t\nGarrafa I: 0,15 litro\n•\t\nGarrafa II: 0,30 litro\n•\t\nGarrafa III: 0,75 litro\n•\t\nGarrafa IV: 1,50 litro\n•\t\nGarrafa V: 3,00 litros\nA paciente decidiu comprar duas garrafas do mesmo \ntipo, procurando atender à recomendação médica \ne, ainda, de modo a consumir todo o líquido das duas \ngarrafas antes do exame.\nQual o tipo de garrafa escolhida pela paciente?\nA\t I\nB\t II\nC\t III\nD\t IV\nE V",
+  "processado_em": "2026-05-08T14:00:59.198245",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

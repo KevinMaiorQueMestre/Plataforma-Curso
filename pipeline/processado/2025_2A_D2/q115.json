@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 115 \nO uso de terapias celulares no tratamento do diabetes \nmellitus tem crescido nos últimos anos, com destaque, inclusive, \npara pesquisas brasileiras. Os critérios de inclusão para \nparticipação em uma dessas pesquisas exigem o diagnóstico \nprecoce da doença em jovens com baixa produção de \ninsulina. Os procedimentos terapêuticos envolvem a coleta \nde células-tronco do próprio paciente, imunossupressão com \nquimioterapia e transplante das células.\nLOJUDICE, F. H.; SOGAYAR, M. C. Células-tronco no tratamento e cura do \ndiabetes mellitus. Ciência & Saúde Coletiva, n. 1, 2008 (adaptado).\nQual é o risco da utilização dessa nova biotecnologia?\nA O conflito ético na utilização de células-tronco.\nB A ocorrência de rejeição às novas células transplantadas.\nC A resistência dos receptores de insulina à ação hormonal.\nD A susceptibilidade maior do paciente a infecções oportunistas.\nE A necessidade de testes de compatibilidade genética para \no transplante.",
+  "processado_em": "2026-05-08T14:06:35.581036",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

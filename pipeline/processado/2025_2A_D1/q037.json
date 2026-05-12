@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q037",
+  "imagem": "q037.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 37,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 37 \nQuero brincar, meus amigos\nDe ver beleza nas coisas.\nBeleza no desatino\nNo teu amor descuidado\nBeleza tanta beleza\nNa pobreza.\n[...]\nQuero brincar, meus amigos\nDe ver beleza na morte.\nMais que na morte, na vida.\nTão doce morrer em vida\nTão triste viver em vão.\nVamos brincar, meus amigos\nE de mãos dadas cantar\nMinha feliz invenção:\nBeleza tanta beleza\nEm tudo que não se vê\nBeleza.\nHILST, H. Da poesia. São Paulo: Cia. das Letras, \n2017 (fragmento)",
+  "processado_em": "2026-05-08T14:06:27.796913",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

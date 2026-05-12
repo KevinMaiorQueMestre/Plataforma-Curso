@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q016",
+  "imagem": "q016.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 16,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 16\t\nTodo o poder criativo da mente se reduz a nada \nmais do que a faculdade de compor, transpor, aumentar \nou diminuir os materiais que nos fornecem os sentidos \ne a experiência. Quando pensamos em uma montanha \nde ouro, não fazemos mais do que juntar duas ideias \nconsistentes, ouro e montanha, que já conhecíamos. \nPodemos conceber um cavalo virtuoso, porque somos \ncapazes de conceber a virtude a partir de nossos próprios \nsentimentos, e podemos unir a isso a figura e a forma de \num cavalo, animal que nos é familiar. \nHUME, D. Investigação sobre o entendimento humano. São Paulo: Abril Cultural, 1995. \nHume estabelece um vínculo entre pensamento e \nimpressão ao considerar que\nA\t os conteúdos das ideias no intelecto têm origem na \nsensação.\nB\t o espírito é capaz de classificar os dados da \npercepção sensível.\nC\t as ideias fracas resultam de experiências sensoriais \ndeterminadas pelo acaso.\nD\t os sentimentos ordenam como os pensamentos \ndevem ser processados na memória.\nE\t as ideias têm como fonte específica o sentimento \ncujos dados são colhidos na empiria.",
+  "processado_em": "2026-05-08T14:00:43.454154",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

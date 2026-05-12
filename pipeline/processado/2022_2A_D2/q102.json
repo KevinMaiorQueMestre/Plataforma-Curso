@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 102\t\nOs fabricantes de bebidas só podem chamar de suco \na parte comestível da fruta. Já o néctar de frutas, que tem\nfrutas. O número de calorias dessas bebidas é equivalente\nA qualidade e a quantidade de açúcares presentes nessas\nA\t\nA\t há maior quantidade de frutose no suco e maior quant\nB\t\nB\t há maior quantidade de frutose no néctar e maior quan\nC\t\nC\t há maior quantidade de sacarose no suco e quantidad\nD\t\nD\t há maior quantidade de frutose no suco e quantidades\nE\t\nE\t há maior quantidade de frutose no néctar e quantidade",
+  "processado_em": "2026-05-08T14:04:46.922109",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

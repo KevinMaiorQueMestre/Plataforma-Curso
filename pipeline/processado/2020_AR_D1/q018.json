@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t constrói a ideia de que a mudança individual de \nhábitos promove a saúde.\nB \t considera a homogeneidade da escolha de hábitos \nsaudáveis pelos indivíduos.\nC \t reforça a necessidade de solucionar os problemas de \nsaúde da sociedade com a prática de exercícios.\nD \t problematiza a organização social e seu impacto na \nmudança de hábitos dos indivíduos.\nE \t reproduz a noção de que a melhoria da aptidão física \npela prática de exercícios promove a saúde.\nQuestão 18          \nRetrato de homem\nA paisagem estrita\nao apuro do muro\nfeito vértebra a vértebra\ne escuro.\nA geração dos pelos\nsobre a casca e os rostos\nem seus diques de sombra\nrepostos.\nOs poços com seu lodo\nde ira e de tensão:\nentre cimento e fronte\n— um vão.\nAs setas se atiram\nàs margens de ninguém,\nilesas a si mesmas\nretêm.\nCompassos de evasão\nentre falange e rua\nsondando a solitude\nnua.\nE na armadura de coisa\nsalobra, um só segredo:\na polpa toda é fruição",
+  "processado_em": "2026-05-11T23:27:59.926104",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

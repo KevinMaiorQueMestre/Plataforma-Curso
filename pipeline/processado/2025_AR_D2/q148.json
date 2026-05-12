@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 148\t\nUma livraria comercializa livros dos seguintes gêneros \nliterários: ficção científica, autoajuda, romance e biografia. \nO gráfico apresenta o estoque dos livros que essa livraria tem, \npor gênero literário e por nacionalidade do autor, bem como a \ndemanda por gênero literário, obtida por meio de uma enquete \nfeita com seus clientes habituais.\nEstoque e demanda por livros\nO gerente da livraria fará a encomenda de novos exemplares \nsomente do gênero cuja quantidade em estoque seja insuficiente \npara atender a demanda constatada pela enquete.\nO gênero de livro do qual o gerente deverá encomendar mais \nexemplares é\nA\tficção, pois é o que apresenta maior demanda.\nB\tbiografia, pois é o gênero que tem a menor demanda.\nC\tautoajuda, pois a quantidade em estoque é inferior à demanda.\nD\tbiografia, pois é o gênero que tem a menor quantidade de \nlivros em estoque.\nE\tromance, pois é o que apresenta o menor estoque de livros \nde autores brasileiros.",
+  "processado_em": "2026-05-08T14:07:09.015294",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nQuando Deus redimiu da tirania\nDa mão do Faraó endurecido\nO Povo Hebreu amado, e esclarecido,\nPáscoa ficou da redenção o dia.\nPáscoa de flores, dia de alegria\nÀquele Povo foi tão afligido\nO dia, em que por Deus foi redimido;\nErgo sois vós, Senhor, Deus da Bahia.\nPois mandado pela alta Majestade\nNos remiu de tão triste cativeiro,\nNos livrou de tão vil calamidade.\nQuem pode ser senão um verdadeiro\nDeus, que veio estirpar desta cidade\nO Faraó do povo brasileiro.\nDAMASCENO, D. (Org.). Melhores poemas: Gregório de Matos. São Paulo: Globo, 2006.\nCom uma elaboração de linguagem e uma visão de \nmundo que apresentam princípios barrocos, o soneto de \nGregório de Matos apresenta temática expressa por\nA\t visão cética sobre as relações sociais.\nB\t preocupação com a identidade brasileira.\nC\t crítica velada à forma de governo vigente.\nD\t reflexão sobre os dogmas do cristianismo.\nE\t questionamento das práticas pagãs na Bahia.",
+  "processado_em": "2026-05-08T14:00:36.521027",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

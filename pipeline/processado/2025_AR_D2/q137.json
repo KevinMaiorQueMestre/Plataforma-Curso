@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 137\t\nEm um laboratório, um recipiente contém 10 litros de \numa solução composta apenas pelas substâncias S1 e S2. \nDessa solução, 99,95% é de S1. Uma quantidade de S1 será \nretirada dessa solução, mantendo a quantidade inicial de S2, \nde modo que 99,90% da nova solução seja de S1.\nQual é a quantidade de S1, em litro, que será retirada?\nA\t0,0050\nB\t0,0100\nC\t0,5000\nD\t4,9775\nE\t5,0000",
+  "processado_em": "2026-05-08T14:07:08.315310",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

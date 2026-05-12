@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\nPara ganhar um prêmio, uma pessoa deverá retirar, \nVXFHVVLYDPHQWH\u0003H\u0003VHP\u0003UHSRVLomR\u000f\u0003GXDV\u0003ERODV\u0003SUHWDV\u0003GH\u0003\numa mesma urna.\n,QLFLDOPHQWH\u000f\u0003DV\u0003TXDQWLGDGHV\u0003H\u0003FRUHV\u0003GDV\u0003ERODV\u0003VmR\u0003\ncomo descritas a seguir:\n\u0003 Urna A – Possui três bolas brancas, duas bolas \npretas e uma bola verde;\n\u0003 Urna B – Possui seis bolas brancas, três bolas \npretas e uma bola verde;\n\u0003 Urna C – Possui duas bolas pretas e duas bolas \nverdes;\n\u0003 Urna D – Possui três bolas brancas e três bolas \npretas.\nA pessoa deve escolher uma entre as cinco opções \napresentadas:\n\u0003 2SomR\u0003\u0014\u0003±\u00035HWLUDU\u000f\u0003DOHDWRULDPHQWH\u000f\u0003GXDV\u0003ERODV\u0003GD\u0003XUQD\u0003$\u001e\n\u0003 2SomR\u0003\u0015\u0003±\u00035HWLUDU\u000f\u0003DOHDWRULDPHQWH\u000f\u0003GXDV\u0003ERODV\u0003GD\u0003\nurna B;\n\u0003 2SomR\u0003\u0016\u0003±\u00033DVVDU\u000f\u0003DOHDWRULDPHQWH\u000f\u0003XPD\u0003EROD\u0003GD\u0003XUQD\u0003\nC para a urna A; após isso, retirar, aleatoriamente, \nduas bolas da urna A;\n\u0003 2SomR\u0003\u0017\u0003±\u00033DVVDU\u000f\u0003DOHDWRULDPHQWH\u000f\u0003XPD\u0003EROD\u0003GD\u0003XUQD\u0003\nD para a urna C; após isso, retirar, aleatoriamente, \nduas bolas da urna C;\n\u0003 2SomR\u0003\u0018\u0003±\u00033DVVDU\u000f\u0003DOHDWRULDPHQWH\u000f\u0003XPD\u0003EROD\u0003GD\u0003XUQD\u0003\nC para a urna D; após isso, retirar, aleatoriamente, \nduas bolas da urna D.\nCom o objetivo de obter a maior probabilidade possível de \nJDQKDU\u0003R\u0003SUrPLR\u000f\u0003D\u0003SHVVRD\u0003GHYH\u0003HVFROKHU\u0003D\u0003RSomR\nA 1.\nB \u0015\u0011\nC 3.\nD \u0017\u0011\nE 5.",
+  "processado_em": "2026-05-11T23:26:50.135292",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

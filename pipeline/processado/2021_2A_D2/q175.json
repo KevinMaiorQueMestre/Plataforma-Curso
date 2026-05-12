@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A probabilidade de uma peça defeituosa ter sido produzida \npela máquina M2 é mais próxima de\nA \u0002 &$«\nB \u0002 }$«\nC \u0002 $¼«\nD \u0002 &$}«\nE \u0002 ¼$«\nQuestão 175\nA senha de um cofre é uma sequência formada por \n\u0004\u000e\r\u0004\u0002 \u000fGJ\u000e\r\u0004\t$\u0002 \u000b\f\n\u0002 \t\u001d\u0004\u0002 \b2J\b\u0007\u000e\t\u0010\u0004\t\u0002 \n\t\u001e\u00042+\u000e\u000f\u0004\t\u0002 \u000f\n\u0002 \u0002 \b\u0002 (\u0002 \n\u0012\u0004\u0002 \u000e\u0005\t\n\u0007\u000e/2\b$\u0002 \u0004\u0002 \f\t\f?\u0007\u000e\u0004\u0002 \t\n\u0002 \n\t\u000b\f\n\u001e\n\f\u0002 \u000f\u0004\t\u0002 \u000f\u0004\u000e\t\u0002 K2\r\u000e\u0010\u0004\t\u0002\ndígitos que formam essa senha, lembrando somente \n\u000b\f\n\u0002\n\t\t\n\t\u0002\u000fGJ\u000e\r\u0004\t\u0002\t\u001d\u0004\u0002\u000f\u000e\t\r\u000e\u0005\r\u0004\t(\u0002\nDigitando ao acaso os dois dígitos esquecidos, a \nprobabilidade de que o usuário acerte a senha na primeira \ntentativa é\nA    2\n  \n__\n  8\nB    1\n  \n__\n  90\nC    2\n  \n__\n  90\nD    1\n  \n___\n  100\nE    2\n  \n___\n  100",
+  "processado_em": "2026-05-08T14:04:17.864605",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

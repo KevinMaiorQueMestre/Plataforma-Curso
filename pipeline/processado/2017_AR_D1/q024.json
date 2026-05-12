@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 24\t\nE aqui, antes de continuar este espetáculo, é \nnecessário que façamos uma advertência a todos e a \ncada um. Neste momento, achamos fundamental que \ncada um tome uma posição definida. Sem que cada um \ntome uma posição definida, não é possível continuarmos. \nÉ fundamental que cada um tome uma posição, seja para \na esquerda, seja para a direita. Admitimos mesmo que \nalguns tomem uma posição neutra, fiquem de braços \ncruzados. Mas é preciso que cada um, uma vez tomada \nsua posição, fique nela! Porque senão, companheiros, as \ncadeiras do teatro rangem muito e ninguém ouve nada.\nFERNANDES, M.; RANGEL, F. Liberdade, liberdade. Porto Alegre: L&PM, 2009.\nA peça Liberdade, liberdade, encenada em 1964, \napresenta o impasse vivido pela sociedade brasileira em \nface do regime vigente. Esse impasse é representado no \nfragmento pelo(a)\nA\t \tbarulho excessivo produzido pelo ranger das cadeiras \ndo teatro.\nB\t \tindicação da neutralidade como a melhor opção \nideológica naquele momento.\nC\t \tconstatação da censura em função do engajamento \nsocial do texto dramático.\nD\t \tcorrelação entre o alinhamento político e a posição \ncorporal dos espectadores.\nE\t \tinterrupção \ndo \nespetáculo \nem \nvirtude \ndo \ncomportamento inadequado do público.",
+  "processado_em": "2026-05-11T23:25:37.080280",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nUm sistema de polias circulares e correias é um dos \nmecanismos responsáveis pela transmissão de movimento \nem máquinas rotativas. O manual de um motor traz uma \nfigura representando um sistema composto por duas polias \ne uma correia de transmissão, tensionada e perfeitamente \najustada sobre as polias, de modo a não apresentar folgas \nnos contatos com as polias. Considere que as partes \ndessa correia que não ficam em contato com as polias são \nrepresentadas por segmentos de reta tangentes às polias.\nPara substituição dessa correia, é necessária a \nespecificação de seu comprimento.\nConsidere 3 como valor aproximado para π.\nA medida do comprimento dessa correia, em centímetro, é\nA\t54.\nB\t60.\nC\t66.\nD\t68.\nE 72",
+  "processado_em": "2026-05-08T14:06:19.791062",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

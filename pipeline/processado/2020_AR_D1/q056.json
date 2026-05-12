@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 56          \nA demanda mundial para a produção de alimentos \naumenta \nprogressivamente \na \ntaxas \nmuito \naltas. \nAtualmente, na maioria dos países, continentes e regiões, \na água consumida na agricultura é de cerca de 70% da \ndisponibilidade total.\nTUNDISI, J. G. Recursos hídricos no futuro: problemas e soluções.\nEstudos Avançados, n. 63, 2008 (adaptado).\nPara que haja a redução da pressão sobre o recurso \nnatural mencionado, a expansão da agricultura demanda \nmelhorias no(a)",
+  "processado_em": "2026-05-11T23:28:04.682400",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nNa construção da ferrovia Madeira-Mamoré, o \nque dizer dos doentes, eternos moribundos a vagar \nentre delírios febris, doses de quinino e corredores da \nmorte? O Hospital da Candelária era santuário e túmulo, \nmonumento ao progresso científico e preâmbulo da \nescuridão. Foi ali, com suas instalações moderníssimas, \nque médicos e sanitaristas dirigiram seu combate \naos males tropicais. As maiores vítimas, contudo, \npermaneceriam na sombra à margem do palco, cobaias \nsem consolo, credores sem nome de uma sociedade que \nnão lhes concedera tempo algum para ser decifrada. \nFOOT HARDMAN, F. Trem fantasma: modernidade na selva. \nSão Paulo: Cia. das Letras, 1988 (adaptado).\nNo texto, há uma crítica ao modo de ocupação do espaço \namazônico pautada na \nA\t\nA\t discrepância entre engenharia ambiental e equilíbrio \nda fauna.\nB\t\nB\t incoerência entre maquinaria estrangeira e controle \nda floresta.\nC\t\nC\t incompatibilidade \nentre \ninvestimento \nestatal \ne \nproteção aos nativos.\nD\t\nD\t competição entre farmacologia internacional e \nprodutos da fitoterapia.\nE\t\nE\t contradição \nentre \ndesenvolvimento \nnacional \ne \nrespeito aos trabalhadores.",
+  "processado_em": "2026-05-08T14:05:03.428102",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

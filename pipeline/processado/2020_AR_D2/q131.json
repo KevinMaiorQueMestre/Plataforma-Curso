@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "r sobre a condensação da luz solar no foco de uma lente e queria verificar \nm para o aquecimento. Para isso, ele projetou sobre um anteparo o espectro \nmetros nas diversas faixas de cores e verificou nos dados obtidos que um \nmento de temperatura maior para uma determinada faixa de frequências.\nAR, M. B. Infravermelho na sala de aula. Disponível em: www.cienciamao.usp.br. Acesso em: 15 ago. 2016 (adaptado).\num estudante montou o dispositivo apresentado na figura. Nesse aparato, \nmperatura inicial, e separados por um material isolante térmico e refletor são \nterior de uma caixa de material isolante térmico e opaco. A luz solar, ao entrar \ns recipientes. O estudante aguarda até que ocorra o aumento da temperatura \nCaixa isolada e\n    opaca\nIncidência de luz\n       solar\nLuz\n  solar\n    decomposta\nVermelho\nA\nB\nC\nD\nE\nVioleta\nEspectro\nvisível\nRecipientes\nPRISMA",
+  "processado_em": "2026-05-11T23:28:15.390233",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 65\t\nBrasil, China e Índia tiveram maiores \nsaltos em expectativa de vida\nCrescimento relativo da expectativa de vida, comparação \nentre as 10 maiores economias do mundo, 1960-2020\nBIERNATH, A. Os gráficos que mostram os paradoxos da expectativa \nde vida no Brasil. Disponível em: www.bbc.com. \nAcesso em: 21 out. 2023 (adaptado).\nNo contexto apresentado, qual fator explica o desempenho \ndemográfico dos países emergentes?\nA\tSolidez da cultura nacional.\nB\tExpansão do saldo migratório.\nC\tMelhoria do desenvolvimento humano.\nD\tConsolidação de fronteiras territoriais.\nE\tManutenção dos padrões familiares.",
+  "processado_em": "2026-05-08T14:06:46.739587",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

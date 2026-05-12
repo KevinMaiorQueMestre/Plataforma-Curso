@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 132          \nA pentano-5-lactama é uma amida cíclica que tem \naplicações na síntese de fármacos e pode ser obtida pela \ndesidratação intramolecular, entre os grupos funcionais \nde ácido carboxílico e amina primária, provenientes de um \ncomposto de cadeia alifática, saturada, normal e homogênea.\nPentano-5-lactama\nO composto que, em condições apropriadas, dá origem a \nessa amida cíclica é\nA \t CH3NHCH2CH2CH2CO2H.\nB \t HOCH=CHCH2CH2CONH2.\nC \t CH2(NH2)CH2CH=CHCO2H.\nD \t CH2(NH2)CH2CH2CH2CO2H.\nE \t CH2(NH2)CH(CH3)CH2CO2H.",
+  "processado_em": "2026-05-08T14:03:37.647766",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

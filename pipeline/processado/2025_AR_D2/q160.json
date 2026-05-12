@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 160\t\nOs quadrados em cinza na figura representam os quarteirões \nde uma parte do bairro onde moram João e seu amigo. \nO quadrado pequeno (A), pintado em preto e localizado no canto \nsuperior esquerdo de um quadrado maior, indica a casa do amigo \nde João. João também mora em uma casa de esquina, mas na \nextremidade nordeste de um quarteirão. Para chegar à casa de \nseu amigo, ao sair de casa, João deve caminhar pelo quarteirão \nonde mora na direção oeste, dobrar à direita, caminhar por três \nquarteirões na direção norte e dobrar à esquerda. A casa de \nseu amigo fica no segundo quarteirão a oeste.\nO quarteirão onde se encontra a casa de João é representado \npelo quadrado com a letra\nA\tP.\nB\tQ.\nC\tR.\nD\tS.\nE\tT.",
+  "processado_em": "2026-05-08T14:07:09.776272",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

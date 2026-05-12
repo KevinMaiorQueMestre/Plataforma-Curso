@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\n8P\u0003 MRJR\u0003 SHGDJyJLFR\u0003 XWLOL]D\u0010VH\u0003 GH\u0003 XPD\u0003 LQWHUIDFH\u0003\nDOJpEULFR\u0010JHRPpWULFD\u0003GR\u0003VHJXLQWH\u0003PRGR\u001d\u0003RV\u0003DOXQRV\u0003GHYHP\u0003\neliminar os pontos do plano cartesiano dando “tiros”, \nseguindo trajetórias que devem passar pelos pontos \nescolhidos. Para dar os tiros, o aluno deve escrever em \nXPD\u0003MDQHOD\u0003GR\u0003SURJUDPD\u0003D\u0003HTXDomR\u0003FDUWHVLDQD\u0003GH\u0003XPD\u0003\nreta ou de uma circunferência que passa pelos pontos \ne pela origem do sistema de coordenadas. Se o tiro for \nGDGR\u0003SRU\u0003PHLR\u0003GD\u0003HTXDomR\u0003GD\u0003FLUFXQIHUrQFLD\u000f\u0003FDGD\u0003SRQWR\u0003\nGLIHUHQWH\u0003 GD\u0003 RULJHP\u0003 TXH\u0003 IRU\u0003 DWLQJLGR\u0003 YDOH\u0003 \u0015\u0003 SRQWRV\u0011\u0003 6H\u0003\nR\u0003WLUR\u0003IRU\u0003GDGR\u0003SRU\u0003PHLR\u0003GD\u0003HTXDomR\u0003GH\u0003XPD\u0003UHWD\u000f\u0003FDGD\u0003\nponto diferente da origem que for atingido vale 1 ponto. \n(P\u0003 XPD\u0003 VLWXDomR\u0003 GH\u0003 MRJR\u000f\u0003 DLQGD\u0003 UHVWDP\u0003 RV\u0003 VHJXLQWHV\u0003\npontos para serem eliminados: A\u000b\u0013\u0003\u001e\u0003\u0017\f\u000f\u0003B\u000b\u0017\u0003\u001e\u0003\u0017\f\u000f\u0003C\u000b\u0017\u0003\u001e\u0003\u0013\f\u000f\u0003\nD\u000b\u0015\u0003\u001e\u0003\u0015\f\u0003H\u0003E\u000b\u0013\u0003\u001e\u0003\u0015\f\u0011\nPassando pelo ponto A\u000f\u0003TXDO\u0003HTXDomR\u0003IRUQHFHULD\u0003D\u0003PDLRU\u0003\nSRQWXDomR\"\nA x = 0\nB y = 0\nC x\u0015 + y\u0015 = 16\nD x\u0015\u0003\u000e\u0003\u000b\\\u0003í\u0003\u0015\f\u0015\u0003 \u0003\u0017\nE \u000b[\u0003í\u0003\u0015\f\u0015\u0003\u000e\u0003\u000b\\\u0003í\u0003\u0015\f\u0015 = 8\n5\n5\n4\n4\n3\n3\n2\n2\n1\n1\n0\n6\ny\nA\nx\nD\nE\nB\nC",
+  "processado_em": "2026-05-11T23:26:49.619838",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

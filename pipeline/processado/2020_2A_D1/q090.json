@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 90          \nSendo função social antes que direito, o voto era \nconcedido àqueles a quem a sociedade julgava poder \nconfiar sua preservação. No Império, como na República, \nforam excluídos os pobres (seja pela renda, seja pela \nexigência de alfabetização), os mendigos, as mulheres, \nos menores de idade, os praças de pré, os membros de \nordens religiosas.\nCARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República que não foi. \nSão Paulo: Cia. das Letras, 1996.\nA restrição à participação eleitoral mencionada no texto \nvisava assegurar o poder político aos(às)\nA \t assalariados urbanos.\nB \t oligarquias regionais.\nC \t empresários industriais.\nD \t profissionais liberais.\nE círculos militares",
+  "processado_em": "2026-05-08T14:03:32.501543",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

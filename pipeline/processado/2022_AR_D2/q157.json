@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nUma montadora de automóveis divulgou que oferta a \nseus clientes mais de 1 000 configurações diferentes de \ncarro, variando o modelo, a motorização, os opcionais e \na cor do veículo. Atualmente, ela oferece 7 modelos de \ncarros com 2 tipos de motores: 1.0 e 1.6. Já em relação \naos opcionais, existem 3 escolhas possíveis: central \nmultimídia, rodas de liga leve e bancos de couro, podendo \no cliente optar por incluir um, dois, três ou nenhum dos \nopcionais disponíveis.\nPara ser fiel à divulgação feita, a quantidade mínima \nde cores que a montadora deverá disponibilizar a seus \nclientes é\nA\t\nA\t 8.\nB\t\nB\t 9.\nC\t\nC\t 11.\nD\t\nD\t 18.\nE\t\nE\t 24.",
+  "processado_em": "2026-05-08T14:05:12.295820",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\t\nO arquiteto Renzo Piano exibiu a maquete da nova \nsede do Museu Whitney de Arte Americana, um prédio \nassimétrico que tem um vão aberto para a galeria principal, \ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200.\nÉpoca, n. 682, jun. 2011 (adaptado).\nA medida da área do vão aberto nessa maquete, em \ncentímetro quadrado, é\nA\t4,18.\nB\t8,36.\nC\t41,80.\nD\t83,60.\nE 418 00",
+  "processado_em": "2026-05-08T14:06:21.539988",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

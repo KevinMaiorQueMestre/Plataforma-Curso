@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 83\t\nAumentar a eficiência na queima de combustível dos \nmotores a combustão e reduzir suas emissões de poluentes \né a meta de qualquer fabricante de motores. É também o \nfoco de uma pesquisa brasileira que envolve experimentos \ncom plasma, o quarto estado da matéria e que está presente \nno processo de ignição. A interação da faísca emitida pela \nvela de ignição com as moléculas de combustível gera o \nplasma que provoca a explosão liberadora de energia que, \npor sua vez, faz o motor funcionar.\nDisponível em: www.inovacaotecnologica.com.br. Acesso em: 22 jul. 2010 (adaptado).\nNo entanto, a busca da eficiência referenciada no texto \napresenta como fator limitante\nA\t o tipo de combustível, fóssil, que utilizam. Sendo um \ninsumo não renovável, em algum momento estará \nesgotado.\nB\t um dos princípios da termodinâmica, segundo o qual \no rendimento de uma máquina térmica nunca atinge \no ideal.\nC\t o funcionamento cíclico de todos os motores. A \nrepetição contínua dos movimentos exige que parte \nda energia seja transferida ao próximo ciclo.\nD\t as forças de atrito inevitável entre as peças. Tais \nforças provocam desgastes contínuos que com o \ntempo levam qualquer material à fadiga e ruptura.\nE\t a temperatura em que eles trabalham. Para atingir o \nplasma, é necessária uma temperatura maior que a \nde fusão do aço com que se fazem os motores.",
+  "processado_em": "2026-05-08T13:59:02.518761",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

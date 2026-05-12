@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 177        \nAntônio, Joaquim e José são sócios de uma \nempresa cujo capital é dividido, entre os três, em \npartes proporcionais a: 4, 6 e 6, respectivamente. Com \na intenção de igualar a participação dos três sócios no \ncapital da empresa, Antônio pretende adquirir uma fração \ndo capital de cada um dos outros dois sócios.\nA fração do capital de cada sócio que Antônio deverá \nadquirir é\nA\t\n1\n2\nB\t\n1\n3\nC\t 1\n9\nD\t 2\n3\nE\t 4\n3",
+  "processado_em": "2026-05-11T23:28:20.405815",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

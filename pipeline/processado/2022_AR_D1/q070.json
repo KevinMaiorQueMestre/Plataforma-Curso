@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nTEXTO I\nInterseccionalidade: intercruzamento de desigualdades \nque gera padrões complexos de discriminação.\nTEXTO II\n30,4%\n21,0%\n11,6%\n10,0%\nProporção de pessoas abaixo da linha de pobreza\nPor arranjo domiciliar no Brasil — 2017\nMulher sem cônjuge e com filho(s) até 14 anos\nMulher preta ou parda sem cônjuge e com filho(s) até 14 anos\nMulher branca sem cônjuge e com filho(s) até 14 anos\nCasal com filho(s)\nOutros\nUnipessoal\nCasal sem filho\n56,9%\n64,4%\n41,5%\nDisponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.\nConsiderando o conceito apresentado no Texto I e os \ndados apresentados no Texto II, no Brasil, são fatores \nque intensificam o fenômeno da discriminação:\nA\t\nA\t Raça e gênero.\nB\t\nB\t Etnia e habitação.\nC\t\nC\t Idade e nupcialidade.\nD\t\nD\t Profissão e sexualidade.\nE\t\nE\t Escolaridade e fecundidade.",
+  "processado_em": "2026-05-08T14:05:04.550266",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nNos cinco jogos finais da última temporada, com \numa média de 18 pontos por jogo, um jogador foi eleito o \nmelhor do campeonato de basquete. Na atual temporada, \ncinco jogadores têm a chance de igualar ou melhorar \nessa média. No quadro estão registradas as pontuações \ndesses cinco jogadores nos quatro primeiros jogos das \nfinais deste ano.\nJogadores\nJogo 1\nJogo 2\nJogo 3\nJogo 4\nI\n12\n25\n20\n20\nII\n12\n12\n27\n20\nIII\n14\n14\n17\n26\nIV\n15\n18\n21\n21\nV\n22\n15\n23\n15\nO quinto e último jogo será realizado para decidir a \nequipe campeã e qual o melhor jogador da temporada.\nO jogador que precisa fazer a menor quantidade de \npontos no quinto jogo, para igualar a média de pontos do \nmelhor jogador da temporada passada, é o \nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:12.777498",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

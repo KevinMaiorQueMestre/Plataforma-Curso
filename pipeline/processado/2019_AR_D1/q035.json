@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q035",
+  "imagem": "q035.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 35,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 35\t\nNo Brasil, a disseminação de uma expectativa de \ncorpo com base na estética da magreza é bastante grande \ne apresenta uma enorme repercussão, especialmente, \nse considerada do ponto de vista da realização pessoal. \nEm pesquisa feita na cidade de São Paulo, aparecem os \npercentuais de 90% entre as mulheres pesquisadas que \nse dizem preocupadas com seu peso corporal, sendo \nque 95% se sentem insatisfeitas com “seu próprio corpo”.\nSILVA, A. M. Corpo, ciência e mercado: reflexões acerca da gestação \nde um novo arquétipo da felicidade. Campinas: Autores Associados; \nFlorianópolis: UFSC, 2001.\nA preocupação excessiva com o “peso” corporal pode \nprovocar o desenvolvimento de distúrbios associados \ndiretamente à imagem do corpo, tais como\nA\t anorexia e bulimia.\nB\t ortorexia e vigorexia.\nC\t ansiedade e depressão.\nD\t sobrepeso e fobia social.\nE\t sedentarismo e obesidade.",
+  "processado_em": "2026-05-11T23:27:23.328833",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 42\t\nTEXTO I\nO presidente do jornal de maior circulação do país \ndestacava também os avanços econômicos obtidos \nnaqueles vinte anos, mas, ao justificar sua adesão aos \nmilitares em 1964, deixava clara sua crença de que a \nintervenção fora imprescindível para a manutenção da \ndemocracia.\nDisponível em: http://oglobo.globo.com. Acesso em: 1 set. 2013 (adaptado). \nTEXTO II\nNada pode ser colocado em compensação à \nperda das liberdades individuais. Não existe nada de bom \nquando se aceita uma solução autoritária.\nFICO, C. A educação e o golpe de 1964. Disponível em: www.brasilrecente.com. \nAcesso em: 4 abr. 2014 (adaptado).\nEmbora enfatizem a defesa da democracia, as visões do \nmovimento político-militar de 1964 divergem ao focarem, \nrespectivamente:\nA\t Razões de Estado — Soberania popular.\nB\t Ordenação da Nação — Prerrogativas religiosas.\nC\t Imposição das Forças Armadas — Deveres sociais.\nD\t Normatização do Poder Judiciário — Regras morais.\nE\t Contestação do sistema de governo — Tradições \nculturais.",
+  "processado_em": "2026-05-08T14:00:29.766634",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

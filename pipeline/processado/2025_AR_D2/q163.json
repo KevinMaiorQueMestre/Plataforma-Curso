@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 163\t\nUm artista, que costuma fazer desenhos com areia na \npraia, pediu a um banhista que fizesse um pequeno desenho, \nque serviria de esboço para uma grande obra de arte a ser \nfeita na areia. Esse desenho está representado na figura.\nApós a conclusão, a obra de arte obtida manteve as mesmas \nproporções do desenho feito pelo banhista, sendo que as \nmedidas indicadas na figura foram ampliadas para 30 m.\nEm qual escala esse desenho representa a obra de arte?\nA\t1 : 1,5\nB\t1 : 2,25\nC\t1 : 10\nD\t1 : 100\nE\t1 : 150",
+  "processado_em": "2026-05-08T14:07:09.919705",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 19\nQUESTÃO 142\t\nDe forma geral, os pneus radiais trazem em \nsua lateral uma marcação do tipo abc/deRfg, como \n185/65R15. Essa marcação identifica as medidas do \npneu da seguinte forma: \n•\t abc é a medida da largura do pneu, em milímetro;\n•\t de é igual ao produto de 100 pela razão entre a \nmedida da altura (em milímetro) e a medida da \nlargura do pneu (em milímetro);\n•\t R significa radial;\n•\t fg é a medida do diâmetro interno do pneu, em \npolegada.\nA figura ilustra as variáveis relacionadas com \nesses dados.\n \nLargura\nAltura\nDiâmetro\ninterno\nO proprietário de um veículo precisa trocar os pneus \nde seu carro e, ao chegar a uma loja, é informado \npor um vendedor que há somente pneus com os \nseguintes códigos: 175/65R15, 175/75R15, 175/80R15, \n185/60R15 e 205/55R15. Analisando, juntamente com \no vendedor, as opções de pneus disponíveis, concluem \nque o pneu mais adequado para seu veículo é o que \ntem a menor altura.\nDesta forma, o proprietário do veículo deverá comprar o \npneu com a marcação\nA\t 205/55R15.\nB\t 175/65R15.\nC\t 175/75R15.\nD\t 175/80R15.\nE\t 185/60R15.",
+  "processado_em": "2026-05-08T14:01:21.842940",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

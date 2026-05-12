@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nEm uma competição de velocidade, diz-se que há uma \nultrapassagem quando um veículo que está atrás de outro \npassa à sua frente, com ambos se deslocando no mesmo \nsentido. Considere uma competição automobilística entre \ncinco carros em uma pista com 100 m de comprimento, \nonde todos largam no mesmo instante e da mesma linha. \nO gráfico mostra a variação da distância percorrida por cada \nveículo, em função do tempo, durante toda a competição.\n100\n0\nDistância (m)\n0\nTempo (s)\n15\nQual o número de ultrapassagens, após o início da \ncompetição, efetuadas pelo veículo que chegou em \núltimo lugar?\nA\t\nA\t 0\nB\t\nB\t 1\nC\t\nC\t 2\nD\t\nD\t 3\nE\t\nE\t 4",
+  "processado_em": "2026-05-08T14:05:11.474944",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

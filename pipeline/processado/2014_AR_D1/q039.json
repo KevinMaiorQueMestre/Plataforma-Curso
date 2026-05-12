@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q039",
+  "imagem": "q039.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 39,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 39\t\nO problema central a ser resolvido pelo Novo \nRegime era a organização de outro pacto de poder que \npudesse substituir o arranjo imperial com grau suficiente \nde estabilidade. O próprio presidente Campos Sales \nresumiu claramente seu objetivo: “É de lá, dos estados, \nque se governa a República, por cima das multidões \nque tumultuam agitadas nas ruas da capital da União.\nA política dos estados é a política nacional”.\nCARVALHO, J. M. Os Bestializados: o Rio de Janeiro e a República que não foi. \nSão Paulo: Companhia das Letras, 1987 (adaptado).\nNessa citação, o presidente do Brasil no período expressa \numa estratégia política no sentido de\nA\t governar com a adesão popular.\nB\t atrair o apoio das oligarquias regionais.\nC\t conferir maior autonomia às prefeituras.\nD\t democratizar o poder do governo central.\nE\t ampliar a influência da capital no cenário nacional.",
+  "processado_em": "2026-05-08T14:00:29.626488",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

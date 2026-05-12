@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nO gráfico apresenta os totais de receitas e despesas \nde uma empresa, expressos em milhão de reais, no \ndecorrer dos meses de um determinado ano. A empresa \nobtém lucro quando a diferença entre receita e despesa é \npositiva e tem prejuízo quando essa diferença é negativa.\nJan.  Fev.  Mar.  Abr.  Maio  Jun.  Jul.   Ago.  Set.  Out.  Nov.  Dez.\n9\n8\n7\n6\n5\n4\n3\n2\n1\n0\nReceitas             Despesas\nQual é a mediana, em milhão de reais, dos valores dos \nlucros apurados pela empresa nesse ano?\nA\t\nA\t 1,5\nB\t\nB\t 2,0\nC\t\nC\t 2,9\nD\t\nD\t 3,0\nE\t\nE\t 5,5",
+  "processado_em": "2026-05-08T14:05:12.107377",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

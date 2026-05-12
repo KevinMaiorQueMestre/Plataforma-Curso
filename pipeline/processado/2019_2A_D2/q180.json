@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 180\t\nPara certas molas, a constante elástica (C) depende \ndo diâmetro médio da circunferência da mola (D), do \nnúmero de espirais úteis (N), do diâmetro (d) do fio \nde metal do qual é formada a mola e do módulo de \nelasticidade do material (G). A fórmula evidencia essas \nrelações de dependência.\nC\nG d\nD\nN\n\u001f\n\u001e\n\u001e\n\u001e\n4\n3\n8\nO dono de uma fábrica possui uma mola M1 em um \nde seus equipamentos, que tem características D1, d1, \nN1 e G1, com uma constante elástica C1. Essa mola \nprecisa ser substituída por outra, M2, produzida com \noutro material e com características diferentes, bem \ncomo uma nova constante elástica C2, da seguinte \nmaneira: I) D2 = D1\n3 ; II) d2 = 3d1; III) N2 = 9N1. Além \ndisso, a constante de elasticidade G2 do novo material \né igual a 4G1.\nO valor da constante C2 em função da constante C1 é\nA\nC2 = 972⋅C1\nB\nC2 = 108⋅C1\nC\nC2 = 4⋅C1\nD\nC\nC\n2\n1\n4\n3\n\u001f\n\u001e\nE\nC\nC\n2\n1\n4\n9",
+  "processado_em": "2026-05-11T23:27:14.163119",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

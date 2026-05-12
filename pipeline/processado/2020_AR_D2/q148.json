@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 148        \nA fabricação da Bandeira Nacional deve obedecer ao \ndescrito na Lei n. 5.700, de 1º de setembro de 1971, que \ntrata dos Símbolos Nacionais. No artigo que se refere às \ndimensões da Bandeira, observa-se:\n“Para cálculos das dimensões, será tomada por base \na largura, dividindo-a em 14 (quatorze) partes iguais, \nsendo que cada uma das partes será considerada uma \nmedida ou módulo (M). Os demais requisitos dimensionais \nseguem o critério abaixo:\nI.\t\nComprimento será de vinte módulos (20 M);\nII.\t A distância dos vértices do losango amarelo ao \nquadro externo será de um módulo e sete décimos \n(1,7 M);\nIII.\t O raio do círculo azul no meio do losango \namarelo será de três módulos e meio (3,5 M).”\nBRASIL. Lei n. 5.700, de 1º de setembro de 1971.Disponível em: www.planalto.gov.br. \nAcesso em: 15 set. 2015. \nA figura indica as cores da bandeira do Brasil e \nlocaliza o quadro externo a que se refere a Lei n. 5.700.\nComprimento do quadro externo\nLargura do quadro externo\nUm torcedor, preparando-se para a Copa do Mundo \ne dispondo de cortes de tecidos verde (180 cm x 150 cm) \ne amarelo (o quanto baste), deseja confeccionar a maior \nBandeira Nacional possível a partir das medidas do tecido \nverde.\nQual a medida, em centímetro, do lado do menor \nquadrado de tecido azul que deverá ser comprado para \nconfecção do círculo da bandeira desejada? \nA \t  27\nB \t  32\nC \t 53\nD \t  63\nE \t  90",
+  "processado_em": "2026-05-11T23:28:16.942504",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

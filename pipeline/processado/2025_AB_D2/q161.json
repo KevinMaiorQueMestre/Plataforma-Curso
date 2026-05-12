@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 161\t\nUma citação presente no livro dos recordes destaca que o \nutilizado em mineração. A largura de cada pneu desse tipo de ca\nDisp\nUma loja de pneus pretende distribuir aos seus clientes uma m\nproporcionais às medidas reais. Após receber as miniaturas co\nminiatura mede 7,4 cm.\nO diâmetro externo de cada pneu dessa miniatura, em centímet\nA\t2,72.\nB\t4,29.\nC\t12,75.\nD\t20,15.\nE\t27,55.",
+  "processado_em": "2026-05-08T14:06:53.584569",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

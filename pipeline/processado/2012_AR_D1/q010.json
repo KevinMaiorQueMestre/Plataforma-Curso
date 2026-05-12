@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 10\t\nMas uma coisa ouso afirmar, porque há muitos \ntestemunhos, e é que vi nesta terra de Veragua [Panamá] \nmaiores indícios de ouro nos dois primeiros dias do que \nna Hispaniola em quatro anos, e que as terras da região \nnão podem ser mais bonitas nem mais bem lavradas. Ali, \nse quiserem podem mandar extrair à vontade.\nCarta de Colombo aos reis da Espanha, julho de 1503. Apud AMADO, J.; FIGUEIREDO, L. C. \nColombo e a América: quinhentos anos depois. São Paulo: Atual, 1991 (adaptado).\nO documento permite identificar um interesse econômico \nespanhol na colonização da América a partir do século XV. \nA implicação desse interesse na ocupação do espaço \namericano está indicada na\nA\t expulsão dos indígenas para fortalecer o clero católico.\nB\t promoção das guerras justas para conquistar o território.\nC\t imposição da catequese para explorar o trabalho africano.\nD\t opção pela policultura para garantir o povoamento ibérico.\nE\t fundação de cidades para controlar a circulação \nde riquezas.",
+  "processado_em": "2026-05-08T13:59:01.977432",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

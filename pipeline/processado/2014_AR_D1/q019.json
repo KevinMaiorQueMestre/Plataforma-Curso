@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q019",
+  "imagem": "q019.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 19,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 19\t\nTEXTO I\nOlhamos o homem alheio às atividades públicas \nnão como alguém que cuida apenas de seus próprios \ninteresses, mas como um inútil; nós, cidadãos atenienses, \ndecidimos as questões públicas por nós mesmos na \ncrença de que não é o debate que é empecilho à ação, e \nsim o fato de não se estar esclarecido pelo debate antes \nde chegar a hora da ação.\nTUCÍDIDES. História da Guerra do Peloponeso. Brasília: UnB, 1987 (adaptado).\nTEXTO II\nUm cidadão integral pode ser definido por nada mais \nnada menos que pelo direito de administrar justiça e \nexercer funções públicas; algumas destas, todavia, são \nlimitadas quanto ao tempo de exercício, de tal modo que \nnão podem de forma alguma ser exercidas duas vezes \npela mesma pessoa, ou somente podem sê-lo depois de \ncertos intervalos de tempo prefixados.\nARISTÓTELES. Política. Brasília: UnB, 1985.\nComparando os textos I e II, tanto para Tucídides \n(no século V a.C.) quanto para Aristóteles (no século IV a.C.), \na cidadania era definida pelo(a)\nA\t prestígio social.\nB\t acúmulo de riqueza.\nC\t participação política.\nD\t local de nascimento.\nE\t grupo de parentesco.",
+  "processado_em": "2026-05-08T14:00:27.993356",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

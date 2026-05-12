@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nUma imobiliária pôs cinco apartamentos à venda em c\napresenta o preço e a área de cada um desses imóveis.\nApartamento\nÁrea (m\nI\n80\nII\n90\nIII\n120\nIV\n130\nV\n135\nUm investidor decidiu comprar o apartamento com o me\nEle deverá comprar o apartamento\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:28.472324",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

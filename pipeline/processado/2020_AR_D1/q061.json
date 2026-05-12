@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 61          \nA Divisão Internacional do Trabalho significa \nque alguns países se especializam em ganhar \ne outros, em perder. Nossa comarca no mundo, \nque hoje chamamos América Latina, foi precoce: \nespecializou-se em perder desde os remotos \ntempos em que os europeus do Renascimento se \naventuraram pelos mares e lhe cravaram os dentes \nna garganta. Passaram-se os séculos e a América \nLatina aprimorou suas funções.\nGALEANO, E. As veias abertas da América Latina. São Paulo: Paz e Terra, 1978.\nEscrito na década de 1970, o texto considera a \nparticipação da América Latina na Divisão Internacional \ndo Trabalho marcada pela\nA \t produção inovadora de padrões de tecnologia.\nB \t superação paulatina do caráter agroexportador.\nC \t apropriação imperialista dos recursos territoriais.\nD \t valorização econômica dos saberes tradicionais.\nE \t dependência externa do suprimento de alimentos.",
+  "processado_em": "2026-05-11T23:28:04.959632",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

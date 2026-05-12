@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nPara o modelo de um troféu foi escolhido um poliedro \nP, obtido a partir de cortes nos vértices de um cubo. Com \num corte plano em cada um dos cantos do cubo, retira-se \no canto, que é um tetraedro de arestas menores do que \nmetade da aresta do cubo. Cada face do poliedro P, então, \né pintada usando uma cor distinta das demais faces. \nCom base nas informações, qual é a quantidade de cores \nque serão utilizadas na pintura das faces do troféu?\nA\t 6\nB\t 8\nC\t 14\nD\t 24\nE\t 30",
+  "processado_em": "2026-05-08T14:00:57.422408",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

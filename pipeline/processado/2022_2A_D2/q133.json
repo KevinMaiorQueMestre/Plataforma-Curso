@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 133\t\nO feixe de um laser incide obliquamente na lateral de \numa janela de vidro, cujo índice de refração é maior do que \no do ar, e a atravessa. Uma representação esquemática \ndessa situação utiliza linhas pontilhadas para demonstrar \na trajetória que o feixe teria, caso não sofresse refração, \ne linhas contínuas com setas para mostrar a trajetória \nrealmente seguida pelo feixe.\nQual representação esquemática apresenta a trajetória \nseguida pelo feixe de laser quando atravessa a janela de \nvidro?\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:04:48.819384",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 89\t\nOs moradores de Utqiagvik passaram dois meses \nquase totalmente na escuridão\nOs habitantes desta pequena cidade no Alasca \n— o estado dos Estados Unidos mais ao norte — \njá estão acostumados a longas noites sem ver a luz \ndo dia. Em 18 de novembro de 2018, seus pouco mais \nde 4 mil habitantes viram o último pôr do sol do ano. \nA oportunidade seguinte para ver a luz do dia ocorreu no \ndia 23 de janeiro de 2019, às 13 h 04 min (horário local).\nDisponível em: www.bbc.com. Acesso em: 16 maio 2019 (adaptado).\nO fenômeno descrito está relacionado ao fato de a cidade \ncitada ter uma posição geográfica condicionada pela\nA\t continentalidade.\nB\t maritimidade.\nC\t longitude.\nD\t latitude.\nE\t altitude.",
+  "processado_em": "2026-05-11T23:27:29.143507",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

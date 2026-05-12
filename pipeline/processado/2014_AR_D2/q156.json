@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nEm uma cidade, o valor total da conta de energia \nelétrica é obtido pelo produto entre o consumo (em kWh) \ne o valor da tarifa do kWh (com tributos), adicionado à \nCosip (contribuição para custeio da iluminação pública), \nconforme a expressão:\nValor do kWh (com tributos) × consumo (em kWh) + Cosip\nO valor da Cosip é fixo em cada faixa de consumo. \nO quadro mostra o valor cobrado para algumas faixas.\nFaixa de consumo mensal (kWh)\nValor da Cosip (R$)\nAté 80\n0,00\nSuperior a 80 até 100\n2,00\nSuperior a 100 até 140\n3,00\nSuperior a 140 até 200\n4,50\nSuponha que, em uma residência, todo mês o consumo \nseja de 150 kWh, e o valor do kWh (com tributos) seja de \nR$ 0,50. O morador dessa residência pretende diminuir \nseu consumo mensal de energia elétrica com o objetivo de \nreduzir o custo total da conta em pelo menos 10%.\nQual deve ser o consumo máximo, em kWh, dessa residência \npara produzir a redução pretendida pelo morador?\nA\t 134,1\nB\t 135,0\nC\t 137,1\nD\t 138,6\nE\t 143,1",
+  "processado_em": "2026-05-08T14:00:39.580745",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

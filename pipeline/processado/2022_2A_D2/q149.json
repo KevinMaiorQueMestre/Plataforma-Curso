@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nUm novo produto, denominado bolo de caneca no \nmicro-ondas, foi lançado no mercado com o objetivo de \natingir ao público que não tem muito tempo para cozinhar. \nPara prepará-lo, uma pessoa tem à sua disposição duas \nopções de canecas, apresentadas na figura.\nCaneca A\nCaneca B\nA caneca A tem formato de um prisma reto regular \nhexagonal de lado L = 4 cm, e a caneca B tem formato \nde um cilindro circular reto de diâmetro d = 6 cm. \nSabe-se que ambas têm a mesma altura h = 10 cm, e que \nessa pessoa escolherá a caneca com maior capacidade. \nConsidere π = 3,1 e\n3\n17\n= , .\nA medida da capacidade, em centímetro cúbico, da \ncaneca escolhida é\nA\t\nA\t 186.\nB\t\nB\t 279.\nC\t\nC\t 408.\nD\t\nD\t 816.\nE\t\nE\t 1 116.",
+  "processado_em": "2026-05-08T14:04:49.615170",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

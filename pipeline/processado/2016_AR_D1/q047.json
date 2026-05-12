@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 16\nQUESTÃO 47  \n \nA usina de Itaipu é uma das maiores hidrelétricas \ndo mundo em geração de energia. Com 20 unidades \ngeradoras e 14 000 MW de potência total instalada, \napresenta uma queda de 118,4 m e vazão nominal de\n690 m3/s por unidade geradora. O cálculo da potência \nteórica leva em conta a altura da massa de água represada \npela barragem, a gravidade local (10 m/s2) e a densidade \nda água (1 000 kg/m3). A diferença entre a potência teórica \ne a instalada é a potência não aproveitada.\nDisponível em: www.itaipu.gov.br. Acesso em: 11 maio 2013 (adaptado).\nQual é a potência, em MW, não aproveitada em cada \nunidade geradora de Itaipu?\nA 0\nB 1,18\nC 116,96\nD 816,96\nE 13 183,04",
+  "processado_em": "2026-05-08T14:01:07.738931",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

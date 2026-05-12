@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 151\t\nO controle de temperatura em sistemas mecânicos \né fundamental para prevenir acidentes e manter o bom \nfuncionamento das máquinas. Carros, aviões e computadores \nsão exemplos de máquinas que têm sistemas de controle de \ntemperatura.\nO gerente de uma fábrica orientou seus funcionários a \nmanterem a temperatura de uma máquina abaixo do limite de \nsegurança, definido como 80% da temperatura de referência, \nque é de 50 °C. Para isso, o monitoramento dessa máquina é feito \ndiariamente em dez instantes e, sempre que sua temperatura \natingir ou ultrapassar o limite de segurança, o funcionário deverá \nacionar o sistema de resfriamento.\nO gráfico apresenta as temperaturas registradas nos dez \ninstantes de monitoramento.\nQuantas vezes, ao longo desse dia, o sistema de resfriamento \nfoi acionado?\nA\t0\nB\t1\nC\t3\nD\t4\nE 5",
+  "processado_em": "2026-05-08T14:06:53.084925",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

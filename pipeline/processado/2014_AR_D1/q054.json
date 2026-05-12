@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 54\t\nO biodiesel não é classificado como uma substância pu\ngraxos presentes em sua matéria-prima. As propriedades \ngordura animal que lhe deu origem, por exemplo, o teor d\ndo biodiesel frente à oxidação, o que resulta em aumento d\nde ácidos graxos de algumas fontes oleaginosas.\nFonte \noleaginosa\nTeor médio d\nMirístico\n(C14:0)\nPalmítico\n(C16:0)\nEste\n(C1\nMilho\n< 0,1\n11,7\n1\nPalma\n1,0\n42,8\n4\nCanola\n< 0,2\n3,5\n0\nAlgodão\n0,7\n20,1\n2\nAmendoim\n< 0,6\n11,4\n2\nMA, F.; HANNA, M. A. Biod\nQual das fontes oleaginosas apresentadas produziria um b\nA\t Milho.\nB\t Palma.\nC\t Canola.\nD\t Algodão.\nE Amendoim.",
+  "processado_em": "2026-05-08T14:00:30.418059",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

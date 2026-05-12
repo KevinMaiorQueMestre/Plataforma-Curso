@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 62\t\nDisponível em: http://une.org.br. Acesso em: 30 jul. 2015 (adaptado).\nConsiderando o funcionamento do regime democrático, \no episódio retratado na imagem está associado ao(à)\nA\t legalidade dos partidos políticos.\nB\t valorização das políticas afirmativas.\nC\t esgotamento do movimento sindical.\nD\t legitimidade da mobilização popular.\nE\t emergência das organizações não governamentais.",
+  "processado_em": "2026-05-11T23:26:13.404797",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

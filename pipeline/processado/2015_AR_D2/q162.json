@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nO gerente de um cinema fornece anualmente \ningressos gratuitos para escolas. Este ano serão \ndistribuídos 400 ingressos para uma sessão vespertina \ne 320 ingressos para uma sessão noturna de um \nmesmo filme. Várias escolas podem ser escolhidas \npara receberem ingressos. Há alguns critérios para a \ndistribuição dos ingressos: \n1) cada escola deverá receber ingressos para uma \núnica sessão; \n2) todas as escolas contempladas deverão receber \no mesmo número de ingressos;\n3) não haverá sobra de ingressos (ou seja, todos os \ningressos serão distribuídos).\nO número mínimo de escolas que podem ser escolhidas \npara obter ingressos, segundo os critérios estabelecidos, é\nA\t 2.\nB\t 4.\nC\t 9.\nD\t 40.\nE\t 80.",
+  "processado_em": "2026-05-08T14:00:57.684429",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

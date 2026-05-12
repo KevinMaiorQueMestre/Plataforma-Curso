@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nMedir temperatura é fundamental em muitas aplicações, \ne apresentar a leitura em mostradores digitais é bastante \nprático. O seu funcionamento é baseado na correspondência \nentre valores de temperatura e de diferença de potencial \nelétrico. Por exemplo, podemos usar o circuito elétrico \napresentado, no qual o elemento sensor de temperatura \nocupa um dos braços do circuito (Rs) e a dependência da \nresistência com a temperatura é conhecida.\n+\n10 V\n470 Ω\n470 Ω\nRS = 100 Ω\n120 Ω\nVoltímetro\nPara um valor de temperatura em que RS = 100 Ω, a \nleitura apresentada pelo voltímetro será de\nA\t + 6,2 V.\nB\t + 1,7 V.\nC\t + 0,3 V.\nD\t – 0,3 V.\nE\t – 6,2 V.",
+  "processado_em": "2026-05-08T14:00:14.254030",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

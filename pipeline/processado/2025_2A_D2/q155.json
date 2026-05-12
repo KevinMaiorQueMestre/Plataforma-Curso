@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 155 \nO gerente de uma fábrica comparou a evolução das vendas \nde dois produtos similares, I e II, e percebeu que a quantidade \nmensal de unidades vendidas de um deles estava aumentando, \nenquanto a do outro estava diminuindo. Os resultados que \nlevaram à essa conclusão estão registrados no quadro, que \napresenta as quantidades de unidades vendidas de cada um \ndesses produtos nos meses de abril a junho.\nProduto\nUnidades vendidas\nAbril\nMaio\nJunho\nI\n80\n90\n100\nII\n190\n170\n150\nO gerente decidiu cessar a fabricação do produto II no mês \nseguinte àquele no qual a quantidade de unidades vendidas do \nproduto I superasse a do produto II.\nConsidere que o padrão na variação da quantidade de \nunidades vendidas dos produtos I e II, mês a mês, se manteve \npara os meses subsequentes tal como no período representado \nno quadro.\nEm qual mês o produto II parou de ser fabricado?\nA Junho.\nB Julho.\nC Agosto.\nD Setembro.\nE Outubro.",
+  "processado_em": "2026-05-08T14:06:37.567257",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

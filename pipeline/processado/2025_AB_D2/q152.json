@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 152\t\nPara as olimpíadas internas de um colégio, foram formadas \n16 equipes, cada uma identificada por um escudo. Cada escudo \nserá dividido em 4 regiões distintas, conforme a Figura 1.\nFigura 1\nForam escolhidas três cores para colorir as regiões de \ntodos os escudos. Em cada região, será utilizada uma única cor, \ne o escudo de cada equipe será colorido com até três dessas \ncores. Regiões com lado em comum não podem ter a mesma cor. \nNão pode haver duas equipes com uma mesma configuração de \ncores no escudo. A Figura 2 apresenta dois escudos possíveis.\nFigura 2\nCinco responsáveis pelas olimpíadas analisaram a viabilidade \nde se confeccionarem os escudos, e cada um formulou um \nargumento:\nI.\t\né viável, pois há 18 escudos possíveis;\nII.\t é viável, pois há 72 escudos possíveis;\nIII.\t é viável, pois há 81 escudos possíveis;\nIV.\t não é viável, pois há apenas 6 escudos possíveis;\nV.\t não é viável, pois há apenas 12 escudos possíveis.\nO argumento correto foi o\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+  "processado_em": "2026-05-08T14:06:53.160984",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

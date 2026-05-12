@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 160\t\nNo trapézio isósceles mostrado na figura a seguir, \nM é o ponto médio do segmento BC, e os pontos P e Q são \nobtidos dividindo o segmento AD em três partes iguais.\nA\nB\nM\nC\nP\nQ\nD\nPelos pontos B, M, C, P e Q são traçados segmentos \nde reta, determinando cinco triângulos internos ao \ntrapézio, conforme a figura.\nA razão entre BC  e AD  que determina áreas iguais \npara os cinco triângulos mostrados na figura é\nA\n1\n3\nB\n2\n3\nC\n2\n5\nD\n3\n5\nE\n5\n6",
+  "processado_em": "2026-05-11T23:27:12.909284",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

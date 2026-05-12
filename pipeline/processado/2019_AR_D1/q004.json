@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Disponível em: www.muyinteresante.es. \nAcesso em: 31 out. 2012 (adaptado).\nA \nfábula \né \num \ngênero \nde \nampla \ndivulgação \nfrequentemente revisitado com diversos objetivos. \nNo texto, a fábula A cigarra e a formiga é retomada para\nA\t apresentar ao leitor um ensinamento moral.\nB\t reforçar o estereótipo associado às cigarras.\nC\t descrever o comportamento dos insetos na natureza.\nD\t expor a superioridade das formigas em relação às \ncigarras.\nE\t descrever a relação social entre formigas e cigarras \nna natureza.",
+  "processado_em": "2026-05-11T23:27:18.240785",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\t\nFigura 1. Diagrama das reg\nas condições brasileiras (\n400\n800\n1200\n0\n5\n10\n15\n20\n25\n30\n35\nPrecipitação m\n1. Muito Fraco\n2. Fraco\n3. Moderado\nTemperatura (°C)\nFigura 2. Mapa das regiões\nbaseado no diag\nFONTES, M. P. F. Intemperismo de rochas e miner\nDe acordo com as figuras, a intensidade de intemperismo \nA\t Tropical.\nB\t Litorâneo.\nC\t Equatorial.\nD\t Semiárido.\nE S bt\ni\nl",
+  "processado_em": "2026-05-08T14:00:44.502351",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

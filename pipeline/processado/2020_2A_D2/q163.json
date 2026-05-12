@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 163          \nOs alunos do curso de matemática de uma \nuniversidade desejam fazer uma placa de formatura, \nno formato de um triângulo equilátero, em que os seus \nnomes aparecerão dentro de uma região quadrada, \ninscrita na placa, conforme a figura.\nConsiderando que a área do quadrado, em que \naparecerão os nomes dos formandos, mede 1 m2, qual é \naproximadamente a medida, em metro, de cada lado do \ntriângulo que representa a placa? (Utilize 1,7 como valor \naproximado para 3 ).\nA\t 1,6\nB \t 2,1\nC \t 2,4\nD \t 3,7\nE 6 4",
+  "processado_em": "2026-05-08T14:03:39.388365",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

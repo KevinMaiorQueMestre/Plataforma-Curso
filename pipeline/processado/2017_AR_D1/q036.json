@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nVALENTIM, R. Emblema 78. Acrílico sobre tela. 73 x 100 cm. 1978.\nDisponível em: www.espacoarte.com.br. Acesso em: 2 ago. 2012.\nA obra de Rubem Valentim apresenta emblemas que, \nbaseando-se em signos de religiões afro-brasileiras, se \ntransformam em produção artística. A obra Emblema 78 \nrelaciona-se com o Modernismo em virtude da\nA\t \tsimplificação de formas da paisagem brasileira.\nB\t \tvalorização de símbolos do processo de urbanização.\nC\t \tfusão de elementos da cultura brasileira com a arte \neuropeia.\nD\t \talusão aos símbolos cívicos presentes na bandeira \nnacional.\nE\t \tcomposição simétrica de elementos relativos à \nmiscigenação racial.",
+  "processado_em": "2026-05-11T23:25:39.077444",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

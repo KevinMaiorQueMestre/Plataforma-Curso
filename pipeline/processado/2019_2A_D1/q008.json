@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 08\t\nVERISSIMO, L. F. As cobras em: se Deus existe que eu seja atingido por um raio. Porto Alegre: L&PM, 2000.\nNo que diz respeito ao uso de recursos expressivos em diferentes linguagens, o cartum produz humor brincando com a\nA\t caracterização da linguagem utilizada em uma esfera de comunicação específica.\nB\t deterioração do conhecimento científico na sociedade contemporânea.\nC\t impossibilidade de duas cobras conversarem sobre o universo.\nD\t dificuldade inerente aos textos produzidos por cientistas.\nE\t complexidade da reflexão presente no diálogo.",
+  "processado_em": "2026-05-11T23:26:54.175198",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

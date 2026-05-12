@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "EM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022\nQUESTÃO 97\t\nA água bruta coletada de mananciais apresenta \nalto índice de sólidos suspensos, o que a deixa com \num aspecto turvo. Para se obter uma água límpida e \npotável, ela deve passar por um processo de purificação \nnuma estação de tratamento de água. Nesse processo, \nas principais etapas são\nnesta ordem: coagulação\nNesse teste, a ordenação das rotas indicadas pelo \naplicativo será:\nA\t\nA\t 1, 2, 3.\nB\t\nB\t 1, 3, 2.\nC\t\nC\t 2, 1, 3.\nD\t\nD\t 3, 1, 2.\nE\t\nE\t 3, 2, 1.",
+  "processado_em": "2026-05-11T23:28:58.494884",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

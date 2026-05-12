@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \u000e\u0007\u0007\b\u000f\u000e\b'\u001d\u0004\u0002\n\u0002\u001e\u0004\u0005#\n\u001e'\u001d\u0004(\nB \u000e\u0007\u0007\b\u000f\u000e\b'\u001d\u0004\u0002\n\u0002\u000e\u0007\u0007\b\u000f\u000e\b'\u001d\u0004(\nC \u001e\u0004\u0005\u000f\f'\u001d\u0004\u0002\n\u0002\u000e\u0007\u0007\b\u000f\u000e\b'\u001d\u0004(\nD \u001e\u0004\u0005#\n\u001e'\u001d\u0004\u0002\n\u0002\u000e\u0007\u0007\b\u000f\u000e\b'\u001d\u0004(\nE \u001e\u0004\u0005#\n\u001e'\u001d\u0004\u0002\n\u0002\u001e\u0004\u0005#\n\u001e'\u001d\u0004(\nQuestão 112\nNo seu estudo sobre a queda dos corpos, Aristóteles \n\b\u0006\u0007\u0010\b#\b\u0002\u000b\f\n\u0002\t\n\u0002\b!\b\u0005\u000f\u0004\u0005\b\u0007\u0010\u0004\t\u0002\u001e\u0004\u0007%\u0004\t\u00022\n#\n\t\u0002\n\u0002%\n\t\b\u000f\u0004\t\u0002\nde uma mesma altura, o mais pesado chegaria mais \nrápido ao solo. Essa ideia está apoiada em algo que \nZ\u0002 \u000f\u000ePG\u001e\u000e2\u0002 \u000f\n\u0002 \u0007\nP\f\r\b\u0007$\u0002 \b\u0002 \u0004!\t\n\u0007#\b'\u001d\u0004\u0002 \u000f\u000e\u0007\n\r\b\u0002 \u000f\b\u0002 \u0007\n\b2\u000e\u000f\b\u000f\n\u0002\nbaseada no senso comum.\nApós uma aula de física, dois colegas estavam \ndiscutindo sobre a queda dos corpos, e um tentava \n\u001e\u0004\u0005#\n\u0005\u001e\n\u0007\u0002\u0004\u0002\u0004\f\r\u0007\u0004\u0002\u000f\n\u0002\u000b\f\n\u0002\r\u000e\u0005+\b\u0002\u0007\b\u001d\u0004I",
+  "processado_em": "2026-05-08T14:04:29.373391",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

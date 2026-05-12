@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 21\t\nUm grupo de pesquisadores da Universidade Federal \ndo Ceará desenvolveu um dicionário para traduzir sintomas \nde doenças da linguagem popular para os termos médicos. \nDefruço, chanha e piloura, por exemplo, podem ser termos \nconhecidos para muitos, mas, durante uma consulta médica, \no desconhecimento pode significar um diagnóstico errado.\n“Isso é um registro histórico e pode ser muito útil para \nestudos dessas comunidades, na abordagem médica delas. \nÉ de certa forma pioneiro no Brasil e, sem dúvida, um instrumento \nde trabalho importante, porque a comunicação é fundamental \nna relação médico-paciente”, avalia o reitor da instituição.\nDisponível em: https://g1.globo.com. Acesso em: 1 nov. 2021 (adaptado).\nAo registrarem usos regionais de termos da área médica, \npesquisadores\nA\t\nA\t apontaram erros motivados pelo desconhecimento da \nvariedade linguística local.\nB\t\nB\t explicaram problemas provocados pela incapacidade \nde comunicação.\nC\t\nC\t descobriram novos sintomas de doenças existentes \nna comunidade.\nD\t\nD\t propiciaram melhor compreensão dos sintomas dos \npacientes.\nE\t\nE\t divulgaram um novo rol de doenças características \nda localidade.",
+  "processado_em": "2026-05-08T14:05:35.174629",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 43\t\nMinha vida é andar\nPor esse país\nPra ver se um dia\nDescanso feliz\nGuardando as recordações\nDas terras onde passei\nAndando pelos sertões\nE dos amigos que lá deixei\nGONZAGA, L.; CORDOVIL. H. A vida de viajante, 1953. Disponível em: www.recife.pe.gov.br. \nAcesso em: 20 fev. 2012 (fragmento).\nA letra dessa canção reflete elementos identitários que \nrepresentam a\nA\t valorização das características naturais do Sertão \nnordestino.\nB\t denúncia da precariedade social provocada pela seca.\nC\t experiência de deslocamento vivenciada pelo migrante.\nD\t profunda desigualdade social entre as regiões \nbrasileiras.\nE\t discriminação \ndos \nnordestinos \nnos \ngrandes \ncentros urbanos.",
+  "processado_em": "2026-05-08T13:59:02.016113",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

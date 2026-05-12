@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 140 \nUma escultura metálica é composta por uma esfera de \nraio 5 cm e um pedestal em forma de paralelepípedo reto \nretângulo. O pedestal tem 15 cm de altura e sua base tem forma \nde quadrado, com lados de medida 8 cm. A fixação da esfera \nse dá no ponto de interseção das diagonais da face quadrada \ndo pedestal, sendo esse o ponto de tangência entre os dois \nsólidos que compõem a escultura. O museu responsável pela \nguarda da escultura deverá transportá-la para um outro local e \npretende acondicioná-la em uma caixa perfeitamente ajustada \nàs dimensões da escultura. No estoque do museu, existem cinco \ntipos de caixa, todos com tampa e em formato de paralelepípedo \nreto retângulo com estas dimensões:\n• caixa 1: 8 cm × 8 cm × 25 cm;\n• caixa 2: 13 cm × 13 cm × 20 cm;\n• caixa 3: 10 cm × 10 cm × 20 cm;\n• caixa 4: 10 cm × 10 cm × 25 cm;\n• caixa 5: 13 cm × 13 cm × 25 cm.\nA caixa a ser escolhida, para embalar a escultura nas condições \npretendidas, é a\nA 1.\nB 2.\nC 3.\nD 4.\nE 5.",
+  "processado_em": "2026-05-08T14:06:36.724037",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

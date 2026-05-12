@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q041",
+  "imagem": "q041.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 41,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 41\t\nQuando não estou escrevendo, eu simplesmente não sei \ncomo se escreve. E se não soasse infantil e falsa a pergunta \ndas mais sinceras, eu escolheria um amigo escritor e lhe \nperguntaria: como é que se escreve? Por que, realmente, como \né que se escreve? que é que se diz? e como dizer? e como é \nque se começa? e que é que se faz com o papel em branco nos \ndefrontando tranquilo? Sei que a resposta, por mais que intrigue, \né a única: escrevendo. Sou a pessoa que mais se surpreende \nao escrever. Porque, fora das horas em que escrevo, não sei \nabsolutamente escrever. Será que escrever não é um ofício? \nNão há aprendizagem, então? O que é? Só me considerarei \nescritora no dia em que eu disser: sei como se escreve.\nLISPECTOR, C. A descoberta do mundo. Rio de Janeiro: Rocco, 1999.\nNessa crônica, os questionamentos da autora evidenciam uma\nA\treflexão sobre o ato de escrever.\nB\tpreferência pela forma de escrita tradicional.\nC\tangústia decorrente do empobrecimento da escrita.\nD\tinsatisfação com o resultado final da sua produção escrita.\nE\tresistência a impressões surgidas ao acaso no processo de escrita.",
+  "processado_em": "2026-05-08T14:06:44.458740",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 112\nAlguns \nrecipientes \nde \ncozinha \napresentam \ncondutividade térmica apropriada para acondicionar e \nservir alimentos. Assim, os alimentos acondicionados \npodem manter a temperatura, após o preparo, por um \ntempo maior. O quadro contém a condutividade térmica (k) \n\u000f\n\u0002 \u000f\u000eP\n\u0007\n\u0005\r\n\t\u0002 \u0010\b\r\n\u0007\u000e\b\u000e\t\u0002 \f\r\u000e2\u000eY\b\u000f\u0004\t\u0002 \u0005\b\u0002 %\u0007\u0004\u000f\f'\u001d\u0004\u0002 \u000f\n\t\t\n\t\u0002\nrecipientes.\n \nCondutividade térmica de materiais\n \nMaterial\n  k(kcal/h m \u0002C)\n I\n Cobre\n332,0 \n II\n Alumínio\n 175,0\n III\n Ferro\n 40,0\n IV\n Vidro\n 0,65\n V\n Cerâmica\n 0,40\nConsiderando recipientes de mesma espessura, qual o \nmaterial recomendado para manter o alimento aquecido \npor um maior intervalo de tempo?\nA  I\nB  II\nC  III\nD  IV\nE  V",
+  "processado_em": "2026-05-08T14:04:14.331029",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 62\t\nA estratégia de obtenção de plantas transgênicas pela \ninserção de transgenes em cloroplastos, em substituição \nà metodologia clássica de inserção do transgene no \nnúcleo da célula hospedeira, resultou no aumento \nquantitativo da produção de proteínas recombinantes \ncom diversas finalidades biotecnológicas. O mesmo \ntipo de estratégia poderia ser utilizada para produzir \nproteínas recombinantes em células de organismos \neucarióticos não fotossintetizantes, como as leveduras, \nque são usadas para produção comercial de várias \nproteínas recombinantes e que podem ser cultivadas em \ngrandes fermentadores.\nConsiderando a estratégia metodológica descrita, qual \norganela celular poderia ser utilizada para inserção de \ntransgenes em leveduras?\nA\t Lisossomo.\nB\t Mitocôndria.\nC\t Peroxissomo.\nD\t Complexo golgiense.\nE\t Retículo endoplasmático.",
+  "processado_em": "2026-05-08T14:00:13.253878",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

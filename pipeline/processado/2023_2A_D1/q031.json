@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 31\t\n Disponível em: https://facebook.com/SenadoFederal. Acesso em: 1 nov. 2021.",
+  "processado_em": "2026-05-08T14:05:18.338440",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

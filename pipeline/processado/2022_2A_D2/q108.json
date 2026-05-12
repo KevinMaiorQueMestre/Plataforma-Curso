@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 108\t\nA primeira relação entre câncer e produtos de \ncombustão data de 1775, realizada na Inglaterra, na qual \nfoi descrita a elevada incidência de câncer em jovens \nlimpadores de chaminés, os quais tinham contato diário \ncom fumaça e alcatrão. O benzopireno (I) foi o primeiro \ncomposto carcinogênico isolado do alcatrão. Esse \nhidrocarboneto aromático policíclico é convertido, por \nmeio de uma biotransformação, no composto (II), que é o \nreal causador do câncer. \nO\nH\nOH\nO\nI\nII\nBARBOSA, L. C. A. Introdução à química orgânica. \nSão Paulo: Pearson, 2010 (adaptado).\nA biotransformação do composto (I) em (II) corresponde \na uma reação de\nA\t\nA\t adição.\nB\t\nB\t oxidação.\nC\t\nC\t eliminação.\nD\t\nD\t substituição.\nE\t\nE\t hidrogenação.",
+  "processado_em": "2026-05-08T14:04:47.223199",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

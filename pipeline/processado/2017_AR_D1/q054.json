@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 54\t\nTipologia de área\n% de chuva\nretida no \nlocal\nescoada\nBacias naturais/florestas\n80 a 100\n0 a 20\nBacias com ocupação \nagrícola/cultivos\n40 a 60\n40 a 60\nBacias com ocupação \nresidencial\n40 a 50\n50 a 60\nBacias com ocupação \nurbana pesada\n0 a 10\n90 a 100\n \nMACHADO, P. J. O.; TORRES, F. T. P. Introdução à hidrogeografia. \nSão Paulo: Cengage Learning, 2012 (adaptado).\nA leitura dos dados revela que as áreas com maior \ncobertura vegetal têm o potencial de intensificar o \nprocesso de\nA\t \terosão laminar.\nB\t \tintemperismo físico.\nC\t \tenchente nas cidades.\nD\t \tcompactação do solo.\nE\t \trecarga dos aquíferos.",
+  "processado_em": "2026-05-11T23:25:41.433797",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

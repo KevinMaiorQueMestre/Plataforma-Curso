@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 109\n$OJXQV\u0003SHL[HV\u000f\u0003FRPR\u0003R\u0003SRUDTXr\u000f\u0003D\u0003HQJXLD\u0010HOpWULFD\u0003GD\u0003\nAmazônia, podem produzir uma corrente elétrica quando \nse encontram em perigo. Um poraquê de 1 metro de \ncomprimento, em perigo, produz uma corrente em torno \nGH\u0003\u0015\u0003DPSqUHV\u0003H\u0003XPD\u0003YROWDJHP\u0003GH\u0003\u0019\u0013\u0013\u0003YROWV\u0011\nO quadro apresenta a potência aproximada de \nequipamentos elétricos.\nEquipamento elétrico\nPotência aproximada (watt)\nExaustor\n150\nComputador\n300\nAspirador de pó \n600\nChurrasqueira elétrica \n\u0014\u0003\u0015\u0013\u0013\nSecadora de roupas \n3 600\nO equipamento elétrico que tem potência similar àquela \nproduzida por esse peixe em perigo é o(a)\nA exaustor.\nB computador.\nC aspirador de pó.\nD churrasqueira elétrica.\nE secadora de roupas.",
+  "processado_em": "2026-05-11T23:26:46.520416",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 86\t\nA ocasião fez o ladrão: Francis Drake travava sua \nguerra de pirataria contra a Espanha papista quando \nroubou as tropas de mulas que levavam o ouro do \nPeru para o Panamá. Graças à cumplicidade da rainha \nElizabeth I, ele reincide e saqueia as costas do Chile e do \nPeru antes de regressar pelo Oceano Pacífico, e depois \npelo Índico. Ora, em Ternate ele oferece sua proteção a \num sultão revoltado com os portugueses; assim nasce o \nprimeiro entreposto inglês ultramarino.\nFERRO, M. História das colonizações. Das colonizações \nàs independências. Séculos XIII a XX. \nSão Paulo: Cia. das Letras, 1996.\nA tática adotada pela Inglaterra do século XVI, conforme \ncitada no texto, foi o meio encontrado para\nA\t restabelecer o crescimento da economia mercantil.\nB\t conquistar as riquezas dos territórios americanos.\nC\t legalizar a ocupação de possessões ibéricas.\nD\t ganhar a adesão das potências europeias.\nE\t fortalecer as rotas do comércio marítimo.",
+  "processado_em": "2026-05-11T23:27:28.891435",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

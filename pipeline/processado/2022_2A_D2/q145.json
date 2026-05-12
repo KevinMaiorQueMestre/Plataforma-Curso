@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nO chocolate é um dos alimentos mais apreciados \ne desejados do mundo. Uma loja especializada nesse \nproduto oferece uma promoção para os bombons, que \ncustam R$ 2,00 cada. Cada cliente tem x% de desconto \nna compra de x bombons. A promoção é válida para a \ncompra de até 40 bombons, ou seja, 40% é o desconto \nmáximo possível. Queremos escrever uma expressão \npara V em função de x, com x ≤40 .\nQual é a expressão do valor V, em reais, na compra de x \nbombons da promoção, por cliente?\nA\t\nA\t V\nx\n= 1\n50\n2\nB\t\nB\t V\nx\n\u001f\n\u001e\n2\n1\n50\nC\t\nC\t V\nx\nx\n\u001f\n\u001e\n2\n1\n50\n2\nD\t\nD\t V\nx\nx\n\u001f\n\u001e\n1\n100\n2\nE\t\nE\t V\nx\nx\n\u001f\n\u001e\n2\n1\n100",
+  "processado_em": "2026-05-08T14:04:49.407874",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

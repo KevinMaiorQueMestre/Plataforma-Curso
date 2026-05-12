@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 04\t\nEmotivo encuentro en la universidad pública\nEl entonces mandatario uruguayo recibió el cariño \nde sus compatriotas residentes en Nueva York e informó \nsobre la evolución del país, las políticas de gobierno, \nlos avances y cuentas pendientes. Como en ocasiones \nsimilares, se multiplicaron las muestras de respeto y \nemoción. “Una nación es un formidable sentimiento de un \n‘nosotros’”, dijo.\nMujica comenzó su discurso relatando lo recogido \nde otras experiencias de comunidades en el exilio. \n“Muchos de ustedes echaron raíces, tienen hijos y no \npueden cometer la agresión de descuajarle la vida. \nTienen que cargar con esa nostalgia de ser de allá, pero \nestar acá”, dijo.\n“Estamos metidos en la lucha por mejorar las \ncircunstancias, con el sueño de que las generaciones que \nvengan, puedan venir con más soltura, con más apoyo”, \ndijo el Presidente.\nMujica se refirió a algunas críticas que reciben \nalgunas políticas sociales. “Nos acusan de que damos \nsin contrapartida. Nos dicen ‘a la gente no hay que \ndarle pescado, sino enseñarle a pescar’. Sí — razonó \nel Presidente —, pero cuando le afanaste la caña, le \nafanaste el bote, ¿qué le vas a pedir? Para atrás no \narreglamos, arreglamos para adelante.”\nDisponível em: www.republica.com.uy. Acesso em: 26 set. 2013 (adaptado).\nNo discurso dirigido aos compatriotas radicados em Nova \nYork, o então presidente Mujica expressa o desejo de que \nos cidadãos que vivem no Uruguai\nA\t \tapoiem as políticas públicas afirmativas.\nB\t \tintegrem-se ao processo de globalização.\nC\t \tcultivem o sentimento nacionalista.\nD\t \tofereçam uma contrapartida à nação.\nE\t \ttenham melhores condições de vida.",
+  "processado_em": "2026-05-11T23:25:35.648225",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

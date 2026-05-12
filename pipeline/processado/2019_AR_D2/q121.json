@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 121\t\nA eritropoetina (EPO) é um hormônio endógeno \nsecretado pelos rins que influencia a maturação dos \neritrócitos. Suas formas recombinantes, sintetizadas \nem laboratório, têm sido usadas por alguns atletas em \nesportes de resistência na busca por melhores resultados. \nNo entanto, a administração da EPO recombinante no \nesporte foi proibida pelo Comitê Olímpico Internacional \ne seu uso considerado doping.\nMARTELLI, A. Eritropoetina: síntese e liberação fisiológica e o uso de \nsua forma recombinante no esporte. Perspectivas Online: \n biológicas & saúde, v. 10, n. 3, 2013 (adaptado).\nUma influência que esse doping poderá exercer na \nmelhoria da capacidade física desses atletas está \nrelacionada ao transporte de\nA\t lipídios, para aumento do gasto calórico.\nB\t ATP, para aumento da síntese hormonal.\nC\t oxigênio, para aumento da produção de ATP.\nD\t proteínas, para aumento da massa muscular.\nE\t vitamina \nC, \npara \naumento \nda \nintegridade \ndos vasos sanguíneos.",
+  "processado_em": "2026-05-11T23:27:34.276579",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

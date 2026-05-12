@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 180\t\nUm grupo de engenheiros está projetando um motor \ncujo esquema de deslocamento vertical do pistão dentro \nda câmara de combustão está representado na figura.\nPistão\nPistão\nCâmara de\ncombustão\nCâmara de\ncombustão\nh(0) = 0\nInstante t = 0\nInstante t ≠ 0\nh(t) \nA função h t\nsen\nt\n( )\n4\n4\ndefinida para t ≥0  \ndescreve como varia a altura h, medida em centímetro, da \nparte superior do pistão dentro da câmara de combustão, \nem função do tempo t, medido em segundo. Nas figuras \nestão indicadas as alturas do pistão em dois instantes \ndistintos.\nO valor do parâmetro β, que é dado por um número \ninteiro positivo, está relacionado com a velocidade \nde deslocamento do pistão. Para que o motor tenha \numa boa potência, é necessário e suficiente que, em \nmenos de 4 segundos após o início do funcionamento \n(instante t = 0), a altura da base do pistão alcance por \ntrês vezes o valor de 6 cm. Para os cálculos, utilize 3 \ncomo aproximação para π.\nO menor valor inteiro a ser atribuído ao parâmetro β , de \nforma que o motor a ser construído tenha boa potência, é\nA\t 1.\nB\t 2.\nC\t 4.\nD\t 5.\nE\t 8.",
+  "processado_em": "2026-05-11T23:27:38.536600",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

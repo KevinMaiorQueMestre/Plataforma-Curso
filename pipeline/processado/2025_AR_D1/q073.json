@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 73\t\nEntre esses preconceitos estava o canibalismo. A prática não \nera, porém, uma mentira, uma invenção europeia, mas um ritual \ncontrolado por regras. Entre os tupis, por exemplo, os guerreiros \nse sentiam honrados quando morriam em um banquete canibal. \nPara os europeus, no entanto, comer carne humana era \nabominável, pois nem mesmo os leões ingeriam seus semelhantes. \nPortanto, para os conquistadores, o canibalismo era sinônimo de \nbarbarismo e da incapacidade de se autogovernar.\nRAMINELLI, R. Canibalismo para alemão ver. In: FIGUEIREDO, L. (Org.). \nHistória do Brasil para ocupados. Rio de Janeiro: \nCasa da Palavra, 2013 (adaptado).\nNo texto, europeus e ameríndios atribuíram à prática relatada, \nrespectivamente, o significado de\nA\tselvageria — empoderamento.\nB\timpetuosidade — resistência.\nC\tfanatismo — humilhação.\nD\tintolerância — violência.\nE\trepressão — justiça.",
+  "processado_em": "2026-05-08T14:07:02.238141",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

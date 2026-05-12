@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS\nQuestões de 46 a 90\nQUESTÃO 46\t\nTEXTO I\nUm terremoto de magnitude 5,9 atingiu a cidade de \nValparaíso, na costa chilena. O terremoto ocorreu a uma \nprofundidade de 112 quilômetros.\nTerremoto de magnitude 5,9 atinge Valparaíso, no Chile. \nDisponível em: www.cnnbrasil.com.br. \n Acesso em: 6 nov. 2021 (adaptado).\nTEXTO II\nUm tremor de terra de magnitude 4,8 foi registrado \nno município de Atalaia do Norte, no interior do estado do \nAmazonas. O abalo é de magnitude considerada mediana \npara os níveis do Brasil. Os eventos dessa região costumam \nser resultado das atividades da placa de Nazca.\nTremor de terra de magnitude 4,8 é registrado no interior do \nAmazonas. Disponível em: https://g1.globo.com. \nAcesso em: 6 nov. 2021 (adaptado).\nTEXTO III\nMoradores usaram as redes sociais para relatar tremores \nde terra no interior de São Paulo. As atividades foram \nregistradas nas cidades de Júlio Mesquita e Guaimbê e \ntiveram magnitude 3,0 na escala Richter, o que é considerado \npequeno e sem previsão de danos.\nMoradores do interior de SP relatam tremores de terra. \nDisponível em: https://noticias.r7.com. \nAcesso em: 6 nov. 2021 (adaptado).\nAs diferenças entre os eventos geológicos relatados \ndecorrem de distintas posições geográficas das cidades \nem relação a:\nA\tPlanícies costeiras.\nB\tBacias continentais.\nC\tZonas de subducção.\nD\tÁreas de denudação.\nE\tVertentes escarpadas.",
+  "processado_em": "2026-05-08T14:06:11.713244",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

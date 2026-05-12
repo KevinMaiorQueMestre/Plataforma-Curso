@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nEstudantes trabalhando com robótica criaram uma \n“torneira inteligente” que automatiza sua abertura e seu \nfechamento durante a limpeza das mãos. A tecnologia \nfunciona da seguinte forma: ao se colocarem as mãos \nsob a torneira, ela libera água durante 3 segundos para \nque a pessoa possa molhá-las. Em seguida, interrompe o \nfornecimento de água por 5 segundos, enquanto a pessoa \nensaboa suas mãos, e finaliza o ciclo liberando água para \no enxágue por mais 3 segundos. Considere o tempo ( t ), \nem segundo, contado a partir do instante em que se inicia \no ciclo. A vazão de água nessa torneira é constante.\nUm esboço de gráfico que descreve o volume de água \nacumulado, em litro, liberado por essa torneira durante um \nciclo de lavagem das mãos, em função do tempo ( t ), em \nsegundo, é\nA\t\nA\t  \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12\nt (s)\nVolume de água (L)\nB\t\nB\t  \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12\nVolume de água (L)\nt (s)\nC\t\nC\t  \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12\nVolume de água (L)\nt (s)\nD\t\nD\t  \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12\nVolume de água (L)\nt (s)\nE\t\nE\t  \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12\nt (s)\nVolume de água (L)",
+  "processado_em": "2026-05-08T14:05:46.874052",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

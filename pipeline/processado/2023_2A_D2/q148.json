@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nUma costureira tem à sua disposição pelo menos \nduas unidades de cada um dos quatro tipos de retalhos \nretangulares com as estampas e os tamanhos apresentados.\n10 cm\n10 cm\n10 cm\n10 cm\n10 cm\n20 cm\n10 cm\n10 cm\nPara confeccionar um tapete em formato retangular \nde 10 cm × 50 cm, ela utilizará os retalhos, na posição \nindicada na figura, costurando um lado de um a um lado do \noutro, sem que haja rotações desses retalhos. O modelo \nde tapete que pretende confeccionar deverá conter um \núnico retalho de 10 cm × 20 cm e mais três retalhos de \nformato 10 cm × 10 cm, sendo que retalhos de mesma \nestampa não poderão ficar lado a lado.",
+  "processado_em": "2026-05-08T14:05:27.228481",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\n$\u0003SROLQL]DomR\u000f\u0003TXH\u0003YLDELOL]D\u0003R\u0003WUDQVSRUWH\u0003GR\u0003JUmR\u0003GH\u0003\npólen de uma planta até o estigma de outra, pode ser \nrealizada biótica ou abioticamente. Nos processos \nabióticos, as plantas dependem de fatores como o vento \ne a água.\n$\u0003 HVWUDWpJLD\u0003 HYROXWLYD\u0003 TXH\u0003 UHVXOWD\u0003 HP\u0003 SROLQL]DomR\u0003 PDLV\u0003\nH¿FLHQWH\u0003TXDQGR\u0003HVWD\u0003GHSHQGH\u0003GR\u0003YHQWR\u0003p\u0003R\u000bD\f\nA GLPLQXLomR\u0003GR\u0003FiOLFH\u0011\nB alongamento do ovário.\nC GLVSRQLELOL]DomR\u0003GR\u0003QpFWDU\u0011\nD LQWHQVL¿FDomR\u0003GD\u0003FRU\u0003GDV\u0003SpWDODV\u0011\nE aumento do número de estames.",
+  "processado_em": "2026-05-11T23:26:45.410283",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

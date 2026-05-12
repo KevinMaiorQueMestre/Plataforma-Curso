@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 04\t\n¿Cómo gestionar la diversidad lingüística en el aula?\nEl aprendizaje de idiomas es una de las demandas \nde la sociedad en la escuela: los alumnos tienen que \nfinalizar la escolarización con un buen conocimiento, \npor lo menos, de las tres lenguas curriculares: catalán, \ncastellano e inglés (o francés, portugués...).\nLa metodología que promueve el aprendizaje integrado",
+  "processado_em": "2026-05-11T23:26:28.080012",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

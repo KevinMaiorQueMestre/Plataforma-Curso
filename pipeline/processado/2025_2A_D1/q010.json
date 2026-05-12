@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 10 \nCom o anúncio da lista oficial de indicações ao Oscar 2024, \no fato de Margot Robbie e Greta Gerwig, respectivamente \na estrela e a diretora de Barbie — fenômeno do entretenimento \nem 2023 — terem sido esnobadas chamou a atenção e causou \nrevolta nos fãs do filme sobre a boneca mais famosa do mundo. \nProdutora-executiva e uma das idealizadoras de Barbie, \nMargot Robbie não foi indicada como melhor atriz. Greta Gerwig \ntambém foi preterida pela Academia. A única mulher a concorrer \nao prêmio de melhor direção foi Justine Triet, por Anatomia de \numa queda, que disputou com quatro homens.\nEm contrapartida, Ryan Gosling, intérprete de Ken em \nBarbie, conquistou uma vaga na categoria de melhor ator. \nA grande ironia por trás da indicação de Gosling é que seu \npersonagem, Ken, prefere viver no mundo real justamente \nporque lá os homens são mil vezes mais valorizados do que no \nmundo perfeito de Barbie, onde as mulheres reinam.\nDisponível em: https://revistamonet.globo.com. \nAcesso em: 2 fev. 2024 (adaptado).\nAo tratar de indicações ao Oscar, esse texto busca\nA criticar as categorias avaliadas pela Academia.\nB questionar o papel da indústria do entretenimento.\nC comparar o desempenho comercial de dois filmes.\nD ressaltar o sexismo presente no contexto cinematográfico.\nE descrever as reações dos fãs à não indicação de um filme",
+  "processado_em": "2026-05-08T14:06:25.660415",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

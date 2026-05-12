@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 147\t\nO mapa de cobertura e uso da terra no Brasil do IBGE \naponta que, entre 2000 e 2014, a área agrícola em nosso país \naumentou de 39 877 600 hectares (ha) para 55 854 900 ha, \nenquanto a área florestal diminuiu de 351 394 800 ha para \n317 559 700 ha.\nDisponível em: www.ibge.gov.br. Acesso em: 1 dez. 2018 (adaptado).\nConsidere que, nesse período, a taxa de variação entre \nas áreas agrícola e florestal seja constante ao longo dos anos",
+  "processado_em": "2026-05-08T14:06:52.842038",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

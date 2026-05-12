@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 101\t\nDas irmãs\nos meus irmãos sujando-se\nna lama\ne eis-me aqui cercada\nde alvura e enxovais\neles se provocando e provando\ndo fogo\ne eu aqui fechada\nprovendo a comida\neles se lambuzando e arrotando\nna mesa\ne eu a temperada\nservindo, contida\nos meus irmãos jogando-se\nna cama\ne eis-me afiançada\npor dote e marido\nQUEIROZ, S. O sacro ofício. Belo Horizonte: Comunicação, 1980.\nO poema de Sonia Queiroz apresenta uma voz lírica feminina \nque contrapõe o estilo de vida do homem ao modelo reservado \nà mulher. Nessa contraposição, ela conclui que\nA\t a mulher deve conservar uma assepsia que a \ndistingue de homens, que podem se jogar na lama.\nB\t a palavra “fogo” é uma metáfora que remete ao ato de \ncozinhar, tarefa destinada às mulheres.\nC\t a luta pela igualdade entre os gêneros depende da \nascensão financeira e social das mulheres.\nD\t a cama, como sua “alvura e enxovais”, é um símbolo \nda fragilidade feminina no espaço doméstico.\nE\t os papéis sociais destinados aos gêneros produzem \nefeitos e graus de autorrealização desiguais",
+  "processado_em": "2026-05-08T13:59:23.209024",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

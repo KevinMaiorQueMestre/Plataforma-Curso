@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 85          \nA Inglaterra não só os produzia em condições técnicas \nmais avançadas do que o resto dos países, como os \ntransportava e distribuía. Tinha, pois, necessidades \nde mercados, e foi por isso que se esforçou, naquela \netapa de sua história, para criá-los e desenvolvê-los. \nO Tratado de Methuen em 1703 estabelecia a compra \ndos tecidos ingleses por parte de Portugal, enquanto a \nInglaterra se comprometia a adquirir a produção vinícola \ndos lusitanos.\nSODRÉ, N. W. As razões da independência. Rio de Janeiro: \nCivilização Brasileira, 1969 (adaptado).\nNo contexto político-econômico da época, esse tratado \nteve como consequência para os britânicos a\nA \t aplicação de práticas liberais.\nB \t estagnação de superávit mercantil.\nC \t obtenção de privilégios comerciais.\nD \t promoção de equidade alfandegária.\nE equiparação de reservas monetárias",
+  "processado_em": "2026-05-08T14:03:32.227054",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

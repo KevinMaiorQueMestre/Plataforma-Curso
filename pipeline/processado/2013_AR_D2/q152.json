@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nPara o reflorestamento de uma área, deve-se cercar \ntotalmente, com tela, os lados de um terreno, exceto o \nlado margeado pelo rio, conforme a figura. Cada rolo de \ntela que será comprado para confecção da cerca contém \n48 metros de comprimento.\n190 m\nRio\n81 m\n81 m\nA quantidade mínima de rolos que deve ser comprada \npara cercar esse terreno é\nA\t 6.\nB\t 7.\nC\t 8.\nD\t 11.\nE\t 12.",
+  "processado_em": "2026-05-08T14:00:23.498277",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

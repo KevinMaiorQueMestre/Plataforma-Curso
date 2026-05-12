@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nNa sociologia e na literatura, o brasileiro foi por \nvezes tratado como cordial e hospitaleiro, mas não é \nisso o que acontece nas redes sociais: a democracia \nracial apregoada por Gilberto Freyre passa ao largo \ndo que acontece diariamente nas comunidades \nvirtuais do país. Levantamento inédito realizado pelo \nprojeto Comunica que Muda [...] mostra em números \na intolerância do internauta tupiniquim. Entre abril e \njunho, um algoritmo vasculhou plataformas [...] atrás \nde mensagens e textos sobre temas sensíveis, como \nracismo, posicionamento político e homofobia. Foram \nidentificadas 393 284 menções, sendo 84% delas com \nabordagem negativa, de exposição do preconceito e \nda discriminação.\nDisponível em: https://oglobo.globo.com. Acesso em: 6 dez. 2017 (adaptado).\nAo abordar a postura do internauta brasileiro mapeada \npor meio de uma pesquisa em plataformas virtuais, o texto\nA\t minimiza o alcance da comunicação digital.\nB\t refuta ideias preconcebidas sobre o brasileiro.\nC\t relativiza responsabilidades sobre a noção de respeito.\nD\t exemplifica conceitos contidos na literatura e na \nsociologia.\nE\t expõe a ineficácia dos estudos para alterar tal \ncomportamento.",
+  "processado_em": "2026-05-11T23:26:28.546938",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 29\nQUESTÃO 174\t\nEm 2011, um terremoto de magnitude 9,0 na escala \nRichter causou um devastador tsunami no Japão, \nprovocando um alerta na usina nuclear de Fukushima. \nEm 2013, outro terremoto, de magnitude 7,0 na mesma \nescala, sacudiu Sichuan (sudoeste da China), deixando \ncentenas de mortos e milhares de feridos. A magnitude \nde um terremoto na escala Richter pode ser calculada por\nM = \n2\nlog(\nE )\n3\nE0\n,\nsendo E a energia, em kWh, liberada pelo terremoto e \nE0 uma constante real positiva. Considere que E1 e \nE2 representam as energias liberadas nos terremotos \nocorridos no Japão e na China, respectivamente.\nDisponível em: www.terra.com.br. Acesso em: 15 ago. 2013 (adaptado).\nQual a relação entre E1 e E2?\nA\t E1 = E2 + 2\nB\t E1 = 102 . E2\nC\t E1 = 103 . E2\nD\t E1 = 10\n9\n7 . E2\nE\t E1 = 9\n7  . E2",
+  "processado_em": "2026-05-08T14:01:24.357314",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

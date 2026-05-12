@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 72\t\nTrata-se da perda progressiva da produtividade de biomas inteiros, afetando parcelas muito expressivas \ndos domínios subúmidos e semiáridos em todas as regiões quentes do mundo. É nessas áreas, ecologicamente \ntransicionais, que a pressão sobre a biomassa se faz sentir com muita força, devido à retirada da cobertura florestal, \nao superpastoreio e às atividades mineradoras não controladas, desencadeando um quadro agudo de degradação \nambiental, refletido pela incapacidade de suporte para o desenvolvimento de espécies vegetais, seja uma floresta \nnatural ou plantações agrícolas.\nCONTI, J. B. A geografia física e as relações sociedade-natureza no mundo tropical. In: CARLOS, A. F. A. (Org.). Novos caminhos da geografia. São Paulo: Contexto, 1999 (adaptado).\nO texto enfatiza uma consequência da relação conflituosa entre a sociedade humana e o ambiente, que diz respeito \nao processo de\nA\t \tinversão térmica.\nB\t \tpoluição atmosférica.\nC\t \teutrofização da água.\nD\t \tcontaminação dos solos.\nE\t \tdesertificação de ecossistemas.",
+  "processado_em": "2026-05-11T23:25:42.719493",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

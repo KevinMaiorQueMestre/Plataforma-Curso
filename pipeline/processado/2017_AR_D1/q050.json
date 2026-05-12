@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nArt. \n231. \nSão \nreconhecidos \naos \níndios \nsua \norganização \nsocial, \ncostumes, \nlínguas, \ncrenças \ne \ntradições, e os direitos originários sobre as terras \nque tradicionalmente ocupam, competindo à União \ndemarcá-las, proteger e fazer respeitar todos os \nseus bens.\nBRASIL. Constituição da República Federativa do Brasil de 1988. \nDisponível em: www.planalto.gov.br. Acesso em: 27 abr. 2017.\nA persistência das reivindicações relativas à aplicação \ndesse preceito normativo tem em vista a vinculação \nhistórica fundamental entre\nA\t \tetnia e miscigenação racial.\nB\t \tsociedade e igualdade jurídica.\nC\t \tespaço e sobrevivência cultural.\nD\t \tprogresso e educação ambiental.\nE\t \tbem-estar e modernização econômica.",
+  "processado_em": "2026-05-11T23:25:40.633659",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

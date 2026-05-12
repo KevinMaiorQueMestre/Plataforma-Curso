@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 95\nBuscando conhecer as informações técnicas de um ferro \nelétrico para avaliar o consumo de energia, um estudante \n\u000e\u000f\n\u0005\r\u000e\u0006\u0002\u001e\b\u0002 \b2J\f\u0010\b\t\u0002 \u000e\u0005P\u0004\u0007\u0010\b'\u0011\n\t\u0002 \u000f\n\t\t\n\u0002 \n2\n\r\u0007\u0004\u000f\u0004\u0010{\t\r\u000e\u001e\u0004\u0002\nP\u0004\u0007\u0005\n\u001e\u000e\u000f\b\t\u0002%\n2\u0004\u0002P\b!\u0007\u000e\u001e\b\u0005\r\n$\u0002\u001e\u0004\u0010\u0004\u0002\u0010\u0004\t\r\u0007\b\u0002\b\u0002\u0006\u0002J\f\u0007\b(\n115 VCA\n750 W\n\u001a\b!\n/\t\n\u0002 \u000b\f\n\u0002 \n\t\t\n\u0002 \b%\b\u0007\n2+\u0004\u0002 {\u0002 \f\r\u000e2\u000eY\b\u000f\u0004$\u0002 \n\u0010\u0002 \u0010{\u000f\u000e\b$\u0002\n30 minutos por dia, durante 30 dias.\nGREF. Física 3: Eletromagnetismo(\u0002\u001a\u001d\u0004\u0002\u001f\b\f2\u0004I\u0002\u0014\u000f\f\t%$\u0002\u0002`\b\u000f\b%\r\b\u000f\u0004k(\nQual é o valor mais próximo do consumo mensal de \nenergia desse eletrodoméstico, em kWh?\nA  0,87\nB  1,73\nC  3,45\nD  11,3\nE  22,5",
+  "processado_em": "2026-05-08T14:04:13.444626",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nAs primeiras noções de cidadania estiveram apoiadas \nnos estudos clássicos das civilizações antigas, sobretudo a \ngreco-romana, tendo sido, a partir de então, incorporados \ne criados outros termos que também se aprimoraram \ncom os debates que se sucederam. Embora tenham sido \ngestados no período clássico, foram no período iluminista \nmelhor aprimorados e adquirindo sentidos mais próximos \ndos quais temos hoje.\nBODART, C. N.; FIGUEIREDO, C. A. S. Ciência política para o \nensino médio. Maceió: Café com Sociologia, 2021 (adaptado).\nEm sua origem, o conceito descrito no texto era associado \nao seguinte grupo social:\nA\tClero católico.\nB\tHomens livres.\nC\tEscravos urbanos.\nD\tAristocratas rurais.\nE\tMulheres sufragistas.",
+  "processado_em": "2026-05-08T14:05:56.707325",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

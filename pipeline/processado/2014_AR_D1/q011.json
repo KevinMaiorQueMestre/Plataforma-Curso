@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 11\t\nCompreende-se \nassim \no \nalcance \nde \numa \nreivindicação que surge desde o nascimento da cidade \nna Grécia antiga: a redação das leis. Ao escrevê-las, não \nse faz mais que assegurar-lhes permanência e fixidez. \nAs leis tornam-se bem comum, regra geral, suscetível de \nser aplicada a todos da mesma maneira.\nVERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: \nBertrand Brasil, 1992 (adaptado).\nPara o autor, a reivindicação atendida na Grécia antiga, \nainda vigente no mundo contemporâneo, buscava garantir \no seguinte princípio:\nA\t Isonomia — igualdade de tratamento aos cidadãos.\nB\t Transparência \n— \nacesso \nàs \ninformações \ngovernamentais.\nC\t Tripartição — separação entre os poderes políticos \nestatais.\nD\t Equiparação — igualdade de gênero na participação \npolítica.\nE\t Elegibilidade — permissão para candidatura aos \ncargos públicos.",
+  "processado_em": "2026-05-08T14:00:27.484107",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

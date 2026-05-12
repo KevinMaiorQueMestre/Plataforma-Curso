@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 138\t\nUm jogador de videogame tem quatro personagens com \ndiferentes habilidades para avançar no jogo. Para uma missão, \né apresentado um quadro que descreve os níveis de cada \npersonagem em suas diferentes habilidades, no qual 10 é o \nmaior nível de qualquer habilidade. O jogador sabe que, para \navançar nessa missão, deve escolher um personagem cuja \nmédia entre os níveis de suas diferentes habilidades seja igual \nou superior a 6.\nPersonagem\nHabilidades\nForça\nAgilidade\nPoder\nMagia\nSabedoria\nI\n10\n8\n7\n3\n4\nII\n3\n6\n10\n6\n4\nIII\n5\n5\n5\n6\n9\nIV\n7\n7\n7\n7\n1\nDe acordo com as informações apresentadas, os possíveis \npersonagens para avançar nessa missão são\nA\tI e II.\nB\tI e III.\nC\tI e IV.\nD\tI, II e IV.\nE\tI, II, III e IV.",
+  "processado_em": "2026-05-08T14:06:52.148931",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

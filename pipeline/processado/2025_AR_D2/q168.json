@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 168\t\nA figura ilustra o projeto visual para confecção de uma \nmedalha comemorativa, com a forma de um cilindro circular \nreto, de diâmetro 6 cm e espessura 3 mm.\nA figura ABCD tem a forma de um quadrado e é a base de \num prisma que atravessa toda a medalha. A região da medalha \nexterna a esse prisma será cunhada em ouro. Pretende-se \ncunhar 100 dessas medalhas.\nConsidere 3,1 como valor aproximado para p.\nQual é o volume de ouro, em centímetro cúbico, necessário \npara a confecção dessas medalhas?\nA\t288\nB\t297\nC\t567\nD\t990\nE\t1 134",
+  "processado_em": "2026-05-08T14:07:10.174999",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

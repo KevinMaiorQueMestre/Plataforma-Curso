@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nA torcida do Fluminense inicia um movimento para \nmudar a letra de uma das músicas mais populares das \narquibancadas tricolores. Grupos pedem a remoção do \ntermo “mulambo imundo”, em uma provocação direta ao \nFlamengo. Mulambo é um termo que surgiu em Angola, \nna época da escravatura, e eles eram chamados de \nmulambos pelos senhores de engenho, os patrões \ndas fazendas.\nDisponível em: https://oglobo.globo.com. Acesso em: 23 nov. 2021.\nQual mudança no comportamento social a proposta \nreportada no texto reflete?\nA\t\nA\t Rejeição de costumes elitistas.\nB\t\nB\t Repulsão de condutas misóginas.\nC\t\nC\t Condenação do preconceito racial.\nD\t\nD\t Criminalização de práticas homofóbicas.\nE\t\nE\t Contestação do comportamento machista.",
+  "processado_em": "2026-05-08T14:05:39.211809",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

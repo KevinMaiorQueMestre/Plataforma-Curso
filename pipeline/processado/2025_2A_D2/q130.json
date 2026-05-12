@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 130 \nA entalpia é uma função de estado que permite obter \ninformações sobre as variações de energia, isto é, o calor \ntrocado entre o sistema e a vizinhança, à pressão constante. \nAssim, é possível saber se uma reação química libera ou absorve \ncalor. A reação entre hidrogênio e cloro gasosos, apresentada \nna equação, libera 43 kcal de energia. Consequentemente, \na variação de entalpia da reação por mol de cloreto de \nhidrogênio formado é de −21,5 kcal.\nH2 (g) + Cl2 (g) → 2 HCl (g)\nPara calcular o valor da entalpia dessa reação, um estudante \nconsultou dados tabelados sobre os reagentes utilizados e o \nproduto obtido.\nEsses dados são referentes ao(à)\nA densidade.\nB calor latente.\nC volume molar.\nD calor específico.\nE energia de ligação.",
+  "processado_em": "2026-05-08T14:06:36.279643",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

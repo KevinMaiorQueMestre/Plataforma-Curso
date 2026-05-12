@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nE venham, então, os alegres incendiários de dedos \ncarbonizados! Vamos! Ateiem fogo às estantes das \nbibliotecas! Desviem o curso dos canais, para inundar \nos museus! Empunhem as picaretas, os machados, \nos martelos e deitem abaixo sem piedade as cidades \nveneradas!\nMARINETTI, F. T. Manifesto futurista. Disponível em: www.sibila.com.br. \nAcesso em: 2 ago. 2012 (adaptado).\nQue princípio marcante do Futurismo e comum a várias \ncorrentes artísticas e culturais das primeiras três décadas \ndo século XX está destacado no texto?\nA\t \tA tradição é uma força incontornável.\nB\t \tA arte é expressão da memória coletiva.\nC\t \tA modernidade é a superação decisiva da história.\nD\t \tA realidade cultural é determinada economicamente.\nE\t A memória é um elemento crucial da identidade cultural.",
+  "processado_em": "2026-05-11T23:25:41.831776",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

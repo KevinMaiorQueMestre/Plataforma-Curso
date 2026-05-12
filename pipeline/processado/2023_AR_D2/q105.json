@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\t\nA leishmaniose visceral é uma zoonose causada por \num protozoário do gênero Leishmania que é encontrado em \ndiversos tecidos. Ela é transmitida ao homem de forma \nindireta, por vetores do ambiente doméstico. O cão é \nconsiderado um importante hospedeiro desse protozoário, \npodendo ou não apresentar os sintomas da doença, como \nperda de peso, anemia, ferimentos na pele, diarreia, \nconjuntivite e insuficiência renal. Em uma região que \nsofre com alta incidência dessa doença, uma campanha \ndo centro de zoonoses buscou verificar a presença desse \nprotozoário nos cães para tentar controlar a doença.\nEm qual material biológico dos cães a presença desse \nprotozoário representa risco de transmissão dessa zoonose?\nA\t\nA\t Urina.\nB\t\nB\t Saliva.\nC\t\nC\t Fezes.\nD\t\nD\t Sangue.\nE\t\nE\t Secreção ocular.",
+  "processado_em": "2026-05-08T14:05:43.387759",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

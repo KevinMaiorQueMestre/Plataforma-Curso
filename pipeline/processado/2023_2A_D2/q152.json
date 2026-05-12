@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nUm equipamento monitora o volume de água que \npassa por uma tubulação em um período de tempo. \nUm técnico rascunhou cinco possibilidades de unidade de \nmedida para a grandeza que esse equipamento monitora.\nNas imagens, cm significa centímetro, e s significa \nsegundo.\ncm\ns\ncm²\ns\ncm³\ns\nRascunho I\nRascunho II\nRascunho III\ns\ncm³\ns\ncm²\nRascunho IV\nRascunho V\nO rascunho que expressa corretamente uma unidade de \nmedida para a grandeza que esse equipamento monitora \né o\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:27.904899",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

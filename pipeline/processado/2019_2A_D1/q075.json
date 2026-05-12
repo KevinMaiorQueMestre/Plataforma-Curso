@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 75\t\nA estética relativamente estável do modernismo \nfordista cedeu lugar a todo o fermento, instabilidade e \nqualidades fugidias de uma estética pós-moderna que \ncelebra a diferença, a efemeridade, o espetáculo, a \nmoda e a mercadificação de formas culturais.\nHARVEY, D. Condição pós-moderna: uma pesquisa sobre as \norigens da mudança cultural. São Paulo: Loyola, 2009.\nNo contexto descrito, as transformações estéticas \nimpactam a produção de bens por meio da\nA\t promoção de empregos fabris, integrada às linhas \nde montagem.\nB\t ampliação dos custos de fabricação, impulsionada \npelo consumo.\nC\t redução \ndo \ntempo \nde \nvida \ndos \nprodutos, \nacompanhada da crescente inovação.\nD\t diminuição da importância da organização logística, \nutilizada pelos fornecedores.\nE\t expansão de mercadorias estocadas, aliada a \nmaiores custos de armazenamento.",
+  "processado_em": "2026-05-11T23:27:02.378713",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

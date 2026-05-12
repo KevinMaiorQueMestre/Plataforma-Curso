@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\t\nIndústrias farmacêuticas e instituições científicas têm \ntrabalhado no desenvolvimento de diferentes vacinas \ncontra a covid-19. Em algumas dessas vacinas, a principal \nestrutura antigênica é uma proteína de superfície viral \nchamada espícula (spike, em inglês). Essa proteína só \nexiste em coronavírus, incluindo o SARS-CoV-2. Ela se \nliga a receptores de membrana específicos das células \nhumanas por um mecanismo do tipo “chave-fechadura”. \nDessa forma, os vírus entram nas células, podendo se \nmultiplicar e acarretar a doença.\nO que são vacinas? Disponível em: www.cienciaviva.pt. \nAcesso em: 30 nov. 2021 (adaptado).\nNessas vacinas, essa proteína viral induz a\nA\tprodução de anticorpos específicos contra os vírus.\nB\timunidade passiva contra o desenvolvimento da doença.\nC\talteração genômica para formação da memória \nimunológica.\nD\tneutralização direta dos vírus presentes na circulação \nsanguínea.\nE\tmodificação dos receptores de membrana específicos \npara o vírus",
+  "processado_em": "2026-05-08T14:06:16.821934",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

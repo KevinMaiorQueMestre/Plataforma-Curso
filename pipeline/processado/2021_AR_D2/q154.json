@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 154\n\u0017\u0002\u000b\f\b\u000f\u0007\u0004\u0002\u0007\n%\u0007\n\t\n\u0005\r\b\u0002\b\u0002\u0007\n2\b'\u001d\u0004\u0002\n\u0005\r\u0007\n\u0002\u0004\u0002%\u0007\n'\u0004\u0002\u000f\n\u0002\f\u0010\u0002%\u0007\nPreço do produto (R)\nR \u000f 5 000\n5 000 \t R \u000f 10 000\n10 000 \t R \u000f 15 000\n\u0017\u0002J\u0007?\u0006\u001e\u0004\u0002\u000b\f\n\u0002\u0010\n2+\u0004\u0007\u0002\u0007\n%\u0007\n\t\n\u0005\r\b\u0002\n\t\t\b\u0002\u0007\n2\b'\u001d\u0004\u0002Z\nA \nR\nI\n2 000\n500\n0\n5 000 10 000 15 000\nB  \nR\nI\n1 000\n500\n0\n5 000 10 000 15 000\nC \nR\nI\n1 000\n500\n0\n5 000 10 000 15 000",
+  "processado_em": "2026-05-08T14:04:31.329420",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

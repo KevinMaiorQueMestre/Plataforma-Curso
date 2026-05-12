@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 21\t\nAtualmente, as represálias econômicas contra as \nempresas de informática norte-americanas continuam. \nA Alemanha proibiu um aplicativo dos Estados Unidos \nde compartilhamento de carros; na China, o governo \nexplicou que os equipamentos e serviços de informática \nnorte-americanos representam uma ameaça, pedindo \nque as empresas estatais não recorram a eles.\nSCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado).\nAs ações tomadas pelos países contra a espionagem \nrevelam preocupação com o(a)\nA\t subsídio industrial.\nB\t hegemonia cultural.\nC\t protecionismo dos mercados.\nD\t desemprego tecnológico.\nE\t segurança dos dados.",
+  "processado_em": "2026-05-08T14:00:43.950203",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

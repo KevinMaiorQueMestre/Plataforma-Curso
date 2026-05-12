@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 20\t\nDestak, nov. 2015 (adaptado).\nA imagem da caneta de tinta vermelha, associada às \nfrases do cartaz, é utilizada na campanha para mostrar \nao possível doador que\nA\t a doação de sangue faz bem à saúde.\nB\t a linha da vida é fina como o traço de caneta.\nC\t a atitude de doar sangue é muito importante.\nD\t a caneta vermelha representa a atitude do doador.\nE\t a reserva do banco de sangue está chegando ao fim.",
+  "processado_em": "2026-05-11T23:26:55.439546",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

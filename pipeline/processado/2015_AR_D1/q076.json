@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 76\t\nPara proteger estruturas de aço da corrosão, a \nindústria utiliza uma técnica chamada galvanização. \nUm metal bastante utilizado nesse processo é o zinco, \nque pode ser obtido a partir de um minério denominado \nesfalerita (ZnS), de pureza 75%. Considere que a \nconversão do minério em zinco metálico tem rendimento \nde 80% nesta sequência de equações químicas:\n2 ZnS + 3 O2 → 2 ZnO + 2 SO2\nZnO + CO → Zn + CO2\nConsidere as massas molares: ZnS (97 g/mol); O2 (32 g/mol); \nZnO (81 g/mol); SO2 (64 g/mol); CO (28 g/mol); CO2 (44 g/mol); \ne Zn (65 g/mol).\nQue valor mais próximo de massa de zinco metálico, \nem quilogramas, será produzido a partir de 100 kg de \nesfalerita?\nA\t 25\nB\t 33\nC\t 40\nD\t 50\nE\t 54",
+  "processado_em": "2026-05-08T14:00:48.349286",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

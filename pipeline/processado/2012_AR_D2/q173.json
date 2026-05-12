@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nO designer português Miguel Neiva criou um sistema de \nsímbolos que permite que pessoas daltônicas identifiquem \ncores. O sistema consiste na utilização de símbolos que \nidentificam as cores primárias (azul, amarelo e vermelho). \nAlém disso, a justaposição de dois desses símbolos \npermite identificar cores secundárias (como o verde, que é \no amarelo combinado com o azul). O preto e o branco são \nidentificados por pequenos quadrados: o que simboliza o \npreto é cheio, enquanto o que simboliza o branco é vazio. \nOs símbolos que representam preto e branco também \npodem estar associados aos símbolos que identificam \ncores, significando se estas são claras ou escuras.\nFolha de São Paulo. Disponível em: www1.folha.uol.com.br. Acesso em: 18 fev. 2012 (adaptado).\nDe acordo com o texto, quantas cores podem ser \nrepresentadas pelo sistema proposto?\nA\t 14\nB\t 18\nC\t 20\nD\t 21\nE 23",
+  "processado_em": "2026-05-08T13:59:15.656917",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

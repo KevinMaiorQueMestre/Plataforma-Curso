@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\t\nNa planta baixa de uma casa, um quarto retangular, \ncuja área é de 24 m2, está representado por um retângulo \ncom lados medindo 0,10 m e 0,15 m.\nA escala dessa planta é\nA\t1 : 24.\nB\t1 : 40.\nC\t1 : 60.\nD\t1 : 1 600.\nE\t1 : 16 000.",
+  "processado_em": "2026-05-08T14:06:05.861799",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

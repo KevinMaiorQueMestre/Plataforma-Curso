@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 32\t\nFalavam-me sempre no perigo de subir à Favela. Nos seus \nterríveis valentes. Nos seus malandros que assaltam com a \nmesma facilidade com que se dá bom-dia.\nO maior perigo que eu encontrei na Favela foi o risco, \na cada passo, de despencar-me de lá de cima pela pedreira \nou pelo morro abaixo.\nAquela gente, que não tem nada, dá uma profunda lição \nde alegria àqueles que têm tudo.\nSem higiene, sem conforto, naqueles pequeninos casebres \n[...], que se arriscam, a cada instante, a voar com o vento \nou despencar-se lá de cima; aquela população de homens \nvalentes — estivadores, carvoeiros, embarcadiços — e de \nmulheres anemiadas e fracas, e de crianças mal alimentadas \ne em trapos, cria porcos, bebe cachaça, toca cavaquinho \ne canta!...\nCOSTALLAT, B. Mistérios do Rio. Rio de Janeiro: Secretaria Municipal \nde Cultura, Turismo e Esportes, 1990.\nEm 1924, quando foi publicada essa crônica, predominava uma \nvisão estigmatizada e preconceituosa sobre as comunidades \nno Rio de Janeiro da Primeira República. Nesse trecho, essa \npercepção é\nA\treforçada pelas ameaças enfrentadas na favela, habitada por \nvalentes e malandros.\nB\tatenuada por uma visão romântica sobre a comunidade, \ncompreendida como festiva.\nC\tressignificada pela exposição do real perigo do morro, \nmaterializado pelo risco de queda.\nD\trelativizada por uma compreensão ambivalente do morro, \nconstituído por mazelas e alegrias.\nE\tenfatizada pela denúncia das más condições da vida local, \nmarcada pela falta de higiene e conforto.",
+  "processado_em": "2026-05-08T14:06:43.806065",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

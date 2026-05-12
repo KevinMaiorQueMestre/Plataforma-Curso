@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nTEXTO I\nA Marinha identifica, na voz de Thomas Barnett, uma \nampla região potencialmente insubmissa ou simplesmente \nirredutível às normas gerais de funcionamento promovidas \npelos Estados Unidos e sancionadas pelo Fundo \nMonetário Internacional, pela Organização Mundial do \nComércio e pelo Banco Mundial. E não necessariamente \npor sua consciência rebelde, mas sim, em muitos casos, \npela insubstancialidade de suas instituições estatais.\nTEXTO II\nA “brecha” crítica do “Novo Mapa do Pentágono”\nPetróleo e gás\nAlta densidade e\nvariedade germoplásmica\nCECEÑA, A. E. Hegemonias e emancipações no século XXI. Buenos Aires: Clacso, 2005.\nAs preocupações do governo estadunidense expressas \nno texto e no mapa evidenciam uma estratégia para\nA\t\nA\t compartilhamento de inovações tecnológicas.\nB\t\nB\t promoção de independência financeira.\nC\t\nC\t incremento de intercâmbios culturais.\nD\t\nD\t ampliação de influência econômica.\nE\t\nE\t preservação de recursos naturais.",
+  "processado_em": "2026-05-08T14:05:04.470878",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

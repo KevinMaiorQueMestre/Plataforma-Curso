@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nEm Utopia, tudo é comum a todos. A distribuição \ndos bens lá não é um problema, não se vê nem pobre \nnem mendigo e, embora ninguém tenha nada de seu, \ntodos são ricos. Haverá maior riqueza do que levar uma \nexistência alegre e pacífica, livre de ansiedades e sem \nprecisar se preocupar com a subsistência?\nMORUS, T. Utopia. Brasília: UnB, 2004.\nRetirado da obra de Thomas Morus, escrita no século XVI, \nesse trecho influenciou movimentos sociais do século XIX \nque lutaram para\nA\t inibir a ascensão da burguesia.\nB\t evitar a destruição da natureza.\nC\t combater o domínio do capital.\nD\t eliminar a intolerância religiosa.\nE\t superar o atraso tecnológico.",
+  "processado_em": "2026-05-11T23:26:13.430910",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

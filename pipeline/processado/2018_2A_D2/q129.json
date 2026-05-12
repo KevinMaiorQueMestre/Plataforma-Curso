@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nGregor Mendel, no século XIX, investigou os \nmecanismos da herança genética observando algumas \ncaracterísticas de plantas de ervilha, como a produção \nde sementes lisas (dominante) ou rugosas (recessiva), \ncaracterística determinada por um par de alelos com \ndominância completa. Ele acreditava que a herança era \ntransmitida por fatores que, mesmo não percebidos nas \ncaracterísticas visíveis (fenótipo) de plantas híbridas \n(resultantes de cruzamentos de linhagens puras), estariam \npresentes e se manifestariam em gerações futuras.\nA autofecundação que fornece dados para corroborar a \nideia da transmissão dos fatores idealizada por Mendel \nocorre entre plantas\nA\t híbridas, de fenótipo dominante, que produzem \napenas sementes lisas.\nB\t híbridas, de fenótipo dominante, que produzem \nsementes lisas e rugosas.\nC\t de linhagem pura, de fenótipo dominante, que \nproduzem apenas sementes lisas.\nD\t de linhagem pura, de fenótipo recessivo, que \nproduzem sementes lisas e rugosas.\nE\t de linhagem pura, de fenótipo recessivo, que \nproduzem apenas sementes rugosas.",
+  "processado_em": "2026-05-11T23:26:22.305319",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

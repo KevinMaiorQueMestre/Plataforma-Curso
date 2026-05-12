@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\t\nDe acordo com a Organização Mundial da Saúde, \na filariose e a leishmaniose são consideradas doenças \ntropicais infecciosas e constituem uma preocupação para \na saúde pública por ser alto o índice de mortalidade a \nelas associado.\nUma medida profilática comum a essas duas doenças é o(a)\nA\t\nA\t incineração do lixo orgânico.\nB\t\nB\t construção de rede de esgoto.\nC\t\nC\t uso de vermífugo pela população.\nD\t\nD\t controle das populações dos vetores.\nE\t\nE\t consumo de carnes vermelhas bem cozidas.",
+  "processado_em": "2026-05-08T14:05:10.553377",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

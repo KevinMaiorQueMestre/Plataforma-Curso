@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 22\t\nFake news costumam ter erros de português\nMesmo para quem não domina tão bem o idioma, fica \nfácil encontrar erros como de ortografia e concordância. \nAté porque reportagens reais prezam por um vocabulário \nrico e o emprego correto de todas as normas.\nAlém do mais, mensagens e notícias falsas divulgadas \ntendem a apresentar uma escrita com padrão duvidoso, \ncomo a repetição de uma palavra ou até uma quantidade \nexagerada de adjetivos.\nDisponível em: https://medicals.com. \nAcesso em: 25 nov. 2021 (adaptado).\nNesse texto, um dos recursos que auxilia na identificação \nde notícias falsas é o conhecimento da norma-padrão \nporque\nA\tele é uma forma de reconhecer a autoria do texto.\nB\ttoda a população domina as regras da gramática.\nC\tele é uma característica dos textos jornalísticos.\nD\tele valoriza a manifestação da liberdade de expressão.\nE\ttodo desvio compromete a compreensão do conteúdo \nveiculado.",
+  "processado_em": "2026-05-08T14:05:52.698620",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

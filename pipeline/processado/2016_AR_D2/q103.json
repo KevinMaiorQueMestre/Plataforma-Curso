@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LC - 2º dia | Caderno 5 - AMARELO - Página 7\nQUESTÃO 103\t\nSoneto VII\nOnde estou? Este sítio desconheço:\nQuem fez tão diferente aquele prado?\nTudo outra natureza tem tomado;\nE em contemplá-lo tímido esmoreço.\nUma fonte aqui houve; eu não me esqueço\nDe estar a ela um dia reclinado:\nAli em vale um monte está mudado:\nQuanto pode dos anos o progresso!\nÁrvores aqui vi tão florescentes,\nQue faziam perpétua a primavera:\nNem troncos vejo agora decadentes.\nEu me engano: a região esta não era;\nMas que venho a estranhar, se estão presentes\nMeus males, com que tudo degenera!\nCOSTA, C. M. Poemas. Disponível em: www.dominiopublico.gov.br. Acesso em: 7 jul. 2012.\nNo soneto de Cláudio Manuel da Costa, a contemplação \nda paisagem permite ao eu lírico uma reflexão em que \ntransparece uma\nA\t angústia provocada pela sensação de solidão.\nB\t resignação diante das mudanças do meio ambiente.\nC\t dúvida existencial em face do espaço desconhecido.\nD\t intenção de recriar o passado por meio da paisagem.\nE\t empatia entre os sofrimentos do eu e a agonia da terra.",
+  "processado_em": "2026-05-08T14:01:15.626621",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

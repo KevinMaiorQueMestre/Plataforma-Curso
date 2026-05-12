@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 102\n\u0012\u000242\u0004\u0007\n\t\r\b\u0002\u0012\u0010\bYZ\u0005\u000e\u001e\b\u0002{\u0002\f\u0010\b\u0002[!\u0004\u0010!\b\\\u0002\u000b\f\n\u0002\t\fJ\b\u0002?J\f\b\u0002\ndo ar vindo do oceano Atlântico e do solo, e a faz circular \npela América do Sul, causando, em regiões distantes, as \nchuvas pelas quais os paulistas desejavam em 2014.\n_\u0019^\u0012\u0015-\u0014\u001a$\u0002(\u0002\u0013\b\u0005'\b\u0002\u000f\b\u0002\u001e+\f#\bI\u0002\b\u0002\n\t\u001e\b\t\t\nY\u0002\u000f\n\u0002?J\f\b\u0002\u000b\f\n\u0002\b2\b\u0007\u0010\b\u0002\u0004\u0002%\bG\t\u0002\r\n\u0010\u0002\u0007\n2\b'\u001d\u0004\u0002\nG\u0005\r\u000e\u0010\b\u0002\u001e\u0004\u0010\u0002\b\t\u0002\u0004\u0007\n\t\r\b\t(\u0002Pesquisa Fapesp, n. 226, dez. 2014 (adaptado).\n\u0017\u0002\u000f\n\t\u0010\b\r\b\u0010\n\u0005\r\u0004\u0002\u001e\u0004\u0010%\u0007\u0004\u0010\n\r\n\u0002\n\t\t\b\u0002P\f\u0005'\u001d\u0004\u0002\u000f\b\u0002\u0004\u0007\n\t\r\b$\u0002\npois sem árvores\nA  diminui o total de água armazenada nos caules.\nB  diminui o volume de solos ocupados por raiz.\nC \u0002 \u000f\u000e\u0010\u000e\u0005\f\u000e\u0002\b\u0002\t\f%\n\u0007PG\u001e\u000e\n\u0002\r\u0004\r\b2\u0002\u000f\n\u0002\r\u0007\b\u0005\t%\u000e\u0007\b'\u001d\u0004(\nD \u0002 \b\f\u0010\n\u0005\r\b\u0002\b\u0002\n#\b%\u0004\u0007\b'\u001d\u0004\u0002\u000f\n\u0002\u0007\u000e\u0004\t\u0002\n\u00022\bJ\u0004\t(\nE  aumenta o assoreamento dos rios.",
+  "processado_em": "2026-05-08T14:04:13.737240",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

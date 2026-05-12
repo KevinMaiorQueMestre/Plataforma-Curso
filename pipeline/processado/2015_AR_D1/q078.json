@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 78\t\nA definição de queimadura é bem ampla, porém, \nbasicamente, é a lesão causada pela ação direta ou \nindireta produzida pela transferência de calor para o \ncorpo. A sua manifestação varia desde bolhas (flictenas) \naté formas mais graves, capazes de desencadear \nrespostas sistêmicas proporcionais à gravidade da lesão \ne sua respectiva extensão. Muitas vezes, os primeiros \nsocorros prestados à vítima, ao invés de ajudar, acabam \nagravando ainda mais a situação do paciente.\nDisponível em: www.bombeiros-bm.rs.gov.br. Acesso em: 28 fev. 2012 (adaptado).\nAo se deparar com um indivíduo que sofreu queimadura \ncom formação de flictena, o procedimento de primeiros \nsocorros que deve ser realizado antes de encaminhar o \npaciente ao hospital é\nA\t colocar gelo sobre a flictena para amenizar o ardor.\nB\t utilizar manteiga para evitar o rompimento da flictena.\nC\t passar creme dental para diminuir a ardência da \nflictena.\nD\t perfurar a flictena para que a água acumulada seja \nliberada.\nE\t cobrir a flictena com gazes molhadas para evitar a \ndesidratação.",
+  "processado_em": "2026-05-08T14:00:48.436170",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 38\t\nTEXTO I\nEL GRECO. Laocoonte. Óleo sobre tela, 1,37cm x 1,72cm. \nNational Gallery of Art, Washington, Estados Unidos, circa 1610-1614.\nDisponível em: https://images.nga.gov. Acesso em: 28 jun. 2019 (adaptado).",
+  "processado_em": "2026-05-08T14:05:00.398127",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

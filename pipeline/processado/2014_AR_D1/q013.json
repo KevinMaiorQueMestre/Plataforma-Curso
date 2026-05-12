@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 13\t\nQuando é meio-dia nos Estados Unidos, o Sol, todo \nmundo sabe, está se deitando na França. Bastaria ir à \nFrança num minuto para assistir ao pôr do sol.\nSAINT-EXUPÉRY, A. O Pequeno Príncipe. Rio de Janeiro: Agir, 1996.\nA diferença espacial citada é causada por qual \ncaracterística física da Terra?\nA\t Achatamento de suas regiões polares.\nB\t Movimento em torno de seu próprio eixo.\nC\t Arredondamento de sua forma geométrica.\nD\t Variação periódica de sua distância do Sol.\nE\t Inclinação em relação ao seu plano de órbita.",
+  "processado_em": "2026-05-08T14:00:27.562588",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 24\t\nA democracia deliberativa afirma que as partes \ndo conflito político devem deliberar entre si e, por \nmeio de argumentação razoável, tentar chegar a um \nacordo sobre as políticas que seja satisfatório para \ntodos. A democracia ativista desconfia das exortações \nà deliberação por acreditar que, no mundo real da \npolítica, onde as desigualdades estruturais influenciam \nprocedimentos e resultados, processos democráticos \nque parecem cumprir as normas de deliberação \ngeralmente tendem a beneficiar os agentes mais \npoderosos. Ela recomenda, portanto, que aqueles que \nse preocupam com a promoção de mais justiça devem \nrealizar principalmente a atividade de oposição crítica, \nem vez de tentar chegar a um acordo com quem sustenta \nestruturas de poder existentes ou delas se beneficia.\nYOUNG, I. M. Desafios ativistas à democracia deliberativa. \nRevista Brasileira de Ciência Política, n. 13, jan.-abr. 2014.\nAs concepções de democracia deliberativa e de \ndemocracia ativista apresentadas no texto tratam como \nimprescindíveis, respectivamente,\nA\t a decisão da maioria e a uniformização de direitos.\nB\t a organização de eleições e o movimento anarquista.\nC\t a obtenção do consenso e a mobilização das minorias.\nD\t a fragmentação da participação e a desobediência civil.\nE\t a imposição de resistência e o monitoramento da \nliberdade.",
+  "processado_em": "2026-05-08T14:01:04.820790",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

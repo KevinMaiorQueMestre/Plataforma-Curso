@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nAs proteínas de uma célula eucariótica possuem \npeptídeos sinais, que são sequências de aminoácidos \nresponsáveis pelo seu endereçamento para as diferentes \norganelas, de acordo com suas funções. Um pesquisador \ndesenvolveu uma nanopartícula capaz de carregar \nproteínas para dentro de tipos celulares específicos. \nAgora ele quer saber se uma nanopartícula carregada \ncom uma proteína bloqueadora do ciclo de Krebs \nin vitro é capaz de exercer sua atividade em uma célula \ncancerosa, podendo cortar o aporte energético e destruir \nessas células.\nAo escolher essa proteína bloqueadora para carregar as \nnanopartículas, o pesquisador deve levar em conta um \npeptídeo sinal de endereçamento para qual organela?\nA\t Núcleo.\nB\t Mitocôndria.\nC\t Peroxissomo.\nD\t Complexo golgiense.\nE\t Retículo endoplasmático.",
+  "processado_em": "2026-05-08T14:01:08.985251",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

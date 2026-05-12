@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nA variação da incidência de radiação solar sobre \na superfície da Terra resulta em uma variação de \ntemperatura ao longo de um dia denominada amplitude \ntérmica. Edificações e pavimentações realizadas nas \náreas urbanas contribuem para alterar as amplitudes \ntérmicas dessas regiões, em comparação com regiões que \nmantêm suas características naturais, com presença de \nvegetação e água, já que o calor específico do concreto é \ninferior ao da água. Assim, parte da avaliação do impacto \nambiental que a presença de concreto proporciona às \náreas urbanas consiste em considerar a substituição \nda área concretada por um mesmo volume de água e \ncomparar as variações de temperatura devido à absorção \nda radiação solar nas duas situações (concretada e \nalagada). Desprezando os efeitos da evaporação e \nconsiderando que toda a radiação é absorvida, essa \navaliação pode ser realizada com os seguintes dados:\nDensidade kg\nm3\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a\nCalor específi co\nJ\ng C\n\u001f\n\u001e\n\u001d\u001c\n\u001b\n\u001a\u0019\nÁgua\n1 000\n4,2\nConcreto\n2 500\n0,8\nROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas. \nBrasília: UnB; ETB, 2019 (adaptado).\nA razão entre as variações de temperatura nas áreas \nconcretada e alagada é mais próxima de\nA\t\nA\t 1,0.\nB\t\nB\t 2,1.\nC\t\nC\t 2,5.\nD\t\nD\t 5,3.\nE\t\nE\t 13,1.",
+  "processado_em": "2026-05-08T14:05:11.090935",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

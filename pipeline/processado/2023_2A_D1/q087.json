@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87\t\nAs propostas dele não devem ser levadas a sério, pois \nfoi visto bêbado num restaurante.\nGALINDO, R. 20 falácias (e as eleições). Disponível em: www.gazetadopovo.com.br. \nAcesso em: 17 out. 2021 (adaptado).\nA afirmação, eficaz como mecanismo de persuasão de \neleitores em contextos políticos, constitui-se como uma \nfalácia porque\nA\t\nA\t recorre à circularidade e afirma as suas teses.\nB\t\nB\t ataca a pessoa e desconsidera as suas ideias.\nC\t\nC\t aceita a conclusão e refuta as suas premissas.\nD\t\nD\t evoca a maioria e apresenta os seus argumentos.\nE\t\nE\t apela à autoridade e investiga os seus fundamentos.",
+  "processado_em": "2026-05-08T14:05:21.527089",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

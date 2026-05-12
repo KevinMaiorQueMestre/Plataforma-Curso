@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nUm produtor de café irrigado em Minas Gerais recebeu \num relatório de consultoria estatística, constando, entre \noutras informações, o desvio padrão das produções de \numa safra dos talhões de sua propriedade. Os talhões têm \na mesma área de 30 000 m2 e o valor obtido para o desvio \npadrão foi de 90 kg/talhão. O produtor deve apresentar \nas informações sobre a produção e a variância dessas \nproduções em sacas de 60 kg por hectare (10 000 m2).\nA variância das produções dos talhões expressa em \n(sacas/hectare)2 é\nA\t 20,25.\nB\t 4,50.\nC\t 0,71.\nD\t 0,50.\nE 0,25.",
+  "processado_em": "2026-05-08T13:59:15.588843",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

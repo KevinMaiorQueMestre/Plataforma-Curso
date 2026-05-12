@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 149\t\nPara a compra de um repelente eletrônico, uma \npessoa fez uma pesquisa nos mercados de seu bairro. \nCada tipo de repelente pesquisado traz escrito no rótulo \nda embalagem as informações quanto à duração, em \ndia, associada à quantidade de horas de utilização por \ndia. Essas informações e o preço por unidade foram \nrepresentados no quadro.\nTipo\nDuração \nem dia\nHoras por dia \nde utilização\nPreço  \nem real\nI\n30 \n12 \n12,00 \nII\n32 \n9 \n9,00 \nIII\n40 \n10 \n10,00 \nIV\n44 \n8 \n11,00 \nV\n48 \n8 \n12,00 \nA pessoa comprará aquele que apresentar o menor \ncusto diário, quando ligado durante 8 horas por dia.\nNessas condições, o repelente eletrônico que essa \npessoa comprará é do tipo\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-11T23:27:12.225161",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

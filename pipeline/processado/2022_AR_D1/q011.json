@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 11\t\nOra, sempre que surge uma nova técnica, ela quer \ndemonstrar que revogará as regras e coerções que \npresidiram o nascimento de todas as outras invenções \ndo passado. Ela se pretende orgulhosa e única. Como \nse a nova técnica carreasse com ela, automaticamente, \npara seus novos usuários, uma propensão natural a fazer \neconomia de qualquer aprendizagem. Como se ela se \npreparasse para varrer tudo que a precedeu, ao mesmo \ntempo transformando em analfabetos todos os que \nousassem repeli-la.\nFui testemunha dessa mudança ao longo de toda \na minha vida. Ao passo que, na realidade, é o contrário \nque acontece. Cada nova técnica exige uma longa \niniciação numa nova linguagem, ainda mais longa na \nmedida em que nosso espírito é formatado pela utilização \ndas linguagens que precederam o nascimento da \nrecém-chegada.\nECO, U.; CARRIÈRE, J.-C. Não contem com o fim do livro. \nRio de Janeiro: Record, 2010 (adaptado).",
+  "processado_em": "2026-05-08T14:04:58.392439",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

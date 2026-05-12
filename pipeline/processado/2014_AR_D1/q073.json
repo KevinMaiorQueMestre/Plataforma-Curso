@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 73\t\nSegundo a teoria evolutiva mais aceita hoje, as \nmitocôndrias, organelas celulares responsáveis pela \nprodução de ATP em células eucariotas, assim como \nos cloroplastos, teriam sido originados de procariontes \nancestrais que foram incorporados por células mais \ncomplexas.\nUma característica da mitocôndria que sustenta essa \nteoria é a\nA\t capacidade de produzir moléculas de ATP.\nB\t presença de parede celular semelhante à de \nprocariontes.\nC\t presença de membranas envolvendo e separando a \nmatriz mitocondrial do citoplasma.\nD\t capacidade de autoduplicação dada por DNA circular \npróprio semelhante ao bacteriano. \nE\t presença de um sistema enzimático eficiente às \nreações químicas do metabolismo aeróbio",
+  "processado_em": "2026-05-08T14:00:31.503845",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

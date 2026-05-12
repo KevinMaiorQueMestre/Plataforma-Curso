@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 14\t\nA soma do tempo gasto por todos os navios de \ncarga na espera para atracar no porto de Santos é \nigual a 11 anos — isso, contando somente o intervalo \nde janeiro a outubro de 2011. O problema não foi \nregistrado somente neste ano. Desde 2006 a perda de \ntempo supera uma década.\nFolha de S. Paulo, 25 dez. 2011 (adaptado).\nA situação descrita gera consequências em cadeia, tanto \npara a produção quanto para o transporte. No que se refere \nà territorialização da produção no Brasil contemporâneo, \numa dessas consequências é a\nA\t realocação das exportações para o modal aéreo em \nfunção da rapidez.\nB\t dispersão dos serviços financeiros em função da \nbusca de novos pontos de importação.\nC\t redução da exportação de gêneros agrícolas em \nfunção da dificuldade para o escoamento.\nD\t priorização do comércio com países vizinhos em \nfunção da existência de fronteiras terrestres.\nE\t estagnação da indústria de alta tecnologia em função \nda concentração de investimentos na infraestrutura \nde circulação",
+  "processado_em": "2026-05-08T13:59:01.981626",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

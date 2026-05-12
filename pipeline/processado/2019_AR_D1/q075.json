@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 75\t\nTEXTO I\nOs segredos da natureza se revelam mais sob a \ntortura dos experimentos do que no seu curso natural.\nBACON, F. Novum Organum, 1620. In: HADOT, P. O véu de Ísis: \nensaio sobre a história da ideia de natureza. \nSão Paulo: Loyola, 2006.\nTEXTO II\nO ser humano, totalmente desintegrado do todo, \nnão percebe mais as relações de equilíbrio da natureza. \nAge de forma totalmente desarmônica sobre o ambiente, \ncausando grandes desequilíbrios ambientais.\nGUIMARÃES, M. A dimensão ambiental na educação. \nCampinas: Papirus, 1995.\nOs textos indicam uma relação da sociedade diante da \nnatureza caracterizada pela\nA\t objetificação do espaço físico.\nB\t retomada do modelo criacionista.\nC\t recuperação do legado ancestral.\nD\t infalibilidade do método científico.\nE\t formação da cosmovisão holística.",
+  "processado_em": "2026-05-11T23:27:26.305255",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

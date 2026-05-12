@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nUm garrafão, cujas seções transversais são circunfer\nbebedouro, ficou com sua base voltada para cima e paralela\ntoda a água desse garrafão com vazão constante. A vista \nO gráfico que melhor representa a variação da altura h da\nA\t\nB\t\nC",
+  "processado_em": "2026-05-08T14:06:04.776565",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 20\t\nPSD - \nPTB - \nUDN\nPSP - \nPDC - \nMTR\nPTN - \nPST - \nPSB\nPRP -  PR -  PL -   PRT\nFinados\nFORTUNA. Correio da Manhã, ano 65, n. 22 264, 2 nov. 1965.\nA imagem foi publicada no jornal Correio da Manhã, no dia \nde Finados de 1965. Sua relação com os direitos políticos \nexistentes no período revela a\nA\t extinção dos partidos nanicos.\nB\t retomada dos partidos estaduais.\nC\t adoção do bipartidarismo regulado.\nD\t superação do fisiologismo tradicional.\nE\nl\ni\nd\nl",
+  "processado_em": "2026-05-08T14:00:09.637063",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

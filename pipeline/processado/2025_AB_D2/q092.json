@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 92\t\nEm 2006, o Prêmio Nobel de medicina ou fisiologia foi dado pela descrição do mecanismo de interferência de RNA, ou \nsimplesmente RNAi. O mecanismo RNAi é um processo biológico no qual pequenas moléculas de RNA interferem na expressão \ngênica, tipicamente pela destruição do RNA mensageiro de um gene específico no citoplasma.\nESTEVES, B. Interferência de RNA dá prêmio a norte-americanos. Disponível em: http://cienciahoje.uol.br. Acesso em: 13 jul. 2015 (adaptado).\nNesse mecanismo, a regulação da expressão gênica ocorre pela inibição da\nA\tsíntese do RNA mensageiro.\nB\tsaída do RNA mensageiro do núcleo.\nC\ttradução do RNA mensageiro em proteína.\nD\tsíntese do ribossomo pelo RNA mensageiro.\nE\tcaptura de aminoácidos pelo RNA mensageiro.",
+  "processado_em": "2026-05-11T23:29:46.516508",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

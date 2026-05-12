@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q037",
+  "imagem": "q037.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 37,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 37\t\npanela\n[Do lat. *pannella, dim. do lat. vulg. panna, ‘frigideira’.]\nSubstantivo feminino.\n1. Vasilha de barro ou de metal destinada à cocção \nde alimentos.\n2. O conteúdo desse recipiente: Comeu uma panela \nde feijão.\n3. Fig. V. panelinha (1 a 4).\n4. Gír. Nádegas, traseiro.\n5. Bras. Cavidade subterrânea onde as formigas \ndepositam suas larvas.\nPANELA. In: Novo Dicionário Eletrônico Aurélio, versão 5.0.\nOs verbetes constituem um conjunto de acepções, \nisto é, pequenas notas e apontamentos que compõem \nas entradas de um dicionário. Com base na leitura do \nverbete “panela”, vê-se que a função da linguagem \npredominante é a metalinguística, pois nele se\nA\tdiscute uma concepção.\nB\tapresenta um argumento.\nC\tinfluencia o leitor.\nD\tdefine um conceito.\nE expõe um objeto",
+  "processado_em": "2026-05-08T14:05:53.577346",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

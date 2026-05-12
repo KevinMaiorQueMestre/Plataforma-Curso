@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 95\t\nO monstro de gila, um lagarto encontrado em um deserto dos \nEstados Unidos, apresenta adaptações à falta de alimento nesse \nambiente. Esse lagarto possui um hormônio que controla os níveis \nde açúcar em seu próprio sangue. Foi observado que esse hormônio \ntambém controla os níveis de açúcar no sangue de pessoas diabéticas.\nRUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais. \nDisponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado).\nConsiderando que animais de um mesmo grupo taxonômico \npodem apresentar características adaptativas semelhantes em \nambientes similares, onde seria mais provável encontrar lagartos \ncom essas características no território brasileiro?\nA\tCerrado.\nB\tPampas.\nC\tCaatinga.\nD\tRestinga.\nE\tPantanal.",
+  "processado_em": "2026-05-08T14:07:04.781333",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

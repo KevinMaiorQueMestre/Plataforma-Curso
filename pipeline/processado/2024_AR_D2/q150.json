@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\t\nEm uma região com grande incidência de terremotos,\nmagnitudes M1 e M2, medidos segundo a escala Richter, e \nos estudiosos do assunto, é conhecida uma expressão alg\nM\nM\n2\n1\n\u001f\n\u001e\nEstudos mais abrangentes observaram que o primeir\nliberada foi um décimo da observada no segundo terremot\nO valor aproximado da magnitude M2 do segundo terremo\nA\t5,4.\nB\t6,2.\nC\t7,6.\nD\t8,2.\nE 8 4",
+  "processado_em": "2026-05-08T14:06:20.122719",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

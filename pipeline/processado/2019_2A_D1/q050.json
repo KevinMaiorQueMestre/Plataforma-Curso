@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 50\t\nUma privatização do espaço maior do que aquela \nproporcionada pelo quarto evidencia-se cada vez mais \nnos séculos XVII e XVIII. Como as ruelles [espaço entre a \ncama e a parede], as alcovas são espaços além do leito, \nlonge da porta que dá acesso à sala (ou à antecâmara, \nnas casas da elite). Thomas Jefferson, tecnólogo do \nestilo século XVIII, mandou construir uma parede em \ntorno de sua cama a fim de fechar completamente o \npequeno cômodo além do leito — cômodo no qual só \nele podia entrar, descendo da cama do lado da ruelle.\nRANUM, O. Os refúgios da intimidade. In: CHARTIER, R. (Org.). \nHistória da vida privada: da Renascença ao Século das Luzes. \nSão Paulo: Cia. das Letras, 2009 (adaptado).\nA partir do século XVII, a história da casa, que foi se \nmodificando para atender aos novos hábitos dos \nindivíduos, provocou o(a)\nA\t ampliação dos recintos.\nB\t iluminação dos corredores.\nC\t desvalorização da cozinha.\nD\t embelezamento dos jardins.\nE\t especialização dos aposentos.",
+  "processado_em": "2026-05-11T23:26:59.765881",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

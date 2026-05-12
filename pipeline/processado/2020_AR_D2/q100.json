@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t Fissão nuclear do urânio, provocada por nêutrons.\nB \tFusão nuclear do hidrogênio, provocada por \nprótons.\nC \t Desintegração nuclear do plutônio, provocada por \nelétrons.\nD \t Associação em cadeia de chumbo, provocada por \npósitrons.\nE \t Decaimento radioativo do carbono, provocado por \npartículas beta.\nQuestão 100        \nPlantas pioneiras são as que iniciam o processo \nnatural de cicatrização de uma área desprovida de \nvegetação. Em geral, têm pequeno porte e crescem \nmuito rápido, desenvolvem-se a pleno sol e são pouco \nexigentes quanto às condições do solo. Produzem \ngrande quantidade de sementes e possuem ciclo de \nvida curto.\nBLUM, C. T. Lista preliminar de espécies vegetais pioneiras nativas do Paraná – versão \n2008. Disponível em: www.chaua.org.br. Acesso em: 10 fev. 2015.\nEssas plantas são importantes em um projeto de \nrestauração ambiental, pois promovem, no solo,",
+  "processado_em": "2026-05-11T23:28:13.256165",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

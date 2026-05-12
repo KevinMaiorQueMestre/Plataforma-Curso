@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 129          \nUm anatomista vegetal, examinando os tecidos de \numa espécie de angiosperma, evidenciou a presença de:\nI.\t\nepiderme com cutícula fina;\nII.\t aerênquima bem desenvolvido;\nIII.\t feixes vasculares pouco desenvolvidos;\nIV.\t estômatos na face superior das folhas.\nEm que local pode ser encontrado esse vegetal?\nA \t Em uma restinga, ambiente com solo arenoso e alta \nluminosidade.\nB \t Em um ambiente aquático, onde há grande \ndisponibilidade hídrica.\nC \t No cerrado, ambiente com solo pobre em nutrientes e \nsujeito a queimadas.\nD  Em uma floresta, ambiente com boa disponibilidade \nhídrica e rica diversidade. \nE  Em um afloramento rochoso, ambiente com pouco \nsolo e muita luminosidade",
+  "processado_em": "2026-05-08T14:03:37.510195",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

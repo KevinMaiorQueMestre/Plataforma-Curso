@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\t\nUm instituto de pesquisas eleitorais recebe uma \nencomenda na qual a margem de erro deverá ser de, no \nmáximo, 2 pontos percentuais (0,02).\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre \no tema objeto da encomenda e irá usar a que tiver o erro \nmenor que o pedido.\nOs dados sobre as pesquisas são os seguintes:\nPesquisa\nσ\nN\nN\nP1\n0,5\n1 764\n42\nP2\n0,4\n784\n28\nP3\n0,3\n576\n24\nP4 \n0,2\n441\n21\nP5\n0,1\n64\n8\nO erro e pode ser expresso por\n|\n|\n,\ne\nN\n< 196 σ\nem que σ é um parâmetro e N é o número de pessoas \nentrevistadas pela pesquisa.\nQual pesquisa deverá ser utilizada?\nA\t P1\nB\t P2\nC\t P3\nD\t P4\nE\t P5",
+  "processado_em": "2026-05-11T23:25:53.445621",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

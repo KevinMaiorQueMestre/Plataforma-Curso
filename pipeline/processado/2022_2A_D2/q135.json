@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 135\t\nAtividades humanas como a construção de estradas\ncontribuem de forma determinante para a redução das \ncomo fragmentação do hábitat. Particularmente marcante\nestão restritos à redução do hábitat, mas também à modific\nda umidade do ar e o aumento nos níveis de luminosida\nfragmento é conhecido como “efeito de borda”, podendo s\nAs espécies vegetais diretamente prejudicadas por esse e\nA\t\nA\t exóticas.\nB\t\nB\t polinizadas pelo vento.\nC\t\nC\t com baixo potencial de dispersão.\nD\t\nD\t pertencentes à comunidade clímax.\nE\t\nE\t que apresentam grande área de vida.",
+  "processado_em": "2026-05-08T14:04:48.898487",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

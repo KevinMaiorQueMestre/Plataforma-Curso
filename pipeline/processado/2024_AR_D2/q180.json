@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nEm uma empresa é comercializado um produto em \nembalagens em formato de cilindro circular reto, com raio \nmedindo 3 cm, e altura medindo 15 cm. Essa empresa \nplaneja comercializar o mesmo produto em embalagens \nem formato de cubo, com capacidade igual a 80% da \ncapacidade da embalagem cilíndrica utilizada atualmente.\nUse 3 como valor aproximado para π.\nA medida da aresta da nova embalagem, em centímetro, \ndeve ser\nA\t6\nB\t18\nC\t 6 6\nD\t 6 6\n3\nE\t 3 12\n3",
+  "processado_em": "2026-05-08T14:06:21.829758",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

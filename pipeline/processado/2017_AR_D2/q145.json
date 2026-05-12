@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nPara realizar a viagem dos sonhos, uma pessoa \nprecisava fazer um empréstimo no valor de R$ 5 000,00. \nPara pagar as prestações, dispõe de, no máximo, \nR$ 400,00 mensais. Para esse valor de empréstimo, \no valor da prestação (P) é calculado em função do \nnúmero de prestações (n) segundo a fórmula\nP =\n×\n×\n−\n5 000 1013\n0 013\n1013\n1\n,\n,\n( ,\n)\nn\nn\nSe necessário, utilize 0,005 como aproximação para \nlog 1,013; 2,602 como aproximação para log 400; 2,525 \ncomo aproximação para log 335. \nDe acordo com a fórmula dada, o menor número de \nparcelas cujos valores não comprometem o limite definido \npela pessoa é\nA\t 12.\nB\t 14.\nC\t 15.\nD\t 16.\nE\t 17.",
+  "processado_em": "2026-05-11T23:25:53.127966",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

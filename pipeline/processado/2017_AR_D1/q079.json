@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 79\t\nTEXTO I\nSólon é o primeiro nome grego que nos vem à \nmente quando terra e dívida são mencionadas juntas. \nLogo depois de 600 a.C., ele foi designado “legislador” \nem Atenas, com poderes sem precedentes, porque a \nexigência de redistribuição de terras e o cancelamento \ndas dívidas não podiam continuar bloqueados pela \noligarquia dos proprietários de terra por meio da força ou \nde pequenas concessões.\nFINLEY, M. Economia e sociedade na Grécia antiga. \nSão Paulo: WMF Martins Fontes, 2013 (adaptado). \nTEXTO II\nA “Lei das Doze Tábuas” se tornou um dos textos \nfundamentais do direito romano, uma das principais \nheranças romanas que chegaram até nós. A publicação \ndessas leis, por volta de 450 a.C., foi importante, \npois o conhecimento das “regras do jogo” da vida \nem sociedade é um instrumento favorável ao homem \ncomum e potencialmente limitador da hegemonia e \narbítrio dos poderosos.\n FUNARI, P. P. Grécia e Roma. São Paulo: Contexto, 2011 (adaptado).\nO \nponto \nde \nconvergência \nentre \nas \nrealidades \nsociopolíticas indicadas nos textos consiste na ideia de \nque a\nA\t \tdiscussão de preceitos formais estabeleceu a \ndemocracia.\nB\t \tinvenção de códigos jurídicos desarticulou as \naristocracias.\nC\t \tformulação de regulamentos oficiais instituiu as \nsociedades.\nD\t \tdefinição de princípios morais encerrou os conflitos \nde interesses.\nE\t \tcriação \nde \nnormas \ncoletivas \ndiminuiu \nas \ndesigualdades de tratamento.",
+  "processado_em": "2026-05-11T23:25:43.005009",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

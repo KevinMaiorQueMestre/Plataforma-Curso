@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 113\t\nEm sua maioria, os equipamentos eletrônicos domésticos \ndemandam baixa potência elétrica em corrente contínua. \nPara alimentá-los, uma fonte externa ou embutida transforma \na corrente alternada em corrente contínua de baixa tensão. \nEntretanto, cada equipamento tem suas especificidades, e muitas \nvezes não é possível simplesmente trocar essas fontes sem levar \nem conta a tensão, a corrente ou a potência elétrica de saída.\nConsidere um equipamento de resistência elétrica RC que \nfunciona corretamente apenas em um dado valor de tensão. \nPorém, a única fonte de alimentação disponível fornece uma \ntensão 20% superior à tensão recomendada. Para adaptar essa \nfonte ao aparelho, a associação de um resistor de proteção RP\n , \nde potência adequada, se faz necessária.\nA configuração adequada do circuito e o valor do resistor de \nproteção, em relação ao valor da resistência do equipamento, são:\nA\t\nB\t\nC\t\nD\t\nE",
+  "processado_em": "2026-05-08T14:07:06.126972",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

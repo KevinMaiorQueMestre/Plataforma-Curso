@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Os semáforos estão separados por uma distância \nde 500 m. Segundo os dados estatísticos da companhia \ncontroladora de trânsito, um veículo, que está \ninicialmente parado no semáforo O, tipicamente parte \ncom aceleração constante de 1 m s−2 até atingir a \nvelocidade de 72 km h−1 e, a partir daí, prossegue com \nvelocidade constante. Você deve ajustar os semáforos \nA, B e C de modo que eles mudem para a cor verde \nquando o veículo estiver a 100 m de cruzá-los, para \nque ele não tenha que reduzir a velocidade em nenhum \nmomento.\nConsiderando \nessas \ncondições, \naproximadamente \nquanto tempo depois da abertura do semáforo O os \nsemáforos A, B e C devem abrir, respectivamente?\nA \t 20 s, 45 s e 70 s.\nB \t 25 s, 50 s e 75 s.\nC \t 28 s, 42 s e 53 s.\nD \t 30 s, 55 s e 80 s.\nE \t 35 s, 60 s e 85 s.\nQuestão 123        \nNos dias atuais, o amplo uso de objetos de plástico \ngera bastante lixo, que muitas vezes é eliminado pela \npopulação por meio da queima. Esse procedimento é \nprejudicial ao meio ambiente por lançar substâncias \npoluentes. Para constatar esse problema, um estudante \nanalisou a decomposição térmica do policloreto de \nvinila (PVC), um tipo de plástico, cuja estrutura é \nrepresentada na figura.\nPolicloreto de vinila (PVC)\nPara realizar esse experimento, o estudante colocou \numa amostra de filme de PVC em um tubo de ensaio e o \naqueceu, promovendo a decomposição térmica. Houve a \nlib\nã\nj\nitá i\nd\ná\ndi tô\ni\nh t\nl",
+  "processado_em": "2026-05-11T23:28:14.476439",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

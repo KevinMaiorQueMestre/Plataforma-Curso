@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nO ouvido humano apresenta algumas características inte\nou limiar de audibilidade, I0, abaixo da qual o som não é a\na audibilidade (sensação) e sua unidade é o fon, medido e\ncurvas de igual audibilidade, isto é, cada curva representa\nCurvas de igu\nFonte: \nMAGALHÃES, D. A.; ALVES FILHO, J. P. A discreta dança do ar a\nConsiderando a frequência de 90 Hz, o menor nível de inten\naproximadamente,\nA\t−20.\nB\t0.\nC\t30.\nD\t40.\nE 4000",
+  "processado_em": "2026-05-08T14:06:00.526832",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 24\t\nEm tempos de isolamento\nsocial por conta da pandemia de \ncovid-19, a Defensoria Pública \nalerta para o aumento da \nviolência contra a mulher! \nNão se cale! Denuncie!\nA Defensoria não para!\n#JuntasSomosMaisFortes\nDisque 180\nDisponível em: www.defensoriapublica.mt.gov.br. Acesso em: 29 out. 2021 (adaptado).\nEsse anúncio publicitário, veiculado durante o contexto \nda pandemia de covid-19, tem por finalidade\nA\t\nA\t divulgar o canal telefônico de atendimento a casos de \nviolência contra a mulher.\nB\t\nB\t informar sobre a atuação de uma entidade defensora \nda mulher vítima de violência.\nC\t\nC\t evidenciar o trabalho da Defensoria Pública em relação \nao problema do abuso contra a mulher.\nD\t\nD\t alertar a sociedade sobre o aumento da violência \ncontra a mulher em decorrência do coronavírus.\nE\t\nE\t incentivar o público feminino a denunciar crimes \nde violência contra a mulher durante o período de \nisolamento.",
+  "processado_em": "2026-05-08T14:05:35.438111",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

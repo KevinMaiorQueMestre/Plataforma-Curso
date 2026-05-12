@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 97\n\u0016\b\t\u0002\b\u0005J\u000e\u0004\t%\n\u0007\u0010\b\t$\u0002\b2Z\u0010\u0002\u000f\b\u0002P\n\u0007\r\u000e2\u000e\b'\u001d\u0004\u0002\u000f\b\u0002\u0004\u0004\tP\n\u0007\b$\u0002\n\n@\u000e\t\r\n\u0002\f\u0010\b\u0002\t\nJ\f\u0005\u000f\b\u0002P\n\u0007\r\u000e2\u000e\b'\u001d\u0004\u0002\u000b\f\n\u0002\u0007\n\t\f2\r\b\u0002\u0005\f\u0010\u0002\r\n\u001e\u000e\u000f\u0004\u0002\ntriploide.\n\u0014\t\t\b\u0002\t\nJ\f\u0005\u000f\b\u0002P\n\u0007\r\u000e2\u000e\b'\u001d\u0004\u0002P\u0004\u000e\u0002\u000e\u0010%\u0004\u0007\r\b\u0005\r\n\u0002\n#\u00042\f\r\u000e#\b\u0010\n\u0005\r\n$\u0002\n%\u0004\u000e\t\u0002#\u000e\b!\u000e2\u000e\u0004\f\u0002\b\u0002P\u0004\u0007\u0010\b'\u001d\u0004\u0002\u000f\n\u0002\f\u0010\u0002\r\n\u001e\u000e\u000f\u0004\u0002\u000f\nA \u0005\f\r\u0007\u000e'\u001d\u0004\u0002%\b\u0007\b\u0002\u0004\u0002P\u0007\f\r\u0004(\nB \u0007\n\t\n\u0007#\b\u0002%\b\u0007\b\u0002\u0004\u0002\n\u0010!\u0007\u000e\u001d\u0004(\nC revestimento para a semente.\nD %\u0007\u0004\r\n'\u001d\u0004\u0002%\b\u0007\b\u0002\u0004\u0002\u0010\nJ\bJ\b\u0010\n\rB\u0006\r\u0004(\nE #\b\t\u001e\f2\b\u0007\u000e\b'\u001d\u0004 %\b\u0007\b \b %2\b\u0005\r\b \"\u0004#\n\u0010(",
+  "processado_em": "2026-05-08T14:04:28.620091",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

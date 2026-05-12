@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 79\t\nAs altas temperaturas de combustão e o atrito \nentre suas peças móveis são alguns dos fatores que \nprovocam o aquecimento dos motores à combustão \ninterna. Para evitar o superaquecimento e consequentes \ndanos a esses motores, foram desenvolvidos os atuais \nsistemas de refrigeração, em que um fluido arrefecedor \ncom propriedades especiais circula pelo interior do motor, \nabsorvendo o calor que, ao passar pelo radiador, é \ntransferido para a atmosfera.\nQual propriedade o fluido arrefecedor deve possuir para \ncumprir seu objetivo com maior eficiência?\nA\t Alto calor específico.\nB\t Alto calor latente de fusão.\nC\t Baixa condutividade térmica.\nD\t Baixa temperatura de ebulição.\nE\t Alto coeficiente de dilatação térmica.",
+  "processado_em": "2026-05-08T14:00:48.468814",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

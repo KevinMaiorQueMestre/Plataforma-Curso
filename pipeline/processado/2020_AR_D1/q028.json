@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q028",
+  "imagem": "q028.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 28,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 28          \nLeandro Aparecido Ferreira, o MC Fioti, compôs em \n2017 a música Bum bum tam tam, que gerou, em nove \nmeses, 480 milhões de visualizações no YouTube. É o \nfunk brasileiro mais ouvido na história do site.\nA partir de uma gravação da flauta que achou na \ninternet, MC Fioti fez tudo sozinho: compôs, cantou e \nproduziu em uma noite só. “Comecei a pesquisar alguns \ntipos de flauta, coisas antigas. E nisso eu achei a ‘flautinha \ndo Sebastian Bach’”, conta. A descoberta foi por acaso: \nFioti não sabia quem era o músico alemão e não sabe \ntocar o instrumento.",
+  "processado_em": "2026-05-11T23:28:01.622828",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

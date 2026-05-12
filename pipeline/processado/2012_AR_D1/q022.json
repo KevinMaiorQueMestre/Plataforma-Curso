@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 22\t\nTexto do Cartaz: “Amor e não guerra”\nFoto de Jovens em protesto contra a Guerra do Vietnã. Disponível em:\n http://goldenyears66to69.blogspot.com. Acesso em: 10 out. 2011.\nNos anos que se seguiram à Segunda Guerra, movimentos \ncomo o Maio de 1968 ou a campanha contra a Guerra \ndo Vietnã culminaram no estabelecimento de diferentes \nformas de participação política. Seus slogans, tais como \n“Quando penso em revolução quero fazer amor”, se \ntornaram símbolos da agitação cultural nos anos 1960, \ncuja inovação relacionava-se\nA\t à contestação da crise econômica europeia, que fora \nprovocada pela manutenção das guerras coloniais.\nB\t à organização partidária da juventude comunista, \nvisando o estabelecimento da ditadura do proletariado.\nC\t à unificação das noções de libertação social e \nlibertação individual, fornecendo um significado \npolítico ao uso do corpo.\nD\t à defesa do amor cristão e monogâmico, com fins à \nreprodução, que era tomado como solução para os \nconflitos sociais.\nE\t ao reconhecimento da cultura das gerações passadas, \nque conviveram com a emergência do rock e outras \nmudanças nos costumes",
+  "processado_em": "2026-05-08T13:59:01.992238",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

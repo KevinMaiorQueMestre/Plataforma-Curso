@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nAo longo dos últimos 500 anos, o Brasil viu suas \nfronteiras do litoral expandirem-se para o interior. \nÉ apenas lógico que a Amazônia tenha sido a última \nfronteira a ser conquistada e submetida aos ditames da \nagricultura, pecuária, lavoura e silvicultura. A incorporação \nrecente das áreas amazônicas à exploração capitalista \ntem resultado em implicações problemáticas, dentre elas \na destruição do rico patrimônio natural da região.\nNITSCH, M. O futuro da Amazônia: questões críticas, cenários críticos. \nEstudos Avançados, n. 46, dez. 2002.\nNa situação descrita, a destruição do patrimônio natural \ndessa área destacada é explicada pelo(a)\nA\t distribuição da população ribeirinha.\nB\t patenteamento das espécies nativas.\nC\t expansão do transporte hidroviário.\nD\t desenvolvimento do agronegócio.\nE\t aumento da atividade turística.",
+  "processado_em": "2026-05-11T23:26:17.411168",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

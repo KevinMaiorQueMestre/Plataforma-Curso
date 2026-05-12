@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 01\t\nAdelfos\nYo soy como las gentes que a mi tierra vinieron\n— soy de la raza mora, vieja amiga del sol —,\nque todo lo ganaron y todo lo perdieron.\nTengo el alma de nardo del árabe español.\nMACHADO, M. Disponível em: www.poetasandaluces.com. \nAcesso em: 22 out. 2015 (fragmento).\nNessa estrofe, o poeta e dramaturgo espanhol Manuel \nMachado reflete acerca\nA\t de sua formação identitária plural.\nB\t da condição nômade de seus antepassados.\nC\t da perda sofrida com o processo de migração.\nD\t da dívida do povo espanhol para com o povo árabe.\nE\t de sua identificação com os elementos da natureza.",
+  "processado_em": "2026-05-11T23:27:18.080210",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

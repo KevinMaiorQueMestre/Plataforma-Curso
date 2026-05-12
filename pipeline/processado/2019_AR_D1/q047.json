@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 47\t\nDisponível em: www.ibge.gov.br. Acesso em: 11 dez. 2018 (adaptado).\nSatélite\nSol\nEnergia solar\nrefletida\nEnergia solar \nincidente\nFloresta\nRio\nPastagens\nRodovia\nAtmosfera",
+  "processado_em": "2026-05-11T23:27:24.738383",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

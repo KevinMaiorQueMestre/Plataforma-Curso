@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 140\t\nUma pessoa comprou um aparelho sem fio para \ntransmitir músicas a partir do seu computador para o \nrádio de seu quarto. Esse aparelho possui quatro chaves \nseletoras e cada uma pode estar na posição 0 ou 1. \nCada escolha das posições dessas chaves corresponde \na uma frequência diferente de transmissão.\nA quantidade de frequências diferentes que esse \naparelho pode transmitir é determinada por\nA\t 6.\nB\t 8.\nC\t 12.\nD\t 16.\nE\t 24.",
+  "processado_em": "2026-05-11T23:27:11.789677",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 115\t\nÉ comum em viagens de avião sermos solicitados a \ndesligar aparelhos cujo funcionamento envolva a emissão \nou a recepção de ondas eletromagnéticas, como celulares. \nA justificativa dada para esse procedimento é, entre \noutras coisas, a necessidade de eliminar fontes de sinais \neletromagnéticos que possam interferir nas comunicações, \nvia rádio, dos pilotos com a torre de controle.\nEssa interferência poderá ocorrer somente se as ondas \nemitidas pelo celular e as recebidas pelo rádio do avião\nA\t\nA\t forem ambas audíveis.\nB\t\nB\t tiverem a mesma potência.\nC\t\nC\t tiverem a mesma frequência.\nD\t\nD\t tiverem a mesma intensidade.\nE\t\nE\t propagarem-se com velocidades diferentes.",
+  "processado_em": "2026-05-08T14:05:44.210695",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

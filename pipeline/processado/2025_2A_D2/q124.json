@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 124 \nOs cupins possuem em seu tubo digestório uma grande \nresponsável por degradar a celulose, o que facilita a assimilaçã\nA relação ecológica existente entre esses seres vivos é conheci\nA mutualismo, pois tanto os cupins quanto os microrganismo\nB cooperação, pois a associação entre o cupim e os microrgan\nC competição, pois tanto os cupins quanto os microrganismos\nD comensalismo, pois somente os cupins se beneficiam com a\nE parasitismo, pois os microrganismos absorvem a maioria do",
+  "processado_em": "2026-05-08T14:06:36.006200",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nUma pessoa comprou uma caixa com 25 bombons por \n5 reais. Resolveu revendê-los de forma avulsa a um preço \núnico. Não resistindo à tentação, durante a venda, comeu \ncinco bombons. Obteve, mesmo assim, com a venda dos \nbombons restantes, um lucro de 20% sobre o valor pago \npela caixa.\nQual foi o valor, em real, de venda de cada bombom?\nA\t\nA\t 0,20\nB\t\nB\t 0,24\nC\t\nC\t 0,30\nD\t\nD\t 0,35\nE\t\nE\t 0,40",
+  "processado_em": "2026-05-08T14:05:27.954668",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

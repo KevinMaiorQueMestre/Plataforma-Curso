@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nO acréscimo de tecnologias no sistema produtivo \nindustrial tem por objetivo reduzir custos e aumentar a \nprodutividade. No primeiro ano de funcionamento, uma \nindústria fabricou 8 000 unidades de um determinado \nproduto. No ano seguinte, investiu em tecnologia adquirindo \nnovas máquinas e aumentou a produção em 50%. \nEstima-se que esse aumento percentual se repita nos \npróximos anos, garantindo um crescimento anual de 50%. \nConsidere P a quantidade anual de produtos fabricados \nno ano t de funcionamento da indústria.\nSe a estimativa for alcançada, qual é a expressão que \ndetermina o número de unidades produzidas P em função \nde t, para t ≥1?\nA\t P(t) = 0,5 · t −1 + 8 000\nB\t P(t) = 50 · t −1 + 8 000\nC\t P(t) = 4 000 · t −1 + 8 000\nD\t P(t) = 8 000 · (0,5) t − 1 \nE P(t)\n8 000\n(1 5) t\n1",
+  "processado_em": "2026-05-08T14:00:57.566034",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

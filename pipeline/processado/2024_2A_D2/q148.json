@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nUma empresa produz embalagens para acomodar \nseu produto. As embalagens atuais são cilíndricas e \nmedem 16 cm de diâmetro e 20 cm de altura. A pedido \nda direção, as embalagens terão um novo formato. \nElas serão na forma de paralelepípedos retos retângulos, \nde base quadrada, de lado medindo 16 cm. A capacidade \ndelas deverá ser, pelo menos, 400 mL maior que a das \nembalagens atuais.\nUse 3 como valor aproximado de π.\nO valor aproximado da medida da altura das novas \nembalagens, em centímetro, é\nA\t11.\nB\t15.\nC\t17.\nD\t62.\nE 66",
+  "processado_em": "2026-05-08T14:06:04.272206",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

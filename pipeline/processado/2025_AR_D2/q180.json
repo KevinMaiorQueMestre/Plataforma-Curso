@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 180\t\nA final de um campeonato de futebol foi disputada em 2 tempos \nregulamentares, de 45 minutos cada, sem acréscimos, com uma \nprorrogação de 30 minutos, também sem acréscimos. Um jogador \nentrou no início do segundo tempo, com um equipamento para \nmedir a distância percorrida durante sua participação no jogo. \nAo final do segundo tempo regulamentar, esse jogador havia \npercorrido 4,5 km. Ele manteve na prorrogação a mesma velocidade \nmédia que havia mantido no segundo tempo regulamentar.\nA distância percorrida por esse jogador durante sua participação \nna partida, em quilômetro, foi\nA\t4,5.\nB\t6,0.\nC\t7,5.\nD\t9,0.\nE 12 0",
+  "processado_em": "2026-05-08T14:07:10.778767",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

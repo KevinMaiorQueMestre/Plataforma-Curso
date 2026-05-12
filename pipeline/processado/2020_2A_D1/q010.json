@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 10          \nAutobiografia de José Saramago\nNasci numa família de camponeses sem terra, em \nAzinhaga, uma pequena povoação situada na província \ndo Ribatejo, na margem direita do Rio Almonda, a uns \ncem quilômetros a nordeste de Lisboa. Meus pais \nchamavam-se José de Sousa e Maria da Piedade. José \nde Sousa teria sido também o meu nome se o funcionário \ndo Registro Civil, por sua própria iniciativa, não lhe \ntivesse acrescentado a alcunha por que a família de meu \npai era conhecida na aldeia: Saramago. (Cabe esclarecer \nque saramago é uma planta herbácea espontânea, \ncujas folhas, naqueles tempos, em épocas de carência, \nserviam como alimento na cozinha dos pobres.) Só \naos sete anos, quando tive de apresentar na escola \nprimária um documento de identificação, é que se veio \na saber que o meu nome completo era José de Sousa \nSaramago… Não foi este, porém, o único problema de \nidentidade com que fui fadado no berço. Embora tivesse \nvindo ao mundo no dia 16 de novembro de 1922, os meus \ndocumentos oficiais referem que nasci dois dias depois, \na 18: foi graças a esta pequena fraude que a família \nescapou ao pagamento da multa por falta de declaração \ndo nascimento no prazo legal.\nDisponível em: www.josesaramago.org. Acesso em: 7 dez. 2017 (adaptado).",
+  "processado_em": "2026-05-08T14:03:23.749534",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

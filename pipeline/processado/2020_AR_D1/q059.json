@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 59          \nEscudos antigos ou maciços cristalinos são \nblocos imensos de rochas antigas. Estes escudos \nsão constituídos por rochas cristalinas (magmático-\nplutônicas), formadas em eras pré-cambrianas, ou \npor rochas metamórficas (material sedimentar) do \nPaleozoico. São resistentes, estáveis, porém bastante \ndesgastadas. Correspondem a 36% da área territorial \ne dividem-se em duas grandes porções: o Escudo das \nGuianas (norte da Planície Amazônica) e o Escudo \nBrasileiro (porção centro-oriental brasileira).\nDisponível em: http://ambientes.ambientebrasil.com.br. Acesso em: 25 jun. 2015.\nAs estruturas geológicas indicadas no texto são \nimportantes \neconomicamente \npara \no \nBrasil \npor \nconcentrarem\nA \t fontes de águas termais.\nB \t afloramentos de sal-gema.\nC \t jazidas de minerais metálicos.\nD \t depósitos de calcário agrícola.\nE \t reservas de combustível fóssil.",
+  "processado_em": "2026-05-11T23:28:04.876371",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

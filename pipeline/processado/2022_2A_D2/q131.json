@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 131\t\nUm multímetro pode atuar como voltímetro (leitura \nem volt) ou como amperímetro (leitura em ampère), \ndependendo da função selecionada. A forma de conectar \no multímetro ao circuito depende da grandeza física a \nser medida. Uma lâmpada de lanterna, de resistência \nelétrica igual a 40 Ω, brilha quando conectada a quatro \npilhas em série, cada uma com 1,5 V de tensão elétrica. \nO multímetro 2 indica o valor 5,62, conforme a figura, e o \nmultímetro 1 está conectado, porém desligado.\nMultímetro 1\nMultímetro 2\nLâmpada\nLâmpada\nPilhas em série\nAo se ligar o multímetro 1, a grandeza física e o seu valor \ncorrespondente indicados na tela são, respectivamente,\nA\t\nA\t corrente elétrica e 0,14.\nB\t\nB\t corrente elétrica e 0,15.\nC\t\nC\t corrente elétrica e 0,29.\nD\t\nD\t tensão elétrica e 0,14.\nE\t\nE\t tensão elétrica e 225.",
+  "processado_em": "2026-05-08T14:04:48.630486",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

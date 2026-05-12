@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 155\t\nUma pesquisa divulgada pela Fundação Getúlio Vargas So\ndisponibilizados pela Pesquisa Nacional por Amostra de Domicílio\na pandemia no Brasil. De acordo com o estudo, o contingente de p\natingiu 62,9 milhões de brasileiros em 2021, o que representa 2\nTaxas percentuais da pobreza no B\nDe acordo com os dados apresentados no gráfico, a mediana das\nA\t26,00%.\nB\t26,24%.\nC\t26,28%.\nD\t26,65%.\nE\t26,67%.",
+  "processado_em": "2026-05-08T14:06:53.335061",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

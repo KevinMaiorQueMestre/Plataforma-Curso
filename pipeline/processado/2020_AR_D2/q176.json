@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "O número mínimo de bolinhas necessárias para que se \npossa retirar o objeto que flutua na água, seguindo as \ninstruções dadas, é de\nA \t 14.\nB\t 16.\nC \t 18.\nD \t 30.\nE \t 34.\nQuestão 176        \nUm grupo sanguíneo, ou tipo sanguíneo, baseia-se na \npresença ou ausência de dois antígenos, A e B, na superfície \ndas células vermelhas do sangue. Como dois antígenos \nestão envolvidos, os quatro tipos sanguíneos distintos são:\n•\t Tipo A: apenas o antígeno A está presente;\n•\t Tipo B: apenas o antígeno B está presente;\n•\t Tipo AB: ambos os antígenos estão presentes;\n•\t Tipo O: nenhum dos antígenos está presente.\nDisponível em: http://saude.hsw.uol.com.br. Acesso em: 15 abr. 2012 (adaptado).\nForam coletadas amostras de sangue de 200 pessoas \ne, após análise laboratorial, foi identificado que em 100 \namostras está presente o antígeno A, em 110 amostras \nhá presença do antígeno B e em 20 amostras nenhum \ndos antígenos está presente.\nDessas pessoas que foram submetidas à coleta de \nsangue, o número das que possuem o tipo sanguíneo A \né igual a\nA \t 30.\nB \t 60.\nC \t 70.\nD \t 90.\nE  100.",
+  "processado_em": "2026-05-11T23:28:20.341303",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

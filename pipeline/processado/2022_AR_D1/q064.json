@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Na conjuntura histórica destacada no texto, o dever de \nagir em face da situação de crise apresentada pertencia à \njurisdição\nA\t\nA\t da nobreza, proveniente da obrigação de proteção ao \ncampesinato livre. \nB\t\nB\t da realeza, decorrente do conceito de governo \nsubjacente à monarquia cristã.\nC\t\nC\t dos mosteiros, resultante do caráter fraternal afirmado \nnas regras monásticas.\nD\t\nD\t dos bispados, consequente da participação dos \nclérigos nos assuntos comunitários.\nE\t\nE\t das corporações, procedente do padrão assistencialista \nprevisto nas normas estatutárias.\nQUESTÃO 64\t\nAs forças tectônicas dentro da litosfera, controladas \npelo calor interno das profundezas, geram terremotos, \nerupções e soerguimento de montanhas. As forças \nmeteorológicas dentro da atmosfera e da hidrosfera, \ncontroladas pelo calor do Sol, produzem tempestades, \ninundações, geleiras e outros agentes de erosão.\nPRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2006 (adaptado).\nA interação dinâmica entre as forças naturais citadas \nfavorece a ocupação do espaço geográfico, na medida \nem que provoca a formação de\nA\t\nA\t solos vulcânicos.\nB\t\nB\t dorsais oceânicas.\nC\t\nC\t relevos escarpados.\nD\t\nD\t superfícies lateríticas.\nE\t\nE\t dobramentos modernos.",
+  "processado_em": "2026-05-08T14:05:04.228303",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

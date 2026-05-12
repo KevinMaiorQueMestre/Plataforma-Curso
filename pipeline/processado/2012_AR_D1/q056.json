@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 56\t\nA figura representa um dos modelos de um \nsistema de interações entre seres vivos. Ela apresenta \nduas propriedades, P1 e P2, que interagem em I, para \nafetar uma terceira propriedade, P3, quando o sistema \né alimentado por uma fonte de energia, E. Essa \nfigura pode simular um sistema de campo em que P1 \nrepresenta as plantas verdes; P2 um animal herbívoro \ne P3, um animal onívoro.\nODUM, E. P. Ecologia. Rio de Janeiro: Guanabara Koogan, 1988.\nA função interativa I representa a proporção de\nA\t herbivoria entre P1 e P2.\nB\t polinização entre P1 e P2.\nC\t P3 utilizada na alimentação de P1 e P2.\nD\t P1 ou P2 utilizada na alimentação de P3.\nE\t energia de P1 e de P2 que saem do sistema.",
+  "processado_em": "2026-05-08T13:59:02.482486",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

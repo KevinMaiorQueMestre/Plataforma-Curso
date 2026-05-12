@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 13\t\nLeão do Norte\nSou o coração do folclore nordestino \nEu sou Mateus e Bastião do boi-bumbá \nSou o boneco do Mestre Vitalino \nDançando uma ciranda em Itamaracá \nEu sou um verso de Carlos Pena Filho \nNum frevo de Capiba \nAo som da Orquestra Armorial \nSou Capibaribe \nNum livro de João Cabral \nSou mamulengo de São Bento do Una \nVindo no baque solto de maracatu \nEu sou um auto de Ariano Suassuna",
+  "processado_em": "2026-05-08T14:05:16.656872",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

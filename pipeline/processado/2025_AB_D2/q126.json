@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 126\t\nAlguns aparelhos do nosso cotidiano, como TVs e drones\nsistema de controle desses aparelhos se dá em relação à radi\ndeve ser realizado a uma curta distância e o sistema recepto\no sistema de controle funciona a distâncias relativamente gr\nO acionamento dos equipamentos citados corresponde à emis\nA\tvisível e raios X.\nB\trádio e ultravioleta.\nC\tultravioleta e visível.\nD\tinfravermelho e rádio.\nE\traios X e infravermelho.",
+  "processado_em": "2026-05-08T14:06:51.380600",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

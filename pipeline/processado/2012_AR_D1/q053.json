@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 53\t\nO rótulo de um desodorante aerossol informa ao \nconsumidor que o produto possui em sua composição \nos gases isobutano, butano e propano, dentre outras \nsubstâncias. Além dessa informação, o rótulo traz, ainda, \na inscrição “Não contém CFC”. As reações a seguir, que \nocorrem na estratosfera, justificam a não utilização de \nCFC (clorofluorcarbono ou Freon) nesse desodorante:\n I) CF2Cℓ2\nCF2Cℓ  + Cℓ   \nUV\nII) Cℓ  + O3\nO2 + CℓO   \n •\n •\n •\n •\nA preocupação com as possíveis ameaças à camada \nde ozônio (O3) baseia-se na sua principal função: proteger \na matéria viva na Terra dos efeitos prejudiciais dos raios \nsolares ultravioleta. A absorção da radiação ultravioleta \npelo ozônio estratosférico é intensa o suficiente para \neliminar boa parte da fração de ultravioleta que é \nprejudicial à vida.\nA finalidade da utilização dos gases isobutano, butano e \npropano neste aerossol é\nA\t substituir o CFC, pois não reagem com o ozônio, \nservindo como gases propelentes em aerossóis.\nB\t servir como propelentes, pois, como são muito \nreativos, capturam o Freon existente livre na \natmosfera, impedindo a destruição do ozônio.\nC\t reagir com o ar, pois se decompõem espontaneamente \nem dióxido de carbono (CO2) e água (H2O), que não \natacam o ozônio.\nD\t impedir a destruição do ozônio pelo CFC, pois os \nhidrocarbonetos gasosos reagem com a radiação UV, \nliberando hidrogênio (H2), que reage com o oxigênio \ndo ar (O2), formando água (H2O).\nE\t destruir o CFC, pois reagem com a radiação UV, \nliberando carbono (C), que reage com o oxigênio do \nar (O2), formando dióxido de carbono (CO2), que é \ninofensivo para a camada de ozônio",
+  "processado_em": "2026-05-08T13:59:02.476347",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

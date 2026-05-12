@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nMetabolismo de procariontes\nO esquema representa a ação de organismos no \nciclo do nitrogênio e no ciclo do carbono. Os números \ncorrespondem a algumas etapas dos dois ciclos distintos.\nDisponível em: https://pt.khanacademy.org. \nAcesso em: 27 jun. 2024 (adaptado).",
+  "processado_em": "2026-05-08T14:06:18.640976",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

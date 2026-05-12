@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 52\t\nTomás de Aquino, filósofo cristão que viveu no \nséculo XIII, afirma: a lei é uma regra ou um preceito \nrelativo às nossas ações. Ora, a norma suprema dos \natos humanos é a razão. Desse modo, em última \nanálise, a lei está submetida à razão; é apenas uma \nformulação das exigências racionais. Porém, é mister \nque ela emane da comunidade, ou de uma pessoa que \nlegitimamente a representa.\nGILSON, E.; BOEHNER, P. História da filosofia cristã. \nPetrópolis: Vozes, 1991 (adaptado).\nNo contexto do século XIII, a visão política do filósofo \nmencionado retoma o\nA\t pensamento idealista de Platão.\nB\t conformismo estoico de Sêneca.\nC\t ensinamento místico de Pitágoras.\nD\t paradigma de vida feliz de Agostinho.\nE\t conceito de bem comum de Aristóteles.",
+  "processado_em": "2026-05-11T23:26:59.966434",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nO século XVIII é, por diversas razões, um século \ndiferenciado. Razão e experimentação se aliavam no \nque se acreditava ser o verdadeiro caminho para o \nestabelecimento do conhecimento científico, por tanto \ntempo almejado. O fato, a análise e a indução passavam \na ser parceiros fundamentais da razão. É ainda no século \nXVIII que o homem começa a tomar consciência de sua \nsituação na história.\nODALIA, N. In: PINSKY, J.; PINSKY, C. B. História da cidadania. São Paulo: Contexto, 2003.\nNo ambiente cultural do Antigo Regime, a discussão \nfilosófica mencionada no texto tinha como uma de suas \ncaracterísticas a\nA\t aproximação entre inovação e saberes antigos.\nB\t conciliação entre revelação e metafísica platônica.\nC\t vinculação entre escolástica e práticas de pesquisa.\nD\t separação entre teologia e fundamentalismo religioso.\nE\t contraposição entre clericalismo e liberdade de \npensamento.",
+  "processado_em": "2026-05-11T23:26:39.700356",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

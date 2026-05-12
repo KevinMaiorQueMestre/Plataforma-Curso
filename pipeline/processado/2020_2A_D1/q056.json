@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 56          \nA produtividade ecológica articula-se com uma \nprodutividade tecnológica, porque não se deve renunciar \na todas as possibilidades da ciência e da técnica, e sim \nreencaminhar muitas delas para a construção desse novo \nparadigma produtivo. Essa construção social, porém, \nnão pode ser guiada por um planejamento centralizado \nda tecnologia normatizada pela ecologia. A alma dessa \nnova economia humana são os valores culturais. Cada \ncultura dá significado a seus conhecimentos, a sua \nnatureza, recriando-a e abrindo o fluxo de possibilidades \nde coevolução, articulando o pensamento humano com o \npotencial da natureza.\nLEFF, E. Discursos sustentáveis. São Paulo: Cortez, 2010 (adaptado).\nO paradigma produtivo apresentado no texto tem como \nbase a harmonização entre tecnologia e ecologia e \npropõe uma sustentabilidade pautada no(a)\nA \t ideia de natureza intocada.\nB \t lógica de mercado internacional. \nC \t respeito ao saber local comunitário.\nD \t desenvolvimento de cultivos orgânicos. \nE retorno às práticas agrícolas arcaicas",
+  "processado_em": "2026-05-08T14:03:30.341623",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

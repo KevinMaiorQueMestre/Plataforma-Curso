@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 150\t\nO controle remoto de um carrinho de brinquedo vem equipad\nna exibição de cada deslocamento. A tela apresenta a imagem d\no comprimento desse deslocamento, em centímetro, em confor\ndo controle remoto exibindo os dados de cinco deslocamentos \nA opção que indica o deslocamento de maior comprimento reali\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+  "processado_em": "2026-05-08T14:07:09.122992",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

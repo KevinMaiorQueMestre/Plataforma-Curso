@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 55\t\nA diversão é o prolongamento do trabalho sob o cap\nao processo de trabalho mecanizado para se pôr de no\na mecanização atingiu um tal poderio sobre a pessoa e\nprofundamente a fabricação das mercadorias destinadas à\ncoisa senão as cópias que reproduzem o próprio processo\nA\nNo texto, o tempo livre é concebido como\nA\t\nA\t consumo de produtos culturais elaborados no mesmo\nB\t\nB\t forma de realizar as diversas potencialidades da natur\nC\t\nC\t alternativa para equilibrar tensões psicológicas do dia\nD\t\nD\t promoção da satisfação de necessidades artificiais.\nE\t\nE\t mecanismo de organização do ócio e do prazer.",
+  "processado_em": "2026-05-08T14:05:37.118179",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

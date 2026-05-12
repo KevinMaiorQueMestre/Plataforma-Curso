@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 110          \nO carvão é um combustível que tem várias \nsubstâncias em sua composição. Em razão disso, \nquando é representada sua queima com o oxigênio \n(massa molar 16 g mol−1), simplifica-se elaborando \napenas a combustão completa do carbono (massa \nmolar 12 g mol−1). De acordo com o conteúdo médio \nde carbono fixo, o carvão é classificado em vários \ntipos, com destaque para o antracito, que apresenta, \nem média, 90% de carbono. Esse elevado conteúdo \nfavorece energeticamente a combustão, no entanto, \nlibera maior quantidade de gás que provoca efeito \nestufa.\nSupondo a queima completa de 100 g de carvão \nantracito, a massa de gás liberada na atmosfera é, em \ngrama, mais próxima de\nA \t 90,0.\nB \t 210,0.\nC \t 233,3.\nD \t 330,0.\nE 366 7",
+  "processado_em": "2026-05-08T14:03:36.600228",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

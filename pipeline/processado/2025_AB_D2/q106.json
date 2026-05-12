@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 106\t\nO Brasil é um dos maiores produtores mundiais de manganês \n(massa molar = 55 g ⋅ mol-1), um metal essencial na fabricação \nde aço e ligas de ferro. Esse metal é obtido a partir do minério \npirolusita, que contém 40% de MnO2 (massa molar = 87 g ⋅ mol-1). \nA reação que ocorre nesse processo apresenta rendimento de \n80% e está descrita a seguir:\n2 MnO2 (s) + 2 Fe2O3 (s) + 5 C (s) → 2 Mn (s) + 4 Fe (s) + 5 CO2 (g)\nUma indústria processa 18 t (toneladas) de minério \npirolusita por dia.\nA massa de manganês, em tonelada, que essa indústria produz \ndiariamente é mais próxima de\nA\t3,6 t.\nB\t4,6 t.\nC\t5,7 t.\nD\t9,1 t.\nE\t11,4 t.",
+  "processado_em": "2026-05-08T14:06:50.322068",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

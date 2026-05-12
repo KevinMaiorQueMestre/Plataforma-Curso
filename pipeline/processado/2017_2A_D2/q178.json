@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\n8PD\u0003HTXLSH\u0003GH\u0003DPELHQWDOLVWDV\u0003DSUHVHQWRX\u0003XP\u0003PDSD\u0003GH\u0003XPD\u0003UHVHUYD\u0003DPELHQWDO\u0003HP\u0003TXH\u0003IDOWDYD\u0003D\u0003HVSHFL¿FDomR\u0003GD\u0003\nHVFDOD\u0003XWLOL]DGD\u0003SDUD\u0003D\u0003VXD\u0003FRQIHFomR\u0011\u00032\u0003SUREOHPD\u0003IRL\u0003UHVROYLGR\u000f\u0003SRLV\u0003XP\u0003GRV\u0003LQWHJUDQWHV\u0003GD\u0003HTXLSH\u0003OHPEUDYD\u0010VH\u0003GH\u0003\nTXH\u0003D\u0003GLVWkQFLD\u0003UHDO\u0003GH\u0003\u001a\u0015\u0003NP\u000f\u0003SHUFRUULGD\u0003QD\u0003UHVHUYD\u000f\u0003HTXLYDOLD\u0003D\u0003\u0016\u000f\u0019\u0003FP\u0003QR\u0003PDSD\u0011\n4XDO\u0003IRL\u0003D\u0003HVFDOD\u0003XWLOL]DGD\u0003QD\u0003FRQIHFomR\u0003GR\u0003PDSD\"\nA 1 : 20\nB 1 : 2 000\nC 1 : 20 000\nD 1 : 200 000\nE 1 : 2 000 000",
+  "processado_em": "2026-05-11T23:25:31.591611",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 137\t\nUm biólogo mediu a altura de cinco árvores distintas \ne representou-as em uma mesma malha quadriculada, \nutilizando escalas diferentes, conforme indicações na \nfigura a seguir.\nI\nII\nIII\nIV\nV\n1:100\n2:100\n2:300\n1:300\n2:300\nQual é a árvore que apresenta a maior altura real?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-08T13:59:44.138494",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 156 \nCom o objetivo de reduzir o consumo de água potável e \ncombater o desperdício, o síndico de um prédio pretende instalar \num sistema de captação de água da chuva para uso na limpeza \ndas áreas externas e irrigação do jardim. Para isso, ao lado desse \nprédio, será instalado um reservatório cilíndrico, cujo diâmetro \ninterno terá 3 metros. Esse reservatório receberá toda a água \nda chuva, sem perdas, que cai na laje superior desse prédio, \ncuja área mede 450 m2. Sua capacidade deverá ser igual ao \nvolume de água captada através dessa laje durante um dia com \numa chuva de 60 mm, ou seja, 60 litros por metro quadrado.\nUtilize 3 como aproximação para p.\nO reservatório a ser instalado deverá ter altura interna mínima, \nem metro, igual a\nA 1,00.\nB 1,50.\nC 2,25.\nD 3,00.\nE 4,00.",
+  "processado_em": "2026-05-08T14:06:37.608638",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

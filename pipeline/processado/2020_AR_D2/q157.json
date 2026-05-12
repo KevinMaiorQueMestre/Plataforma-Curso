@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 157        \nEnquanto um ser está vivo, a quantidade de carbono \n14 nele existente não se altera. Quando ele morre, essa \nquantidade vai diminuindo. Sabe-se que a meia-vida do \ncarbono 14 é de 5 730 anos, ou seja, num fóssil de um \norganismo que morreu há 5 730 anos haverá metade do \ncarbono 14 que existia quando ele estava vivo. Assim, \ncientistas e arqueólogos usam a seguinte fórmula para \nsaber a idade de um fóssil encontrado: Q t = Q0 ∙2\n−\nt\n5730\nem que t é o tempo, medido em ano, Q t  é a quantidade \nde carbono 14 medida no instante t e Q0 é a quantidade \nde carbono 14 no ser vivo correspondente.\nUm grupo de arqueólogos, numa de suas expedições, \nencontrou 5 fósseis de espécies conhecidas e mediram \na quantidade de carbono 14 neles existente. Na tabela \ntemos esses valores juntamente com a quantidade de \ncarbono 14 nas referidas espécies vivas.\nFóssil\nQ0\nQ(t)\n1\n128\n32\n2\n256\n8\n3\n512\n64\n4\n1 024\n512\n5\n2 048\n128\nO fóssil mais antigo encontrado nessa expedição foi",
+  "processado_em": "2026-05-11T23:28:19.295270",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

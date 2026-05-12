@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 29\nQUESTÃO 84\t\nNum experimento, um professor deixa duas bandejas \nde mesma massa, uma de plástico e outra de alumínio, \nsobre a mesa do laboratório. Após algumas horas, ele \npede aos alunos que avaliem a temperatura das duas \nbandejas, usando para isso o tato. Seus alunos afirmam, \ncategoricamente, que a bandeja de alumínio encontra-se \nnuma temperatura mais baixa. Intrigado, ele propõe uma \nsegunda atividade, em que coloca um cubo de gelo sobre \ncada uma das bandejas, que estão em equilíbrio térmico \ncom o ambiente, e os questiona em qual delas a taxa de \nderretimento do gelo será maior.\nO aluno que responder corretamente ao questionamento \ndo professor dirá que o derretimento ocorrerá\nA\t mais rapidamente na bandeja de alumínio, pois \nela tem uma maior condutividade térmica que a \nde plástico.\nB\t mais rapidamente na bandeja de plástico, pois ela \ntem inicialmente uma temperatura mais alta que a \nde alumínio.\nC\t mais rapidamente na bandeja de plástico, pois ela tem \numa maior capacidade térmica que a de alumínio.\nD\t mais rapidamente na bandeja de alumínio, pois ela \ntem um calor específico menor que a de plástico.\nE\t com a mesma rapidez nas duas bandejas, pois \napresentarão a mesma variação de temperatura.",
+  "processado_em": "2026-05-08T14:01:11.671758",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

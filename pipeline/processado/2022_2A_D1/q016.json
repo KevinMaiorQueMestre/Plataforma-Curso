@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q016",
+  "imagem": "q016.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 16,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 16\t\nDuas castas de considerações fez de si para consigo \no cauto Conselheiro. Primeiramente foi saltar-lhe ao \nnariz a evidência de que ministro não visita empregado \npúblico, ainda que in extremis, mesmo a uma braça, ou \nduas, acima do chapéu do amanuense mais bisonho. \nTambém não visita escritor enfermo por ser escritor, e \npor estar enfermo. Seriam trabalhos, ambos, a que não \nse daria um ministro, nem sempre ocupado das cousas, \naltas ou baixas, do Estado.",
+  "processado_em": "2026-05-08T14:04:37.083313",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q005",
+  "imagem": "q005.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 5,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 05\t\n¿Qué es la generación Alfa?\nHacer cortes generacionales no es una ciencia exacta. Sin embargo, según un análisis de 2018 del centro de estudios Pew \nResearch Center, analizar las generaciones ofrece “una manera de entender cómo los acontecimientos globales y los cambios \ntecnológicos, económicos y sociales interactúan para definir la forma en que la gente ve el mundo”. Y está claro cómo ve el \nmundo la próxima generación: a través de una pantalla.\n“Antes las generaciones se definían a partir de sucesos históricos o sociales importantes. Hoy se delimitan por el uso \nde determinada tecnología”, le explica a BBC Mundo un psicólogo, docente, escritor y experto en el uso — y abuso — de las \nredes sociales.\nNinguna de las generaciones anteriores será comparable a nivel digital con los Alfa, que, como contraparte, serán la primera \na la que le serán ajenos muchos aspectos del mundo analógico.\nDisponível em: www.bbc.com. Acesso em: 9 maio 2024 (adaptado).\nNesse texto, a expressão “a través de una pantalla” evidencia que a geração Alfa estabelece com o mundo uma relação marcada pelo(a)\nA\tconflito etário.\nB\tefemeridade da tecnologia.\nC\tdependência de recursos digitais.\nD\tvalor dos acontecimentos sociais.\nE\tindiferença em relação a fatos históricos.",
+  "processado_em": "2026-05-11T23:29:49.971193",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

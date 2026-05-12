@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nA configuração do espaço urbano da região do \nEntorno do Distrito Federal assemelha-se às demais \naglomerações urbanas e regiões metropolitanas do país, \nonde é facilmente identificável a constituição de um \ncentro dinâmico e desenvolvido, onde se concentram \nas oportunidades de trabalho e os principais serviços, \ne a constituição de uma região periférica concentradora \nde população de baixa renda, com acesso restrito às \nprincipais atividades com capacidade de acumulação \ne produtividade, e aos serviços sociais e infraestrutura \nbásica.\nCAIADO, M. C. A migração intrametropolitana e o processo de estruturação do espaço urbano \nda Região Integrada de Desenvolvimento do Distrito Federal e Entorno. In: HOGAN, D. J. et al. \n(Org.). Migração e ambiente nas aglomerações urbanas. Campinas: Nepo/Unicamp, 2002.\nA organização interna do aglomerado urbano descrito é \nresultado da ocorrência do processo de\nA\t \texpansão vertical.\nB\t \tpolarização nacional. \nC\t \temancipação municipal.\nD\t \tsegregação socioespacial.\nE\t \tdesregulamentação comercial.",
+  "processado_em": "2026-05-11T23:25:41.357220",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

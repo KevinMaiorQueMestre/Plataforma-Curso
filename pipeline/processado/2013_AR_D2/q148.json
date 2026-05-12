@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nCinco \nempresas \nde \ngêneros \nalimentícios \nencontram-se à venda. Um empresário, almejando \nampliar os seus investimentos, deseja comprar \numa dessas empresas. Para escolher qual delas \nirá comprar, analisa o lucro (em milhões de reais) \nde cada uma delas, em função de seus tempos (em \nanos) de existência, decidindo comprar a empresa \nque apresente o maior lucro médio anual.\nO quadro apresenta o lucro (em milhões de reais) \nacumulado ao longo do tempo (em anos) de existência \nde cada empresa.\nEmpresa\nLucro\n(em milhões de reais)\nTempo\n(em anos)\nF\n24\n3,0\nG\n24\n2,0\nH\n25\n2,5\nM\n15\n1,5\nP\n  9\n1,5\nO empresário decidiu comprar a empresa\nA\t F.\nB\t G.\nC\t H.\nD\t M.\nE\t P.",
+  "processado_em": "2026-05-08T14:00:23.344770",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

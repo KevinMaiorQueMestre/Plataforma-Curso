@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 141\t\nUm ciclista, durante seu treinamento, percorreu duas voltas \ncompletas na pista de automobilismo. Essa pista é formada por \ntrês trechos retilíneos e cinco trechos curvilíneos, que são arcos \nde circunferências, conforme ilustrado na figura.\nUm dos arcos é subtendido por um ângulo reto, e a medida \nde seu raio é 90 m. A medida do raio dos demais arcos é 260 m, \ne as medidas de seus ângulos centrais estão indicadas na figura.\nUtilize 3 como valor aproximado para π.\nQual foi a distância, em metro, percorrida pelo ciclista?\nA\t7 620\nB\t7 110\nC\t5 540\nD\t5 285\nE 4 900",
+  "processado_em": "2026-05-08T14:06:52.320639",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

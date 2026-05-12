@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nUma pessoa, procurando um estacionamento, encontrou \ncinco opções com as seguintes formas de cobrança:\n•\t A: R$ 6,00 por hora ou fração de hora;\n•\t B: R$ 6,00 pelas duas primeiras horas e R$ 3,00 \na cada hora ou fração de hora subsequente;\n•\t C: R$ 6,00 por hora ou fração de hora, com tolerância \nde 15 minutos;\n•\t D: R$ 6,00 pelas duas primeiras horas e R$ 3,00 \na cada hora ou fração de hora subsequente, com \ntolerância de 15 minutos;\n•\t E: R$ 0,10 por minuto.\nEssa pessoa irá utilizar o estacionamento por 5 horas \ne 12 minutos.\nO estacionamento que permite a essa pessoa pagar o \nmenor valor possível é\nA\t\nA\t A.\nB\t\nB\t B.\nC\t\nC\t C.\nD\t\nD\t D.\nE\t\nE\t E.",
+  "processado_em": "2026-05-08T14:05:28.178632",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

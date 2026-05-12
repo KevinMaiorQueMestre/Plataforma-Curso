@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 52          \nDois grandes eventos históricos tornaram possível \num caso como o de Menocchio: a invenção da imprensa \ne a Reforma. A imprensa lhe permitiu confrontar os \nlivros com a tradição oral em que havia crescido e lhe \nforneceu as palavras para organizar o amontoado de \nideias e fantasias que nele conviviam. A Reforma lhe \ndeu audácia para comunicar o que pensava ao padre do \nvilarejo, conterrâneos, inquisidores — mesmo não tendo \nconseguido dizer tudo diante do papa, dos cardeais e dos \npríncipes, como queria.\nGINZBURG, C. O queijo e os vermes: o cotidiano e as ideias de um moleiro perseguido \npela Inquisição. São Paulo: Cia. das Letras, 2006.\nOs acontecimentos históricos citados ajudaram esse \nindivíduo, no século XVI, a repensar a visão católica do \nmundo ao possibilitarem a\nA \t consulta pública das bibliotecas reais.\nB \t sofisticação barroca do ritual litúrgico.\nC \t aceitação popular da educação secular.\nD \t interpretação autônoma dos textos bíblicos.\nE \t correção doutrinária das heresias medievais.",
+  "processado_em": "2026-05-11T23:28:04.455741",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 32\t\nFotografia: LUCAS HALLEL. Disponível em: www.flickr.com. Acesso em: 16 abr. 2018 (adaptado).\nO grupo O Teatro Mágico apresenta composições autorais \nque têm referências estéticas do rock, do pop e da música \nfolclórica brasileira. A originalidade dos seus shows tem \nrelação com a ópera europeia do século XIX a partir da\nA\t disposição cênica dos artistas no espaço teatral.\nB\t integração de diversas linguagens artísticas.\nC\t sobreposição entre música e texto literário.\nD\t manutenção de um diálogo com o público.\nE\t adoção de um enredo como fio condutor.",
+  "processado_em": "2026-05-11T23:26:35.475940",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

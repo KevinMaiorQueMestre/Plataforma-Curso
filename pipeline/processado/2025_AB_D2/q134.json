@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 134\t\nO manual técnico de instalação de telhas de PVC indica a i\norientação, foi construída uma edificação conforme a figura.\nPara coletar as águas das chuvas, é utilizada uma calha, que\nO telhado apresenta inclinação de 30°. Como sua base se encon\nqueda das águas é de 0,6 segundo. Com isso, somente as águas da\nde módulo V = 4 m/s, são coletadas diretamente pela calha. Con\nA distância horizontal D da calha à base do telhado é mais próxim\nA\t0,8 m.\nB\t1,2 m.\nC\t1,8 m.\nD\t2,1 m.\nE\t2,4 m.",
+  "processado_em": "2026-05-08T14:06:51.969051",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

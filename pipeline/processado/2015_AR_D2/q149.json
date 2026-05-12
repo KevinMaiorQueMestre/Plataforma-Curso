@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nEm uma escola, a probabilidade de um aluno \ncompreender e falar inglês é de 30%. Três alunos \ndessa escola, que estão em fase final de seleção de \nintercâmbio, aguardam, em uma sala, serem chamados \npara uma entrevista. Mas, ao invés de chamá-los um a \num, o entrevistador entra na sala e faz, oralmente, uma \npergunta em inglês que pode ser respondida por qualquer \num dos alunos.\nA probabilidade de o entrevistador ser entendido e ter sua \npergunta oralmente respondida em inglês é\nA\t 23,7%\nB\t 30,0%\nC\t 44,1%\nD\t 65,7%\nE\t 90,0%",
+  "processado_em": "2026-05-08T14:00:57.167293",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

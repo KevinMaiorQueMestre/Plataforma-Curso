@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nVazão em áreas urbanizadas\nVazão em áreas não urbanizadas\nPrecipitações (mm)\n90\n80\n70\n60\n50\n40\n30\n20\n10\nTempo (h)\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10 11 12 13 14 15 16\nDisponível em: www.biologiasur.org. Acesso em: 4 jul. 2015 (adaptado).\nA dinâmica hidrológica expressa no gráfico demonstra \nque o processo de urbanização promove a\nA\t redução do volume dos rios.\nB\t expansão do lençol freático.\nC\t diminuição do índice de chuvas.\nD\t retração do nível dos reservatórios.\nE\t ampliação do escoamento superficial.",
+  "processado_em": "2026-05-11T23:26:39.740348",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

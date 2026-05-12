@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\t\nA utilização de tecnologia nuclear é um tema \nbastante controverso, por causa do risco de acidentes \ngraves, como aqueles ocorridos em Chernobyl (1986), \nem Goiânia (1987) e em Fukushima (2011). Apesar de \nmuitas desvantagens, como a geração de resíduos \ntóxicos, a descontaminação ambiental dispendiosa em \ncaso de acidentes e a utilização em armas nucleares, \na geração de energia nuclear apresenta vantagens em \ncomparação a outras fontes de energia.\nA geração dessa energia tem como característica:\nA\t\nA\t Formar resíduos facilmente recicláveis.\nB\t\nB\t Promover o aumento do desmatamento.\nC\t\nC\t Contribuir para a produção de chuva ácida.\nD\t\nD\t Emitir gases tóxicos que são lançados no ambiente.\nE\t\nE\t Produzir calor sem o consumo de combustíveis fósseis.",
+  "processado_em": "2026-05-08T14:05:44.645492",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

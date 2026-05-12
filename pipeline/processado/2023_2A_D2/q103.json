@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 103\t\nUma microempresa adquire um sistema fotovoltaico \nde captação de energia solar para reduzir o gasto mensal de \nenergia elétrica. O sistema é composto de 15 placas \ncom potência média útil de 150 W por placa, realizando \ncaptação de energia solar oito horas por dia. A energia \ncaptada é armazenada em um conjunto de baterias de 12 V. \nO sistema apresenta também um inversor, cuja função é \nconverter a tensão de 12 V contínua para 120 V alternada, \ne sua eficiência é de 80%. A microempresa trabalha doze \nhoras por dia, utilizando a energia captada pelo sistema solar.\nAs intensidades das correntes elétricas, em ampère, na \nentrada e saída do inversor são, respectivamente,\nA\t\nA\t 100 e 8.\nB\t\nB\t 100 e 10.\nC\t\nC\t 125 e 10.\nD\t\nD\t 125 e 12,5.\nE\t\nE\t 1 500 e 150.",
+  "processado_em": "2026-05-08T14:05:24.720946",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

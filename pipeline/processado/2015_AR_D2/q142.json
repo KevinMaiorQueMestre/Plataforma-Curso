@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\t\nNuma cidade, cinco escolas de samba (I, II, III, IV e V) \nparticiparam do desfile de Carnaval. Quatro quesitos são \njulgados, cada um por dois jurados, que podem atribuir \nsomente uma dentre as notas 6, 7, 8, 9 ou 10. A campeã \nserá a escola que obtiver maior pontuação na soma de \ntodas as notas emitidas. Em caso de empate, a campeã \nserá a que alcançar a maior soma das notas atribuídas \npelos jurados no quesito Enredo e Harmonia. A tabela \nmostra as notas do desfile desse ano no momento em \nque faltava somente a divulgação das notas do jurado B \nno quesito Bateria.\nQuesitos 1. Fantasia \ne Alegoria\n2. Evolução \ne Conjunto\n3. Enredo \ne Harmonia 4. Bateria\nTotal\nJurado\nA\nB\nA\nB\nA\nB\nA\nB\nEscola \nI\n6\n7\n8\n8\n9\n9\n8\n55\nEscola \nII\n9\n8\n10\n9\n10\n10\n10\n66\nEscola \nIII\n8\n8\n7\n8\n6\n7\n6\n50\nEscola \nIV\n9\n10\n10\n10\n9\n10\n10\n68\nEscola \nV\n8\n7\n9\n8\n6\n8\n8\n54\nQuantas configurações distintas das notas a serem \natribuídas pelo jurado B no quesito Bateria tornariam \ncampeã a Escola II?\nA\t 21\nB\t 90\nC\t 750\nD\t 1 250\nE\t 3 125",
+  "processado_em": "2026-05-08T14:00:56.703118",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

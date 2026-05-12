@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 105\t\nUm alimento orgânico deve apresentar em sua \nembalagem o selo de uma instituição certificadora, \ngarantindo ao consumidor que, além de ser um alimento \nisento de agrotóxicos, também é produzido com técnicas \nplanejadas e controladas. A técnica de produção desses \nalimentos causa menor impacto aos recursos naturais, \ncontribuindo para melhorar a qualidade de vida das \npessoas.\nNesse sistema de produção de alimentos vegetais, o \ncontrole de insetos é manejado por meio do(a)\nA\t prática de adubação verde.\nB\t emprego da compostagem.\nC\t controle da irrigação do solo.\nD\t utilização de predadores naturais.\nE\t uso de sementes inoculadas com Rhizobium.",
+  "processado_em": "2026-05-11T23:27:33.318396",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

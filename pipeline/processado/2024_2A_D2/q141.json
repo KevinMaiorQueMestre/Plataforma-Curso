@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nO limite recomendável de carga a ser transportada por \num caminhão é 10 000 kg. Ao transportar uma carga que \nexcede em 300 kg esse limite, o consumo de combustível \né 2% maior que o consumo observado ao transportar \n10 000 kg.\nEm uma rodovia, o consumo de combustível desse \ncaminhão é proporcional à quilometragem percorrida, \nquando considerada uma mesma carga transportada. \nSabe-se que, transportando 10 000 kg por 90 km nessa \nrodovia, esse caminhão consome 60 litros de combustível. \nSuponha que esse caminhão irá transportar uma carga de \n10 300 kg por 75 km nessa rodovia.\nQuantos litros de combustível esse caminhão consumirá \npara efetuar esse transporte?\nA\t49,0\nB\t50,0\nC\t51,0\nD\t58,8\nE\t61,2",
+  "processado_em": "2026-05-08T14:06:03.824622",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

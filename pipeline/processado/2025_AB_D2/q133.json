@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 133\t\nUm circuito é utilizado para determinar a tensão da bateria\nde 1 a 4 apresentam resistência desprezível à passagem de co\nao valor limiar, passam a emitir luz. O projeto representado n\nquantos dispositivos acendem. Nele, todos os dispositivos são\nUm estudante utilizou inicialmente uma bateria de 9 V \nde 12 V (situação B).\nManual de operação e instala\nEm cada situação, quais dispositivos acenderam?\nA\t1 e 2 nas duas situações.\nB\t3 e 4 nas duas situações.\nC\t1, 2, 3 e 4 nas duas situações.\nD\t1 e 2 na situação A; e 1, 2 e 3 na situação B.\nE 1 2 e 3 na situação A; e 1 e 2 na situação B",
+  "processado_em": "2026-05-08T14:06:51.685994",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

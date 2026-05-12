@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 63\t\nTEXTO I\nA centralização econômica, o protecionismo e \na expansão ultramarina engrandeceram o Estado, \nembora beneficiassem a burguesia incipiente.\nANDERSON, P. In: DEYON, P. O mercantilismo. \nLisboa: Gradiva,1989 (adaptado).\nTEXTO II\nAs interferências da legislação e das práticas \nexclusivistas restringem a operação benéfica da lei \nnatural na esfera das relações econômicas.\nSMITH, A. A riqueza das Nações. São Paulo: \nAbril Cultural, 1983 (adaptado).\nEntre os séculos XVI e XIX, diferentes concepções sobre \nas relações entre Estado e economia foram formuladas. \nTais concepções, associadas a cada um dos textos, \nconfrontam-se, respectivamente, na oposição entre as \npráticas de\nA\t valorização do pacto colonial — combate à livre- \n-iniciativa.\nB\t defesa dos monopólios régios — apoio à livre \nconcorrência.\nC\t formação do sistema metropolitano — crítica à livre \nnavegação.\nD\t abandono da acumulação metalista — estímulo ao \nlivre-comércio.\nE\t eliminação das tarifas alfandegárias — incentivo ao \nlivre-cambismo.",
+  "processado_em": "2026-05-11T23:27:25.746356",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

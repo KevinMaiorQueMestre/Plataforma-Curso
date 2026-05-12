@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 106          \nO termo “atenuação natural” é usado para descrever \na remediação passiva do solo e envolve a ocorrência de \ndiversos processos de origem natural. Alguns desses \nprocessos destroem fisicamente os contaminantes, \noutros transferem os contaminantes de um local para \noutro ou os retêm. Considere cinco propostas em estudo \npara descontaminar um solo, todas caracterizadas como \n“atenuação natural”. \nProposta\nProcesso\nI\nDiluição\nII\nAdsorção\nIII\nDispersão\nIV\nVolatilização\nV\nBiodegradação\nQual dessas propostas apresenta a vantagem de destruir \nos contaminantes de interesse?\nA \t I.\nB \t II.\nC \t III.\nD \t IV.\nE V",
+  "processado_em": "2026-05-08T14:03:36.383262",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 55\t\nO volume anual de população que se incorporará à \nfaixa de 65 anos e mais aumentará continuamente. Em \nmédia, anualmente, o acréscimo será, talvez, de mais \nde 550 mil idosos, no primeiro quartel do século XXI, e \nsuperará a casa de um milhão, entre 2025 e 2050.\nCARVALHO, J. A. M.; RODRIGUEZ-WRONG, L. A transição da estrutura etária da população \nbrasileira na primeira metade do século XXI. Cad. Saúde Pública, n. 3, mar. 2008 (adaptado).\nA dinâmica demográfica descrita resulta no processo de \nexpansão do(a)\nA\t\nA\t topo da pirâmide etária.\nB\t\nB\t taxa de fecundidade anual.\nC\t\nC\t nível de mortalidade infantil.\nD\t\nD\t índice de desemprego estrutural.\nE\t\nE\t política de controle da natalidade.",
+  "processado_em": "2026-05-08T14:04:41.155584",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

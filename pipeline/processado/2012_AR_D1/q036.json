@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 36\t\nA partir dos anos 70, impõe-se um movimento \nde desconcentração da produção industrial, uma das \nmanifestações do desdobramento da divisão territorial \ndo trabalho no Brasil. A produção industrial torna-se \nmais complexa, estendendo-se, sobretudo, para novas \náreas do Sul e para alguns pontos do Centro-Oeste, do \nNordeste e do Norte.\nSANTOS, M.; SILVEIRA, M. L. O Brasil: território e sociedade no início do século XXI. \nRio de Janeiro: Record, 2002 (fragmento).\nUm fator geográfico que contribui para o tipo de alteração \nda configuração territorial descrito no texto é:\nA\t Obsolescência dos portos.\nB\t Estatização de empresas.\nC\t Eliminação de incentivos fiscais.\nD\t Ampliação de políticas protecionistas.\nE D\nl i\nt\nd\ni\nd\ni\nã",
+  "processado_em": "2026-05-08T13:59:02.008116",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

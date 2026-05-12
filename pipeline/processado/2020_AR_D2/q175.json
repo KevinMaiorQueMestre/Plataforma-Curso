@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 175        \nNum recipiente com a forma de paralelepípedo \nreto-retângulo, colocou-se água até a altura de 8 cm e \num objeto, que ficou flutuando na superfície da água.\nPara retirar o objeto de dentro do recipiente, a altura \nda coluna de água deve ser de, pelo menos, 15 cm. Para \na coluna de água chegar até essa altura, é necessário \ncolocar dentro do recipiente bolinhas de volume igual a \n6 cm³ cada, que ficarão totalmente submersas.\n17 cm\n4 cm\n3 cm\n8 cm",
+  "processado_em": "2026-05-11T23:28:20.283006",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

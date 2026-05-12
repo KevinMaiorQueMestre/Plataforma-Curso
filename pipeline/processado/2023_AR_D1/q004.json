@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 04\t\nTécnicas de manipulación y el resultado\nManipular es sembrar en la conciencia y en la mente \nde la gente ideas, actitudes, conceptos y aspiraciones \n— incluso falsas e inmorales — que sirvan a los objetivos \nde sus manipuladores.\nManipular es una de las primeras cosas que \naprendemos en la vida. A muy temprana edad, los bebés \ndescubren el poder del llanto, el berrinche, los pataleos, \nla risa o alguna “gracia” como recursos para demandar \natención, exigir comida, pedir ayuda o simplemente \nmantener ocupada a la gente. Nuestras actitudes de \nadultos reflejan lo mucho o poco que algunos maduraron, \nprocesaron y rebasaron ese periodo.\nPara que exista un manipulador, debe haber una \nbase de ciudadanos indefensos, dóciles, desinformados. \nEl manipulador es celoso, a veces casi paranoico; \nno admite cuestionamientos ni quiere que nadie ocupe \nsu espacio, sabe que su vigencia depende de presencia \ncontroladora. Todos los días, hay que marcar la línea de \ndiscurso, incidir en el debate. El ridículo vale la pena si \ncon ello se logra una cortina de humo.\nDisponível em: www.forbes.com.mx. Acesso em: 7 out. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:05:34.128173",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

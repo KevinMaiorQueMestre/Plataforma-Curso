@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 156          \nUm fazendeiro precisava de 1 L de certo produto \nfabricado por três indústrias distintas. \n•\t A indústria I comercializa o produto em embalagens \nde 250 mL por R$ 23,00 cada. \n•\t A indústria II comercializa o produto em embalagens \nde 8 fl oz (onça fluida) por R$ 18,50 cada.\n•\t A indústria III comercializa o produto em embalagens \nde 1 L por R$ 93,00 cada. \nO fazendeiro conseguiu adquirir a quantidade \nnecessária do produto de que precisava, de uma única \nindústria, gastando o menor valor possível nessa compra. \nConsidere que 1 L seja equivalente a 33,81 fl oz.\nNessas condições, a quantidade de embalagens e a \nrespectiva indústria onde a compra foi realizada foram\nA \t quatro da indústria I.\nB \t cinco da indústria I.\nC \t quatro da indústria II.\nD\t cinco da indústria II.\nE uma da indústria III.",
+  "processado_em": "2026-05-08T14:03:39.027270",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

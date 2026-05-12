@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 25\t\nVISCONTI, E. Três meninas no jardim. Óleo sobre tela,  \n81 × 65 cm. Museu Nacional de Belas Artes,  \nRio de Janeiro, 1935.\nDisponível em: www.eliseuvisconti.com.br. Acesso em: 18 set. 2012.\nEliseu D’Angelo Visconti (1866-1944) desenvolveu diversas \nobras no Brasil, com grande influência das escolas \neuropeias. Em sua pintura Três meninas no jardim, há\nA\tculto à fluidez e ao progresso, nos moldes do ideário \nfuturista.\nB\tvalorização de formas decompostas, a exemplo do \nestilo cubista.\nC\tefeitos fugazes de luz e movimento, que remetem à \nestética impressionista.\nD\texpressão do sonho e do inconsciente, que dialoga \ncom a proposta surrealista.\nE\ttematização de elementos cotidianos, que resgata \nmodelos de representação da arte realista.",
+  "processado_em": "2026-05-08T14:06:10.240648",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 171        \nA exposição a barulhos excessivos, como os que \npercebemos em geral em trânsitos intensos, casas \nnoturnas e espetáculos musicais, podem provocar \ninsônia, estresse, infarto, perda de audição, entre outras \nenfermidades. De acordo com a Organização Mundial \nda Saúde, todo e qualquer som que ultrapasse os 55 \ndecibéis (unidade de intensidade do som) já pode ser \nconsiderado nocivo para a saúde. O gráfico foi elaborado \na partir da medição do ruído produzido, durante um dia, \nem um canteiro de obras. \nDecibel\nHora\n55\n0\n0  1  2  3  4  5  6  7  8  9 10 11 12  13  14  15  16 17  18 19 20  21  22  23 24  \nDisponível em: www.revistaencontro.com.br. Acesso em: 12 ago. 2020 (adaptado).\nNesse dia, durante quantas horas o ruído esteve acima \nde 55 decibéis?\nA\t 5\nB \t 8\nC \t 10\nD \t 11\nE\t 13",
+  "processado_em": "2026-05-11T23:28:20.079595",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

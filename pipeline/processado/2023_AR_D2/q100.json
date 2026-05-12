@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nNa fertilização in vitro, espermatozoides são adicionados \naos gametas femininos retirados de uma mulher. Após o \nperíodo de incubação, a fecundação é favorecida pela ação \nde enzimas. Em um procedimento realizado, observou-se \nque nenhum dos gametas femininos foi fertilizado e, \nposteriormente, verificou-se que havia sido adicionado, \nequivocadamente, um coquetel de inibidores das enzimas do \nacrossomo, no lugar de um dos nutrientes constituintes do \nmeio de cultura.\nO coquetel de inibidores impediu o(a)\nA\t\nA\t formação do pronúcleo masculino.\nB\t\nB\t início da divisão mitótica do zigoto.\nC\t\nC\t término da segunda divisão meiótica do ovócito.\nD\t\nD\t passagem do espermatozoide pela corona radiata e \nzona pelúcida.\nE\t\nE\t fusão das membranas plasmáticas do ovócito e do \nespermatozoide.",
+  "processado_em": "2026-05-08T14:05:43.110085",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

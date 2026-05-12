@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nUm fabricante de eletrodomésticos desenvolveu \num compartimento refrigerador inovador que consegue \nresfriar, em apenas 7 minutos, duas latas de refrigerante \n(350 mL cada), com densidade igual a 1,0 g/mL. \nA refrigeração do líquido consome 21% da potência \ndo sistema quando o refrigerante tem sua temperatura \ndiminuída em 15 °C. Considere o calor específico do \nrefrigerante igual a 1,0 cal/(g °C) e 1 cal = 4,2 J.\nA potência total, em watt, desse dispositivo refrigerador \né, aproximadamente,\nA\t\nA\t 105.\nB\t\nB\t 120.\nC\t\nC\t 315.\nD\t\nD\t 500.\nE\t\nE\t 1 500.",
+  "processado_em": "2026-05-08T14:05:26.167092",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

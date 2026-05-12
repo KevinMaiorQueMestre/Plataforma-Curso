@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 48\t\nQuase 42% do rebanho brasileiro está nos estados do Acre, \nAmapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, \nTocantins e Maranhão, que formam a chamada Amazônia Legal. \nSegundo dados do IBGE, são 89 milhões de cabeças de gado \nna região. E o preço é pago pela floresta. De acordo com um \nlevantamento da plataforma Mapbiomas, entre 1985 e 2019 o Brasil \ntransformou 67,8 milhões de hectares de florestas em pastagens.\nDisponível em: https://istoe com br Acesso em: 22 out 2021 (adaptado)",
+  "processado_em": "2026-05-08T14:06:46.069889",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

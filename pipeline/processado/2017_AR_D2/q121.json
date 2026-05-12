@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 121\t\nAlguns tipos de dessalinizadores usam o processo de \nosmose reversa para obtenção de água potável a partir \nda água salgada. Nesse método, utiliza-se um recipiente \ncontendo dois compartimentos separados por uma \nmembrana semipermeável: em um deles coloca-se água \nsalgada e no outro recolhe-se a água potável. A aplicação \nde pressão mecânica no sistema faz a água fluir de um \ncompartimento para o outro. O movimento das moléculas \nde água através da membrana é controlado pela pressão \nosmótica e pela pressão mecânica aplicada.\nPara que ocorra esse processo é necessário que \nas resultantes das pressões osmótica e mecânica \napresentem\nA\t mesmo sentido e mesma intensidade.\nB\t sentidos opostos e mesma intensidade.\nC\t sentidos opostos e maior intensidade da pressão osmótica.\nD\t mesmo sentido e maior intensidade da pressão osmótica.\nE\t sentidos opostos e maior intensidade da pressão mecânica.",
+  "processado_em": "2026-05-11T23:25:50.899822",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

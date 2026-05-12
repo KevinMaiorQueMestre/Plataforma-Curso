@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nNo alojamento de uma universidade, há alguns quartos\nficou disponível, e muitos estudantes se candidataram par\num sorteio será realizado. Para esse sorteio, cartões indivi\ndepositados em uma urna, sendo que, para cada estudan\nseu nome; para cada estudante de segundo ano, dois cartõ\ntrês cartões com seu nome. Foram inscritos 200 estudant\nano. Todos os cartões têm a mesma probabilidade de ser\nQual a probabilidade de o vencedor do sorteio ser um est\nA\t\nA\t  1\n2\nB\t\nB\t  1\n3\nC\t\nC\t  1\n8\nD\t\nD\t  2\n9\nE\t\nE\t  3\n8",
+  "processado_em": "2026-05-08T14:05:45.931702",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

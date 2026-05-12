@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q017",
+  "imagem": "q017.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 17,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 17\t\nComo é bom reencontrar os leitores da Revista da \nCultura por meio de uma publicação com outro visual, \nconteúdo de qualidade e interesses ampliados! ]cultura[, \neste nome simples, e eu diria mesmo familiar, nasce entre \ndois colchetes voltados para fora. E não é por acaso: \nsão sinais abertos, receptivos, propícios à circulação de \nideias. O DNA da publicação se mantém o mesmo, afinal, \npor longos anos montamos nossas edições com assuntos \nsaídos das estantes de uma grande livraria — e assim \ncontinuará sendo. Literatura, sociologia, filosofia, artes... \nnunca será difícil montar a pauta da revista porque os \nlivros nos ensinam que monotonia é só para quem não lê.\nHERZ, P. ]cultura[, n. 1, jun. 2018 (adaptado).",
+  "processado_em": "2026-05-08T14:05:34.951200",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

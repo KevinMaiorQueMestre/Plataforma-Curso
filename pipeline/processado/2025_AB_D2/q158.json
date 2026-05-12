@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 158\t\nO proprietário de um terreno plano, em formato de \nquadrado e com área medindo 360 000 m2, solicitou a um \ntopógrafo que representasse esse terreno em um mapa cuja \nescala é 1 : 2 500. Porém, nesse mapa, alguns detalhes do \nterreno ficaram imperceptíveis. Com isso, foi desenhado um \nnovo mapa, com escala de 1 : 1 600.\nQual é a medida, em metro, arredondada para duas casas \ndecimais, do aumento do segmento que representa o lado do \nterreno, quando se compara o mapa novo com o mapa original?\nA\t0,02\nB\t0,05\nC\t0,07\nD\t0,14\nE 0 67",
+  "processado_em": "2026-05-08T14:06:53.443521",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 174        \nO quadro representa os gastos mensais, em real, \nde uma família com internet, mensalidade escolar e \nmesada do fi lho.\nInternet\nMensalidade escolar\nMesada do fi lho\n120\n700\n400\nNo início do ano, a internet e a mensalidade escolar \ntiveram acréscimos, respectivamente, de 20% e 10%. \nNecessitando manter o valor da despesa mensal total \ncom os itens citados, a família reduzirá a mesada do fi lho.\nQual será a porcentagem da redução da mesada?\nA  15,0\nB 23,5\nC  30,0\nD  70,0\nE  76,5",
+  "processado_em": "2026-05-11T23:28:20.239107",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

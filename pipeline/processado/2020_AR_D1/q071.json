@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 71          \nO cântico da terra\nEu sou a terra, eu sou a vida.\nA ti, ó lavrador, tudo quanto é meu.\nTeu arado, tua foice, teu machado.\nO berço pequenino de teu filho.\nO algodão de tua veste\ne o pão de tua casa.\nE um dia bem distante\na mim tu voltarás.\nE no canteiro materno de meu seio\ntranquilo dormirás.\nPlantemos a roça.\nLavremos a gleba.\nCORALINA, C. Textos e contextos: poemas dos becos de Goiás e estórias mais.\nSão Paulo: Global, 1997 (fragmento).\nNo contexto das distintas formas de apropriação da terra, \no poema de Cora Coralina valoriza a relação entre\nA \t grileiros e controle territorial.\nB \t meeiros e divisão do trabalho.\nC \t camponeses e uso da natureza.\nD \t indígenas e manejo agroecológico.\nE \t latifundiários e fertilização do solo.",
+  "processado_em": "2026-05-11T23:28:06.059714",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

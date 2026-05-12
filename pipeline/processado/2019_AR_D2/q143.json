@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 143\t\nUm casal planejou uma viagem e definiu como teto para o gasto diário um valor de até R$ 1 000,00. Antes de \ndecidir o destino da viagem, fizeram uma pesquisa sobre a taxa de câmbio vigente para as moedas de cinco países \nque desejavam visitar e também sobre as estimativas de gasto diário em cada um, com o objetivo de escolher o \ndestino que apresentasse o menor custo diário em real.\nO quadro mostra os resultados obtidos com a pesquisa realizada.\nPaís de destino\nMoeda local\nTaxa de câmbio\nGasto diário\nFrança \nEuro (€) \nR$ 3,14 \n315,00 €\nEUA  \nDólar (US$) \nR$ 2,78 \nUS$ 390,00 \nAustrália \nDólar australiano (A$) \nR$ 2,14 \nA$ 400,00\nCanadá \nDólar canadense (C$) \nR$ 2,10 \nC$ 410,00\nReino Unido \nLibra esterlina (£) \nR$ 4,24 \n£ 290,00\nNessas condições, qual será o destino escolhido para a viagem?\nA\t Austrália.\nB\t Canadá.\nC\t EUA.\nD\t França.\nE\t Reino Unido.",
+  "processado_em": "2026-05-11T23:27:35.730324",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

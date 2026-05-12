@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nSecretaria de Cultura\nEDITAL\nNOTIFICAÇÃO — Síntese da resolução publicada \nno Diário Oficial da Cidade, 29/07/2011 — página 41 \n— 511ª Reunião Ordinária, em 21/06/2011.\nResolução nº 08/2011 — TOMBAMENTO dos \nimóveis da Rua Augusta, nº 349 e n° 353, esquina \ncom a Rua Marquês de Paranaguá, nº 315, n° 327 \ne n° 329 (Setor 010, Quadra 026, Lotes 0016-2 \ne 00170-0), bairro da Consolação, Subprefeitura \nda Sé, conforme o processo administrativo \nnº 1991-0.005.365-1.\nFolha de S. Paulo, 5 ago. 2011 (adaptado).\nUm leitor interessado nas decisões governamentais \nescreve uma carta para o jornal que publicou o edital, \nconcordando com a resolução sintetizada no Edital \nda Secretaria de Cultura. Uma frase adequada para \nexpressar sua concordância é:\nA\t Que sábia iniciativa! Os prédios em péssimo estado \nde conservação devem ser derrubados.\nB\t Até que enfim! Os edifícios localizados nesse trecho \ndescaracterizam o conjunto arquitetônico da Rua \nAugusta.\nC\t Parabéns! O poder público precisa mostrar sua força \ncomo guardião das tradições dos moradores locais.\nD\t Justa decisão! O governo dá mais um passo rumo \nà eliminação do problema da falta de moradias \npopulares.\nE\t Congratulações! O patrimônio histórico da cidade \nmerece todo empenho para ser preservado.",
+  "processado_em": "2026-05-08T14:00:19.993514",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

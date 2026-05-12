@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nAs lhamas que vivem nas montanhas dos Andes \nda América do Sul têm hemoglobinas geneticamente \ndiferenciadas de outros mamíferos que vivem ao nível \ndo mar, por exemplo. Essa diferenciação trata-se de uma \nadaptação à sua sobrevivência em altitudes elevadas onde \no ar é rarefeito.\nSCHMIDT-NIELSEN, K. Fisiologia animal: adaptação \nao meio ambiente. São Paulo: Santos, 2002.\nA adaptação desses animais em relação ao seu ambiente \nconfere maior\nA\tafinidade pelo O2, maximizando a captação desse gás.\nB\tcapacidade de tamponamento, evitando alterações de \npH no sangue.\nC\tafinidade pelo CO2, facilitando seu transporte para \neliminação nos pulmões.\nD\tvelocidade no transporte de gases, aumentando a \neficiência de troca gasosa.\nE\tsolubilidade de gases no plasma, melhorando seu \ntransporte nos tecidos",
+  "processado_em": "2026-05-08T14:05:59.569931",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

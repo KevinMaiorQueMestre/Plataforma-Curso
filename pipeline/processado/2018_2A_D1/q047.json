@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 47\t\nAnualmente, são usadas no mundo, aproximadamente, \n2,5 milhões de toneladas de agrotóxicos. O consumo \nanual de agrotóxicos no Brasil tem sido superior a \n300 mil toneladas de produtos comerciais, representando \num aumento no consumo de agrotóxicos de 700% \nnos últimos quarenta anos, enquanto a área agrícola \naumentou 78% nesse período.\nSPADOTTO, C. A. Disponível em: www.fmr.edu.br. Acesso em: 7 nov. 2014.\nNo contexto da produção agrícola, a utilização do insumo \ncitado implica o(a)\nA\t redução nos lucros da atividade.\nB\t aumento do desequilíbrio ecológico.\nC\t manutenção da fertilidade dos solos.\nD\t priorização de cultivos de subsistência.\nE\t autonomia no uso de tecnologia nacional.",
+  "processado_em": "2026-05-11T23:26:12.632643",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

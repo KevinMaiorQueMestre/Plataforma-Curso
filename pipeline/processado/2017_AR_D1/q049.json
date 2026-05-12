@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\nFala-se muito nos dias de hoje em direitos do homem. \nPois bem: foi no século XVIII — em 1789, precisamente — \nque uma Assembleia Constituinte produziu e proclamou \nem Paris a Declaração dos Direitos do Homem e do \nCidadão. Essa Declaração se impôs como necessária \npara um grupo de revolucionários, por ter sido preparada \npor uma mudança no plano das ideias e das mentalidades: \no Iluminismo.\nFORTES, L. R. S. O Iluminismo e os reis filósofos. \nSão Paulo: Brasiliense, 1981 (adaptado).\nCorrelacionando temporalidades históricas, o texto \napresenta uma concepção de pensamento que tem como \numa de suas bases a\nA\t modernização da educação escolar.\nB\t atualização da disciplina moral cristã.\nC\t divulgação de costumes aristocráticos. \nD\t socialização do conhecimento científico.\nE\t universalização do princípio da igualdade civil.",
+  "processado_em": "2026-05-11T23:25:40.605853",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

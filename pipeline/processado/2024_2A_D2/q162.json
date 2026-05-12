@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nAs distâncias no espaço são tão grandes que seria \nmuito difícil gerenciar os números medindo-os em milhas ou \nem quilômetros. Então, os astrônomos criaram uma medida \npadrão, o ano-luz. Um ano-luz é a distância percorrida pela \nluz, no vácuo, durante um ano. Para se ter uma ideia, um \nsegundo-luz é igual a 300 000 km, ou seja, se dois objetos \nestão separados por um segundo-luz, a distância entre \neles é 300 000 km.\nNa imagem, tem-se a representação da Via Láctea e, \nno círculo em detalhe, a distância entre o Sol e a Terra, \nigual a 8 minutos-luz.\nDisponível em: http://ciencia.hsw.uol.com.br. \nAcesso em: 5 ago. 2012.\nA distância entre o Sol e a Terra, em km, escrita como \numa potência de base 10, é de\nA\t24 × 105\nB\t144 × 105\nC\t18 × 106\nD\t24 × 106\nE\t144 × 106",
+  "processado_em": "2026-05-08T14:06:05.060029",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

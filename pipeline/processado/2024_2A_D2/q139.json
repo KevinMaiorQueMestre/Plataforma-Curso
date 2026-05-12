@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\tX\nB\tY\nC\tZ\nD\tW\nE\tK\nQUESTÃO 139\t\nEm um supermercado, uma marca de papel higiênico \né comercializada em cinco diferentes tipos de pacotes, \ncontendo quantidades distintas de rolos em cada um. Todos \nos rolos são de mesma largura e com metragens lineares \ndiversas. Os preços de cada tipo de pacote são distintos, \ne as especificações são estas:\n•\t tipo I: pacote contendo 4 rolos, com metragem linear \nde 60 m por rolo, ao preço de R$ 4,90;\n•\t tipo II: pacote contendo 12 rolos, com metragem \nlinear de 20 m por rolo, ao preço de R$ 4,50;\n•\t tipo III: pacote contendo 16 rolos, com metragem \nlinear de 30 m por rolo, ao preço de R$ 8,60;\n•\t tipo IV: pacote contendo 20 rolos, com metragem \nlinear de 30 m por rolo, ao preço de R$ 11,00;\n•\t tipo V: pacote contendo 24 rolos, com metragem \nlinear de 20 m por rolo, ao preço de R$ 8,70.\nUm cliente vai a esse supermercado, avalia cada uma \ndas especificações e resolve adquirir um pacote de papel \nhigiênico que tenha o menor preço por metro linear.\nQual foi o tipo de pacote adquirido por esse cliente?\nA\tI\nB\tII\nC\tIII\nD\tIV\nE V",
+  "processado_em": "2026-05-08T14:06:03.729802",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

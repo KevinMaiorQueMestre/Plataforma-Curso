@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 49\t\nA produção mundial de alimentos poderia se \nreduzir a 40% da atual sem a aplicação de controle \nsobre as pragas agrícolas. Por outro lado, o uso \nfrequente dos agrotóxicos pode causar contaminação \nem solos, águas superficiais e subterrâneas, atmosfera \ne alimentos. Os biopesticidas, tais como a piretrina e \na coronopilina, têm sido uma alternativa na diminuição \ndos prejuízos econômicos, sociais e ambientais \ngerados pelos agrotóxicos.\nPiretrina\nCoronopilina\nIdentifique \nas \nfunções \norgânicas \npresentes \nsimultaneamente nas estruturas dos dois biopesticidas \napresentados:\nA\t Éter e éster.\nB\t Cetona e éster.\nC\t Álcool e cetona.\nD\t Aldeído e cetona.\nE\t Éter e ácido carboxílico.",
+  "processado_em": "2026-05-08T13:59:02.022167",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

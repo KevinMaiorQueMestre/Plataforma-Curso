@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 78\t\nTEXTO I\nDuas coisas enchem o ânimo de admiração e \nveneração sempre crescentes: o céu estrelado sobre \nmim e a lei moral em mim.\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).\nTEXTO II\nDuas coisas admiro: a dura lei cobrindo-me e o \nestrelado céu dentro de mim.\nFONTELA, O. Kant (relido). In: Poesia completa. \nSão Paulo: Hedra, 2015.\nA releitura realizada pela poeta inverte as seguintes \nideias centrais do pensamento kantiano:\nA\t Possibilidade da liberdade e obrigação da ação.\nB\t Aprioridade do juízo e importância da natureza.\nC\t Necessidade da boa vontade e crítica da metafísica.\nD\t Prescindibilidade do empírico e autoridade da razão.\nE\t Interioridade da norma e fenomenalidade do mundo.",
+  "processado_em": "2026-05-11T23:27:27.024175",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

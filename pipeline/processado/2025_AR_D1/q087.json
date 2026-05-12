@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 87\t\nDurante a realeza, e nos primeiros anos republicanos, \nas leis eram transmitidas oralmente de uma geração para outra. \nA ausência de uma legislação escrita permitia aos patrícios \nmanipular a justiça conforme seus interesses.\nCOULANGES, F. A cidade antiga. São Paulo: Martins Fontes, 2000.\nA conjuntura sociopolítica da Roma Antiga, conforme apresentada \nno texto, foi contestada pelos\nA\tmonarcas, que queriam expandir o código jurídico.\nB\tplebeus, que almejavam participar da vida política.\nC\tnobres, que desejavam superar a relação de dependência.\nD\tcamponeses, que aspiravam diminuir a jornada de trabalho.\nE\testrangeiros, que ambicionavam acessar os espaços públicos.",
+  "processado_em": "2026-05-08T14:07:03.092264",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

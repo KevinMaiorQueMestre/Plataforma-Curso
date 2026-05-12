@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 116 \nO Aquífero Guarani é uma grande reserva de água \nsubterrânea potável cujas características físico-químicas \ndependem de fatores como a geologia da região e a qualidade \nda água que o alimenta. Análises no aquífero realizadas em \ndeterminada região mostraram que a água estava com o \nvalor do pH igual a 4. A água captada nessa região deverá ter \nseu pH corrigido para que a concentração de íons H+ atinja \n10−6 mol L−1, tornando-a apropriada para o consumo humano.\nNa correção do pH da água captada, a concentração de íons H+ \ndeverá ser\nA reduzida duas vezes.\nB reduzida vinte vezes.\nC reduzida cem vezes.\nD aumentada duas vezes.\nE aumentada duzentas vezes.",
+  "processado_em": "2026-05-08T14:06:35.614638",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

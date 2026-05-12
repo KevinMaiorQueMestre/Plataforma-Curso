@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 127   \n\u0002%\u0004\t\tG#\n2\u00022\u000eJ\b\u0007\u0002\b%\b\u0007\n2+\u0004\t\u0002\n2Z\r\u0007\u000e\u001e\u0004\t\u0002\u000f\n\u0002!\b\u000e@\b\u0002\u001e\u0004\u0007\u0007\n\u0005\r\n\r\u0007\b\u000f\u000e\u001e\u000e\u0004\u0005\b\u000e\t\u0002%\u000e2+\b\t(\u0002\u0012\u0002\u000e2\f\t\r\u0007\b'\u001d\u0004\u0002\b%\u0007\n\t\n\u0005\r\b\u0002\f\u0010\b\u0002\u0010\u0004\u0005\r\bJ\n\u0010\u0002\nCuSO4\nZnSO4(aq)\nCuSO4(aq)\nZn(s)\nCu(s)\nCu(s)\nPapel umedecido\ncom Na SO (aq)\n2\n4\nPap\ncom\n\u0019\r\u000e2\u000e\b\u0005\u000f\u0004\u0002\b\u0002\u0007\n%\u0007\n\t\n\u0005\r\b'\u001d\u0004\u0002\u000f\n\u0002%\u0007\u0004\"\n\r\u0004\t\u0002\n2Z\r\u0007\u000e\u001e\u0004\t$\u0002\u0004\u0002\u001e\u000e\u0007\u001e\f\u000e\r\u0004\nA \nv\nD \nB \nv\nE \nC \nv",
+  "processado_em": "2026-05-08T14:04:30.074205",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

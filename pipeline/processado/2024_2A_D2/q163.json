@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nUma empresa com 425 funcionários resolve sortear, \nnuma festa comemorativa, uma bicicleta entre os \nfuncionários que têm filhos. Dos seus 425 funcionários, \n68 não têm filhos, 153 têm um filho, 119 têm dois filhos e \no restante tem mais de dois filhos. Cartões, com um único \nnúmero impresso, serão distribuídos a funcionários que \ntêm, pelo menos, um filho. Cada funcionário receberá, no \nmáximo, um desses cartões.\nA probabilidade de a bicicleta ser sorteada para um \nfuncionário que tenha exatamente dois filhos é\nA\t 357\n425\nB\t 238\n425\nC\t 119\n425\nD\t 119\n357\nE\t\n1\n119",
+  "processado_em": "2026-05-08T14:06:05.105412",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

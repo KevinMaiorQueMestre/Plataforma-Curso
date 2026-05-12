@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 10\t\nO recurso linguístico usado para marcar a síntese da opinião da autora sobre a temática desenvolvida foi o(a)\nA\temprego da primeira pessoa em “Estranhei muito na primeira vez que escutei a expressão ‘de próprio punho’”. (l. 1)\nB\tutilização de locução adverbial em “Na verdade, o que importava era a autenticidade da minha caligrafia”. (l. 3-4)\nC\tuso de pronome possessivo em “Minha letra, hoje, tem uma espécie de alternância”. (l. 5-6)\nD\tadoção de termo autorreflexivo em “No escritório, costumo ser mais suave comigo mesma”. (l. 30)\nE\tsubstituição da expressão “Do punho ao pixel” (l. 44) pela expressão “o punho e o pixel”. (l. 45)",
+  "processado_em": "2026-05-11T23:29:50.158661",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

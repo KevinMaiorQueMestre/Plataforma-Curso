@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 152\n\u0019\r\u000e2\u000eY\b/\t\n\u0002\u0004\u0002\r\n\u0007\u0010\u0004\u0002\u000f\u0004­\u00052\u0004\b\u000f\u0002%\b\u0007\b\u0002\u000f\n\t\u000eJ\u0005\b\u0007\u0002\u0004\u0002%\u0007\u0004\u001e\n\t\t\u0004\u0002\npelo qual um arquivo é transferido de algum sítio da \ninternet para o dispositivo do usuário (computador, tablet, \n\u001e\n2\f2\b\u0007k(\u0002 \u0018\f\b\u0005\u000f\u0004\u0002 \b\u0002 \r\u0007\b\u0005\tP\n\u0007>\u0005\u001e\u000e\b\u0002 {\u0002 \u000e\u0005\r\n\u0007\u0007\u0004\u0010%\u000e\u000f\b$\u0002 \u000f\u000eY/\t\n\u0002\n\u000b\f\n\u0002\u0004\u0002\u000f\u0004­\u00052\u0004\b\u000f\u0002\r\u0007\b#\u0004\f(\u0002\u0017\u0002\n\t!\u0004'\u0004\u0002\u000f\u0004\u0002J\u0007?\u0006\u001e\u0004\u0002\u0007\n%\u0007\n\t\n\u0005\r\b\u0002\n\b\u0002 \n#\u00042\f'\u001d\u0004\u0002 \u000f\u0004\u0002 \u000f\u0004­\u00052\u0004\b\u000f\u0002 \u000f\n\u0002 \f\u0010\u0002 \b\u0007\u000b\f\u000e#\u0004\u0002 \u000b\f\n\u0002 \u000f\n\u0010\u0004\u0007\u0004\f\u0002 \n16 segundos para ser concluído.\nVolume de dados baixados (Mb)\n3\n0\n6\n10\n12\n13\n16 Tempo (s)\n\u001f\u0004\u0007\u0002 \u000b\f\b\u0005\r\u0004\u0002 \r\n\u0010%\u0004$\u0002 \n\u0010\u0002 \t\nJ\f\u0005\u000f\u0004$\u0002 \n\t\t\n\u0002 \u000f\u0004­\u00052\u0004\b\u000f\u0002 \u0006\u001e\u0004\f\u0002\ntravado?\nA  9\nB  5\nC  3\nD  2\nE  0",
+  "processado_em": "2026-05-08T14:04:16.501989",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

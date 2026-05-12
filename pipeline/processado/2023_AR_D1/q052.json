@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nTEXTO I\nComo presença consciente no mundo não posso \nescapar à responsabilidade ética no meu mover-me no \nmundo. Se sou puro produto da determinação genética ou \ncultural ou de classe, sou irresponsável pelo que faço no \nmeu mover-me no mundo e, se careço de responsabilidade, \nnão posso falar em ética.\nFREIRE, P. Pedagogia da autonomia: saberes necessários \nà prática educativa. São Paulo: Paz e Terra, 1996.",
+  "processado_em": "2026-05-08T14:05:36.993588",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

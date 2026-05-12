@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t estagnação de lavouras policultoras.\nQuestão 66                \nUm dos resquícios franceses na dança são os comandos proferidos pelo marcador da quadrilha. Seu papel é \nanunciar os próximos passos da coreografia. O abrasileiramento de termos franceses deu origem, por exemplo, ao \nsaruê (soirée — reunião social noturna, ordem para todos se juntarem no centro do salão), anarriê (en arrière — para \ntrás) e anavã (en avant — para frente).\nDisponível em: www.ebc.com.br. Acesso em: 6 jul. 2015.\nA característica apresentada dessa manifestação popular resulta do seguinte processo socio-histórico:\nA \t Massificação da arte erudita.\nB \t Rejeição de hábitos elitistas.\nC \t Laicização dos rituais religiosos.\nD \t Restauração dos costumes antigos.\nE \t Apropriação de práticas estrangeiras.",
+  "processado_em": "2026-05-11T23:28:05.533660",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

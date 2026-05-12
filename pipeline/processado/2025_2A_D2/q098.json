@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 98 \nConsidere a tirinha.\nGO\nQual tipo de interação ecológica, que ocorre nessa espécie, ex",
+  "processado_em": "2026-05-08T14:06:34.618777",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

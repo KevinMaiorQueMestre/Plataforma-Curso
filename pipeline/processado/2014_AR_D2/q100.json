@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nSó há uma saída para a escola se ela quiser ser \nmais bem-sucedida: aceitar a mudança da língua como \num fato. Isso deve significar que a escola deve aceitar \nqualquer forma da língua em suas atividades escritas? \nNão deve mais corrigir? Não!\nHá outra dimensão a ser considerada: de fato, no \nmundo real da escrita, não existe apenas um português \ncorreto, que valeria para todas as ocasiões: o estilo dos \ncontratos não é o mesmo do dos manuais de instrução; \no dos juízes do Supremo não é o mesmo do dos \ncordelistas; o dos editoriais dos jornais não é o mesmo \ndo dos cadernos de cultura dos mesmos jornais. Ou do \nde seus colunistas.\nPOSSENTI, S. Gramática na cabeça. Língua Portuguesa, ano 5, n. 67, maio 2011 (adaptado).\nSírio Possenti defende a tese de que não existe um único \n“português correto”. Assim sendo, o domínio da língua \nportuguesa implica, entre outras coisas, saber\nA\t descartar as marcas de informalidade do texto.\nB\t reservar o emprego da norma padrão aos textos de \ncirculação ampla.\nC\t moldar a norma padrão do português pela linguagem \ndo discurso jornalístico.\nD\t adequar as formas da língua a diferentes tipos de \ntexto e contexto.\nE\t desprezar as formas da língua previstas pelas \ngramáticas e manuais divulgados pela escola.",
+  "processado_em": "2026-05-08T14:00:35.098192",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

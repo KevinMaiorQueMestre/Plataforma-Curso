@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nUma caneca com água fervendo é retirada de um \nforno de micro-ondas. A temperatura T, em grau Celsius, \nda caneca, em função do tempo t, em minuto, pode ser \nmodelada pela função T(t) = a + 80 bt, representada no \ngráfico a seguir.\nOs valores das constantes a e b são\nA a = 20; b = log(0,5)\nB a = 100; b = 0,5\nC a\nb\n=\n=\n20\n0 5\n1\n10\n;\n( , )\n \nD a\nb\n=\n=\n20\n40\n80\n1\n10\n;\n(\n)\n \nE a = 20; b = 40",
+  "processado_em": "2026-05-08T14:06:21.797475",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

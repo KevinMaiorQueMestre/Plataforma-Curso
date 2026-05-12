@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nUm cliente vai a uma loja de materiais de revestimento \ncerâmico para adquirir porcelanato para a substituição do \npiso de uma sala com formato retangular, com área total \nde 36 m2. O vendedor dessa loja lhe oferece dois projetos.\n•\t Projeto A: porcelanato quadrado, com 0,60 m de \nlado, para ser disposto de maneira que a diagonal \ndo quadrado seja paralela ao contorno da sala. \nCusto da caixa com 10 peças: R$ 60,00.\n•\t Projeto B: porcelanato quadrado, com 0,40 m de \nlado, para ser disposto de maneira que os lados \ndo quadrado sejam paralelos ao contorno da sala. \nCusto da caixa com 12 peças: R$ 40,00.\nO vendedor informa que a fábrica recomenda a \ncompra de uma quantidade adicional do número de peças \npara eventual necessidade de cortes e para reserva. No \ncaso do projeto A, devem ser adquiridos 25% a mais, e \nno caso do projeto B, uma quantidade 10% maior do que \no valor exato da área de recobrimento.\nO cliente decide, então, que irá adotar o projeto de \nmenor custo.\nO custo mínimo que o cliente deverá ter, em conformidade \ncom seu objetivo e com as informações apresentadas, \nserá de\nA\t\nA\t R$ 600,00.\nB\t\nB\t R$ 660,00.\nC\t\nC\t R$ 720,00.\nD\t\nD\t R$ 780,00.\nE\t\nE\t R$ 840,00.",
+  "processado_em": "2026-05-08T14:04:50.505486",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

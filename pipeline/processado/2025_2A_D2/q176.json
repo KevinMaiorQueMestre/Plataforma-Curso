@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 176 \nUma pessoa comprará uma tinta especial para pintar, \ncom apenas uma demão, uma parede que tem medida de \n320 m2 de área. Para pintar uma área de 10 m2, é necessário \nexatamente 1 L de tinta. Em uma loja, essa tinta está em \npromoção e é vendida em latas de diversas capacidades, mas só \né possível comprar latas do mesmo tipo. A pessoa tem como \nobjetivo gastar o menor valor possível, em real, com a compra \ndessa tinta e observa os seguintes dados referentes aos tipos \nde latas disponíveis:\n• I: contém 0,6 L de tinta e custa R$ 18,00;\n• II: contém 0,8 L de tinta e custa R$ 23,00;\n• III: contém 1,0 L de tinta e custa R$ 29,00;\n• IV: contém 3,0 L de tinta e custa R$ 85,00;\n• V: contém 5,0 L de tinta e custa R$ 150,00.\nPara atingir seu objetivo, essa pessoa deverá comprar latas do \ntipo\nA I.\nB II.\nC III.\nD IV.\nE V.",
+  "processado_em": "2026-05-08T14:06:38.631431",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 38\t\nA irrigação da agricultura é responsável pelo \nconsumo de mais de 2/3 de toda a água retirada dos rios, \nlagos e lençóis freáticos do mundo. Mesmo no Brasil, \nonde achamos que temos muita água, os agricultores \nque tentam produzir alimentos também enfrentam secas \nperiódicas e uma competição crescente por água.\nMARAFON, G. J. et al. O desencanto da terra: produção de alimentos, ambiente e sociedade. \nRio de Janeiro: Garamond, 2011.\nNo Brasil, as técnicas de irrigação utilizadas na agricultura \nproduziram impactos socioambientais como\nA\t redução do custo de produção.\nB\t agravamento da poluição hídrica.\nC\t compactação do material do solo.\nD\t aceleração da fertilização natural.\nE redirecionamento dos cursos fluviais",
+  "processado_em": "2026-05-08T13:59:02.010324",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

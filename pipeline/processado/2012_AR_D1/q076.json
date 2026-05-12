@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 76\t\nOs tubos de PVC, material organoclorado sintético, \nsão normalmente utilizados como encanamento na \nconstrução civil. Ao final da sua vida útil, uma das formas \nde descarte desses tubos pode ser a incineração. Nesse \nprocesso libera-se HCℓ (g), cloreto de hidrogênio, dentre \noutras substâncias. Assim, é necessário um tratamento \npara evitar o problema da emissão desse poluente.\nEntre as alternativas possíveis para o tratamento, é \napropriado canalizar e borbulhar os gases provenientes \nda incineração em\nA\t água dura.\nB\t água de cal.\nC\t água salobra.\nD\t água destilada.\nE\t água desmineralizada.",
+  "processado_em": "2026-05-08T13:59:02.511014",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

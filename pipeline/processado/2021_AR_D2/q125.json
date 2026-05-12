@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 125\nUm dos exames clínicos mais tradicionais para medir \n\b\u0002\u001e\b%\b\u001e\u000e\u000f\b\u000f\n\u0002\u0007\n\n@\b\u0002\u000f\u0004\t\u0002\u000e\u0005\u000f\u000e#G\u000f\f\u0004\t\u0002Z\u0002\u0004\u0002\n@\b\u0010\n\u0002\u000f\u0004\u0002\u0007\n\n@\u0004\u0002\n%\b\r\n2\b\u0007(\u0002\u0014\t\t\n\u0002\n@\b\u0010\n\u0002\u001e\u0004\u0005\t\u000e\t\r\n\u0002\u0005\b\u0002\n\t\r\u000e\u0010\f2\b'\u001d\u0004\u0002\u000f\b\u0002%\b\r\n2\b$\u0002\f\u0010\u0002\n%\n\u000b\f\n\u0005\u0004\u0002\u0004\t\t\u0004\u00022\u0004\u001e\b2\u000e\b\u000f\u0004\u0002\u0005\b\u0002%\b\u0007\r\n\u0002\b\u0005\r\n\u0007\u000e\u0004\u0007\u0002\u000f\b\u0002\b\u0007\r\u000e\u001e\f2\b'\u001d\u0004\u0002\n\u000f\u0004\u0002\"\u0004\n2+\u0004$\u0002\u001e\u0004\u0010\u0002\f\u0010\u0002%\n\u000b\f\n\u0005\u0004\u0002\u0010\b\u0007\r\n2\u0004(\u0002\u0012\u0002\u0007\n\t%\u0004\t\r\b\u0002\u0007\n\n@\b\u0002\nao estímulo é caracterizada pelo levantamento da perna \nem que o estímulo foi aplicado.\n\u0018\f\b2\u0002 \u0007\nJ\u000e\u001d\u0004\u0002 \n\t%\n\u001eG\u0006\u001e\b\u0002 \u000f\u0004\u0002 \t\u000e\t\r\n\u0010\b\u0002 \u0005\n\u0007#\u0004\t\u0004\u0002 \u001e\u0004\u0004\u0007\u000f\n\u0005\b\u0002\n\n\t\t\b\u0002\u0007\n\t%\u0004\t\r\b\nA Ponte.\nB Medula.\nC Cerebelo.\nD Hipotálamo.\nE \u0016\n\f\u0007\u0004/+\u000e%B\u0006\t\n(",
+  "processado_em": "2026-05-08T14:04:29.950581",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

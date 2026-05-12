@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nUm clube está sendo reformado e deve ter algumas \nparedes e partes do teto repintadas. São, no total, \n560 m2 de parede e 260 m2 de teto. Segundo orientações \ntécnicas, um entre três tipos diferentes de tinta deve ser \nusado para pintar as paredes (tipos I, II e III), e um entre \noutros dois tipos pode ser utilizado na pintura do teto \n(tipos X e Y). As características dos diferentes produtos \nsão apresentadas a seguir:\n•\t tipo I: vendido em embalagem com 10 L, por \nR$ 180,00 cada. O conteúdo permite pintar uma \nárea de 220 m2;\n•\t tipo II: vendido em embalagem com 20 L, por \nR$ 350,00 cada. O conteúdo permite pintar uma \nárea de 450 m2;\n•\t tipo III: vendido em embalagem com 25 L, por \nR$ 650,00 cada. O conteúdo permite pintar uma \nárea de 550 m2;\n•\t tipo X: vendido em embalagem com 4 L, por \nR$ 70,00 cada. O conteúdo permite pintar uma \nárea de 80 m2;\n•\t tipo Y: vendido em embalagem com 5 L, por \nR$ 85,00 cada. O conteúdo permite pintar uma \nárea de 90 m2.\nPretende-se gastar a menor quantia possível, em \nreal, com essa pintura.\nAs tintas que devem ser escolhidas para uso nas paredes \ne teto do clube, respectivamente, são as de tipos\nA\t\nA\t I e X.\nB\t\nB\t I e Y.\nC\t\nC\t II e X.\nD\t\nD\t II e Y.\nE\t\nE\t III e Y.",
+  "processado_em": "2026-05-08T14:04:50.264820",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

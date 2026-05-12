@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 68\t\nSalvador, capital do estado da Bahia.\nDisponível em: https://mundoeducacao.uol.com.br. \nAcesso em: 20 out. 2023.\nA análise dos elementos presentes na fotografia permite \nidentificar qual característica socioespacial?\nA\tEstagnação da especulação imobiliária.\nB\tConservação da arquitetura colonial.\nC\tImplantação de moradias populares.\nD\tPredomínio da atividade comercial.\nE\tProcesso de verticalização urbana.",
+  "processado_em": "2026-05-08T14:07:02.038282",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

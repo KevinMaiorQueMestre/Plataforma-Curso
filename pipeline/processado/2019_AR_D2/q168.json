@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 168\t\nO Índice de Desenvolvimento Humano (IDH) é uma \nmedida usada para classificar os países pelo seu grau \nde desenvolvimento. Para seu cálculo, são levados em \nconsideração a expectativa de vida ao nascer, tempo de \nescolaridade e renda per capita, entre outros. O menor \nvalor deste índice é zero e o maior é um. Cinco países \nforam avaliados e obtiveram os seguintes índices de \ndesenvolvimento humano: o primeiro país recebeu um \nvalor X , o segundo \nX , o terceiro X\n1\n3, o quarto X 2 e o \núltimo X 3. Nenhum desses países zerou ou atingiu o \níndice máximo.\nQual desses países obteve o maior IDH?\nA\t O primeiro.\nB\t O segundo.\nC\t O terceiro.\nD\t O quarto.\nE\t O quinto.",
+  "processado_em": "2026-05-11T23:27:37.818403",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

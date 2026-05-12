@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 90\t\nA luta da Águia contra o Dragão na América Latina\nNo rescaldo da crise de 2008, as instituições financeiras \nchinesas (Banco de Desenvolvimento da China e Banco \nde Exportação e Importação da China) ofereceram crédito \naos países latino-americanos que encontravam dificuldade \npara obter empréstimos nos mercados internacionais, \ncomo a Venezuela, a Argentina e o Equador. Mais flexível \nque os Estados Unidos, a China ofereceu a possibilidade \nde ser paga em commodities. Essa fórmula permitiu ao \npaís garantir o suprimento de recursos naturais necessário \npara atender ao apetite crescente de sua classe média. \nEssa estratégia “ganha-ganha” deu frutos.\nCORREA, A.-D. Le Monde Diplomatique Brasil, n. 171, out. 2021.\nPara os países latino-americanos mencionados, a estratégia \nchinesa apresentada na reportagem resultou no(a)\nA\t\nA\t realinhamento da parceria militar.\nB\t\nB\t ampliação do protecionismo tarifário.\nC\t\nC\t redução da dependência tecnológica.\nD\t\nD\t endurecimento da legislação ambiental.\nE\t\nE\t redirecionamento do comércio externo.",
+  "processado_em": "2026-05-08T14:05:21.672185",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t mostrar preocupação com o modelo de turismo \npredominante.\nQuestão 3          \nDisponível em: www.undedodeespuma.es. Acesso em: 7 jun. 2018.\nConsiderando-se os elementos verbais e não verbais \ndessa campanha publicitária, a expressão “dos dedos de \nfrente” remete ao(à)\nA \t consumo responsável de cerveja.\nB \t quantidade ideal de espuma na cerveja.\nC \t aumento registrado no consumo de cerveja.\nD \t diversidade de palavras para se referir à cerveja.\nE \t qualidade da visão dos consumidores de cerveja.",
+  "processado_em": "2026-05-08T14:03:22.687095",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nA quantidade x de peças, em milhar, produzidas e o \nfaturamento y, em milhar de real, de uma empresa estão \nrepresentados nos gráficos, ambos em função do número t \nde horas trabalhadas por seus funcionários.\nx\n60\n20\n0\n1\n3\nt\ny\n8\n4\n0\n1\n2\nt\nO número de peças que devem ser produzidas para se \nobter um faturamento de R$ 10 000,00 é\nA\t 2 000.\nB\t 2 500.\nC\t 40 000.\nD\t 50 000.\nE\t 200 000.",
+  "processado_em": "2026-05-11T23:26:23.362872",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

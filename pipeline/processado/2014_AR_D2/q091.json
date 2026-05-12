@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 91\t\nEmigrantes\nEn todo emigrante existen dos posibles actitudes \nvitales: una la de considerar su experiencia como \naventura pasajera, vivir mental y emocionalmente \nen la patria de origen, cultivando su nostalgia, y \ndefinir la realidad presente por comparación con el \nmundo que se ha dejado; la otra es vivir el presente \ntal como viene dado, proyectarlo en el futuro, cortar \nraíces y dominar nostalgias, sumergirse en la nueva \ncultura, aprenderla y asimilarla. El drama personal del \nemigrante reside en el hecho de que casi nunca es \nposible esa elección en términos absolutos y, al igual \nque el mestizo, se siente parte de dos mundos sin \nintegrarse por completo en uno de ellos con exclusión \ndel otro.\nDEL CASTILLO, G. C. América hispánica (1492-1892). In: DE LARA, M. T. Historia de \nEspaña. Barcelona: Labor, 1985.\nO texto apresenta uma reflexão sobre a condição do \nimigrante, o qual, para o autor, tem de lidar com o \ndilema da\nA\t constatação de sua existência no entrelugar.\nB\t instabilidade da vida em outro país.\nC\t ausência de referências do passado.\nD\t apropriação dos valores do outro.\nE\t ruptura com o país de origem.",
+  "processado_em": "2026-05-08T14:00:34.427086",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

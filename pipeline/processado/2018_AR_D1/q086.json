@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 86\t\nA agricultura ecológica e a produção orgânica de \nalimentos estão ganhando relevância em diferentes \npartes do mundo. No campo brasileiro, também \nacontece o mesmo. Impulsionado especialmente pela \nexpansão da demanda de alimentos saudáveis, o setor \ncresce a cada ano, embora permaneça relativamente \nmarginalizado na agenda de prioridades da política \nagrícola praticada no país.\nAQUINO, J. R.; GAZOLLA, M.; SCHNEIDER, S. In: SAMBUICHI, R. H. R. et al. (Org.). \nA política nacional de agroecologia e produção orgânica no Brasil: uma trajetória de \nluta pelo desenvolvimento rural sustentável. Brasília: Ipea, 2017 (adaptado).\nQue tipo de intervenção do poder público no espaço \nrural é capaz de reduzir a marginalização produtiva \napresentada no texto?\nA\t Subsidiar os cultivos de base familiar.\nB\t Favorecer as práticas de fertilização química.\nC\t Restringir o emprego de maquinário moderno.\nD\t Controlar a expansão de sistemas de irrigação.\nE\t Regulamentar o uso de sementes selecionadas.",
+  "processado_em": "2026-05-11T23:26:41.587607",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 150\t\nO serviço de meteorologia de uma cidade emite \nrelatórios diários com a previsão do tempo. De posse \ndessas informações, a prefeitura emite três tipos de \nalertas para a população:\n•\t Alerta cinza: deverá ser emitido sempre que a \nprevisão do tempo estimar que a temperatura \nserá inferior a 10 °C, e a umidade relativa do ar \nfor inferior a 40%; \n•\t Alerta laranja: deverá ser emitido sempre que a \nprevisão do tempo estimar que a temperatura deve \nvariar entre 35 °C e 40 °C, e a umidade relativa do \nar deve ficar abaixo de 30%; \n•\t Alerta vermelho: deverá ser emitido sempre que \na previsão do tempo estimar que a temperatura \nserá superior a 40 °C, e a umidade relativa do ar \nfor inferior a 25%.\nUm resumo da previsão do tempo nessa cidade, \npara um período de 15 dias, foi apresentado no gráfico.\nTemperatura\n(°C)\nUmidade relativa \ndo ar (%)\n40\n60\n20\n40\n 60\n20\n0\n2\n4\n6\n8\n10\n12\n14\n16 Dia\nTemperatura\nUmidade relativa do ar\nDecorridos os 15 dias de validade desse relatório, \num funcionário percebeu que, no período a que se refere \no gráfico, foram emitidos os seguintes alertas:\n•\t Dia 1: alerta cinza; \n•\t Dia 12: alerta laranja; \n•\t Dia 13: alerta vermelho.\nEm qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s) \ncorretamente?\nA\t 1\nB\t 12\nC\t 1 e 12\nD\t 1 e 13\nE\t 1, 12 e 13",
+  "processado_em": "2026-05-11T23:27:36.159557",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

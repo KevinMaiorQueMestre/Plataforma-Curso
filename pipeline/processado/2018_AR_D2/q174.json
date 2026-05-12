@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\n2V\u0003JXLQGDVWHV\u0003VmR\u0003IXQGDPHQWDLV\u0003HP\u0003FDQWHLURV\u0003GH\u0003REUDV\u000f\u0003QR\u0003PDQHMR\u0003GH\u0003PDWHULDLV\u0003SHVDGRV\u0003FRPR\u0003YLJDV\u0003GH\u0003DoR\u0011\u0003\n$\u0003¿JXUD\u0003LOXVWUD\u0003XPD\u0003VHTXrQFLD\u0003GH\u0003HVWiJLRV\u0003HP\u0003TXH\u0003XP\u0003JXLQGDVWH\u0003LoD\u0003XPD\u0003YLJD\u0003GH\u0003DoR\u0003TXH\u0003VH\u0003HQFRQWUD\u0003LQLFLDOPHQWH\u0003\nno solo.\nCabo de aço\nViga\nM\nM\nO\nEstágio 1\nO\nEstágio 2\nM\nO\nEstágio 3\n1D\u0003¿JXUD\u000f\u0003R\u0003SRQWR\u00032\u0003UHSUHVHQWD\u0003D\u0003SURMHomR\u0003RUWRJRQDO\u0003GR\u0003FDER\u0003GH\u0003DoR\u0003VREUH\u0003R\u0003SODQR\u0003GR\u0003FKmR\u0003H\u0003HVWH\u0003VH\u0003PDQWpP\u0003\nna vertical durante todo o movimento de içamento da viga, que se inicia no tempo t  \u0003\u0013\u0003\u000bHVWiJLR\u0003\u0014\f\u0003H\u0003¿QDOL]D\u0003QR\u0003\ntempo tf (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra \nH[WUHPLGDGH\u0003GHVOL]D\u0003VREUH\u0003R\u0003VROR\u0003HP\u0003GLUHomR\u0003DR\u0003SRQWR\u00032\u0011\u0003&RQVLGHUH\u0003TXH\u0003R\u0003FDER\u0003GH\u0003DoR\u0003XWLOL]DGR\u0003SHOR\u0003JXLQGDVWH\u0003\nSDUD\u0003LoDU\u0003D\u0003YLJD\u0003¿TXH\u0003VHPSUH\u0003QD\u0003SRVLomR\u0003YHUWLFDO\u0011\u00031D\u0003¿JXUD\u000f\u0003R\u0003SRQWR\u00030\u0003UHSUHVHQWD\u0003R\u0003SRQWR\u0003PpGLR\u0003GR\u0003VHJPHQWR\u0003TXH\u0003\nrepresenta a viga.\n2\u0003JUi¿FR\u0003TXH\u0003GHVFUHYH\u0003D\u0003GLVWkQFLD\u0003GR\u0003SRQWR\u00030\u0003DR\u0003SRQWR\u00032\u000f\u0003HP\u0003IXQomR\u0003GR\u0003WHPSR\u000f\u0003HQWUH\u0003W\u0003  0 e tf, é\nA\nDistância\nTempo\nt f\n0\nD\nDistância\nTempo\n0\nt f\nB\nDistância\nE\nDistância",
+  "processado_em": "2026-05-11T23:26:50.004066",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

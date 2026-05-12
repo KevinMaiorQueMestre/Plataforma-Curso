@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q017",
+  "imagem": "q017.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 17,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 17\t\nOra, em todas as coisas ordenadas a algum fim, \né preciso haver algum dirigente, pelo qual se atinja \ndiretamente o devido fim. Com efeito, um navio, que \nse move para diversos lados pelo impulso dos ventos \ncontrários, não chegaria ao fim de destino, se por indústria \ndo piloto não fosse dirigido ao porto; ora, tem o homem \num fim, para o qual se ordenam toda a sua vida e ação. \nAcontece, porém, agirem os homens de modos diversos \nem vista do fim, o que a própria diversidade dos esforços \ne ações humanas comprova. Portanto, precisa o homem \nde um dirigente para o fim.\nAQUINO, T. Do reino ou do governo dos homens: ao rei do Chipre. Escritos políticos de \nSão Tomás de Aquino. Petrópolis: Vozes, 1995 (adaptado).\nNo trecho citado, Tomás de Aquino justifica a monarquia \ncomo o regime de governo capaz de\nA\t refrear os movimentos religiosos contestatórios.\nB\t promover a atuação da sociedade civil na vida política. \nC\t unir a sociedade tendo em vista a realização do \nbem comum.\nD\t reformar a religião por meio do retorno à tradição \nhelenística.\nE\t dissociar a relação política entre os poderes temporal \ne espiritual.",
+  "processado_em": "2026-05-08T14:00:43.492197",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

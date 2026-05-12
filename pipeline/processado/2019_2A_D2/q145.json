@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 145\t\nOs movimentos ondulatórios (periódicos) são \nrepresentados por equações do tipo \u001f\n\u001e\n\u001d\n\u001c\nAsen wt\n\u001b , \nque apresentam parâmetros com significados físicos \nimportantes, tais como a frequência w\nT\n\u001f 2\u001e , em que T \né o período; A é a amplitude ou deslocamento máximo; \nθ  é o ângulo de fase 0\n2\n\u001f\n\u001e\n\u001d\n\u001c\nw\n, que mede o \ndeslocamento no eixo horizontal em relação à origem no \ninstante inicial do movimento.\nO gráfico representa um movimento periódico, \nP = P(t), em centímetro, em que P é a posição da \ncabeça do pistão do motor de um carro em um \ninstante t, conforme ilustra a figura.\nA expressão algébrica que representa a posição P(t), \nda cabeça do pistão, em função do tempo t é\nA\nP t\nsen\nt\n( ) \u001f\n\u001e\n\u001d\n4\n2\nB\nP t\nsen\nt\n( ) \u001f \u001e\n\u001d\n\u001c\n4\n2\nC\nP t\nsen\nt\n( ) \u001f \u001e\n\u001d\n\u001c\n4\n4\nD\nP t\nsen\nt\n( ) \u001f\n\u001e\n\u001d\n\u001c\u001b\n\u001a\n\u0019\u0018\n4\n2\n4\n\u0017\nE\nP t\nsen\nt\n( ) \u001f\n\u001e\n\u001d\n\u001c\u001b\n\u001a\n\u0019\u0018\n4\n4\n4\n\u0017\nP\n4\n3\n2\n1\n−1\n−2\n−3\n− 4\n0\nπ\nπ\n2\nπ\n3\n2\nπ\n2\nπ\n5\n2\nπ\n3\nπ\n7\n2\nπ\n4\nt",
+  "processado_em": "2026-05-11T23:27:12.045811",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

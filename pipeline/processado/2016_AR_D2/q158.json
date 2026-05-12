@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nO ábaco é um antigo instrumento de cálculo que usa \nnotação posicional de base dez para representar números \nnaturais. Ele pode ser apresentado em vários modelos, \num deles é formado por hastes apoiadas em uma base. \nCada haste corresponde a uma posição no sistema \ndecimal e nelas são colocadas argolas; a quantidade de \nargolas na haste representa o algarismo daquela posição. \nEm geral, colocam-se adesivos abaixo das hastes com \nos símbolos U, D, C, M, DM e CM que correspondem, \nrespectivamente, \na \nunidades, \ndezenas, \ncentenas, \nunidades de milhar, dezenas de milhar e centenas de \nmilhar, sempre começando com a unidade na haste da \ndireita e as demais ordens do número no sistema decimal \nnas hastes subsequentes (da direita para esquerda), \naté a haste que se encontra mais à esquerda.\nEntretanto, no ábaco da figura, os adesivos não \nseguiram a disposição usual.\nU\nCM\nD\nM\nC\nDM\nNessa disposição, o número que está representado na \nfigura é\nA\t 46 171.\nB\t 147 016.\nC\t 171 064.\nD\t 460 171.\nE\t 610 741.",
+  "processado_em": "2026-05-08T14:01:22.705569",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

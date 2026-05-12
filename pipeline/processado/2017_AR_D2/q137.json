@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\t\nUm garçom precisa escolher uma bandeja de base \nretangular para servir quatro taças de espumante que \nprecisam ser dispostas em uma única fileira, paralela \nao lado maior da bandeja, e com suas bases totalmente \napoiadas na bandeja. A base e a borda superior das taças \nsão círculos de raio 4 cm e 5 cm, respectivamente. \nA bandeja a ser escolhida deverá ter uma área mínima, \nem centímetro quadrado, igual a\nA\t 192.\nB\t 300.\nC\t 304.\nD\t 320.\nE\t 400.",
+  "processado_em": "2026-05-11T23:25:52.510966",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 94\t\nPara realizar o desentupimento de tubulações de \nesgotos residenciais, é utilizada uma mistura sólida \ncomercial que contém hidróxido de sódio (NaOH) e outra \nespécie química pulverizada. Quando é adicionada \nágua a essa mistura, ocorre uma reação que libera gás \nhidrogênio e energia na forma de calor, aumentando a \neficiência do processo de desentupimento. Considere os \npotenciais padrão de redução (E ) da água e de outras \nespécies em meio básico, expressos no quadro.\nSemirreação de redução\nE  (V)\n2 H2O + 2 e− → H2 + 2 OH− \n−0,83 \nCo(OH)2 + 2 e− → Co + 2 OH− \n−0,73 \nCu(OH)2 + 2 e− → Cu + 2 OH− \n−0,22 \nPbO + H2O + 2 e− → Pb + 2 OH− \n−0,58 \nAl(OH)4\n− + 3 e− → Al + 4 OH− \n−2,33 \nFe(OH)2 + 2 e− → Fe + 2 OH− \n−0,88 \nQual é a outra espécie que está presente na composição \nda mistura sólida comercial para aumentar sua eficiência?\nA\t Al\nB\t Co\nC\t Cu(OH)2\nD\t Fe(OH)2\nE\t Pb",
+  "processado_em": "2026-05-11T23:27:32.421553",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

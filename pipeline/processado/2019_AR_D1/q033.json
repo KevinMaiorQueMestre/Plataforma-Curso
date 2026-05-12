@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 33\t\nInverno! inverno! inverno!\nTristes nevoeiros, frios negrumes da longa treva \nboreal, descampados de gelo cujo limite escapa-nos \nsempre, desesperadamente, para lá do horizonte, \nperpétua solidão inóspita, onde apenas se ouve a voz \ndo vento que passa uivando como uma legião de lobos, \natravés da cidade de catedrais e túmulos de cristal na \nplanície, fantasmas que a miragem povoam e animam, \ntudo isto: decepções, obscuridade, solidão, desespero \ne a hora invisível que passa como o vento, tudo isto é o \nfrio inverno da vida.\nHá no espírito o luto profundo daquele céu de bruma \ndos lugares onde a natureza dorme por meses, à espera \ndo sol avaro que não vem.\nPOMPEIA, R. Canções sem metro. Campinas: Unicamp, 2013.\nReconhecido pela linguagem impressionista, Raul Pompeia \ndesenvolveu-a na prosa poética, em que se observa a\nA\t imprecisão no sentido dos vocábulos.\nB\t dramaticidade como elemento expressivo.\nC\t subjetividade em oposição à verossimilhança.\nD\t valorização da imagem com efeito persuasivo.\nE\t plasticidade verbal vinculada à cadência melódica.",
+  "processado_em": "2026-05-11T23:27:23.218860",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

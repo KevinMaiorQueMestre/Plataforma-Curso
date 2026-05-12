@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nO ciclo de atividade magnética do Sol tem um período \nde 11 anos. O início do primeiro ciclo registrado se deu \nno começo de 1755 e se estendeu até o final de 1765. \nDesde então, todos os ciclos de atividade magnética do \nSol têm sido registrados.\nDisponível em: http://g1.globo.com. Acesso em: 27 fev. 2013.\nNo ano de 2101, o Sol estará no ciclo de atividade \nmagnética de número\nA\t 32.\nB\t 34.\nC\t 33.\nD\t 35.\nE\t 31.",
+  "processado_em": "2026-05-08T14:00:24.049467",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

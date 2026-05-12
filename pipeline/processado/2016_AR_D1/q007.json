@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CH - 1º dia | Caderno 1 - AZUL - Página 3\nQUESTÃO 07\t\nTEXTO I \nTradução: “As mulheres do futuro farão da Lua um \n lugar mais limpo para se viver”.\nDisponível em: www.propagandashistoricas.com.br. Acesso em: 16 out. 2015.\nTEXTO II \nMetade da nova equipe da Nasa  \né composta por mulheres\nAté hoje, cerca de 350 astronautas americanos \njá estiveram no espaço, enquanto as mulheres não \nchegam a ser um terço desse número. Após o anúncio \nda turma composta 50% por mulheres, alguns internautas \nescreveram comentários machistas e desrespeitosos \nsobre a escolha nas redes sociais.\nDisponível em: https://catracalivre.com.br. Acesso em: 10 mar. 2016.\nA comparação entre o anúncio publicitário de 1968 e a \nrepercussão da notícia de 2016 mostra a\nA\t elitização da carreira científica.\nB\t qualificação da atividade doméstica.\nC\t ambição de indústrias patrocinadoras.\nD\t manutenção de estereótipos de gênero.\nE\t equiparação de papéis nas relações familiares.",
+  "processado_em": "2026-05-08T14:01:02.662022",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

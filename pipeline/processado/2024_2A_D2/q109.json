@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 109\t\nA transferência de calor por radiação pode ser \nobservada realizando-se a experiência de colocar a \nmesma quantidade de água quente em dois copos \nmetálicos com as mesmas características, sendo que a \nsuperfície externa de um deles é pintada de preto (copo 1), \ne a do outro é espelhada (copo 2). Sabe-se que todo \nmaterial emite e absorve energia radiante e que bons \nemissores são também bons absorvedores dessa energia.\nAo se colocar um termômetro dentro de cada copo observa-se, \napós alguns minutos, que a temperatura da água\nA\tdos dois copos diminui igualmente.\nB\tdo copo 1 diminui, e a do copo 2 permanece a mesma.\nC\tdo copo 2 diminui, e a do copo 1 permanece a mesma.\nD\tdo copo 1 diminui mais rapidamente do que a do copo 2.\nE\tdo copo 2 diminui mais rapidamente do que a do copo 1.",
+  "processado_em": "2026-05-08T14:06:00.739517",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

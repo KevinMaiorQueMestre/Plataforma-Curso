@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nO gerente de uma empresa sabe que 70% de seus \nfuncionários são do sexo masculino e foi informado de \nque a porcentagem de empregados fumantes nessa \nempresa é de 5% dos homens e de 5% das mulheres. \nSelecionando, ao acaso, a ficha de cadastro de um dos \nfuncionários, verificou tratar-se de um fumante.\nQual a probabilidade de esse funcionário ser do sexo \nfeminino?\nA\t 50,0%\nB\t 30,0%\nC\t 16,7%\nD\t 5,0%\nE\t 1,5%",
+  "processado_em": "2026-05-11T23:26:23.853496",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

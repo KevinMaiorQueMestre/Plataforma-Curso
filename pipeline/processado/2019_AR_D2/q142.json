@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 142\t\nNos seis cômodos de uma casa há sensores de presença posicionados de forma que a luz de cada cômodo \nacende assim que uma pessoa nele adentra, e apaga assim que a pessoa se retira desse cômodo. Suponha que o \nacendimento e o desligamento sejam instantâneos.\nO morador dessa casa visitou alguns desses cômodos, ficando exatamente um minuto em cada um deles. \nO gráfico descreve o consumo acumulado de energia, em watt × minuto, em função do tempo t, em minuto, das \nlâmpadas de LED dessa casa, enquanto a figura apresenta a planta baixa da casa, na qual os cômodos estão \nnumerados de 1 a 6, com as potências das respectivas lâmpadas indicadas.\nEnergia (W⋅min)\nTempo (min)\n(0 ; 0)\n(1 ; 20)\n(2 ; 35)\n(3 ; 40)\n(4 ; 55)\n(5 ; 75)\n(6 ; 85)\n(7 ; 105)\n(8 ; 120)\n1\n2\n4\n5\n6\n3\nQUARTO\n(13 W)\nSALA\n(20 W)\nBANHO\n(2 W)\nBANHO\n(5 W)\nCOZINHA\n(10 W)\nENTRADA\nSUÍTE\n(15 W)\nA sequência de deslocamentos pelos cômodos, conforme o consumo de energia apresentado no gráfico, é\nA 1\n4\n5\n4\n1\n6\n1\n4\n→\n→\n→\n→\n→\n→\n→\nB 1\n2\n3\n1\n4\n1\n4\n4\n→\n→\n→\n→\n→\n→\n→\nC 1\n4\n5\n4\n1\n6\n1\n2\n3\n→\n→\n→\n→\n→\n→\n→\n→\nD 1\n2\n3\n5\n4\n1\n6\n1\n4\n→\n→\n→\n→\n→\n→\n→\n→\nE 1\n4\n2\n3\n5\n1\n6\n1\n4\n→\n→\n→\n→\n→\n→\n→\n→",
+  "processado_em": "2026-05-11T23:27:35.679706",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

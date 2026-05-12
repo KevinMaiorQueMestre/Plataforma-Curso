@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nDois operários deslizam uma pedra, para cima, sob\nUm deles puxa a pedra utilizando uma corda, enquanto o\na pedra desliza sobre a posição B, apesar da força de at\ndeslizam nas posições A e C, por causa, respectivamente\nA\nN\nO diagrama que representa os sentidos das forças de atrito \nA\nA\nB\nC\nfA\nfB\nfC\nB\nA\nB\nC\nfB\nfC\nfA\nC\nA\nB\nC\nfB\nfC\nfA\nD\nA\nB\nC\nfB\nfC\nfA\nE\nA\nB\nC\nfB\nfC\nfA",
+  "processado_em": "2026-05-08T14:05:24.514234",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

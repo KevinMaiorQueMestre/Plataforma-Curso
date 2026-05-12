@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 95\t\nA industrialização, o crescimento populacional e a demanda por mais alimentos, bem como o aumento da frota veicular, \nentre outros, geram resíduos poluentes classificados como primários ou secundários. Os primários são aqueles lançados \ndiretamente no ar, e muitos deles reagem com alguns componentes existentes na atmosfera (oxigênio, vapor de água, entre \noutros) originando os poluentes secundários.\nDisponível em: https://essentiaeditora.iff.edu.br. Acesso em: 9 dez. 2021 (adaptado).\nQual poluente primário, em contato com o ar, origina um poluente secundário altamente corrosivo?\nA\tMetano.\nB\tClorofluorcarbono.\nC\tDióxido de enxofre.\nD\tDióxido de carbono.\nE\tMonóxido de carbono.",
+  "processado_em": "2026-05-11T23:29:46.688078",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

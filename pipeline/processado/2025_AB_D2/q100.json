@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 100\t\nNo mundo animal, quando comparamos machos e fêmeas \nde uma mesma espécie, muitas vezes observamos diferenças \nmarcantes entre eles. Em algumas espécies de aves, os machos, \nem relação às fêmeas, apresentam estrutura corpórea mais \navantajada, plumagem com cores mais chamativas, até mesmo \ndiferentes acessórios distribuídos pelo corpo.\nO texto caracteriza qual conceito biológico?\nA\tCamuflagem.\nB\tMetamorfose.\nC\tDimorfismo sexual.\nD\tDivergência evolutiva.\nE\tIsolamento reprodutivo.",
+  "processado_em": "2026-05-08T14:06:49.951986",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

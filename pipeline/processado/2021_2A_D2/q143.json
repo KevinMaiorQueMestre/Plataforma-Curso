@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 143\nUm brinquedo muito comum em parques de \n\u000f\u000e#\n\u0007\t\u0011\n\t\u0002{\u0002\u0004\u0002!\b2\b\u0005'\u0004(\u0002\u0017\u0002\b\t\t\n\u0005\r\u0004\u0002\u000f\n\u0002\f\u0010\u0002!\b2\b\u0005'\u0004\u0002\u0006\u001e\b\u0002\b\u0002\n\f\u0010\b\u0002\b2\r\f\u0007\b\u0002\u000f\n\u0002\u0010\n\u000e\u0004\u0002\u0010\n\r\u0007\u0004\u0002\u000f\u0004\u0002\u001e+\u001d\u0004$\u0002\u000b\f\b\u0005\u000f\u0004\u0002\u0005\u001d\u0004\u0002\n\t\r?\u0002\n\u0010\u0002\nuso. Cada uma das correntes que o sustenta tem medida \ndo comprimento, em metro, indicada por x. A estrutura do \nbalanço é feita com barras de ferro, nas dimensões, em \n\u0010\n\r\u0007\u0004$\u0002\u001e\u0004\u0005P\u0004\u0007\u0010\n\u0002\b\u0002\u0006J\f\u0007\b(\n0,5 m\n3 m\n2 m\n3 m\nx\nNessas condições, o valor, em metro, de x é igual a\nA  \n2 \u0002 0,5\nB  1,5\nC  \n8 \u0002 0,5\nD  \n10 \u0002 0,5\nE  \n8",
+  "processado_em": "2026-05-08T14:04:15.677757",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

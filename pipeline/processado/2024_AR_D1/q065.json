@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 65\t\nComo conclusão provisória, parece então que a \nglobalização tem, sim, o efeito de contestar e deslocar \nas identidades centradas e “fechadas” de uma cultura \nnacional. Ela tem um efeito pluralizante sobre as identidades, \nproduzindo uma variedade de possibilidades e novas posições \nde identificação, e tornando as identidades mais posicionais, \nmais políticas, mais plurais e diversas; menos fixas, unificadas \nou trans-históricas.\nHALL, S. A identidade cultural na pós-modernidade. \nRio de Janeiro: DP&A, 2011.\nDe acordo com o texto, o processo apresentado contribuiu \npara\nA\televar a renda da população.\nB\tabandonar os valores morais.\nC\testabelecer a igualdade racial.\nD\tfortalecer as pautas das minorias.\nE inverter os fluxos das migrações",
+  "processado_em": "2026-05-08T14:06:13.407530",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

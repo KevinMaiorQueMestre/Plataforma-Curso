@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nCapítulo LIV — A pêndula\nSaí dali a saborear o beijo. Não pude dormir; estirei-\nme na cama, é certo, mas foi o mesmo que nada. Ouvi \nas horas todas da noite. Usualmente, quando eu perdia o \nsono, o bater da pêndula fazia-me muito mal; esse tique-\ntaque soturno, vagaroso e seco parecia dizer a cada \ngolpe que eu ia ter um instante menos de vida. Imaginava \nentão um velho diabo, sentado entre dois sacos, o da vida \ne o da morte, e a contá-las assim:\n— Outra de menos...\n— Outra de menos...\n— Outra de menos...\n— Outra de menos...\nO mais singular é que, se o relógio parava, eu dava-\nlhe corda, para que ele não deixasse de bater nunca, e \neu pudesse contar todos os meus instantes perdidos. \nInvenções há, que se transformam ou acabam; as \nmesmas instituições morrem; o relógio é definitivo e \nperpétuo. O derradeiro homem, ao despedir-se do sol frio \ne gasto, há de ter um relógio na algibeira, para saber a \nhora exata em que morre",
+  "processado_em": "2026-05-08T14:00:21.674638",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

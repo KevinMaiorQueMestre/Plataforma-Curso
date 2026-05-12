@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 42\t\nFim de semana no parque\nOlha o meu povo nas favelas e vai perceber\nDaqui eu vejo uma caranga do ano\nToda equipada e o tiozinho guiando\nCom seus filhos ao lado estão indo ao parque\nEufóricos brinquedos eletrônicos\nAutomaticamente eu imagino\nA molecada lá da área como é que tá\nProvavelmente correndo pra lá e pra cá\nJogando bola descalços nas ruas de terra\nÉ brincam do jeito que dá",
+  "processado_em": "2026-05-11T23:25:40.024259",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

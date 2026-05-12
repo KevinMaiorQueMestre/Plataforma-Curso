@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nPara se adequar às normas ambientais atuais, as \nconstrutoras precisam prever em suas obras a questão \ndo uso de materiais de modo a minimizar os impactos \ncausados no local. Entre esses materiais está o chamado \nconcregrama ou pisograma, que é um tipo de revestimento \ncomposto por peças de concreto com áreas vazadas, \npreenchidas com solo gramado. As figuras apresentam \nessas duas formas de piso feitos de concreto.\nPiso tradicional \nde concreto\nPiso concregrama\nGrama\nGrama\nGrama\nGrama\nPONTES, K. L. F. Estudo de caso de um protótipo experimental [...]. \nDisponível em: http://monografias.poli.ufrj.br. Acesso em: 9 maio 2017 (adaptado).\nA utilização desse tipo de piso em uma obra tem o objetivo \nde evitar, no solo, a\nA\t impermeabilização.\nB\t diminuição da temperatura.\nC\t acumulação de matéria orgânica.\nD\t alteração do pH.\nE\t salinização.",
+  "processado_em": "2026-05-11T23:25:50.799196",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

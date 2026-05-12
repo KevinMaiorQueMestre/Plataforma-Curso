@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\n$\u0003 XWLOL]DomR\u0003 GH\u0003 H[WUDWRV\u0003 GH\u0003 RULJHP\u0003 QDWXUDO\u0003 WHP\u0003\nUHFHELGR\u0003D\u0003DWHQomR\u0003GH\u0003SHVTXLVDGRUHV\u0003HP\u0003WRGR\u0003R\u0003PXQGR\u000f\u0003\nprincipalmente nos países em desenvolvimento que \nVmR\u0003 DOWDPHQWH\u0003 DFRPHWLGRV\u0003 SRU\u0003 GRHQoDV\u0003 LQIHFFLRVDV\u0003 H\u0003\nSDUDVLWiULDV\u0011\u0003 8P\u0003 ERP\u0003 H[HPSOR\u0003 GHVVD\u0003 XWLOL]DomR\u0003 VmR\u0003 RV\u0003\nprodutos de origem botânica que combatem insetos.\nO uso desses produtos pode auxiliar no controle da\nA esquistossomose.\nB leptospirose.\nC leishmaniose.\nD hanseníase.\nE aids.",
+  "processado_em": "2026-05-11T23:26:47.211662",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

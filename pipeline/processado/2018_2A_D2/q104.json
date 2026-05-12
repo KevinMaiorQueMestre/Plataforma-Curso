@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 104\t\nUm piloto testa um carro em uma reta longa de um \nautódromo. A posição do carro nessa reta, em função do \ntempo, está representada no gráfico.\nTempo\nPosição\nN\nM\nL\nK\nOs pontos em que a velocidade do carro é menor e maior \nsão, respectivamente,\nA\t K e M.\nB\t N e K.\nC\t M e L.\nD\t N e L.\nE\t N e M.",
+  "processado_em": "2026-05-11T23:26:20.595605",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

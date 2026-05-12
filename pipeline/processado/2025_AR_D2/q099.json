@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 99\t\nA deficiência da enzima lipase ácida causa uma doença em \nque o portador apresenta células que não degradam colesterol \nesterificado nem triglicerídeos, resultando no depósito desses \ncompostos em diversos órgãos, principalmente no fígado.\nANDERSON, R. A. et al. In Situ Localization of the \nGenetic Locus Encoding [...]. Genomics, \nn. 1, jan. 1993 (adaptado).\nEssa doença resulta da insuficiência funcional de qual estrutura \ncelular?\nA\tLisossomos.\nB\tRibossomos.\nC\tMitocôndrias.\nD\tPeroxissomos.\nE\tRetículo endoplasmático liso.",
+  "processado_em": "2026-05-08T14:07:04.918037",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

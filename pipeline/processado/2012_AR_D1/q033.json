@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 33\t\nUma mesma empresa pode ter sua sede \nadministrativa onde os impostos são menores, as \nunidades de produção onde os salários são os mais \nbaixos, os capitais onde os juros são os mais altos \ne seus executivos vivendo onde a qualidade de vida \né mais elevada.\nSEVCENKO, N. A corrida para o século XXI: no loop da montanha russa. \nSão Paulo: Companhia das Letras, 2001 (adaptado).\nNo texto estão apresentadas estratégias empresariais \nno contexto da globalização. Uma consequência social \nderivada dessas estratégias tem sido\nA\t o crescimento da carga tributária.\nB\t o aumento da mobilidade ocupacional.\nC\t a redução da competitividade entre as empresas.\nD\t o direcionamento das vendas para os mercados \nregionais.\nE\t a ampliação do poder de planejamento dos \nEstados nacionais.",
+  "processado_em": "2026-05-08T13:59:02.003867",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

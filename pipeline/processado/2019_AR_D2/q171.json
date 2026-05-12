@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 171\t\nConstruir figuras de diversos tipos, apenas \ndobrando e cortando papel, sem cola e sem tesoura, é \na arte do origami (ori = dobrar; kami = papel), que tem \num significado altamente simbólico no Japão. A base \ndo origami é o conhecimento do mundo por base do \ntato. Uma jovem resolveu construir um cisne usando \na técnica do origami, utilizando uma folha de papel de \n18 cm por 12 cm. Assim, começou por dobrar a folha \nconforme a figura.\nApós essa primeira dobradura, a medida do segmento \nAE é\nA\n2 22 cm.\nB\n6 3 cm.\nC\n12 cm.\nD\n6 5 cm.\nE\n12 2 cm.\nA\nE\nC\nB\n18 cm\n12 cm\nD\n12 cm",
+  "processado_em": "2026-05-11T23:27:37.933265",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

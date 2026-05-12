@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 29\t\nA rede é, antes de tudo, um instrumento de \ncomunicação entre pessoas, um laço virtual em que \nas comunidades auxiliam seus membros a aprender o \nque querem saber. Os dados não representam senão a \nmatéria-prima de um processo intelectual e social vivo, \naltamente elaborado. Enfim, toda inteligência coletiva \ndo mundo jamais dispensará a inteligência pessoal, o \nesforço individual e o tempo necessário para aprender, \npesquisar, avaliar e integrar-se a diversas comunidades, \nsejam elas virtuais ou não. A rede jamais pensará em \nseu lugar, fique tranquilo.\nLÉVY, P. A máquina universo: criação, cognição e cultura \ninformática. Porto Alegre: Artmed, 1998.\nNo contexto das novas tecnologias de informação e \ncomunicação, a circulação de saberes depende da\nA\t otimização do tempo.\nB\t confiabilidade dos sites.\nC\t contribuição dos usuários.\nD\t quantidade de informação.\nE\t colaboração de intelectuais.",
+  "processado_em": "2026-05-11T23:27:22.795934",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

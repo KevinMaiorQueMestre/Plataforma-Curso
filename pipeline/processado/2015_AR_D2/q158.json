@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nO HPV é uma doença sexualmente transmissível. \nUma vacina com eficácia de 98% foi criada com o objetivo \nde prevenir a infecção por HPV e, dessa forma, reduzir o \nnúmero de pessoas que venham a desenvolver câncer de \ncolo de útero. Uma campanha de vacinação foi lançada \nem 2014 pelo SUS, para um público-alvo de meninas \nde 11 a 13 anos de idade. Considera-se que, em uma \npopulação não vacinada, o HPV acomete 50% desse \npúblico ao longo de suas vidas. Em certo município, \na equipe coordenadora da campanha decidiu vacinar \nmeninas entre 11 e 13 anos de idade em quantidade \nsuficiente para que a probabilidade de uma menina nessa \nfaixa etária, escolhida ao acaso, vir a desenvolver essa \ndoença seja, no máximo, de 5,9%. Houve cinco propostas \nde cobertura, de modo a atingir essa meta:\nProposta I: vacinação de 90% do público-alvo.\nProposta II: vacinação de 55,8% do público-alvo.\nProposta III: vacinação de 88,2% do público-alvo.\nProposta IV: vacinação de 49% do público-alvo.\nProposta V: vacinação de 95,9% do público-alvo.\nPara diminuir os custos, a proposta escolhida deveria \nser também aquela que vacinasse a menor quantidade \npossível de pessoas.\nDisponível em: www.virushpv.com.br. Acesso em: 30 ago. 2014 (adaptado).\nA proposta implementada foi a de número\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-08T14:00:57.532350",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

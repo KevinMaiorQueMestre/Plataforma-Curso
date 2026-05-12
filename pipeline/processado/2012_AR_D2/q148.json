@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 148\t\nJorge quer instalar aquecedores no seu salão \nde beleza para melhorar o conforto dos seus clientes \nno inverno. Ele estuda a compra de unidades de dois \ntipos de aquecedores: modelo A, que consome 600 g/h \n(gramas por hora) de gás propano e cobre 35 m2 de área, \nou modelo B, que consome 750 g/h de gás propano e \ncobre 45 m2 de área. O fabricante indica que o aquecedor \ndeve ser instalado em um ambiente com área menor do \nque a da sua cobertura. Jorge vai instalar uma unidade \npor ambiente e quer gastar o mínimo possível com gás. \nA área do salão que deve ser climatizada encontra-se \nna planta seguinte (ambientes representados por três \ntâ\nl\nt\né i )",
+  "processado_em": "2026-05-08T13:59:49.806750",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

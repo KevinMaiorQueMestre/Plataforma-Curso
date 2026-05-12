@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 144\nUma indústria recortou uma placa de metal no \nformato triangular ABC, conforme Figura 1, com lados \n18, 14 e 12 cm.\nPosteriormente, a peça triangular ABC foi dobrada, \nde tal maneira que o vértice B\u0002\u0006\u001e\u0004\f\u0002\t\u0004!\u0007\n\u0002\u0004\u0002\t\nJ\u0010\n\u0005\r\u0004\u0002\nAC, e o segmento DE\u0002\u0006\u001e\u0004\f\u0002%\b\u0007\b2\n2\u0004\u0002\b\u0004\u00022\b\u000f\u0004\u0002AC, conforme \nFigura 2.\nA\nC\nB\nFigura 1\nA\nC\nD\nE\nB\nFigura 2\n\u001a\b!\n/\t\n\u0002\u000b\f\n$\u0002\u0005\b\u00024\u000eJ\f\u0007\b\u0002$\u0002\u0004\u0002\u0005J\f2\u0004\u0002\u0004\u0005\u0006 é menor que \no ângulo CÂB e este é menor que o ângulo ABˆ C, e que \nos cortes e dobraduras foram executados corretamente \npelas máquinas.\nNessas condições, qual é o valor  da soma dos \ncomprimentos, em centímetro, dos segmentos DB, BE e \nEC?\nA  19\nB  20\nC  21\nD  23\nE  24",
+  "processado_em": "2026-05-08T14:04:15.738208",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

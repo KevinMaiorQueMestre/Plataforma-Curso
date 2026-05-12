@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 43\t\nTEXTO I\nA fotografia de Regina Valkenborgh apresenta \n2 953 arcos de luz cruzando o céu e registra o nascer e o pôr \ndo sol ao longo de oito anos. Em 2012, essa estudante da \nUniversidade de Hertfordshire colocou uma folha de papel \nfotográfico em uma lata com um pequeno orifício, criando \nassim uma câmera pinhole de baixa tecnologia. Porém, \na lata foi esquecida em um telescópio no observatório da \nuniversidade. Esse projeto esquecido acabou revelando a \nfoto do pôr do sol de maior exposição já tirada.\nSANTOS, A. Disponível em: https://socientifica.com.br. \n Acesso em: 13 nov. 2021 (adaptado).\nTEXTO II\nRepresentação de 2 953 arcos de luz cruzando o céu, \nregistrando o nascer e o pôr do sol ao longo de oito anos\nVALKENBORGH, R. Fotografia. Reino Unido: \nUniversidade Hertfordshire (2012-2020).\nDisponível em: www.thisiscolossal.com. Acesso em: 1 nov. 2022.\nO experimento realizado por Regina Valkenborgh resultou \nno entendimento de que a\nA\ttécnica fotográfica alternativa limita o registro de imagens.\nB\tapreciação da natureza depende de registro fotográfico.\nC\tcriatividade artística decorre do conhecimento científico.\nD\tcâmera de criação caseira tem valor tecnológico.\nE\tprodução artística pode ser resultado do acaso.",
+  "processado_em": "2026-05-08T14:06:11.562887",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

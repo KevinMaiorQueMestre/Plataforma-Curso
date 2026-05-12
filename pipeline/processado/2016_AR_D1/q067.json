@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nPrimeiro, em relação àquilo a que chamamos água, \nquando congela, parece-nos estar a olhar para algo \nque se tornou pedra ou terra, mas quando derrete e se \ndispersa, esta torna-se bafo e ar; o ar, quando é queimado, \ntorna-se fogo; e, inversamente, o fogo, quando se contrai \ne se extingue, regressa à forma do ar; o ar, novamente \nconcentrado e contraído, torna-se nuvem e nevoeiro, mas, \na partir destes estados, se for ainda mais comprimido, \ntorna-se água corrente, e de água torna-se novamente \nterra e pedras; e deste modo, como nos parece, dão \ngeração uns aos outros de forma cíclica.\nPLATÃO. Timeu-Crítias. Coimbra: CECH, 2011.\nDo ponto de vista da ciência moderna, os “quatro \nelementos” descritos por Platão correspondem, na \nverdade, às fases sólida, líquida, gasosa e plasma da \nmatéria. As transições entre elas são hoje entendidas \ncomo consequências macroscópicas de transformações \nsofridas pela matéria em escala microscópica.\nExcetuando-se a fase de plasma, essas transformações \nsofridas pela matéria, em nível microscópico, estão \nassociadas a uma\nA\t troca de átomos entre as diferentes moléculas do \nmaterial.\nB\t transmutação nuclear dos elementos químicos do \nmaterial.\nC\t redistribuição de prótons entre os diferentes átomos \ndo material.\nD\t mudança na estrutura espacial formada pelos \ndiferentes constituintes do material.\nE\t alteração nas proporções dos diferentes isótopos de \ncada elemento presente no material.",
+  "processado_em": "2026-05-08T14:01:09.643847",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

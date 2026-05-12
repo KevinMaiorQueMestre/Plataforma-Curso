@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\t\nUm pesquisador investigou o papel da predação \npor peixes na densidade e tamanho das presas, como \npossível controle de populações de espécies exóticas \nem costões rochosos. No experimento colocou uma tela \nsobre uma área da comunidade, impedindo o acesso dos \npeixes ao alimento, e comparou o resultado com uma \nárea adjacente na qual os peixes tinham acesso livre. \nO quadro apresenta os resultados encontrados após \n15 dias de experimento.\nEspécie\nexótica\nÁrea com tela\nÁrea sem tela\nDensidade \n(indivíduos/\nm²)\nTamanho \nmédio dos \nindivíduos \n(cm)\nDensidade \n(indivíduos/\nm²)\nTamanho \nmédio dos\nindivíduos \n(cm)\nAlga\n100\n15\n110\n18\nCraca\n300\n2\n150\n1,5\nMexilhão\n380\n3\n200\n6\nAscídia\n55\n4\n58\n3,8\nO pesquisador concluiu corretamente que os peixes \ncontrolam a densidade dos(as)\nA\t algas, estimulando seu crescimento.\nB\t cracas, predando especialmente animais pequenos.\nC\t mexilhões, predando especialmente animais pequenos.\nD\t quatro espécies testadas, predando indivíduos \npequenos.\nE\t ascídias, apesar de não representarem os menores \norganismos.",
+  "processado_em": "2026-05-08T14:01:09.235614",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

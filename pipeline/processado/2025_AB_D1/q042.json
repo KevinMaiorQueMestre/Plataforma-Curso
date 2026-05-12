@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 42\t\nCARTIER-BRESSON, H. Atrás da estação de Saint-Lazare. Fotografia \nem preto e branco (lente 35 mm), 44,8 × 29,8 cm. Paris, 1932.\nDisponível em: http://100photos.time.com. Acesso em: 19 jun. 2019.\nNessa fotografia, há um diálogo visual entre diversos elementos \nda cena. Com esse tipo de composição, Henri Cartier-Bresson \nrevolucionou a fotografia do século XX ao\nA\tpriorizar o reflexo de imagens do cotidiano na construção \nda simetria.\nB\ttransformar paisagens e pessoas comuns em composições \nartísticas.\nC\tabandonar o estúdio como espaço de trabalho artístico.\nD\tvisibilizar populações marginalizadas das cidades.\nE\tregistrar corpos e objetos em movimento.",
+  "processado_em": "2026-05-08T14:06:44.866104",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

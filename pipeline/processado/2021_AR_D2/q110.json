@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 110   \n\u0012\u0002\u001e\f\u0007\u001e\f\u0010\u000e\u0005\b$\u0002\f\u0010\b\u0002\u000f\b\t\u0002\t\f!\t\r\u0005\u001e\u000e\b\t\u0002\u000b\f\n\u0002\u001e\u0004\u0005P\n\u0007\n\u0002\b\u0002\u001e\u0004\u0007\u0002\n\u000b\f\b\u0005\u000f\u0004\u0002\b\u000f\u000e\u001e\u000e\u0004\u0005\b\u000f\b\u0002*\u0002?J\f\b\u0002\u000f\n\u0002\u001e\u0007\u000e\b\u000f\u0004\f\u0007\u0004\t\u0002\u000f\u0004\u0002\u0010\u0004\t\u000b\f\u000e\r\u0004\u0002\r\u0007\b\u0005\t\n\b%B\t\u0002\t\n\u0007\u0002\u000e\u0005J\n\u0007\u000e\u000f\b\u0002\u001e\u0004\u0010\u0002\b\u0002?J\f\b\u0002\u000f\u0004\u0002\u001e\u0007\u000e\b\u000f\u0004\f\u0007\u0004\u0002\n$\u0002\u000b\f\b\u0005\u000f\u0004\u0002\b\r\n\u0004@\u000eJ>\u0005\u000e\u0004\u0002\u000b\f\n\u0002\u000f\b\u0005\u000e\u0006\u001e\b\u0010\u0002\u000f\n\u0002P\u0004\u0007\u0010\b\u0002P\b\r\b2\u0002\u0004\u0002\r\n\u001e\u000e\u000f\u0004\u0002\u000f\u0004\u0002\r\f!\u0004\u0002\u000f\u000eJ\nTOLEDO, K. Corante extraído do açafrão pode ser útil no co\nA forma de combate relatada tem como atividade o(a)\nA morte do indivíduo adulto.\nB \u0007\n\u000f\f'\u001d\u0004\u0002\u000f\b\u0002\n\u001e2\u0004\t\u001d\u0004\u0002\u000f\u0004\t\u0002\u0004#\u0004\t(\nC comprometimento da metamorfose.\nD impedimento do desenvolvimento da larva.\nE repelência da forma transmissora da doença.",
+  "processado_em": "2026-05-08T14:04:29.261979",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nTEXTO I\nSILVEIRA, R. In absentia, 1983. Instalação, 17ª Bienal de São Paulo.\nDisponível em: www.bienal.org.br. Acesso em: 1 set. 2016 (adaptado).",
+  "processado_em": "2026-05-08T14:05:00.844847",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

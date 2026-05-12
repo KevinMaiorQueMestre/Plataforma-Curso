@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nA Agência Espacial Norte Americana (NASA) \ninformou que o asteroide YU 55 cruzou o espaço entre a \nTerra e a Lua no mês de novembro de 2011. A ilustração a \nseguir sugere que o asteroide percorreu sua trajetória no \nmesmo plano que contém a órbita descrita pela Lua em \ntorno da Terra. Na figura, está indicada a proximidade do \nasteroide em relação à Terra, ou seja, a menor distância \nque ele passou da superfície terrestre.\nDisponível em: http://noticias.terra.com.br (adaptado).\nCom base nessas informações, a menor distância que o \nasteroide YU 55 passou da superfície da Terra é igual a\nA\t 3,25 × 102 km.\nB\t 3,25 × 103 km.\nC\t 3,25 × 104 km.\nD\t 3,25 × 105 km.\nE\t 3,25 × 106 km.",
+  "processado_em": "2026-05-08T13:59:15.433687",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

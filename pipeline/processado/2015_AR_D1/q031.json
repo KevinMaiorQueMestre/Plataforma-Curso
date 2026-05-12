@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 31\t\nSUERTEGARAY, D. M. A. (Org.).Terra: feições ilustradas. \nPorto Alegre: EdUFRGS, 2003 (adaptado).\nA imagem representa o resultado da erosão que ocorre \nem rochas nos leitos dos rios, que decorre do processo \nnatural de\nA\t fraturamento geológico, derivado da força dos \nagentes internos.\nB\t solapamento de camadas de argilas, transportadas \npela correnteza.\nC\t movimento circular de seixos e areias, arrastados por \náguas turbilhonares.\nD\t decomposição das camadas sedimentares, resultante \nda alteração química.\nE\t assoreamento no fundo do rio, proporcionado pela \nh\nd\nd\nt\ni l\ndi\nt",
+  "processado_em": "2026-05-08T14:00:44.861594",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

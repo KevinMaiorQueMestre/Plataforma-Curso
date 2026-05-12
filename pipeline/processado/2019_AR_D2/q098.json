@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 98\t\nO odor que permanece nas mãos após o contato com \nalho pode ser eliminado pela utilização de um “sabonete \nde aço inoxidável”, constituído de aço inox (74%), cromo \ne níquel. A principal vantagem desse “sabonete” é que \nele não se desgasta com o uso. Considere que a principal \nsubstância responsável pelo odor de alho é a alicina \n(estrutura I) e que, para que o odor seja eliminado, ela \nseja transformada na estrutura II.\nO\nS\nS\nEstrutura I\nCH2 ═ CH — CH2 — S — S — CH2 — CH ═ CH2\n \n Estrutura II\nNa conversão de I em II, o  “sabonete” atuará como um\nA\t ácido.\nB\t redutor.\nC\t eletrólito.\nD\t tensoativo.\nE\t catalisador.",
+  "processado_em": "2026-05-11T23:27:32.612467",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

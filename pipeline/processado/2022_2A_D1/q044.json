@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nO sucesso das redes sociais é fruto da combinação \ninteligente da capacidade de interagir dentro de uma \nmesma página da internet e do uso de sistemas de \navaliação. \nExistem \nduas \ndinâmicas \npsicossociais \nlegitimando tais recursos de avaliação. Na primeira, \nalguém produz conteúdo e é recompensado com essas \nreações. Já na segunda dinâmica, a produção de \nconteúdo serve de balão de ensaio para a vida off-line.\nPrazer e aprendizado são, portanto, as duas \npromessas originais das redes sociais (anteriores à \nmonetização), nas quais os algoritmos de recomendação \nprometem reduzir o tempo e a energia para encontrar \naquilo que interessa a cada um, no mar de opções \ndisponibilizadas, levando a situação a outro patamar, \npela exposição reiterada dos usuários aos conteúdos que \nagravam sua ansiedade.\nAssim, por exemplo, pessoas que estão insatisfeitas \ncom o seu corpo fazem buscas que refletem esse \ndesconforto, procurando postagens relacionadas a essa \ntemática. O algoritmo, então, passa a recomendar cada \nvez mais conteúdos nessa linha e, o que é pior, a convergir \npara os mais extremos, já que estes tendem a fixar mais \na atenção. Em pouco tempo, o usuário “desconfortável” \nestá sendo bombardeado por vídeos que elevam em \nmuito o seu pessimismo e que muitas vezes servem de \ncaminho à anorexia, à bulimia e à depressão.\nDIAS, A. M. Disponível em: www.uol.com.br. Acesso em: 5 nov. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:04:40.368386",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 175\t\nUma empresa sorteia prêmios entre os funcionários \ncomo reconhecimento pelo tempo trabalhado. A tabela \nmostra a distribuição de frequência de 20 empregados \ndessa empresa que têm de 25 a 35 anos trabalhados. \nA empresa sorteou, entre esses empregados, uma \nviagem de uma semana, sendo dois deles escolhidos \naleatoriamente.\nTempo de serviço\nNúmero de empregados\n25\n4\n27\n1\n29\n2\n30\n2\n32\n3\n34\n5\n35\n3\nQual a probabilidade de que ambos os sorteados tenham \n34 anos de trabalho?\nA\n1\n20\nB\n1\n19\nC\n1\n16\nD\n2\n20\nE\n5\n20",
+  "processado_em": "2026-05-11T23:27:13.770130",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

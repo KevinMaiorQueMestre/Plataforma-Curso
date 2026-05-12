@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nSe a interferência de contas falsas em discussões \npolíticas nas redes sociais já representava um perigo \npara os sistemas democráticos, sua sofisticação e maior \nsemelhança com pessoas reais têm agravado o problema \npelo mundo.\nO perigo cresceu porque a tecnologia e os métodos \nevoluíram dos robôs, os “bots” — softwares com tarefas \non-line automatizadas —, para os “ciborgues” ou “trolls”, \ncontas controladas diretamente por humanos com ajuda \nde um pouco de automação.\nMas pesquisadores começam agora a observar outros \npadrões de comportamento: quando mensagens não são \nprogramadas, sua publicação se concentra só em horários \nde trabalho, já que é controlada por pessoas cuja profissão \né exatamente essa, administrar um perfil falso durante o dia.\nOutra pista: a pobreza vocabular das mensagens \npublicadas por esses perfis. Um funcionário de uma \nempresa que supostamente produzia e vendia perfis \nfalsos explica que às vezes “faltava criatividade” para criar \nmensagens distintas controlando tantos perfis falsos ao \nmesmo tempo.\nGRAGNANI, J. Disponível em: www.bbc.com. Acesso em: 16 dez. 2017.",
+  "processado_em": "2026-05-08T14:05:34.480104",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

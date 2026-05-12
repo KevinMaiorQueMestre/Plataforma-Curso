@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 14\t\nDisponível em: www.publishnews.com.br. Acesso em: 19 set. 2024.\nNesse cartaz publicitário, os recursos verbais e não verbais \nconstroem um argumento que objetiva\nA\tdivulgar a obra de Fernando Pessoa no Brasil.\nB\tvalorizar a realização de eventos literários no país.\nC\tressaltar o impacto da leitura na vida das pessoas.\nD\tfomentar o turismo cultural na cidade de São Paulo.\nE evidenciar a influência de Pessoa na literatura brasileira",
+  "processado_em": "2026-05-08T14:06:57.808369",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

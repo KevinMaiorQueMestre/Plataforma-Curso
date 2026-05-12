@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nO comitê organizador da Copa do Mundo 2014 criou \na logomarca da Copa, composta de uma figura plana e \no slogan “Juntos num só ritmo”, com mãos que se unem \nformando a taça Fifa. Considere que o comitê organizador \nresolvesse utilizar todas as cores da bandeira nacional \n(verde, amarelo, azul e branco) para colorir a logomarca, \nde forma que regiões vizinhas tenham cores diferentes.\nDisponível em: www.pt.fifa.com. Acesso em: 19 nov. 2013 (adaptado).\nDe quantas maneiras diferentes o comitê organizador da \nCopa poderia pintar a logomarca com as cores citadas?\nA\t 15\nB\t 30\nC\t 108\nD\t 360\nE\t 972",
+  "processado_em": "2026-05-11T23:25:57.031763",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

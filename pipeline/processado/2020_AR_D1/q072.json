@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 72          \nMontaigne deu o nome para um novo gênero \nliterário; foi dos primeiros a instituir na literatura \nmoderna um espaço privado, o espaço do “eu”, do texto \níntimo. Ele cria um novo processo de escrita filosófica, \nno qual hesitações, autocríticas, correções entram no \npróprio texto.\nCOELHO, M. Montaigne. São Paulo: Publifolha, 2001 (adaptado).\nO novo gênero de escrita aludido no texto é o(a)\nA \t confissão, que relata experiências de transformação.\nB \t ensaio, que expõe concepções subjetivas de um tema.\nC \t carta, que comunica informações para um conhecido.\nD \t meditação, \nque \npropõe \npreparações \npara \no \nconhecimento.\nE \t diálogo, que discute assuntos com diferentes \ninterlocutores.",
+  "processado_em": "2026-05-11T23:28:06.097777",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

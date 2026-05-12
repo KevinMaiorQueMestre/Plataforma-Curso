@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t 120.\nQuestão 117        \nEm uma aula sobre metabolismo energético, \nfoi apresentado um experimento clássico realizado \npor Engelmann. Um recipiente contendo bactérias \naeróbias e uma alga verde filamentosa foi submetido \nà iluminação de uma fonte de luz, representada \npelo microespectro. Após a explicação, um aluno \nesquematizou na lousa o resultado do referido \nexperimento.\nBactérias aeróbias\nFilamento de alga verde\nMicroespectro\nVermelho\nAmarelo\nVerde\nAzul\nAnil\nVioleta\nConsiderando a figura, a faixa do microespectro em que a \nalga possui maior taxa de realização fotossintética é a do:\nA \t Anil.\nB \t Verde.\nC \t Violeta.\nD \t Amarelo.\nE \t Vermelho.",
+  "processado_em": "2026-05-11T23:28:14.178906",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

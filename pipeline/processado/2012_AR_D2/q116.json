@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 116\t\nHAGAR  DIK BROWNE\nVEJA QUANTOS\nTUBARÕES \nESTÃO SEGUINDO\nA GENTE!\nÉ COMO SE ELES\nSOUBESSEM QUE ALGO\nRUIM VAI ACONTECER!\nBROWNE D Folha de S Paulo 13 ago 2011",
+  "processado_em": "2026-05-08T13:59:33.583083",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

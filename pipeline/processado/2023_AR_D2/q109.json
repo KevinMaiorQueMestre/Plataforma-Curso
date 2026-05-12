@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 109\t\nDurante a evolução das plantas, ocorreu uma transição \ndo ambiente aquático para o ambiente terrestre graças ao \nsurgimento de algumas estruturas que as tornaram \nindependentes da água. Esse fato permitiu maior dispersão \ndesse grupo de seres vivos, sendo possível observá-los \nem diferentes ambientes na atualidade.\nQual estrutura possibilitou a independência da água para \na fecundação dos seres vivos citados acima?\nA\t\nA\t Fruto.\nB\t\nB\t Esporo.\nC\t\nC\t Semente.\nD\t\nD\t Tubo polínico.\nE\t\nE\t Vaso condutor.",
+  "processado_em": "2026-05-08T14:05:43.892381",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

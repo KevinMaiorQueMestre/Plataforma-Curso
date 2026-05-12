@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 24\nQUESTÃO 68\t\nPara cada litro de etanol produzido em uma \nindústria de cana-de-açúcar são gerados cerca de 18 L \nde vinhaça que é utilizada na irrigação das plantações \nde cana-de-açúcar, já que contém teores médios de \nnutrientes N, P e K iguais a 357 mg/L, 60 mg/L e 2 034 mg/L, \nrespectivamente.\nSILVA, M. A. S.; GRIEBELER, N. P.; BORGES, L. C. Uso de vinhaça e impactos nas \npropriedades do solo e lençol freático. Revista Brasileira de Engenharia \n Agrícola e Ambiental, n. 1, 2007 (adaptado).\nNa produção de 27 000 L de etanol, a quantidade total \nde fósforo, em kg, disponível na vinhaça será mais \npróxima de\nA\t 1.\nB\t 29.\nC\t 60.\nD\t 170.\nE\t 1 000.",
+  "processado_em": "2026-05-08T14:01:09.674072",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

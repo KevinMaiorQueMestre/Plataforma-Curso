@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nPartículas microscópicas existentes na atmosfera \nfuncionam como núcleos de condensação de vapor de \nágua que, sob condições adequadas de temperatura \ne pressão, propiciam a formação das nuvens e \nconsequentemente das chuvas. No ar atmosférico, tais \npartículas são formadas pela reação de ácidos (HX) \ncom a base NH3, de forma natural ou antropogênica, \ndando origem a sais de amônio (NH4X), de acordo com a \nequação química genérica:\nHX (g) + NH3 (g) → NH4X (s)\nFELIX, E. P.; CARDOSO, A. A. Fatores ambientais que afetam a precipitação úmida. \nQuímica Nova na Escola, n. 21, maio 2005 (adaptado).\nA fixação de moléculas de vapor de água pelos núcleos \nde condensação ocorre por\nA\t ligações iônicas.\nB\t interações dipolo-dipolo.\nC\t interações dipolo-dipolo induzido.\nD\t interações íon-dipolo.\nE\t ligações covalentes.",
+  "processado_em": "2026-05-11T23:25:48.933661",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

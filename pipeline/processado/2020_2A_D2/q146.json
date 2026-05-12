@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 146          \nO governador de um estado propõe a ampliação de \ninvestimentos em segurança no transporte realizado por \nmeio de trens. Um estudo para um projeto de lei prevê que \nse tenha a presença de três agentes mulheres, distribuídas \nentre os 6 vagões de uma composição, de forma que \nduas dessas agentes não estejam em vagões adjacentes, \ngarantindo assim maior segurança aos usuários.\nDisponível em: www.sisgraph.com.br. Acesso em: 29 jan. 2015 (adaptado).",
+  "processado_em": "2026-05-08T14:03:38.360864",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\n1XPD\u0003 WXUPD\u0003 GH\u0003 LQFOXVmR\u0003 GH\u0003 MRYHQV\u0003 H\u0003 DGXOWRV\u0003\nQD\u0003 HGXFDomR\u0003 IRUPDO\u0003 SUR¿VVLRQDO\u0003 \u000b3URHMD\f\u000f\u0003 D\u0003 PpGLD\u0003\naritmética das idades dos seus dez alunos é de 32 anos. \nEm determinado dia, o aluno mais velho da turma faltou e, \ncom isso, a média aritmética das idades dos nove alunos \npresentes foi de 30 anos.\nDisponível em: http://portal.mec.JRY\u0011EU\u0011\u0003$FHVVR\u0003HP\u001d\u0003\u0014\u0013\u0003PDU\u0011\u0003\u0015\u0013\u0014\u0015\u0003\u000bDGDSWDGR\f\u0011\n4XDO\u0003p\u0003D\u0003LGDGH\u0003GR\u0003DOXQR\u0003TXH\u0003IDOWRX\u0003QDTXHOD\u0003WXUPD\"\nA 18\nB 20\nC 31\nD 50\nE 62",
+  "processado_em": "2026-05-11T23:25:30.242876",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

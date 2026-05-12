@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 115\t\nA Caatinga está em risco: estudo revela que 59% da \nvegetação natural desse bioma já sofreram algum tipo \nde modificação por atividades humanas. Um problema \nque esse bioma enfrenta é o fenômeno da desertificação. \nSegundo cientistas, à medida que a agricultura avança \nna região, esse fenômeno ganha maiores proporções. \nPara os cientistas, essa constatação evidencia a grande \nnecessidade de medidas urgentes para a preservação \nda Caatinga, que hoje só tem 1% de sua área inclusa em \nunidades de conservação.\nFERRAZ, M. Caatinga, muito prazer. Ciência Hoje, n. 251, 2008 (adaptado).\nA Caatinga pode ser considerada um ambiente frágil, \nonde a desertificação\nA\t\nA\t ocorre devido à presença de solos ricos em nutrientes, \nporém rasos. \nB\t\nB\t ocorre devido à presença de um lençol freático \nextenso, porém raso. \nC\t\nC\t deverá regredir nos próximos anos devido ao regime \nde chuvas da região. \nD\t\nD\t é um problema de pouca importância, pois atinge \npoucas regiões do bioma.\nE\t\nE\t pode ser evitada mantendo-se a vegetação nativa, \nque impede esse fenômeno.",
+  "processado_em": "2026-05-08T14:05:25.421473",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

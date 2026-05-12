@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 62\t\nNão é de hoje que o homem cria, artificialmente, \nvariedades de peixes por meio da hibridação. Esta é uma \ntécnica muito usada pelos cientistas e pelos piscicultores \nporque os híbridos resultantes, em geral, apresentam \nmaior valor comercial do que a média de ambas as \nespécies parentais, além de reduzir a sobrepesca no \nambiente natural.\nTerra da Gente, ano 4, n. 47, mar. 2008 (adaptado).\nSem controle, esses animais podem invadir rios e lagos \nnaturais, se reproduzir e\nA\t originar uma nova espécie poliploide.\nB\t substituir geneticamente a espécie natural.\nC\t ocupar o primeiro nível trófico no hábitat aquático.\nD\t impedir a interação biológica entre as espécies parentais.\nE produzir descendentes com o código genético modificado",
+  "processado_em": "2026-05-08T13:59:02.492793",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

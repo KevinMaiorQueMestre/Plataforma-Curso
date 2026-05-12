@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nUm show especial de Natal teve 45 000 ingressos \nvendidos. Esse evento ocorrerá em um estádio de futebol \nque disponibilizará 5 portões de entrada, com 4 catracas \neletrônicas por portão. Em cada uma dessas catracas, \npassará uma única pessoa a cada 2 segundos. O público \nfoi igualmente dividido pela quantidade de portões e \ncatracas, indicados no ingresso para o show, para a \nefetiva entrada no estádio. Suponha que todos aqueles \nque compraram ingressos irão ao show e que todos \npassarão pelos portões e catracas eletrônicas indicados.\nQual é o tempo mínimo para que todos passem pelas \ncatracas?\nA\t 1 hora.\nB\t 1 hora e 15 minutos.\nC\t 5 horas.\nD\t 6 horas.\nE\t 6 horas e 15 minutos.",
+  "processado_em": "2026-05-08T14:00:38.949706",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 09\t\nA autora conclui que as novas tecnologias de escrita\nA\tevoluem para facilitar a vida cotidiana.\nB\talcançam diferentes realidades sociais.\nC\tcoexistem com outras já estabelecidas.\nD\tpromovem maior agilidade na comunicação.\nE\tsurgem nos contextos em que são necessárias.",
+  "processado_em": "2026-05-11T23:29:50.109599",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

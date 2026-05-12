@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nFotografia de Augusto Gomes Leal e da ama de leite \nMônica, cartão de visita de 1860.\nKOUTSOUKOS, S. S. M. Amas mercenárias: o discurso dos doutores em medicina e os retratos \nde amas – Brasil, segunda metade do século XIX. História, Ciência, Saúde-Manguinhos, \n2009.  Disponível em: http://dx.doi.org. Acesso em: 8 maio 2013.\nA fotografia, datada de 1860, é um indício da cultura \nescravista no Brasil, ao expressar a\nA\t ambiguidade do trabalho doméstico exercido pela \nama de leite, desenvolvendo uma relação de \nproximidade e subordinação em relação aos senhores.\nB\t integração dos escravos aos valores das classes médias, \ncultivando a família como pilar da sociedade imperial.\nC\t melhoria das condições de vida dos escravos \nobservada pela roupa luxuosa, associando o trabalho \ndoméstico a privilégios para os cativos.\nD\t esfera da vida privada, centralizando a figura feminina \npara afirmar o trabalho da mulher na educação letrada \ndos infantes.\nE\t distinção \nétnica \nentre \nsenhores \ne \nescravos, \ndemarcando a convivência entre estratos sociais \ncomo meio para s perar a mestiçagem",
+  "processado_em": "2026-05-11T23:25:41.289624",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

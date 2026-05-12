@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nA grande maioria dos países ocidentais democráticos \nadotou o Tribunal Constitucional como mecanismo de \ncontrole dos demais poderes. A inclusão dos Tribunais \nno cenário político implicou alterações no cálculo para \na implementação de políticas públicas. O governo, \nalém de negociar seu plano político com o Parlamento, \nteve que se preocupar em não infringir a Constituição. \nEssa \nnova \narquitetura \ninstitucional \npropiciou \no \ndesenvolvimento de um ambiente político que viabilizou a \nparticipação do Judiciário nos processos decisórios.\nCARVALHO, E. R. Revista de Sociologia e Política, n. 23, nov. 2004 (adaptado).\nO texto faz referência a uma importante mudança na \ndinâmica de funcionamento dos Estados contemporâneos \nque, no caso brasileiro, teve como consequência a\nA\t \tadoção de eleições para a alta magistratura.\nB\t \tdiminuição das tensões entre os entes federativos.\nC\t \tsuspensão do princípio geral dos freios e contrapesos.\nD\t \tjudicialização de questões próprias da esfera legislativa.\nE\t \tprofissionalização do quadro de funcionários da Justiça.",
+  "processado_em": "2026-05-11T23:25:42.027331",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

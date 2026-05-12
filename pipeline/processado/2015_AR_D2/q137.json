@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\t\nA figura representa a vista superior de uma bola de futebol \namericano, cuja forma é um elipsoide obtido pela rotação de \numa elipse em torno do eixo das abscissas. Os valores a \ne b são, respectivamente, a metade do seu comprimento \nhorizontal e a metade do seu comprimento vertical. Para \nessa bola, a diferença entre os comprimentos horizontal e \nvertical é igual à metade do comprimento vertical.\ny\nb\n− b\n− a\na\n0\nx\nConsidere que o volume aproximado dessa bola é \ndado por V = 4ab2.\nO volume dessa bola, em função apenas de b, é dado por\nA\t 8b3\nB\t 6b3\nC\t 5b3\nD\t 4b3",
+  "processado_em": "2026-05-08T14:00:56.437220",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

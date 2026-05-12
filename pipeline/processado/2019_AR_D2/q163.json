@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 163\t\nUma empresa presta serviço de abastecimento de água em uma cidade. O valor mensal a pagar por esse \nserviço é determinado pela aplicação de tarifas, por faixas de consumo de água, sendo obtido pela adição dos \nvalores correspondentes a cada faixa.\n•\t Faixa 1: para consumo de até 6 m3, valor fixo de R$ 12,00;\n•\t Faixa 2: para consumo superior a 6 m3 e até 10 m3, tarifa de R$ 3,00 por metro cúbico ao que exceder a 6 m3;\n•\t Faixa 3: para consumo superior a 10 m3, tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m3.\nSabe-se que nessa cidade o consumo máximo de água por residência é de 15 m3 por mês.\nO gráfico que melhor descreve o valor P, em real, a ser pago por mês, em função do volume V de água consumido, \nem metro cúbico, é\nA\nP (R$)\nV (m³)\n15\n0\nD\nP (R$)\nV (m³)\n15\n0\nB\nP (R$)\nE\nP (R$)",
+  "processado_em": "2026-05-11T23:27:37.625180",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q017",
+  "imagem": "q017.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 17,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 17\t\nE fui mostrar ao ilustre hóspede [o governador do \nEstado] a serraria, o descaroçador e o estábulo. Expliquei \nem resumo a prensa, o dínamo, as serras e o banheiro \ncarrapaticida. De repente supus que a escola poderia \ntrazer a benevolência do governador para certos favores \nque eu tencionava solicitar.\n— Pois sim senhor. Quando V. Exª. vier aqui outra \nvez, encontrará essa gente aprendendo cartilha.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 1991.\nO fragmento do romance de Graciliano Ramos dialoga \ncom o contexto da Primeira República no Brasil, ao \nfocalizar o(a)\nA\t derrocada de práticas clientelistas.\nB\t declínio do antigo atraso socioeconômico.\nC\t liberalismo desapartado de favores do Estado.\nD\t fortalecimento de políticas públicas educacionais.\nE\t aliança entre a elite agrária e os dirigentes políticos.",
+  "processado_em": "2026-05-11T23:26:10.440415",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

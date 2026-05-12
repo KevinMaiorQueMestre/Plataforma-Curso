@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nPara entender os movimentos dos corpos, Galileu disc\ninclinados sem atritos e com a possibilidade de se a\nfigura. Na descrição do experimento, quando a esfera de m\ndeterminado nível, ela sempre atinge, no plano ascendente\nÂngulo do plano de\nsubida\nGalile\nSe o ângulo de inclinação do plano de subida for reduzido \nA\t manterá sua velocidade constante, pois o impulso resu\nB\t manterá sua velocidade constante, pois o impulso da d\nC\t diminuirá gradativamente a sua velocidade, pois não h\nD\t diminuirá gradativamente a sua velocidade, pois o imp\nE\t aumentará gradativamente a sua velocidade, pois não",
+  "processado_em": "2026-05-08T14:00:31.072956",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

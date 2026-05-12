@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 42\t\nO uso da água aumenta de acordo com as \nnecessidades \nda \npopulação \nno \nmundo. \nPorém, \ndiferentemente do que se possa imaginar, o aumento do \nconsumo de água superou em duas vezes o crescimento \npopulacional durante o século XX.\nTEIXEIRA, W. et al. Decifrando a Terra. São Paulo: Cia. Editora Nacional, 2009.\nUma estratégia socioespacial que pode contribuir para \nalterar a lógica de uso da água apresentada no texto é a\nA\t ampliação de sistemas de reutilização hídrica.\nB\t expansão da irrigação por aspersão das lavouras.\nC\t intensificação do controle do desmatamento de \nflorestas.\nD\t adoção de técnicas tradicionais de produção.\nE\t criação de incentivos fiscais para o cultivo de \nprodutos orgânicos.",
+  "processado_em": "2026-05-08T13:59:02.015038",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 30 \nNão posso ser professor se não percebo cada vez melhor\numa definição. Uma tomada de posição. Sou professor a favor \nautoritarismo, da autoridade contra a licenciosidade, da democr\na favor da luta constante contra qualquer forma de discriminaçã\nsociais. Sou professor contra a ordem capitalista vigente que inve\nda esperança que me anima apesar de tudo. Sou professor cont\nPara reforçar o ponto de vista do autor, a progressão temática ne\nA formulação de hipóteses.\nB emprego da primeira pessoa.\nC utilização de elementos coesivos.\nD repetição de estruturas sintáticas.\nE uso de palavras de sentido oposto.",
+  "processado_em": "2026-05-08T14:06:27.227998",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nNa primeira edição de uma Feira do Livro, a \norganização contou com a participação de dez voluntários, \nde mesma habilidade e experiência, que montaram cinco \nestandes de livros em uma semana, trabalhando todos \nos dias.\nNa segunda edição da Feira do Livro, a organização \ndispôs de duas semanas para montar os estandes. \nConsidere que todos os novos voluntários escolhidos \ntenham a mesma experiência, habilidade e produtividade \ndos voluntários da primeira edição da feira e que trabalharão \ntodos os dias nessas duas semanas.\nConsidere duas situações para a segunda edição:\n•\t I: o número de voluntários permanecerá o mesmo;\n•\t II: o número de estandes a serem montados \npermanecerá o mesmo.\nObserve que o aumento no tempo de organização \npara montar os estandes, junto a uma das duas situações \ncitadas, pode fazer o valor das outras variáveis (número \nde voluntários e de estandes) aumentar, diminuir ou \npermanecer igual.\nO número de estandes na situação I e o número de \nvoluntários na situação II, na segunda edição da feira, \ncomparados aos números da primeira edição, serão, \nrespectivamente,\nA\tmaior e maior.\nB\tmaior e menor.\nC\tigual e igual.\nD\tigual e menor.\nE\tmenor e menor.",
+  "processado_em": "2026-05-08T14:06:04.610789",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

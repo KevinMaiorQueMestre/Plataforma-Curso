@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 87 \nO Poder Judiciário tem combatido a disseminação de fake news \nem todos os seus aspectos, para que o cidadão possa distinguir \nquais meios de comunicação merecem maior credibilidade, assim \ncomo para impedir ou minimizar as consequências nefastas \ndas notícias falsas. Assumir essa responsabilidade é o primeiro \npasso. Todos os segmentos devem criar mecanismos de controle \ninterno que, aliados às normas jurídico-administrativas, sejam \nmais eficientes no combate a esse mal.\nBANDEIRA, R. Fake news: conselheira do CNJ alerta para o impacto delas na \nJustiça. Disponível em: www.cnj.jus.br. Acesso em: 6 out. 2021 (adaptado).\nA ação da Justiça, destacada no texto, representa uma forma de\nA garantia da ordem social.\nB mudança do regime político.\nC manutenção do consenso atual.\nD segurança do processo orçamentário.\nE transformação da situação econômica.",
+  "processado_em": "2026-05-08T14:06:30.964409",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

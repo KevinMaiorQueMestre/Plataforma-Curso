@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 174          \nUm professor pediu aos seus alunos que esboçassem u\nutilizando um software. Pediu ainda que representassem g\nde 0 m³, 2 m³ e 4 m³ em litro.\nO professor recebeu de cinco alunos os seguintes grá\n2\n3\n3 4\nI\nL\nL\nL\n1 600\n400\nII\n2\n4\nII\n0\n2\nm3\n0\n2\n4\nm3\n0\n2\n4\nO gráfico que melhor representa o esboço da transformaç\nA\t I.\nB\t II.\nC\t III.\nD \t IV.\nE\t V.",
+  "processado_em": "2026-05-08T14:03:40.121952",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

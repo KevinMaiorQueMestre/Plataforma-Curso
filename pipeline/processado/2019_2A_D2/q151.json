@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 151\t\nNa anestesia peridural, como a usada nos partos, \no médico anestesista precisa introduzir uma agulha nas \ncostas do paciente, que atravessará várias camadas de \ntecido até chegar a uma região estreita, chamada espaço \nepidural, que envolve a medula espinhal. A agulha é \nusada para injetar um líquido anestésico, e a força que \ndeve ser aplicada à agulha para fazê-la avançar através \ndos tecidos é variável.\nA figura é um gráfico do módulo F da força (em newton) \nem função do deslocamento x da ponta da agulha \n(em milímetro) durante uma anestesia peridural típica.\nConsidere que a velocidade de penetração da agulha \ndeva ser a mesma durante a aplicação da anestesia e \nque a força aplicada à agulha pelo médico anestesista \nem cada ponto deve ser proporcional à resistência \nnaquele ponto.\nF (N)\n12\n6\nA\n0\n10\n20\n30\nx (mm)\nB\nC\nD\nE\nF\nG H\nI\nHALLIDAY, D.; RESNICK, R. Fundamentos de física. \nRio de Janeiro: LTC, 2008.\nCom base nas informações apresentadas, a maior \nresistência à força aplicada observa-se ao longo \ndo segmento\nA\t AB.\nB\t FG.\nC\t EF.\nD\t GH.\nE\t HI.",
+  "processado_em": "2026-05-11T23:27:12.338549",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

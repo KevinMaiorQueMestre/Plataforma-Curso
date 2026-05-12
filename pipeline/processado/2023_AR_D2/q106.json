@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nUm professor lança uma esfera verticalmente para \ncima, a qual retorna, depois de alguns segundos, ao ponto \nde lançamento. Em seguida, lista em um quadro todas as \npossibilidades para as grandezas cinemáticas.\nGrandeza cinemática\nMódulo\nSentido\nVelocidade\nv ≠ 0\nPara cima\nPara baixo\nv = 0\nIndefi nido*\nAceleração\na ≠ 0\nPara cima\nPara baixo\na = 0\nIndefi nido*\n*Grandezas com módulo nulo não têm sentido definido.\nEle solicita aos alunos que analisem as grandezas \ncinemáticas no instante em que a esfera atinge a altura \nmáxima, escolhendo uma combinação para os módulos \ne sentidos da velocidade e da aceleração.\nA escolha que corresponde à combinação correta é\nA\t\nA\t v = 0 e a ≠ 0 para cima.\nB\t\nB\t v ≠ 0 para cima e a = 0.\nC\t\nC\t v = 0 e a ≠ 0 para baixo.\nD\t\nD\t v ≠ 0 para cima e a ≠ 0 para cima.\nE\t\nE\t v ≠ 0 para baixo e a ≠ 0 para baixo.",
+  "processado_em": "2026-05-08T14:05:43.444782",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

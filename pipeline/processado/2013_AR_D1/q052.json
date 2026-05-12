@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nEm viagens de avião, é solicitado aos passageiros \no \ndesligamento \nde \ntodos \nos \naparelhos \ncujo \nfuncionamento envolva a emissão ou a recepção de \nondas eletromagnéticas. O procedimento é utilizado \npara eliminar fontes de radiação que possam interferir \nnas comunicações via rádio dos pilotos com a torre \nde controle.\nA propriedade das ondas emitidas que justifica o \nprocedimento adotado é o fato de\nA\t terem fases opostas.\nB\t serem ambas audíveis.\nC\t terem intensidades inversas.\nD\t serem de mesma amplitude.\nE\t terem frequências próximas.",
+  "processado_em": "2026-05-08T14:00:12.665689",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

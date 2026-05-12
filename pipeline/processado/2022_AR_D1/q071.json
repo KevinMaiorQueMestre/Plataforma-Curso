@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nO princípio básico do Estado de direito é o da \neliminação do arbítrio no exercício dos poderes públicos, \ncom a consequente garantia de direitos dos indivíduos \nperante esses poderes. Estado de direito significa que \nnenhum indivíduo, presidente ou cidadão comum está \nacima da lei. Os governos democráticos exercem a \nautoridade por meio da lei e estão eles próprios sujeitos \naos constrangimentos impostos pela lei.\nCANOTILHO, J. J. G. Estado de direito. Lisboa: Gradiva, 1999 (adaptado).\nNas sociedades contemporâneas, consiste em violação \ndo princípio básico enunciado no texto:\nA\t\nA\t Supressão de eleições de representantes políticos.\nB\t\nB\t Intervenção em áreas de vulnerabilidade pela Igreja.\nC\t\nC\t Disseminação de projetos sociais em universidades.\nD\t\nD\t Ampliação dos processos de concentração de renda.\nE\t\nE\t Regulamentação das relações de trabalho pelo \nLegislativo.",
+  "processado_em": "2026-05-08T14:05:04.583622",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

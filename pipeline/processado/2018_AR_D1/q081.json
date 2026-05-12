@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 81\t\nTEXTO I\nAs fronteiras, ao mesmo tempo que se separam, unem \ne articulam, por elas passando discursos de legitimação \nda ordem social tanto quanto do conflito.\nCUNHA, L. Terras lusitanas e gentes dos brasis: a nação e o seu retrato literário. \nRevista Ciências Sociais, n. 2, 2009.\nTEXTO II\nAs últimas barreiras ao livre movimento do dinheiro \ne das mercadorias e informação que rendem dinheiro \nandam de mãos dadas com a pressão para cavar novos \nfossos e erigir novas muralhas que barrem o movimento \ndaqueles que em consequência perdem, física ou \nespiritualmente, suas raízes.\nBAUMAN, Z. Globalização: as consequências humanas. \nRio de Janeiro: Jorge Zahar, 1999.\nA ressignificação contemporânea da ideia de fronteira \ncompreende a\nA\t liberação da circulação de pessoas.\nB\t preponderância dos limites naturais.\nC\t supressão dos obstáculos aduaneiros.\nD\t desvalorização da noção de nacionalismo.\nE\t seletividade dos mecanismos segregadores.",
+  "processado_em": "2026-05-11T23:26:41.186426",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

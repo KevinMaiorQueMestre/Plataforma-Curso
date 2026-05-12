@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nUm comerciante abrirá um supermercado, no mês \nde outubro, e precisa distribuir 5 produtos de limpeza em \numa gôndola de cinco prateleiras que estão dispostas \numa acima da outra (um tipo de produto por prateleira). \nEle sabe que a terceira prateleira oferece uma melhor \nvisibilidade dos produtos aos clientes.\nEle fez uma pesquisa sobre o número de vendas \ndesses produtos, nos meses de agosto e setembro, em \numa loja da concorrência (mostrada a seguir), e pretende \nincrementar suas vendas, em relação a seu concorrente, \ncolocando na terceira prateleira de seu supermercado o \nproduto que teve o maior índice de aumento nas vendas \nno mês de setembro em relação ao mês de agosto, na \nloja concorrente.\nProduto\nNúmero de \nunidades vendidas \nem agosto\nNúmero de \nunidades vendidas \nem setembro\nI\n400\n450\nII\n210\n295\nIII\n200\n220\nIV\n300\n390\nV\n180\n240\nO comerciante deve colocar na terceira prateleira o \nproduto número\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-11T23:26:23.794951",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

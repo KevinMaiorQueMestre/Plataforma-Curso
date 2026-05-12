@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nEm algumas línguas de Moçambique não existe \na palavra “pobre”. O indivíduo é pobre quando não \ntem parentes. A pobreza é a solidão, a ruptura das \nrelações familiares que, na sociedade rural, servem de \napoio à sobrevivência. Os consultores internacionais, \nespecialistas em elaborar relatórios sobre a miséria, \ntalvez não tenham em conta o impacto dramático da \ndestruição dos laços familiares e das relações de \nentreajuda. Nações inteiras estão tornando-se “órfãs”, \ne a mendicidade parece ser a única via de uma \nagonizante sobrevivência.\nCOUTO, M. E se Obama fosse africano? & outras intervenções. \nPortugal: Caminho, 2009 (adaptado).\nEm uma leitura que extrapola a esfera econômica, o \nautor associa o acirramento da pobreza à\nA\t afirmação das origens ancestrais.\nB\t fragilização das redes de sociabilidade.\nC\t padronização das políticas educacionais.\nD\t fragmentação das propriedades agrícolas.\nE\t globalização das tecnologias de comunicação.",
+  "processado_em": "2026-05-11T23:26:41.146869",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 165          \nA taxa de mortalidade infantil vem decaindo a \ncada ano no Brasil. O gráfico, gerado a partir de \ndados do IBGE, apresenta a evolução da taxa de \nmortalidade infantil (número de óbitos para cada \n1 000 nascidos vivos) de crianças com até 5 anos, no \nBrasil, no período de 2000 a 2011.  \n40\n30\n20\n10\n0\n2000\n2009\n2011\nÓbitos por 1 000 nascidos vivos\n30,1\n22,5\n18,7\nConsidere que, para os próximos anos, o \ndecréscimo anual médio do número de óbitos para \ncada 1 000 nascidos vivos registrado, no período de \n2009 a 2011, será mantido.\nA partir das informações fornecidas, a taxa de mortalidade \ninfantil de crianças com até 5 anos tornar-se-á inferior a \n10 no período de\nA \t 2011 a 2012.\nB \t 2012 a 2013.\nC \t 2013 a 2014.\nD \t 2015 a 2016.\nE 2017 a 2018",
+  "processado_em": "2026-05-08T14:03:39.473854",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

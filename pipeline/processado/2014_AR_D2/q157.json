@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nNo Brasil há várias operadoras e planos de telefonia \ncelular.\nUma pessoa recebeu 5 propostas (A, B, C, D e E) de \nplanos telefônicos. O valor mensal de cada plano está \nem função do tempo mensal das chamadas, conforme \no gráfico. \n70\n60\n50\n40\n30\n20\n10\n0\n0\n10\n20\n30\n40\n50\n60\nTempo mensal (em minutos)\nE\nD\nC\nB\nA\nValor mensal (em reais)\nEssa pessoa pretende gastar exatamente R$ 30,00 \npor mês com telefone.\nDos planos telefônicos apresentados, qual é o mais \nvantajoso, em tempo de chamada, para o gasto previsto \npara essa pessoa?\nA\t A\nB\t B\nC\t C\nD\t D\nE\t E",
+  "processado_em": "2026-05-08T14:00:39.640375",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

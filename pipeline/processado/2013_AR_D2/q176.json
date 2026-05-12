@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nConsidere o seguinte jogo de apostas:\nNuma cartela com 60 números disponíveis, um \napostador escolhe de 6 a 10 números. Dentre os números \ndisponíveis, serão sorteados apenas 6. O apostador será \npremiado caso os 6 números sorteados estejam entre os \nnúmeros escolhidos por ele numa mesma cartela.\nO quadro apresenta o preço de cada cartela, de \nacordo com a quantidade de números escolhidos.\nQuantidade de números \nescolhidos em uma cartela\nPreço da cartela (R$)\n6\n2,00\n7\n12,00\n8\n40,00\n9\n125,00\n10\n250,00\nCinco apostadores, cada um com R$ 500,00 para \napostar, fizeram as seguintes opções:\nArthur: 250 cartelas com 6 números escolhidos;\nBruno: 41 cartelas com 7 números escolhidos e \n4 cartelas com 6 números escolhidos;\nCaio: 12 cartelas com 8 números escolhidos e \n10 cartelas com 6 números escolhidos;\nDouglas: 4 cartelas com 9 números escolhidos;\nEduardo: 2 cartelas com 10 números escolhidos.\nOs dois apostadores com maiores probabilidades de \nserem premiados são\nA\t Caio e Eduardo.\nB\t Arthur e Eduardo.\nC\t Bruno e Caio.\nD\t Arthur e Bruno.\nE\t Douglas e Eduardo.",
+  "processado_em": "2026-05-08T14:00:24.632358",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

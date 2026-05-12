@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nDiferentemente da respiração aeróbica, alguns \nmicrorganismos realizam processos catabólicos que \nlevam à obtenção de moléculas orgânicas de interesse \ncomercial, conforme ilustrado. O conhecimento dessas \nvias metabólicas é importante, por exemplo, para a \nfabricação de produtos alimentícios.\nFermentação alcoólica\n(Levedura)\nC H O\n6\n12\n6\n(Glicose)\n2 C H O\n3\n4\n3\n(Ácido pirúvico)\n2 CO2\n2 NADH\n2 NAD+\n2 C H OH\n2\n5\n(Álcool etílico)\nExemplo:Vinho\nFermentação lática\n(Lactobacilos)\nC H O\n6\n12\n6\n(Glicose)\n2 C H O\n3\n4\n3\n(Ácido pirúvico)\n2 C H O\n3\n5\n3\n(Ácido lático)\n2 NADH\n2 NAD+\nExemplo:Iogurte\nEsses processos de fermentação têm em comum a\nA\t\nA\t liberação de gases.\nB\t\nB\t descarboxilação do ácido.\nC\t\nC\t participação de procariontes.\nD\t\nD\t oxidação completa do substrato.\nE\t\nE\t formação de produtos metabolizáveis.",
+  "processado_em": "2026-05-08T14:04:48.265514",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nOs aeroportos apresentam regras rígidas para \ndespacho de bagagem. No caso de embarque nacional, \nalgumas companhias aéreas ainda não cobravam, até \n2017, por unidade de bagagem despachada, limitada a \n23 kg por passageiro. \nUma pessoa irá viajar com uma única mala. Como \nnão quer pagar por “excesso de peso” e  dispõe, em \ncasa, de uma balança de pêndulo que apresenta um erro \nmáximo de 8% a mais em relação à massa real do objeto \nque nela for verificada, conferirá qual a massa de sua \nmala antes de ir para o aeroporto.\nO valor máximo, em quilograma, indicado em sua balança \ndeverá ser\nA\t\nA\t 21,16.\nB\t\nB\t 22,08.\nC\t\nC\t 23,92.\nD\t\nD\t 24,84.\nE\t\nE\t 25,00.",
+  "processado_em": "2026-05-08T14:04:49.489199",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

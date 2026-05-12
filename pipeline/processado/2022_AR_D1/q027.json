@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\t\ntem estrada para andar\nOs homens\nnão choram.\nMulher ao volante,\nperigo constante.\nDisponível em: https://viva-porto.pt. Acesso em: 24 nov. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:04:59.422746",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

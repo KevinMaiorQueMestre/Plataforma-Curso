@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 38\t\nO Cruzeiro, década de 1960. Disponível em: www.memoriaviva.com.br. \nAcesso em: 28 fev. 2012 (adaptado).\nNo anúncio, há referências a algumas das transformações \nocorridas no Brasil nos anos 1950 e 1960. No entanto, \ntais referências omitem transformações que impactaram \nsegmentos da população, como a\nA\t exaltação da tradição colonial.\nB\t redução da influência estrangeira.\nC\t ampliação da imigração internacional.\nD\t intensificação da desigualdade regional.\nE\t desconcentração da produção industrial.",
+  "processado_em": "2026-05-08T14:01:06.362101",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

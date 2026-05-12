@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 52          \nSe os filósofos não forem reis nas cidades ou se \nos que hoje são chamados reis e soberanos não forem \nfilósofos genuínos e capazes e se, numa mesma pessoa, \nnão coincidirem poder político e filosofia e não for barrada \nagora, sob coerção, a caminhada das diversas naturezas \nque, em separado buscam uma dessas duas metas, não \né possível, caro Glaucon, que haja para as cidades uma \ntrégua de males e, penso, nem para o gênero humano.\nPLATÃO. A República. São Paulo: Martins Fontes, 2014.",
+  "processado_em": "2026-05-08T14:03:30.113429",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

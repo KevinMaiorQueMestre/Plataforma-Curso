@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nAo destruir uma paisagem de árvores de troncos \nretorcidos, folhas e arbustos ásperos sobre os solos \nácidos, não raro laterizados ou tomados pelas formas \nbizarras dos cupinzeiros, essa modernização lineariza e \naparentemente não permite que se questione a pretensão \nmodernista de que a forma deve seguir a função.\nHAESBAERT, R. “Gaúchos” e baianos no “novo” Nordeste: entre a globalização econômica \ne a reinvenção das identidades territoriais. In: CASTRO, I. E.; GOMES, P. C. C.; CORRÊA, \nR. L. (Org.). Brasil: questões atuais da reorganização do território. \nRio de Janeiro: Bertrand Brasil, 2008.\nO processo descrito ocorre em uma área biogeográfica \ncom predomínio de vegetação\nA\t \ttropófila e clima tropical.\nB\t \txerófila e clima semiárido.\nC\t \thidrófila e clima equatorial.\nD\t \taciculifoliada e clima subtropical.\nE\t \tsemidecídua e clima tropical úmido.",
+  "processado_em": "2026-05-11T23:25:42.076007",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

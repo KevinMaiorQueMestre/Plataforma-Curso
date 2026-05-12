@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 03\t\nCon una chacra de Portezuelo como escenario, \nalgunos dirigentes frentistas se reunieron para evaluar el \nestado de la coalición de gobierno y discutir estrategias \npara las elecciones del año próximo. Ministros de \nEstado, legisladores y sindicalistas departieron allí sobre \nalineamientos electorales dentro del Frente Amplio. Los \nacompañó en la ocasión el rector de la Universidad de la \nRepública, Rodrigo Arocena, un funcionario que por su \ninvestidura debería mostrar menos la hilacha y cuidarse \nde aparecer vinculado a confabulaciones y maniobras de \npolítica partidaria.\nDisponível em: http://historico.elpais.com.uy. Acesso em: 20 nov. 2013.\nNo texto do jornal uruguaio, o autor utiliza a expressão \nidiomática mostrar menos la hilacha para sugerir que o \nreitor da universidade deve\nA\t ser menos ingênuo.\nB\t evitar se perder em ilações.\nC\t agir de modo menos prepotente.\nD\t ter mais zelo com os arranjos políticos.\nE\t privar-se de expor suas tendências ideológicas.",
+  "processado_em": "2026-05-11T23:26:07.545438",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

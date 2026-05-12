@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 20\t\nAntes de o sol começar a esquentar as terras da faixa \nao sul do Saara conhecida como Sahel, duas dezenas de \nmulheres da aldeia de Widou, no norte do Senegal, regam \na horta cujas frutas e verduras alimentam a população \nlocal. É um pequeno terreno que, visto do céu, forma uma \nmancha verde — um dos primeiros pedaços da “Grande \nMuralha Verde”, barreira vegetal que se estenderá por \n7 000 km do Senegal ao Djibuti, e é parte de um plano \nconjunto de vinte países africanos.\nGIORGI, J. Muralha verde. Folha de S. Paulo, 20 maio 2013 (adaptado).\nO projeto ambiental descrito proporciona a seguinte \nconsequência regional imediata:\nA\t Facilita as trocas comerciais.\nB\t Soluciona os conflitos fundiários.\nC\t Restringe a diversidade biológica.\nD\t Fomenta a atividade de pastoreio.\nE\t Evita a expansão da desertificação.",
+  "processado_em": "2026-05-08T14:00:28.027549",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

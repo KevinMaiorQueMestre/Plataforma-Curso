@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 46\t\nMacedôn\nAcordo entra em vigor e paí\nEntrou em vigor, em 2019, o acordo que determina a mud\npõe fim — ao menos por enquanto — no impasse entre essa a\nse opunha ao uso do nome Macedônia pelo novo país vizinho p\nPor causa desse impasse, a Grécia bloqueou as negociações de\nas duas partes chegaram a um acordo.\nPara o país originado da antiga Iugoslávia, a mudança de nome\nA\tcriar a moeda própria.\nB\tproteger a cultura local.\nC\tsubjugar a minoria étnica.\nD\texpandir o território nacional.\nE\tintensificar a integração regional.",
+  "processado_em": "2026-05-08T14:07:00.175569",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

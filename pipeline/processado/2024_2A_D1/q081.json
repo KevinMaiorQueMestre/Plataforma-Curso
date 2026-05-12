@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 81\t\nAs principais culturas são as de soja e milho, mas o \nMatopiba tem potencial para crescer ainda mais em vários \noutros setores da agricultura. O preço baixo das terras, \ncomparado a outros estados, e o terreno plano ideal para \na agricultura são os principais atrativos dessa região. Os \navanços tecnológicos que facilitam a produção em qualquer \ntipo de solo também permitiram o desenvolvimento dessa \nnova fronteira agrícola.\nDisponível em: www.embrapa.br. Acesso em: 20 out. 2021.\nA dinâmica socioespacial apresentada no texto baseia-se \nem características do seguinte modelo produtivo:\nA\tFamiliar.\nB\tModerno.\nC\tOrgânico.\nD\tItinerante.\nE\tAgroflorestal.",
+  "processado_em": "2026-05-08T14:05:57.270470",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

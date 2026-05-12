@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.\nQUESTÃO 137\t\nApesar de a participação das mulheres no mercado de \ntrabalho ter crescido ao longo dos anos, ainda existe uma \ngrande diferença salarial entre homens e mulheres. Os dados \ndo Cadastro Geral de Empregados e Desempregados (Caged) \napresentados no gráfico mostram a evolução da diferença salarial \nde contratação, com medições feitas de dois em dois anos.\nDisponível em: http://classificados.folha.uol.com.br. \nAcesso em: 21 jun. 2017 (adaptado).\nDe acordo com os dados fornecidos, qual valor mais se \naproxima da diferença salarial média entre homens e \nmulheres nesse período?\nA\t121,7\nB\t120,0\nC\t110,5\nD\t82,0\nE 65 5",
+  "processado_em": "2026-05-08T14:06:03.638456",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

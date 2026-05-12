@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 149\t\nUma escola de idiomas oferece cursos de inglês, espanhol, fra\ndas matrículas, por idioma, em 2023, e a distribuição da quantid\nPara planejar as atividades de 2025, o gerente da escola estimo\npercentual das matrículas, por idioma, será igual à registrada em \nSegundo essa estimativa, o número de matrículas no curso de fr\nA\t2.\nB\t12.\nC\t20.\nD\t22.\nE\t40.",
+  "processado_em": "2026-05-08T14:07:09.068219",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

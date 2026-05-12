@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nUm pesquisador está realizando várias séries de \nexperimentos com alguns reagentes para verificar \nqual o mais adequado para a produção de um \ndeterminado produto. Cada série consiste em avaliar \num dado reagente em cinco experimentos diferentes. \nO \npesquisador \nestá \nespecialmente \ninteressado \nnaquele reagente que apresentar a maior quantidade \ndos resultados de seus experimentos acima da média \nencontrada para aquele reagente. Após a realização de \ncinco séries de experimentos, o pesquisador encontrou \nos seguintes resultados:\n \nReagente \n1\nReagente \n2\nReagente \n3\nReagente \n4\nReagente \n5\nExperimento \n1\n1\n0\n2\n2\n1\nExperimento \n2\n6\n6\n3\n4\n2\nExperimento \n3\n6\n7\n8\n7\n9\nExperimento \n4\n6\n6\n10\n8\n10\nExperimento \n5\n11\n5\n11\n12\n11\nLevando-se em consideração os experimentos feitos, o \nreagente que atende às expectativas do pesquisador é o\nA\t 1.\nB\t 2.\nC\t 3.\nD\t 4.\nE 5.",
+  "processado_em": "2026-05-08T14:00:39.537237",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

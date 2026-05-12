@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nO ácido sulfúrico é uma das principais substâncias pro\nde forma simplificada, as etapas de sua produção.\nEm qual etapa ocorre a conversão química do enxofre (S)\nA\t1\nB\t2\nC\t3\nD\t4\nE 5",
+  "processado_em": "2026-05-08T14:06:03.169125",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

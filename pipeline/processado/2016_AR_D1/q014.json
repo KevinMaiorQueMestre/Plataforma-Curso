@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CH - 1º dia | Caderno 1 - AZUL - Página 5\nQUESTÃO 14\t\nA regulação das relações de trabalho compõe uma \nestrutura complexa, em que cada elemento se ajusta aos \ndemais. A Justiça do Trabalho é apenas uma das peças \ndessa vasta engrenagem. A presença de representantes \nclassistas na composição dos órgãos da Justiça do \nTrabalho é também resultante da montagem dessa \nregulação. O poder normativo também reflete essa \ncaracterística. Instituída pela Constituição de 1934, a \nJustiça do Trabalho só vicejou no ambiente político do \nEstado Novo instaurado em 1937.\nROMITA, A. S. Justiça do Trabalho: produto do Estado Novo. In: PANDOLFI, D. (Org.). \nRepensando o Estado Novo. Rio de Janeiro: Editora FGV, 1999.\nA criação da referida instituição estatal na conjuntura \nhistórica abordada teve por objetivo \nA\t legitimar os protestos fabris. \nB\t ordenar os conflitos laborais.\nC\t oficializar os sindicatos plurais.\nD\t assegurar os princípios liberais.\nE\t unificar os salários profissionais.",
+  "processado_em": "2026-05-08T14:01:03.989133",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

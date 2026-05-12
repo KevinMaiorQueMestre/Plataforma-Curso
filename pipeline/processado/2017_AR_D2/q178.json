@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nO resultado de uma pesquisa eleitoral, sobre a \npreferência dos eleitores em relação a dois candidatos, \nfoi representado por meio do Gráfico 1.\n70\n60\n50\n40\n30\n20\n10\n0\nA\nGráfico 1\nCandidato\nEleitores (%)\nB\nAo ser divulgado esse resultado em jornal, o Gráfico 1 \nfoi cortado durante a diagramação, como mostra o Gráfico 2.\n70\n60\n50\n40\n30\n20\nA\nEleitores (%)\nB\nGráfico 2\nCandidato\nApesar de os valores apresentados estarem corretos \ne a largura das colunas ser a mesma, muitos leitores \ncriticaram o formato do Gráfico 2 impresso no jornal, \nalegando que houve prejuízo visual para o candidato B.\nA diferença entre as razões da altura da coluna B pela \ncoluna A nos gráficos 1 e 2 é\nA 0\nB\n1\n2\nC\n1\n5\nD\n2\n15\nE\n8\n35",
+  "processado_em": "2026-05-11T23:25:58.181398",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

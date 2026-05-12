@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 123\t\nPara a produção de titânio metálico ou dióxido de titânio \npuros, é necessário fazer a cloração do minério que contém \ndióxido de titânio, com o objetivo de separar esse óxido de \noutras substâncias presentes no minério. A principal reação \nquímica de cloração é representada por:\nTiO2 (s) + 2 Cl2 (g)  \n  TiCl4 (g) + O2 (g)    ΔH = +175 kJ/mol\nDepois da cloração, o tetracloreto de titânio é condensado \ne convertido, novamente, a dióxido de titânio.\nApós o sistema atingir o equilíbrio químico, como a formação \ndo TiCl4 pode ser favorecida?\nA\tAumentando a pressão total do sistema.\nB\tDiminuindo a temperatura do sistema.\nC\tAumentando a pressão parcial de O2.\nD\tAumentando a pressão parcial de Cl2.\nE\tVariando a quantidade de TiO2.",
+  "processado_em": "2026-05-08T14:07:07.512919",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

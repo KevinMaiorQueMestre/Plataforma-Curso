@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\t\nO governo federal lançou o aplicativo Celular Seguro. \nO sistema tem como objetivo bloquear de forma mais rápida \ne segura celulares furtados ou roubados. Entenda como \nele funciona: o usuário deverá instalar o Celular Seguro por \nmeio da sua loja de aplicativos. Na plataforma, o cidadão \nterá que realizar o seu cadastro pelo sistema gov.br, em que \nele irá inserir os dados do celular que deseja proteger e os \nde uma pessoa de confiança. Caso o usuário seja furtado \nou roubado, ele precisará acionar a plataforma por um \ncomputador ou com a ajuda de uma pessoa de confiança \nidentificada no aplicativo. Depois desses passos, o celular \nserá bloqueado.\nA ação conta com o apoio da Agência Nacional de \nTelecomunicações (Anatel), da Federação Brasileira \nde Bancos (Febraban) e de instituições financeiras e \nentidades privadas.\nDisponível em: www.metropoles.com.\nAcesso em: 24 jan. 2024 (adaptado).\nA importância social dessa notícia reside no fato de ela\nA\tavaliar a iniciativa do governo no desenvolvimento de \num sistema.\nB\tinformar sobre a segurança promovida por um recurso \ndigital.\nC\tsolicitar apoio às instituições financeiras públicas e privadas.\nD\tdescrever tecnicamente o funcionamento de um aplicativo.\nE instruir sobre a compra de uma ferramenta tecnológica",
+  "processado_em": "2026-05-08T14:05:53.044190",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

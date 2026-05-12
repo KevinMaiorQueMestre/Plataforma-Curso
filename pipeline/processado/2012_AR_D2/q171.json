@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nUm laboratório realiza exames em que é possível \nobservar a taxa de glicose de uma pessoa. Os resultados \nsão analisados de acordo com o quadro a seguir.\nHipoglicemia\ntaxa de glicose menor ou igual a 70 mg/dL\nNormal\ntaxa de glicose maior que 70 mg/dL e menor \nou igual a 100 mg/dL\nPré-diabetes\ntaxa de glicose maior que 100 mg/dL e menor \nou igual a 125 mg/dL\nDiabetes Melito\ntaxa de glicose maior que 125 mg/dL e menor \nou igual a 250 mg/dL\nHiperglicemia\ntaxa de glicose maior que 250 mg/dL\nUm paciente fez um exame de glicose nesse laboratório e \ncomprovou que estava com hiperglicemia. Sua taxa de glicose \nera de 300 mg/dL. Seu médico prescreveu um tratamento em \nduas etapas. Na primeira etapa ele conseguiu reduzir sua \ntaxa em 30% e na segunda etapa em 10%.\nAo calcular sua taxa de glicose após as duas reduções, o \npaciente verificou que estava na categoria de\nA\t hipoglicemia.\nB\t normal.\nC\t pré-diabetes.\nD\t diabetes melito.\nE hi\nli\ni",
+  "processado_em": "2026-05-08T13:59:15.546068",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

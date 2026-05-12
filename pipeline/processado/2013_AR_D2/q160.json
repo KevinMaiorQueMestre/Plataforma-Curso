@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\t\nUm programa de edição de imagens possibilita \ntransformar figuras em outras mais complexas. Deseja-se \nconstruir uma nova figura a partir da original. A nova figura \ndeve apresentar simetria em relação ao ponto O.\nO\n Figura original\nA imagem que representa a nova figura é:\nA \nO\nB\nO\nC\nO\nD\nO\nE\nO",
+  "processado_em": "2026-05-08T14:00:23.856805",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

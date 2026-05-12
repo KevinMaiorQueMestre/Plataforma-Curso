@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 59\t\nA depressão que afetou a economia mundial entre 1929 e 1934 se anunciou, ainda em 1928, por uma queda \ngeneralizada nos preços agrícolas internacionais. Mas o fator mais marcante foi a crise financeira detonada pela \nquebra da Bolsa de Nova Iorque.\nDisponível em: http://cpdoc.fgv.br. Acesso em: 20 abr. 2015 (adaptado).\nPerante o cenário econômico descrito, o Estado brasileiro assume, a partir de 1930, uma política de incentivo à\nA\t industrialização interna para substituir as importações.\nB\t nacionalização de empresas estrangeiras atingidas pela crise.\nC\t venda de terras a preços acessíveis para os pequenos produtores.\nD\t entrada de imigrantes para trabalhar nas indústrias de base recém-criadas.\nE\t abertura de linhas de financiamento especial para empresas do setor terciário.",
+  "processado_em": "2026-05-11T23:27:01.646274",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

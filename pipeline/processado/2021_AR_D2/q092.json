@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 92\n\u0017\u0002 \u000b\f\b\u000f\u0007\u0004\u0002 2\u000e\t\r\b\u0002 \b2J\f\u0005\t\u0002 \u000f\u000e\t%\u0004\t\u000e\r\u000e#\u0004\t\u0002 \n2\n\r\u0007Y\u0005\u000e\u001e\u0004\t\u0002 \u000b\f\n\u0002\n\n\t\r\u001d\u0004\u0002%\u0007\n\t\n\u0005\r\n\t\u0002\u0005\u0004\u0002\u000f\u000e\b\u0002\b\u0002\u000f\u000e\b$\u0002!\n\u0010\u0002\u001e\u0004\u0010\u0004\u0002\b\u0002P\b\u000e@\b\u0002\u000f\n\u0002P\u0004\u0007'\b\u0002\neletromotriz necessária ao seu funcionamento.\nDispositivo eletrônico\nFaixa de força\neletromotriz (V)\nI\nRelógio de parede\n1,2 a 1,5\nII\nCelular\n3,5 a 3,8 \nIII\nCâmera digital\n7,5 a 7,8 \nIV\nCarrinho de controle \nremoto\n10,5 a 10,9 \nV\nNotebook/Laptop\n19,5 a 20,0 \nConsidere que uma bateria é construída pela \n\b\t\t\u0004\u001e\u000e\b'\u001d\u0004\u0002 \n\u0010\u0002 \tZ\u0007\u000e\n\u0002 \u000f\n\u0002 \r\u0007>\t\u0002 %\u000e2+\b\t\u0002 \u000f\n\u0002 2G\r\u000e\u0004/\u000e\u0004\u000f\u0004$\u0002 \u0005\b\t\u0002\n\u001e\u0004\u0005\u000f\u000e'\u0011\n\t/%\b\u000f\u0007\u001d\u0004$\u0002 \u001e\u0004\u0005P\u0004\u0007\u0010\n\u0002 \b\t\u0002 \t\n\u0010\u000e\n\u000b\f\b'\u0011\n\t\u0002 \u000f\n\u0002\n\u0007\n\u000f\f'\u001d\u0004\u0002\b%\u0007\n\t\n\u0005\r\b\u000f\b\t(\nE \u0002 \u0003 \u0004\u00053,05 V\nE \u0002 \u0003 \u0006\u00050,54 V\nI2 \u0006 2 e\u0004 \u0007 2 I\n\u0004\nLi \n\u0006 \u0006 e\u0004 \u0007 Li\nEssa bateria é adequada para o funcionamento de qual \n\u000f\u000e\t%\u0004\t\u000e\r\u000e#\u0004\u0002\n2\n\r\u0007Y\u0005\u000e\u001e\u0004\nA I\nB II\nC III\nD IV\nE V",
+  "processado_em": "2026-05-08T14:04:28.313130",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 54\t\nDurante a primeira fase do projeto de uma usina de \ngeração de energia elétrica, os engenheiros da equipe \nde avaliação de impactos ambientais procuram saber se \nesse projeto está de acordo com as normas ambientais. \nA nova planta estará localizada à beira de um rio, cuja \ntemperatura média da água é de 25 °C, e usará a sua \nágua somente para refrigeração. O projeto pretende que \na usina opere com 1,0 MW de potência elétrica e, em \nrazão de restrições técnicas, o dobro dessa potência será \ndissipada por seu sistema de arrefecimento, na forma de \ncalor. Para atender a resolução número 430, de 13 de \nmaio de 2011, do Conselho Nacional do Meio Ambiente, \ncom uma ampla margem de segurança, os engenheiros \ndeterminaram que a água só poderá ser devolvida ao rio \ncom um aumento de temperatura de, no máximo, 3 °C \nem relação à temperatura da água do rio captada pelo \nsistema de arrefecimento. Considere o calor específico da \nágua igual a 4 kJ/(kg °C).\nPara atender essa determinação, o valor mínimo do fluxo \nde água, em kg/s, para a refrigeração da usina deve ser \nmais próximo de\nA\t 42.\nB\t 84.\nC\t 167.\nD\t 250.\nE\t 500.",
+  "processado_em": "2026-05-08T14:01:08.864734",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

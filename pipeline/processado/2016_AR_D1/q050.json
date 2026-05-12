@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nO benzeno, um importante solvente para a indústr\npetróleo. Contudo, também pode ser sintetizado pela trime\ntemperaturas, conforme a equação química:\n3 C2H2 (g\nA energia envolvida nesse processo pode ser calculad\ncombustão das substâncias participantes, nas mesmas co\nI.\t\nC2H2 (g) + 5\n2\n O2 (g) \nII.\t C6H6 (l) + 15\n2\n O2 (g) \nA variação de entalpia do processo de trimerização, em kca\nA\t −1 090.\nB\t −150.\nC\t −50.\nD\t +157.\nE\t +470.",
+  "processado_em": "2026-05-08T14:01:08.050339",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

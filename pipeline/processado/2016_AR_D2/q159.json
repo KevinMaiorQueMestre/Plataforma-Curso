@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nUm marceneiro está construindo um material didático \nque corresponde ao encaixe de peças de madeira com \n10 cm de altura e formas geométricas variadas, num bloco \nde madeira em que cada peça se posicione na perfuração \ncom seu formato correspondente, conforme ilustra a \nfigura. O bloco de madeira já possui três perfurações \nprontas de bases distintas: uma quadrada (Q), \nde lado 4 cm, uma retangular (R), com base 3 cm e altura \n4 cm, e uma em forma de um triângulo equilátero (T), de \nlado 6,8 cm. Falta realizar uma perfuração de base \ncircular (C). \nO marceneiro não quer que as outras peças caibam \nna perfuração circular e nem que a peça de base circular \ncaiba nas demais perfurações e, para isso, escolherá o \ndiâmetro do círculo que atenda a tais condições. Procurou \nem suas ferramentas uma serra copo (broca com formato \ncircular) para perfurar a base em madeira, encontrando \ncinco exemplares, com diferentes medidas de diâmetros, \ncomo segue: (I) 3,8 cm; (II) 4,7 cm; (III) 5,6 cm; \n(IV) 7,2 cm e (V) 9,4 cm.\nR\nT\nC\nQ\nConsidere 1,4 e 1,7 como aproximações para √2  \ne √3 , respectivamente.\nPara que seja atingido o seu objetivo, qual dos exemplares \nde serra copo o marceneiro deverá escolher?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-08T14:01:22.818893",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

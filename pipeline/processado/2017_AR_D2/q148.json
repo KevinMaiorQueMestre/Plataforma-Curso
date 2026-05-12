@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nA avaliação de rendimento de alunos de um curso \nuniversitário baseia-se na média ponderada das notas \nobtidas nas disciplinas pelos respectivos números de \ncréditos, como mostra o quadro:\nAvaliação\nMédia de notas (M )\nExcelente\n9 < M ≤ 10\nBom\n7 ≤ M ≤ 9\nRegular\n5 ≤ M < 7\nRuim\n3 ≤ M < 5\nPéssimo\nM < 3\nQuanto melhor a avaliação de um aluno em \ndeterminado período letivo, maior sua prioridade na \nescolha de disciplinas para o período seguinte.\nDeterminado aluno sabe que se obtiver avaliação \n“Bom” ou “Excelente” conseguirá matrícula nas disciplinas \nque deseja. Ele já realizou as provas de 4 das 5 disciplinas \nem que está matriculado, mas ainda não realizou a prova \nda disciplina I, conforme o quadro.\nDisciplinas\nNotas\nNúmero  \nde créditos\nI\n \n12\nII\n8,00\n4\nIII\n6,00\n8\nIV\n5,00\n8\nV\n7,50\n10\nPara que atinja seu objetivo, a nota mínima que ele deve \nconseguir na disciplina I é\nA\t 7,00.\nB\t 7,38.\nC\t 7,50.\nD\t 8,25.\nE\t 9,00.",
+  "processado_em": "2026-05-11T23:25:53.320044",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

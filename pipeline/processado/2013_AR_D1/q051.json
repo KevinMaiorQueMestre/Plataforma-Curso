@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nQuímica Verde pode ser definida como a criação, o \ndesenvolvimento e a aplicação de produtos e processos \nquímicos para reduzir ou eliminar o uso e a geração de \nsubstâncias nocivas à saúde humana e ao ambiente. \nSabe-se que algumas fontes energéticas desenvolvidas \npelo homem exercem, ou têm potencial para exercer, em \nalgum nível, impactos ambientais negativos.\nCORRÊA, A. G.; ZUIN, V. G. (Orgs.). Química Verde: fundamentos e aplicações. \nSão Carlos: EdUFSCar, 2009.\nÀ luz da Química Verde, métodos devem ser \ndesenvolvidos para eliminar ou reduzir a poluição do ar \ncausada especialmente pelas\nA\t hidrelétricas.\nB\t termelétricas.\nC\t usinas geotérmicas.\nD\t fontes de energia solar.\nE\t fontes de energia eólica.",
+  "processado_em": "2026-05-08T14:00:12.624767",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

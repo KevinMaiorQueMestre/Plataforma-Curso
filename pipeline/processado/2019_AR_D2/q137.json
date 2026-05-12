@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 137\t\nUma empresa confecciona e comercializa um \nbrinquedo formado por uma locomotiva, pintada na cor \npreta, mais 12 vagões de iguais formato e tamanho, \nnumerados de 1 a 12. Dos 12 vagões, 4 são pintados \nna cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor \namarela. O trem é montado utilizando-se uma locomotiva \ne 12 vagões, ordenados crescentemente segundo suas \nnumerações, conforme ilustrado na figura.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nDe acordo com as possíveis variações nas colorações \ndos vagões, a quantidade de trens que podem ser \nmontados, expressa por meio de combinações, é \ndada por\nA\n12\n4\n12\n3\n12\n3\n12\n2\nB\nC\nD\nE",
+  "processado_em": "2026-05-11T23:27:35.388963",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

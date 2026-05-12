@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q037",
+  "imagem": "q037.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 37,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 37\t\nNa imagem, é ressaltado, em tom mais escuro, um gru\npolítico-econômicas comuns, no sentido de\nA\t adotarem o liberalismo político na dinâmica dos seus s\nB\t constituírem modelos de ações decisórias vinculadas à\nC\t instituírem fóruns de discussão sobre intercâmbio mult\nD\t promoverem a integração representativa dos diversos \nE\t apresentarem uma frente de desalinhamento político a",
+  "processado_em": "2026-05-08T14:00:29.518326",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

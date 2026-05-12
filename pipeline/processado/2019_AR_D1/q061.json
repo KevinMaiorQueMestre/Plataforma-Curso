@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 61\t\nTEXTO I\nOuve o barulho do rio, meu filho\nDeixa esse som te embalar \nAs folhas que caem no rio, meu filho \nTerminam nas águas do mar \nQuando amanhã por acaso faltar \nUma alegria no seu coração \nLembra do som dessas águas de lá \nFaz desse rio a sua oração.\nMONTE, M. et al. O rio. In: Infinito particular. Rio de Janeiro: \nSony; Universal Music, 2006 (fragmento).\nTEXTO II\nO atrativo ecoturístico não é somente o banho de \ncachoeira, sentar e caminhar pela praia, cavalgar, \nmas conhecer a biodiversidade, às vezes supostamente \nem extinção. Observar baleias, nadar com o golfinho, \ntocar em corais, sair ao encontro de dezenas de jacarés \nem seu hábitat natural são símbolos que fascinam um \necoturista. A natureza é transformada em espetáculo \ndiferente da vida urbana moderna.\nSANTANA, P. V. Ecoturismo: uma indústria sem chaminé? \nSão Paulo: Labur Edições, 2008.\nSão identificadas nos textos, respectivamente, as seguintes \nposturas em relação à natureza:\nA\t Exploração e romantização.\nB\t Sacralização e profanação.\nC\t Preservação e degradação.\nD\t Segregação e democratização.\nE\t Idealização e mercantilização.",
+  "processado_em": "2026-05-11T23:27:25.661632",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

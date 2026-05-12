@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 137\t\nA figura representa uma bola de basquete dentro de um\ncuja altura mede 27 cm. A bola, quando cheia, tem o formato de \na base inferior da caixa, e parte dela fica no exterior da caixa. A ta\nQual é a medida da área da tampa da caixa, em centímetro qu\nA\tπ ⋅ 92\nB\tπ ⋅ 152\nC\t302  - π ⋅ 32\nD\t302  - π ⋅ 92\nE 302  - π ⋅152",
+  "processado_em": "2026-05-08T14:06:52.107855",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

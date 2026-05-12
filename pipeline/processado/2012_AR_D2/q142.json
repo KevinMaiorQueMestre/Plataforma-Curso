@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 142\t\nJogar baralho é uma atividade que estimula o \nraciocínio. Um jogo tradicional é a Paciência, que utiliza \n52 cartas. Inicialmente são formadas sete colunas com as \ncartas. A primeira coluna tem uma carta, a segunda tem \nduas cartas, a terceira tem três cartas, a quarta tem quatro \ncartas, e assim sucessivamente até a sétima coluna, a \nqual tem sete cartas, e o que sobra forma o monte, que \nsão as cartas não utilizadas nas colunas.\nA quantidade de cartas que forma o monte é\nA\t 21.\nB\t 24.\nC\t 26.\nD\t 28.\nE\t 31.",
+  "processado_em": "2026-05-08T13:59:46.792103",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

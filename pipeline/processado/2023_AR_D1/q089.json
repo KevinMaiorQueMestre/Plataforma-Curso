@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nSimulação de mudança da temperatura média anual em relação a\nSimulação de mudança da pluviosidade média anual em relação \n1,5 °C de aquecimento global\n2 °C de aquec\n1,5 °C de aquecimento global\n2 °C de aquec\nVariaç\nMais seco\nVariaç\n0\n-40\n-30\n-20\n-10\n0\n0,5\n1\n1,5\n2\n2,5\n3\n3\nQual medida é capaz de minimizar as mudanças apresen\nA\t\nA\t Expandir o transporte marítimo.\nB\t\nB\t Incentivar os fluxos migratórios.\nC\t\nC\t Monitorar as atividades vulcânicas.\nD\t\nD\t Controlar as emissões de carbono.\nE\t\nE\t Priorizar a utilização de termoelétricas.",
+  "processado_em": "2026-05-08T14:05:39.895965",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

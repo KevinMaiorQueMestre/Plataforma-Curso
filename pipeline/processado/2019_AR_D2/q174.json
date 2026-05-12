@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 174\t\nUm aplicativo de relacionamentos funciona da \nseguinte forma: o usuário cria um perfil com foto e \ninformações pessoais, indica as características dos \nusuários com quem deseja estabelecer contato e \ndetermina um raio de abrangência a partir da sua \nlocalização. O aplicativo identifica as pessoas que se \nencaixam no perfil desejado e que estão a uma distância \ndo usuário menor ou igual ao raio de abrangência. \nCaso dois usuários tenham perfis compatíveis e estejam \nnuma região de abrangência comum a ambos, o \naplicativo promove o contato entre os usuários, o que é \nchamado de match.\nO usuário P define um raio de abrangência com \nmedida de 3 km e busca ampliar a possibilidade de \nobter um match se deslocando para a região central da \ncidade, que concentra um maior número de usuários. \nO gráfico ilustra alguns bares que o usuário P costuma \nfrequentar para ativar o aplicativo, indicados por \nI, II, III, IV e V. Sabe-se que os usuários Q, R e S, \ncujas posições estão descritas pelo gráfico, são \ncompatíveis com o usuário P, e que estes definiram \nraios de abrangência respectivamente iguais a \n3 km, 2 km e 5 km.\nQ\nR\nIV\nI\n8\n7\n6\n5\n4\n3\n2\n1\n1\n0\n2\n3\n4\n5\n6\n7\nII\nIII\nV\nS\nP\nx (km)\ny (km)\nCom base no gráfico e nas afirmações anteriores, em \nqual bar o usuário P teria a possibilidade de um match \ncom os usuários Q, R e S, simultaneamente?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-11T23:27:38.089291",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

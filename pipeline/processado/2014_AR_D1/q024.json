@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 24\t\nAlguns dos desejos são naturais e necessários; \noutros, naturais e não necessários; outros, nem \nnaturais nem necessários, mas nascidos de vã opinião. \nOs desejos que não nos trazem dor se não satisfeitos \nnão são necessários, mas o seu impulso pode ser \nfacilmente desfeito, quando é difícil obter sua satisfação \nou parecem geradores de dano.\nEPICURO DE SAMOS. Doutrinas principais. In: SANSON, V. F. Textos de filosofia. \nRio de Janeiro: Eduff, 1974.\nNo fragmento da obra filosófica de Epicuro, o homem tem \ncomo fim\nA\t alcançar o prazer moderado e a felicidade.\nB\t valorizar os deveres e as obrigações sociais.\nC\t aceitar o sofrimento e o rigorismo da vida com \nresignação.\nD\t refletir sobre os valores e as normas dadas pela \ndivindade.\nE\t defender a indiferença e a impossibilidade de se \natingir o saber.",
+  "processado_em": "2026-05-08T14:00:28.169777",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "\u0018\f\b\u0005\r\u0004\t\u0002\b\u0005\u0004\t\u0002\u000f\n\u0002P\f\u0005\u000f\b'\u001d\u0004\u0002\n\t\t\b\u0002\u001e\u000e\u000f\b\u000f\n\u0002\u001e\u0004\u0010\n\u0010\u0004\u0007\b\u0007?\u0002\n\u0010\u0002\n~}&}\nA  379\nB  381\nC  579\nD  581\nE  601\nQuestão 137\nUma das bases mais utilizadas para representar um \nnúmero é a base decimal. Entretanto, os computadores \ntrabalham com números na base binária. Nessa base, \nqualquer número natural é representado usando apenas \nos algarismos 0 e 1. Por exemplo, as representações \n\u000f\u0004\t\u0002\u0005K\u0010\n\u0007\u0004\t\u0002\u0002\n\u0002{~$\u0002\u0005\b\u0002!\b\t\n\u0002!\u000e\u0005?\u0007\u000e\b$\u0002\t\u001d\u0004\u0002{}}{\u0002\n\u0002{{}}$\u0002\n\u0007\n\t%\n\u001e\r\u000e#\b\u0010\n\u0005\r\n(\u0002\u0012\u0002\u0004%\n\u0007\b'\u001d\u0004\u0002\u000f\n\u0002\b\u000f\u000e'\u001d\u0004$\u0002\u0005\b\u0002!\b\t\n\u0002!\u000e\u0005?\u0007\u000e\b$\u0002\nsegue um algoritmo similar ao utilizado na base decimal, \ncomo detalhado no quadro:\na\nb\na \u0006 b\n0\n0\n0\n0\n1\n1\n1\n0\n1\n1\n1\n10\nPor exemplo, na base binária, a soma dos números \n10 e 10 é 100, como apresentado:\n   10\n\u0006 10\n   \n____\n 100\nConsiderando as informações do texto, o resultado da \n\b\u000f\u000e'\u001do 9 \u0006 12 será representado, na base binária, por\nA  101.\nB  1101.\nC  1111.\nD  10101.\nE 11001",
+  "processado_em": "2026-05-08T14:04:30.620976",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

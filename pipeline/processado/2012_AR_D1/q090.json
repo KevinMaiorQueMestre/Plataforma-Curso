@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 90\t\nAspartame é um edulcorante artificial (adoçante \ndietético) que apresenta potencial adoçante 200 vezes maior \nque o açúcar comum, permitindo seu uso em pequenas \nquantidades. Muito usado pela indústria alimentícia, \nprincipalmente nos refrigerantes diet, tem valor energético \nque corresponde a 4 calorias/grama. É contraindicado a \nportadores de fenilcetonúria, uma doença genética rara que \nprovoca o acúmulo da fenilalanina no organismo, causando \nretardo mental. O IDA (índice diário aceitável) desse adoçante \né 40 mg/kg de massa corpórea.\nDisponível em: http://boaspraticasfarmaceuticas.blogspot.com. Acesso em: 27 fev. 2012.\nCom base nas informações do texto, a quantidade \nmáxima recomendada de aspartame, em mol, que uma \npessoa de 70 kg de massa corporal pode ingerir por dia é \nmais próxima de\nDado: massa molar do aspartame = 294 g/mol\nA\t 1,3 × 10–4.\nB\t 9,5 × 10–3.\nC\t 4 × 10–2.\nD\t 2,6.\nE 823",
+  "processado_em": "2026-05-08T13:59:02.528807",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

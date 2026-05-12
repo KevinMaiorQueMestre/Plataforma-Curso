@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nO processo de truncamento de um octaedro regular \nconsiste em retirar, a partir de cada vértice, uma pirâmide \nobtida pelo seccionamento desse poliedro por um plano, \nconforme a figura.\nNão há interseção entre duas dessas secções.\nDisponível em: www.matematicasvisuales.com. \nAcesso em: 21 out. 2019 (adaptado).\nQual é a quantidade de vértices do octaedro truncado?\nA\t6\nB\t8\nC\t14\nD\t24\nE 30",
+  "processado_em": "2026-05-08T14:06:05.167620",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

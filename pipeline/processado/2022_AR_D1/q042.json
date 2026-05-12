@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 42\t\n10 de maio\nFui na delegacia e falei com o tenente. Que homem \namavel! Se eu soubesse que ele era tão amavel, eu teria \nido na delegacia na primeira intimação. [...] O tenente \ninteressou-se pela educação dos meus filhos. Disse-me \nque a favela é um ambiente propenso, que as pessoas \ntem mais possibilidade de delinquir do que tornar-se util \na patria e ao país. Pensei: se ele sabe disto, porque não \nfaz um relatorio e envia para os politicos? O senhor Janio \nQuadros, o Kubstchek e o Dr. Adhemar de Barros? \nAgora falar para mim, que sou uma pobre lixeira. \nNão posso resolver nem as minhas dificuldades.\n... O Brasil precisa ser dirigido por uma pessoa que já \npassou fome. A fome tambem é professora.  \nQuem passa fome aprende a pensar no próximo, \ne nas crianças.\nJESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.\nA partir da intimação recebida pelo filho de 9 anos, \na autora faz uma reflexão em que transparece a\nA\t\nA\t lição de vida comunicada pelo tenente.\nB\t\nB\t predisposição materna para se emocionar. \nC\t\nC\t atividade política marcante da comunidade.\nD\t\nD\t resposta irônica ante o discurso da autoridade.\nE\t\nE\t necessidade de revelar seus anseios mais íntimos.",
+  "processado_em": "2026-05-08T14:05:00.628215",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

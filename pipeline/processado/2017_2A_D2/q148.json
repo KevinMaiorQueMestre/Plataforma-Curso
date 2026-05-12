@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\n&LQFR\u0003UHJL}HV\u0003GH\u0003XP\u0003SDtV\u0003HVWmR\u0003EXVFDQGR\u0003UHFXUVRV\u0003\nno Governo Federal para diminuir a taxa de desemprego \nGH\u0003VXD\u0003SRSXODomR\u0011\u00033DUD\u0003GHFLGLU\u0003TXDO\u0003UHJLmR\u0003UHFHEHULD\u0003R\u0003\nrecurso, foram colhidas as taxas de desemprego, em \nSRUFHQWDJHP\u000f\u0003 GRV\u0003 ~OWLPRV\u0003 WUrV\u0003 DQRV\u0011\u0003 2V\u0003 GDGRV\u0003 HVWmR\u0003\napresentados na tabela.\nTaxa de desemprego (%)\nRegião\n A\nRegião\n B\nRegião\n C\nRegião\n D\nRegião\n E\nAno I\n12,1\n12,5\n11,9\n11,6\n8,2\nAno II\n11,7\n10,5\n12,7\n9,5\n12,6\nAno III\n12,0\n11,6\n10,9\n12,8\n12,7\n)LFRX\u0003GHFLGLGR\u0003TXH\u0003D\u0003UHJLmR\u0003FRQWHPSODGD\u0003FRP\u0003D\u0003PDLRU\u0003\nparte do recurso seria aquela com a maior mediana das \ntaxas de desemprego dos últimos três anos.\n$\u0003UHJLmR\u0003TXH\u0003GHYH\u0003UHFHEHU\u0003D\u0003PDLRU\u0003SDUWH\u0003GR\u0003UHFXUVR\u0003p\u0003D\nA A.\nB B.\nC C.\nD D.\nE E.",
+  "processado_em": "2026-05-11T23:25:30.291420",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

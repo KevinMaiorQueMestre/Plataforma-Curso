@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LC\n1º dia | Caderno 1\nAZUL\nPágina 18\nQUESTÃO 44\nDois parlamentos\nNestes cemitérios gerais\nnão há morte pessoal.\nNenhum morto se viu\ncom modelo seu, especial.\nVão todos com a morte padrão,\nem série fabricada. \nMorte que não se escolhe\ne aqui é fornecida de graça.\nQue acaba sempre por se impor\nsobre a que já medrasse.\nVence a que, mais pessoal, \nalguém já trouxesse na carne.\n0DV\u0003D¿QDO\u0003WHP\u0003VXDV\u0003YDQWDJHQV\nesta morte em série.\nFaz defuntos funcionais, \npróprios a uma terra sem vermes.\nMELO NETO, J. C. Serial e antes. Rio de Janeiro: Nova Fronteira, 1997 (fragmento).",
+  "processado_em": "2026-05-11T23:25:20.650065",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

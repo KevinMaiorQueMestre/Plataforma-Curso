@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 138 \nUma loja de artigos esportivos fez a seguinte promoção: pa\no cliente retira aleatoriamente uma única ficha de uma urna pa\ne 50 vermelhas, todas com igual probabilidade de serem retira\nO gerente dessa loja acrescentará algumas fichas branca\nretirada ser branca seja superior a 50%.\nQual é a quantidade mínima de fichas brancas que ele acresce\nA 81\nB 61\nC 41\nD 31\nE 21",
+  "processado_em": "2026-05-08T14:06:36.618534",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

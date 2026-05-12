@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nA cidade de Guarulhos (SP) tem o 8º PIB municipal \ndo Brasil, além do maior aeroporto da América do Sul. \nEm proporção, possui a economia que mais cresce em \nindústrias, conforme mostra o gráfico.\nCrescimento - Indústria\nBrasil\nSão Paulo\n(Estado)\nSão Paulo\n(Capital)\nGuarulhos\n60%\n65%\n55%\n50%\n45%\n40%\n35%\n30%\n25%\n20%\n15%\n30,95%\n14,76%\n3,57%\n10%\n5%\n0%\n60,52%\nFonte: IBGE, 2002-2008 (adaptado).\nAnalisando os dados percentuais do gráfico, qual a \ndiferença entre o maior e o menor centro em crescimento \nno polo das indústrias?\nA\t 75,28\nB\t 64,09\nC\t 56,95\nD\t 45,76\nE\t 30,07",
+  "processado_em": "2026-05-08T14:00:22.967226",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

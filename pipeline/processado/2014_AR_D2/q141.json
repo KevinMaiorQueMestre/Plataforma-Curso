@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nO gráfico apresenta as taxas de desemprego durante \no ano de 2011 e o primeiro semestre de 2012 na região \nmetropolitana de São Paulo. A taxa de desemprego total é \na soma das taxas de desemprego aberto e oculto.\nJan. Fev. Mar. Abr. Maio Jun.\nJul. Ago. Set. Out. Nov. Dez.\n7,6\n2,0\n10,5 10,6 11,3 11,2 10,7 11,0 11,1 11,2 10,6 9,9\n9,5\n9,0\nEm %\n2,0\n2,0\n2,1\n2,1\n2,2\n8,4\n9,1\n9,1\n8,8\n9,0\nAberto/2012\nOculto/2012\nTotal/2011\nSuponha que a taxa de desemprego oculto do mês de \ndezembro de 2012 tenha sido a metade da mesma taxa \nem junho de 2012 e que a taxa de desemprego total em \ndezembro de 2012 seja igual a essa taxa em dezembro \nde 2011.\nDisponível em: www.dieese.org.br. Acesso em: 1 ago. 2012 (fragmento).\nNesse caso, a taxa de desemprego aberto de dezembro \nde 2012 teria sido, em termos percentuais, de\nA\t 1,1.\nB\t 3,5.\nC\t 4,5.\nD\t 6,8.\nE\t 7,9.",
+  "processado_em": "2026-05-08T14:00:38.835668",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

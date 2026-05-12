@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 117 \nEm um experimento, camundongos inalaram resíduos \nde cádmio, um metal presente no cigarro. Posteriormente, \nfoi verificada uma forte diminuição na fertilidade desses \nroedores, associada a uma alteração no funcionamento da \ncadeia respiratória mitocondrial dos espermatozoides.\nQual consequência intracelular decorre do mau funcionamento \ndessa organela?\nA Diminuição nos níveis de ATP.\nB Aumento na concentração de CO2.\nC Aumento no consumo de oxigênio.\nD Diminuição na ocorrência da glicólise.\nE Aumento na quantidade de glicogênio",
+  "processado_em": "2026-05-08T14:06:35.644659",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

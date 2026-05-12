@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "NEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 20\nQUESTÃO 92\t\nEm um autódromo, os carros podem derrapar em \numa curva e bater na parede de proteção. Para diminuir \no impacto de uma batida, pode-se colocar na parede \numa barreira de pneus, isso faz com que a colisão \nseja mais demorada e o carro retorne com velocidade \nreduzida. Outra opção é colocar uma barreira de blocos \nde um material que se deforma, tornando-a tão demorada \nquanto a colisão com os pneus, mas que não permite a \nvolta do carro após a colisão.\nComparando as duas situações, como ficam a força média \nexercida sobre o carro e a energia mecânica dissipada?\nA\t\nA\t A força é maior na colisão com a barreira de pneus, e \na energia dissipada é maior na colisão com a barreira \nde blocos.\nB\t\nB\t A força é maior na colisão com a barreira de blocos, e \na energia dissipada é maior na colisão com a barreira \nde pneus.\nC\t\nC\t A força é maior na colisão com a barreira de blocos, e \na energia dissipada é a mesma nas duas situações.\nD\t\nD\t A força é maior na colisão com a barreira de pneus, e \na energia dissipada é maior na colisão com a barreira \nde pneus.\nE\t\nE\t A força é maior na colisão com a barreira de blocos, e \na energia dissipada é maior na colisão com a barreira \nA\nC\nC\nCH3\nCH3\nNH2\nH\n−S\nCOO\n−\nB\nC\nC\nCH3\nCH3\nNH2\nH\n−S\nCOOH\nC\nS\nH\nC\nC\nCH3\nCH3 H\nNH3\n+\nCOO\n−\nD\nC\nC\nCH3\nCH3 H\n−S\nCOOH\nNH3\n+\nE\nS\nH\nC\nC\nCH3\nCH3 H\nNH3\n+\nCOOH",
+  "processado_em": "2026-05-11T23:28:58.081002",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

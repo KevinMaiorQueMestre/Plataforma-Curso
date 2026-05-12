@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\nA Ecofont possui design baseado na velha fonte \nVera Sans. Porém, ela tem um diferencial: pequenos \nburaquinhos circulares congruentes, e em todo o seu corpo, \npresentes em cada símbolo. Esses furos proporcionam \num gasto de tinta menor na hora da iPSUHVVmR",
+  "processado_em": "2026-05-11T23:26:50.153313",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

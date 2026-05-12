@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nUma empresa produziu uma bola de chocolate, \nem formato esférico, para utilizar na decoração de sua \nloja. Essa bola tem 20 cm de diâmetro externo, sendo oca \npor dentro, e a medida da espessura entre as superfícies \ninterna e externa corresponde a 1 cm. Considere que, \nna confecção dessa bola, foi utilizado um tipo de chocolate \nem que 1 g equivale a 0,75 cm³.\nA quantidade de chocolate, em grama, utilizado na confecção \ndessa bola é\nA\t\nA\t  \n76\n3\nπ\nB\t\nB\t  \n304\n9\nπ\nC\t\nC\t  \n4 336\n9\nπ\nD\t\nD\t  \n4 000\n3\nπ\nE\t\nE\t  \n18 256\n9\nπ",
+  "processado_em": "2026-05-08T14:05:28.665649",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

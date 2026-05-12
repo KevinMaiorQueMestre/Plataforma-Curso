@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\t\nAquecedores elétricos utilizam resistência de fio, \nsuportando uma corrente máxima dimensionada pelo \nfabricante. O dimensionamento original do circuito elétrico \nde um aquecedor, esquematizado na figura, foi utilizado \npara provocar a elevação de temperatura em um volume \nde água, durante um determinado intervalo de tempo.\nCaso se pretenda utilizar uma tensão de 250 V, \no circuito precisará ser redimensionado, para garantir o \ncorreto funcionamento do aquecedor. A corrente deve \nser mantida, considerando-se o aquecimento do mesmo \nvolume de água, à mesma temperatura, durante o mesmo \nintervalo de tempo.\nNesse redimensionamento, deve-se acrescentar ao \ncircuito um resistor de\nA\t22,5 Ω em paralelo.\nB\t22,5 Ω em série.\nC\t71,1 Ω em paralelo.\nD\t71,1 Ω em série.\nE 101 1 Ωem paralelo",
+  "processado_em": "2026-05-08T14:06:00.112060",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nEm um colégio público, a admissão no primeiro ano se \ndá por sorteio. Neste ano há 55 candidatos, cujas inscrições \nsão numeradas de 01 a 55. O sorteio de cada número de \ninscrição será realizado em etapas, utilizando-se duas \nurnas. Da primeira urna será sorteada uma bola, dentre \nbolas numeradas de 0 a 9, que representará o algarismo \ndas unidades do número de inscrição a ser sorteado e, em \nseguida, da segunda urna, será sorteada uma bola para \nrepresentar o algarismo das dezenas desse número. Depois \ndo primeiro sorteio, e antes de se sortear o algarismo das \ndezenas, as bolas que estarão presentes na segunda \nurna serão apenas aquelas cujos números formam, com o \nalgarismo já sorteado, um número de 01 a 55.\nAs probabilidades de os candidatos de inscrição número \n50 e 02 serem sorteados são, respectivamente,\nA\t\nA\t  1\n50\n1\n60\ne\nB\t\nB\t  1\n50\n1\n50\ne\nC\t\nC\t  1\n50\n1\n10\ne\nD\t\nD\t  1\n55\n1\n54\ne\nE\t\nE\t  \n1\n100\n1\n100\ne",
+  "processado_em": "2026-05-08T14:05:46.387291",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

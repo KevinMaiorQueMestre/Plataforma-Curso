@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 172\nAté a Copa de 2010, apenas sete jogadores haviam \nconseguido o feito de marcar 8 ou mais gols em uma \n\u0010\n\t\u0010\b\u0002\n\u000f\u000e'\u001d\u0004\u0002\u000f\b\u0002\u0003\u0004%\b\u0002\u000f\u0004\u0002\f\u0005\u000f\u0004(\u0002\u0017\u0002\u000b\f\b\u000f\u0007\u0004\u0002\b%\u0007\n\t\n\u0005\r\b\u0002\nos anos das edições da copa nas quais ocorreram esses \nfeitos, quais foram os jogadores que os realizaram e os \nrespectivos números de gols marcados por cada um deles.\nAno\nNome do jogador\nNúmero de gols \nmarcados\n1930\nGuillermo Stábile\n8\n1950\nAdemir de Menezes\n9\n1954\nSandor Kocsis\n11\n1958\nJust Fontaine\n13\n1966\nEusébio\n9\n1970\nGerd Müller\n10\n2002\nRonaldo Nazário\n8",
+  "processado_em": "2026-05-08T14:04:17.741118",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t as substâncias resultantes da queima de fogos de \nartifício são inflamáveis.\nB \t os resíduos produzidos na queima de fogos de \nartifício ainda são explosivos.\nC \t o sódio e o potássio são os principais responsáveis \npela toxicidade do produto da queima.\nD \t os produtos da queima contêm metais pesados e \ngases tóxicos que resultam em poluição atmosférica.\nE \t o material particulado gerado se deposita na superfície \ndas folhas das plantas impedindo os processos de \nrespiração celular.\nQuestão 112        \nHá muitos mitos em relação a como se proteger de \nraios, cobrir espelhos e não pegar em facas, garfos e \noutros objetos metálicos, por exemplo. Mas, de fato, se \nhouver uma tempestade com raios, alguns cuidados são \nimportantes, como evitar ambientes abertos. Um bom \nabrigo para proteção é o interior de um automóvel, desde \nque este não seja conversível.\nOLIVEIRA, A. Raios nas tempestades de verão. Disponível em:\nhttp://cienciahoje.uol.com.br. Acesso em: 10 dez. 2014 (adaptado).\nQual o motivo físico da proteção fornecida pelos \nautomóveis, conforme citado no texto?\nA \t Isolamento elétrico dos pneus.\nB \t Efeito de para-raios da antena.\nC \t Blindagem pela carcaça metálica.\nD \t Escoamento da água pela lataria.\nE \t Aterramento pelo fio terra da bateria.",
+  "processado_em": "2026-05-11T23:28:13.951736",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

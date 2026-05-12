@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS\nQuestões de 01 a 45 \nQuestões de 01 a 05 (opção inglês)\nQUESTÃO 03\t\nThings We Carry on the Sea\nW\nt\ni\nd b\nf th\nd b",
+  "processado_em": "2026-05-11T23:29:11.551268",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 282.0
+  }
+}

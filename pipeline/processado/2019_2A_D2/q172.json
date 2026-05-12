@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 172\t\nA unidade de medida utilizada para anunciar o \ntamanho das telas de televisores no Brasil é a polegada, \nque corresponde a 2,54 cm. Diferentemente do que muitos \nimaginam, dizer que a tela de uma TV tem X polegadas \nsignifica que a diagonal do retângulo que representa sua \ntela mede X polegadas, conforme ilustração.\nA\nC\nX\nO administrador de um museu recebeu uma TV \nconvencional de 20 polegadas, que tem como razão \ndo comprimento (C) pela altura (A) a proporção 4 : 3, e \nprecisa calcular o comprimento (C) dessa TV a fim de \nl\ná l\nt\nt\ni ã",
+  "processado_em": "2026-05-11T23:27:13.637415",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

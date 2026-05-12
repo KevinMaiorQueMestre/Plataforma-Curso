@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nUma imobiliária iniciou uma campanha de divulgação \npara promover a venda de apartamentos que podem ser \npagos em 100 parcelas mensais. O valor da primeira delas \né fixado no momento da compra, com o pagamento dessa \nprimeira parcela. A partir da segunda parcela, o valor é \ndeterminado pela aplicação de um acréscimo percentual \nfixo ao valor da parcela anterior. Como atrativo, a imobiliária \nfará o pagamento de todas as parcelas correspondentes \nao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio, \ndecidiu comprar um desses apartamentos por meio do \nfinanciamento oferecido pela imobiliária, e pretende escolher \no mês mais adequado para realizar essa compra, de modo \nque o valor total dos pagamentos seja o menor possível.\nQual é o mês que esse cliente deverá escolher para \nrealizar a compra do apartamento?\nA\tFevereiro.\nB\tAbril.\nC\tMaio.\nD\tJunho.\nE\tAgosto.",
+  "processado_em": "2026-05-08T14:06:19.731484",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

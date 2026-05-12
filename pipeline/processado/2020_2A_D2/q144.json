@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 144          \nO gerente de uma concessionária apresentou a seguinte \nreunião, a fim de elaborar metas e planos para o próximo an\ndo número de automóveis vendidos no período de janeiro a d\nMês\nNú\nJaneiro\nFevereiro\nMarço\nAbril\nMaio\nJunho\nJulho\nAgosto\nSetembro\nOutubro\nNovembro\nDezembro\nQual foi a mediana dos dados apresentados?\nA \t 40,0\nB \t 42,5\nC \t 45,0\nD \t 47,5\nE \t 50,0",
+  "processado_em": "2026-05-08T14:03:38.260701",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

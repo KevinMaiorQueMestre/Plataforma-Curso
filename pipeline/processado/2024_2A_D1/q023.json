@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 23\t\nO doping esportivo é a utilização, por um atleta, \nde substâncias para melhorar sua performance de forma \nartificial. Atualmente, os jornais publicam escândalos \nenvolvendo técnicos e atletas pegos no exame antidoping \ndurante competições esportivas internacionais. O uso ilícito \nde substâncias — medicamentos e hormônios — como \nartifício para ganhar competições esportivas é muito antigo e \njá acontecia nos Jogos Olímpicos da Antiguidade. Ao longo dos \nanos, esse tipo de artimanha tem se sofisticado. Ao mesmo \ntempo em que os fármacos são aprimorados para passarem \ndespercebidos nos exames de urina e de sangue feitos nos \natletas, os próprios métodos de detecção também se sofisticam.\nCOSTA, R. Disponível em: https://novaescola.org.br. \nAcesso em: 13 jun. 2024 (adaptado).\nEsse texto leva a uma reflexão ética sobre o doping ao \nabordar o(a)\nA\tvisibilidade midiática dessa temática.\nB\tresultado dos exames feitos com atletas.\nC\tmelhoria da performance de forma ilegal.\nD\thistória do esporte desde a Grécia Antiga.\nE\taprimoramento de substâncias presentes no corpo.",
+  "processado_em": "2026-05-08T14:05:52.742131",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

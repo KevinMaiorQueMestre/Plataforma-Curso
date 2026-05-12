@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 20\t\nBandeira do Brasil, és hoje a única. Hasteada a esta \nhora em todo o território nacional, única e só, não há lugar \nno coração do Brasil para outras flâmulas, outras bandeiras, \noutros símbolos. Os brasileiros se reuniram em torno do \nBrasil e decretaram desta vez com determinação de não \nconsentir que a discórdia volte novamente a dividi-lo!\nDiscurso do Ministro da Justiça Francisco Campos na cerimônia da festa da bandeira, em novembro \nde 1937. Apud OLIVEN, G. R. A parte e o todo: a diversidade cultural do Brasil Nação. \nPetrópolis: Vozes, 1992.\nO discurso proferido em uma celebração em que as \nbandeiras estaduais eram queimadas diante da bandeira \nnacional revela o pacto nacional proposto pelo Estado \nNovo, que se associa à\nA\t supressão das diferenças socioeconômicas entre as \nregiões do Brasil, priorizando as regiões estaduais \ncarentes.\nB\t orientação do regime quanto ao reforço do \nfederalismo, espelhando-se na experiência política \nnorte-americana.\nC\t adoção de práticas políticas autoritárias, considerando \na contenção dos interesses regionais dispersivos.\nD\t propagação de uma cultura política avessa aos ritos \ncívicos, cultivados pela cultura regional brasileira.\nE\t defesa da unidade do território nacional, ameaçado \npor movimentos separatistas contrários à política \nvarguista.",
+  "processado_em": "2026-05-08T14:00:43.915673",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

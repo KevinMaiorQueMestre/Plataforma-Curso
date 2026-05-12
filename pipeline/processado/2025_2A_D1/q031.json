@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 31 \nCACO GAL\nUm dos impactos sociais das tecnologias de comunicação e inf\nA dificuldade do ser humano para sobreviver no mundo tecno\nB necessidade de momentos de distanciamento da tecnolog\nC impossibilidade da associação entre tecnologia e descanso.\nD ineficácia da meditação por meio de sites e aplicativos.\nE dependência do uso de tecnologias no cotidiano.",
+  "processado_em": "2026-05-08T14:06:27.334849",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

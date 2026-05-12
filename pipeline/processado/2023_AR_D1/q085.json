@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 85\t\nProdutores rurais europeus são antigos opositores \nde um grande acordo com o Mercosul. Na visão deles, \nexiste um nítido risco de concorrência desleal, pois, na \nEuropa, é preciso seguir regras mais rígidas de produção, \no que encarece o processo. Assim, eles não conseguiriam \ncompetir com os preços, por exemplo, da carne brasileira \ne teriam seus negócios ameaçados. Por outro lado, o setor \nindustrial europeu se mobiliza a favor do acordo, uma \nvez que as reduções de tarifas no comércio internacional \ndariam maior acesso ao mercado sul-americano. Um \nexemplo é o setor automotivo europeu, que prevê maior \nparticipação e concorrência nos países do Mercosul caso \no acordo siga em frente.\nROUBICEK, M. Como o risco ambiental afeta o acordo entre Mercosul e União Europeia. \nDisponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.\nNo contexto do acordo citado, os dois grupos econômicos \neuropeus defendem, respectivamente, a\nA\t\nA\t restrição dos fluxos migratórios e a maior atuação de \nsindicatos.\nB\t\nB\t ampliação das leis trabalhistas e a plena importação \nde manufaturados.\nC\t\nC\t proteção das florestas nacionais e a ampla \ntransferência de tecnologias.\nD\t\nD\t manutenção das barreiras fitossanitárias e a livre \ncirculação de mercadorias.\nE\t\nE\t remoção dos entraves alfandegários e a melhor \nremuneração de empregados.",
+  "processado_em": "2026-05-08T14:05:39.687753",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

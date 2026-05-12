@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 48\t\nMuitos estudos de síntese e endereçamento de \nproteínas utilizam aminoácidos marcados radioativamente \npara acompanhar as proteínas, desde fases iniciais de \nsua produção até seu destino final. Esses ensaios foram \nmuito empregados para estudo e caracterização de \ncélulas secretoras.\nApós esses ensaios de radioatividade, qual gráfico \nrepresenta a evolução temporal da produção de proteínas \ne sua localização em uma célula secretora?\nA\t  \n5 min                    10 min                   15 min\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nTempo\nRadioatividade (%)\nRetículo Endoplasmático\nComplexo Golgiense\nVesículas de Secreção\nB\t  \n5 min                    10 min                   15 min\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nTempo\nRadioatividade (%)\nRetículo Endoplasmático\nComplexo Golgiense\nVesículas de Secreção\nC\t  \n5 min                    10 min                   15 min\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nTempo\nRadioatividade (%)\nRetículo Endoplasmático\nComplexo Golgiense\nVesículas de Secreção\nD\t  \n5 min                    10 min                   15 min\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nTempo\nRadioatividade (%)\nRetículo Endoplasmático\nComplexo Golgiense\nVesículas de Secreção\nE\t  \n5 min                    10 min                   15 min\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nTempo\nRadioatividade (%)\nRetículo Endoplasmático\nComplexo Golgiense\nVesículas de Secreção",
+  "processado_em": "2026-05-08T14:00:46.204893",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

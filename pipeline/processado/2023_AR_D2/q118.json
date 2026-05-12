@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 118\t\nO consumo exagerado de refrigerantes é preocupante, \npois contribui para o aumento de casos de obesidade e \ndiabetes. Considere dois refrigerantes enlatados, um \ncomum e um diet, e que ambos possuam a mesma \nquantidade de aditivos, exceto pela presença de \naçúcar. O refrigerante comum contém basicamente \nágua carbonatada e grande quantidade de açúcar; \njá o refrigerante diet tem água carbonatada e adoçantes, \ncujas massas são muito pequenas.\nCAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor \nde sacarose e CO2 em refrigerantes. Química Nova na Escola, n. 3, ago. 2014 (adaptado).\nEntre as duas versões apresentadas, o refrigerante \ncomum possui\nA\t\nA\t maior densidade.\nB\t\nB\t menor viscosidade.\nC\t\nC\t maior volume de gás dissolvido.\nD\t\nD\t menor massa de solutos dissolvidos.\nE\t\nE\t maior temperatura de congelamento.",
+  "processado_em": "2026-05-08T14:05:44.356553",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

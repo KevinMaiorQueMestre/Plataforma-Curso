@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 03\t\nNo dia 1º de julho de 2012, a cidade do Rio de Janeiro \ntornou-se a primeira do mundo a receber o título da \nUnesco de Patrimônio Mundial como Paisagem Cultural. \nA candidatura, apresentada pelo Instituto do Patrimônio \nHistórico e Artístico Nacional (Iphan), foi aprovada \ndurante a 36ª Sessão do Comitê do Patrimônio Mundial. \nO presidente do Iphan explicou que “a paisagem carioca \né a imagem mais explícita do que podemos chamar de \ncivilização brasileira, com sua originalidade, desafios, \ncontradições e possibilidades”. A partir de agora, os \nlocais da cidade valorizados com o título da Unesco serão \nalvo de ações integradas visando a preservação da sua \npaisagem cultural.\nDisponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado).\nO reconhecimento da paisagem em questão como \npatrimônio mundial deriva da\nA\t presença do corpo artístico local.\nB\t imagem internacional da metrópole.\nC\t herança de prédios da ex-capital do país.\nD\t diversidade de culturas presente na cidade.\nE\t relação sociedade-natureza de caráter singular.",
+  "processado_em": "2026-05-08T14:00:08.024417",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

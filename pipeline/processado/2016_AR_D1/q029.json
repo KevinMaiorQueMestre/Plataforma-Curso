@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 29\t\nO conceito de função social da cidade incorpora a \norganização do espaço físico como fruto da regulação \nsocial, isto é, a cidade deve contemplar todos os seus \nmoradores e não somente aqueles que estão no mercado \nformal da produção capitalista da cidade. A tradição dos \ncódigos de edificação, uso e ocupação do solo no Brasil \nsempre partiram do pressuposto de que a cidade não tem \ndivisões entre os incluídos e os excluídos socialmente.\nQUINTO JR., L. P. Nova legislação urbana e os velhos fantasmas. \nEstudos Avançados (USP), n. 47, 2003 (adaptado).\nUma política governamental que contribui para viabilizar a \nfunção social da cidade, nos moldes indicados no texto, é a\nA\t qualificação \nde \nserviços \npúblicos \nem \nbairros \nperiféricos.\nB\t implantação de centros comerciais em eixos \nrodoviários.\nC\t proibição de construções residenciais em regiões \níngremes.\nD\t disseminação de equipamentos culturais em locais \nturísticos.\nE\t desregulamentação do setor imobiliário em áreas \nfavelizadas.",
+  "processado_em": "2026-05-08T14:01:05.419503",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

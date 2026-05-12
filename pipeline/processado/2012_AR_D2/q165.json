@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nEm exposições de artes plásticas, é usual que \nestátuas sejam expostas sobre plataformas giratórias. \nUma medida de segurança é que a base da escultura \nesteja integralmente apoiada sobre a plataforma. Para \nque se providencie o equipamento adequado, no caso de \numa base quadrada que será fixada sobre uma plataforma \ncircular, o auxiliar técnico do evento deve estimar a \nmedida R do raio adequado para a plataforma em termos \nda medida L do lado da base da estátua.\nQual relação entre R e L o auxiliar técnico deverá \napresentar de modo que a exigência de segurança \nseja cumprida?\nA\nR ≥ L / 2\nB\nR ≥ 2L / π\nC\nR ≥ L / π\nD\nR ≥ L / 2\nE\nR ≥ L / (2 2)",
+  "processado_em": "2026-05-08T13:59:15.151125",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

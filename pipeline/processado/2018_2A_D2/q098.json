@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nBaterias de lítio, utilizadas em dispositivos eletrônicos \nportáteis, são constituídas de células individuais com \nddp de 3,6 V. É comum os fabricantes de computadores \nutilizarem as células individuais para a obtenção de \nbaterias de 10,8 V ou 14,4 V. No entanto, fazem a \npropaganda de seus produtos fornecendo a informação \ndo número de células da bateria e sua capacidade de \ncarga em mAh, por exemplo, 4 400 mAh.\nDisponível em: www.laptopbattery.net. Acesso em: 15 nov. 2011 (adaptado).\nDentre as baterias de 10,8 V e 14,4 V, constituídas por \n12 células individuais, qual possui maior capacidade \nde carga?\nA\t A bateria de 10,8 V, porque possui combinações em \nparalelo de 4 conjuntos com 3 células em série.\nB\t A bateria de 14,4 V, porque possui combinações em \nparalelo de 3 conjuntos com 4 células em série.\nC\t A bateria de 14,4 V, porque possui combinações em \nsérie de 3 conjuntos com 4 células em paralelo.\nD\t A bateria de 10,8 V, porque possui combinações em \nsérie de 4 conjuntos com 3 células em paralelo.\nE\t A bateria de 10,8 V, porque possui combinações em \nsérie de 3 conjuntos com 4 células em série.",
+  "processado_em": "2026-05-11T23:26:19.609795",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

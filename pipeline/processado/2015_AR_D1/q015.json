@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 15\t\nO Projeto Nova Cartografia Social da Amazônia \nensina \nindígenas, \nquilombolas \ne \noutros \ngrupos \ntradicionais a empregar o GPS e técnicas modernas de \ngeorreferenciamento para produzir mapas artesanais, \nmas bastante precisos, de suas próprias terras.\nLOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado).\nA existência de um projeto como o apresentado no \ntexto indica a importância da cartografia como elemento \npromotor da\nA\t expansão da fronteira agrícola.\nB\t remoção de populações nativas.\nC\t superação da condição de pobreza.\nD\t valorização de identidades coletivas.\nE\t implantação de modernos projetos agroindustriais.",
+  "processado_em": "2026-05-08T14:00:43.396111",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

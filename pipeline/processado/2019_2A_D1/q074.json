@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 74\t\nEmbora os centros de decisão permaneçam \nfortemente centralizados nas cidades mundiais, as \natividades produtivas podem ser desconcentradas, desde \nque haja conexões fáceis entre as unidades produtivas \ne os centros de gestão e exista a disponibilidade de \ntrabalho qualificado e uma base técnica adequada às \noperações industriais.\nEGLER, C. A. G. Questão regional e a gestão do território no Brasil. \nIn: CASTRO, I. E.; CORRÊA, R. L.; GOMES, P. C. C. (Org.). Geografia: \nconceitos e temas. Rio de Janeiro: Bertrand Brasil, 2014.\nA mudança nas atividades produtivas a que o texto faz \nreferência é motivada pelo seguinte fator:\nA\t Definição volátil das taxas aduaneiras e cambiais.\nB\t Prestação regulada de serviços bancários e \nfinanceiros.\nC\t Controle estrito do planejamento familiar e fluxo \npopulacional.\nD\t Renovação constante das normas jurídicas e marcos \ncontratuais.\nE\t Oferta suficiente de infraestruturas logísticas e \nserviços especializados.",
+  "processado_em": "2026-05-11T23:27:02.335759",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 01\t\nSentimos que toda satisfação de nossos desejos \nadvinda do mundo assemelha-se à esmola que mantém \nhoje o mendigo vivo, porém prolonga amanhã a sua \nfome. A resignação, ao contrário, assemelha-se à \nfortuna herdada: livra o herdeiro para sempre de todas \nas preocupações.\nSCHOPENHAUER, A. Aforismo para a sabedoria da vida. São Paulo: Martins Fontes, 2005.\nO trecho destaca uma ideia remanescente de uma \ntradição filosófica ocidental, segundo a qual a felicidade \nse mostra indissociavelmente ligada à\nA\t consagração de relacionamentos afetivos.\nB\t administração da independência interior.\nC\t fugacidade do conhecimento empírico. \nD\t liberdade de expressão religiosa. \nE\t busca de prazeres efêmeros.",
+  "processado_em": "2026-05-08T14:01:01.754885",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

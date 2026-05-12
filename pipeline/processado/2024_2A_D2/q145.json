@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nO automóvel é um bem que se desvaloriza muito \nrapidamente, quando comparado a outros bens. Após \na venda, um automóvel novo já sofre uma grande \ndesvalorização. O histórico de um automóvel novo, \nvendido por R$ 30 000,00, apresenta os seguintes \nvalores (V ) de mercado, após decorridos os períodos \nindicados a seguir:\n•\t ao final de um ano, R$ 27 000,00;\n•\t ao final de dois anos, R$ 24 300,00;\n•\t ao final de três anos, R$ 21 870,00.\nEsses preços seguiram um modelo exponencial que \nexpressa V em função do número n de ano de uso, pela \nrelação V(n) = V0 · q n, em que V0 é o valor inicial, q é o \nfator de desvalorização e n é o tempo, em ano, decorrido \napós a venda.\nO valor, em milhar de real, com uma casa decimal, que \nmais se aproxima do valor de mercado desse carro, ao \nfinal de seis anos, é\nA\t13,7.\nB\t14,3.\nC\t14,6.\nD\t15,9.\nE\t17,7.",
+  "processado_em": "2026-05-08T14:06:04.095491",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

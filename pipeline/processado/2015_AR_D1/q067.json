@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nDurante uma expedição, um grupo de estudantes \nperdeu-se de seu guia. Ao longo do dia em que esse \ngrupo estava perdido, sem água e debaixo de sol, os \nestudantes passaram a sentir cada vez mais sede. \nConsequentemente, o sistema excretor desses indivíduos \nteve um acréscimo em um dos seus processos funcionais.\nNessa situação o sistema excretor dos estudantes\nA\t aumentou a filtração glomerular.\nB\t produziu maior volume de urina.\nC\t produziu urina com menos ureia.\nD\t produziu urina com maior concentração de sais.\nE\t reduziu a reabsorção de glicose e aminoácidos.",
+  "processado_em": "2026-05-08T14:00:47.921640",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

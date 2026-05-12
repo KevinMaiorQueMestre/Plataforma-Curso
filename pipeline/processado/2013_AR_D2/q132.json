@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 132\t\nCasados e independentes\nUm novo levantamento do IBGE mostra que o número de \ncasamentos entre pessoas na faixa dos 60 anos cresce, \ndesde 2003, a um ritmo 60% maior que o observado na \npopulação brasileira como um todo...\n...e um fator determinante é que cada vez mais pessoas nessa \nidade estão no mercado de trabalho, o que lhes garante a \nindependência financeira necessária para o matrimônio.\nAumento no número de casamentos (entre 2003 e 2008)\nPopulação com mais de 60 anos no mercado de trabalho\nFontes: IBGE e Organização Internacional do Trabalho (OIT)\n* Com base no último dado disponível, de 2008\nEntre pessoas \nacima dos 60\nNa população\nbrasileira\nEm 2003\nHoje*\n44%\n28%\n31%\n38%\nVeja, São Paulo, 21 abr. 2010 (adaptado).\nOs gráficos expõem dados estatísticos por meio de \nlinguagem verbal e não verbal. No texto, o uso desse recurso\nA\t exemplifica o aumento da expectativa de vida da \npopulação.\nB\t explica o crescimento da confiança na instituição do \ncasamento.\nC\t mostra que a população brasileira aumentou nos \núltimos cinco anos.\nD\t indica que as taxas de casamento e emprego \ncresceram na mesma proporção.\nE\t sintetiza o crescente número de casamentos e de \nocupação no mercado de trabalho",
+  "processado_em": "2026-05-08T14:00:22.535204",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

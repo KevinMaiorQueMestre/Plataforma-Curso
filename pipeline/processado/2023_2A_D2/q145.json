@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nA proprietária de uma confecção pretende liquidar \nas camisas que possui em estoque, por meio de uma \npromoção na qual fará a venda de lotes com iguais \nquantidades de camisas. Para a 1ª semana, pretende \nanunciar a venda de cada lote de camisas por R$ 720,00. \nNa 2ª semana, para acelerar as vendas, planeja anunciar \na venda de lotes com 3 unidades a mais do que os lotes \nvendidos na primeira semana, ainda por R$ 720,00 cada \nlote, e de forma que o preço unitário de cada peça seja \nR$ 20,00 mais baixo do que o valor que teria sido cobrado \npor peça na 1ª semana de promoção.\nQuantas camisas deverão conter os lotes que serão \ncolocados à venda na 1ª semana para que seja possível \npraticar essa promoção?\nA\t\nA\t 9\nB\t\nB\t 12\nC\t\nC\t 24\nD\t\nD\t 33\nE\t\nE\t 105",
+  "processado_em": "2026-05-08T14:05:27.063368",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

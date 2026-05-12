@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nUma pessoa precisa se deslocar de automóvel do \nponto P para o ponto Q, indicados na figura, na qual as \nlinhas verticais e horizontais simbolizam ruas.\nP\nQ\nPor causa do sentido de tráfego nessas ruas, o \ncaminho poligonal destacado é a possibilidade mais \ncurta de efetuar esse deslocamento. Para descrevê-lo, \ndeve-se especificar qual o sentido a ser tomado em cada \ncruzamento de ruas, em relação à direção de deslocamento \ndo automóvel, que se movimentará continuamente. \nPara isso, empregam-se as letras E, F e D para indicar \n“vire à esquerda”, “siga em frente” e “vire à direita”, \nrespectivamente.\nA sequência de letras que descreve o caminho poligonal \ndestacado é\nA\t\nA\t DDEFDDEEFFD.\nB\t\nB\t DFEFDDDEFFD.\nC\t\nC\t DFEFDDEEFFD.\nD\t\nD\t EFDFEEDDFFE.\nE\t\nE\t EFDFEEEDFFE.",
+  "processado_em": "2026-05-08T14:05:11.553406",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

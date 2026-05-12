@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 171\nUma pessoa realizou uma pesquisa com alguns \nalunos de uma escola, coletando suas idades, e organizou \n\n\t\t\n\t\u0002\u000f\b\u000f\u0004\t\u0002\u0005\u0004\u0002J\u0007?\u0006\u001e\u0004(\nFrequência de ocorrência\nIdade (ano)\n12\n9\n6\n9\n18\n27\n\u0018\f\b2\u0002Z\u0002\b\u0002\u0010Z\u000f\u000e\b\u0002\u000f\b\t\u0002\u000e\u000f\b\u000f\n\t$\u0002\n\u0010\u0002\b\u0005\u0004$\u0002\u000f\n\t\t\n\t\u0002\b2\f\u0005\u0004\t\nA  9\nB  12\nC  18\nD  19\nE 27",
+  "processado_em": "2026-05-08T14:04:32.879577",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

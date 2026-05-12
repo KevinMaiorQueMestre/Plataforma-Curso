@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 70\t\nEm uma planície, ocorreu um acidente ambiental \nem \ndecorrência \ndo \nderramamento \nde \ngrande \nquantidade de um hidrocarboneto que se apresenta na \nforma pastosa à temperatura ambiente. Um químico \nambiental utilizou uma quantidade apropriada de \numa solução de para-dodecil-benzenossulfonato de \nsódio, um agente tensoativo sintético, para diminuir os \nimpactos desse acidente.\nEssa intervenção produz resultados positivos para o \nambiente porque\nA\t promove \numa \nreação \nde \nsubstituição \nno \nhidrocarboneto, tornando-o menos letal ao ambiente.\nB\t a hidrólise do para-dodecil-benzenossulfonato de \nsódio produz energia térmica suficiente para vaporizar \no hidrocarboneto.\nC\t a mistura desses reagentes provoca a combustão do \nhidrocarboneto, o que diminui a quantidade dessa \nsubstância na natureza.\nD\t a \nsolução \nde \npara-dodecil-benzenossulfonato \npossibilita a solubilização do hidrocarboneto.\nE\t o reagente adicionado provoca uma solidificação do \nhidrocarboneto o que facilita sua retirada do ambiente",
+  "processado_em": "2026-05-08T13:59:02.503018",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

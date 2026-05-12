@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nUm menino acaba de se mudar para um novo bairro \ne deseja ir à padaria. Pediu ajuda a um amigo que \nlhe forneceu um mapa com pontos numerados, que \nrepresentam cinco locais de interesse, entre os quais \nestá a padaria. Além disso, o amigo passou as seguintes \ninstruções: a partir do ponto em que você se encontra, \nrepresentado pela letra X, ande para oeste, vire à direita \nna primeira rua que encontrar, siga em frente e vire à \nesquerda na próxima rua. A padaria estará logo a seguir.\nRua A\nQuadra 1\nQuadra 2\nQuadra 3\nQuadra 4\nQuadra 5\nQuadra 6\nQuadra 7\nQuadra 8\nQuadra 9\nQuadra 10\nQuadra 11\nQuadra 12\nQuadra 13\nQuadra 14\nQuadra 15\nQuadra 16\nRua B\nRua C\nRua D\nRua E\nRua 1\nRua 2\n2\nRua 3\nRua 4\nRua 5\n1\nX\n4\n5\n3\nN\nS\nO\nL\nA padaria está representada pelo ponto numerado com\nA\t 1.\nB\t 2.\nC\t 3.\nD\t 4.\nE\t 5.",
+  "processado_em": "2026-05-11T23:25:56.028936",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 30\t\nA senhora manifestava-se por atos, por gestos, \ne sobretudo por um certo silêncio, que amargava, que esfolava. \nPorém desmoralizar escancaradamente o marido, não era \ncom ela. [...]\nAs negras receberam ordem para meter no serviço a gente \ndo tal compadre Silveira: as cunhadas, ao fuso; os cunhados, \nao campo, tratar do gado com os vaqueiros; a mulher e as \nirmãs, que se ocupassem da ninhada. Margarida não tivera \nfilhos, e como os desejasse com a força de suas vontades, \ntratava sempre bem aos pequenitos e às mães que os estavam \ncriando. Não era isso uma sentimentalidade cristã, uma ternura, \nera o egoísta e cru instinto da maternidade, obrando por mera \nsimpatia carnal. Quanto ao pai do lote (referia-se ao Antônio), \nesse que fosse ajudar ao vaqueiro das bestas.\nOrdens dadas, o Quinquim referendava. Cada um \nmoralizava o outro, para moralizar-se.\nPAIVA, M. O. Dona Guidinha do Poço. Rio de Janeiro: Tecnoprint, s/d.",
+  "processado_em": "2026-05-08T14:04:59.634051",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

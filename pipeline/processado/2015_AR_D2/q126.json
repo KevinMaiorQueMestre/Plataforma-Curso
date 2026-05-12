@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nNo ano de 1985 aconteceu um acidente muito grave \nem Angra dos Reis, no Rio de Janeiro, perto da aldeia \nguarani de Sapukai. Choveu muito e as águas pluviais \nprovocaram deslizamentos de terras das encostas da \nSerra do Mar, destruindo o Laboratório de Radioecologia \nda Central Nuclear Almirante Álvaro Alberto, construída \nem 1970 num lugar que os índios tupinambás, há mais de \n500 anos, chamavam de Itaorna. O prejuízo foi calculado \nna época em 8 bilhões de cruzeiros. Os engenheiros \nresponsáveis pela construção da usina nuclear não \nsabiam que o nome dado pelos índios continha informação \nsobre a estrutura do solo, minado pelas águas da chuva. \nSó descobriram que Itaorna, em língua tupinambá, quer \ndizer ‘pedra podre’, depois do acidente.\nFREIRE, J. R. B. Disponível em: www.taquiprati.com.br. Acesso em: 1 ago. 2012 (adaptado).\nConsiderando-se a história da ocupação na região de \nAngra dos Reis mencionada no texto, os fenômenos \nnaturais que a atingiram poderiam ter sido previstos e \nsuas consequências minimizadas se \nA\t o acervo linguístico indígena fosse conhecido e \nvalorizado.\nB\t as línguas indígenas brasileiras tivessem sido \nsubstituídas pela língua geral.\nC\t o conhecimento acadêmico tivesse sido priorizado \npelos engenheiros.\nD\t a língua tupinambá tivesse palavras adequadas para \ndescrever o solo.\nE\t o laboratório tivesse sido construído de acordo com \nas leis ambientais vigentes na época.",
+  "processado_em": "2026-05-08T14:00:55.448186",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

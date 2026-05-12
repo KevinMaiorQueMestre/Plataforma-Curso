@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nO gráfico apresenta o valor total de exportações e o \nvalor total de importações, ao longo de um período, em \nbilhão de dólares. O saldo da balança comercial brasileira \né dado pelo valor total de exportações menos o valor total \nde importações num mesmo período.\nValor total de exportações e importações\nDisponível em: http://blogs.estadao.com.br. \nAcesso em: 20 fev. 2013 (adaptado).\nConsidere que os saldos da balança comercial \nbrasileira, nos três meses destacados no gráfico, sejam \nrepresentados por:\n•\t S1: saldo em junho de 2009;\n•\t S2: saldo em janeiro de 2010;\n•\t S3: saldo em junho de 2010.\nA ordenação dos saldos S1, S2 e S3, do maior para o menor, é\nA\tS1, S3 e S2.\nB\tS2, S1 e S3.\nC\tS2, S3 e S1.\nD\tS3, S1 e S2.\nE\tS3, S2 e S1.",
+  "processado_em": "2026-05-08T14:06:21.614375",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

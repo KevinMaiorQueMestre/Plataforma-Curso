@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 76          \nDoze mil quilômetros separam Acra, a capital de \nGana, do Vale do Silício, Califórnia, Estados Unidos, \ncentro da revolução tecnológica do século XXI. Há, no \nentanto, outra distância maior do que a geográfica. Acra \ne o Vale do Silício estão no extremo de um ciclo de vida. \nComputadores, tablets e celulares nascem da cabeça de \nnerds sob o sol californiano e morrem e são descompostos \nno distrito de Agbogbloshie, periferia africana.\nLOPES, K. O lixão pontocom da África. Disponível em: \nwww.cartacapital.com.br. Acesso em: 10 abr. 2015.\nA situação descrita é um exemplo de um modelo de \ndesenvolvimento tecnológico que revela um processo de\nA \t diminuição de empregos formais na área de \nreciclagem.\nB \t redução do consumo consciente entre as nações \nenvolvidas.\nC \t negligenciamento da logística reversa por esse setor \nindustrial.\nD \t desmantelamento das propostas de tratamento dos \nresíduos sólidos.\nE \t desestruturação dos serviços de assistência técnica \nem países emergentes.",
+  "processado_em": "2026-05-08T14:03:31.807673",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

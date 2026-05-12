@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q017",
+  "imagem": "q017.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 17,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 17\t\nTextos e hipertextos: procurando o equilíbrio\nHá um medo por parte dos pais e de alguns \nprofessores de as crianças desaprenderem quando \nnavegam, medo de elas viciarem, de obterem informação \nnão confiável, de elas se isolarem do mundo real, como \nse o computador fosse um agente do mal, um vilão. Esse \nmedo é reforçado pela mídia, que costuma apresentar o \ncomputador como um agente negativo na aprendizagem \ne na socialização dos usuários. Nós sabemos que \nninguém corre o risco de desaprender quando navega, \nseja em ambientes digitais ou em materiais impressos, \nmas é preciso ver o que se está aprendendo e algumas \nvezes interferir nesse processo a fim de otimizar ou \norientar a aprendizagem, mostrando aos usuários outros \ntemas, outros caminhos, outras possibilidades diferentes \ndaquelas que eles encontraram sozinhos ou daquelas \nque eles costumam usar. É preciso, algumas vezes, \nnegociar o uso para que ele não seja exclusivo, uma vez \nque há outros meios de comunicação, outros meios de \ninformação e outras alternativas de lazer. É uma questão \nde equilibrar e não de culpar.\nCOSCARELLI, C. V. Linguagem em (Dis)curso, n. 3, set.-dez. 2009.\nA autora incentiva o uso da internet pelos estudantes, \nponderando sobre a necessidade de orientação a esse \nuso, pois essa tecnologia\nA\t \testá repleta de informações confiáveis que constituem \nfonte única para a aprendizagem dos alunos.\nB\t \texige dos pais e professores que proíbam seu uso \nabusivo para evitar que se torne um vício.\nC\t \ttende a se tornar um agente negativo na aprendizagem \ne na socialização de crianças e jovens.\nD\t \tpossibilita maior ampliação do conhecimento de \nmundo quando a aprendizagem é direcionada.\nE\t \tleva ao isolamento do mundo real e ao uso exclusivo \ndo computador se a navegação for desmedida.",
+  "processado_em": "2026-05-11T23:25:36.678540",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

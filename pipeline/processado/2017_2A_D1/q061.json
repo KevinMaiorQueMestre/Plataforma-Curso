@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\n68(57(*$5$<\u000f\u0003'\u0011\u00030\u0011\u0003$\u0011\u0003\u000b2UJ\u0011\f\u0011\u0003Terra: feições ilustradas\u0011\u00033RUWR\u0003$OHJUH\u001d\u00038)5*6\u000f\u0003\u0015\u0013\u0013\u001b\u0011\nAs \ncaracterísticas \nmorfológicas \ndo \nterreno \nestão \nrepresentadas no bloco diagrama, que mostra uma região \nacometida por processos erosivos decorrentes da\nA resistência geológica.\nB instabilidade do terreno.\nC profundidade do solo.\nD intervenção antrópica.\nE ação de cursos de água.",
+  "processado_em": "2026-05-11T23:25:21.535042",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

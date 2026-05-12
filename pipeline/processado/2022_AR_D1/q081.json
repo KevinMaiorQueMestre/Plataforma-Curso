@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 81\t\nDecreto-Lei n. 1 949, de 27/12/1937\nArt. 1º Fica criado o Departamento de Imprensa \ne Propaganda (DIP), diretamente subordinado ao \npresidente da República.\nArt. 2º O DIP tem por fim:\n \nh) coordenar e incentivar as relações da imprensa com \nos poderes públicos no sentido de maior aproximação \nda mesma com os fatos que se ligam aos interesses \nnacionais;\n \nn) autorizar mensalmente a devolução dos depósitos \nefetuados pelas empresas jornalísticas para a importação \nde papel para imprensa, uma vez demonstrada, a seu \njuízo, a eficiência e a utilidade pública dos jornais ou \nperiódicos por elas administrados ou dirigidos.\nBRASIL apud CARONE, E. A Terceira República (1937-1945).\nSão Paulo: Difel, 1982 (adaptado).\nCom base nos trechos do decreto, as finalidades do órgão \ncriado permitiram ao governo promover o(a)\nA\t\nA\t diversificação da opinião pública.\nB\t\nB\t mercantilização da cultura popular.\nC\t\nC\t controle das organizações sindicais.\nD\t\nD\t cerceamento da liberdade de expressão.\nE\t\nE\t privatização dos meios de comunicação.",
+  "processado_em": "2026-05-08T14:05:05.300838",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

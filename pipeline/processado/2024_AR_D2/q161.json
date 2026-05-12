@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nUma empresa tem 400 funcionários, distribuídos em \ntrês setores: administrativo, logística e produção. O gráfico \napresenta a distribuição quantitativa desses funcionários, \npor setor e por faixa etária.\nUma viagem de férias será sorteada entre esses \nfuncionários, de forma que todos terão igual probabilidade \nde serem sorteados.\nA maior probabilidade é que o funcionário sorteado esteja \nna faixa etária\nA\tentre 25 e 45 anos, pois é a faixa etária com maior \nquantidade de funcionários.\nB\tentre 25 e 45 anos, pois é a única faixa etária cujas \nporcentagens são maiores do que as porcentagens \nmínimas de cada setor.\nC\taté 25 anos, pois é a única faixa etária cujos percentuais \nassociados aos setores aumentam com o aumento da \nquantidade de funcionários por setor.\nD\taté 25 anos, pois é a faixa etária que apresenta maior \nquantidade de funcionários no setor de produção, \nque é o setor que emprega metade dos funcionários \ndessa empresa.\nE\ta partir de 45 anos, pois a soma das porcentagens \nassociadas a essa faixa etária é 110%, que é maior do \nque as respectivas somas associadas às outras faixas \netárias, que são 105% e 85%.",
+  "processado_em": "2026-05-08T14:06:20.786904",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

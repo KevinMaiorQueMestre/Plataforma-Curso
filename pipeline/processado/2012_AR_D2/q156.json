@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 156\t\nNos shopping centers costumam existir parques com \nvários brinquedos e jogos. Os usuários colocam créditos \nem um cartão, que são descontados por cada período de \ntempo de uso dos jogos. Dependendo da pontuação da \ncriança no jogo, ela recebe um certo número de tíquetes \npara trocar por produtos nas lojas dos parques.\nSuponha que o período de uso de um brinquedo em \ncerto shopping custa R$ 3,00 e que uma bicicleta custa \n9 200 tíquetes.\nPara uma criança que recebe 20 tíquetes por período \nde tempo que joga, o valor, em reais, gasto com \ncréditos para obter a quantidade de tíquetes para \ntrocar pela bicicleta é\nA\t 153.\nB\t 460.\nC\t 1 218.\nD\t 1 380.\nE 3 066",
+  "processado_em": "2026-05-08T13:59:53.822994",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

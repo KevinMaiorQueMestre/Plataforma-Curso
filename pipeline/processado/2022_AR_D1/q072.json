@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 72\t\nBrasileiros levam mais tempo de casa para o trabalho\nPesquisa do IBGE aponta que a situação é mais \ngrave no Sudeste: 13% das pessoas levam mais de uma \nhora para chegar ao trabalho. Nas regiões metropolitanas \nde São Paulo e do Rio, o IBGE registrou os maiores \npercentuais de trabalhadores que levam mais de uma \nhora no trajeto até o emprego. Quem vê o Marcelo chegar \nao trabalho nem imagina a maratona que ele enfrenta \ntodos os dias antes das 5 h. “Acordo 4 h 30, saio de casa \n5 h, pego trem 5 h 20, chego na Central umas 6 h 50, \npego ônibus e chego no trabalho mais ou menos 7 h 10”, \nconta. Segundo especialista, são os mais pobres os que \nmoram mais longe do emprego.\nDisponível em: www.portaldotransito.com.br. Acesso em: 23 nov. 2021 (adaptado).\nA pesquisa desenvolvida retrata a seguinte dinâmica \npopulacional:\nA\t\nA\t Fluxo de retorno.\nB\t\nB\t Migração interna.\nC\t\nC\t Mudança sazonal.\nD\t\nD\t Movimento pendular.\nE\t\nE\t Deslocamento forçado.",
+  "processado_em": "2026-05-08T14:05:04.618650",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

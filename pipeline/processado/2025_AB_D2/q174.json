@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 174\t\nUma vacina foi testada em um grupo formado por \n15 mulheres e 15 homens. Em testes clínicos realizados ao \nlongo de vários anos, a vacina mostrou-se capaz de imunizar \n80% das mulheres e 60% dos homens contra uma doença.\nUm repórter, pretendendo fazer uma entrevista com uma das \npessoas desse grupo, obteve uma listagem com os 30 números \nde telefone dessas pessoas, porém sem os respectivos nomes. \nEle escolheu aleatoriamente um desses números e ligou para \nagendar a entrevista.\nA probabilidade de que a pessoa para a qual o repórter telefonou \nseja um homem ou uma pessoa que tenha adquirido imunidade \na essa doença com o uso da vacina é\nA\t 1\n20\nB\t 3\n10\nC\t 7\n20\nD\t 8\n10\nE\t 9\n10",
+  "processado_em": "2026-05-08T14:06:54.286074",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

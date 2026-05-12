@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 168\t\nO gráfico apresenta as quantidades mensais vendidas de \num item produzido por uma indústria no primeiro semestre \ndeste ano, em milhar de unidades.\nVendas no 1º semestre\nA partir do mês de março, observa-se o crescimento das \nvendas até o mês de maio e uma queda no mês de junho, que se \nexplica pela falta de matéria-prima que ocorreu na primeira \nsemana daquele mês. Caso essa falta de matéria-prima não \ntivesse ocorrido, a estimativa feita pela gerência é de que as \nvendas mensais desse item continuariam a crescer linearmente, \nmantendo o padrão de crescimento observado no período de \nmarço a maio nos demais meses do ano.\nA estimativa feita para as vendas desse item no mês de julho, \nem milhar de unidades, antes da queda registrada no mês de \njunho, foi de\nA\t500.\nB\t600.\nC\t700.\nD\t800.\nE\t900.",
+  "processado_em": "2026-05-08T14:06:53.875647",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

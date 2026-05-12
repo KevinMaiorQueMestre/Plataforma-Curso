@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\t\nPlacas solares comuns dependem de dias ensolarados \npara gerar energia. Mas podemos gerar eletricidade com \na ajuda de gotas de chuva, revestindo placas solares \ncom uma fina camada de grafeno. Os íons dissociados a \npartir da água da chuva (Am+ e Bn−) tornam a combinação \ngrafeno e água da chuva um par perfeito para geração \nde energia. O processo requer apenas uma camada de \ngrafeno para que grande quantidade de elétrons (e−) \nse movimente ao longo da superfície.\nTANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain. \nAngewandte Chemie International Edition, n. 55, 2016 (adaptado).\nAo produzir eletricidade em dias chuvosos, o grafeno\nA\toxida os cátions dissolvidos na água da chuva.\nB\timpede a difusão da água através das placas solares.\nC\tdiminui a energia de ativação da reação no pseudocapacitor.\nD\tforma um compósito não metálico com os íons na água \nda chuva.\nE\tgera uma diferença de potencial pela interação dos \nelétrons com os cátions.",
+  "processado_em": "2026-05-08T14:06:17.026171",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

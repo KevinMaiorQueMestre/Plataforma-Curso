@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nA fim de reaproveitar o resíduo de um processo \nindustrial, cuja composição está indicada, foi proposto \num tratamento seguindo o esquema de separações \napresentado.\nFração \naquosa I\nNaHCO3 (aq)\nResíduo dissolvido em éter etílico\nFração\netérea I\nNaOH (aq)\nHCI (aq)\nFração \naquosa II\nFração\netérea II\nFração \naquosa III\nFração\netérea III\nFenol\nAnilina\nÁcido acético\nAcetona\nOH\nNH2\nC\nCH3\nC\nH3\nO\nC\nH3\nC\nOH\nO\nENGEL, R. G. et al. Química orgânica experimental. São Paulo: Cengage Learning, 2012.\nOs componentes do resíduo que estão presentes nas \nfrações aquosas II e III são, respectivamente,\nA\t\nA\t fenol e anilina.\nB\t\nB\t fenol e acetona.\nC\t\nC\t anilina e acetona.\nD\t\nD\t ácido acético e anilina.\nE\t\nE\t ácido acético e acetona.",
+  "processado_em": "2026-05-08T14:04:48.111831",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

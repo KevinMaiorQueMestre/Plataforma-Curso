@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nMas era sobretudo a lã que os compradores, vindos \nda Flandres ou da Itália, procuravam por toda a parte. \nPara satisfazê-los, as raças foram melhoradas através \ndo aumento progressivo das suas dimensões. Esse \ncrescimento prosseguiu durante todo o século XIII, e \nas abadias da Ordem de Cister, onde eram utilizados \nos métodos mais racionais de criação de gado, \ndesempenharam certamente um papel determinante \nnesse aperfeiçoamento.\nDUBY, G. Economia rural e vida no campo no Ocidente medieval. \nLisboa: Estampa, 1987 (adaptado).\nO texto aponta para a relação entre aperfeiçoamento da \natividade pastoril e avanço técnico na Europa ocidental \nfeudal, que resultou do(a) \nA\t \tcrescimento do trabalho escravo. \nB\t \tdesenvolvimento da vida urbana.\nC\t \tpadronização dos impostos locais.\nD\t \tuniformização do processo produtivo.\nE\t \tdesconcentração da estrutura fundiária.",
+  "processado_em": "2026-05-11T23:25:42.149710",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

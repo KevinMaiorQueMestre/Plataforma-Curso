@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nA Unesco condenou a destruição da antiga capital \nassíria de Nimrod, no Iraque, pelo Estado Islâmico, com \na agência da ONU considerando o ato como um crime \nde guerra. O grupo iniciou um processo de demolição \nem vários sítios arqueológicos em uma área reconhecida \ncomo um dos berços da civilização.\nUnesco e especialistas condenam destruição de cidade assíria pelo Estado Islâmico. \nDisponível em: http://oglobo.globo.com. Acesso em: 30 mar. 2015 (adaptado).\nO tipo de atentado descrito no texto tem como \nconsequência para as populações de países como o \nIraque a desestruturação do(a)\nA\t homogeneidade cultural.\nB\t patrimônio histórico.\nC\t controle ocidental.\nD\t unidade étnica.\nE\t religião oficial.",
+  "processado_em": "2026-05-08T14:00:45.997011",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

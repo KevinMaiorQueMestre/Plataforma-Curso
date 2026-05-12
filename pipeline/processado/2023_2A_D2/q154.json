@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 154\t\nEspecialistas do Instituto Internacional de Águas de \nEstocolmo estimam que cada pessoa necessita de, no \nmínimo, 1 000 m3 de água por ano, para consumo, higiene e \ncultivo de alimentos. Sabe-se também que o Rio Amazonas \ndespeja 200 000 m3 de água no mar por segundo.\nScientific America Brasil, set. 2008.\nPor quanto tempo deveríamos coletar as águas que o \nRio Amazonas despeja no mar para manter a população \nda cidade de São Paulo, estimada em 20 milhões de \npessoas, por um ano?\nA\t\nA\t 16 minutos e 40 segundos.\nB\t\nB\t 2 horas, 46 minutos e 40 segundos.\nC\t\nC\t 1 dia, 3 horas, 46 minutos e 40 segundos.\nD\t\nD\t 11 dias, 13 horas, 46 minutos e 40 segundos.\nE\t\nE\t 3 meses, 25 dias, 17 horas, 46 minutos e 40 segundos.",
+  "processado_em": "2026-05-08T14:05:27.993583",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

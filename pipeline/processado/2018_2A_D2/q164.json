@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nO quadro apresenta os dados da pescaria de uma \nespécie de peixe realizada ao final de um dia de pesca, \nem lagos diferentes.\nLago (L)\nNúmero \nde barcos \nutilizados (B)\nNúmero de \nhoras de \npesca (H)\nQuantidade \npescada\n(C, em kg)\nI\n5\n5\n250\nII\n6\n10\n300\nIII\n4\n5\n180\nIV\n3\n7\n215\nV\n3\n10\n220\nConsidere que a medida do esforço de pesca (E) seja \ndada pela função E = 2 ⋅ 10−7 ⋅ B ⋅ H. A captura (quantidade \npescada C) e a população de peixes P(L) dessa espécie \nno lago L, no início desse dia de pescaria, relacionam-se \npela fórmula C = E ⋅ P(L).\nEm qual lago a população de peixes dessa espécie era \nmaior no início do dia?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-11T23:26:23.890276",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

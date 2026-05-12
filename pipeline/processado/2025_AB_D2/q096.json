@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 96\t\nAs temperaturas nas regiões urbanas e rurais de uma mesma cidade podem diferir significativamente. Isso ocorre, \nprincipalmente, pela diferença entre os níveis de irradiação térmica das duas regiões. Considerando que o nível de irradiação \ntérmica nas regiões urbanas pode até mesmo superar o valor percentual de 95%, uma opção viável para minimizar esse processo \ne melhorar o conforto térmico no interior das residências consiste em pintar o telhado com tinta branca.\nEssa opção é viável porque reduz a\nA\tcapacidade térmica do material.\nB\tconvecção térmica abaixo do telhado.\nC\treflexão da radiação solar pelo telhado.\nD\tabsorção de radiação solar pelo telhado.\nE\tcondução térmica através da superfície do telhado.",
+  "processado_em": "2026-05-11T23:29:46.725722",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

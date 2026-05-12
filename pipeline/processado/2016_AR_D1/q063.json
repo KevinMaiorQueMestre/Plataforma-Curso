@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nDois veículos que trafegam com velocidade \nconstante em uma estrada, na mesma direção e \nsentido, devem manter entre si uma distância mínima. \nIsso porque o movimento de um veículo, até que ele \npare totalmente, ocorre em duas etapas, a partir do \nmomento em que o motorista detecta um problema que \nexige uma freada brusca. A primeira etapa é associada \nà distância que o veículo percorre entre o intervalo de \ntempo da detecção do problema e o acionamento dos \nfreios. Já a segunda se relaciona com a distância que \no automóvel percorre enquanto os freios agem com \ndesaceleração constante.\nConsiderando a situação descrita, qual esboço gráfico \nrepresenta a velocidade do automóvel em relação à \ndistância percorrida até parar totalmente?\nA\t  \nVelocidade (m/s)\nDistância (m)\nB\t  \nVelocidade (m/s)\nDistância (m)\nC\t  \nVelocidade (m/s)\nDistância (m)\nD\t  \nVelocidade (m/s)\nDistância (m)\nE\t  \nVelocidade (m/s)\nDistância (m)",
+  "processado_em": "2026-05-08T14:01:09.331535",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

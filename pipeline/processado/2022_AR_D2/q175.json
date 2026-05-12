@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nO funcionário de uma loja tem seu salário mensal form\nque depende da quantidade de peças vendidas por ele no\ncom estes critérios:\n•\t até a quinquagésima peça vendida, paga-se 5 reais \n•\t a partir da quinquagésima primeira peça vendida, o \nRepresente por q a quantidade de peças vendidas no \nem real, nesse mês.\nA expressão algébrica que descreve S(q) em função de q é\nA\t\nA\t S(q) = 675 + 12q\nB\t\nB\t S(q) = 325 + 12q\nC\t\nC\t S(q) = 675 + 7q\nD\t\nD\t S q\nq\nq\nq\nq\n( )\n,\n,\n\u001f\n\u001e\n\u001e\n\u001d\n625\n5\n50\n925\n7\n50\nse\nse\n\u001c\n\u001b\n\u001a\n\u0019\nE\t\nE\t S q\nq\nq\nq\nq\n( )\n,\n,\n\u001f\n\u001e\n\u001e\n\u001d\n625\n5\n50\n575\n7\n50\nse\nse\n\u001c\n\u001b\n\u001a\n\u0019",
+  "processado_em": "2026-05-08T14:05:13.163190",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

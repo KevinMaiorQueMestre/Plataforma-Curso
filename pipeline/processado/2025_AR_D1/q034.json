@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 34\t\nDisponível em: https://revistagalileu.globo.com. \nAcesso em: 18 jun. 2024 (adaptado).\nCom base na relação dos elementos não verbais com a frase \n“VOCÊ (NÃO) ESTÁ SOZINHO”, nessa capa de revista, a função \npoética fica evidente, pois\nA\tessa frase informa sobre os riscos de um determinado \ncomportamento social.\nB\to conteúdo da mensagem expressa a atitude do enunciador \nsobre o tema.\nC\ta construção dessa frase possibilita mais de uma interpretação.\nD\tessa frase estabelece um diálogo direto com o leitor.\nE\ta linguagem utilizada volta-se para si mesma.",
+  "processado_em": "2026-05-08T14:06:59.433065",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

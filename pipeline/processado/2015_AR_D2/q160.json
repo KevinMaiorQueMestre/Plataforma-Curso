@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\t\nEm uma seletiva para a final dos 100 metros livres de \nnatação, numa olimpíada, os atletas, em suas respectivas \nraias, obtiveram os seguintes tempos:\nRaia\n1\n2\n3\n4\n5\n6\n7\n8\nTempo\n(segundo)\n20,90 20,90 20,50 20,80 20,60 20,60 20,90 20,96\nA mediana dos tempos apresentados no quadro é\nA\t 20,70.\nB\t 20,77.\nC\t 20,80.\nD\t 20,85.\nE\t 20,90.",
+  "processado_em": "2026-05-08T14:00:57.595694",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

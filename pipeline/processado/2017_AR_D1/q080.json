@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nCom a Lei de Terras de 1850, o acesso à terra só \npassou a ser possível por meio da compra com pagamento \nem dinheiro. Isso limitava, ou mesmo praticamente \nimpedia, o acesso à terra para os trabalhadores escravos \nque conquistavam a liberdade.\n OLIVEIRA, A. U. Agricultura brasileira: transformações recentes. In: ROSS, J. L. S. \nGeografia do Brasil. São Paulo: Edusp, 2009.\nO fato legal evidenciado no texto acentuou o processo de\nA\t \treforma agrária.\nB\t \texpansão mercantil.\nC\t \tconcentração fundiária.\nD\t \tdesruralização da elite.\nE\t \tmecanização da produção.",
+  "processado_em": "2026-05-11T23:25:43.032249",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

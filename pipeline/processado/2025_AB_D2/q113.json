@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 113\t\nEm um reservatório industrial contendo 5 000 L de água, \nfoi constatada a presença de íons cromo(III) dissolvidos. \nPara remover esses íons da água, inicialmente foi realizada \na quantificação em uma alíquota de 1,0 L, por meio de \nalcalinização, para provocar a total precipitação do cromo(III) \nna forma de hidróxido insolúvel, que foi separado por filtração, \nseco e aquecido até a formação de 3,8 g de Cr2O3.\nDados: massas molares (g ⋅ mol−1): Cr2O3 = 152; Cr = 52.\nA quantidade, em quilograma, de íons cromo(III) contida nesse \nreservatório é mais próxima de\nA\t6,5 kg.\nB\t9,0 kg.\nC\t13,0 kg.\nD\t19,0 kg.\nE\t38,0 kg.",
+  "processado_em": "2026-05-08T14:06:50.693221",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nVIEIRA, A. P. L. O Departamento de Impren\nO que as capas da revista Travel in Brazil, publicadas entre 194\nevidenciam?\nA\tEstereótipos da cultura nacional.\nB\tExploração da população pobre.\nC\tPreconceitos de ordem racial.\nD\tPolítica de censura midiática.\nE\tProjeto de país industrial.",
+  "processado_em": "2026-05-08T14:06:14.005903",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

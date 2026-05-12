@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 11\t\nDisponível em: http://jconlineinteratividade.ne10.uol.com.br. \n Acesso em: 17 set. 2015.\nAo relacionar o problema da seca à inclusão digital, \nessa charge faz uma crítica a respeito da\nA\t dificuldade na distribuição de computadores nas \náreas rurais.\nB\t capacidade das tecnologias em aproximar realidades \ndistantes.\nC\t possibilidade de uso do computador como solução \nde problemas sociais.\nD\t ausência de políticas públicas para o acesso da \npopulação a computadores.\nE\t escolha das prioridades no atendimento às reais \nnecessidades da população.",
+  "processado_em": "2026-05-11T23:26:54.585830",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

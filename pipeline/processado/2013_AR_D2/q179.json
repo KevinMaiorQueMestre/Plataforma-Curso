@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nO índice de eficiência utilizado por um produtor de leite \npara qualificar suas vacas é dado pelo produto do tempo \nde lactação (em dias) pela produção média diária de leite \n(em kg), dividido pelo intervalo entre partos (em meses). \nPara esse produtor, a vaca é qualificada como eficiente \nquando esse índice é, no mínimo, 281 quilogramas por \nmês, mantendo sempre as mesmas condições de manejo \n(alimentação, vacinação e outros). Na comparação de duas \ni\ni\nfi i\nt\né\nt\ni\ní di",
+  "processado_em": "2026-05-08T14:00:24.746553",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

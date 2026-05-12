@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 143\t\nNo atletismo, um grande desafio da prova de 100 metros \nrasos é a sua conclusão num tempo abaixo da marca de \nreferência dos 10,00 segundos. Vários atletas já alcançaram \nesse feito. Em 2009, o jamaicano Usain Bolt estabeleceu o \nrecorde mundial masculino dessa prova, com o tempo de \n9,58 segundos.\nQual é a diferença, em segundo, entre a marca de referência e \na marca estabelecida por Usain Bolt em 2009?\nA\t0,02\nB\t0,42\nC\t0,52\nD\t1,02\nE 1 42",
+  "processado_em": "2026-05-08T14:07:08.629729",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

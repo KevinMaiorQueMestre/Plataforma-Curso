@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\nDurante uma festa de colégio, um grupo de alunos \nRUJDQL]RX\u0003XPD\u0003ULID\u0011\u00032LWHQWD\u0003DOXQRV\u0003IDOWDUDP\u0003j\u0003IHVWD\u0003H\u0003QmR\u0003\nparticiparam da rifa. Entre os que compareceram, alguns \nFRPSUDUDP\u0003 WUrV\u0003 ELOKHWHV\u000f\u0003 \u0017\u0018\u0003 FRPSUDUDP\u0003 \u0015\u0003 ELOKHWHV\u000f\u0003 H\u0003\nmuitos compraram apenas um. O total de alunos que \nFRPSURX\u0003XP\u0003~QLFR\u0003ELOKHWH\u0003HUD\u0003\u0015\u0013\b\u0003GR\u0003Q~PHUR\u0003WRWDO\u0003GH\u0003\nbilhetes vendidos, e o total de bilhetes vendidos excedeu \nem 33 o número total de alunos do colégio.\nQuantos alunos compraram somente um bilhete?\nA \u0016\u0017\nB \u0017\u0015\nC \u0017\u001a\nD \u0017\u001b\nE \u001a",
+  "processado_em": "2026-05-11T23:26:49.701153",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

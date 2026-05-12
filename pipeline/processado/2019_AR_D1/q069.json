@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 69\t\nLocalizado a 160 km da cidade de Porto Velho \n(capital do estado de Rondônia), nos limites da Reserva \nExtrativista Jaci-Paraná e Terra Indígena Karipunas, \no povoado de União Bandeirantes surgiu em 2000 a \npartir de movimentos de camponeses, madeireiros, \npecuaristas e grileiros que, à revelia do ordenamento \nterritorial e diante da passividade governamental, \ndemarcaram \ne \ninvadiram \nterras \nna \nárea \nrural \nfundando a vila. Atualmente, constitui-se na região \nde maior produção agrícola e leiteira do município de \nPorto Velho, fornecendo, inclusive, alimentos para a \nHidrelétrica de Jirau.\nSILVA, R. G. C. Amazônia globalizada — o exemplo de Rondônia. \nConfins, n. 23, 2015 (adaptado).\nA dinâmica de ocupação territorial descrita foi decorrente da\nA\t mecanização do processo produtivo.\nB\t adoção da colonização dirigida.\nC\t realização de reforma agrária.\nD\t ampliação de franjas urbanas.\nE\t expansão de frentes pioneiras.",
+  "processado_em": "2026-05-11T23:27:26.024492",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

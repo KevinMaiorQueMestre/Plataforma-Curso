@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 20\t\nApesar de condenado, jargão \ncorporativo tem vida própria\nEncomendada por empresas de referência no mundo \ndigital, uma pesquisa feita com 8 000 pessoas de oito \npaíses — inclusive o Brasil — atesta a força do jargão \ncorporativo. A onipresença de um código cifrado em \nambientes de trabalho e o predomínio do inglês em \nseu vocabulário não surpreendem ninguém, mas o \nestudo flagrou aspectos menos óbvios do fenômeno que \ntransforma “rapidinho” em “asap” (as soon as possible).\nA maioria das pessoas expostas ao corporativês — \n57% na média dos oito países — acha que ele provoca \nperda de tempo, mal-entendidos e retrabalho no dia a dia. \nSó uma minoria não gostaria de eliminá-lo ou reduzi-lo. \nUm número ainda maior, 60%, queixou-se de falta de apoio \npara aprender a “língua da casa” após a contratação. \nJargão é assim: serve tanto para reforçar laços entre os \nque estão dentro do seu círculo de sentido quanto para \nbarrar os de fora. Cada um que se vire para entrar.\nDisponível em: www1.folha.uol.com.br. \nAcesso em: 6 jan. 2024 (adaptado).\nDe acordo com esse texto, o jargão corporativo diz respeito a\nA\trepertórios linguísticos nacionais usados no trabalho.\nB\testrangeirismos adotados em pesquisas internacionais.\nC\ttermos cotidianos disseminados a partir do ambiente \nde trabalho.\nD\texpressões codificadas empregadas em um contexto \nsocial específico.\nE\tvocábulos desencadeadores de mal-entendidos na \ncomunicação corriqueira.",
+  "processado_em": "2026-05-08T14:05:52.497279",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

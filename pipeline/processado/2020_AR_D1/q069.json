@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 69          \nA sociedade como um sistema justo de cooperação \nsocial consiste em uma das ideias familiares \nfundamentais, que dá estrutura e organização à justiça \ncomo equidade. A cooperação social guia-se por \nregras e procedimentos publicamente reconhecidos \ne aceitos por aqueles que cooperam como sendo \napropriados para regular a sua conduta. Diz-se que a \ncooperação é justa porque seus termos são tais que \ntodos os participantes podem razoavelmente aceitar, \ndesde que todos os demais também o aceitem.\nFERES JR., J.; POGREBINSCHI, T. Teoria política contemporânea: uma introdução. \nRio de Janeiro: Elsevier, 2010.\nNo contexto do pensamento político, a ideia apresentada \nmostra-se consoante o(a)\nA  ideal republicano de governo. \nB  corrente tripartite dos poderes.\nC  posicionamento crítico do socialismo.\nD  legitimidade do absolutismo monárquico.\nE  entendimento do contratualismo moderno.",
+  "processado_em": "2026-05-11T23:28:05.973168",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

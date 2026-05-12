@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q016",
+  "imagem": "q016.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 16,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 16\t\nDisponível em: www.metmuseum.org. Acesso em: 14 set. 2011.\nA figura apresentada é de um mosaico, produzido por \nvolta do ano 300 d.C., encontrado na cidade de Lod, atual \nEstado de Israel. Nela, encontram-se elementos que \nrepresentam uma característica política dos romanos no \nperíodo, indicada em:\nA\t Cruzadismo – conquista da terra santa.\nB\t Patriotismo – exaltação da cultura local.\nC\t Helenismo – apropriação da estética grega.\nD\t Imperialismo – selvageria dos povos dominados.\nE Expansionismo–diversidadedosterritóriosconquistados",
+  "processado_em": "2026-05-08T13:59:01.984084",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

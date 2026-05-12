@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 29\t\nA filosofia encontra-se escrita neste grande livro \nque continuamente se abre perante nossos olhos \n(isto é, o universo), que não se pode compreender \nantes de entender a língua e conhecer os caracteres \ncom os quais está escrito. Ele está escrito em \nlíngua matemática, os caracteres são triângulos, \ncircunferências e outras figuras geométricas, sem \ncujos meios é impossível entender humanamente as \npalavras; sem eles, vagamos perdidos dentro de um \nobscuro labirinto.\nGALILEI, G. O ensaiador. Os pensadores. São Paulo: Abril Cultural, 1978.\nNo contexto da Revolução Científica do século XVII, \nassumir a posição de Galileu significava defender a\nA\t continuidade do vínculo entre ciência e fé dominante \nna Idade Média.\nB\t necessidade de o estudo linguístico ser acompanhado \ndo exame matemático.\nC\t oposição da nova física quantitativa aos pressupostos \nda filosofia escolástica.\nD\t importância da independência da investigação \ncientífica pretendida pela Igreja.\nE\t inadequação da matemática para elaborar uma \nexplicação racional da natureza.",
+  "processado_em": "2026-05-08T14:00:28.602474",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nO vidro contendo alumínio em sua composição é \num excelente material para acondicionar medicamentos \ne suplementos, porque pode ser esterilizado por \naquecimento. No entanto, quando o medicamento \nou suplemento contém substâncias que se ligam \nfortemente ao íon desse metal, a dissolução do \nalumínio é promovida em função do deslocamento \ndo equilíbrio químico estabelecido entre a espécie \nimobilizada no vidro e a espécie em solução. Por essa \nrazão, recomenda-se que suplementos de nutrição de \nrecém-nascidos contendo gluconato de cálcio sejam \nacondicionados em embalagens plásticas, e não nesse \ntipo de vidro.\nAtualização da recomendação da Sociedade Portuguesa de Neonatologia. \nDisponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).\nCaso esse suplemento seja acondicionado em embalagem \ndesse tipo de vidro, o risco de contaminação por alumínio \nserá maior se o(a)\nA\t\nA\t vidro do frasco for translúcido.\nB\t\nB\t concentração de gluconato de cálcio for alta.\nC\t\nC\t frasco de vidro apresentar uma maior espessura.\nD\t\nD\t vidro for previamente esterilizado em altas \ntemperaturas.\nE\t\nE\t reação do alumínio com gluconato de cálcio for \nendotérmica.",
+  "processado_em": "2026-05-08T14:05:43.931416",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

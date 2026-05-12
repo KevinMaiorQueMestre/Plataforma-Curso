@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 13\t\nPEDERNEIRAS, R. Revista da Semana, ano 35, n. 40, 15 set. 1934. In: LEMOS, R. (Org.). \nUma história do Brasil através das caricaturas (1840-2001). \nRio de Janeiro: Bom Texto; Letras e Expressões, 2001.\nNa imagem, da década de 1930, há uma crítica à conquista \nde um direito pelas mulheres, relacionado com a\nA\t redivisão do trabalho doméstico.\nB\t liberdade de orientação sexual.\nC\t garantia da equiparação salarial.\nD\t aprovação do direito ao divórcio.\nE\t obtenção da participação eleitoral.",
+  "processado_em": "2026-05-08T14:00:09.272379",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

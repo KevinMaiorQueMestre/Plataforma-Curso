@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nO tênis é um esporte em que a estratégia de jogo a ser \nadotada depende, entre outros fatores, de o adversário \nser canhoto ou destro.\nUm clube tem um grupo de 10 tenistas, sendo \nque 4 são canhotos e 6 são destros. O técnico do clube \ndeseja realizar uma partida de exibição entre dois desses \njogadores, porém, não poderão ser ambos canhotos.\nQual o número de possibilidades de escolha dos tenistas \npara a partida de exibição?\nA\n10!\n−\n4!\n2! × 8!\n2! × 2!\nB\n10!\n−\n4!\n8!\n2!\nC\n10!\n− 2\n2! × 8!\nD\n6!\n+ 4 × 4\n4!\nE\n6!\n+ 6 × 4\n4!",
+  "processado_em": "2026-05-08T14:01:22.653808",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

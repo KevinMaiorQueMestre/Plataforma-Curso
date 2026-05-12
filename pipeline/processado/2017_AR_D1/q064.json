@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 64\t\nUma sociedade é uma associação mais ou menos \nautossuficiente de pessoas que em suas relações mútuas \nreconhecem certas regras de conduta como obrigatórias \ne que, na maioria das vezes, agem de acordo com elas. \nUma sociedade é bem ordenada não apenas quando \nestá planejada para promover o bem de seus membros, \nmas quando é também efetivamente regulada por uma \nconcepção pública de justiça. Isto é, trata-se de uma \nsociedade na qual todos aceitam, e sabem que os outros \naceitam, o mesmo princípio de justiça.",
+  "processado_em": "2026-05-11T23:25:41.862394",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 107\t\nPisaster ochraceus é uma espécie de estrela-do-mar \nque ocorre em comunidades da zona entremarés da América \ndo Norte Ocidental. Seu principal alimento são moluscos da \nespécie Mytilus californianus. Esse molusco, por sua vez, \né dominante e compete por espaço com muitos outros \ninvertebrados e até algas. Pesquisadores estudam as \nrelações ecológicas nesse ambiente desde a década \nde 1960, com o objetivo de entender a dinâmica dessas \ncomunidades. Alguns dados são apresentados no gráfico.\nCAMPBELL, N. et al. Biologia. São Paulo: \nArtmed, 2010 (adaptado).\nA presença de Pisaster influencia a diversidade de espécies, \nnesse ecossistema, porque esses animais\nA\tfragmentam hábitats, formando novos espaços de \ncolonização.\nB\tservem de presa, aumentando a competição entre as \noutras espécies.\nC\tisolam geograficamente as populações, reduzindo a \ntaxa de especiação.\nD\tdiminuem o número de moluscos, reduzindo a competição \ndestes com outros seres.\nE\tliberam substâncias inibidoras de outros organismos, \nfavorecendo o aumento da população de moluscos.",
+  "processado_em": "2026-05-08T14:06:00.619617",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

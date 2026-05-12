@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 81\t\nA calda bordalesa é uma alternativa empregada \nno combate a doenças que afetam folhas de plantas. \nSua produção consiste na mistura de uma solução \naquosa de sulfato de cobre(II), CuSO4, com óxido de \ncálcio, CaO, e sua aplicação só deve ser realizada se \nestiver levemente básica. A avaliação rudimentar da \nbasicidade dessa solução é realizada pela adição de \ntrês gotas sobre uma faca de ferro limpa. Após três \nminutos, caso surja uma mancha avermelhada no \nlocal da aplicação, afirma-se que a calda bordalesa \nainda não está com a basicidade necessária. O quadro \napresenta os valores de potenciais padrão de redução (E°) \npara algumas semirreações de redução.\nSemirreação de redução\nE° (V)\nCa2+ + 2 e− → Ca\n−2,87\nFe3+ + 3 e− → Fe\n−0,04\nCu2+ + 2 e− → Cu\n+0,34\nCu+ + e− → Cu\n+0,52\nFe3+ + e− → Fe2+\n+0,77\nMOTTA, I. S. Calda bordalesa: utilidades e preparo. Dourados: Embrapa, 2008 (adaptado).\nA equação química que representa a reação de formação \nda mancha avermelhada é:\nA\t Ca2+ (aq) + 2 Cu+ (aq) → Ca (s) + 2 Cu2+ (aq).\nB\t Ca2+ (aq) + 2 Fe2+ (aq) → Ca (s) + 2 Fe3+ (aq).\nC\t Cu2+ (aq) + 2 Fe2+ (aq) → Cu (s) + 2 Fe3+ (aq).\nD\t 3 Ca2+ (aq) + 2 Fe (s) → 3 Ca (s) + 2 Fe3+ (aq).\nE\t 3 Cu2+ (aq) + 2 Fe (s) → 3 Cu (s) + 2 Fe3+ (aq).",
+  "processado_em": "2026-05-08T14:00:48.587409",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

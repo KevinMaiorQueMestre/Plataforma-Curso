@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nOs preços da gasolina e do etanol no Brasil são \nfrequentemente noticiados nos telejornais. Após pesquisa \nrealizada pelo Índice de Preços Ticket Car (IPTC), os \npreços desses combustíveis, em real por litro, em quatro \nestados e no Distrito Federal, foram divulgados pelo \ntelejornal, conforme o quadro.\nDisponível em: http://economia.uol.com.br. \nAcesso em: 19 jan. 2015 (adaptado).\nDentre os locais divulgados pelo telejornal, o que \napresenta a maior razão entre os preços, em real por litro, \nda gasolina e do etanol é\nA\tDistrito Federal.\nB\tGoiás.\nC\tMato Grosso.\nD\tRio de Janeiro.\nE\tSão Paulo.",
+  "processado_em": "2026-05-08T14:06:04.500200",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

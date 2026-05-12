@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 36\t\nTEXTO I\nFotografia de Jackson Pollock pintando em seu ateliê,  \nrealizada por Hans Namuth em 1951.\nCHIPP, H. Teorias da arte moderna. São Paulo: Martins Fontes, 1988.\nTEXTO II\nMUNIZ, V. Action Photo (segundo Hans Namuth em Pictures  \nin Chocolate). Impressão fotográfica, 152,4 cm x 121,92 cm,  \nThe Museum of Modern Art, Nova Iorque, 1977.\nNEVES, A. História da arte 4. Vitória: Ufes – Nead, 2011.\nUtilizando chocolate derretido como matéria-prima, essa \nobra de Vick Muniz reproduz a célebre fotografia do \nprocesso de criação de Jackson Pollock. A originalidade \ndessa releitura reside na\nA\t apropriação \nparodística \ndas \ntécnicas \ne \nmateriais utilizados.\nB\t reflexão acerca dos sistemas de circulação da arte.\nC\t simplificação dos traços da composição pictórica.\nD\t contraposição de linguagens artísticas distintas.\nE\t crítica ao advento do abstracionismo.",
+  "processado_em": "2026-05-11T23:27:23.700574",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

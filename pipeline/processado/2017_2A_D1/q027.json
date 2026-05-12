@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\n0Ò.+,1$\u000f\u00039\u0011\u0003Operário e mulher kolkosiana.\nAço inoxidável, 24,5 m. Moscou, 1937.\nDisponível em: http://laphotodujour.hautetfort.com. Acesso em: 7 maio 2013.\nEssa escultura foi produzida durante o período da ditadura \nstalinista, na ex-União Soviética, e representa o(a)\nA luta do proletariado soviético para sua emancipação \ndo sistema vigente.\nB trabalhador soviético retratado de acordo com a \nrealidade do período.\nC exaltação idealizada da capacidade de trabalho do \npovo soviético.\nD união de operários e camponeses soviéticos pela \nvolta do regime czarista.\nE sofrimento de trabalhadores soviéticos pela opressão \ndo regime stalinista.",
+  "processado_em": "2026-05-11T23:25:19.549996",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q017",
+  "imagem": "q017.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 17,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 17\t\nDisponível em: www.unric.org. Acesso em: 9 ago. 2013.\nA ONU faz referência a uma projeção cartográfica em seu \nlogotipo. A figura que ilustra o modelo dessa projeção é:\nA\t  \nB\t  \nC\t  \nD\t  \nE",
+  "processado_em": "2026-05-08T14:01:04.254753",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

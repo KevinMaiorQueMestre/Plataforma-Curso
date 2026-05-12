@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q039",
+  "imagem": "q039.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 39,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 39\t\nDisponível em: www.cnj.jus.br. Acesso em: 28 out. 2021.\nEsse cartaz, parte de uma campanha publicitária, tem \ncomo propósito\nA\t\nA\t propagar a atuação de entidades de proteção a crianças.\nB\t\nB\t divulgar políticas de combate a crimes de violência.\nC\t\nC\t incentivar denúncias de violência contra crianças.\nD\t\nD\t estimular a criação de canais de denúncias.\nE\t\nE\t assegurar o anonimato dos denunciantes.",
+  "processado_em": "2026-05-08T14:05:19.168885",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

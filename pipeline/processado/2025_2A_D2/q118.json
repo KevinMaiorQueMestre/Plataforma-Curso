@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 118 \nO acelerador de partículas brasileiro Sirius é uma fonte \nemissora de luz síncrotron. Fontes como esta são equipamentos \ncientíficos de grande porte, que produzem radiação \neletromagnética de forma controlada. Essa radiação é usada \npara investigar a composição e a estrutura da matéria em suas \nmais variadas formas, com aplicações em praticamente todas \nas áreas do conhecimento.\nO feixe de elétrons do Sirius tem alta energia cinética \nrelativística (3,0 GeV = 3,0 × 109 eV) e percorre uma circunferência \nde aproximadamente 520 metros em 1,7 microssegundos \n(1,7 × 10−6 s) no referencial do laboratório. Para fins de \ncomparação, considere um carro com massa de 960 kg e mesma \nenergia cinética. Considere também que 1 eV é equivalente a \n1,6 × 10−19 joule.\nDisponível em: https://lnls.cnpem.br. \nAcesso em: 14 out. 2025 (adaptado).\nQual é a razão entre a velocidade do feixe eletrônico e a \ndo carro?\nA 6 × 1020\nB 3 2\n1014\n×\nC 3 × 1014\nD 12 × 1014\nE 3 1 6\n103\n,\n×",
+  "processado_em": "2026-05-08T14:06:35.755260",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

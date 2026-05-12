@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\nÉ ruivo? Tem olhos azuis? É homem ou mulher? \nUsa chapéu? Quem jogou Cara a Cara na infância sabe \nde cor o roteiro de perguntas para adivinhar quem é o \npersonagem misterioso do seu oponente.\nAgora, o jogo está prestes a ganhar uma nova \nversão. A designer polonesa Zuzia Kozerska-Girard está \ndesenvolvendo uma variação do Guess Who? (nome \ndo Cara a Cara em inglês), em que as personalidades do \ntabuleiro são, na verdade, mulheres notáveis da história \ne da atualidade, como a artista Frida Kahlo, a ativista \nMalala Yousafzai, a astronauta Valentina Tereshkova e a \naviadora Amelia Earhart. O Who’s She? (“Quem é ela?”, \nem português) traz, no total, 28 mulheres que representam \ndiversas profissões, nacionalidades e idades.",
+  "processado_em": "2026-05-08T14:04:58.097375",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

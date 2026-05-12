@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 57 \nSe o avanço dos direitos políticos após o movimento de \n1930 foi limitado e sujeito a sérios recuos, o mesmo não se deu \ncom os direitos sociais. Desde o primeiro momento, a liderança \nque chegou ao poder em 1930 dedicou grande atenção ao \nproblema trabalhista e social. Vasta legislação foi promulgada, \nculminando na Consolidação das Leis do Trabalho (CLT), de 1943.\nCARVALHO, J. M. Cidadania no Brasil. Rio de Janeiro: \nCivilização Brasileira, 2003 (adaptado).",
+  "processado_em": "2026-05-08T14:06:29.390353",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

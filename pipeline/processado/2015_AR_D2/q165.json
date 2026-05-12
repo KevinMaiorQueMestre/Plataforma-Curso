@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nUm engenheiro projetou um automóvel cujos vidros \ndas portas dianteiras foram desenhados de forma que \nsuas bordas superiores fossem representadas pela curva \nde equação y = log (x), conforme a figura.\ny = log(x)\nh\nx(m)\ny(m)\n0\nn\n1\nA forma do vidro foi concebida de modo que o eixo \nx sempre divida ao meio a altura h do vidro e a base \ndo vidro seja paralela ao eixo x. Obedecendo a essas \ncondições, o engenheiro determinou uma expressão que \nfornece a altura h do vidro em função da medida n de sua \nbase, em metros.\nA expressão algébrica que determina a altura do vidro é\nA log (\nn + √n2 + 4  ) - log(\nn − √n2 + 4 )\n2\n2\nB log (1 +\nn ) - log(1 -\nn )\n2\n2\nC log (1 +\nn ) + log(1 -\nn )\n2\n2\nD log (\nn + √n2 + 4 )\n2\nE 2 log (\nn + √n2 + 4 )\n2",
+  "processado_em": "2026-05-08T14:00:57.984049",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

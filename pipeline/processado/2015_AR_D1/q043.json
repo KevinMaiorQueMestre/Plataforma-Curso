@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 43\t\nSó num sentido muito restrito, o indivíduo cria com \nseus próprios recursos o modo de falar e de pensar que \nlhe são atribuídos. Fala o idioma de seu grupo; pensa \nà maneira de seu grupo. Encontra a sua disposição \napenas determinadas palavras e significados. Estas não \nsó determinam, em grau considerável, as vias de acesso \nmental ao mundo circundante, mas também mostram, \nao mesmo tempo, sob que ângulo e em que contexto \nde atividade os objetos foram até agora perceptíveis ao \ngrupo ou ao indivíduo.\nMANNHEIM, K. Ideologia e utopia. Porto Alegre: Globo, 1950 (adaptado).\nIlustrando uma proposição básica da sociologia do \nconhecimento, o argumento de Karl Mannheim defende \nque o(a)\nA\t conhecimento sobre a realidade é condicionado \nsocialmente.\nB\t submissão ao grupo manipula o conhecimento do \nmundo.\nC\t divergência é um privilégio de indivíduos excepcionais.\nD\t educação formal determina o conhecimento do \nidioma.\nE\t domínio das línguas universaliza o conhecimento.",
+  "processado_em": "2026-05-08T14:00:45.972544",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

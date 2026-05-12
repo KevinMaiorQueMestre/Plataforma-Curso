@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nNo ciclo de vida de um inseto endoparasitoide, as larvas \nse desenvolvem dentro de um hospedeiro. Essa relação \nleva o hospedeiro à morte, por isso considera-se que o \nparasitoidismo é um misto de parasitismo e predação.\nA larva desse inseto possui a vantagem adaptativa de\nA\t\nA\t ficar livre do ataque de predadores. \nB\t\nB\t poder se reproduzir dentro do hospedeiro.\nC\t\nC\t ter alimento durante o seu desenvolvimento.\nD\t\nD\t estar protegida contra o ataque de parasitas. \nE\t\nE\t desenvolver-se em ambiente com temperatura constante.",
+  "processado_em": "2026-05-08T14:05:25.569310",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

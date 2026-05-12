@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nFatores como introdução de espécies exóticas, \ndestruição de hábitats e caça predatória têm como \nimpacto a perda de biodiversidade. Isso tem como possível \nconsequência a redução do potencial para gerar alimentos \ne produzir medicamentos.\nUma medida efetiva para a redução desse impacto é o(a)\nA\t\nA\t plantio de espécies nativas.\nB\t\nB\t promoção de endocruzamentos.\nC\t\nC\t criação de espécies em cativeiro.\nD\t\nD\t isolamento de fragmentos de matas nativas.\nE\t\nE\t manutenção de espécies com mesmo nicho ecológico.",
+  "processado_em": "2026-05-08T14:05:25.097299",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

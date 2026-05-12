@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 11\t\nQue é ilegal a faculdade que se atribui à autoridade \nreal para suspender as leis ou seu cumprimento.\nQue é ilegal toda cobrança de impostos para a \nCoroa sem o concurso do Parlamento, sob pretexto \nde prerrogativa, ou em época e modo diferentes dos \ndesignados por ele próprio.\nQue é indispensável convocar com frequência os \nParlamentos para satisfazer os agravos, assim como para \ncorrigir, afirmar e conservar leis.\nDeclaração de Direitos. Disponível em: http://disciplinas.stoa.usp.br.\nAcesso em: 20 dez. 2011 (adaptado).\nNo documento de 1689, identifica-se uma particularidade \nda Inglaterra diante dos demais Estados europeus na \nÉpoca Moderna. A peculiaridade inglesa e o regime \npolítico que predominavam na Europa continental estão \nindicados, respectivamente, em:\nA\t Redução da influência do papa – Teocracia.\nB\t Limitação do poder do soberano – Absolutismo.\nC\t Ampliação da dominação da nobreza – República.\nD\t Expansão da força do presidente – Parlamentarismo.\nE\t Restrição da competência do congresso – \nPresidencialismo",
+  "processado_em": "2026-05-08T13:59:01.978492",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 89\nMovimento de tra\nEQUINÓCIO\n21 de março\nSOLSTÍCIO\n21 de junho\nSOL\n\"\u0003\u000f\u0006\n\u0010\u0011\f\b\u000f\u0010\u0003\u0005\b\u0006\u0005\n\u000f\u0014\u0003\f\u0004\b*\u0018\u0011\u0006\u0005\b(\f\u0011\u0006\u0011\u000f\u0012\b\u0010\b\u0006\u000e\u0005\u0003\u0005(\fI\u0010\n\u0003\u0005\u0010\u0003\n\u001ax\u00058\u0003\f\b\u0006\u000e\u0005(\f\u0003H\u0011\u0012\b\f\u001f\u0005\u0006\u0007\b\u0005\u0006\u0003\u0004&\f\b\u0005(\b\f\b\u0005\b\u0005\u0010\n\f\u0011*+\u0003",
+  "processado_em": "2026-05-08T14:04:26.245553",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

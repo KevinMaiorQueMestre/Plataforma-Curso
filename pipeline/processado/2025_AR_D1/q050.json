@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 50\t\nO direito não é a justiça. O direito é o elemento do cálculo, \né justo que haja um direito, mas a justiça é incalculável, ela exige \nque se calcule o incalculável; e as experiências aporéticas são \nexperiências tão improváveis quanto necessárias da justiça, \nisto é, são momentos em que a decisão entre o justo e o injusto \nnunca é garantida por uma regra.\nDERRIDA J Força de lei São Paulo: Martins Fontes 2010 (adaptado)",
+  "processado_em": "2026-05-08T14:07:00.471692",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

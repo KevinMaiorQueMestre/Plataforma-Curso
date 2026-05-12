@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nUm aluno registrou as notas bimestrais de algumas \nde suas disciplinas numa tabela. Ele observou que as \nentradas numéricas da tabela formavam uma matriz \n4x4, e que poderia calcular as médias anuais dessas \ndisciplinas usando produto de matrizes. Todas as provas \npossuíam o mesmo peso, e a tabela que ele conseguiu é \nmostrada a seguir.\n1º bimestre 2º bimestre 3º bimestre 4º bimestre\nMatemática\n5,9\n6,2\n4,5\n5,5\nPortuguês\n6,6\n7,1\n6,5\n8,4\nGeografia\n8,6\n6,8\n7,8\n9,0\nHistória\n6,2\n5,6\n5,9\n7,7\nPara obter essas médias, ele multiplicou a matriz obtida a \npartir da tabela por\nA\n1\n2\n1\n2\n1\n2\n1\n2\nD\n1\n2\n1\n2\n1\n2\n1\n2\nB\n1\n4\n1\n4\n1\n4\n1\n4\nE\n1\n4\n1\n4\n1\n4\n1\n4\nC\n1\n1\n1\n1",
+  "processado_em": "2026-05-08T13:59:15.964492",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

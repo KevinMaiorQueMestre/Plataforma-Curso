@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 107 \nO manual de uso e instalação de um aquecedor solar traz, \nentre outras, as seguintes informações:\nVolume do reservatório\n400 L\nPotência de apoio elétrico\n2 000 W\nTensão\n220 V\nCorrente\n9,5 A\nDisjuntor\n12,0 A\nA potência de apoio refere-se à potência de um resistor, \ninstalado no interior do reservatório, que serve para aquecer a \nágua nos dias nublados e chuvosos. Considere que esse resistor \né acionado quando a água atinge uma temperatura de 25 °C \ne é desligado quando a temperatura atinge 35 °C. Considere o \ncalor específico da água igual a 1 000 cal ⋅ kg−1 ⋅ °C−1, 1 cal igual \na 4,2 joules e a densidade da água equivalente a 1 kg ⋅ L−1.\nCom o reservatório cheio, a quantidade de energia dissipada \nnesse resistor, em watt-hora, é mais próxima de\nA 1,1 × 103 Wh.\nB 2,0 × 103 Wh.\nC 4,7 × 103 Wh.\nD 4,2 × 104 Wh.\nE 1,7 × 107 Wh.",
+  "processado_em": "2026-05-08T14:06:35.169376",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

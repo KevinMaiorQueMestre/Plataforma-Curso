@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 121\t\nPara a produção de insulina recombinante, é necessári\nda insulina. No processo de síntese da insulina, várias molécu\nproteína completa e ativa. Erros nesse processo podem ocorre\nserina pode se ligar erroneamente ao aminoácido valina.\nNo caso do erro descrito, na produção da insulina ocorrerá a in\nA\tserina, em resposta a qualquer códon do RNAm.\nB\tvalina, em resposta a qualquer códon do RNAm.\nC\tvalina, somente em resposta ao códon de serina do RNAm.\nD\tvalina, em resposta aos códons de serina e valina do RNAm\nE\tserina, em resposta aos códons de serina e valina do RNAm",
+  "processado_em": "2026-05-08T14:06:51.208457",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

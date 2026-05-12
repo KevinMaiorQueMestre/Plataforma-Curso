@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 98          \nUm caminhão de massa 5 toneladas, carregado com \ncarga de 3 toneladas, tem eixos articulados que permitem \nfazer o uso de 4 a 12 pneus (aos pares) simultaneamente. \nO número de pneus em contato com o solo é determinado \na fim de que a pressão exercida por cada pneu contra o \nsolo não supere o dobro da pressão atmosférica. A área \nde contato entre cada pneu e o asfalto equivale à área \nde um retângulo de lados 20 cm e 30 cm. Considere a \naceleração da gravidade local igual a 10 m s−2 e a pressão \natmosférica de 105 Pa.\nO menor número de pneus em contato com o solo que o \ncaminhão deverá usar é\nA \t 4.\nB \t 6.\nC \t 8.\nD 10.",
+  "processado_em": "2026-05-08T14:03:35.949392",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

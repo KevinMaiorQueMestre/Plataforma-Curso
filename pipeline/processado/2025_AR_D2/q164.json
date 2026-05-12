@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 164\t\nO cortisol é um hormônio produzido pelas glândulas \nadrenais e pode ser considerado um importante marcador \ndo estresse fisiológico. Em um estudo desenvolvido com \nenfermeiros, foi verificado que a concentração de cortisol \nsalivar em um dia de trabalho, denotada por T, era, em média, \n1,59 vezes a concentração de cortisol salivar em um dia de \nfolga, denotada por F.\nROCHA, M. C. P. et al. Estresse em enfermeiros: o uso do cortisol salivar no \ndia de trabalho e de folga. Rev. Esc. Enferm. USP, n. 5, 2013 (adaptado).\nNesse estudo, a relação obtida entre T e F foi\nA\tT = 1,59 + F\nB\tF = 1,59 + T\nC\tT\nF = 1 59\n,\nD\tF\nT = 1 59\n,\nE\tF ⋅ T = 1,59",
+  "processado_em": "2026-05-08T14:07:09.960671",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

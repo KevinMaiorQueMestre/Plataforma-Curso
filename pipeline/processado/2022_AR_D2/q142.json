@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\t\nUma \nloja \ncomercializa \ncinco \nmodelos \nde \ncaixas-d’água (I, II, III, IV e V), todos em formato \nde cilindro reto de base circular. Os modelos II, III, IV e V \ntêm as especificações de suas dimensões dadas em \nrelação às dimensões do modelo I, cuja profundidade é P \ne área da base é Ab, como segue:\n•\t modelo II: o dobro da profundidade e a metade da \nárea da base do modelo I;\n•\t modelo III: o dobro da profundidade e a metade do \nraio da base do modelo I;\n•\t modelo IV: a metade da profundidade e o dobro da \nárea da base do modelo I;\n•\t modelo V: a metade da profundidade e o dobro do \nraio da base do modelo I.",
+  "processado_em": "2026-05-08T14:05:11.653590",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

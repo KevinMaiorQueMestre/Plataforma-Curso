@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\t\nUm prédio, com 9 andares e 8 apartamentos de \n2 quartos por andar, está com todos os seus apartamentos \nà venda. Os apartamentos são identificados por números \nformados por dois algarismos, sendo que a dezena indica \no andar onde se encontra o apartamento, e a unidade, \num algarismo de 1 a 8, que diferencia os apartamentos \nde um mesmo andar. Quanto à incidência de sol \nnos quartos desses apartamentos, constatam-se as \nseguintes características, em função de seus números de \nidentificação:\n•\t naqueles que finalizam em 1 ou 2, ambos os quartos \nrecebem sol apenas na parte da manhã; \n•\t naqueles que finalizam em 3, 4, 5 ou 6, apenas um \ndos quartos recebe sol na parte da manhã;\n•\t naqueles que finalizam em 7 ou 8, ambos os quartos \nrecebem sol apenas na parte da tarde.\nUma \npessoa \npretende \ncomprar \n2 \ndesses \napartamentos em um mesmo andar, mas quer que, em \nambos, pelo menos um dos quartos receba sol na parte \nda manhã.\nDe quantas maneiras diferentes essa pessoa poderá \nescolher 2 desses apartamentos para compra nas \ncondições desejadas?\nA\t\nA\t 9\n6\n6\n2\n\u001f\n\u001e\n!\n!\n\u001d\n\u001c\nB\t\nB\t 9\n6\n6\n2\n2\n\u001f\n\u001e\n\u001f\n!\n!\n!\n\u001d\n\u001c\nC\t\nC\t 9\n4\n4\n2\n2\n\u001f\n\u001e\n\u001f\n!\n!\n!\n\u001d\n\u001c\nD\t\nD\t 9\n2\n2\n2\n2\n\u001f\n\u001e\n\u001f\n!\n!\n!\n\u001d\n\u001c\nE\t\nE\t 9\n8\n8\n2\n2\n1\n\u001f\n\u001e\n\u001f\n\u001e\n!\n!\n!\n\u001d\n\u001c\n\u001b\n\u001a\n\u0019\u0019\n\u0018\n\u0017\n\u0016\u0016",
+  "processado_em": "2026-05-08T14:05:11.974563",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

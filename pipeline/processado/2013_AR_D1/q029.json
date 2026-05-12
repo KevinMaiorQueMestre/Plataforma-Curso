@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 29\t\nSeguiam-se vinte criados custosamente vestidos e \nmontados em soberbos cavalos; depois destes, marchava \no Embaixador do Rei do Congo magnificamente ornado \nde seda azul para anunciar ao Senado que a vinda do \nRei estava destinada para o dia dezesseis. Em resposta \nobteve repetidas vivas do povo que concorreu alegre e \nadmirado de tanta grandeza.\nCoroação do Rei do Congo em Santo Amaro, Bahia apud DEL PRIORE, M. Festas e utopias \nno Brasil colonial. In: CATELLI JR., R. Um olhar sobre as festas populares brasileiras. \nSão Paulo: Brasiliense, 1994 (adaptado).\nOriginária dos tempos coloniais, a festa da Coroação do \nRei do Congo evidencia um processo de\nA\t exclusão social.\nB\t imposição religiosa.\nC\t acomodação política.\nD\t supressão simbólica.\nE\t ressignificação cultural.",
+  "processado_em": "2026-05-08T14:00:10.638093",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

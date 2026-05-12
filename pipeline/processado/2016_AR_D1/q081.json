@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 81\t\nA lipofilia é um dos fatores fundamentais para o \nplanejamento de um fármaco. Ela mede o grau de \nafinidade que a substância tem com ambientes apolares, \npodendo ser avaliada por seu coeficiente de partição.\nX = OH   (Testosterona)\nX = H      (Composto 1)\nX = CH3 (Composto 2)\nCH3\nCH3\nH\nH\nH\nO\nX\nNOGUEIRA, L. J.; MONTANARI, C. A.; DONNICI, C. L. Histórico da evolução da química medicinal \ne a importância da lipofilia: de Hipócrates e Galeno a Paracelsus e as contribuições de Overton e \nde Hansch. Revista Virtual de Química, n. 3, 2009 (adaptado).\nEm relação ao coeficiente de partição da testosterona, as \nlipofilias dos compostos 1 e 2 são, respectivamente,\nA\t menor e menor que a lipofilia da testosterona.\nB\t menor e maior que a lipofilia da testosterona.\nC\t maior e menor que a lipofilia da testosterona.\nD\t maior e maior que a lipofilia da testosterona.\nE\t menor e igual à lipofilia da testosterona.",
+  "processado_em": "2026-05-08T14:01:11.516120",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

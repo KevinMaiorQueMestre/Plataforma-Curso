@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 63          \nDesde o mundo antigo e sua filosofia, que o trabalho \ntem sido compreendido como expressão de vida e \ndegradação, criação e infelicidade, atividade vital e \nescravidão, felicidade social e servidão. Trabalho e \nfadiga. Na Modernidade, sob o comando do mundo da \nmercadoria e do dinheiro, a prevalência do negócio (negar \no ócio) veio sepultar o império do repouso, da folga e da \npreguiça, criando uma ética positiva do trabalho.\nANTUNES, R. O século XX e a era da degradação do trabalho. In: SILVA, J. P. (Org.). \nPor uma sociologia do século XX. São Paulo: Annablume, 2007 (adaptado).\nO processo de ressignificação do trabalho nas sociedades \nmodernas teve início a partir do surgimento de uma nova \nmentalidade, influenciada pela",
+  "processado_em": "2026-05-11T23:28:05.067801",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

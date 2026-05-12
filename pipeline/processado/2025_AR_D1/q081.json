@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 81\t\nEm decorrência da naturalização da inferioridade social \nda mulher e da concepção de justiça do Estado, baseada na \nigualdade abstratamente concebida, torna-se possível convencer \no Estado burguês a conceber e implementar políticas públicas \ncujo conteúdo se define pela discriminação positiva de mulheres, \nembora isso aparentemente seja paradoxal.\nSAFFIOTI, H.; ALMEIDA, S. S. Violência de gênero, poder e impotência. \nRio de Janeiro: Revinter, 1995 (adaptado).\nNo contexto atual, qual medida atende ao tipo de política pública \nabordada no texto?\nA\tAmpliação do sufrágio universal.\nB\tDiminuição da jornada de trabalho.\nC\tExtinção do crime de feminicídio.\nD\tRedução da licença-maternidade.\nE\tCriação de delegacia especializada.",
+  "processado_em": "2026-05-08T14:07:02.825545",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

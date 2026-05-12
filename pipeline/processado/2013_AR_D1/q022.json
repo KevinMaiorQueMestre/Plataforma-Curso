@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 22\t\nPara que não haja abuso, é preciso organizar as \ncoisas de maneira que o poder seja contido pelo poder. \nTudo estaria perdido se o mesmo homem ou o mesmo \ncorpo dos principais, ou dos nobres, ou do povo, \nexercesse esses três poderes: o de fazer leis, o de \nexecutar as resoluções públicas e o de julgar os crimes \nou as divergências dos indivíduos. Assim, criam-se os \npoderes Legislativo, Executivo e Judiciário, atuando \nde forma independente para a efetivação da liberdade, \nsendo que esta não existe se uma mesma pessoa ou \ngrupo exercer os referidos poderes concomitantemente.\nMONTESQUIEU, B. Do espírito das leis. São Paulo: Abril Cultural, 1979 (adaptado).\nA divisão e a independência entre os poderes são \ncondições necessárias para que possa haver liberdade \nem um Estado. Isso pode ocorrer apenas sob um modelo \npolítico em que haja\nA\t exercício de tutela sobre atividades jurídicas e \npolíticas.\nB\t consagração do poder político pela autoridade \nreligiosa.\nC\t concentração do poder nas mãos de elites \ntécnico-cientifícas.\nD\t estabelecimento de limites aos atores públicos e às \ninstituições do governo.\nE\t reunião das funções de legislar, julgar e executar nas \nmãos de um governante eleito.",
+  "processado_em": "2026-05-08T14:00:09.724312",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

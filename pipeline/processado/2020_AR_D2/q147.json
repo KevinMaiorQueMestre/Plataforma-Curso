@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E  Às terças e quartas-feiras e aos sábados.\nQuestão 147        \nPesquisadores da Universidade de Tecnologia \nde Viena, na Áustria, produziram miniaturas de \nobjetos em impressoras 3D de alta precisão. Ao \nserem ativadas, tais impressoras lançam feixes de \nlaser sobre um tipo de resina, esculpindo o objeto \ndesejado. O produto final da impressão é uma \nescultura microscópica de três dimensões, como \nvisto na imagem ampliada.\nA escultura apresentada é uma miniatura de \num carro de Fórmula 1, com 100 micrômetros de \ncomprimento. Um micrômetro é a milionésima parte \nde um metro.\nUsando notação científica, qual é a representação do \ncomprimento dessa miniatura, em metro?\nA  1,0 × 10 − 1 \nB  1,0 × 10 − 3  \nC  1,0 × 10 − 4  \nD  1,0 × 10 − 6  \nE  1,0 × 10 − 7",
+  "processado_em": "2026-05-11T23:28:16.863188",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

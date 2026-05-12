@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 116\t\nO despejo acidental de óleo nos oceanos tem ocasionado \nincontáveis prejuízos à vida marinha e à economia de regiões \ncosteiras. Métodos tradicionais de tratamento do despejo geram \nresíduos de difícil descarte e nem sempre são eficazes. Por isso, \npesquisadores desenvolveram um filtro capaz de separar óleo \ne água. O dispositivo é montado sobre uma malha de aço com \numa sequência de camadas. A primeira camada é formada \npor um polímero de carga positiva, a segunda é composta por \nnanopartículas de sílica (SiO2), a terceira é formada pelo mesmo \npolímero e a última é um surfactante, conforme apresentado \nna figura.\nRepresentação esquemática do dispositivo\nBROWN, P. S.; BHUSHAN, B. Mechanically durable, superoleophobic \ncoatings prepared by layer-by-layer technique for anti-smudge \nand oil-water separation. Scientific Reports, \nv. 5, mar. 2015 (adaptado).\nNa utilização desse dispositivo, a retenção do óleo ocorre\nA\tno surfactante.\nB\tna camada superior de polímero.\nC\tnas nanopartículas de sílica.\nD\tna camada inferior de polímero.\nE\tna malha de aço.",
+  "processado_em": "2026-05-08T14:07:06.303241",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

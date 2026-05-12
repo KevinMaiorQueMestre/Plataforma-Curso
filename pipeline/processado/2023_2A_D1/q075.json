@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nA história da interiorização da própria presença do \nEstado nacional brasileiro na Amazônia se deve em grande \nparte aos serviços de saúde pública e sua íntima relação \ncom o combate às chamadas endemias rurais — como \nmalária, leishmaniose, doença de Chagas, brucelose, \nfebre amarela, esquistossomose, ancilostomose e bócio \nendêmico — que motivaram gerações de cientistas e \nsanitaristas no controle de doenças na região. É impossível \nresistir à comparação histórica com a gripe espanhola. \nA gripe espanhola grassou em Belém e na região, que \nvivenciavam um frágil estado sanitário após o ciclo da \nborracha. A introdução da doença por rios e mares, o \nnúmero reduzido de médicos e os registros de mortes \nacentuados nas periferias marcaram aquele momento do \nmundo pós-Primeira Guerra Mundial.\nMUNIZI, E. S. A interiorização da covid-19 na Amazônia: reflexões sobre o passado e o presente \nda saúde pública. História, Ciências, Saúde – Manguinhos, n. 3, jul.-set. 2021 (adaptado).\nDe acordo com o texto, o Estado se fez presente na \nAmazônia com ações para\nA\t\nA\t oferecer formação técnica aos nativos.\nB\t\nB\t prestar proteção militar às populações.\nC\t\nC\t expor padrões higienistas aos indígenas.\nD\t\nD\t garantir direitos fundamentais aos cidadãos.\nE\t\nE\t impedir acesso estrangeiro às comunidades.",
+  "processado_em": "2026-05-08T14:05:20.911504",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

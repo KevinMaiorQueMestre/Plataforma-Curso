@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\t\nO nitrogênio é essencial para a vida e o maior \nreservatório global desse elemento, na forma de N2, \né a atmosfera. Os principais responsáveis por sua \nincorporação na matéria orgânica são microrganismos \nfixadores de N2, que ocorrem de forma livre ou simbiontes \ncom plantas.\nADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. \nPlanaltina: Embrapa, 2004 (adaptado).\nAnimais garantem suas necessidades metabólicas desse \nelemento pela\nA\t absorção do gás nitrogênio pela respiração.\nB\t ingestão de moléculas de carboidratos vegetais.\nC\t incorporação \nde \nnitritos \ndissolvidos \nna \nágua \nconsumida. \nD\t transferência da matéria orgânica pelas cadeias \ntróficas. \nE\t protocooperação com microrganismos fixadores de \nnitrogênio.",
+  "processado_em": "2026-05-08T14:00:47.645531",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

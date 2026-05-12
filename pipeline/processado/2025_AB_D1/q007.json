@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 07\t\nDentre os vários aspectos que podem ser elencados como caract\nA\tpresença de núcleos narrativos diversos.\nB\tflagrante de um acontecimento específico.\nC\tenredo centrado em uma situação conflituosa.\nD\treflexão sobre um tema da vida contemporânea.\nE\tpassagem rápida do tempo na condução narrativa.",
+  "processado_em": "2026-05-08T14:06:41.983547",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

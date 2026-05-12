@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 55\t\nO homo economicus contemporâneo é dotado de intenso \nprincípio de racionalidade formal que o leva:\n1. a buscar sem qualquer hesitação a própria felicidade;\n2. a dar a preferência aos objetos visíveis que lhe trarão \no máximo de satisfação.\nBAUDRILLARD, J. A sociedade de consumo. Lisboa: Edições 70, 1995 (adaptado).\nConsiderando o tipo de racionalidade descrita no texto, os projetos \nde autorrealização dominantes na contemporaneidade estão \ncentrados no\nA\taprimoramento moral.\nB\talinhamento político.\nC\tcapital simbólico.\nD\tvínculo religioso.\nE\tvalor cultural.",
+  "processado_em": "2026-05-08T14:06:46.325682",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

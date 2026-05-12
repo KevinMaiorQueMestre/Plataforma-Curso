@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "O ar que sai do turbo está em alta temperatura porque\nA\t\nA\t sofreu uma compressão isocórica.\nB\t\nB\t sofreu uma compressão adiabática.\nC\t\nC\t sofreu uma transformação isotérmica.\nD\t\nD\t recebeu diretamente calor dos gases aquecidos do \nsistema de escape.\nE\t\nE\t recebeu diretamente calor do motor a combustão que \nestá em alta temperatura.\nQUESTÃO 93\t\nDuas pessoas saem de suas casas para se exercitarem \nnuma pista retilínea cujo comprimento é D. Elas percorrem \ntodo o percurso e, ao final dele, retornam ao ponto de \npartida pelo mesmo caminho. A primeira delas caminha \ncom velocidade de módulo v, e a segunda corre com uma \nvelocidade de módulo 2v. As duas partem do mesmo \nponto, no mesmo instante.\nA distância percorrida pela segunda pessoa até o ponto \nem que as duas se encontram pela primeira vez é\nA\t\nA\t 2\n3\nD .\nB\t\nB\t 5\n4\nD .\nC\t\nC\t 4\n3\nD .\nD\t\nD\t 5\n3\nD .\nE\t\nE\t 7\n4\nD .",
+  "processado_em": "2026-05-11T23:29:06.965593",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 282.0
+  }
+}

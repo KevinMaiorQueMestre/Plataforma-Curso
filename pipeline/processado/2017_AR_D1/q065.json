@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 65\t\nA representação de Demócrito é semelhante à de \nAnaxágoras, na medida em que um infinitamente múltiplo \né a origem; mas nele a determinação dos princípios \nfundamentais aparece de maneira tal que contém aquilo \nque para o que foi formado não é, absolutamente, o \naspecto simples para si. Por exemplo, partículas de \ncarne e de ouro seriam princípios que, através de sua \nconcentração, formam aquilo que aparece como figura.\nHEGEL, G. W. F. Crítica moderna. In: SOUZA, J. C. (Org.). Os pré-socráticos: vida e obra. \nSão Paulo: Nova Cultural, 2000 (adaptado).  \nO texto faz uma apresentação crítica acerca do \npensamento de Demócrito, segundo o qual o “princípio \nconstitutivo das coisas” estava representado pelo(a)\nA\t número, que fundamenta a criação dos deuses.\nB\t devir, que simboliza o constante movimento dos objetos.\nC\t água, que expressa a causa material da origem \ndo universo.\nD\t imobilidade, que sustenta a existência do ser atemporal.\nE\t átomo, que explica o surgimento dos entes.",
+  "processado_em": "2026-05-11T23:25:41.920537",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

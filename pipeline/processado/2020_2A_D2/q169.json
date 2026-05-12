@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 169          \nUm reservatório de água é abastecido por uma \ntorneira ao mesmo tempo que, por um ralo, escoa \nágua de seu interior. Os gráficos representam as \nvazões Q, em litro por minuto, da torneira e do ralo, \nem função do tempo t, em minuto. \n5\n5\n10\n15\n20\n10\nQ (L/min)\n               Torneira\nt (min)\n25\n0\n        \n5\n5\n10\n15\n20\n10\nQ (L/min)\nt (min)\nRalo\n25\n0\nNos primeiros 25 minutos, o(s) intervalo(s) de tempo em \nque o volume de água nesse reservatório decresce é(são)\nA \t entre 15 e 20 minutos.\nB \t entre 15 e 25 minutos.\nC \t entre 0 e 5 minutos e entre 15 e 20 minutos.\nD entre 5 e 15 minutos e entre 20 e 25 minutos.",
+  "processado_em": "2026-05-08T14:03:39.891903",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

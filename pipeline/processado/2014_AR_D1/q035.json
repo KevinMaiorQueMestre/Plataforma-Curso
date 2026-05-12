@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q035",
+  "imagem": "q035.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 35,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 35\t\nA convecção na Região Amazônica é um importante \nmecanismo da atmosfera tropical e sua variação, \nem termos de intensidade e posição, tem um papel \nimportante na determinação do tempo e do clima dessa \nregião. A nebulosidade e o regime de precipitação \ndeterminam o clima amazônico.\nFISCH, G.; MARENGO, J. A.; NOBRE, C. A. Uma revisão geral sobre o clima da Amazônia. \nActa Amazônica, v. 28, n. 2, 1998 (adaptado).\nO mecanismo climático regional descrito está associado \nà característica do espaço físico de\nA\t resfriamento da umidade da superfície.\nB\t variação da amplitude de temperatura.\nC\t dispersão dos ventos contra-alísios.\nD\t existência de barreiras de relevo.\nE convergência de fluxos de ar",
+  "processado_em": "2026-05-08T14:00:29.290589",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

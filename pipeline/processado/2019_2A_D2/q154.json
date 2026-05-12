@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 154\t\nUma formiga encontra-se no ponto X, no lado externo de um copo que tem a forma de um cilindro reto. No \nlado interno, no ponto V, existe um grão de açúcar preso na parede do copo. A formiga segue o caminho XYZWV \n(sempre sobre a superfície lateral do copo), de tal forma que os trechos ZW e WV são realizados na superfície \ninterna do copo. O caminho XYZWV é mostrado na figura.\nW\nV\nX\nY\nP\nZ\nQ\n Sabe-se que: os pontos X, V, W se encontram à mesma distância da borda; o trajeto WV é o mais curto possível; \nos trajetos XY e ZW são perpendiculares à borda do copo; e os pontos X e V se encontram diametralmente opostos.\nSupondo que o copo é de material recortável, realiza-se um corte pelo segmento unindo P a Q, perpendicular à \nborda do copo, e recorta-se também sua base, obtendo então uma figura plana. Desconsidere a espessura do copo.\nConsiderando apenas a planificação da superfície lateral do copo, a trajetória da formiga é\nA\nZ\nV\nW\nY\nX\nD\nZ\nW\nV\nY\nX\nB\nW\nV\nX\nZ\nY\nE\nW\nV\nX",
+  "processado_em": "2026-05-11T23:27:12.538908",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

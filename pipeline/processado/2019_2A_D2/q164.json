@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 164\t\nO projeto de transposição do Rio São Francisco \nconsiste na tentativa de solucionar um problema que \nhá muito afeta as populações do semiárido brasileiro, \na seca. O projeto prevê a retirada de 26,4 m³/s de água \ndesse rio. Para tornar mais compreensível a informação \ndo volume de água a ser retirado, deseja-se expressar \nessa quantidade em litro por minuto.\nDisponível em: www.infoescola.com. Acesso em: 28 out. 2015.\nCom base nas informações, qual expressão representa \na quantidade de água retirada, em litro por minuto?\nA\n26 4\n1000\n60\n,\n×\nB\n26 4\n10\n60\n,\n×\nC\n26,4 × 1 × 60 \nD\n26,4 × 10 × 60\nE\n26,4 × 1 000 × 60",
+  "processado_em": "2026-05-11T23:27:13.250524",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

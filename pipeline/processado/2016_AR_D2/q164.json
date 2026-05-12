@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nO LIRAa, Levantamento Rápido do Índice de \nInfestação por Aedes aegypti, consiste num mapeamento \nda infestação do mosquito Aedes aegypti. O LIRAa é \ndado pelo percentual do número de imóveis com focos \ndo mosquito, entre os escolhidos de uma região em \navaliação. \nO serviço de vigilância sanitária de um município, \nno mês de outubro do ano corrente, analisou o LIRAa \nde cinco bairros que apresentaram o maior índice de \ninfestação no ano anterior. Os dados obtidos para cada \nbairro foram:\nI.\t\n14 imóveis com focos de mosquito em 400 imóveis \nno bairro;\nII.\t 6 imóveis com focos de mosquito em 500 imóveis \nno bairro;\nIII.\t 13 imóveis com focos de mosquito em 520 imóveis \nno bairro;\nIV.\t 9 imóveis com focos de mosquito em 360 imóveis \nno bairro;\nV.\t 15 imóveis com focos de mosquito em 500 imóveis \nno bairro.\nO setor de dedetização do município definiu que \no direcionamento das ações de controle iniciarão pelo \nbairro que apresentou o maior índice do LIRAa.\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 28 out. 2015.\nAs ações de controle iniciarão pelo bairro \nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-08T14:01:23.071317",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

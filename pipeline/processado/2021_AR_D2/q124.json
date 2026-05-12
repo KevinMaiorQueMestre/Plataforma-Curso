@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 124\nO ciclo do cobre é um experimento didático em que \no cobre metálico é utilizado como reagente de partida. \nApós uma sequência de reações (I, II, III, IV e V), o cobre \n\u0007\n\r\u0004\u0007\u0005\b\u0002\b\u0004\u0002\t\n\f\u0002\n\t\r\b\u000f\u0004\u0002\u000e\u0005\u000e\u001e\u000e\b2\u0002\b\u0004\u0002\u0006\u0005\b2\u0002\u000f\u0004\u0002\u001e\u000e\u001e2\u0004(\nCu\nCuO\nCuSO4\nZn, HCl\nV\nIII\nII\nI\nHNO3\nCu(NO3)2\nCu(OH)2\nNaOH\nIV\nH2SO4\nº",
+  "processado_em": "2026-05-08T14:04:29.914730",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

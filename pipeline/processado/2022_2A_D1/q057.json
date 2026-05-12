@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 57\t\nTEXTO I \nAcresce que o negócio açucareiro, além de exigir \ncapitais enormes, que excediam às possibilidades da \ngente comum, só admitia uns poucos trabalhadores \nespecializados entre a classe de senhores e a massa \nescrava. A própria rigidez da disciplina de trabalho no \nengenho devia torná-lo insuportável para o trabalhador \nlivre e, mais ainda, para gente afeita à vida aventurosa e \nvadia dos vilarejos.\nTEXTO II\nAs atividades pastoris, nas condições climáticas dos \nsertões cobertos de pastos pobres e com extensas áreas \nsujeitas a secas periódicas, conformaram não só a vida \nmas a própria figura do homem e do gado. Um e outro \ndiminuíram de estatura, tornaram-se ossudos e secos \nde carnes. Assim associados, multiplicando-se juntos, o \ngado e os homens foram penetrando terra adentro, até \nocupar, ao fim de três séculos, quase todo o sertão.\nRIBEIRO, D. O povo brasileiro: a formação e o sentido do Brasil. \nSão Paulo: Cia. das Letras, 1995. \nO antropólogo Darcy Ribeiro, em sua análise sobre \na formação do povo brasileiro, enfatiza o papel \ncondicionante exercido pela dicotomia entre\nA\t\nA\t manufatura e comércio na estrutura econômica.\nB\t\nB\t litoral e interior na organização produtiva.\nC\t\nC\t nativos e reinóis na hierarquia laboral.\nD\t\nD\t urbano e rural no espaço colonial.\nE\t\nE\t safra e pousio no uso do solo.",
+  "processado_em": "2026-05-08T14:04:41.264503",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

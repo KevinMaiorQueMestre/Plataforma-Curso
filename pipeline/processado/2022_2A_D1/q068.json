@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nO testemunho nunca é um relato exato do que \naconteceu. Na verdade, ao expor seu passado, o sujeito \nestá sempre procedendo a uma reelaboração pela qual \nmemórias tidas como negativas podem, consciente ou \ninconscientemente, ser esquecidas. Em certos momentos, \nsimplesmente para seguir em frente, é preciso esquecer.\nVASCONCELOS, C. B. As análises da memória: balanço e possibilidades. \nEstudos Históricos, n. 43, jan.-jun. 2009 (adaptado).\nO texto ressalta um aspecto fundamental da produção de \nmemória ao identificá-la como\nA\t\nA\t constituída de intuições do narrador.\nB\t\nB\t dissociada do contexto de surgimento.\nC\t\nC\t marcada pela seletividade das lembranças.\nD\t\nD\t caracterizada pela uniformidade dos relatos.\nE\t\nE\t resultado do compartilhamento das vivências.",
+  "processado_em": "2026-05-08T14:04:42.028983",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

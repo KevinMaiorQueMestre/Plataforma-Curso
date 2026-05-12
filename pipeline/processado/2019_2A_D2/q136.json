@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 136\t\nO boliche é um esporte cujo objetivo é derrubar, com \numa bola, uma série de pinos alinhados em uma pista. \nA professora de matemática organizou um jogo de \nboliche em que os pinos são garrafas que possuem \nrótulos com números, conforme mostra o esquema.\n6,8\n9\n12\n34% 0,75\n3\n4\n6\n8\n75%\n3,4\n4\n3\n4,3\nO aluno marca pontos de acordo com a soma das \nquantidades expressas nos rótulos das garrafas que \nsão derrubadas. Se dois ou mais rótulos representam \na mesma quantidade, apenas um deles entra na \ncontagem dos pontos. Um aluno marcou 7,55 pontos em \numa jogada. Uma das garrafas que ele derrubou tinha o \nrótulo 6,8.\nA quantidade máxima de garrafas que ele derrubou para \nobter essa pontuação é igual a\nA\t 2.\nB\t 3.\nC\t 4.\nD\t 5.\nE\t 6.",
+  "processado_em": "2026-05-11T23:27:11.580544",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

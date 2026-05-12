@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 167\t\nA produtividade de soja em uma área cultivada é a média d\npor hectare. O quadro apresenta a área cultivada e a produtivi\ncom períodos de um ano, de 2011 a 2016.\nSafra\n11-1\nÁrea cultivada (hectare)\n200\nProdutividade (sacas de 50 kg por hectare)\n40\nO gráfico de linhas que representa a produção de soja dessa pro\nA\t\nB\t\nC",
+  "processado_em": "2026-05-08T14:07:10.121437",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

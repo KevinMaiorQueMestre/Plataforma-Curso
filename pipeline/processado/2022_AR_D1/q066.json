@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nTEXTO I\nA primeira grande lei educacional do Brasil, de 1827, \ndeterminava que, nas “escolas de primeiras letras” do \nImpério, meninos e meninas estudassem separados e \ntivessem currículos diferentes. No Senado, o Visconde \nde Cayru foi um dos defensores de que o currículo de \nmatemática das garotas fosse o mais enxuto possível. \nNas palavras dele, o “belo sexo” não tinha capacidade \nintelectual para ir muito longe: — Sobre as contas, são \nbastantes [para as meninas] as quatro espécies, que não \nestão fora do seu alcance e lhes podem ser de constante \nuso na vida.\nTEXTO II\nNo Senado, o único a defender publicamente que \nas meninas tivessem, em matemática, um currículo \nidêntico ao dos meninos foi o Marquês de Santo Amaro \n(RJ). Ele argumentou: — Não me parece conforme, às \nluzes do tempo em que vivemos, deixarmos de facilitar \nàs brasileiras a aquisição desses conhecimentos \n[mais aprofundados de matemática]. A oposição que \nse manifesta não pode nascer senão do arraigado e \npéssimo costume em que estavam os antigos, os quais \nnem queriam que suas filhas aprendessem a ler.\nWESTIN, R. Senado Notícias. Disponível em: www12.senado.leg.br. \nAcesso em: 20 out. 2021 (adaptado).\nOs discursos expressam pontos de vista divergentes \nrespectivamente pela oposição entre \nA\t\nA\t liberdade de gênero e controle social.\nB\t\nB\t equidade de escolha e imposição cultural.\nC\t\nC\t dominação de corpos e igualdade humana.\nD\t\nD\t geração de oportunidade e restrição profissional.\nE\t\nE\t exclusão de competências e participação política.",
+  "processado_em": "2026-05-08T14:05:04.333787",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

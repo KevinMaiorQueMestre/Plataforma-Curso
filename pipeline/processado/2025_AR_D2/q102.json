@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 102\t\nA figura apresenta a herança genética de uma característica \na partir do cruzamento de insetos de uma mesma espécie.\nQual alternativa representa a proporção fenotípica da prole \nresultante do cruzamento entre indivíduos da primeira geração?\nA\t\nB\t\nC\t\nD\t\nE",
+  "processado_em": "2026-05-08T14:07:05.362867",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

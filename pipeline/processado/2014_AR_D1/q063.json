@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nA aplicação excessiva de fertilizantes nitrogenados na \nagricultura pode acarretar alterações no solo e na água \npelo acúmulo de compostos nitrogenados, principalmente \na forma mais oxidada, favorecendo a proliferação de \nalgas e plantas aquáticas e alterando o ciclo do nitrogênio, \nrepresentado no esquema. A espécie nitrogenada mais \noxidada tem sua quantidade controlada por ação de \nmicrorganismos que promovem a reação de redução \ndessa espécie, no processo denominado desnitrificação.\nI\nII\nV\nIV\nN2\nNH3\nNH4\n+\nNO2\nNO3\nIII\n–\n–\nO processo citado está representado na etapa\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-08T14:00:30.838465",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

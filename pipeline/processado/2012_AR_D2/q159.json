@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nA figura a seguir apresenta dois gráficos com \ninformações sobre as reclamações diárias recebidas e \nresolvidas pelo Setor de Atendimento ao Cliente (SAC) de \numa empresa, em uma dada semana. O gráfico de linha \ntracejada informa o número de reclamações recebidas no dia, \no de linha contínua é o número de reclamações resolvidas no \ndia. As reclamações podem ser resolvidas no mesmo dia ou \ndemorarem mais de um dia para serem resolvidas.\n20\n10\n0\nQui\nSex     Sáb    Dom    Se\ner      Qua\nO gerente de atendimento deseja identificar os \ndias da semana em que o nível de eficiência pode ser \nconsiderado muito bom, ou seja, os dias em que o \nnúmero de reclamações resolvidas excede o número de \nreclamações recebidas.\nDisponível em: http://blog.bibliotecaunix.org. Acesso em: 21 jan. 2012 (adaptado).\nO gerente de atendimento pôde concluir, baseado \nno conceito de eficiência utilizado na empresa e nas \ninformações do gráfico, que o nível de eficiência foi muito \nbom na\nA\t segunda e na terça-feira.\nB\t terça e na quarta-feira.\nC\t terça e na quinta-feira.\nD\t quinta-feira, no sábado e no domingo.\nE\t segunda, na quinta e na sexta-feira.",
+  "processado_em": "2026-05-08T13:59:14.885472",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

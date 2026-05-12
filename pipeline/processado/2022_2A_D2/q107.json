@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 107\t\nDores abdominais, vômito e diarreia são sintomas de \ndoença celíaca, uma síndrome autoimune hereditária que \nprovoca inflamação no tecido intestinal após a ingestão \nde glúten. O glúten é uma proteína presente em vegetais \ncomo o trigo, a cevada e o centeio. Uma pessoa com \nesses sintomas, que ingeriu arroz, bife com creme de leite, \nsalada de alface e tomate, lasanha e ovo cozido, após \nexames laboratoriais, foi diagnosticada como portadora \ndessa doença, o que gerou um encaminhamento médico \nnecessário.\nQual dos alimentos ingeridos pela pessoa o médico \nprecisou eliminar da dieta?\nA\t\nA\t Arroz.\nB\t\nB\t Lasanha.\nC\t\nC\t Ovo cozido.\nD\t\nD\t Bife com creme de leite.\nE\t\nE\t Salada de alface e tomate.",
+  "processado_em": "2026-05-08T14:04:47.168765",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nTrês amigos, A, B e C, se encontraram em um \nsupermercado. Por coincidência, estavam comprando os \nmesmos itens, conforme o quadro.\nAmigos\nArroz (kg)\nFeijão (kg)\nMacarrão (kg)\nA\n3\n2\n4\nB\n2\n3\n3\nC\n2\n2\n2\nOs amigos estavam muito entretidos na conversa e \nnem perceberam que pagaram suas compras, pegaram \nseus trocos e esqueceram seus comprovantes. Já longe \ndo supermercado, “A” lembrou que precisava saber o \nquanto pagou por um quilo de arroz e dois quilos de \nmacarrão, pois estava comprando para sua vizinha e \nesperava ser ressarcido. “B”, que adorava desafios \nmatemáticos, disse que pagou suas compras com \nR$ 40,00 e obteve troco de R$ 7,30, e que conseguiria \ndeterminar o custo desses itens se os amigos \ndissessem como pagaram e quanto foram seus \nrespectivos trocos. “A” disse que pagou com R$ 40,00 \ne obteve troco de R$ 4,00, e “C” pagou com R$ 30,00 e \nobteve troco de R$ 5,40.\nA vizinha de “A” deve a ele pela compra, em reais, o valor \nde\nA\t\nA\t 8,10.\nB\t\nB\t 10,00.\nC\t\nC\t 11,40.\nD\t\nD\t 12,00.\nE\t\nE\t 13,20.",
+  "processado_em": "2026-05-08T14:04:50.609328",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

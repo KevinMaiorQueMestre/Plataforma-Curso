@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 11          \nBrasil tem quase 3 mil lixões ou aterros irregulares, \ndiz levantamento\n Apesar da lei que acabou com lixões, vazadouros \nfuncionam normalmente.\nO Brasil ainda despeja 30 milhões de toneladas de \nlixo por ano, de forma inadequada, expondo os cidadãos \nao risco de doenças. E isso, apesar da lei que determinou \no fim dos lixões. Corta, descasca, abre a embalagem, \njoga fora os restos, espreme, corta mais, descasca mais, \nabre outra embalagem. Quantas vezes essas cenas se \nrepetem por dia em milhões de lares brasileiros?\nDisponível em: http://g1.globo.com. Acesso em: 11 dez. 2017.\nO recurso linguístico que interrompe o fluxo argumentativo \npara incluir o leitor na problemática do texto é a\nA \t apresentação de dados estatísticos imprecisos sobre \nos lixões.\nB \t descrição de ambientes destruídos pelos descartes \nincorretos.\nC \t enumeração de atividades ilustrativas de ações \ncotidianas.\nD \t discussão das leis sobre a redução dos lixões nas \ncidades.\nE \t explicitação dos riscos de doenças via contaminação.",
+  "processado_em": "2026-05-08T14:03:23.855242",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\n8PD\u0003WHOHYLVmR\u0003SRGH\u0003VHU\u0003SRVLFLRQDGD\u0003GH\u0003PRGR\u0003TXH\u0003VH\u0003\nconsiga enxergar os detalhes de uma imagem em alta \nGH¿QLomR\u0011\u0003&RQVLGHUH\u0003TXH\u0003D\u0003GLVWkQFLD\u0003LGHDO\u000f\u0003FRP\u0003FRQIRUWR\u0003\nYLVXDO\u000f\u0003 SDUD\u0003 VH\u0003 DVVLVWLU\u0003 j\u0003 WHOHYLVmR\u0003 GH\u0003 \u0016\u0015\u0003 SROHJDGDV\u0003\np\u0003 GH\u0003 \u0014\u000f\u001b\u0003 PHWUR\u0011\u0003 6XSRQKD\u0003 TXH\u0003 KDMD\u0003 XPD\u0003 UHODomR\u0003 GH\u0003\nSURSRUFLRQDOLGDGH\u0003GLUHWD\u0003HQWUH\u0003R\u0003WDPDQKR\u0003GD\u0003WHOD\u0003\u000bPHGLGR\u0003\nem polegada) e a distância ideal. Considere que um \nHVSHFWDGRU\u0003 GLVS}H\u0003 GH\u0003 XPD\u0003 WHOHYLVmR\u0003 GH\u0003 \u0019\u0013\u0003 SROHJDGDV\u0003\ne que ele deseja se posicionar em frente a ela, com \nconforto visual.\n$\u0003GLVWkQFLD\u0003GD\u0003WHOHYLVmR\u000f\u0003HP\u0003PHWUR\u000f\u0003HP\u0003TXH\u0003R\u0003HVSHFWDGRU\u0003\ndeve se posicionar para que tenha conforto visual é mais \npróxima de\nA 0,33.\nB 0,96.\nC 1,57.\nD 3,37.\nE 3,60.",
+  "processado_em": "2026-05-11T23:25:31.061475",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

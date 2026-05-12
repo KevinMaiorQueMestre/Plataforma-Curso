@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nUma pessoa precisa contratar um operário para \nfazer um serviço em sua casa. Para isso, ela postou um \nanúncio em uma rede social.\nCinco pessoas responderam informando preços por \nhora trabalhada, gasto diário com transporte e tempo \nnecessário para conclusão do serviço, conforme valores \napresentados no quadro.\nOperário\nPreço por \nhora\n(real)\nPreço do \ntransporte\n(real)\nTempo até \nconclusão\n(hora)\nI\n120\n0,00\n8\nII\n180\n0,00\n6\nIII\n170\n20,00\n6\nIV\n110\n10,00\n9\nV\n110\n0,00\n10\nSe a pessoa pretende gastar o mínimo possível com essa \ncontratação, irá contratar o operário\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:11.806846",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\t\nO esquema representa a etapa fotoquímica da fotossín\nque compõem os fotossistemas I e II são excitados pela radi\nmoléculas de clorofila a P680, no Fotossistema II, e de clorofil\npelo mecanismo de fosforilação do ADP formando ATP e p\nO2 + H+\nH2O\nComplexo\nprodutor\nde oxigênio\nP680\nP680*\nC\nci\nADP\nFeO\nQa\nhν\nFotossistema II\nEnergia\nO agente redutor primário responsável pela reposição dos\nA\t\nA\t complexo Fotossistema I.\nB\t\nB\t complexo de citocromo.\nC\t\nC\t molécula de água.\nD\t\nD\t molécula de ADP.\nE\t\nE\t radiação solar.",
+  "processado_em": "2026-05-08T14:05:25.906507",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

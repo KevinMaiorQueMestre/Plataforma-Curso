@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nO palmito juçara (Euterpe edulis) é uma planta que o\nvariados. Entretanto, pesquisadores perceberam que, em \nnovas plantas produzem apenas frutos pequenos.\nANDRADE, R. O. Escassez de aves pode afetar evolução \nEssa mudança apresentada pelas plantas é uma adaptaçã\nA\t\nA\t atraem aves de pequeno porte, garantindo a ingestão \nB\t\nB\t são transportados pelo vento, aumentando a dispersã\nC\t\nC\t facilitam a desidratação das sementes, prolongando s\nD\t\nD\t aceleram a germinação das sementes, favorecendo a \nE\t\nE\t armazenam menor quantidade de fotoassimilados, ma",
+  "processado_em": "2026-05-08T14:04:47.942684",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

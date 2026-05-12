@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 E\nQUESTÃO 99\t\nA fim de classificar as melhores rotas em um aplicativo \nde trânsito, um pesquisador propõe um modelo com \nbase em circuitos elétricos. Nesse modelo, a corrente \nrepresenta o número de carros que passam por um ponto \nA\t\nA\t N2\nB\t\nB\t NH3\nC\t\nC\t NH4\n+\nD\t\nD\t NO2\n−\nE\t\nE\t NO3\n−",
+  "processado_em": "2026-05-11T23:28:58.840556",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nCada número que identifica uma agência bancária tem \nquatro dígitos: N1, N2, N3, N4 mais um dígito verificador N5.\nN1 N2 N3\nN4\nN5\nTodos \nesses \ndígitos \nsão \nnúmeros \nnaturais \npertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. \nPara a determinação de N5, primeiramente multiplica-se \nordenadamente os quatro primeiros dígitos do número \nda agência por 5, 4, 3 e 2, respectivamente, somam-se \nos resultados e obtém-se S = 5 N1 + 4 N2 + 3 N3 + 2 N4.\nPosteriormente, encontra-se o resto da divisão de \nS por 11, denotando por R esse resto. Dessa forma, N5 é \na diferença 11 − R.\nConsidere o número de uma agência bancária cujos \nquatro primeiros dígitos são 0100.\nQual é o dígito verificador N5 dessa agência bancária?\nA\t\nA\t 0\nB\t\nB\t 6\nC\t\nC\t 7\nD\t\nD\t 8\nE\t\nE\t 9",
+  "processado_em": "2026-05-08T14:05:12.363769",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

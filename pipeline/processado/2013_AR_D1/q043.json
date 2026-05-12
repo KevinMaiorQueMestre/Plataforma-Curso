@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 43\t\nEmpresa vai fornecer 230 turbinas para o segundo \ncomplexo de energia à base de ventos, no sudeste da \nBahia. O Complexo Eólico Alto Sertão, em 2014, terá \ncapacidade para gerar 375 MW (megawatts), total \nsuficiente para abastecer uma cidade de 3 milhões \nde habitantes.\nMATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. \nFolha de S. Paulo, 2 dez. 2012.\nA opção tecnológica retratada na notícia proporciona \na seguinte consequência para o sistema energético \nbrasileiro:\nA\t Redução da utilização elétrica.\nB\t Ampliação do uso bioenergético.\nC\t Expansão das fontes renováveis.\nD\t Contenção da demanda urbano-industrial.\nE\t Intensificação da dependência geotérmica.",
+  "processado_em": "2026-05-08T14:00:12.154023",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

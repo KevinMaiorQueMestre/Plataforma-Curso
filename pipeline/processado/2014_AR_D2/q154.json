@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 154\t\nO acesso entre os dois andares de uma casa é \nfeito através de uma escada circular (escada caracol), \nrepresentada na figura. Os cinco pontos A, B, C, D, E sobre \no corrimão estão igualmente espaçados, e os pontos P, \nA e E estão em uma mesma reta. Nessa escada, uma \npessoa caminha deslizando a mão sobre o corrimão do \nponto A até o ponto D.\nA\nP\nB\nE\nC\nD\nA figura que melhor representa a projeção ortogonal, \nsobre o piso da casa (plano), do caminho percorrido pela \nmão dessa pessoa é:\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:00:39.494260",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

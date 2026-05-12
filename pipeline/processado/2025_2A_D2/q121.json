@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 121 \nEscorpiões podem se reproduzir de forma sexuada ou assex\nocorre sem a necessidade de um parceiro, podem se multiplicar \nadaptando-se a ambientes urbanos. Um exemplo muito comu\nalimento, abrigo e ausência de predadores.\nEssa rápida multiplicação ocorre por meio de\nA fragmentação espontânea ou acidental.\nB desenvolvimento de embriões sem fecundação.\nC formação de esporos, que germinam formando indivíduos.\nD divisão de um indivíduo em duas partes de mesma dimensã\nE divisão nuclear formando núcleos e a partir desses várias c",
+  "processado_em": "2026-05-08T14:06:35.854598",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

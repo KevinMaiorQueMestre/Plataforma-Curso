@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 109        \nDois engenheiros estão verificando se uma cavidade \nperfurada no solo está de acordo com o planejamento \nde uma obra, cuja profundidade requerida é de 30 m. \nO teste é feito por um dispositivo denominado oscilador \nde áudio de frequência variável, que permite relacionar \na profundidade com os valores da frequência de duas \nressonâncias consecutivas, assim como em um tubo \nsonoro fechado. A menor frequência de ressonância que \no aparelho mediu foi 135 Hz. Considere que a velocidade \ndo som dentro da cavidade perfurada é de 360 m s-1.\nSe a profundidade estiver de acordo com o projeto, qual \nserá o valor da próxima frequência de ressonância que \nserá medida?\nA \t 137 Hz.\nB \t 138 Hz.\nC \t 141 Hz.\nD \t 144 Hz.",
+  "processado_em": "2026-05-11T23:28:13.817660",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

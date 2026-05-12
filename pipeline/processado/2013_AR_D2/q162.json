@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nEm setembro de 1987, Goiânia foi palco do maior \nacidente radioativo ocorrido no Brasil, quando uma amostra \nde césio-137, removida de um aparelho de radioterapia \nabandonado, foi manipulada inadvertidamente por parte \nda população. A meia-vida de um material radioativo é o \ntempo necessário para que a massa desse material se \nreduza à metade. A meia-vida do césio-137 é 30 anos e a \nquantidade restante de massa de um material radioativo, \napós t anos, é calculada pela expressão M(t) = A · (2,7)kt, \nonde A é a massa inicial e k é uma constante negativa.\nConsidere 0,3 como aproximação para log10 2.\nQual o tempo necessário, em anos, para que uma \nquantidade de massa do césio-137 se reduza a 10% da \nquantidade inicial?\nA\t 27\nB\t 36\nC\t 50\nD\t 54\nE\t 100",
+  "processado_em": "2026-05-08T14:00:23.933772",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

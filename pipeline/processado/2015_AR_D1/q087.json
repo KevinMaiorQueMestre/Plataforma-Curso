@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87\t\nO formato das células de organismos pluricelulares é \nextremamente variado. Existem células discoides, como \né o caso das hemácias, as que lembram uma estrela, \ncomo os neurônios, e ainda algumas alongadas, como as \nmusculares.\nEm um mesmo organismo, a diferenciação dessas células \nocorre por\nA\t produzirem mutações específicas.\nB\t possuírem DNA mitocondrial diferentes.\nC\t apresentarem conjunto de genes distintos.\nD\t expressarem porções distintas do genoma.\nE\t terem um número distinto de cromossomos.",
+  "processado_em": "2026-05-08T14:00:49.036425",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

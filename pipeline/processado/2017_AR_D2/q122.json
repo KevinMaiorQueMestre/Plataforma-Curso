@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nNa Idade Média, para elaborar preparados a partir \nde plantas produtoras de óleos essenciais, as coletas \ndas espécies eram realizadas ao raiar do dia. Naquela \népoca, essa prática era fundamentada misticamente pelo \nefeito mágico dos raios lunares, que seria anulado pela \nemissão dos raios solares. Com a evolução da ciência, \nfoi comprovado que a coleta de algumas espécies ao \nraiar do dia garante a obtenção de material com maiores \nquantidades de óleos essenciais.\nA explicação científica que justifica essa prática se baseia na\nA\t volatilização das substâncias de interesse.\nB\t polimerização dos óleos catalisada pela radiação \nsolar.\nC\t solubilização das substâncias de interesse pelo \norvalho.\nD\t oxidação do óleo pelo oxigênio produzido na \nfotossíntese.\nE\t liberação das moléculas de óleo durante o processo \nde fotossíntese.",
+  "processado_em": "2026-05-11T23:25:50.935624",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

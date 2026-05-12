@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 110 \nConsidere a charge, que chama atenção para o problema \ndo lançamento de dejetos domésticos em rios.\nARIONAURO. Esgotos nos rios. Disponível em: www.arionaurocartuns.com.br. \nAcesso em: 15 maio 2013 (adaptado).\nCom o tempo esse processo causará a morte de peixes e de \noutras formas de vida aquática em razão do(a)\nA diminuição da concentração de nutrientes na água.\nB diminuição do oxigênio dissolvido na água.\nC diminuição de matéria orgânica na água.\nD aumento de alimento disponível na água.\nE aumento do volume de água",
+  "processado_em": "2026-05-08T14:06:35.343695",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nO manual de uma ducha elétrica informa que seus três \nníveis de aquecimento (morno, quente e superquente) \napresentam as seguintes variações de temperatura da \nágua em função de sua vazão:\nVazão\nL\nmin\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a\n \n\u001fT\nC\n(\n)\n\u001e\nMorno\nQuente\nSuperquente\n3\n10\n20\n30\n6\n5\n10\n15\nUtiliza-se um disjuntor para proteger o circuito dessa \nducha contra sobrecargas elétricas em qualquer nível de \naquecimento. Por padrão, o disjuntor é especificado pela \ncorrente nominal igual ao múltiplo de 5 A imediatamente \nsuperior à corrente máxima do circuito. Considere que a \nducha deve ser ligada em 220 V e que toda a energia é \ndissipada através da resistência do chuveiro e convertida \nem energia térmica transferida para a água, que apresenta \ncalor específico de 4,2 \nJ\ng C\n\u001f\u001e\n e densidade de 1 000 g\nL .\nO disjuntor adequado para a proteção dessa ducha é \nespecificado por:\nA\t\nA\t 60 A\nB\t\nB\t 30 A\nC\t\nC\t 20 A\nD\t\nD\t 10 A\nE\t\nE\t 5 A",
+  "processado_em": "2026-05-08T14:05:09.781414",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

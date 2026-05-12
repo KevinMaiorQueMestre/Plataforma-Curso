@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nEmbora a compra de cargos e títulos fosse bem \ndifundida na América, muitos nobres, aí moradores, \nreceberam títulos da monarquia devido a suas qualidades \ne serviços. Desde o século XVI, os títulos de marquês e \nconde (títulos de Castela) eram concedidos, sobretudo, \naos vice-reis e capitães-gerais nascidos na Espanha. \nCom menor incidência, esta mercê régia também podia \nser remuneração de serviços militares, de feitos na \nconquista, colonização e fundação de cidades.\nRAMINELLI, R. Nobreza e riqueza no Antigo Regime ibérico setecentista. \nRevista de História, n. 169, jul.-dez. 2013.\nSegundo o texto, as concessões da Coroa espanhola \nvisavam o fortalecimento do seu poder na América ao\nA\t restringir os privilégios dos comerciantes.\nB\t reestruturar a organização das tropas.\nC\t reconhecer os opositores do regime.\nD\t facilitar a atuação dos magistrados.\nE\t fortalecer a lealdade dos súditos.",
+  "processado_em": "2026-05-11T23:26:15.779583",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

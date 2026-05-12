@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nNo início da década de 1990, dois biólogos importantes, Redford e Robinson, produziram um modelo largamente \naceito de “produção sustentável” que previa quantos indivíduos de cada espécie poderiam ser caçados de forma \nsustentável baseado nas suas taxas de reprodução. Os seringueiros do Alto Juruá tinham um modelo diferente: a \nquem lhes afirmava que estavam caçando acima do sustentável (dentro do modelo), eles diziam que não, que o nível \nda caça dependia da existência de áreas de refúgio em que ninguém caçava. Ora, esse acabou sendo o modelo \nbatizado de “fonte-ralo” proposto dez anos após o primeiro por Novaro, Bodmer e o próprio Redford e que suplantou \no modelo anterior.\nCUNHA, M. C. Revista USP, n. 75, set.-nov. 2007.\nNo contexto da produção científica, a necessidade de reconstrução desse modelo, conforme exposto no texto, foi \ndeterminada pelo confronto com um(a)\nA\t conclusão operacional obtida por lógica dedutiva.\nB\t visão de mundo marcada por preconceitos morais.\nC\t hábito social condicionado pela religiosidade popular.\nD\t conhecimento empírico apropriado pelo senso comum.\nE\t padrão de preservação construído por experimentação dirigida.",
+  "processado_em": "2026-05-11T23:26:42.571926",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

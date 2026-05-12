@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q041",
+  "imagem": "q041.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 41,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 41\t\nRevista Bolsa, 1986. In: CARRASCOZA, J. A. A evolução do texto publicitário: a associação \nde palavras como elemento de sedução na publicidade. São Paulo: Futura, 1999 (adaptado).\nNesse cartaz publicitário de uma empresa de papel e \ncelulose, a combinação dos elementos verbais e não \nverbais visa\nA\t \tjustificar os prejuízos ao meio ambiente, ao vincular a \nempresa à difusão da cultura.\nB\t \tincentivar a leitura de obras literárias, ao referir-se a \ntítulos consagrados do acervo mundial.\nC\t \tseduzir o consumidor, ao relacionar o anunciante às \nhistórias clássicas da literatura universal.\nD\t \tpromover uma reflexão sobre a preservação ambiental \nao aliar o desmatamento aos clássicos da literatura.\nE\t \tconstruir uma imagem positiva do anunciante, ao \nassociar a exploração alegadamente sustentável à \nprodução de livros.",
+  "processado_em": "2026-05-11T23:25:40.003826",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

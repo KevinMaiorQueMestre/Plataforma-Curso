@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 117\n\u0003\u000e\n\u0005\r\u000e\t\r\b\t\u0002 \u000f\b\u0002 \u0019\u0005\u000e#\n\u0007\t\u000e\u000f\b\u000f\n\u0002 \u000f\n\u0002 \u0016\n\u0002 \u001a\u0004\f\r+\u0002 w\b2\n\t$\u0002\nna Austrália, demonstraram em 2012 que a Lei de \n\u0017+\u0010\u0002 Z\u0002 #?2\u000e\u000f\b\u0002 \u0010\n\t\u0010\u0004\u0002 %\b\u0007\b\u0002 \u0006\u0004\t\u0002 \u0006\u0005G\t\t\u000e\u0010\u0004\t$\u0002 \u001e\f\"\b\u0002 ?\u0007\n\b\u0002\n\u000f\b\u0002 \t\n'\u001d\u0004\u0002 \u0007\n\r\b\u0002 \u001e\u0004\u0010%\u0007\n\n\u0005\u000f\n\u0002 \b2J\f\u0005\t\u0002 %\u0004\f\u001e\u0004\t\u0002 ?\r\u0004\u0010\u0004\t(\u0002 \nA tabela apresenta as áreas e comprimentos de alguns \n\u000f\u0004\t\u0002\u0006\u0004\t\u0002\u001e\u0004\u0005\t\r\u0007\fG\u000f\u0004\t\u0002_\u0007\n\t%\n\u001e\r\u000e#\b\u0010\n\u0005\r\n\u0002\u001e\u0004\u0010\u0002\b\t\u0002\u0010\n\t\u0010\b\t\u0002\nunidades de medida). Considere que a resistividade \n\u0010\b\u0005\rZ\u0010/\t\n\u0002\u001e\u0004\u0005\t\r\b\u0005\r\n\u0002%\b\u0007\b\u0002\r\u0004\u000f\b\t\u0002\b\t\u0002J\n\u0004\u0010\n\r\u0007\u000e\b\t\u0002_\f\u0010\b\u0002\n\b%\u0007\u0004@\u000e\u0010\b'\u001d\u0004\u0002\u001e\u0004\u0005\u0006\u0007\u0010\b\u000f\b\u0002%\n2\u0004\u0002\n\t\r\f\u000f\u0004k(\nÁrea\nComprimento\nResistência \nelétrica\nFio 1\n9\n 312\n R1\nFio 2\n4\n 47\n R2\nFio 3\n2\n 54\n R3\nFio 4\n1\n 106\n R4\nw\u0014¦\u0014\u0015$\u0002\u001a(\u0002¦(\u0002\n\r\u0002\b2(\u0002\u0017+\u0010§\t\u00027\b\u0002\u001a\f\u0007#\u000e#\n\t\u0002\r\u0004\u0002\r+\n\u0002\u0012\r\u0004\u0010\u000e\u001e\u0002\u001a\u001e\b2\n(\u0002 \nScience, n. 335, jan. 2012 (adaptado). \n\u0012\t\u0002\u0007\n\t\u000e\t\r>\u0005\u001e\u000e\b\t\u0002\n2Z\r\u0007\u000e\u001e\b\t\u0002\u000f\u0004\t\u0002\u0006\u0004\t$\u0002\n\u0010\u0002\u0004\u0007\u000f\n\u0010\u0002\u001e\u0007\n\t\u001e\n\u0005\r\n$\u0002\t\u001d\u0004\nA R1 \t R2 \t R3 \t R4.\nB R2 \t R1 \t R3 \t R4.\nC R2 \t R3 \t R1 \t R4.\nD R4 \t R1 \t R3 \t R2.\nE R4 \t R3 \t R2 \t R1.",
+  "processado_em": "2026-05-08T14:04:29.614959",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 90\t\nAs \nlentes \nfotocromáticas \nescurecem \nquando \nexpostas à luz solar por causa de reações químicas \nreversíveis entre uma espécie incolor e outra colorida. \nDiversas reações podem ser utilizadas, e a escolha \ndo melhor reagente para esse fim se baseia em três \nprincipais aspectos: (i) o quanto escurece a lente; (ii) o \ntempo de escurecimento quando exposta à luz solar; e \n(iii) o tempo de esmaecimento em ambiente sem forte luz \nsolar. A transmitância indica a razão entre a quantidade \nde luz que atravessa o meio e a quantidade de luz que \nincide sobre ele. \nDurante um teste de controle para o desenvolvimento \nde novas lentes fotocromáticas, foram analisadas cinco \namostras, que utilizam reagentes químicos diferentes. \nNo quadro, são apresentados os resultados.\nAmostra\nTempo de \nescurecimento \n(segundo)\nTempo de \nesmaecimento \n(segundo)\nTransmitância \nmédia da lente \nquando exposta \nà luz solar (%)\n1\n20 \n50 \n80\n2\n40\n30\n90\n3\n20\n30\n50\n4\n50\n50\n50\n5\n40\n20\n95\nConsiderando os três aspectos, qual é a melhor amostra \nde lente fotocromática para se utilizar em óculos?\nA\t 1\nB\t 2\nC\t 3\nD\t 4\nE\t 5",
+  "processado_em": "2026-05-08T14:00:32.455766",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nPais com sínd\nA síndrome de Down é uma alteração genética associad\ntrês cromossomos 21 e não um par, como é normal. Isso oc\ncom um gameta possuidor de dois cromossomos 21. Em\nestéreis, em 2008, no interior de São Paulo, uma delas de\nMORENO, T. Três anos após dar à luz, mãe portadora de síndrome de Down revela detalh\nSabendo disso, um jovem casal, ambos com essa síndr\ngenético porque querem ter um bebê.\nO médico informa ao casal que, com relação ao cromosso\nA\t\nA\t todos normais.\nB\t\nB\t todos tetrassômicos.\nC\t\nC\t apenas normais ou tetrassômicos.\nD\t\nD\t apenas trissômicos ou tetrassômicos.\nE\t\nE\t normais, trissômicos ou tetrassômicos.",
+  "processado_em": "2026-05-08T14:05:44.445872",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

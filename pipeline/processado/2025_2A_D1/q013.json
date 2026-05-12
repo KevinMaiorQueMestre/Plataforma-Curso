@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 13 \nComo abater uma nuvem a tiros\nsirenes, bares em chamas,\ncarros se chocando,\na noite me chama,\na coisa escrita em sangue\nnas paredes das danceterias\ne dos hospitais,\nos poemas incompletos\ne o vermelho sempre verde dos sinais\nLEMINSKI, P. In: CESAR, A. C. et al. Poesia marginal. \nSão Paulo: Ática, 2006.\nO poema de Paulo Leminski filia-se à geração da chamada \npoesia marginal, produzida por artistas que fugiam dos padrões \nestabelecidos pela elite literária. Nesse texto, a expressão dessa \npoética fundamenta-se na\nA representação de situações cotidianas fragmentadas, \nliberdade métrica e ausência de rimas, que ajudam a \ncompor o cenário caótico da vida urbana contemporânea.\nB exploração da liberdade temática, o que leva o poema a \nperder valor semântico, uma vez que as ações retratadas \nnão estão relacionadas com a vida moderna.\nC ausência de rimas, uma reclamação latente no verso \n“os poemas incompletos”, tornando o texto uma crítica \naos poetas tradicionais.\nD crítica à situação atual do trânsito nas grandes cidades, \nexpressa pelo verso “e o vermelho sempre verde dos sinais”.\nE temática da denúncia do caos provocado pelo grande número \nde acidentes no trânsito, os quais colaboram para a lotação \ndos hospitais.",
+  "processado_em": "2026-05-08T14:06:25.866743",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

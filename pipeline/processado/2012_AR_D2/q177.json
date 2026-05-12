@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nDentre outros objetos de pesquisa, a Alometria \nestuda a relação entre medidas de diferentes partes do \ncorpo humano. Por exemplo, segundo a Alometria, a área \nA da superfície corporal de uma pessoa relaciona-se com \na sua massa m pela fórmula A = k.m\n2\n3 , em que k é uma \nconstante positiva.\nSe no período que vai da infância até a maioridade de um \nindivíduo sua massa é multiplicada por 8, por quanto será \nmultiplicada a área da superfície corporal?\nA\n16\n3\nB\n4\nC\n24\nD\n8\nE\n64",
+  "processado_em": "2026-05-08T13:59:15.906118",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

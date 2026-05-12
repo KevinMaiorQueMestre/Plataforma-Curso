@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nUm tipo de célula se reproduz constantemente por \ndivisão celular, triplicando sua quantidade a cada duas \nhoras, sob condições ideais de proliferação. Suponha uma \nquantidade inicial Q0 dessas células sob as condições \nideais de proliferação durante um certo período.\nQual a representação algébrica da quantidade Q dessas \ncélulas em função do tempo t, em hora, nesse período?\nA\t\nA\t Q(t) = Q0 ⋅ 3t\nB\t\nB\t Q(t) = Q0 ⋅ 32t\nC\t\nC\t Q(t) = Q0 ⋅ 2\nt\n3\nD\t\nD\t Q(t) = Q0 ⋅ 3\nt\n2\nE\t\nE\t Q(t) = Q0 ⋅ 3\nt\n2 1\n−",
+  "processado_em": "2026-05-08T14:05:27.019317",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

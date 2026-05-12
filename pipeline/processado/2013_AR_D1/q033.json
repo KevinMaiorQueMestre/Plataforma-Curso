@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 33\t\n MOREAUX, F. R. Proclamação da Independência.\nDisponível em: www.tvbrasil.org.br. Acesso em: 14 jun. 2010.\n FERREZ, M. D. Pedro II.\nSCHWARCZ, L. M. As barbas do imperador: D. Pedro II, um monarca nos trópicos. \nSão Paulo: Cia. das Letras, 1998.\nAs imagens, que retratam D. Pedro I e D. Pedro II, procuram \ntransmitir determinadas representações políticas acerca \ndos dois monarcas e seus contextos de atuação. A ideia \nque cada imagem evoca é, respectivamente:\nA\t Habilidade militar — riqueza pessoal.\nB\t Liderança popular — estabilidade política.\nC\t Instabilidade econômica — herança europeia.\nD\t Isolamento político — centralização do poder.\nE\t Nacionalismo exacerbado — inovação administrativa.",
+  "processado_em": "2026-05-08T14:00:11.530934",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

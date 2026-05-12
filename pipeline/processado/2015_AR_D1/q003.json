@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 03\t\nApesar de seu disfarce de iniciativa e otimismo, o homem \nmoderno está esmagado por um profundo sentimento \nde impotência que o faz olhar fixamente e, como que \nparalisado, para as catástrofes que se avizinham. Por isso, \ndesde já, saliente-se a necessidade de uma permanente \natitude crítica, o único modo pelo qual o homem realizará \nsua vocação natural de integrar-se, superando a atitude \ndo simples ajustamento ou acomodação, apreendendo \ntemas e tarefas de sua época.\nFREIRE, P. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 2011.\nPaulo Freire defende que a superação das dificuldades e \na apreensão da realidade atual será obtida pelo(a)\nA\t desenvolvimento do pensamento autônomo.\nB\t obtenção de qualificação profissional.\nC\t resgate de valores tradicionais. \nD\t realização de desejos pessoais.\nE\t aumento da renda familiar.",
+  "processado_em": "2026-05-08T14:00:42.045448",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

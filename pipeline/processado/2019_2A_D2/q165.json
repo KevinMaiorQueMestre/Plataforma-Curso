@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 165\t\nO esquema apresenta a concentração de álcool presente em cada 200 mL de diferentes tip\nÁlcool\nLimites para o consumo de bebidas alcoólicas\nBebida\nConcentração\nde álcool\nGrama\nde álcool\nUnidade\nde álcool\nCerveja\nVinho\nUísque\nVodca\nCachaça\n10\n24\n80\n80\n80\n2,4\n1\n200 mL\nUnidades de álcool e males à saúde\nRISCO\nMULHERES\nHOMENS\nBAIXO\nMenor que 14 unidades por semana\nMenor que 21 unidades por semana\nMÉDIO\n15 a 35 unidades por semana\n22 a 50 unidades por semana\nALTO\nMais que 36 unidades por semana\nMais que 51 unidades por semana\n5%\n12%\n40%\n40%\n40%\n8\n8\n8",
+  "processado_em": "2026-05-11T23:27:13.295699",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

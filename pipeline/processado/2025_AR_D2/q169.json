@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 169\t\nTrês dados cúbicos, com faces numeradas de 1 a 6, foram \nutilizados em um jogo. Artur escolheu dois dados, e João \nficou com o terceiro. O jogo consiste em ambos lançarem \nseus dados, observarem os números nas faces voltadas para \ncima e compararem o maior número obtido por Artur com \no número obtido por João. Vence o jogador que obtiver o \nmaior número. Em caso de empate, a vitória é de João.\nO jogador que tem a maior probabilidade de vitória é\nA\tArtur, com probabilidade de 2\n3\nB\tJoão, com probabilidade de 4\n9\nC\tArtur, com probabilidade de 91\n216\nD\tJoão, com probabilidade de 91\n216\nE\tArtur, com probabilidade de 125\n216",
+  "processado_em": "2026-05-08T14:07:10.209571",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

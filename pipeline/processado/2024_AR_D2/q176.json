@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nUm instituto de pesquisa constatou que, nos últimos \ndez anos, o crescimento populacional de uma cidade foi \nde 135,25%.\nQual é a representação decimal da taxa percentual desse \ncrescimento populacional?\nA\t13 525,0\nB\t135,25\nC\t13,525\nD\t1,3525\nE 0 13525",
+  "processado_em": "2026-05-08T14:06:21.637851",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

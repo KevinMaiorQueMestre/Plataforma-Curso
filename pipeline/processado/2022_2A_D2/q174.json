@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\t\nUm túnel viário de uma única via possui a entrada na \nde um caminhão com 3 m de largura deve decidir se pass\ndecidir, o motorista calcula a altura que esse caminhão de\ncaminhão como um paralelepípedo reto.\nEssa altura, em metro, é\nA\t\nA\t 3\nB\t\nB\t 3 2\nC\t\nC\t 3 3\nD\t\nD\t 3 2\n2\nE\t\nE\t 3 3\n2",
+  "processado_em": "2026-05-08T14:04:51.006847",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

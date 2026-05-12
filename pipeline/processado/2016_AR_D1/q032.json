@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 32\t\nA sociologia ainda não ultrapassou a era das \nconstruções e das sínteses filosóficas. Em vez de \nassumir a tarefa de lançar luz sobre uma parcela restrita \ndo campo social, ela prefere buscar as brilhantes \ngeneralidades em que todas as questões são levantadas \nsem \nque \nnenhuma \nseja \nexpressamente \ntratada. \nNão é com exames sumários e por meio de intuições \nrápidas que se pode chegar a descobrir as leis de uma \nrealidade tão complexa. Sobretudo, generalizações às \nvezes tão amplas e tão apressadas não são suscetíveis \nde nenhum tipo de prova. \nDURKHEIM, E. O suicídio: estudo de sociologia. São Paulo: Martins Fontes, 2000.\nO texto expressa o esforço de Émile Durkheim em \nconstruir uma sociologia com base na\nA\t vinculação com a filosofia como saber unificado.\nB\t reunião de percepções intuitivas para demonstração.\nC\t formulação de hipóteses subjetivas sobre a vida \nsocial.\nD\t adesão aos padrões de investigação típicos das \nciências naturais.\nE\t incorporação de um conhecimento alimentado pelo \nengajamento político.",
+  "processado_em": "2026-05-08T14:01:05.551668",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

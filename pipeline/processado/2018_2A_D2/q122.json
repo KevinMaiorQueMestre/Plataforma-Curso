@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nCom um dedo, um garoto pressiona contra a parede \nduas moedas, de R$ 0,10 e R$ 1,00, uma sobre a outra, \nmantendo-as paradas. Em contato com o dedo está a \nmoeda de R$ 0,10 e contra a parede está a de R$ 1,00. \nO peso da moeda de R$ 0,10 é 0,05 N e o da de R$ 1,00 é \n0,09 N. A força de atrito exercida pela parede é suficiente \npara impedir que as moedas caiam.\nQual é a força de atrito entre a parede e a moeda de \nR$ 1,00?\nA\t 0,04 N\nB\t 0,05 N\nC\t 0,07 N\nD\t 0,09 N\nE\t 0,14 N",
+  "processado_em": "2026-05-11T23:26:21.510202",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

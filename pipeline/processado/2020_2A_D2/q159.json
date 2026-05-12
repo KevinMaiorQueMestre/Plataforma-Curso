@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 159          \nEmbora a civilização maia já estivesse em declínio\ndesenvolvimento em vários campos da ciência, em esp\npossuíam um sistema numérico avançado e diferente do s\nA imagem representa o sistema de numeração m\nnúmeros de 0 a 19.\n0\n1\n2\n5\n6\n7\n10\n11\n1\n15\n16 1\nO zero era representado por uma espécie de tigela e to\nvertical com duas figuras, na qual a superior representava a q\nde unidades. O número era lido de cima para baixo e obtido \n44 = 2 x 20 + 4\n2 unidades de 20 = 40\n3 unida\n19 unid\n4 unidades de 1 = 4\n79 = 3 x\nO número 359 é representado, no sistema de numeração \nA\nB\nC",
+  "processado_em": "2026-05-08T14:03:39.193862",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

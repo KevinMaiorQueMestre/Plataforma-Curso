@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nNa produção do politereftalato de etileno, o PET, \nutiliza-se como reagente o para-dimetilbenzeno, \ntambém chamado de para-xileno, que deve ter alta \npureza. No entanto, o para-xileno obtido do petróleo \npossui contaminação dos seus isômeros orto-xileno \ne meta-xileno, cujas estruturas são apresentadas na \nfigura. No quadro, são listadas as temperaturas de fusão \ne ebulição desses três isômeros.\nCH3\nCH3\nCH3\nCH3\nCH3\nCH3\norto-xileno\nmeta-xileno\npara-xileno\nIsômero\nTemperatura de \nfusão (°C)\nTemperatura de \nebulição (°C)\norto-xileno\n−25\n144\nmeta-xileno\n− 47,4\n139,3\npara-xileno\n13,5\n137,5\nQual processo de separação permite a purificação desse \nreagente?\nA\t\nA\t Destilação simples.\nB\t\nB\t Cristalização simples.\nC\t\nC\t Destilação fracionada.\nD\t\nD\t Extração líquido-líquido.\nE\t\nE\t Solidificação fracionada.",
+  "processado_em": "2026-05-08T14:05:24.906163",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

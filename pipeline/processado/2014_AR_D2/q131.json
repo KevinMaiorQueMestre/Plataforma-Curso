@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 131\t\nDisponível em: www.portaldapropaganda.com.br. Acesso em: 28 jul. 2013.\nEssa propaganda defende a transformação social e \na diminuição da violência por meio da palavra. Isso se \nevidencia pela\nA\t predominância de tons claros na composição da peça \npublicitária.\nB\t associação entre uma arma de fogo e um megafone.\nC\t grafia com inicial maiúscula da palavra “voz” no slogan.\nD\t imagem de uma mão segurando um megafone. \nE\t representação gráfica da propagação do som.",
+  "processado_em": "2026-05-08T14:00:38.273307",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

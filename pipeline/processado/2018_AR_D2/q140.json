@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\n8P\u0003UDSD]\u0003HVWXGD\u0003HP\u0003XPD\u0003HVFROD\u0003TXH\u0003¿FD\u0003ORQJH\u0003GH\u0003\nsua casa, e por isso precisa utilizar o transporte público. \nComo é muito observador, todos os dias ele anota a hora \nexata (sem considerar os segundos) em que o ônibus \npassa pelo ponto de espera. Também notou que nunca \nconsegue chegar ao ponto de ônibus antes de 6 h 15 min \nGD\u0003PDQKm\u0011\u0003$QDOLVDQGR\u0003RV\u0003GDGRV\u0003FROHWDGRV\u0003GXUDQWH\u0003R\u0003PrV\u0003\nGH\u0003IHYHUHLUR\u000f\u0003R\u0003TXDO\u0003WHYH\u0003\u0015\u0014\u0003GLDV\u0003OHWLYRV\u000f\u0003HOH\u0003FRQFOXLX\u0003TXH\u0003\n\u0019\u0003K\u0003\u0015\u0014\u0003PLQ\u0003IRL\u0003R\u0003TXH\u0003PDLV\u0003VH\u0003UHSHWLX\u000f\u0003H\u0003TXH\u0003D\u0003PHGLDQD\u0003GR\u0003\nFRQMXQWR\u0003GH\u0003GDGRV\u0003p\u0003\u0019\u0003K\u0003\u0015\u0015\u0003PLQ\u0011\nA probabilidade de que, em algum dos dias letivos de \nfevereiro, esse rapaz tenha apanhado o ônibus antes de \n\u0019\u0003K\u0003\u0015\u0014\u0003PLQ\u0003GD\u0003PDQKm\u0003p\u000f\u0003QR\u0003Pi[LPR\u000f\nA\n4\n21\nB\n5\n21\nC\n6\n21\nD\n7\n21\nE\n8\n21",
+  "processado_em": "2026-05-11T23:26:48.089025",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

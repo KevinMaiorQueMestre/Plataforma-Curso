@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 79\t\nEm um hospital havia cinco lotes de bolsas de \nsangue, rotulados com os códigos I, II, III, IV e V. Cada \nlote continha apenas um tipo sanguíneo não identificado. \nUma funcionária do hospital resolveu fazer a identificação \nutilizando dois tipos de soro, anti-A e anti-B. Os resultados \nobtidos estão descritos no quadro.\nCódigo \ndos lotes \nVolume de \nsangue (L)\nSoro anti-A\nSoro anti-B\nI\n22\nNão aglutinou\nAglutinou\nII\n25\nAglutinou\nNão aglutinou\nIII\n30\nAglutinou\nAglutinou\nIV\n15 \nNão aglutinou\nNão aglutinou\nV\n33\nNão aglutinou\nAglutinou\nQuantos litros de sangue eram do grupo sanguíneo do \ntipo A?\nA\t 15\nB\t 25\nC\t 30\nD\t 33\nE\t 55",
+  "processado_em": "2026-05-08T14:00:31.695217",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 110\t\nNa família Retroviridae encontram-se diversos vírus \nque infectam aves e mamíferos, sendo caracterizada \npela produção de DNA a partir de uma molécula de RNA. \nAlguns retrovírus infectam exclusivamente humanos, \nnão necessitando de outros hospedeiros, reservatórios \nou vetores biológicos. As infecções ocasionadas \npor esses vírus vêm causando mortes e grandes \nprejuízos ao desenvolvimento social e econômico. \nNesse \ncontexto, \npesquisadores \ntêm \nproduzido \nmedicamentos que contribuem para o tratamento \ndessas doenças.\nQue avanços tecnológicos têm contribuído para o \ntratamento dessas infecções virais?\nA\t Melhoria dos métodos de controle dos vetores \ndesses vírus.\nB\t Fabricação de soros mutagênicos para combate \ndesses vírus.\nC\t Investimento da indústria em equipamentos de \nproteção individual.\nD\t Produção de vacinas que evitam a infecção das \ncélulas hospedeiras.\nE\t Desenvolvimento de antirretrovirais que dificultam a \nreprodução desses vírus.",
+  "processado_em": "2026-05-11T23:27:33.614833",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

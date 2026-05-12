@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\t\nNa intenção de ampliar suas fatias de mercado, as operadoras de telefonia apresentam diferentes planos e \npromoções. Uma operadora oferece três diferentes planos baseados na quantidade de minutos utilizados mensalmente, \napresentados no gráfico. Um casal foi à loja dessa operadora para comprar dois celulares, um para a esposa e outro \npara o marido. Ela utiliza o telefone, em média, 30 minutos por mês, enquanto ele, em média, utiliza 90 minutos por mês.\nCom base nas informações do gráfico, qual é o plano de menor custo mensal para cada um deles?\nA\t O plano A para ambos.\nB\t O plano B para ambos.\nC\t O plano C para ambos.\nD\t O plano B para a esposa e o plano C para o marido.\nE\t O plano C para a esposa e o plano B para o marido.\n105\n90\n75\n60\n45\n30\n15\n0\n    10       20      30       40      50       60       70      80       90      100\nConta (R$)\nTempo (min)\nPlano A\nPlano B\nPlano C",
+  "processado_em": "2026-05-11T23:26:22.911161",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 139\t\nOs hidrômetros são marcadores de consumo de \nágua em residências e estabelecimentos comerciais. \nExistem vários modelos de mostradores de hidrômetros, \nsendo que alguns deles possuem uma combinação de um \nmostrador e dois relógios de ponteiro. O número formado \npelos quatro primeiros algarismos do mostrador \nfornece o consumo em m3, e os dois últimos algarismos \nrepresentam, respectivamente, as centenas e dezenas \nde litros de água consumidos. Um dos relógios de \nponteiros indica a quantidade em litros, e o outro em \ndécimos de litros, conforme ilustrados na figura a seguir.\n1 000\nDisponível em: www.aguasdearacoiaba.com.br (adaptado).\nConsiderando as informações indicadas na figura, o \nconsumo total de água registrado nesse hidrômetro, em \nlitros, é igual a\nA\t 3 534,85.\nB\t 3 544,20.\nC\t 3 534 850,00.\nD\t 3 534 859,35.\nE 3 534 850 39",
+  "processado_em": "2026-05-08T13:59:45.142450",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

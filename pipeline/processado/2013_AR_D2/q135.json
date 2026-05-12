@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 135\t\nO sociólogo espanhol Manuel Castells sustenta que \n“a comunicação de valores e a mobilização em torno \ndo sentido são fundamentais. Os movimentos culturais \n(entendidos como movimentos que têm como objetivo \ndefender ou propor modos próprios de vida e sentido) \nconstroem-se em torno de sistemas de comunicação — \nessencialmente a internet e os meios de comunicação \n— porque esta é a principal via que esses movimentos \nencontram para chegar àquelas pessoas que podem \neventualmente partilhar os seus valores, e a partir daqui \natuar na consciência da sociedade no seu conjunto”.\nDisponível em: www.compolitica.org. Acesso em: 2 mar. 2012 (adaptado).\nEm 2011, após uma forte mobilização popular via redes \nsociais, houve a queda do governo de Hosni Mubarak, no \nEgito. Esse evento ratifica o argumento de que\nA\t a internet atribui verdadeiros valores culturais aos \nseus usuários.\nB\t a consciência das sociedades foi estabelecida com o \nadvento da internet.\nC\t a revolução tecnológica tem como principal objetivo a \ndeposição de governantes antidemocráticos.\nD\t os recursos tecnológicos estão a serviço dos opressores \ne do fortalecimento de suas práticas políticas.\nE\t os sistemas de comunicação são mecanismos \nimportantes de adesão e compartilhamento de \nvalores sociais",
+  "processado_em": "2026-05-08T14:00:22.713338",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nVisando \nexplicar \numa \ndas \npropriedades \nda \nmembrana plasmática, fusionou-se uma célula de \ncamundongo com uma célula humana, formando uma \ncélula híbrida. Em seguida, com o intuito de marcar as \nproteínas de membrana, dois anticorpos foram inseridos \nno experimento, um específico para as proteínas de \nmembrana do camundongo e outro para as proteínas de \nmembrana humana. Os anticorpos foram visualizados ao \nmicroscópio por meio de fluorescência de cores diferentes.\nCélula de \ncamundongo\nCélula \nhumana\nCélula híbrida\nAnticorpos contra proteína de \nmembrana de camundongo,\nmarcados com fluoresceína.  \nAnticorpos contra proteína \nde membrana humana,\nmarcados com rodamina.\nIncubação a 37 °C\nProteína da \nmembrana\nTempo = 0 minuto\nTempo = 40 minutos\nProteína da \nmembrana\nFusão celular\nETAPA 1\nETAPA 2\nETAPA 3\nETAPA 4\nALBERTS, B. et al. Biologia molecular da célula. Porto Alegre: Artes Médicas, 1997 (adaptado).\nA mudança observada da etapa 3 para a etapa 4 do \nexperimento ocorre porque as proteínas\nA\t movimentam-se livremente no plano da bicamada \nlipídica.\nB\t permanecem confinadas em determinadas regiões \nda bicamada.\nC\t auxiliam o deslocamento dos fosfolipídios da \nmembrana plasmática.\nD\t são mobilizadas em razão da inserção de anticorpos.\nE\t são bloqueadas pelos anticorpos.",
+  "processado_em": "2026-05-11T23:25:48.773501",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nNa formulação de detergentes sintéticos, são \nencontradas diversas substâncias que possuem ação \nespecífica. Entre essas substâncias, estão os tensoativos \naniônicos, dos quais o dodecilbenzenossulfonato de \nsódio é o mais comum em detergentes para cozinha.\nO dodecilbenzenossulfonato de sódio é um tensoativo \nem razão da presença\nA\t\nA\t do íon Na+ hidrofílico e pela porção sulfonato lipofílica.\nB\t\nB\t das porções sulfonato hidrofílica e dodecilbenzeno \nlipofílica.\nC\t\nC\t da porção benzenossulfonato, que possui característica \nlipofílica.\nD\t\nD\t do íon Na+, que possui tanto característica hidrofílica \nquanto lipofílica.\nE\t\nE\t do dodecilbenzeno, que possui tanto característica \nhidrofílica quanto lipofílica.",
+  "processado_em": "2026-05-08T14:05:25.608117",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

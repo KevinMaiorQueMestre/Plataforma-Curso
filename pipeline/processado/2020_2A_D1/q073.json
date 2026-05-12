@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 73          \nA humanidade, a humanidade do homem, ainda é u\ncochila em pé. A velha questão do próprio homem con\nrelação às ciências do vivo, não apenas em relação ao\nconfusa, o animal, mas em relação a todos os traços qu\nresiste à análise.\nNo trecho, caracteriza-se o seguinte tema fundamental do\nA \t Crise do sujeito.\nB \t Relativismo ético.\nC \t Virada linguística.\nD \t Teoria da referência.\nE \t Crítica à tecnociência.",
+  "processado_em": "2026-05-08T14:03:31.526915",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

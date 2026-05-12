@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 134\t\nO exoesqueleto dos crustáceos é formado por quitina \ne impregnações de sais calcários e, por isso, é mais \nduro quando comparado com o exoesqueleto de outros \nartrópodes. Esse revestimento externo confere proteção, \nmas, por ser duro, limita o crescimento desses animais.\nPara superar essa limitação, o exoesqueleto deve ser\nA\tformado somente na fase adulta do animal.\nB\tfragmentado para expansão nas áreas de articulação.\nC\tmodelado continuamente para ajuste ao tamanho do corpo.\nD\tsubstituído por meio de mudas que ocorrem periodicamente.\nE\timpregnado por pequena quantidade de sais para sua \ndistensão.",
+  "processado_em": "2026-05-08T14:06:19.327465",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

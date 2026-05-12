@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 71\t\nSuponha que você seja um consultor e foi contratado \npara assessorar a implantação de uma matriz energética \nem um pequeno país com as seguintes características: \nregião plana, chuvosa e com ventos constantes, dispondo \nde poucos recursos hídricos e sem reservatórios de \ncombustíveis fósseis.\nDe acordo com as características desse país, a matriz \nenergética de menor impacto e risco ambientais é a \nbaseada na energia\nA\t dos biocombustíveis, pois tem menor impacto \nambiental e maior disponibilidade.\nB\t solar, pelo seu baixo custo e pelas características do \npaís favoráveis à sua implantação.\nC\t nuclear, por ter menor risco ambiental e ser adequada \na locais com menor extensão territorial.\nD\t hidráulica, devido ao relevo, à extensão territorial do \npaís e aos recursos naturais disponíveis.\nE\t eólica, pelas características do país e por não gerar \ngases do efeito estufa nem resíduos de operação.",
+  "processado_em": "2026-05-08T13:59:02.504281",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

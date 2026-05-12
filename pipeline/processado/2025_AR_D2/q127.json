@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 127\t\nApaixonada por culinária e química, uma chefe de cozinha \ncalculou que, para promover o crescimento adequado da \nmassa durante o cozimento de um bolo a 180 °C (453 K) e \n1,00 atm, ela precisaria utilizar uma quantidade de fermento \nquímico suficiente para produzir um volume de gás igual a \n4,00 L. Com esse objetivo, ela escolheu utilizar o bicarbonato de \namônio, um composto que, sob aquecimento, degrada-se em \ntrês gases distintos, que são os responsáveis pelo crescimento \nda massa. A decomposição do bicarbonato de amônio ocorre \nconforme a equação química apresentada e, nas condições do \ncozimento, seu rendimento é de 80%.\nNH4HCO3 (s) → NH3 (g) + CO2 (g) + H2O (g)\nConsidere que a mistura dos gases se comporta como gás \nideal nas condições de cozimento utilizadas pela chefe.\nDados: Massa molar do NH4HCO3 = 79 g ⋅ mol−1 e \nR = 0,082 atm ⋅ L ⋅ mol−1 ⋅ K−1.\nA massa, em grama, de bicarbonato de amônio que ela deve \nutilizar é mais próxima de\nA\t2,3 g.\nB\t3,5 g.\nC\t5,9 g.\nD\t6,8 g.\nE 8 9 g",
+  "processado_em": "2026-05-08T14:07:07.699500",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

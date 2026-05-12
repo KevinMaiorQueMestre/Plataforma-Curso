@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 124        \nUma população (momento A) sofre isolamento \nem duas subpopulações (momento B) por um fator de \nisolamento (I). Passado um tempo, essas subpopulações \napresentam características fenotípicas e genotípicas que \nas distinguem (momento C), representadas na figura \npelas tonalidades de cor. O posterior desaparecimento \ndo fator de isolamento I pode levar, no momento D, às \nsituações D1 e D2.\nA\nB\nC\nD\nD1\nD2\nTempo\n \nA representação indica que, no momento D, na situação\nA \t D1 ocorre um novo fator de isolamento geográfico.\nB \t D1 existe uma única população distribuída em \ngradiente.\nC \t D1 ocorrem duas populações separadas por \nisolamento reprodutivo.\nD \t D2 coexistem duas populações com características \nfenotípicas distintas.\nE \t D2 foram preservadas as mesmas características \nfenotípicas da população original A.",
+  "processado_em": "2026-05-11T23:28:14.536567",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

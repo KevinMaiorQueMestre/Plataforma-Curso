@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 25\t\nVILLAR, P. Disponível em: www.instagram.com/p/C6TtHH7rZUU. \nAcesso em: 18 set. 2024.\nPela análise de seu conteúdo, constata-se que esse texto tem \ncomo função social\nA\testimular o acolhimento estudantil pela comunidade escolar.\nB\tpropor reflexão sobre o trabalho desenvolvido pelas escolas.\nC\tconscientizar sobre a importância das disciplinas básicas.\nD\tpromover atividades de caráter psicossocial nas escolas.\nE\tinstruir a população sobre as propostas de inclusão.",
+  "processado_em": "2026-05-08T14:06:43.407469",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

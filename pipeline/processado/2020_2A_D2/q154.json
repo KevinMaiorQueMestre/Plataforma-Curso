@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 154          \nUm banho propicia ao indivíduo um momento de \nconforto e reenergização. Porém, o desperdício de água \ngera prejuízo para todos.\nConsidere que cada uma das cinco pessoas de \numa família toma dois banhos por dia, de 15 minutos \ncada. Sabe-se que a cada hora de banho são gastos \naproximadamente 540 litros de água. Considerando que \num mês tem 30 dias, podemos perceber que o consumo \nde água é bem significativo.\nA quantidade total de litros de água consumida, nos banhos \ndessa família, durante um mês, é mais próxima de\nA \t 1 350.\nB\t 2 700.\nC\t 20 250.\nD\t 20 520.\nE \t 40 500.",
+  "processado_em": "2026-05-08T14:03:38.927569",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

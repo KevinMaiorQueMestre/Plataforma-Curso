@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 04\t\nO Rio de Janeiro tem projeção imediata no próprio \nestado e no Espírito Santo, em parcela do sul do estado \nda Bahia, e na Zona da Mata, em Minas Gerais, onde \ntem influência dividida com Belo Horizonte. Compõem \na rede urbana do Rio de Janeiro, entre outras cidades: \nVitória, Juiz de Fora, Cachoeiro de Itapemirim, Campos \ndos Goytacazes, Volta Redonda - Barra Mansa, Teixeira \nde Freitas, Angra dos Reis e Teresópolis.\nDisponível em: http://ibge.gov.br. Acesso em: 9 jul. 2015 (adaptado).\nO conceito que expressa a relação entre o espaço \napresentado e a cidade do Rio de Janeiro é:\nA\t Frente pioneira.\nB\t Zona de transição.\nC\t Região polarizada.\nD\t Área de conurbação.\nE\t Periferia metropolitana.",
+  "processado_em": "2026-05-08T14:01:02.179724",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

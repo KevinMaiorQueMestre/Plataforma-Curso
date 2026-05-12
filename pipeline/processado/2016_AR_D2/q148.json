@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nEm uma cidade, o número de casos de dengue \nconfirmados aumentou consideravelmente nos últimos \ndias. A prefeitura resolveu desenvolver uma ação \ncontratando funcionários para ajudar no combate à \ndoença, os quais orientarão os moradores a eliminarem \ncriadouros do mosquito Aedes aegypti, transmissor da \ndengue. A tabela apresenta o número atual de casos \nconfirmados, por região da cidade.\nRegião\nCasos confirmados\nOeste\n237\nCentro\n262\nNorte\n158\nSul\n159\nNoroeste\n160\nLeste\n278\nCentro-Oeste\n300\nCentro-Sul\n278\nA prefeitura optou pela seguinte distribuição dos \nfuncionários a serem contratados:\nI.\t\n10 funcionários para cada região da cidade cujo \nnúmero de casos seja maior que a média dos \ncasos confirmados.\nII.\t 7 funcionários para cada região da cidade cujo \nnúmero de casos seja menor ou igual à média dos \ncasos confirmados.\nQuantos funcionários a prefeitura deverá contratar para \nefetivar a ação?\nA\t 59\nB\t 65\nC\t 68\nD\t 71\nE\t 80",
+  "processado_em": "2026-05-08T14:01:22.216989",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

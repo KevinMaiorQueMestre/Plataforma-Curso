@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nVeja o gasto médio de calorias, por hora de atividade,\n•\t varrer o chão: 200 calorias;\n•\t passar aspirador de pó: 350 calorias;\n•\t limpar janelas: 260 calorias.\nUma pessoa varreu o chão da casa, depois passou \n30 minutos em cada atividade, sem parar para descansar.\nproporcionalmente em relação ao tempo.\nO gráfico que melhor representa o gasto acumulado de calori\nA\t\nA\t  \n405\n275\n100\n30\nTempo\n(min)\n60\n0\n90\nCaloria \n(cal)\nB\t\nB\t  \n30\nTempo\n(min)\n60\n0\n90\n175\n130\n100\nCaloria \n(cal)\nC\t\nC\t  \n30\nTempo\n(min)\n60\n0\n90\n100\n275\n405\nCaloria \n(cal)",
+  "processado_em": "2026-05-08T14:05:28.562297",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

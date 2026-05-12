@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 105                \nGrupos de proteção ao meio ambiente conseguem resgatar muitas aves aquáticas vítimas de vazamentos de \npetróleo. Essas aves são lavadas com água e detergente neutro para a retirada completa do óleo de seu corpo e, \nposteriormente, são aquecidas, medicadas, desintoxicadas e alimentadas. Mesmo após esses cuidados, o retorno ao \nambiente não pode ser imediato, pois elas precisam recuperar a capacidade de flutuação.\nPara flutuar, essas aves precisam\nA \t recuperar o tônus muscular.\nB \t restaurar a massa corporal.\nC \t substituir as penas danificadas.\nD \t restabelecer a capacidade de homeotermia.\nE \t refazer a camada de cera impermeabilizante das penas.",
+  "processado_em": "2026-05-11T23:28:13.601948",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

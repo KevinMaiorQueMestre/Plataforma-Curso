@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 52\t\nCasa da floresta\nEu quero morar\nNuma casinha feita à mão\nNuma floresta onde eu possa plantar o que eu quiser\nE andar de pés no chão\nE vou plantar abacaxi com banana\nMandioca, cacau, batata-doce e feijão\nPalmito e um café bem bonito\nLá na sombra da goiaba e do mamão\nSob a copa do coqueiro, açaí, abacateiro\nCajueiro e maracujá\nLá no alto a seringueira\nCom o guapuruvu na beira\nContemplando uma vista pro mar\n[...]\nCom o cuidado do facão\nApagar a ilusão de que o que é bom\nÉ o que produz demais\nNANAN. Movimento: manifesta sentimento. Curitiba: s.n., 2019 (fragmento).\nPara o uso do solo agrícola, o trecho da letra de canção \napresentado estabelece uma possibilidade de conciliação entre:\nA\tModelo itinerante e pousio.\nB\tSistema intensivo e parceria.\nC\tTécnica extrativa e silvicultura.\nD\tAtividade empresarial e fruticultura.\nE Prática conservacionista e policultura",
+  "processado_em": "2026-05-08T14:06:46.226470",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nUm senhor, pai de dois filhos, deseja comprar dois \nterrenos, com áreas de mesma medida, um para cada \nfilho. Um dos terrenos visitados já está demarcado e, \nembora não tenha um formato convencional (como se \nobserva na Figura B), agradou ao filho mais velho e, por \nisso, foi comprado. O filho mais novo possui um projeto \narquitetônico de uma casa que quer construir, mas, para \nisso, precisa de um terreno na forma retangular (como \nmostrado na Figura A) cujo comprimento seja 7 m maior \ndo que a largura.\n21 m\n15 m\n3 m\n15 m\nFigura B\nx + 7\nFigura A\nx\nPara satisfazer o filho mais novo, esse senhor precisa \nencontrar um terreno retangular cujas medidas, em \nmetro, do comprimento e da largura sejam iguais, \nrespectivamente, a\nA\t 7,5 e 14,5.\nB\t 9,0 e 16,0.\nC\t 9,3 e 16,3.\nD\t 10,0 e 17,0.\nE\t 13,5 e 20,5.",
+  "processado_em": "2026-05-08T14:01:23.193953",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

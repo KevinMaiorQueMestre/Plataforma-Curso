@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 160\t\nA escassez de água em todo o planeta indica que a \npreservação desse recurso deve ser praticada e disseminada em \ntodos os países, independentemente da reserva que possuem. \nDisponível em: www.gentequeeduca.org.br. Acesso em: 9 jul. 2015.\nPensando nisso, uma empresa fornecedora de água potável \nelaborou uma nova fórmula de cobrança visando um consumo \nmais consciente. Residências com consumo mensal de até \n5 m3 de água pagarão uma taxa mínima de R$ 40,00 por mês, \ne aquelas cujo consumo mensal exceder a 5 m3 pagarão, além \ndos R$ 40,00, mais R$ 12,00 por metro cúbico de água que \nexceder a 5 m3.\nA representação algébrica que fornece o valor mensal V, em real, \ncobrado pelo consumo de x m3 de água, quando x supera 5 m3, é\nA\tV = 12x - 20\nB\tV = 12x - 40\nC\tV = 12x - 60\nD\tV = 12x\nE\tV = 52x",
+  "processado_em": "2026-05-08T14:06:53.557603",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

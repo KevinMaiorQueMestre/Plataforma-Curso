@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 01\t\nEl maíz peruano en la historia\nAunque es más conocida como cuna de la papa, \nla sociedad inca también fue la civilización del maíz, \ncultivo conocido en el Perú desde, por lo menos, \n1 200 años a.C. Los antiguos agricultores peruanos \nlograron sofisticación en la selección y creación de \nnuevas variedades adaptables a los diversos espacios \ngeográficos y climáticos. Al respecto, el cronista \nBernabé Cobo cuenta que en el antiguo Perú se hallaba \nmaíz, llamado choclo, de todos los colores: blanco, \namarillo morado, negro colorado y mezclado. Hoy en \ndía, en ese país se cultivan más de 55 variedades \nde la popular mazorca, más que en ningún otro lugar \ndel mundo. En los Comentarios Reales de los Incas, \nGarcilaso de la Vega nos ilustra sobre los hábitos \nalimenticios incaicos relatando que uno de los pilares \nde la alimentación era el maíz y que lo comían tostado \no cocinado en agua. En ocasiones solemnes molían \nlos granos para hacer un pan llamado humita. Al maíz \ntostado se le denominaba como aún se le llama hoy: \ncancha, antecesora de las palomitas.\nDisponível em: www.yanuq.com. Acesso em: 20 jun. 2012 (adaptado).\nO texto destaca a importância do milho na história do \nPeru. Informa que os antigos agricultores peruanos\nA\t desenvolveram cinquenta e cinco variedades da \nplanta.\nB\t introduziram o milho em substituição à cultura da \nbatata.\nC\t expandiram o cultivo do milho a outras partes do \nmundo.\nD\t produziram espécies de milho adaptáveis a diversos \nsolos.\nE\t transformaram o preparo da pipoca em um evento \nsolene.",
+  "processado_em": "2026-05-11T23:26:53.210262",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

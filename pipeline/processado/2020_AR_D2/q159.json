@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 159        \nA Figura 1 apresenta uma casa e a planta do seu \ntelhado, em que as setas indicam o sentido do escoamento \nda água de chuva. Um pedreiro precisa fazer a planta do \nescoamento da água de chuva de um telhado que tem \ntrês caídas de água, como apresentado na Figura 2.\n(a) Casa\n(b) Planta do telhado\nFigura 1\nFigura 2\nA figura que representa a planta do telhado da Figura 2 com \no escoamento da água de chuva que o pedreiro precisa \nfazer é\nA\nD\nB\nE\nC",
+  "processado_em": "2026-05-11T23:28:19.416680",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

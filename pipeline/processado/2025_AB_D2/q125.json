@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 125\t\nO tipo predominante de excreta que um grupo animal produ\nos animais podem ser classificados em amoniotélicos, ureotéli\nque produzem.\nQual é o fator ambiental que determina o tipo de resíduo a ser\nA\tTemperatura.\nB\tFonte energética.\nC\tQuantidade de oxigênio.\nD\tAbundância de alimento.\nE\tDisponibilidade de água.",
+  "processado_em": "2026-05-08T14:06:51.355107",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

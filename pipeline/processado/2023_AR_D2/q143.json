@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nEntre maratonistas, um parâmetro utilizado é o de \neconomia de corrida (EC). O valor desse parâmetro é \ncalculado pela razão entre o consumo de oxigênio, em \nmililitro (mL) por minuto (min), e a massa, em quilograma (kg), \ndo atleta correndo a uma velocidade constante.\nDisponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).\nUm maratonista, visando melhorar sua performance, \nauxiliado por um médico, mensura o seu consumo de \noxigênio por minuto a velocidade constante. Com base \nnesse consumo e na massa do atleta, o médico calcula \no EC do atleta.\nA unidade de medida da grandeza descrita pelo \nparâmetro EC é\nA\t\nA\t  \nmin\nmL kg\n⋅\nB\t\nB\t  \nmL\nmin kg\n⋅\nC\t\nC\t  min mL\nkg\n⋅\nD\t\nD\t  min kg\nmL\n⋅\nE\t\nE\t  mL kg\nmin\n⋅",
+  "processado_em": "2026-05-08T14:05:45.561736",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

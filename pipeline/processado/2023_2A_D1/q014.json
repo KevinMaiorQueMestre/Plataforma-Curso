@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 14\t\nConstruindo uma irmandade da língua\nA ideia de que a língua portuguesa é pertença de \ntodos os seus falantes é hoje quase pacífica. Só meia \ndúzia de ultranacionalistas portugueses insiste ainda no \ndisparate de se julgar proprietário exclusivo do idioma. \nAliás, ao contrário da Commonwealth e da francofonia, \na irmandade da língua portuguesa não tem um único centro \nou voz dominante, e essa é precisamente uma das suas \nmaiores virtudes.\nAGUALUSA, J. E. O Globo, 8 maio 2021 (adaptado).\nNesse texto, o termo “Aliás” articula dois enunciados \nenvolvidos \nnuma \nmesma \nrelação \nargumentativa, \nconstruindo, para o segundo, uma ideia de\nA\t\nA\t questionamento da origem da língua portuguesa.\nB\t\nB\t semelhança de condições sociais dos falantes do \nportuguês.\nC\t\nC\t acréscimo de fato comprobatório sobre a língua \nportuguesa.\nD\t\nD\t comparação entre o português brasileiro e o europeu.\nE\t\nE\t relevância do português sobre o inglês e o francês.",
+  "processado_em": "2026-05-08T14:05:16.702226",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

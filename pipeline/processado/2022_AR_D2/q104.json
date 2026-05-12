@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 104\t\nA extinção de espécies é uma ameaça real que \nafeta diversas regiões do país. A introdução de espécies \nexóticas pode ser considerada um fator maximizador \ndesse processo. A jaqueira (Artocarpus heterophyllus), \npor exemplo, é uma árvore originária da Índia e de \nregiões do Sudeste Asiático que foi introduzida ainda na \nera colonial e se aclimatou muito bem em praticamente \ntodo o território nacional.\nCasos como o dessa árvore podem provocar a redução \nda biodiversidade, pois elas\nA\t\nA\t ocupam áreas de vegetação nativa e substituem \nparcialmente a flora original.\nB\t\nB\t estimulam a competição por seus frutos entre animais \ntípicos da região e eliminam as espécies perdedoras.\nC\t\nC\t alteram os nichos e aumentam o número de \npossibilidades de relações entre os seres vivos \ndaquele ambiente.\nD\t\nD\t apresentam alta taxa de reprodução e se mantêm \ncom um número de indivíduos superior à capacidade \nsuporte do ambiente.\nE\t\nE\t diminuem a relação de competição entre os \npolinizadores e facilitam a ação de dispersores de \nsementes de espécies nativas.",
+  "processado_em": "2026-05-08T14:05:09.481283",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

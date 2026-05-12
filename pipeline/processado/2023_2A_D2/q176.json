@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nOs candidatos A, B e C participaram de um concurso \ncomposto por uma prova de Matemática, uma de Português \ne outra de Geografia, sendo os pesos dessas três provas \ndiferentes. As notas obtidas por esses três candidatos e \nos pesos atribuídos a essas provas estão representados \nnas tabelas:\nCandidato\nMatemática\nPortuguês\nGeografi a\nA\n9\n6\n7\nB\n8\n7\n8\nC\n9\n5\n6\nTabela I (Notas)\nMatérias\nPesos\nMatemática\n3\nPortuguês\n2\nGeografi a\n1\nTabela II (Pesos)\nAs notas finais são obtidas somando-se os produtos \ndas notas pelos respectivos pesos. As notas finais dos três \ncandidatos podem ser obtidas multiplicando-se a matriz \ndas notas dos três candidatos nas três provas pela matriz \ndos pesos das três provas.\nA matriz das notas finais dos três candidatos é\nA\t\nA\t  52\n37\n43\n\u001f\n\u001e\nB\t\nB\t  \n46\n46\n43\n\u001f\n\u001e\n\u001d\n\u001d\u001d\n\u001c\n\u001b\n\u001a\n\u001a\u001a\nC\t\nC\t  \n66\n46\n20\n\u001f\n\u001e\n\u001d\n\u001d\u001d\n\u001c\n\u001b\n\u001a\n\u001a\u001a\nD\t\nD\t  \n27\n12\n7\n24\n14\n8\n27\n10\n6\n\u001f\n\u001e\n\u001d\n\u001d\u001d\n\u001c\n\u001b\n\u001a\n\u001a\u001a\nE\t\nE\t  \n27\n18\n21\n16\n14\n16\n9\n5\n6\n\u001f\n\u001e\n\u001d\n\u001d\u001d\n\u001c\n\u001b\n\u001a\n\u001a\u001a",
+  "processado_em": "2026-05-08T14:05:28.995299",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

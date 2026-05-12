@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 97          \nNas estradas brasileiras existem vários aparelhos \ncom a finalidade de medir a velocidade dos veículos. \nEm uma rodovia, cuja velocidade máxima permitida é de \n80 km h−1, um carro percorre a distância de 50 cm entre \nos dois sensores no tempo de 20 ms. De acordo com \na Resolução n. 396, do Conselho Nacional de Trânsito, \npara vias com velocidade de até 100 km h−1, a velocidade \nmedida pelo aparelho tem a tolerância de +7 km h−1 além \nda velocidade máxima permitida na via. Considere que \na velocidade final registrada do carro é o valor medido \ndescontado o valor da tolerância do aparelho.\nNesse caso, qual foi a velocidade final registrada pelo \naparelho?\nA \t 38 km h−1\nB \t 65 km h−1\nC \t 83 km h−1\nD \t 90 km h−1\nE 97 km h−1",
+  "processado_em": "2026-05-08T14:03:35.907848",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

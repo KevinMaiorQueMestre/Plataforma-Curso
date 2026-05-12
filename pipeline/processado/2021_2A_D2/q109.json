@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 109\n\u0014\u0010\u0002\u001e\n\u0007\r\b\t\u0002\b\u0005\n\u0010\u000e\b\t\u0002+\n\u0010\u00042G\r\u000e\u001e\b\t$\u0002\n\t\r\u001d\u0004\u0002%\u0007\n\t\n\u0005\r\n\t\u0002\u0005\u0004\u0002\t\b\n\u000b\f\n\u0002\t\n\u0002\u0007\u0004\u0010%\n\u0010\u0002\u0010\b\u000e\t\u0002P\b\u001e\u000e2\u0010\n\u0005\r\n\u0002\u000b\f\n\u0002\b\t\u0002+\n\u0010?\u001e\u000e\b\t\u0002\u0005\u0004\u0007\u0010\b\u000e\t\n\b\u0004\u0002\u0005K\u0010\n\u0007\u0004\u0002\u000f\n\u0002\n\tP\n\u0007B\u001e\u000e\r\u0004\t\u0002%\u0007\n\t\n\u0005\r\n\t(\u0002\u0014\u0010\u0002\f\u0010\u00022\b!\u0004\u0007\b\rB\u0007\u000e\u0004$\u0002P\u0004\n\b\u0010\u0004\t\r\u0007\b\t\u0002\u000f\u000e\t\r\u000e\u0005\r\b\t(\u0002\u0017\t\u0002\u0007\n\t\f2\r\b\u000f\u0004\t\u0002\u0004!\r\u000e\u000f\u0004\t\u0002\n\t\r\u001d\u0004\u0002\u0007\n%\u0007\n\t\n\u0005\r\b\n\u0013\u000f\u0014\u0005\u0004\u0014\u000e\u0011\t\n\u0012\u000f\b\u0010\u0004\b\nNaCI (%)\n1,00\n0,85\n0,75\n0,65\n0,60\n0,5\nAmostra 1\n0\n0\n0\n0\n0\n0\nAmostra 2\n0\n0\n0\n8\n38\n7\nAmostra 3\n0\n4\n42\n88\n96\n10\nAmostra 4\n0\n0\n0\n0\n0\n5\nAmostra 5\n0\n0\n0\n0\n3\n3\nQual amostra apresenta o maior número de esferócitos?\nA  1\nB  2\nC  3\nD  4\nE 5",
+  "processado_em": "2026-05-08T14:04:14.005500",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

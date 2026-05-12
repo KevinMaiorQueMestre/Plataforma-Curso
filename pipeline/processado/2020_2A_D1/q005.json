@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q005",
+  "imagem": "q005.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 5,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 5          \nDisponível em: www.ucc.edu.ar. Acesso em: 4 dez. 2017.\nConsiderando os elementos verbais e não verbais \nexpressos no cartaz, o objetivo do anúncio é\nA \t promover o encontro literário entre pessoas com \ndeficiência visual.\nB \t divulgar o empréstimo de livros para alunos com \ndificuldades de acessibilidade.\nC \t reivindicar a digitalização do acervo das bibliotecas \npúblicas para leitores cegos. \nD \t oferecer a oportunidade de apoio a um projeto para \nleitores com necessidades especiais.\nE \t estimular a arrecadação de livros apropriados para os \nestudantes com dificuldade de leitura.",
+  "processado_em": "2026-05-08T14:03:23.314334",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

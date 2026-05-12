@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 161          \nUm imposto é dito cumulativo se incide em duas ou \nmais etapas da circulação de mercadorias, sem que na \netapa posterior possa ser abatido o montante pago na \netapa anterior. PIS e Cofins são exemplos de impostos \ncumulativos e correspondem a um percentual total de \n3,65%, que incide em cada etapa da comercialização \nde um produto.\nConsidere um produto com preço inicial C. Suponha \nque ele é revendido para uma loja pelo preço inicial \nacrescido dos impostos descritos. Em seguida, o produto \né revendido por essa loja ao consumidor pelo valor pago \nacrescido novamente dos mesmos impostos.\nDisponível em: www.centraltributaria.com.br. Acesso em: 15 jul. 2015 (adaptado).\nQual a expressão algébrica que corresponde ao valor \npago em impostos pelo consumidor?\nA C × 0,0365\nB 2C × 0,0365\nC C × 1,03652   \nD C × 1 + 2 × 0,0365\nE 2C × 0,0365 + C × 0,03652",
+  "processado_em": "2026-05-08T14:03:39.293486",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

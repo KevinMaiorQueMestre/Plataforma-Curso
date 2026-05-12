@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 74\t\nDisponível em: http://cpdoc.fgv.br. Acesso em: 6 dez. 2017.",
+  "processado_em": "2026-05-11T23:26:40.954498",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

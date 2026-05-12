@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 130\t\nA substituição do haver por ter em construções \nexistenciais, no português do Brasil, corresponde a um \ndos processos mais característicos da história da língua \nportuguesa, paralelo ao que já ocorrera em relação à \nampliação do domínio de ter na área semântica de “posse”, \nno final da fase arcaica. Mattos e Silva (2001:136) analisa \nas vitórias de ter sobre haver e discute a emergência de \nter existencial, tomando por base a obra pedagógica de \nJoão de Barros. Em textos escritos nos anos quarenta \ne cinquenta do século XVI, encontram-se evidências, \nembora raras, tanto de ter “existencial”, não mencionado \npelos clássicos estudos de sintaxe histórica, quanto \nde haver como verbo existencial com concordância, \nlembrado por Ivo Castro, e anotado como “novidade” no \nséculo XVIII por Said Ali",
+  "processado_em": "2026-05-08T13:59:40.620728",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

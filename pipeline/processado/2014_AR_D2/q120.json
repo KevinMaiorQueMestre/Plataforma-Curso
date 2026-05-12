@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nE se a água potável acabar? O que aconteceria se a \nágua potável do mundo acabasse?\nAs teorias mais pessimistas dizem que a água potável \ndeve acabar logo, em 2050. Nesse ano, ninguém mais \ntomará banho todo dia. Chuveiro com água só duas vezes \npor semana. Se alguém exceder 55 litros de consumo \n(metade do que a ONU recomenda), seu abastecimento será \ninterrompido. Nos mercados, não haveria carne, pois, se não \nhá água para você, imagine para o gado. Gastam-se 43 mil \nlitros de água para produzir 1 kg de carne. Mas, não é só ela \nque faltará. A Região Centro-Oeste do Brasil, maior produtor \nde grãos da América Latina em 2012, não conseguiria manter \na produção. Afinal, no país, a agricultura e a agropecuária \nsão, hoje, as maiores consumidoras de água, com mais de \n70% do uso. Faltariam arroz, feijão, soja, milho e outros grãos.\nDisponível em: http://super.abril.com.br. Acesso em: 30 jul. 2012.\nA língua portuguesa dispõe de vários recursos para \nindicar a atitude do falante em relação ao conteúdo de seu \nenunciado. No início do texto, o verbo “dever” contribui \npara expressar\nA\t uma constatação sobre como as pessoas administram \nos recursos hídricos.\nB\t a habilidade das comunidades em lidar com problemas \nambientais contemporâneos.\nC\t a capacidade humana de substituir recursos naturais \nrenováveis.\nD\t uma previsão trágica a respeito das fontes de água \npotável.\nE\t uma situação ficcional com base na realidade \nambiental brasileira",
+  "processado_em": "2026-05-08T14:00:36.401625",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

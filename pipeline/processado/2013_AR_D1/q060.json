@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 60\t\nAs fêmeas de algumas espécies de aranhas, \nescorpiões e de outros invertebrados predam \nos machos após a cópula e inseminação. Como \nexemplo, fêmeas canibais do inseto conhecido como \nlouva-a-deus, Tenodera aridofolia, possuem até 63% \nda sua dieta composta por machos parceiros. Para \nas fêmeas, o canibalismo sexual pode assegurar a \nobtenção de nutrientes importantes na reprodução. \nCom esse incremento na dieta, elas geralmente \nproduzem maior quantidade de ovos.\nBORGES, J. C. Jogo mortal. Disponível em: http://cienciahoje.uol.com.br. \nAcesso em: 1 mar. 2012 (adaptado).\nApesar de ser um comportamento aparentemente \ndesvantajoso para os machos, o canibalismo sexual \nevoluiu nesses táxons animais porque\nA\t promove a maior ocupação de diferentes nichos \necológicos pela espécie.\nB\t favorece o sucesso reprodutivo individual de ambos \nos parentais.\nC\t impossibilita a transmissão de genes do macho para \na prole.\nD\t impede a sobrevivência e reprodução futura do macho.\nE reduz a variabilidade genética da população",
+  "processado_em": "2026-05-08T14:00:13.159168",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

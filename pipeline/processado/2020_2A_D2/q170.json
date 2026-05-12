@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t entre 0 e 5 minutos, entre 10 e 15 minutos e entre 20 \ne 25 minutos.\nQuestão 170          \nDois atletas partem de pontos, respectivamente P1 e \nP2, em duas pistas planas distintas, conforme a figura, \ndeslocando-se no sentido anti-horário até a linha de \nchegada, percorrendo, desta forma, a mesma distância \n(L). Os trechos retos dos finais das curvas até a linha de \nchegada desse percurso têm o mesmo comprimento (l) \nnas duas pistas e são tangentes aos trechos curvos, que \nsão semicírculos de centro C. O raio do semicírculo maior \né R1 e o raio do semicírculo menor é R2.\nLinha de chegada\nP2\nR2\nR1\nP1\nC",
+  "processado_em": "2026-05-08T14:03:39.937028",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

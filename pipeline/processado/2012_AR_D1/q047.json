@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 47\t\nUm dos problemas ambientais vivenciados pela \nagricultura hoje em dia é a compactação do solo, devida \nao intenso tráfego de máquinas cada vez mais pesadas, \nreduzindo a produtividade das culturas.\nUma das formas de prevenir o problema de compactação \ndo solo é substituir os pneus dos tratores por pneus mais\nA\t largos, reduzindo a pressão sobre o solo.\nB\t estreitos, reduzindo a pressão sobre o solo.\nC\t largos, aumentando a pressão sobre o solo.\nD\t estreitos, aumentando a pressão sobre o solo.\nE\t altos, reduzindo a pressão sobre o solo.",
+  "processado_em": "2026-05-08T13:59:02.020031",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

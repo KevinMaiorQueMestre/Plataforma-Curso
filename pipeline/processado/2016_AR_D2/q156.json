@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 24\nQUESTÃO 156\t\nUma pessoa comercializa picolés. No segundo dia de \ncerto evento ela comprou 4 caixas de picolés, pagando \nR$ 16,00 a caixa com 20 picolés para revendê-los no \nevento. No dia anterior, ela havia comprado a mesma \nquantidade de picolés, pagando a mesma quantia, e \nobtendo um lucro de R$ 40,00 (obtido exclusivamente \npela diferença entre o valor de venda e o de compra dos \npicolés) com a venda de todos os picolés que possuía.\nPesquisando o perfil do público que estará presente \nno evento, a pessoa avalia que será possível obter um \nlucro 20% maior do que o obtido com a venda no primeiro \ndia do evento.\nPara atingir seu objetivo, e supondo que todos os picolés \ndisponíveis foram vendidos no segundo dia, o valor de \nvenda de cada picolé, no segundo dia, deve ser\nA\t R$ 0,96.\nB\t R$ 1,00.\nC\t R$ 1,40.\nD\t R$ 1,50.\nE\t R$ 1,56.",
+  "processado_em": "2026-05-08T14:01:22.613572",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

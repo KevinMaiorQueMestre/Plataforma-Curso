@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nEm bom português\nNo Brasil, as palavras envelhecem e caem como \nfolhas secas. Não é somente pela gíria que a gente é \napanhada (aliás, já não se usa mais a primeira pessoa, \ntanto do singular como do plural: tudo é “a gente”). A própria \nlinguagem corrente vai-se renovando e a cada dia uma \nparte do léxico cai em desuso.\nMinha amiga Lila, que vive descobrindo essas coisas, \nchamou minha atenção para os que falam assim:\n— Assisti a uma fita de cinema com um artista que \nrepresenta muito bem.\nOs que acharam natural essa frase, cuidado! Não \nsaberão dizer que viram um filme com um ator que \ntrabalha bem. E irão ao banho de mar em vez de ir à praia, \nvestido de roupa de banho em vez de biquíni, carregando \nguarda-sol em vez de barraca. Comprarão um automóvel \nem vez de comprar um carro, pegarão um defluxo em vez \nde um resfriado, vão andar no passeio em vez de passear \nna calçada. Viajarão de trem de ferro e apresentarão sua \nesposa ou sua senhora em vez de apresentar sua mulher.",
+  "processado_em": "2026-05-08T14:00:35.726405",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

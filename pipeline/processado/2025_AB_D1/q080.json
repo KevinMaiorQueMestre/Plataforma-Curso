@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 80\t\nNos anos 1990, o liberalismo, que já havia adentrado na maior \nparte da América Latina, implanta-se no Brasil, com toda força, \na partir do governo Collor. O discurso liberal radical, combinado \ncom a abertura da economia, inaugura o que poderíamos chamar \nda “Era Liberal” no Brasil, sob a bandeira de que uma política \nmenos intervencionista é a chave para o desenvolvimento \neconômico e social do país. Até então, apesar da existência de \nalgumas iniciativas nesse sentido, durante o governo Sarney, \ne de uma massificação e propaganda dessa doutrina nos meios \nde comunicação, ela encontrava uma forte resistência, calcada, \nprincipalmente, na ascensão política, durante toda a década de \n1980, dos movimentos sociais e do movimento sindical.\nDisponível em: www.flexibilizacao.ufba.br. Acesso em: 13 nov. 2021 (adaptado).\nUma estratégia defendida pelo modelo político-econômico \napresentado é a\nA\texpansão dos serviços públicos.\nB\tampliação dos direitos trabalhistas.\nC\testatização das empresas privadas.\nD\toneração dos encargos empresariais.\nE desregulamentação do sistema financeiro",
+  "processado_em": "2026-05-08T14:06:47.397975",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

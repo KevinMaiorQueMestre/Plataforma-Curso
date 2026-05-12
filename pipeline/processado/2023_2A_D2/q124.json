@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nA crescente facilidade para aquisição de aerogeradores \ne painéis fotovoltaicos tem permitido que unidades \nconsumidoras tenham suas próprias unidades microgeradoras \nde energia. A integração das unidades microgeradoras à rede \npública de distribuição pode beneficiar tanto as unidades \nconsumidoras quanto as concessionárias de fornecimento, \nconforme o fluxograma. Quando as unidades microgeradoras \nnão geram energia suficiente para a unidade consumidora, \na rede de distribuição supre a diferença. Quando a unidade \nmicrogeradora gera excedente de energia, esse excedente \npoderá ser entregue à concessionária em troca de crédito.\nUnidade microgeradora eólica ou fotovoltaica\nQuadro de \nenergia e \nmedidor\nUnidade\nconsumidora\nRede pública\nde distruibuição\nde energia\nA vantagem técnica que as unidades microgeradoras \nproporcionam para as concessionárias da rede pública é a\nA\t\nA\t redução das perdas energéticas provenientes do \ntransporte de longa distância.\nB\t\nB\t sincronização dos picos de produção das microgeradoras \ncom os picos de demanda da rede pública.\nC\t\nC\t diminuição da necessidade da rede pública, no caso \nde todas as unidades consumidoras optarem pela \nmicrogeração.\nD\t\nD\t intensificação do uso da energia gerada por pequenas \ntermoelétricas próximas às unidades consumidoras.\nE\t\nE\t diminuição da dependência da energia gerada em \ngrandes parques eólicos.",
+  "processado_em": "2026-05-08T14:05:25.841664",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

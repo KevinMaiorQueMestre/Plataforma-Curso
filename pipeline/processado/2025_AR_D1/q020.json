@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 20\t\nA característica fundamental no aprendizado das práticas \nrituais nos candomblés é o processo iniciático e participante. \nDurante o período de reclusão em terreiros ou rocas, o iniciado \npassa por uma série de ritos esotéricos (banhos rituais, raspagem \nda cabeça etc.), ao mesmo tempo em que começa a adquirir \num complexo código de símbolos materiais (substâncias, folhas, \nfrutos, raízes etc.) e de gestos associados a um repertório \nlinguístico específico das cerimônias que se desenrolam nos \ncontextos sagrados em geral e em cada terreiro em particular.\nEsse repertório linguístico, genericamente chamado de \n“língua de santo” na Bahia, compreende uma terminologia \nreligiosa operacional, de caráter mágico-semântico e de aparente \nforma portuguesa, mas que repousa sobre sistemas lexicais de \ndiferentes línguas africanas que provavelmente foram faladas \nno Brasil escravocrata, vindo a constituir uma língua ritual, que \nse acredita pertencer à nação do vodum, do orixá ou do inquice, \ne não a determinada nação africana política atual.\nDisponível em: https://periodicos.ufba.br. \nAcesso em: 21 jan. 2024 (adaptado).\nA “língua de santo” tem sua importância para o patrimônio \nlinguístico brasileiro por\nA\tapresentar uma carga semântica mítica.\nB\tconservar elementos dos falares dos escravizados.\nC\tresgatar expressões portuguesas do período colonial.\nD\tdecodificar o ritual religioso dos nossos antepassados.\nE\tfavorecer a compreensão do léxico africano contemporâneo.",
+  "processado_em": "2026-05-08T14:06:58.191632",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

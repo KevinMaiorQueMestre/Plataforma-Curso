@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\nUMA LIMPEZA INDISPENSÁVEL\nA Hygiene vai limpar morro da Favella,\nao lado da Estrada de Ferro Central.\nPara isso intimou os moradores a se\nmudarem em dez dias. \nDELEGACIA DE HYGIENE\nO Malho, n. 247, 8 jun. 1907. Disponível em: http://atlas.fgv.br. \nAcesso em: 14 abr. 2015 (adaptado).\nA charge, publicada em 1907, concorda com a ação do \nEstado ao considerar, preconceituosamente, determinada \nocupação do espaço urbano como um\nA\t\nA\t risco à saúde e à moral pública.\nB\t\nB\t foco de instabilidade e agitação política.\nC\t\nC\t perigo à segurança e à unidade nacional.\nD\t\nD\t abrigo de escravos e condenados foragidos.\nE\t\nE\t reduto de intolerância e perseguição religiosa.",
+  "processado_em": "2026-05-08T14:04:40.841613",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

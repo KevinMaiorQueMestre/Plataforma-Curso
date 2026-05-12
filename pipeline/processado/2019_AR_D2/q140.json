@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 140\t\nA Hydrangea macrophylla é uma planta com flor azul \nou cor-de-rosa, dependendo do pH do solo no qual está \nplantada. Em solo ácido (ou seja, com pH < 7) a flor é \nazul, enquanto que em solo alcalino (ou seja, com pH > 7) \na flor é rosa. Considere que a Hydrangea cor-de-rosa mais \nvalorizada comercialmente numa determinada região seja \naquela produzida em solo com pH inferior a 8. Sabe-se \nque pH = - log10x, em que x é a concentração de íon \nhidrogênio (H+).\nPara produzir a Hydrangea cor-de-rosa de maior \nvalor comercial, deve-se preparar o solo de modo que \nx assuma\nA\t qualquer valor acima de 10−8.\nB\t qualquer valor positivo inferior a 10−7.\nC\t valores maiores que 7 e menores que 8.\nD\t valores maiores que 70 e menores que 80.\nE\t valores maiores que 10−8 e menores que 10−7.",
+  "processado_em": "2026-05-11T23:27:35.568650",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

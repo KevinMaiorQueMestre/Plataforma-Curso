@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 135\t\nO etanol de segunda geração envolve o reaproveitamen\nem um sistema fechado contínuo, que evita a evaporação\nCELULOSE\nn\nBagaço de\ncana-de-açúcar\nHidrólise\nenzimática\nGLIC\nCORONA CARVALHO, J. A. et al. Bagaço de cana-de-açúcar com\nPara evitar o rompimento da dorna por pressão, qual substân\ndo sistema?\nA\t\nA\t Etanol.\nB\t\nB\t Glicose.\nC\t\nC\t Ácido lático.\nD\t\nD\t Ácido pirúvico.\nE\t\nE\t Dióxido de carbono.",
+  "processado_em": "2026-05-08T14:05:26.522293",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 78\t\nOs freios ABS são uma importante medida de \nsegurança no trânsito, os quais funcionam para impedir \no travamento das rodas do carro quando o sistema de \nfreios é acionado, liberando as rodas quando estão no \nlimiar do deslizamento. Quando as rodas travam, a força \nde frenagem é governada pelo atrito cinético.\nAs representações esquemáticas da força de atrito fat \nentre os pneus e a pista, em função da pressão p aplicada \nno pedal de freio, para carros sem ABS e com ABS, \nrespectivamente, são:\nA \nfat\nfat\nB \nfat\nfat\nC\nfat\nfat\nD\nfat\nfat\nE\nfat\nfat",
+  "processado_em": "2026-05-08T13:59:02.513777",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

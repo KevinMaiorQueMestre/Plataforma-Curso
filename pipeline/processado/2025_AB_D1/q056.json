@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 56\t\nA imigração espanhola cresceu acentuadamente quando a \nimigração italiana subvencionada foi dificultada e quando uma \nproporção muito alta de italianos começou a deixar São Paulo, \nentre o fim do século XIX e o começo do século XX, na maior parte \ndos casos, para retornar à Itália ou para reemigrar a outros países. \nNa sua maioria, os imigrantes espanhóis eram camponeses que \nchegaram ao Brasil com a família, imigrando em definitivo, indo \ndiretamente para o interior, para as fazendas, na maioria realmente \npobres, cuja viagem fora subvencionada pelo governo brasileiro.\nMARTINS, J. S. O cativeiro da terra. São Paulo: Contexto, 2010 (adaptado).\nConforme o texto, a ação do Estado buscou solucionar um \nproblema gerado pela\nA\teliminação da arrecadação fiscal.\nB\testagnação da produção agrícola.\nC\textinção do comércio escravagista.\nD\timplantação do trabalho assalariado.\nE\tdiminuição da mão de obra disponível.",
+  "processado_em": "2026-05-08T14:06:46.356571",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

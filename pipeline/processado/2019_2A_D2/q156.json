@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 156\t\nNo ano de 1751, o matemático Euler conseguiu \ndemonstrar a famosa relação para poliedros convexos \nque relaciona o número de suas faces (F), arestas (A) e \nvértices (V): V + F = A + 2. No entanto, na busca dessa \ndemonstração, essa relação foi sendo testada em \npoliedros convexos e não convexos. Observou-se que \nalguns poliedros não convexos satisfaziam a relação \ne outros não. Um exemplo de poliedro não convexo \né dado na figura. Todas as faces que não podem ser \nvistas diretamente são retangulares.\nQual a relação entre os vértices, as faces e as arestas \ndo poliedro apresentado na figura?\nA\t V + F = A\nB\t V + F = A - 1\nC\t V + F = A + 1\nD\t V + F = A + 2\nE\t V + F = A + 3",
+  "processado_em": "2026-05-11T23:27:12.632742",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

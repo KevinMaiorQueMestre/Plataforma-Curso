@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nA nimesulida é um fármaco pouco solúvel em água, \nutilizado como anti-inflamatório, analgésico e antitérmico. \nEssa substância pode ser convertida em uma espécie \neletricamente carregada, de maior solubilidade em água, \nmediante o tratamento com uma base de Brönsted-Lowry, \nisto é, uma espécie química capaz de capturar um próton \n(H+). Na figura são apresentados os grupamentos presentes \nna estrutura química da nimesulida.\nNimesulida\nGONÇALVES, A. A. et al. Contextualizando reações ácido-base \nde acordo com a teoria protônica de Brönsted-Lowry \nusando comprimidos de propranolol e nimesulida. \nQuímica Nova, n. 3, 2013 (adaptado).\nNa estrutura desse fármaco, o grupamento capaz de \nreagir com a base de Brönsted-Lowry é o grupo\nA\tsulfonamida.\nB\tmetila.\nC\tfenila.\nD\tnitro.\nE\téter.",
+  "processado_em": "2026-05-08T14:06:17.891943",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 122\t\nUm dos procedimentos mais rotineiros em análises químic\nNo entanto, em pesquisas prospectivas, nas quais se pretende inv\nà extração por solventes em sequência, em ordem crescente de p\nde extração, foram utilizados os seguintes solventes:\nA sequência eluotrópica dos solventes utilizados é\nA\tágua, etanol, metanol, n-hexano e clorofórmio.\nB\tetanol, metanol, água, clorofórmio e n-hexano.\nC\tclorofórmio, n-hexano, metanol, etanol e água.\nD\tn-hexano, clorofórmio, etanol, metanol e água.\nE\tn-hexano, metanol, etanol, água e clorofórmio.",
+  "processado_em": "2026-05-08T14:06:51.245507",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

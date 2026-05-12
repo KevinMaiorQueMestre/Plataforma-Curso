@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nEm muitos animais, machos e fêmeas da mesma \nespécie \napresentam \ndiferenças \nmorfológicas \nou \ncomportamentais evidentes. Um exemplo clássico de \ndimorfismo sexual é o caso do pavão, em que o macho \npossui cauda vistosa e penas coloridas, as quais estão \nausentes nas fêmeas. Em outras espécies, os machos \npossuem chifres, garras ou dentes maiores do que \nas fêmeas, e utilizam essas estruturas em combates \nfísicos para defender territórios e ter acesso a fêmeas \ncoespecíficas e receptivas.\nEsse padrão de dimorfismo evolui porque\nA\t\nA\t desenvolve-se no processo direcional de deriva \ngenética.\nB\t\nB\t as fêmeas sofrem menor pressão seletiva total do \nambiente.\nC\t\nC\t machos e fêmeas coespecíficos são fenotipicamente \ndistintos.\nD\t\nD\t a seleção sexual favorece o sucesso reprodutivo \nindividual de machos dimórficos.\nE\t\nE\t o material genético de machos dimórficos é mais \nsusceptível a mutações gênicas.",
+  "processado_em": "2026-05-08T14:04:47.873506",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

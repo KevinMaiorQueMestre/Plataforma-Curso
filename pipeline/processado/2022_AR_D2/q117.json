@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 117\t\nNa figura está representado o mosaicismo em função \nda inativação aleatória de um dos cromossomos X, que \nocorre em todas as mulheres sem alterações patológicas.\nGameta\nmasculino\n(22+X)\nGameta\nfeminino\n(22+X)\nZigoto (44+XX)\nBlástula (44+XX)\nCélulas com cromossomo X paterno inativado\nCélulas com cromossomo X materno inativado\nAmostras de células corporais\nEntre mulheres heterozigotas para doenças determinadas \npor genes recessivos ligados ao sexo, essa inativação \ntem como consequência a ocorrência de\nA\t\nA\t pleiotropia.\nB\t\nB\t mutação gênica.\nC\t\nC\t interação gênica.\nD\t\nD\t penetrância incompleta.\nE\t\nE\t expressividade variável.",
+  "processado_em": "2026-05-08T14:05:10.184818",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

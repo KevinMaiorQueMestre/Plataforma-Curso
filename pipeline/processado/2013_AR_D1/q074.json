@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 74\t\nEu também podia decompor a água, se fosse \nsalgada ou acidulada, usando a pilha de Daniell \ncomo fonte de força. Lembro o prazer extraordinário \nque sentia ao decompor um pouco de água em uma \ntaça para ovos quentes, vendo-a separar-se em seus \nelementos, o oxigênio em um eletrodo, o hidrogênio no \noutro. A eletricidade de uma pilha de 1 volt parecia tão \nfraca, e no entanto podia ser suficiente para desfazer \num composto químico, a água...\nSACKS, O. Tio Tungstênio: memórias de uma infância química. \nSão Paulo: Cia. das Letras, 2002.\nO fragmento do romance de Oliver Sacks relata a \nseparação dos elementos que compõem a água. \nO princípio do método apresentado é utilizado \nindustrialmente na\nA\t obtenção de ouro a partir de pepitas.\nB\t obtenção de calcário a partir de rochas.\nC\t obtenção de alumínio a partir da bauxita.\nD\t obtenção de ferro a partir de seus óxidos.\nE\t obtenção de amônia a partir de hidrogênio e nitrogênio.",
+  "processado_em": "2026-05-08T14:00:13.897152",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

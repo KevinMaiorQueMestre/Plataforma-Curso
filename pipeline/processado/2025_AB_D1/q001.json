@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "HIGSON, C. Disponível em: https://heckfiknowcomics.tumblr.com. \nAcesso em: 7 jan. 2025.\nNessa história em quadrinhos, o vocábulo “myself ” remete à ideia de\nA\tegoísmo.\nB\tautoestima.\nC\tautoridade.\nD\tnarcisismo.\nE\tautopreservação.\nQuestão 01",
+  "processado_em": "2026-05-11T23:29:44.282606",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "inteira",
+    "linha_x": 279.9
+  }
+}

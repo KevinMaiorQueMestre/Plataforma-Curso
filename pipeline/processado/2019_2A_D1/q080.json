@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 80\t\nA população africana residente nesta província, bem \ncomo a de todo o Império, compõe-se de indivíduos de \ndiferentes lugares da África que variam em costumes \ne religiões; a que aqui segue o maometismo, à qual \npertencemos, é uma população pequena, porém, distinta \nentre si, e notando a necessidade de sustentarmos nosso \nculto e fundados ainda no artigo 5º da Constituição do \nImpério, requeremos ao sr. chefe de polícia licença para \nexercermos o culto.\nREIS, J. J.; GOMES, F. S.; CARVALHO, M. J. M. O Alufá Rufino: \ntráfico, escravidão e liberdade no Atlântico negro (1822-1853). \nSão Paulo: Cia. das Letras, 2010 (adaptado).\nO pedido de um grupo de africanos de Recife ao chefe \nde polícia local tinha como objetivo, naquele contexto,\nA\t criticar a doutrina oficial.\nB\t professar uma fé alternativa.\nC\t assegurar a cidadania política.\nD\t legalizar os terreiros de candomblé.\nE\t eliminar algumas tradições culturais.",
+  "processado_em": "2026-05-11T23:27:02.570417",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

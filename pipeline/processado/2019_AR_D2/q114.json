@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 114\t\nGrupos de pesquisa em todo o mundo vêm buscando \nsoluções inovadoras, visando a produção de dispositivos \npara a geração de energia elétrica. Dentre eles, \npode-se destacar as baterias de zinco-ar, que combinam \no oxigênio atmosférico e o metal zinco em um eletrólito \naquoso de caráter alcalino. O esquema de funcionamento \nda bateria zinco-ar está apresentado na figura.\nMembrana separadora\nEletrodo poroso\nEletrodo de zinco\nZn(OH)4\n2−\nOH−\nO2\nLI, Y.; DAI, H. Recent Advances in Zinc–Air Batteries. \n Chemical Society Reviews, v. 43, n. 15, 2014 (adaptado).\nNo funcionamento da bateria, a espécie química formada \nno ânodo é\nA\t H2 (g).\nB\t O2 (g).\nC\t H2O (l).\nD\t OH− (aq).\nE\t Zn(OH)4\n2− (aq).",
+  "processado_em": "2026-05-11T23:27:33.854793",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 38\t\nUm ano depois de ter sido criado, o ChatGPT, \nferramenta capaz de produzir textos em \nqualquer área, generalizou-se, gerando \ndúvidas sobre autoria de teses e trabalhos\nUm professor da Faculdade de Letras de uma \nuniversidade em Portugal pediu um trabalho acadêmico \na uma turma de 50 alunos do 1º ano. Quando começou \na corrigi-los, notou algo estranho: nenhum dos trabalhos \ncontinha um único erro ortográfico ou gramatical, coisa nunca \nantes vista. E as frases eram curtas e diretas, sem orações \nintercalares, um estilo típico do inglês, mas pouco frequente \nna escrita portuguesa. Independentemente do conteúdo e \ndo tema, que variava, a estrutura era praticamente igual \nem todos. Especialista em linguística forense, o docente \nrapidamente concluiu: “esses textos não foram escritos \npor humanos”.\nO professor tinha conversado com os alunos sobre o \nChatGPT e tinha deixado claro que a ferramenta poderia \nser utilizada, mas não para a execução integral dos textos.\nA utilização do ChatGPT abriu um debate em todo \no mundo por apresentar riscos e possibilidades de uso \nindevido. Foram várias as escolas e outros estabelecimentos \nde ensino que adotaram ferramentas que permitem detectar \nas tendências do programa.\nDisponível em: https://expresso.pt.\nAcesso em: 24 jan. 2024 (adaptado).\nDe acordo com esse texto, o uso de uma ferramenta da \ninteligência artificial em contexto acadêmico revela um \nimpacto de natureza\nA\tcolaborativa, por fomentar o intercâmbio entre \ninstituições de ensino de vários países.\nB\tteórica, por se basear na tradução de textos da língua \ninglesa para outras línguas.\nC\tmercadológica, por requerer recursos para o \naperfeiçoamento profissional.\nD\tnormativa, por estabelecer parâmetros para a \nchecagem de fontes.\nE\tpedagógica, por potencializar desafios para a \neducação.",
+  "processado_em": "2026-05-08T14:05:53.655853",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

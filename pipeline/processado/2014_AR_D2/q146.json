@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nUma lata de tinta, com a forma de um paralelepípedo \nretangular reto, tem as dimensões, em centímetros, \nmostradas na figura.\n40\n24\n24\nSerá produzida uma nova lata, com os mesmos \nformato e volume, de tal modo que as dimensões de sua \nbase sejam 25% maiores que as da lata atual.\nPara obter a altura da nova lata, a altura da lata atual deve \nser reduzida em\nA\t 14,4%\nB\t 20,0%\nC\t 32,0%\nD\t 36,0%\nE\t 64,0%",
+  "processado_em": "2026-05-08T14:00:39.025370",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

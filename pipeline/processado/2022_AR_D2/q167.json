@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nUm casal planeja construir em sua chácara uma \npiscina com o formato de um paralelepípedo reto \nretângulo com capacidade para 90 000 L de água. \nO casal contratou uma empresa de construções que \napresentou cinco projetos com diferentes combinações \nnas dimensões internas de profundidade, largura \ne comprimento. A piscina a ser construída terá \nrevestimento interno em suas paredes e fundo com uma \nmesma cerâmica, e o casal irá escolher o projeto que \nexija a menor área de revestimento.\nAs dimensões internas de profundidade, largura \ne comprimento, respectivamente, para cada um dos \nprojetos, são:\n•\t projeto I: 1,8 m, 2,0 m e 25,0 m;\n•\t projeto II: 2,0 m, 5,0 m e 9,0 m;\n•\t projeto III: 1,0 m, 6,0 m e 15,0 m; \n•\t projeto IV: 1,5 m, 15,0 m e 4,0 m;\n•\t projeto V: 2,5 m, 3,0 m e 12,0 m.\nO projeto que o casal deverá escolher será o\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:12.815915",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

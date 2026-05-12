@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 121\nDuas esferas carregadas com cargas iguais em \n\u0010B\u000f\f2\u0004\u0002 \n\u0002 \t\u000e\u0005\b\u000e\t\u0002 \u001e\u0004\u0005\r\u0007?\u0007\u000e\u0004\t\u0002 \n\t\r\u001d\u0004\u0002 2\u000eJ\b\u000f\b\t\u0002 %\u0004\u0007\u0002 \f\u0010\b\u0002\nhaste rígida isolante na forma de haltere. O sistema se \n\u0010\u0004#\u000e\u0010\n\u0005\r\b\u0002 \t\u0004!\u0002 \b'\u001d\u0004\u0002 \u000f\b\u0002 J\u0007\b#\u000e\u000f\b\u000f\n\u0002 \u0005\f\u0010\b\u0002 \u0007\nJ\u000e\u001d\u0004\u0002 \u000b\f\n\u0002\ntem um  campo magnético horizontal uniforme (\u0002) , da \nesquerda para a direita. A imagem apresenta o sistema \n#\u000e\t\r\u0004\u0002\u000f\n\u0002\u001e\u000e\u0010\b\u0002%\b\u0007\b\u0002!\b\u000e@\u0004$\u0002\u0005\u0004\u0002\u0010\n\t\u0010\u0004\u0002\t\n\u0005\r\u000e\u000f\u0004\u0002\u000f\b\u0002\b\u001e\n2\n\u0007\b'\u001d\u0004\u0002\nda gravidade (\u0003)\u0002\u000b\f\n\u0002\b\r\f\b\u0002\u0005\b\u0002\u0007\nJ\u000e\u001d\u0004(\n\u0002\n\u0003\nVisto de cima, o diagrama esquemático das forças \nmagnéticas que atuam no sistema, no momento inicial em \n\u000b\f\n\u0002\b\t\u0002\u001e\b\u0007J\b\t\u0002%\n\u0005\n\r\u0007\b\u0010\u0002\u0005\b\u0002\u0007\nJ\u000e\u001d\u0004\u0002\u000f\n\u0002\u001e\b\u0010%\u0004\u0002\u0010\bJ\u0005Z\r\u000e\u001e\u0004$\u0002\nestá representado em\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:04:29.820650",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

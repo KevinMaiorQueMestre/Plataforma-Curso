@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 144\t\nUma pesquisa realizada por estudantes da Faculdade \nde Estatística mostra, em horas por dia, como os jovens \nentre 12 e 18 anos gastam seu tempo, tanto durante a \nsemana (de segunda-feira a sexta-feira), como no fim de \nsemana (sábado e domingo). A seguinte tabela ilustra os \nresultados da pesquisa.\nRotina Juvenil\nDurante a \nsemana\nNo fim de \nsemana\nAssistir à televisão\n3\n3\nAtividades domésticas\n1\n1\nAtividades escolares\n5\n1\nAtividades de lazer\n2\n4\nDescanso, higiene e \nalimentação\n10\n12\nOutras atividades\n3\n3\nDe acordo com esta pesquisa, quantas horas de seu tempo \ngasta um jovem entre 12 e 18 anos, na semana inteira \n(de segunda-feira a domingo), nas atividades escolares?\nA\t 20\nB\t 21\nC\t 24\nD\t 25\nE\t 27",
+  "processado_em": "2026-05-08T13:59:47.795318",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

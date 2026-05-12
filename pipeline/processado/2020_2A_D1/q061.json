@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 61          \nA originalidade do Absolutismo português talvez \nesteja no fato de ter sido o regime político europeu que \nmelhor sintetizou a ideia do patrimonialismo estatal: os \nrecursos materiais da nação se confundindo com os bens \npessoais do monarca.\nLOPES, M. A. O Absolutismo: política e sociedade na Europa moderna. \nSão Paulo: Brasiliense, 1996 (adaptado).\nNa colonização do Brasil, o patrimonialismo da Coroa \nportuguesa ficou evidente\nA \t nas capitanias hereditárias.\nB \t na catequização indígena.\nC \t no sistema de plantation.\nD \t nas reduções jesuítas.\nE \t no tráfico de escravos.",
+  "processado_em": "2026-05-08T14:03:30.811817",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

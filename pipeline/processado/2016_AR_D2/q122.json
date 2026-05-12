@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nReceita\nTome-se um poeta não cansado, \nUma nuvem de sonho e uma flor, \nTrês gotas de tristeza, um tom dourado, \nUma veia sangrando de pavor. \nQuando a massa já ferve e se retorce \nDeita-se a luz dum corpo de mulher, \nDuma pitada de morte se reforce, \nQue um amor de poeta assim requer.\nSARAMAGO, J. Os poemas possíveis. Alfragide: Caminho, 1997.\nOs \ngêneros \ntextuais \ncaracterizam-se \npor \nserem \nrelativamente estáveis e podem reconfigurar-se em \nfunção do propósito comunicativo. Esse texto constitui \numa mescla de gêneros, pois\nA\t introduz procedimentos prescritivos na composição \ndo poema.\nB\t explicita as etapas essenciais à preparação de uma \nreceita.\nC\t explora elementos temáticos presentes em uma receita.\nD\t apresenta organização estrutural típica de um poema.\nE\t utiliza linguagem figurada na construção do poema.",
+  "processado_em": "2026-05-08T14:01:16.910240",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

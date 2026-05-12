@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 69\t\nColegas, na mente e no coração do povo, a Crimeia \nsempre foi uma porção inseparável da Rússia. Essa firme \nconvicção se baseia na verdade e na justiça e foi passada \nde geração em geração, ao longo do tempo, sob quaisquer \ncircunstâncias, apesar de todas as drásticas mudanças \nque nosso país atravessou durante todo o século XX.\nDisponível em: http://g1.globo.com. Acesso em: 28 jul. 2014.\nConsiderando a dinâmica geopolítica subjacente ao texto, \na justificativa utilizada por Vladimir Putin, em 2014, para \nanexação dessa península apela para o argumento de que\nA\t\nA\t as populações com idioma comum devem estar \nsubmetidas à mesma autoridade estatal.\nB\t\nB\t o imperialismo soviético havia se acomodado às \npretensões das potências vizinhas.\nC\t\nC\t os organismos transnacionais são incapazes de \nsolucionar disputas territoriais.\nD\t\nD\t a integração regional supõe a livre circulação de \npessoas e mercadorias.\nE\t\nE\t a expulsão das forças navais ocidentais garantiria a \nsoberania nacional.",
+  "processado_em": "2026-05-08T14:05:04.512776",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

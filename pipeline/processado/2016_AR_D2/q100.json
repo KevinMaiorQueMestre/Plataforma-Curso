@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nO hoax, como é chamado qualquer boato ou farsa \nna internet, pode espalhar vírus entre os seus contatos. \nFalsos sorteios de celulares ou frases que Clarice \nLispector nunca disse são exemplos de hoax. Trata-se \nde boatos recebidos por e-mail ou compartilhados em \nredes sociais. Em geral, são mensagens dramáticas \nou alarmantes que acompanham imagens chocantes, \nfalam de crianças doentes ou avisam sobre falsos vírus. \nO objetivo de quem cria esse tipo de mensagem pode \nser apenas se divertir com a brincadeira (de mau gosto), \nprejudicar a imagem de uma empresa ou espalhar uma \nideologia política.\nSe o hoax for do tipo phishing (derivado de fishing, \npescaria, em inglês) o problema pode ser mais grave: \no usuário que clicar pode ter seus dados pessoais \nou bancários roubados por golpistas. Por isso é tão \nimportante ficar atento.\nVIMERCATE, N. Disponível em: www.techtudo.com.br. Acesso em: 1 maio 2013 (adaptado).\nAo discorrer sobre os hoaxes, o texto sugere ao leitor, \ncomo estratégia para evitar essa ameaça,\nA\t recusar convites de jogos e brincadeiras feitos pela \ninternet.\nB\t analisar a linguagem utilizada nas mensagens recebidas.\nC\t classificar os contatos presentes em suas redes sociais.\nD\t utilizar programas que identifiquem falsos vírus.\nE\t desprezar mensagens que causem comoção.",
+  "processado_em": "2026-05-08T14:01:15.188142",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

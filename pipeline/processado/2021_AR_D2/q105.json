@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 105\nUm garoto precisa montar um circuito que acenda \ntrês lâmpadas de cores diferentes, uma de cada vez. \n\u00142\n\u0002 \u000f\u000e\t%\u0011\n\u0002 \u000f\b\t\u0002 2\u0010%\b\u000f\b\t$\u0002 \u000f\n\u0002 \u0006\u0004\t$\u0002 \f\u0010\b\u0002 !\b\r\n\u0007\u000e\b\u0002 \n\u0002 \u000f\u0004\u000e\t\u0002\ninterruptores, como ilustrado, junto com seu símbolo de \ntrês pontos. Quando esse interruptor fecha AB, abre BC \n\n\u0002#\u000e\u001e\n/#\n\u0007\t\b(\nLâmpadas\nVERDE\nVERMELHA\nAZUL\nBateria\nA\nB\nC\nA\nB\nC\nO garoto fez cinco circuitos elétricos usando os dois \ninterruptores, mas apenas um satisfaz a sua necessidade. \nEsse circuito é representado por\nA \nVERDE\nVERMELHA\nAZUL\nA\nB\nC\nA\nB\nC\nB \nVERDE\nVERMELHA\nAZUL\nA\nB\nC\nA\nB\nC",
+  "processado_em": "2026-05-08T14:04:29.056691",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

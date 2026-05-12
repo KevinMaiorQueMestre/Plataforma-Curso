@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 11\t\nTEXTO I\nDisponível em: http://portal.iphan.gov.br. Acesso em: 6 abr. 2016.\nTEXTO II\nA eleição dos novos bens, ou melhor, de novas \nformas de se conceber a condição do patrimônio cultural \nnacional, também permite que diferentes grupos sociais, \nutilizando as leis do Estado e o apoio de especialistas, \nrevejam as imagens e alegorias do seu passado, do que \nquerem guardar e definir como próprio e identitário.\nABREU, M.; SOIHET, R.; GONTIJO, R. (Org.). Cultura política e leituras do passado: \nhistoriografia e ensino de história. Rio de Janeiro: Civilização Brasileira, 2007.\nO texto chama a atenção para a importância da proteção \nde bens que, como aquele apresentado na imagem, se \nidentificam como:\nA\t Artefatos sagrados.\nB\t Heranças materiais.\nC\t Objetos arqueológicos.\nD\t Peças comercializáveis.\nE\t Conhecimentos tradicionais.",
+  "processado_em": "2026-05-08T14:01:03.809714",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

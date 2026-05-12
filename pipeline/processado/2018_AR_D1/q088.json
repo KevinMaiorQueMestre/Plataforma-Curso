@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nParticipação percentual do extrativismo vegetal e da silvicultura no valor \nda produção primária florestal — Brasil — 1996-2014\n90,0\n80,0\n70,0\n60,0\n50,0\n40,0\n30,0\n20,0\n10,0\n0,0\n%\n1996\n1997\n1998\n1999\n2000\n2001\n2002\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\nSilvicultura\nExtrativismo vegetal\nIBGE. Produção da extração vegetal e da silvicultura. Rio de Janeiro: IBGE, 2014 (adaptado).\nConsiderando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi influenciada \npela tendência de\nA\t conservação do bioma nativo.\nB\t estagnação do setor primário.\nC\t utilização de madeira de reflorestamento.\nD\t redução da produção de móveis.\nE\t retração da indústria alimentícia.",
+  "processado_em": "2026-05-11T23:26:42.485185",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

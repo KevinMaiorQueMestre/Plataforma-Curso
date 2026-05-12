@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nUm professor utiliza essa história em quadrinhos para \ndiscutir com os estudantes o movimento de satélites. \nNesse sentido, pede a eles que analisem o movimento \ndo coelhinho, considerando o módulo da velocidade \nconstante.\nSOUSA, M. Cebolinha, n. 240, jun. 2006.\nDesprezando a existência de forças dissipativas, o \nvetor aceleração tangencial do coelhinho, no terceiro \nquadrinho, é\nA\t nulo.\nB\t paralelo à sua velocidade linear e no mesmo sentido.\nC\t paralelo à sua velocidade linear e no sentido oposto.\nD\t perpendicular à sua velocidade linear e dirigido para \no centro da Terra.\nE\t perpendicular à sua velocidade linear e dirigido para \nfora da superfície da Terra.",
+  "processado_em": "2026-05-08T14:00:32.069084",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

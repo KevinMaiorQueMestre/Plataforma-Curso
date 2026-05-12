@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 73\t\nA bomba\nreduz neutros e neutrinos, e abana-se com o leque da \nreação em cadeia\nANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento).\nNesse fragmento de poema, o autor refere-se à bomba \natômica de urânio. Essa reação é dita “em cadeia” porque na\nA\t fissão do 235U ocorre liberação de grande quantidade \nde calor, que dá continuidade à reação.\nB\t fissão de 235U ocorre liberação de energia, que vai \ndesintegrando o isótopo 238U, enriquecendo-o em \nmais 235U.\nC\t fissão do 235U ocorre uma liberação de nêutrons, que \nbombardearão outros núcleos.\nD\t fusão do 235U com 238U ocorre formação de neutrino, \nque bombardeará outros núcleos radioativos.\nE\t fusão do \n235U com \n238U ocorre formação de \noutros elementos radioativos mais pesados, que \ndesencadeiam novos processos de fusão.",
+  "processado_em": "2026-05-08T14:00:48.223885",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

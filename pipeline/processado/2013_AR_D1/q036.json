@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nAté hoje admitia-se que nosso conhecimento se devia \nregular pelos objetos; porém, todas as tentativas para \ndescobrir, mediante conceitos, algo que ampliasse nosso \nconhecimento, malogravam-se com esse pressuposto. \nTentemos, pois, uma vez, experimentar se não se \nresolverão melhor as tarefas da metafísica, admitindo que \nos objetos se deveriam regular pelo nosso conhecimento.\nKANT, I. Crítica da razão pura. Lisboa: Calouste-Gulbenkian, 1994 (adaptado).\nO trecho em questão é uma referência ao que ficou \nconhecido como revolução copernicana na filosofia. Nele, \nconfrontam-se duas posições filosóficas que\nA\t assumem pontos de vista opostos acerca da natureza \ndo conhecimento.\nB\t defendem que o conhecimento é impossível, \nrestando-nos somente o ceticismo.\nC\t revelam a relação de interdependência entre os dados \nda experiência e a reflexão filosófica.\nD\t apostam, no que diz respeito às tarefas da filosofia, \nna primazia das ideias em relação aos objetos.\nE\t refutam-se mutuamente quanto à natureza do nosso \nconhecimento e são ambas recusadas por Kant.",
+  "processado_em": "2026-05-08T14:00:11.663632",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

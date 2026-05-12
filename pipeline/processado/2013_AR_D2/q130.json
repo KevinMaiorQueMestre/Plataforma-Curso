@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nO que a internet esconde de você\nSites de busca manipulam resultados. Redes sociais \ndecidem quem vai ser seu amigo — e descartam as \npessoas sem avisar. E, para cada site que você pode \nacessar, há 400 outros invisíveis. Prepare-se para \nconhecer o lado oculto da internet.\n GRAVATÁ, A. Superinteressante, São Paulo, ed. 297, nov. 2011 (adaptado).\nAnalisando-se as informações verbais e a imagem associada \na uma cabeça humana, compreende-se que a venda\nA\t representa a amplitude de informações que compõem \na internet, às quais temos acesso em redes sociais e \nsites de busca.\nB\t faz uma denúncia quanto às informações que são \nomitidas dos usuários da rede, sendo empregada no \nsentido conotativo.\nC\t diz respeito a um buraco negro digital, onde estão \nescondidas as informações buscadas pelo usuário \nnos sites que acessa.\nD\t está associada a um conjunto de restrições sociais \npresentes na vida daqueles que estão sempre \nconectados à internet.\nE\t remete às bases de dados da web, protegidas por \nsenhas ou assinaturas e às quais o navegador não \ntem acesso.",
+  "processado_em": "2026-05-08T14:00:22.450566",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

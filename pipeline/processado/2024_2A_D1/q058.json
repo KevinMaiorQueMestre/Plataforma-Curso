@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 58\t\nTEXTO I\nDisponível em: https://earth.google.com. \nAcesso em: 13 out. 2023 (adaptado).\nTEXTO II\nDisponível em: https://earth.google.com. \nAcesso em: 13 out. 2023 (adaptado).\nA comparação das imagens de satélite indica que o \nrompimento da barragem de rejeitos em Mariana (MG), \nem 2015, provocou o(a)\nA\tdragagem de cursos fluviais.\nB\tadensamento de matas ciliares.\nC\tdestruição de lugares habitados.\nD\tconcentração da ocupação urbana.\nE\tfortalecimento da produção mineral.",
+  "processado_em": "2026-05-08T14:05:55.774738",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

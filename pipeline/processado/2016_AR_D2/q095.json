@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LC - 2º dia | Caderno 5 - AMARELO - Página 5\nQUESTÃO 95\t\nAgua\nal soñar que un cántaro\nen la cabeza acarreas,\nserá éxito y triunfo lo que tú veas.\nBañarse en un río\ndonde el agua escalda,\nes augurio de enemigos\ny de cuchillo en la espalda.\nBañarse en un río de agua puerca,\nes perder a alguien cerca.\nORTIZ, A.; FLORES FARFÁN, J. A. Sueños mexicanos. México: Artes de México, 2012.\nO poema retoma elementos da cultura popular \nmexicana que refletem um dos aspectos que a constitui, \ncaracterizado pela\nA\t percepção dos perigos de banhar-se em rios de \náguas poluídas.\nB\t crença na relevância dos sonhos como premonições \nou conselhos.\nC\t necessidade de resgate da tradição de carregar água \nem cântaros.\nD\t exaltação da importância da preservação da água.\nE\t cautela no trato com inimigos e pessoas traiçoeiras.",
+  "processado_em": "2026-05-08T14:01:14.756027",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

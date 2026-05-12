@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nO contribuinte que vende mais de R$ 20 mil de ações \nem Bolsa de Valores em um mês deverá pagar Imposto \nde Renda. O pagamento para a Receita Federal consistirá \nem 15% do lucro obtido com a venda das ações.\nDisponível em: www1.folha.uol.com.br. Acesso em: 26 abr. 2010 (adaptado).\nUm contribuinte que vende por R$ 34 mil um lote de ações \nque custou R$ 26 mil terá de pagar de Imposto de Renda \nà Receita Federal o valor de\nA\t R$ 900,00.\nB\t R$ 1 200,00.\nC\t R$ 2 100,00.\nD\t R$ 3 900,00.\nE\t R$ 5 100,00.",
+  "processado_em": "2026-05-08T14:00:23.261309",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 141\t\nUm gerente decidiu fazer um estudo financeiro da \nempresa onde trabalha analisando as receitas anuais \ndos três últimos anos. Tais receitas são apresentadas \nno quadro.\nAno\nReceita (bilhão de reais)\nI\n2,2 \nII\n4,2 \nIII\n7,4 \nEstes dados serão utilizados para projetar a receita \nmínima esperada para o ano atual (ano IV), pois a \nreceita esperada para o ano IV é obtida em função das \nvariações das receitas anuais anteriores, utilizando a \nseguinte regra: a variação do ano IV para o ano III será \nigual à variação do ano III para o II adicionada à média \naritmética entre essa variação e a variação do ano II \npara o I.\nO valor da receita mínima esperada, em bilhão de reais, \nserá de\nA\t 10,0.\nB\t 12,0.\nC\t 13,2.\nD\t 16,8.\nE\t 20,6.",
+  "processado_em": "2026-05-11T23:27:11.830350",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

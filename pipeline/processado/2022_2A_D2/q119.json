@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nO Brasil foi o primeiro país a usar o álcool em \nlarga escala como combustível de automóvel. Hoje, \na indústria automobilística produz e equipa os \nautomóveis com motores que funcionam tanto com \ngasolina como com álcool, ou ainda com uma mistura \ndos dois. No Brasil, o álcool é obtido principalmente \nda cana-de-açúcar, razão pela qual o classificam como \nbiocombustível.\nCom essa atitude, contribui-se diretamente para a\nA\t\nA\t preservação de rios e lagos.\nB\t\nB\t preservação da biodiversidade.\nC\t\nC\t diminuição do buraco da camada de ozônio.\nD\t\nD\t preservação de espécies ameaçadas de extinção.\nE\t\nE\t diminuição da emissão efetiva de dióxido de carbono.",
+  "processado_em": "2026-05-08T14:04:47.739296",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

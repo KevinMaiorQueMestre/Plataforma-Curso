@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 120\t\nO etanol é um combustível renovável obtido da \ncana-de-açúcar e é menos poluente do que os \ncombustíveis fósseis, como a gasolina e o diesel. O etanol \ntem densidade 0,8 g\ncm3 , massa molar 46 g\nmol  e calor de \ncombustão aproximado de −1 300 kJ\nmol . Com o grande \naumento da frota de veículos, tem sido incentivada a \nprodução de carros bicombustíveis econômicos, que \nsão capazes de render até 20 km\nL  em rodovias, para \ndiminuir a emissão de poluentes atmosféricos.\nO valor correspondente à energia consumida para que \no motorista de um carro econômico, movido a álcool, \npercorra 400 km na condição de máximo rendimento é \nmais próximo de\nA\t 565 MJ.\nB\t 452 MJ.\nC\t 520 kJ.\nD\t 390 kJ.\nE\t 348 kJ.",
+  "processado_em": "2026-05-11T23:27:09.973872",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

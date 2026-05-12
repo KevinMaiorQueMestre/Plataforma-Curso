@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nA Cordilheira do Himalaia tem mais de 50 milhões de \nanos, sendo classificada como a maior cordilheira do planeta. \nOriginário da língua sânscrito, comum na região, seu nome \nquer dizer “morada da neve”. É possível encontrar nessa \ncordilheira as quinze maiores montanhas do mundo. Ao todo, \nexistem mais de cem picos, que contam com altitudes bem \nmaiores que 7 000 m. O Everest, considerado o ponto mais \nalto da Terra, tem nada menos que 8 848 m de altitude, e \ncontinua crescendo, aproximadamente, 0,8 mm a cada ano.\nDisponível em: https://meioambiente.culturamix.com. Acesso em: 12 nov. 2021 (adaptado).\nQual dinâmica natural é responsável pelo fenômeno \napresentado?\nA\t\nA\t Derrame de lava vulcânica.\nB\t\nB\t Encontro de placas tectônicas.\nC\t\nC\t Ação do intemperismo químico.\nD\t\nD\t Sedimentação de erosão eólica.\nE\t\nE\t Derretimento de geleiras glaciais.",
+  "processado_em": "2026-05-08T14:05:37.033170",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "questao_id": "2014_AR_D1_q005",
+  "imagem": "q005.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 5,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "NEVES, E. Engraxate. Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013.\nConsiderando-se \na \ndinâmica \nentre \ntecnologia \ne \norganização do trabalho, a representação contida no \ncartum é caracterizada pelo pessimismo em relação à\nA\t ideia de progresso.\nB\t concentração do capital.\nC\t noção de sustentabilidade.\nD\t organização dos sindicatos.\nE\t obsolescência dos equipamentos.",
+  "processado_em": "2026-05-11T23:36:59.617784",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

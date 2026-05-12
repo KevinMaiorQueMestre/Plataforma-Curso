@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nFusível é um dispositivo de proteção contra \nsobrecorrente em circuitos. Quando a corrente que passa \npor esse componente elétrico é maior que sua máxima \ncorrente nominal, o fusível queima. Dessa forma, evita \nque a corrente elevada danifique os aparelhos do circuito. \nSuponha que o circuito elétrico mostrado seja alimentado \npor uma fonte de tensão U e que o fusível suporte uma \ncorrente nominal de 500 mA.\nFusível\n60 Ω\n60 Ω\n60 Ω\n40 Ω\n30 Ω\n120 Ω\nU\nQual é o máximo valor da tensão U para que o fusível não \nqueime?\nA\t 20 V\nB\t 40 V\nC\t 60 V\nD\t 120 V\nE\t 185 V",
+  "processado_em": "2026-05-11T23:25:50.308947",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

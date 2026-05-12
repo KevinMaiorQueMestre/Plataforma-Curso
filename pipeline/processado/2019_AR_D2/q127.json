@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 127\t\nUma das técnicas de reciclagem química do polímero PET [poli(tereftalato de etileno)] gera o tereftalato de \nmetila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação.\nAltas temperaturas\ne pressão\nO\nO\nO\nO\n+  2n A\n+\nn\nn\nCOOCH3\nn HO\nOH\nCOOCH3\nPET\nO composto A, representado no esquema de reação, é o\nA\t metano.\nB\t metanol.\nC\t éter metílico.\nD\t ácido etanoico.\nE\t anidrido etanoico.",
+  "processado_em": "2026-05-11T23:27:34.811615",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

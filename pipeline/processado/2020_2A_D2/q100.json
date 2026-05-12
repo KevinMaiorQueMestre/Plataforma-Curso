@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t estabelecem a base da cadeia alimentar de ambientes \naquáticos.\nQuestão 100          \nO Protocolo de Montreal é um tratado internacional \nque diz respeito à defesa do meio ambiente. Uma de suas \nrecomendações é a redução da utilização de substâncias \npropelentes, como os CFCs (Cloro-Flúor-Carbono), em \naerossóis e aparelhos de refrigeração.\nEssa recomendação visa\nA \t evitar a chuva ácida.\nB \t prevenir a inversão térmica.\nC \t preservar a camada de ozônio.\nD \t controlar o aquecimento global.\nE \t impedir a formação de ilhas de calor.",
+  "processado_em": "2026-05-08T14:03:36.080260",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

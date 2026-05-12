@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nCinco casais alegavam ser os pais de um bebê. \nA confirmação da paternidade foi obtida pelo exame \nde DNA. O resultado do teste está esquematizado na \nfigura, em que cada casal apresenta um padrão com \nduas bandas de DNA (faixas, uma para o suposto pai e \noutra para a suposta mãe), comparadas à do bebê.\nBebê\nPai       Mãe\n1\nPai       Mãe\n2\nPai       Mãe\n3\nPai       Mãe\n4\nPai       Mãe\n5\nQue casal pode ser considerado como pais biológicos \ndo bebê?\nA\t 1\nB\t 2\nC\t 3\nD\t 4\nE 5",
+  "processado_em": "2026-05-08T14:00:13.657360",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

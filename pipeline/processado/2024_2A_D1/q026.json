@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 26\t\nDisponível em: www.cfn.org.br. Acesso em: 23 jan. 2024 (adaptado).\nEm busca de adesão ao projeto de combate à desnutrição, \num recurso que esse cartaz mobiliza de forma verbal e \ntambém não verbal é a\nA\tinformação sobre a data do evento.\nB\texplicitação do problema a ser enfrentado.\nC\trepresentação da ideia de vestir a camisa.\nD\tconvocação para uma confraternização entre amigos.\nE\torientação sobre a forma de contribuir com a campanha.",
+  "processado_em": "2026-05-08T14:05:52.990889",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

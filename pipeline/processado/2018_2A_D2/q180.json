@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nUma indústria automobilística está testando um \nnovo modelo de carro. Cinquenta litros de combustível \nsão colocados no tanque desse carro, que é dirigido \nem uma pista de testes até que todo o combustível \ntenha sido consumido. O segmento de reta no gráfico \nmostra o resultado desse teste, no qual a quantidade de \ncombustível no tanque é indicada no eixo y (vertical), e a \ndistância percorrida pelo automóvel é indicada no eixo x \n(horizontal).\nA expressão algébrica que relaciona a quantidade de \ncombustível no tanque e a distância percorrida pelo \nautomóvel é\nA\t  y\nx\n= −\n+\n10\n500\nB\t  y\nx\n= −\n+\n10\n50\nC\t  y\nx\n= −\n+\n10\n500\nD\t  y\nx\n=\n+\n10\n50\nE\t  y\nx\n=\n+\n10\n500\n50\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0\nCombustível no tanque (L)\nDistância percorrida (km)\n100\n200\n300\n400\n500\ny\nx\n0",
+  "processado_em": "2026-05-11T23:26:24.724531",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\nOs combustíveis de origem fóssil, como o petróleo e o gás natural, geram um sério problema ambiental, devido \nj\u0003OLEHUDomR\u0003GH\u0003GLy[LGR\u0003GH\u0003FDUERQR\u0003GXUDQWH\u0003R\u0003SURFHVVR\u0003GH\u0003FRPEXVWmR\u0011\u00032\u0003TXDGUR\u0003DSUHVHQWD\u0003DV\u0003PDVVDV\u0003PRODUHV\u0003H\u0003DV\u0003\nUHDo}HV\u0003GH\u0003FRPEXVWmR\u0003QmR\u0003EDODQFHDGDV\u0003GH\u0003GLIHUHQWHV\u0003FRPEXVWtYHLV\u0011\nCombustível\nMassa molar (g/mol)\nReação de combustão (não balanceada)\nMetano\n16\nCH4\u0003\u000bJ\f\u0003\u000e\u000322\u0003\u000bJ\f\u0003ĺ\u0003CO2\u0003\u000bJ\f\u0003\u000e\u0003+22\u0003\u000bJ\f\u0003\nAcetileno\n26\nC2H2\u0003\u000bJ\f\u0003\u000e\u000322\u0003\u000bJ\f\u0003ĺ\u0003CO2\u0003\u000bJ\f\u0003\u000e\u0003+22\u0003\u000bJ\f\u0003\nEtano\n30\nC2H6\u0003\u000bJ\f\u0003\u000e\u000322\u0003\u000bJ\f\u0003ĺ\u0003CO2\u0003\u000bJ\f\u0003\u000e\u0003+22\u0003\u000bJ\f\u0003\nPropano\n44\nC3H8\u0003\u000bJ\f\u0003\u000e\u000322\u0003\u000bJ\f\u0003ĺ\u0003CO2\u0003\u000bJ\f\u0003\u000e\u0003+22\u0003\u000bJ\f\u0003\nButano\n58\nC4H10\u0003\u000bJ\f\u0003\u000e\u000322\u0003\u000bJ\f\u0003ĺ\u0003CO2\u0003\u000bJ\f\u0003\u000e\u0003+22\u0003\u000bJ\f\u0003\n&RQVLGHUDQGR\u0003D\u0003FRPEXVWmR\u0003FRPSOHWD\u0003GH\u0003\u0018\u001b\u0003J\u0003GH\u0003FDGD\u0003XP\u0003GRV\u0003FRPEXVWtYHLV\u0003OLVWDGRV\u0003QR\u0003TXDGUR\u000f\u0003D\u0003VXEVWkQFLD\u0003TXH\u0003HPLWH\u0003\nmais CO2 é o\nA etano.\nB butano.\nC metano.\nD propano.\nE acetileno.",
+  "processado_em": "2026-05-11T23:25:27.136991",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

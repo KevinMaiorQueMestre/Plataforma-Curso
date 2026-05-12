@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 153\t\nUm jardineiro cultiva plantas ornamentais e as coloca \nà venda quando estas atingem 30 centímetros de altura. \nEsse jardineiro estudou o crescimento de suas plantas, \nem função do tempo, e deduziu uma fórmula que calcula \na altura em função do tempo, a partir do momento em \nque a planta brota do solo até o momento em que ela \natinge sua altura máxima de 40 centímetros. A fórmula é \nh = 5·log2 (t + 1), em que t é o tempo contado em dia e \nh, a altura da planta em centímetro.\nA partir do momento em que uma dessas plantas \né colocada à venda, em quanto tempo, em dia, ela \nalcançará sua altura máxima?\nA\t 63\nB\t 96\nC\t 128\nD\t 192\nE\t 255",
+  "processado_em": "2026-05-11T23:27:12.436160",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

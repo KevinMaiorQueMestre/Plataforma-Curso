@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "M 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM\nQUESTÃO 92\t\nNo ciclo biogeoquímico do nitrogênio participam \nvários organismos vivos. Um dos efeitos desse \nciclo é aumentar a disponibilidade dos compostos \nnitrogenados no solo.\nAs minhocas participam desse ciclo quando\nA\t\nA\t oxidam o nitrito a nitrato.\nB\t\nB\t reduzem o nitrito a amônia.\nC\t\nC\t oxidam a amônia liberada da matéria orgânica.\nD\t\nD\t transformam a matéria orgânica, liberando amônia.\nE fixam o nitrogênio molecular presente no ar atmosférico\nA tecnologia envolvida na confecção das fibras ópticas \ndeve garantir que o ângulo de refração e a relação entre \nn1 e n2 sejam, respectivamente,\nA\n45\n2\n1\n°en\nn\n\u001f \u001f\n\u001f\u001e\u001f .\nB\nnulo en\nn\n\u001f \u001f\n\u001f\u001e\u001f\n2\n1.\nC\nnulo en\nn\n\u001f \u001f\n\u001f\u001e\u001f\n2\n1.\nD\n90°en\nn\n\u001f \u001f\n\u001f\u001e\u001f\n2\n1.\nE\n90°en\nn\n\u001f \u001f\n\u001f\u001e\u001f\n2\n1.",
+  "processado_em": "2026-05-11T23:28:41.930963",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 131\t\nA cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes \nde uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e \na fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver \naté 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel, \ntambém líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes \ncom a fase estacionária migram mais lentamente.\nUma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes \nde um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.\nγ-caroteno\nα-criptoxantina\nOH\nCapsorubina\nO\nOH\nHO\nO\nLicopeno\nα-caroteno\nRIBEIRO, N. M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel. Química Nova na Escola, n. 29, ago. 2008 (adaptado).\nA substância presente na mistura que migra mais lentamente é o(a)\nA\t licopeno.\nB\t α-caroteno.\nC\t γ-caroteno.\nD\t capsorubina.\nE\t α-criptoxantina.",
+  "processado_em": "2026-05-11T23:25:51.392389",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

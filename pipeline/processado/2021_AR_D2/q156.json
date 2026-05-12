@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 156\n\u0019\u0010\b\u0002\u001e\u0004\u0005\t\r\u0007\f\r\u0004\u0007\b$\u0002%\u0007\n\r\n\u0005\u000f\n\u0005\u000f\u0004\u0002\u000e\u0005#\n\t\r\u000e\u0007\u0002\u0005\b\u0002\u001e\u0004\u0005\t\r\u0007\f'\u001d\u0004\u0002\nde imóveis em uma metrópole com cinco grandes \nregiões, fez uma pesquisa sobre a quantidade de famílias \n\u000b\f\n\u0002 \u0010\f\u000f\b\u0007\b\u0010\u0002 \u000f\n\u0002 \f\u0010\b\u0002 \u0007\nJ\u000e\u001d\u0004\u0002 %\b\u0007\b\u0002 \u0004\f\r\u0007\b$\u0002 \u000f\n\u0002 \u0010\u0004\u000f\u0004\u0002 \b\u0002\n\u000f\n\r\n\u0007\u0010\u000e\u0005\b\u0007\u0002 \u000b\f\b2\u0002 \u0007\nJ\u000e\u001d\u0004\u0002 P\u0004\u000e\u0002 \u0004\u0002 \u000f\n\t\r\u000e\u0005\u0004\u0002 \u000f\u0004\u0002 \u0010\b\u000e\u0004\u0007\u0002 \f@\u0004\u0002 \u000f\n\u0002\nP\b\u0010G2\u000e\b\t$\u0002\t\n\u0010\u00022\n#\b\u0007\u0002\n\u0010\u0002\u001e\u0004\u0005\t\u000e\u000f\n\u0007\b'\u001d\u0004\u0002\u0004\u0002\u0005K\u0010\n\u0007\u0004\u0002\u000f\n\u0002P\b\u0010G2\u000e\b\t\u0002\n\u000b\f\n\u0002 \u000f\n\u000e@\b\u0007\b\u0010\u0002 \b\u0002 \u0007\nJ\u000e\u001d\u0004(\u0002 \u0017\t\u0002 #\b2\u0004\u0007\n\t\u0002 \u000f\b\u0002 %\n\t\u000b\f\u000e\t\b\u0002 \n\t\r\u001d\u0004\u0002\ndispostos em uma matriz A \u0003\u0005\u0010aij\u0011, \n\t Ä{$\u0002~$\u0002$\u0002$\u0002&Å\ni, j \n, \nem que o elemento aij corresponde ao total de famílias \n_\n\u0010\u0002\u000f\n\n\u0005\bk\u0002\u000b\f\n\u0002\t\n\u0002\u0010\f\u000f\b\u0007\b\u0010\u0002\u000f\b\u0002\u0007\nJ\u000e\u001d\u0004\u0002i\u0002%\b\u0007\b\u0002\b\u0002\u0007\nJ\u000e\u001d\u0004\u0002j \ndurante um certo período, e o elemento aii é considerado \n\u0005\f2\u0004$\u0002\f\u0010\b\u0002#\n\u0002\u000b\f\n\u0002\t\u0004\u0010\n\u0005\r\n\u0002\t\u001d\u0004\u0002\u001e\u0004\u0005\t\u000e\u000f\n\u0007\b\u000f\b\t\u0002\u0010\f\u000f\b\u0005'\b\t\u0002\nentre regiões distintas. A seguir, está apresentada a \nmatriz com os dados da pesquisa.\nA \u0003\n\u0012\n\u0013\n\u0014\n\u0014\n\u0014\n\u0014\n\u0014\n\u0014\n\u0015\n\u0016\n\u0017\n\u0017\n\u0017\n\u0017\n\u0017\n\u0017\n4\n2\n2\n5\n0\n0\n6\n2\n3\n2\n2\n0\n3\n0\n0\n1\n0\n2\n0\n4\n1\n2\n0\n4\n0\n\u0018\f\b2\u0002 \u0007\nJ\u000e\u001d\u0004\u0002 P\u0004\u000e\u0002 \t\n2\n\u001e\u000e\u0004\u0005\b\u000f\b\u0002 %\b\u0007\b\u0002 \u0004\u0002 \u000e\u0005#\n\t\r\u000e\u0010\n\u0005\r\u0004\u0002 \u000f\b\u0002\n\u001e\u0004\u0005\t\r\u0007\f\r\u0004\u0007\b\nA  1\nB  2\nC  3\nD  4\nE  5",
+  "processado_em": "2026-05-08T14:04:31.441168",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

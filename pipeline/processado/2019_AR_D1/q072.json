@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 72\t\nArt. 90. \nAs \nnomeações \ndos \ndeputados \ne \nsenadores para a Assembleia Geral, e dos membros \ndos Conselhos Gerais das províncias, serão feitas \npor eleições, elegendo a massa dos cidadãos ativos em \nassembleias paroquiais, os eleitores de província, \ne estes, os representantes da nação e província.\nArt. 92. São excluídos de votar nas assembleias \nparoquiais:\nI.\t\nOs menores de vinte e cinco anos, nos quais \nse não compreendem os casados, os oficiais \nmilitares, que forem maiores de vinte e um anos, os \nbacharéis formados e os clérigos de ordens sacras.\nII.\t Os filhos de famílias, que estiverem na \ncompanhia de seus pais, salvo se servirem a \nofícios públicos.\nIII.\t Os criados de servir, em cuja classe não entram \nos guarda-livros, e primeiros caixeiros das \ncasas de comércio, os criados da Casa Imperial, \nque não forem de galão branco, e os \nadministradores das fazendas rurais e fábricas.\nIV.\t Os religiosos e quaisquer que vivam em \ncomunidade claustral.\nV.\t Os que não tiverem de renda líquida anual cem \nmil réis por bens de raiz, indústria, comércio, \nou emprego.\nBRASIL. Constituição de 1824. Disponível em: www.planalto.gov.br. \nAcesso em: 4 abr. 2015 (adaptado).\nDe acordo com os artigos do dispositivo legal \napresentado, o sistema eleitoral instituído no início do \nImpério é marcado pelo(a)\nA\t representação popular e sigilo individual.\nB\t voto indireto e perfil censitário.\nC\t liberdade pública e abertura política.\nD\t ética partidária e supervisão estatal.\nE\t caráter liberal e sistema parlamentar.",
+  "processado_em": "2026-05-11T23:27:26.167625",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

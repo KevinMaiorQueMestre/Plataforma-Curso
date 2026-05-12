@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 96\t\nO rap, palavra formada pelas iniciais de rhythm and \npoetry (ritmo e poesia), junto com as linguagens da dança \n(o break dancing) e das artes plásticas (o grafite), seria \ndifundido, para além dos guetos, com o nome de cultura \nhip hop. O break dancing surge como uma dança de rua. \nO grafite nasce de assinaturas inscritas pelos jovens com \nsprays nos muros, trens e estações de metrô de Nova \nYork. As linguagens do rap, do break dancing e do grafite \nse tornaram os pilares da cultura hip hop.\nDAYRELL, J. A música entra em cena: o rap e o funk na socialização da juventude. \nBelo Horizonte: UFMG, 2005 (adaptado).\nEntre as manifestações da cultura hip hop apontadas no texto, \no break se caracteriza como um tipo de dança que representa \naspectos contemporâneos por meio de movimentos\nA\t retilíneos, como crítica aos indivíduos alienados.\nB\t improvisados, como expressão da dinâmica da vida \nurbana.\nC\t suaves, como sinônimo da rotina dos espaços públicos.\nD\t ritmados pela sola dos sapatos, como símbolo \nde protesto.\nE\t cadenciados, como contestação às rápidas mudanças \nculturais.",
+  "processado_em": "2026-05-08T14:00:51.861617",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

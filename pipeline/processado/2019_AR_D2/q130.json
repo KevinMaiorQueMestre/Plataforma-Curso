@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 130\t\nO “The Kidney Project” é um projeto realizado por \ncientistas que pretendem desenvolver um rim biônico \nque executará a maioria das funções biológicas \ndo órgão. O rim biônico possuirá duas partes que \nincorporam recentes avanços de nanotecnologia, \nfiltração de membrana e biologia celular. Esse projeto \nsignificará uma grande melhoria na qualidade de vida \npara aquelas pessoas que dependem da hemodiálise \npara sobrevivência.\nDisponível em: https://pharm.ucsf.edu. \nAcesso em: 26 abr. 2019 (adaptado).\nO dispositivo criado promoverá diretamente a\nA\t remoção de ureia.\nB\t excreção de lipídios.\nC\t síntese de vasopressina.\nD\t transformação de amônia.\nE\t fabricação de aldosterona.",
+  "processado_em": "2026-05-11T23:27:35.002519",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

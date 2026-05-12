@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 94          \nHá algumas décadas, surgiu no mercado um \nmedicamento que provocava perda de peso por inibir a \nação da lipase, enzima que atua no intestino na digestão \nde gorduras. Um pesquisador, com o objetivo de avaliar \na eficácia do medicamento, decidiu medir nos pacientes \na quantidade de gordura nas fezes e de triglicerídeos \n(um dos produtos da digestão das gorduras) no sangue. \nMantendo sempre a mesma dieta nos pacientes, fez as \nmedidas antes e depois da administração do medicamento. \nA figura apresenta cinco resultados possíveis.\nGordura nas fezes antes\nGordura nas fezes depois\nTriglicerídeos no sangue antes\nTriglicerídeos no sangue depois\n1\n2\n3\n4\n5\nO efeito esperado do medicamento está representado no \nresultado\nA \t 1.\nB \t 2.\nC \t 3.\nD \t 4.\nE \t 5.",
+  "processado_em": "2026-05-08T14:03:35.528779",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

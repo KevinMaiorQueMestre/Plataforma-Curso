@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 178\t\nUm fiscal de certa empresa de ônibus registra o \ntempo, em minuto, que um motorista novato gasta \npara completar certo percurso. No Quadro 1 figuram \nos tempos gastos pelo motorista ao realizar o mesmo \npercurso sete vezes. O Quadro 2 apresenta uma \nclassificação para a variabilidade do tempo, segundo o \nvalor do desvio padrão.\nQuadro 1\nTempos \n(em minuto)\n48 \n54 \n50 \n46 \n44 \n52 \n49 \nQuadro 2\nVariabilidade\nDesvio padrão do \ntempo (min)\nExtremamente baixa\n0 < σ ≤ 2\nBaixa\n2 < σ ≤ 4\nModerada\n4 < σ ≤ 6\nAlta\n6 < σ ≤ 8\nExtremamente alta\nσ > 8\nCom base nas informações apresentadas nos quadros, \na variabilidade do tempo é\nA\t extremamente baixa.\nB\t baixa.\nC\t moderada.\nD\t alta.\nE\t extremamente alta.",
+  "processado_em": "2026-05-11T23:27:14.040557",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

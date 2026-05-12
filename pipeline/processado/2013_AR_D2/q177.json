@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nUm comerciante visita um centro de vendas para fazer \ncotação de preços dos produtos que deseja comprar. \nVerifica que se aproveita 100% da quantidade adquirida \nde produtos do tipo A, mas apenas 90% de produtos do \ntipo B. Esse comerciante deseja comprar uma quantidade \nde produtos, obtendo o menor custo/benefício em cada \num deles. O quadro mostra o preço por quilograma, em \nreais, de cada produto comercializado.\nProduto  \nTipo A\nTipo B\nArroz\n2,00\n1,70\nFeijão\n4,50\n4,10\nSoja\n3,80\n3,50\nMilho\n6,00\n5,30\nOs tipos de arroz, feijão, soja e milho que devem ser \nescolhidos pelo comerciante são, respectivamente,\nA\t A, A, A, A.\nB\t A, B, A, B.\nC\t A, B, B, A.\nD\t B, A, A, B.\nE\t B, B, B, B.",
+  "processado_em": "2026-05-08T14:00:24.679489",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

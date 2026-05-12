@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nOs vapores cruzavam os mares transportando \npessoas, mercadorias e ideias, e ainda carregavam a mala \npostal, repleta de mensagens. Múltiplas histórias escritas \natravessavam o oceano buscando por notícias de filhos e \npais, irmãos, maridos e esposas, noivos e noivas. As missivas \ntraziam boas e más novas, comunicavam alegremente \nnascimentos e casamentos, também doenças e mortes; \nenviavam declarações de amor e fidelidade, fotos de família; \nencaminhavam conselhos de velhos, pedidos de ajuda e de \ndinheiro; expediam cartas bancárias e de chamada. Essa \nliteratura epistolar possibilitava a transmissão e reconstrução \ndas tradições. Os deslocamentos tornaram-se um dos mais \npotentes produtores de escritura ao longo da história.\nTRUZZI, O.; MATOS, I. Saudades: sensibilidades no epistolário de e/imigrantes \nportugueses (Portugal-Brasil 1890-1930). Rev. Bras. Hist., n. 70, jul.-dez. 2015.\nConforme o texto, as correspondências trocadas entre \nimigrantes no Brasil com os seus países de procedência \nconstituíam um dispositivo tecnológico que possibilitava o(a)\nA\t\nA\t disputa ideológica entre a comunidade de estrangeiros \ne a de nativos.\nB\t\nB\t circularidade cultural entre a sociedade de partida e \na de acolhimento.\nC\t\nC\t controle doutrinário das narrativas do cotidiano de \norigem e de destino.\nD\t\nD\t fiscalização política dos fluxos de populações do Novo \ne do Velho Mundo.\nE\t\nE\t monitoramento social dos grupos de trabalhadores da \ncidade e do campo.",
+  "processado_em": "2026-05-08T14:05:39.517488",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

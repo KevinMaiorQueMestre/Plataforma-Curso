@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nOs integrantes de uma banda de rock realizaram um \nprocesso seletivo para contratar um novo vocalista. Foram \npré-selecionados cinco cantores para a realização de três \ntestes. As frequências, medidas em hertz, alcançadas \nnesses testes, por cada cantor foram:\n•\t I: 380; 410; 470.\n•\t II: 330; 350; 490.\n•\t III: 420; 420; 390.\n•\t IV: 407; 410; 404.\n•\t V: 310; 380; 480.\nOs integrantes da banda decidiram selecionar o cantor \nque apresentou a maior frequência média nos três testes.\nO cantor selecionado foi o\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+  "processado_em": "2026-05-08T14:06:05.756421",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

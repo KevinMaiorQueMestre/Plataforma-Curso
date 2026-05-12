@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 163        \nO Estatuto do Idoso, no Brasil, prevê certos \ndireitos às pessoas com idade avançada, concedendo \na estas, entre outros benefícios, a restituição de \nimposto de renda antes dos demais contribuintes. A \ntabela informa os nomes e as idades de 12 idosos \nque aguardam suas restituições de imposto de \nrenda. Considere que, entre os idosos, a restituição \nseja concedida em ordem decrescente de idade e \nque, em subgrupos de pessoas com a mesma idade, \na ordem seja decidida por sorteio.\nNome\nIdade (em ano)\nOrlando\n89\nGustavo\n86\nLuana\n86\nTeresa\n85\nMárcia\n84\nRoberto\n82\nHeloisa\n75\nMarisa\n75\nPedro\n75\nJoão\n75\nAntônio\n72\nFernanda\n70\nNessas condições, a probabilidade de João ser a sétima \npessoa do grupo a receber sua restituição é igual a\nA  1\n12\n\t\n \nB  7\n12\n\t\nC  1\n8\n\t\nD  \n5\n6\nE  1\n4",
+  "processado_em": "2026-05-11T23:28:19.630206",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

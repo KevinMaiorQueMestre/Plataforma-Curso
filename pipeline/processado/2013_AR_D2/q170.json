@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nUma falsa relação\nO cruzamento da quantidade de horas estudadas com \no desempenho no Programa Internacional de Avaliação \nde Estudantes (Pisa) mostra que mais tempo na escola \nnão é garantia de nota acima da média.\n \nNOTAS NO PISA E CARGA HORÁRIA (PAÍSES SELECIONADOS)*\n* Considerando as médias de cada país no exame de matemática. \nNOTAS\nNO PISA\nFinlândia\nCoreia do Sul\nJapão\nRússia\nPortugal\nItália\nIsrael\nMéxico\n600\n550\n4.500\n5.000\n5.500\n6.000\n6.500\n7.000\n7.500\n8.000\n8.500\n9.000\n450\n400\n350\nHolanda\nAustrália\nMédia\nHORAS DE ESTUDO\n(dos 7 aos 14 anos)\nNova Escola, São Paulo, dez. 2010 (adaptado).\nDos países com notas abaixo da média nesse exame, \naquele que apresenta maior quantidade de horas de \nestudo é\nA\t Finlândia.\nB\t Holanda.\nC\t Israel.\nD\t México.\nE",
+  "processado_em": "2026-05-08T14:00:24.322153",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nUma ferramenta biotecnológica para identificação \nde cadáveres é a análise de seu DNA mitocondrial e a \ncomparação com o DNA mitocondrial de pessoas de uma \nfamília que esteja reivindicando o corpo. Sabe-se que a \nherança mitocondrial é materna.\nEstão disponíveis os seguintes membros de uma \nfamília que poderiam doar material para a confirmação \nda identidade de um cadáver por meio da análise de DNA \nmitocondrial:\n1. a sobrinha, filha de um irmão;\n2. a tia, irmã de seu pai;\n3. o primo, filho da irmã de sua mãe;\n4. o avô materno;\n5. a prima, filha do irmão de sua mãe.\nSYKES, B. As sete filhas de Eva: a ciência que revela nossa herança genética.\nRio de Janeiro: Record, 2003 (adaptado).\nA confirmação da identidade do cadáver será possível \ncom a utilização do DNA mitocondrial do(a)\nA\t\nA\t sobrinha.\nB\t\nB\t tia.\nC\t\nC\t primo.\nD\t\nD\t avô.\nE\t\nE\t prima.",
+  "processado_em": "2026-05-08T14:04:47.408018",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

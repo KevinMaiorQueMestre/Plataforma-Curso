@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nO etanol é um combustível produzido a partir da \nfermentação da sacarose presente no caldo de cana-\n-de-açúcar. Um dos fatores que afeta a produção desse \nálcool é o grau de deterioração da sacarose, que se inicia \napós o corte, por causa da ação de microrganismos. Foram \nanalisadas cinco amostras de diferentes tipos de cana-de-\n-açúcar e cada uma recebeu um código de identificação. \nNo quadro são apresentados os dados de concentração de \nsacarose e de microrganismos presentes nessas amostras.\nAmostra de cana-de-açúcar\nRB72 RB84 RB92 SP79 SP80\nConcentração inicial \nde sacarose (g L-1)\n13,0\n18,0\n16,0\n14,0\n17,0\nConcentração de \nmicrorganismos \n(mg L-1)\n0,7\n0,8\n0,6\n0,5\n0,9\nPretende-se escolher o tipo de cana-de-açúcar que \nconterá o maior teor de sacarose 10 horas após o corte \ne que, consequentemente, produzirá a maior quantidade \nde etanol por fermentação. Considere que existe uma \nredução de aproximadamente 50% da concentração \nde sacarose nesse tempo, para cada 1,0 mg L−1 de \nmicrorganismos presentes na cana-de-açúcar.\nDisponível em: www.inovacao.unicamp.br. Acesso em: 11 ago. 2012 (adaptado).\nQual tipo de cana-de-açúcar deve ser escolhido?\nA\t\nA\t RB72\nB\t\nB\t RB84\nC\t\nC\t RB92\nD\t\nD\t SP79\nE\t\nE\t SP80",
+  "processado_em": "2026-05-08T14:05:09.565586",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

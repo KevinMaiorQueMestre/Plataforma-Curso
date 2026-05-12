@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 93\t\nEm 1808, Dalton publicou o seu famoso livro \nintitulado Um novo sistema de filosofia química \n(do original A New System of Chemical Philosophy), \nno qual continha os cinco postulados que serviam \ncomo alicerce da primeira teoria atômica da matéria \nfundamentada no método científico. Esses postulados \nsão numerados a seguir:\n1. A matéria é constituída de átomos indivisíveis.\n2. Todos os átomos de um dado elemento químico são \nidênticos em massa e em todas as outras propriedades.\n3. Diferentes elementos químicos têm diferentes \ntipos de átomos; em particular, seus átomos têm \ndiferentes massas.\n4. Os átomos são indestrutíveis e nas reações \nquímicas mantêm suas identidades.\n5. Átomos de elementos combinam com átomos de \noutros elementos em proporções de números inteiros \npequenos para formar compostos.\nApós o modelo de Dalton, outros modelos baseados \nem outros dados experimentais evidenciaram, entre \noutras coisas, a natureza elétrica da matéria, a \ncomposição e organização do átomo e a quantização da \nenergia no modelo atômico.\nOXTOBY, D. W.; GILLIS, H. P.; BUTLER, L. J. Principles of Modern \nChemistry. Boston: Cengage Learning, 2012 (adaptado).\nCom base no modelo atual que descreve o átomo, qual \ndos postulados de Dalton ainda é considerado correto?\nA\t 1\nB\t 2\nC\t 3\nD\t 4\nE\t 5",
+  "processado_em": "2026-05-11T23:27:32.355974",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

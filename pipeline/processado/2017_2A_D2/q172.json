@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\n8PD\u0003SHVVRD\u0003SHGH\u0003LQIRUPDomR\u0003QD\u0003UHFHSomR\u0003GH\u0003XP\u0003SUpGLR\u0003FRPHUFLDO\u0003GH\u0003FRPR\u0003FKHJDU\u0003D\u0003XPD\u0003VDOD\u000f\u0003H\u0003UHFHEH\u0003DV\u0003\nVHJXLQWHV\u0003LQVWUXo}HV\u001d\u0003VXED\u0003D\u0003HVFDGD\u0003HP\u0003IRUPD\u0003GH\u00038\u0003j\u0003IUHQWH\u000f\u0003DR\u0003¿QDO\u0003GHOD\u0003YLUH\u0003j\u0003HVTXHUGD\u000f\u0003VLJD\u0003XP\u0003SRXFR\u0003j\u0003IUHQWH\u0003H\u0003\nHP\u0003VHJXLGD\u0003YLUH\u0003j\u0003GLUHLWD\u0003H\u0003VLJD\u0003SHOR\u0003FRUUHGRU\u0011\u0003$R\u0003¿QDO\u0003GR\u0003FRUUHGRU\u000f\u0003YLUH\u0003j\u0003GLUHLWD\u0011\n8PD\u0003SRVVtYHO\u0003SURMHomR\u0003YHUWLFDO\u0003GHVVD\u0003WUDMHWyULD\u0003QR\u0003SODQR\u0003GD\u0003EDVH\u0003GR\u0003SUpGLR\u0003p\u001d\nA\nInício\nescada\nSala\nD\nInício\nescada\nSala\nB\nInício\nescada\nE\nSala",
+  "processado_em": "2026-05-11T23:25:31.268309",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

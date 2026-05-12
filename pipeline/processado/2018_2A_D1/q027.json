@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\t\nKIM, L. Cry me a river. Instalação com camisas de força, pia, baldes, \ntorneira, espelho, lâmpada, 2001.\nCANTON, K. As nuances da cidade. Bravo!, n. 54, mar. 2002.\nA imagem reproduz a instalação da paulista Lina Kim, \napresentada na 25ª Bienal de São Paulo em março \nde 2002. Nessa obra, a artista se utiliza de elementos \ndispostos num determinado ambiente para propor que o \nobservador reconheça o(a)\nA\t recusa à representação dos problemas sociais.\nB\t questionamento do que seja razão.\nC\t esgotamento das estéticas recentes.\nD\t processo \nde \nracionalização \ninerente \nà \narte \ncontemporânea.\nE\t ruptura estética com movimentos passados.",
+  "processado_em": "2026-05-11T23:26:11.175656",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

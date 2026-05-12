@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 95\t\nPara que se faça a reciclagem das latas de alumínio \nsão necessárias algumas ações, dentre elas:\n1) recolher as latas e separá-las de outros materiais \ndiferentes do alumínio por catação;\n2) colocar as latas em uma máquina que separa as \nmais leves das mais pesadas por meio de um intenso jato \nde ar;\n3) retirar, por ação magnética, os objetos restantes \nque contêm ferro em sua composição.\nAs ações indicadas possuem em comum o fato de\nA\t exigirem o fornecimento de calor.\nB\t fazerem uso da energia luminosa.\nC\t necessitarem da ação humana direta.\nD\t serem relacionadas a uma corrente elétrica.\nE\t ocorrerem sob a realização de trabalho de uma força.",
+  "processado_em": "2026-05-11T23:26:19.489848",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

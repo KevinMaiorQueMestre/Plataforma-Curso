@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "O conflito urbano mencionado teve como causa a\nA manutenção da cobrança de tarifas.\nB ampliação da taxa de criminalidade.\nC intervenção na atuação da polícia.\nD elevação no custo dos transportes.\nE redução na oferta de moradias.\nQUESTãO 75 \nA Caxemira foi dominada por dinastias ou imperadores \nhindus, budistas, muçulmanos, mongóis, afegãos, sikhs, até chegar \no Império Britânico. Quando os britânicos saíram, depois de quase \n200 anos, foram criados dois países, um de maioria muçulmana \n(Paquistão) e outro de maioria hindu (Índia). Uma divisão que \nprovocou uma das maiores ondas migratórias da história, com \n15 milhões de muçulmanos, hindus e sikhs fugindo para lados \nopostos. A passagem de poder na Caxemira é até hoje motivo de \ncontrovérsia e a origem do conflito entre os dois países.\nDisponível em: https://oglobo.globo.com. Acesso em: 8 set. 2019 (adaptado).\nO conflito mencionado no texto origina-se por questões \nrelacionadas a\nA grupos religiosos.\nB recursos minerais.\nC castas sociais.\nD energias renováveis.\nE comunidades tribais.",
+  "processado_em": "2026-05-08T14:06:30.388500",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 22\t\nTEXTO I\nCanudos não se rendeu. Exemplo único em toda a \nhistória, resistiu até o esgotamento completo. Vencido \npalmo a palmo, na precisão integral do termo, caiu no \ndia 5, ao entardecer, quando caíram os seus últimos \ndefensores, que todos morreram. Eram quatro apenas: \num velho, dois homens feitos e uma criança, na frente \ndos quais rugiam raivosamente cinco mil soldados.\nCUNHA, E. Os sertões. Rio de Janeiro: Francisco Alves, 1987.\nTEXTO II\nNa trincheira, no centro do reduto, permaneciam \nquatro fanáticos sobreviventes do extermínio. Era um \nvelho, coxo por ferimento e usando uniforme da Guarda \nCatólica, um rapaz de 16 a 18 anos, um preto alto e \nmagro, e um caboclo. Ao serem intimados para deporem \nas armas, investiram com enorme fúria. Assim estava \nterminada e de maneira tão trágica a sanguinosa guerra, \nque o banditismo e o fanatismo traziam acesa por longos \nmeses, naquele recanto do território nacional.\nSOARES, H. M. A Guerra de Canudos. Rio de Janeiro: Altina, 1902.\nOs relatos do último ato da Guerra de Canudos fazem \nuso de representações que se perpetuariam na memória \nconstruída sobre o conflito. Nesse sentido, cada autor \ncaracterizou a atitude dos sertanejos, respectivamente, \ncomo fruto da\nA\t manipulação e incompetência.\nB\t ignorância e solidariedade.\nC\t hesitação e obstinação.\nD\t esperança e valentia.\nE\t bravura e loucura.",
+  "processado_em": "2026-05-08T14:00:44.016435",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

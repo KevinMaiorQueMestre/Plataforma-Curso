@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nEm um sistema de dutos, três canos iguais, de raio \nexterno 30 cm, são soldados entre si e colocados dentro de \num cano de raio maior, de medida R. Para posteriormente \nter fácil manutenção, é necessário haver uma distância \nde 10 cm entre os canos soldados e o cano de raio maior. \nEssa distância é garantida por um espaçador de metal, \nconforme a figura:\n10 cm\n30 cm\nR\n Utilize 1,7 como aproximação para 3.\nO valor de R, em centímetros, é igual a\nA\t 64,0.\nB\t 65,5.\nC\t 74,0.\nD\t 81,0.\nE\t 91,0.",
+  "processado_em": "2026-05-08T14:00:24.719582",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

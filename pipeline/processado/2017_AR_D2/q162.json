@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nA mensagem digitada no celular, enquanto você \ndirige, tira a sua atenção e, por isso, deve ser evitada. \nPesquisas mostram que um motorista que dirige um \ncarro a uma velocidade constante percorre “às cegas” \n(isto é, sem ter visão da pista) uma distância proporcional \nao tempo gasto ao olhar para o celular durante a digitação \nda mensagem. Considere que isso de fato aconteça. \nSuponha que dois motoristas (X e Y) dirigem com a mesma \nvelocidade constante e digitam a mesma mensagem em \nseus celulares. Suponha, ainda, que o tempo gasto pelo \nmotorista X olhando para seu celular enquanto digita a \nmensagem corresponde a 25% do tempo gasto pelo \nmotorista Y para executar a mesma tarefa. \nDisponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).\nA razão entre as distâncias percorridas às cegas por \nX e Y, nessa ordem, é igual a\nA\n5\n4\nB\n1\n4\nC\n4\n3\nD\n4\n1\nE\n3\n4",
+  "processado_em": "2026-05-11T23:25:56.323023",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

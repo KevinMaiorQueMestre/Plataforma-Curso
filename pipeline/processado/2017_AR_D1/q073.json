@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 73\t\nO fenômeno da mobilidade populacional vem, \ndesde as últimas décadas do século XX, apresentando \ntransformações significativas no seu comportamento, não \nsó no Brasil como também em outras partes do mundo. \nEsses novos processos se materializam, entre outros \naspectos, na dimensão interna, pelo redirecionamento \ndos fluxos migratórios para as cidades médias, em \ndetrimento \ndos \ngrandes \ncentros \nurbanos; \npelos \ndeslocamentos de curta duração e a distâncias menores; \npelos movimentos pendulares, que passam a assumir \nmaior relevância nas estratégias de sobrevivência, não \nmais restritos aos grandes aglomerados urbanos.\nOLIVEIRA, L. A. P.; OLIVEIRA, A. T. R. Reflexões sobre os deslocamentos populacionais \nno Brasil. Rio de Janeiro: IBGE, 2011 (adaptado).\nA redefinição dos fluxos migratórios internos no Brasil, \nno período apontado no texto, tem como causa a \nintensificação do processo de\nA\t \tdescapitalização do setor primário.\nB\t \tampliação da economia informal. \nC\t \ttributação da área residencial citadina.\nD\t \tdesconcentração da atividade industrial.\nE\t \tsaturação da empregabilidade no setor terciário.",
+  "processado_em": "2026-05-11T23:25:42.757938",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 83\t\nQuando se trata de competência nas construções e \nnas artes, os atenienses acreditam que poucos sejam \ncapazes de dar conselhos. Quando, ao contrário, se \ntrata de uma deliberação política, toleram que qualquer \num fale, de outro modo não existiria a cidade.\nBOBBIO, N. Teoria geral da política. Rio de Janeiro: \nElsevier, 2000 (adaptado).\nDe acordo com o texto, a atuação política dos cidadãos \natenienses na Antiguidade Clássica tinha como \ncaracterística fundamental o(a)\nA\t dedicação altruísta em ações coletivas.\nB\t participação direta em fóruns decisórios.\nC\t ativismo humanista em debates públicos.\nD\t discurso formalista em espaços acadêmicos.\nE\t representação igualitária em instâncias parlamentares.",
+  "processado_em": "2026-05-11T23:27:02.695861",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

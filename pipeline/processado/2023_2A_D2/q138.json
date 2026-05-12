@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nEm um ateliê de costura, para confeccionar \n200 calças jeans, em 5 dias de trabalho, são necessários \n10 funcionários. Devido a uma crise financeira no ateliê, \na gerência decidiu demitir 4 funcionários visando a \nredução de custos. Sabe-se que a produção deverá ser \nmantida com o novo quadro de funcionários, ou seja, após \na demissão.\nEm quantos dias de trabalho o novo quadro de funcionários \nconfeccionará a mesma quantidade de calças jeans?\nA\t\nA\t 2,0\nB\t\nB\t 3,0\nC\t\nC\t 3,3\nD\t\nD\t 8,3\nE\t\nE\t 12,0",
+  "processado_em": "2026-05-08T14:05:26.642799",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

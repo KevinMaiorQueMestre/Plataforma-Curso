@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 117\t\nUma ambulância em alta velocidade com a sirene ligada \ndesloca-se em direção a um radar operado por uma pessoa. \nO radar emite ondas de rádio com frequência f0 que são \nrefletidas pela dianteira da ambulância, retornando para \no detector com frequência fr. A percepção do operador do \nradar, em relação ao som emitido pela sirene, é de que \neste se altera à medida que a ambulância se aproxima \nou se afasta.\nDurante a aproximação, como o operador percebe o som \nda sirene e qual é a relação entre as frequências fr e f0 \nmedidas pelo radar?\nA\tMais grave do que o som emitido e fr < f0.\nB\tMais agudo do que o som emitido e fr < f0.\nC\tMais agudo do que o som emitido e fr = f0.\nD\tMais agudo do que o som emitido e fr > f0.\nE Mais grave do que o som emitido e f > f",
+  "processado_em": "2026-05-08T14:06:18.147505",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

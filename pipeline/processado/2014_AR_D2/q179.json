@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nDurante uma epidemia de uma gripe viral, o secretário \nde saúde de um município comprou 16 galões de álcool \nem gel, com 4 litros de capacidade cada um, para distribuir \nigualmente em recipientes para 10 escolas públicas do \nmunicípio. O fornecedor dispõe à venda diversos tipos de \nrecipientes, com suas respectivas capacidades listadas:\n• \nRecipiente I: 0,125 litro\n• \nRecipiente II: 0,250 litro\n• \nRecipiente III: 0,320 litro\n• \nRecipiente IV: 0,500 litro\n• \nRecipiente V: 0,800 litro\nO secretário de saúde comprará recipientes de \num mesmo tipo, de modo a instalar 20 deles em cada \nescola, abastecidos com álcool em gel na sua capacidade \nmáxima, de forma a utilizar todo o gel dos galões de uma \nsó vez.\nQue tipo de recipiente o secretário de saúde deve comprar?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-08T14:00:40.521032",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

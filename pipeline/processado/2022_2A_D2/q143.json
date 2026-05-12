@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nUma indústria de sucos utiliza uma embalagem no \nformato de prisma reto de base quadrada, com aresta da \nbase de medida a e altura de medida h, ambas de mesma \nunidade de medida, como representado na figura.\nSUCO\na\na\nh\nDeseja-se criar uma linha de produção para \numa nova embalagem de igual formato, mas que \ndeverá ter uma capacidade igual ao triplo da atual. \nA altura da nova embalagem será igual a 4\n3  da altura \nda embalagem atual. As arestas da base da nova \nembalagem serão denominadas de x.\nQual a relação de dependência entre a medida x da \nnova aresta da base e a medida a da aresta atual?\nA\t\nA\t x = a\nB\t\nB\t x = 3a\nC\t\nC\t x = 9a\nD\t\nD\t x = 3\n2\na\nE\t\nE\t x = a 3",
+  "processado_em": "2026-05-08T14:04:49.325316",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

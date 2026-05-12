@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\t\nEm janeiro do ano passado, a direção de uma fábrica \n10 salas, cada uma com capacidade para atender 10 cria\ndos funcionários inscritos, enquanto os não contemplados\na lista de espera teve 400 nomes e, neste ano, esse núme\nA direção da fábrica realizou uma pesquisa e constato\nquantidade de nomes da lista de espera deste ano. Decid\na creche, também com capacidade de atendimento para 1\nde espera no próximo ano seja 25% menor que o deste an\nO número mínimo de salas que deverão ser construídas é\nA\t\nA\t 10.\nB\t\nB\t 11.\nC\t\nC\t 13.\nD\t\nD\t 30.\nE\t\nE\t 33.",
+  "processado_em": "2026-05-08T14:05:46.019993",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

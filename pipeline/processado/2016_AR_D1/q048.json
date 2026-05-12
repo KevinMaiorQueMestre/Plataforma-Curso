@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 48  \n \nA coleta das fezes dos animais domésticos em sacolas \nplásticas e o seu descarte em lixeiras convencionais \npodem criar condições de degradação que geram \nprodutos prejudiciais ao meio ambiente (Figura 1).\nFigura 1\nA Figura 2 ilustra o Projeto Park Spark, desenvolvido \nem Cambridge, MA (EUA), em que as fezes dos animais \ndomésticos são recolhidas em sacolas biodegradáveis \ne jogadas em um biodigestor instalado em parques \npúblicos; e os produtos são utilizados em equipamentos \nno próprio parque.\nFigura 2\nD isponível em: http://parksparkproject.com. Acesso em: 30 ago. 2013 (adaptado).\nUma inovação desse projeto é possibilitar o(a)\nA queima de gás metano.\nB armazenamento de gás carbônico.\nC decomposição aeróbica das fezes.\nD uso mais eﬁ ciente de combustíveis fósseis.\nE ﬁ xação de carbono em moléculas orgânicas.",
+  "processado_em": "2026-05-08T14:01:07.977479",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

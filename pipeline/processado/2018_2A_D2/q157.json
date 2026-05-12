@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nAs Artes Marciais Mistas, tradução do inglês: MMA – \nmixed martial arts, são realizadas num octógono regular. \nDe acordo com a figura, em certo momento os dois \nlutadores estão respectivamente nas posições G e F, e \no juiz está na posição I. O triângulo IGH é equilátero e \nGÎF é o ângulo formado pelas semirretas com origem \nna posição do juiz, respectivamente passando pelas \nposições de cada um dos lutadores.\nE\nF\nG\nH\nA\nI\nB\nC\nD\nA medida do ângulo GÎF é\nA\t 120°\nB\t 75°\nC\t 67,5°\nD\t 60°\nE\t 52,5°",
+  "processado_em": "2026-05-11T23:26:23.642293",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

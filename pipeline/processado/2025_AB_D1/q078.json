@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 78\t\nMemória e história não são sinônimos. A memória é a \nvida, protagonizada pelas pessoas, em grupo, e está em \nevolução permanente. Aberta para a dialética da lembrança \ne do esquecimento, a memória não tem consciência de sua \nsucessiva deformação e, vulnerável a todas as utilizações e \nmanipulações, é suscetível a longas latências e repentinas \nrevitalizações. A história é a reconstrução sempre problemática \ne incompleta do que já passou. A memória é um fenômeno \nsempre atual, uma ligação vivida no eterno presente, ao passo \nque a história é uma representação do passado.\nLISBOA, K. M. Comemorações, história, memória e identidade. \nIn: RODRIGUES, J. (Org.). A Universidade Federal de São Paulo \naos 75 anos: ensaios sobre história e memória. \nSão Paulo: Unifesp, 2008 (adaptado).\nDe acordo com o texto, a escrita da história exige a prática de\nA\tratificar os registros documentais.\nB\tdetalhar as verdades antigas.\nC\treforçar o vestígio recordado.\nD\tafirmar o acontecimento descrito.\nE\trecompor o tempo experimentado.",
+  "processado_em": "2026-05-08T14:06:47.247453",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

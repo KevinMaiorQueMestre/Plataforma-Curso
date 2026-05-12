@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\t\nUm motorista que atende a uma chamada de celular é \nlevado à desatenção, aumentando a possibilidade de acidentes \nocorrerem em razão do aumento de seu tempo de reação. \nConsidere dois motoristas, o primeiro atento e o segundo \nutilizando o celular enquanto dirige. Eles aceleram seus carros  \ninicialmente a 1,00 m/s2. Em resposta a uma emergência, \nfreiam com uma desaceleração igual a 5,00 m/s2. O motorista \natento aciona o freio à velocidade de 14,0 m/s, enquanto o \ndesatento, em situação análoga, leva 1,00 segundo a mais \npara iniciar a frenagem.\nQue distância o motorista desatento percorre a mais do \nque o motorista atento, até a parada total dos carros?\nA\t 2,90 m\nB\t 14,0 m\nC\t 14,5 m\nD\t 15,0 m\nE\t 17,4 m",
+  "processado_em": "2026-05-11T23:25:51.097037",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 119 \nO lado som\nA poluição luminosa causa malefícios para diversos seres v\nsinal para corte, afugentar predadores e até para predar outros\nde um holofote, foram alocadas cinco populações de diferente\n20 m da fonte luminosa. Verificou-se que cada espécie era afet\npopulacional foi verificada pelo período de um ano, sendo a po\napresentado na tabela.\nEspécie de \nvaga-lume\nFator afetado \npela luz\nTaxa de \nnatalidade\n1\nDefesa\n400\n2\nComunicação\n300\n3\nAlimentação\n300\n4\nReprodução\n100\n5\nLocalização\n300\nQual espécie de vaga-lume foi mais afetada pela poluição lumi\nA 1\nB 2\nC 3\nD 4\nE 5",
+  "processado_em": "2026-05-08T14:06:35.796366",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LC - 2º dia | Caderno 5 - AMARELO - Página 14\nQUESTÃO 126\t\nEntrevista com Terezinha Guilhermina\nTerezinha Guilhermina é uma das atletas mais \npremiadas da história paraolímpica do Brasil e um dos \nprincipais nomes do atletismo mundial. Está no Guinness \nBook de 2013/2014 como a “cega” mais rápida do mundo.\nObservatório: Quais os desafios você teve que \nsuperar para se consagrar como atleta profissional?\nTerezinha Guilhermina: Considero a ausência de \nrecursos financeiros, nos três primeiros anos da minha \ncarreira, como meu principal desafio. A falta de um atleta-\nguia, para me auxiliar nos treinamentos, me obrigava \na treinar sozinha e, por não enxergar bem, acabava \nsofrendo alguns acidentes como trombadas e quedas.\nObservatório: Como está a preparação para os \nJogos Paraolímpicos de 2016?\nTerezinha \nGuilhermina: \nEstou \ntrabalhando \nintensamente, com vistas a chegar lá bem melhor do que \nestive em Londres. E, por isso, posso me dedicar a treinos \ndiários, trabalhos preventivos de lesões e acompanhamento \npsicológico e nutricional da melhor qualidade.\nRevista do Observatório Brasil de Igualdade de Gênero, n. 6, dez. 2014 (adaptado).",
+  "processado_em": "2026-05-08T14:01:17.321694",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

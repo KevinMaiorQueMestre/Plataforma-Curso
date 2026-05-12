@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q128",
+  "imagem": "q128.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 128,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t formação de micro-hábitats.\nB \t ampliação do efeito de borda.\nC \t construção de corredores ecológicos.\nD \t promoção da sucessão ecológica.\nE \t introdução de novas espécies de animais e vegetais.\nQuestão 128        \nA sacarase (ou invertase) é uma enzima que atua no \nintestino humano hidrolisando o dissacarídeo sacarose \nnos monossacarídeos glicose e frutose. Em um estudo \ncinético da reação de hidrólise da sacarose (C12H22O11), \nforam dissolvidos 171 g de sacarose em 500 mL de \nágua. Observou-se que, a cada 100 minutos de reação, \na concentração de sacarose foi reduzida à metade, \nqualquer que fosse o momento escolhido como tempo \ninicial. As massas molares dos elementos H, C e O são \niguais a 1, 12 e 16 g mol−1, respectivamente.\nQual é a concentração de sacarose depois de 400 minutos \ndo início da reação de hidrólise?\nA \t 2,50 × 10−3 mol L−1\nB \t 6,25 × 10−2 mol L−1\nC \t 1,25 × 10−1 mol L−1\nD \t 2,50 × 10−1 mol L−1\nE \t 4,27 × 10−1 mol L−1",
+  "processado_em": "2026-05-11T23:28:15.121076",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

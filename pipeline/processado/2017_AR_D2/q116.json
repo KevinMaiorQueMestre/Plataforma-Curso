@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 116\t\nO ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe2O3), a magnetita (Fe3O4) \ne a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições \nadequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para \nreduzir o FeO (sólido), conforme a equação química:\nFeO (s) + CO (g) → Fe (s) + CO2 (g)\nConsidere as seguintes equações termoquímicas:\nFe2O3 (s) + 3 CO (g) → 2 Fe (s) + 3 CO2 (g)\t\n\t\n∆rH  = −25 kJ/mol de Fe2O3 \n3 FeO (s) + CO2 (g) → Fe3O4 (s) + CO (g)\t\n\t\n∆rH  = −36 kJ/mol de CO2 \n2 Fe3O4 (s) + CO2 (g) → 3 Fe2O3 (s) + CO (g)\t \t\n∆rH  = + 47 kJ/mol de CO2\nO valor mais próximo de ∆rH , em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é\nA\t −14.\nB\t −17.\nC\t −50.\nD\t −64.\nE\t −100.",
+  "processado_em": "2026-05-11T23:25:50.529253",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 116\t\nUm teste de laboratório permite identificar alguns \ncátions metálicos ao introduzir uma pequena quantidade \ndo material de interesse em uma chama de bico de \nBunsen para, em seguida, observar a cor da luz emitida.\nA cor observada é proveniente da emissão de radiação \neletromagnética ao ocorrer a\nA\t mudança da fase sólida para a fase líquida do \nelemento metálico.\nB\t combustão dos cátions metálicos provocada pelas \nmoléculas de oxigênio da atmosfera.\nC\t diminuição da energia cinética dos elétrons em uma \nmesma órbita na eletrosfera atômica.\nD\t transição eletrônica de um nível mais externo para \noutro mais interno na eletrosfera atômica.\nE\t promoção dos elétrons que se encontram no \nestado \nfundamental \nde \nenergia \npara \nníveis",
+  "processado_em": "2026-05-11T23:27:33.947920",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

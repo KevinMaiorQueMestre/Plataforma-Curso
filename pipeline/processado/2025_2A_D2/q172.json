@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 172 \nUma locadora de veículos possui uma frota distribuída em t\n18% dessa frota está no Nordeste, 12% encontra-se na região C\n3\n8  da frota. Objetivando concentrar um quantitativo maior de ve\nda locadora estabelece que nessa região deverão estar 40% da f\nregiões Sul e Norte deverá para lá ser transferido.\nQual percentual da frota total das regiões Sul e Norte deverá ser\nA 4%\nB 7,5%\nC 14%\nD 20%\nE 23%",
+  "processado_em": "2026-05-08T14:06:38.407403",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

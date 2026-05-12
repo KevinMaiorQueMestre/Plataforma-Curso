@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nA terapia celular tem sido amplamente divulgada \ncomo revolucionária, por permitir a regeneração de \ntecidos a partir de células novas. Entretanto, a técnica \nde se introduzirem novas células em um tecido, para o \ntratamento de enfermidades em indivíduos, já era aplicada \nrotineiramente em hospitais.\nA que técnica refere-se o texto?\nA\t Vacina.\nB\t Biópsia.\nC\t Hemodiálise.\nD\t Quimioterapia.\nE\t Transfusão de sangue.",
+  "processado_em": "2026-05-11T23:25:51.255841",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

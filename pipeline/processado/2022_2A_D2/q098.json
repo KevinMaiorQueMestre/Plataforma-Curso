@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nEstudos apontam que o meteorito que atingiu o céu \nda Rússia em fevereiro de 2013 liberou uma energia \nequivalente a 500 quilotoneladas de TNT (trinitrotolueno), \ncerca de 30 vezes mais forte que a bomba atômica \nlançada pelos Estados Unidos em Hiroshima, no Japão, \nem 1945. Os cálculos estimam que o meteorito estava a \n19 quilômetros por segundo no momento em que atingiu \na atmosfera e que seu brilho era 30 vezes mais intenso \ndo que o brilho do Sol.\nA energia liberada pelo meteorito ao entrar na atmosfera \nterrestre é proveniente, principalmente,\nA\t\nA\t da queima de combustíveis contidos no meteorito.\nB\t\nB\t de reações nucleares semelhantes às que ocorrem \nno Sol.\nC\t\nC\t da energia cinética associada à grande velocidade do \nmeteorito.\nD\t\nD\t de reações semelhantes às que ocorrem em \nexplosões nucleares.\nE\t\nE\t da queima da grande quantidade de trinitrotolueno \npresente no meteorito.",
+  "processado_em": "2026-05-08T14:04:46.713956",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

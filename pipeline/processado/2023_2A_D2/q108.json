@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 108\t\nO lançamento de 60 satélites altamente refletores \npela empresa SpaceX está preocupando os cientistas: \na “superpopulação” de satélites ameaça a nossa \nobservação das estrelas. A SpaceX espera que um \ndia seja possível ter 12 mil satélites na órbita da Terra, \npermitindo o acesso à internet de alta velocidade, com \na qual toda a humanidade só pode sonhar. A SpaceX é \nsó uma das companhias no setor da internet via satélite.\n“Se muitos dos satélites dessas novas \nmegaconstelações tiverem esse tipo de brilho constante, \nentão em 20 anos ou menos, o olho humano passará a ver, \ndurante boa parte da noite em qualquer lugar do mundo, \nmais satélites do que estrelas”.\nAstrônomos alertam: satélites da SpaceX podem mudar céu noturno. \nDisponível em: https://br.sputniknews.com. Acesso em: 21 nov. 2019 (adaptado).\nA preocupação dos astrônomos baseia-se no fato de \nesses satélites\nA\t\nA\t refletirem a luz do Sol durante o período noturno, \nofuscando a luz das demais estrelas.\nB\t\nB\t emitirem para a Terra muita radiação luminosa que se \nsobrepõe à das estrelas.\nC\t\nC\t refratarem a luz das estrelas, desviando os raios dos \ntelescópios posicionados na superfície da Terra.\nD\t\nD\t refletirem a luz do Sol durante o período diurno, \nofuscando a luz das demais estrelas.\nE\t\nE\t emitirem de volta para o espaço a luz das estrelas \nque seria captada pelos telescópios posicionados na \nsuperfície da Terra.",
+  "processado_em": "2026-05-08T14:05:25.004603",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

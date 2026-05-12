@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nO síndico de um condomínio contratou uma empresa \npara verificar a qualidade da água dos cinco reservatórios \nque alimentam esses edifícios. A empresa utiliza um \nteste que fornece o valor de um parâmetro, expresso em \npontos que variam de 0 a 100, que indicam a qualidade da \nágua, sendo o valor 0 associado à péssima qualidade e \n100 associado à ótima qualidade da água. Quando esse \nparâmetro assume um valor a partir de 50 pontos, a água \né considerada de qualidade adequada.\nPara os reservatórios I, II, III e IV, esse parâmetro \nassumiu, respectivamente, os valores 64, 53, 63 e 64 \nnesse tipo de teste. Já no reservatório V, esse parâmetro \nfoi de 20 pontos, reprovando a qualidade da água. Com \nisso, a água desse reservatório será tratada de modo a \naumentar sua qualidade.\nO síndico pretende que o parâmetro de qualidade da \nágua do reservatório V aumente o suficiente para que a \nmédia dos parâmetros de qualidade da água dos cinco \nreservatórios seja, no mínimo, igual a 60 pontos.\nA quantidade mínima de pontos que o parâmetro da \nqualidade da água do reservatório V deve aumentar é\nA\t\nA\t 36.\nB\t\nB\t 40.\nC\t\nC\t 41.\nD\t\nD\t 43.\nE\t\nE\t 44.",
+  "processado_em": "2026-05-08T14:05:28.755581",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

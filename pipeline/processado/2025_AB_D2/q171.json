@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 171\t\nEm uma empresa, existem duas equipes de vendedores: \numa denominada Profissional, formada pelos vendedores \nmais experientes, e outra denominada Iniciante, formada \npelos vendedores que ainda se encontram em fase de \naperfeiçoamento. Durante uma semana, as quantidades de \nunidades vendidas por equipe foram registradas no gráfico.\nVendas: Profissional × Iniciante\nO gerente da empresa pesquisou os dias dessa semana em \nque a equipe Profissional vendeu pelo menos o dobro do que \nvendeu a equipe Iniciante.\nQuantas unidades a equipe Profissional vendeu a mais do que \na equipe Iniciante no total dos dias pesquisados pelo gerente?\nA\t10\nB\t20\nC\t35\nD\t45\nE\t90",
+  "processado_em": "2026-05-08T14:06:54.090946",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

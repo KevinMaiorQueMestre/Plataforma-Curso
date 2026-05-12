@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 69\t\nUma dona de casa acidentalmente deixou cair na \ngeladeira a água proveniente do degelo de um peixe, \no que deixou um cheiro forte e desagradável dentro do \neletrodoméstico. Sabe-se que o odor característico de \npeixe se deve às aminas e que esses compostos se \ncomportam como bases.\nNa \ntabela \nsão \nlistadas \nas \nconcentrações \nhidrogeniônicas de alguns materiais encontrados na \ncozinha, que a dona de casa pensa em utilizar na limpeza \nda geladeira.\nMaterial\nConcentração de H3O+ (mol/L)\nSuco de limão\n10–2\nLeite\n 10–6\nVinagre\n10–3\nÁlcool\n10–8\nSabão\n 10–12\nCarbonato de sódio/\nbarrilha\n 10–12\nDentre os materiais listados, quais são apropriados para \namenizar esse odor?\nA\t Álcool ou sabão.\nB\t Suco de limão ou álcool.\nC\t Suco de limão ou vinagre.\nD\t Suco de limão, leite ou sabão.\nE\t Sabão ou carbonato de sódio/barrilha.",
+  "processado_em": "2026-05-08T13:59:02.501857",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

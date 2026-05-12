@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\nUm designer de jogos planeja um jogo que faz uso \nGH\u0003XP\u0003WDEXOHLUR\u0003GH\u0003GLPHQVmR\u0003n u n, com n t\u0003\u0015\u000f\u0003QR\u0003TXDO\u0003\ncada jogador, na sua vez, coloca uma peça sobre uma \ndas casas vazias do tabuleiro. Quando uma peça é \nSRVLFLRQDGD\u000f\u0003D\u0003UHJLmR\u0003IRUPDGD\u0003SHODV\u0003FDVDV\u0003TXH\u0003HVWmR\u0003QD\u0003\nmesma linha ou coluna dessa peça é chamada de zona \nGH\u0003FRPEDWH\u0003GHVVD\u0003SHoD\u0011\u00031D\u0003¿JXUD\u0003HVWi\u0003LOXVWUDGD\u0003D\u0003]RQD\u0003\nde combate de uma peça colocada em uma das casas de \nXP\u0003WDEXOHLUR\u0003GH\u0003GLPHQVmR\u0003\u001b\u0003u 8.\nO tabuleiro deve ser dimensionado de forma que a \nprobabilidade de se posicionar a segunda peça \nDOHDWRULDPHQWH\u000f\u0003 VHJXLQGR\u0003 D\u0003 UHJUD\u0003 GR\u0003 MRJR\u000f\u0003 H\u0003 HVWD\u0003 ¿FDU\u0003\nsobre a zona de combate da primeira, seja inferior a 1\n5\n.\n$\u0003 GLPHQVmR\u0003 PtQLPD\u0003 TXH\u0003 R\u0003 designer deve adotar para \nesse tabuleiro é\nA \u0017\u0003u\u0003\u0017\u0011\nB 6 u 6.\nC 9 u 9.\nD 10 u 10.\nE 11 u 11.",
+  "processado_em": "2026-05-11T23:26:50.339914",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

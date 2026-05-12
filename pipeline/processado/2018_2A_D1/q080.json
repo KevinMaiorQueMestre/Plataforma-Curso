@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nBRASIL. IBGE. Regiões de influência de cidades 2007. Rio de Janeiro: IBGE, 2008 (adaptado).\nO critério que rege a hierarquia urbana é a\nA\t existência de distritos industriais de grande porte.\nB\t importância histórica dos centros urbanos tradicionais.\nC\t centralidade exercida por algumas cidades em relação \nàs demais.\nD\t proximidade em relação ao litoral das principais \ncidades brasileiras.\nE\t presença de sedes de multinacionais potencializando \na conexão global.",
+  "processado_em": "2026-05-11T23:26:16.966573",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

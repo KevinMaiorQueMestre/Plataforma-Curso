@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 75          \nAfirmar que a cartografia da época moderna integrou o \nprocesso de invenção da América por parte dos europeus \nsignifica que os conhecimentos dos ameríndios sobre o \nterritório foram ignorados pela cartografia europeia ou que \neles foram privados de sua representação territorial e da \nautoridade que seus conhecimentos tinham sobre o espaço.\nOLIVEIRA, T. K. Desconstruindo mapas, revelando espacializações: reflexões sobre o uso \nda cartografia em estudos sobre o Brasil colonial. Revista Brasileira de História,\nn. 68, 2014 (adaptado).\nNa análise contida no texto, a representação cartográfica \nda América foi marcada por\nA \t asserção da cultura dos nativos.\nB \t avanço dos estudos do ambiente.\nC \t afirmação das formas de dominação.\nD exatidão da demarcação das regiões",
+  "processado_em": "2026-05-11T23:28:06.276821",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

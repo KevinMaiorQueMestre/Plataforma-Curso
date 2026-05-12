@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 85\t\nTal como foi concebido, o desenvolvimento da \nAmazônia pressupunha o desmatamento. Muitas forças \nforam envolvidas e constituíram uma teia de múltiplos \ninteresses: as instituições financeiras internacionais, a \ntecnocracia militar e civil, as elites regionais e nacionais, \nas corporações transnacionais, os madeireiros, os \ncolonos sem terra e os garimpeiros.\nSANTOS, L. G. Politizar as novas tecnologias: o impacto sociotécnico \nda informação digital e genética. São Paulo: \nEditora 34, 2003 (adaptado).\nO modo de exploração descrito opõe-se a um modelo de \ndesenvolvimento que\nA\t gera empregos formais.\nB\t possibilita lucros imediatos.\nC\t maximiza atividades de extração.\nD\t reitera a dependência econômica.\nE\t promove a conservação de recursos.",
+  "processado_em": "2026-05-11T23:27:02.784254",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

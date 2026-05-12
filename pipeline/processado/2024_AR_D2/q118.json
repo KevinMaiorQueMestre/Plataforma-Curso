@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 118\t\nMirascópio 3D: produtor de ilusão instantânea\nO equipamento ilustrado na figura, de dimensões \napresentadas no esquema, é composto por dois espelhos \ncôncavos E1 e E2, apoiados um sobre o outro por suas \nbordas, de tal forma que o vértice de E1 coincide com \no foco de E2 e vice-versa. Na abertura circular de \nE2, é formada uma imagem tridimensional de um objeto \nposicionado sobre o vértice de E1. Essa imagem é \nformada a partir dos raios procedentes do objeto, refletidos \npor E2 e E1, respectivamente, conforme o esquema. \nOs observadores julgam visualizar o objeto quando estão, \nde fato, visualizando sua imagem. O efeito só é possível \nporque as superfícies de ambos os espelhos são de \nextrema qualidade.\nSALZMANN, W. Disponível em: https://wissenstexte.de. \nAcesso em: 27 jun. 2024 (adaptado).\nA natureza da imagem formada e a distância vertical entre \ncada ponto objeto e seu correspondente ponto imagem são\nA\treal e 5 cm.\nB\treal e 3,8 cm.\nC\treal e 7,6 cm.\nD\tvirtual e 7,6 cm.\nE\tvirtual e 3,8 cm.",
+  "processado_em": "2026-05-08T14:06:18.248357",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

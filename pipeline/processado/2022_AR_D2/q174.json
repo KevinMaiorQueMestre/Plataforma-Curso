@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\t\nEm jogos de voleibol, um saque é invalidado se a bola \natingir o teto do ginásio onde ocorre o jogo. Um jogador de \numa equipe tem um saque que atinge uma grande altura. \nSeu recorde foi quando a batida do saque se iniciou a \numa altura de 1,5 m do piso da quadra, e a trajetória da \nbola foi descrita pela parábola y\nx\nx\n\u001f \u001e\n\u001e\n\u001d\n2\n6\n7\n3\n12 , em \nque y  representa a altura da bola em relação ao eixo \nx  (das abscissas) que está localizado a 1,5 m do piso \nda quadra, como representado na figura. Suponha que \nem todas as partidas algum saque desse jogador atinja a \nmesma altura do seu recorde.\n1,5 m\n1,5 m\n1,5 m\ny\nx\nA equipe desse jogador participou de um torneio de \nvoleibol no qual jogou cinco partidas, cada uma delas \nem um ginásio diferente.  As alturas dos tetos desses \nginásios, em relação aos pisos das quadras, são:\n•\t ginásio I: 17 m; \n•\t ginásio II: 18 m; \n•\t ginásio III: 19 m; \n•\t ginásio IV: 21 m;\n•\t ginásio V: 40 m.\nO saque desse atleta foi invalidado\nA\t\nA\t apenas no ginásio I.\nB\t\nB\t apenas nos ginásios I e II.\nC\t\nC\t apenas nos ginásios I, II e III.\nD\t\nD\t apenas nos ginásios I, II, III e IV.\nE\t\nE\t em todos os ginásios.",
+  "processado_em": "2026-05-08T14:05:13.133071",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

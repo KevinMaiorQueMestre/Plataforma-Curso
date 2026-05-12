@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM \nA\t\nA\t demonstrar como a indústria da moda agrava a poluição.\nB\t\nB\t abordar o crescimento da produção de roupas nas \núltimas décadas.\nC\t\nC\t expor como a indústria da moda depende da \nindústria petrolífera.\nD\t\nD\t apresentar o efeito do aumento da poluição na \nconfecção de roupas.\nE\t\nE\t evidenciar o investimento da indústria da moda \nem novos mercados.\nQUESTÃO 04\t\nWHAT DO\nI DO NOW?\nWHEN IS\nHE GOING TO\nTAKE MY\nCARD?\nHE\nSEEMS A BIT\nUNFRIENDLY.\nWHOA !\nPERSONAL\nSPACE\nINVASION !\nI´M\nNEXT, WHAT\nSHOULD I\nDO?\nINTERNATIONAL ARRIVALS",
+  "processado_em": "2026-05-11T23:28:38.108367",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

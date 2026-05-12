@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 88\t\nAs águas das precipitações atmosféricas sobre \nos continentes nas regiões não geladas podem tomar \ntrês caminhos: evaporação imediata, infiltração ou \nescoamento. A relação entre essas três possibilidades, \nassim como das suas respectivas intensidades quando \nocorrem em conjunto, o que é mais frequente, depende \nde vários fatores, tais como clima, morfologia do \nterreno, cobertura vegetal e constituição litológica.\nLEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989 (adaptado).\nA preservação da cobertura vegetal interfere no \nprocesso mencionado contribuindo para a\nA\t decomposição do relevo.\nB\t redução da evapotranspiração.\nC\t contenção do processo de erosão.\nD\t desaceleração do intemperismo químico.\nE\t deposição de sedimentos no solo.",
+  "processado_em": "2026-05-11T23:27:02.886270",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

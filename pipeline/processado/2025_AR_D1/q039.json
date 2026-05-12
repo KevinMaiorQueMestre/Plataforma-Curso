@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q039",
+  "imagem": "q039.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 39,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 39\t\nDo rádio a\nDesde a disseminação do rádio no Brasil, entre as décadas \nas pessoas passaram a dedicar uma parte de seu dia para escuta\nde som. O radiojornalismo, por sua vez, teve seu pontapé inicial d\ndurante a Segunda Guerra Mundial (1939-1945).\nQuando a TV surgiu, esperava-se que o rádio fosse totalmente s\nnão cobria todos os lugares, diferentemente do rádio. Com o sur\nmóveis, o rádio foi incorporado a essas novas tecnologias até o d\nmeio de comunicação versátil e democrático na área jornalística.\nPara um pesquisador da Universidade Federal de Uberlândia\nser consumido e se reinventou com o tempo. “O podcast é uma\nALVES, A.; ALVES, C\nAo abordar a trajetória dos meios de comunicação, esse texto pr\nA\ttecnologia digital e seus desdobramentos no desenvolviment\nB\tevolução da tecnologia digital com o predomínio do podcast \nC\tpermanência do rádio e sua evolução por meio da tecnologia\nD\tinfluência da televisão sobre os programas de radiojornalism\nE\tinterferência da tecnologia digital nas interações humanas.",
+  "processado_em": "2026-05-08T14:06:59.725691",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

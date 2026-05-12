@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\n$QDEROLVPR\u0003 H\u0003 FDWDEROLVPR\u0003 VmR\u0003 SURFHVVRV\u0003 FHOXODUHV\u0003\nDQWDJ{QLFRV\u000f\u0003 TXH\u0003 VmR\u0003 FRQWURODGRV\u0003 SULQFLSDOPHQWH\u0003 SHOD\u0003\nDomR\u0003KRUPRQDO\u0011\u00033RU\u0003H[HPSOR\u000f\u0003QR\u0003ItJDGR\u0003D\u0003LQVXOLQD\u0003DWXD\u0003\nFRPR\u0003 XP\u0003 KRUP{QLR\u0003 FRP\u0003 DomR\u0003 DQDEyOLFD\u000f\u0003 HQTXDQWR\u0003 R\u0003\nJOXFDJRQ\u0003WHP\u0003DomR\u0003FDWDEyOLFD\u0003H\u0003DPERV\u0003VmR\u0003VHFUHWDGRV\u0003\nem resposta ao nível de glicose sanguínea.\nEm caso de um indivíduo com hipoglicemia, o hormônio \ncitado que atua no catabolismo induzirá o organismo a\nA UHDOL]DU\u0003D\u0003IHUPHQWDomR\u0003OiWLFD\u0011\nB metabolizar aerobicamente a glicose.\nC produzir aminoácidos a partir de ácidos graxos.\nD transformar ácidos graxos em glicogênio.\nE HVWLPXODU\u0003D\u0003XWLOL]DomR\u0003GR\u0003JOLFRJrQLR\u0011",
+  "processado_em": "2026-05-11T23:26:47.405919",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

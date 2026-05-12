@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nUm adolescente vai a um parque de diversões \ntendo, prioritariamente, o desejo de ir a um brinquedo \nque se encontra na área IV, dentre as áreas I, II, III, IV \ne V existentes. O esquema ilustra o mapa do parque, \ncom a localização da entrada, das cinco áreas com os \nbrinquedos disponíveis e dos possíveis caminhos para se \nchegar a cada área. O adolescente não tem conhecimento \ndo mapa do parque e decide ir caminhando da entrada \naté chegar à área IV.\nI\nV\nIV\nIII\nII\nEntrada\nSuponha que relativamente a cada ramificação, \nas opções existentes de percurso pelos caminhos \napresentem iguais probabilidades de escolha, que a \ncaminhada foi feita escolhendo ao acaso os caminhos \nexistentes e que, ao tomar um caminho que chegue a \numa área distinta da IV, o adolescente necessariamente \npassa por ela ou retorna.\nNessas condições, a probabilidade de ele chegar à área \nIV sem passar por outras áreas e sem retornar é igual a\nA\n1\n96\nB\n1\n64\nC\n5\n24\nD\n1\n4\nE\n5\n12",
+  "processado_em": "2026-05-08T14:01:22.110412",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

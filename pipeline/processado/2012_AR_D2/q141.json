@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 141\t\nMaria quer inovar em sua loja de embalagens e decidiu \nvender caixas com diferentes formatos. Nas imagens \napresentadas estão as planificações dessas caixas.\nQuais serão os sólidos geométricos que Maria obterá a \npartir dessas planificações?\nA\t Cilindro, prisma de base pentagonal e pirâmide.\nB\t Cone, prisma de base pentagonal e pirâmide.\nC\t Cone, tronco de pirâmide e pirâmide.\nD\t Cilindro, tronco de pirâmide e prisma.\nE\t Cilindro, prisma e tronco de cone.\n,",
+  "processado_em": "2026-05-08T13:59:46.290396",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

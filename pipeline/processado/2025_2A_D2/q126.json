@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 126 \nUm experimento foi realizado para investigar se planárias s\ncorpo, além dos gânglios cerebrais. Quatro linhagens diferentes \ndiariamente, durante uma semana, para acharem o ponto ond\ntempo dispendido pelos animais para encontrarem o alimento\ne, após 14 dias, novos gânglios cerebrais haviam sido formad\nplanárias no mesmo ambiente do início do experimento e me\napresenta os resultados do experimento.\nLinhagem\nTempo dispendido para\nDia 1\nDia 2\nDia 3\nD\n1\n89\n75\n57\n2\n92\n78\n51\n3\n89\n73\n49\n4\n89\n74\n48\nQuais linhagens são capazes de armazenar informações em ou\nA 1 e 2\nB 3 e 4\nC 1 e 4\nD 2 e 3\nE 1, 3 e 4",
+  "processado_em": "2026-05-08T14:06:36.069703",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

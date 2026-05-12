@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 94        \nOs fones de ouvido  tradicionais transmitem a música \ndiretamente para os nossos ouvidos. Já os modelos \ndotados de tecnologia redutora de ruído — Cancelamento \nde Ruído (CR) —  além de transmitirem música, também \nreduzem todo ruído inconsistente à nossa volta, como \no barulho de turbinas de avião e aspiradores de pó. Os \nfones de ouvido CR não reduzem realmente barulhos \nirregulares como discursos e choros de bebês. Mesmo \nassim, a supressão do ronco das turbinas do avião \ncontribui para reduzir a “fadiga de ruído”, um cansaço \npersistente provocado pela exposição a um barulho alto \npor horas a fio. Esses aparelhos também permitem que \nnós ouçamos músicas ou assistamos a vídeos no trem ou \nno avião a um volume muito menor (e mais seguro).\nDisponível em: http://tecnologia.uol.com.br. Acesso em: 21 abr. 2015 (adaptado).\nA tecnologia redutora de ruído CR utilizada na produção \nde fones de ouvido baseia-se em qual fenômeno \nondulatório?\nA \t Absorção.\nB \t Interferência.\nC \t Polarização.\nD \t Reflexão.\nE \t Difração.",
+  "processado_em": "2026-05-11T23:28:13.021595",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 154\t\nJoão propôs um desafio a Bruno, seu colega de \nclasse: ele iria descrever um deslocamento pela pirâmide \na seguir e Bruno deveria desenhar a projeção desse \ndeslocamento no plano da base da pirâmide.\nO deslocamento descrito por João foi: mova-se pela \npirâmide, sempre em linha reta, do ponto A ao ponto E, \na seguir do ponto E ao ponto M, e depois de M a C.\nO desenho que Bruno deve fazer é\nA\nD\nB \nE\nC",
+  "processado_em": "2026-05-08T13:59:52.818868",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

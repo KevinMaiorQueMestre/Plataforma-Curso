@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 80\t\nA condição física apresentada pelo personagem da tirinha \nA\t anemia.\nB\t beribéri.\nC\t diabetes.\nD\t escorbuto.\nE",
+  "processado_em": "2026-05-08T13:59:02.516266",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 291.0
+  }
+}

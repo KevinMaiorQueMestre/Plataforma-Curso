@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t relevância da fala de prestígio na época da Corte \nportuguesa.\nB \t inovação do português brasileiro sem equivalente em \nPortugal.\nC \t razões históricas do preconceito sobre a fala regional \nno Brasil.\nD \t importância do estudo, da preservação e do respeito \nà língua falada no Brasil.\nE \t variedade de uso da língua, característica da literatura \ne da música brasileiras.\nQuestão 7          \n‘Todas chora’\nO erro de concordância impresso\nna sandália ao lado é proposital, viu?\nUma estilista pegou carona no Twitter e, por \nextensão, nos bordões “todas comemora” e \n“todas chora”, muito usados na rede.\nEm versão rasteirinha, custa R$ 49.\nO Globo 12 fev 2012 (adaptado)",
+  "processado_em": "2026-05-08T14:03:23.501366",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

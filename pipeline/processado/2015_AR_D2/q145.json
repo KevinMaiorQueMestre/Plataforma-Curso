@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nUma indústria produz malhas de proteção solar \npara serem aplicadas em vidros, de modo a diminuir a \npassagem de luz, a partir de fitas plásticas entrelaçadas \nperpendicularmente. Nas direções vertical e horizontal, \nsão aplicadas fitas de 1 milímetro de largura, tal que a \ndistância entre elas é de (d − 1) milímetros, conforme \na figura. O material utilizado não permite a passagem \nda luz, ou seja, somente o raio de luz que atingir as \nlacunas deixadas pelo entrelaçamento consegue \ntranspor essa proteção.\nA taxa de cobertura do vidro é o percentual da área \nda região coberta pelas fitas da malha, que são colocadas \nparalelamente às bordas do vidro.\n1 mm\n1 mm\n1 mm\n1 mm\nd\nd\nd\nd\nd\nd\nd\n1 mm\n1 mm\n1 mm\n1 mm\n1 mm\nEssa indústria recebeu a encomenda de uma malha \nde proteção solar para ser aplicada em um vidro retangular",
+  "processado_em": "2026-05-08T14:00:56.971833",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

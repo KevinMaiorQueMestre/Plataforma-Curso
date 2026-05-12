@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 99\t\nA \npoluição \nradioativa \ncompreende \nmais \nde \n200 nuclídeos, sendo que, do ponto de vista de impacto \nambiental, destacam-se o césio-137 e o estrôncio-90. \nA maior contribuição de radionuclídeos antropogênicos \nno meio marinho ocorreu durante as décadas de 1950 \ne 1960, como resultado dos testes nucleares realizados \nna atmosfera. O estrôncio-90 pode se acumular nos \norganismos vivos e em cadeias alimentares e, em \nrazão de sua semelhança química, pode participar no \nequilíbrio com carbonato e substituir o cálcio em diversos \nprocessos biológicos.\nFIGUEIRA, R. C. L.; CUNHA, I. I. L. A contaminação dos oceanos por \nradionuclídeos antropogênicos. Química Nova, n. 21, 1998 (adaptado).\nAo entrar numa cadeia alimentar da qual o homem \nfaz parte, em qual tecido do organismo humano o \nestrôncio-90 será acumulado predominantemente?\nA\t Cartilaginoso.\nB\t Sanguíneo.\nC\t Muscular.\nD\t Nervoso.\nE\t Ósseo.",
+  "processado_em": "2026-05-11T23:27:32.658258",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

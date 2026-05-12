@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 97\t\nUtilizando-se um mesmo meio nutritivo, três gêneros \nbacterianos diferentes foram submetidos ao cultivo em \ntubos de ensaio. Após certo período de crescimento da \ncultura bacteriana em condições físico-químicas ideais, \nobservou-se que o padrão de distribuição das células \n(representadas por pontos na figura) ao longo dos tubos \nera diferente em cada um dos casos.\nEm relação ao metabolismo energético, os microrganismos \npresentes nos tubos 1, 2 e 3 são classificados, \nrespectivamente, como\nA\tanaeróbio facultativo, anaeróbio estrito e aeróbio estrito.\nB\tanaeróbio facultativo, aeróbio estrito e anaeróbio estrito.\nC\taeróbio estrito, anaeróbio estrito e anaeróbio facultativo.\nD\tanaeróbio estrito, aeróbio estrito e anaeróbio facultativo.\nE aeróbio estrito anaeróbio facultativo e anaeróbio estrito",
+  "processado_em": "2026-05-08T14:06:16.733260",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

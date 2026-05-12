@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 134\t\nEntre os medicamentos mais comuns consumidos pa\ncom ação anti-inflamatória e efeito analgésico, que é com\na mistura com outro isômero óptico. A fórmula estrutural p\nIbup\nAlém do ibuprofeno, destacam-se também os princípio\no alívio da dor:\nN\nH\nO\nFenacetina \nO\nO−\nDiclofenaco sódico\nNH\nCl\nCl\nNa+\nParaceta\nHO\nN\nH\nO\nO princípio ativo que apresenta o mesmo tipo de isomeria\nA\t\nA\t fenacetina.\nB\t\nB\t paracetamol.\nC\t\nC\t dipirona sódica.\nD\t\nD\t diclofenaco sódico.\nE\t\nE\t butilbrometo de escopolamina.",
+  "processado_em": "2026-05-08T14:05:45.126354",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

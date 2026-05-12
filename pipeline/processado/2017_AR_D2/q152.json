@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nEm um teleférico turístico, bondinhos saem de \nestações ao nível do mar e do topo de uma montanha. \nA travessia dura 1,5 minuto e ambos os bondinhos se \ndeslocam à mesma velocidade. Quarenta segundos após \no bondinho A partir da estação ao nível do mar, ele cruza \ncom o bondinho B, que havia saído do topo da montanha.\nQuantos segundos após a partida do bondinho B partiu o \nbondinho A?\nA\t 5\nB\t 10\nC\t 15\nD\t 20\nE\t 25",
+  "processado_em": "2026-05-11T23:25:53.477424",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

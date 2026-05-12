@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 24\t\nClaude Monet, influenciado por Turner, passou a \npintar temas que apresentassem fluidez. Para isso, \nele fragmentou a imagem com pinceladas de cor \npura, passando a retratar a impressão captada diante \ndo modelo. Monet inspirava-se, por exemplo, no pôr do \nsol, na luminosidade do feno ou num jardim florido. \nSuas obras contêm a característica de dissociação das \ncores e gradação dos tons complementares. As tintas não \neram misturadas na palheta, dessa forma, a luz emanada \ndas manchas e das pinceladas coloridas impressionava a \nretina, formando novas cores.\nDisponível em: http://professormarioartes.blogspot.com. \nAcesso em: 12 ago. 2012 (adaptado).\nDiante dessa nova concepção artística, a cor é\nA\t\nA\t composta por uma substância química que, sob a \nincidência de raios luminosos, absorve-os, refletindo \npara os nossos olhos os raios de tons vermelhos.\nB\t\nB\t formada pelo equilíbrio óptico causado pela \nimpressão simultânea de cores como magenta, \nciano e amarelo, consideradas cores primárias.\nC\t\nC\t imaterial e só se pode senti-la, passando a ser uma \nsensação provocada pela ação dos raios de luz sobre \nos nossos olhos.\nD\t\nD\t resultante da mistura óptica de duas outras que estão \npresentes em sua composição de origem, causando \num equilíbrio entre elas.\nE\t\nE\t física, presente nos raios solares e na luz branca, \nsendo impossível perceber sua existência pela \ndecomposição da luz solar.",
+  "processado_em": "2026-05-08T14:04:38.442299",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

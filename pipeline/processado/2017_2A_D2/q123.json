@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\n$\u0003¿JXUD\u0003PRVWUD\u0003D\u0003EDWHULD\u0003GH\u0003XP\u0003FRPSXWDGRU\u0003SRUWiWLO\u000f\u0003\na qual necessita de uma corrente elétrica de 2 A para \nfuncionar corretamente.\nQuando a bateria está completamente carregada, o tempo \nmáximo, em minuto, que esse notebook pode ser usado \nantes que ela “descarregue” completamente é\nA 24,4.\nB 36,7.\nC 132.\nD 333.\nE 528.",
+  "processado_em": "2026-05-11T23:25:29.057224",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nEm 2017, foram publicados os resultados de uma \npesquisa sobre a distância média preferida entre pessoas \n“estranhas”, “conhecidas” e “amigas”, dependendo do local \nonde vivem, conforme apresentado.\nDistância média preferida (cm)\nSOROKOWSKA, A. et al. Prefered Interpersonal Distances: a Global \nComparison. J Cross-Cultural Psychol., n. 48, 2017 (adaptado).\nDentre os locais considerados no gráfico, os que \napresentam as menores distâncias médias preferidas entre \n“estranhos”, “conhecidos” e “amigos” são, respectivamente,\nA\tChina, Índia e China.\nB\tArgentina, Argentina e Noruega.\nC\tNoruega, Argentina e Argentina.\nD\tNigéria, Nigéria e México.\nE\tChina, Índia e Nigéria.",
+  "processado_em": "2026-05-08T14:06:06.161769",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

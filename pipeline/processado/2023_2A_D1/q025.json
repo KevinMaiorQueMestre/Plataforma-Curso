@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 25\t\nTerça-feira, 30 de maio de 1893.\nEu gosto muito de todas as festas de Diamantina; mas \nquando são na igreja do Rosário, que é quase pegada \nà chácara de vovó, eu gosto ainda mais. Até parece que \na festa é nossa. E este ano foi mesmo. Foi sorteada para \nrainha do Rosário uma ex-escrava de vovó chamada \nJúlia e para rei um negro muito entusiasmado que eu \nnão conhecia. Coitada de Júlia! Ela vinha há muito tempo \najuntando dinheiro para comprar um rancho. Gastou tudo \nna festa e ainda ficou devendo. Agora é que eu vi como",
+  "processado_em": "2026-05-08T14:05:18.041947",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

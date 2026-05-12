@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nJornal Zero Hora, 2 mar. 2006.\nNa criação do texto, o chargista Iotti usa criativamente um \nintertexto: os traços reconstroem uma cena de Guernica, \npainel de Pablo Picasso que retrata os horrores e a \ndestruição provocados pelo bombardeio a uma pequena \ncidade da Espanha. Na charge, publicada no período de \ncarnaval, recebe destaque a figura do carro, elemento \nintroduzido por Iotti no intertexto. Além dessa figura, a \nlinguagem verbal contribui para estabelecer um diálogo \nentre a obra de Picasso e a charge, ao explorar\nA\t uma referência ao contexto, “trânsito no feriadão”, \nesclarecendo-se o referente tanto do texto de Iotti \nquanto da obra de Picasso.\nB\t uma referência ao tempo presente, com o emprego \nda forma verbal “é”, evidenciando-se a atualidade do \ntema abordado tanto pelo pintor espanhol quanto pelo \nchargista brasileiro.\nC\t um termo pejorativo, “trânsito”, reforçando-se a \nimagem negativa de mundo caótico presente tanto \nem Guernica quanto na charge.\nD\t uma referência temporal, “sempre”, referindo-se \nà permanência de tragédias retratadas tanto em \nGuernica quanto na charge.\nE\t uma expressão polissêmica, “quadro dramático”, \nremetendo-se tanto à obra pictórica quanto ao \ncontexto do trânsito brasileiro.",
+  "processado_em": "2026-05-08T14:00:35.553762",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

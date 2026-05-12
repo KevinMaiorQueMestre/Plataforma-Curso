@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 96 \nEm seu metabolismo, as plantas transformam energia \nluminosa em energia química, presente na matéria orgânica \nsintetizada. Parte dessa energia ficará disponível aos \nconsumidores primários; outra parte será destinada a um \nprocesso específico do seu próprio metabolismo, tornando-se \nindisponível aos herbívoros.\nQual é o processo específico a que se refere o texto?\nA Transpiração.\nB Fermentação.\nC Quimiossíntese.\nD Respiração celular.\nE Fixação do carbono.",
+  "processado_em": "2026-05-08T14:06:33.630303",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

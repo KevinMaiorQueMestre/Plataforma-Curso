@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 152 \nA produtividade P de um tipo de semente depende da \nquantidade Q de fertilizante aplicada, ambas em quilograma por \nhectare. Foram realizados quatro experimentos em pequenas \nregiões, onde foi possível medir a produção para diferentes \nvalores de Q para aquele tipo de solo, obtendo-se os seguintes \nresultados:\n• região 1: Q = 0 kg/ha resultou P = 1 000 kg/ha;\n• região 2: Q = 100 kg/ha resultou P = 6 000 kg/ha;\n• região 3: Q = 200 kg/ha resultou P = 9 000 kg/ha;\n• região 4: Q = 500 kg/ha resultou P = 6 000 kg/ha.\nA produtividade P é modelada por uma função quadrática na \nvariável Q. O objetivo desses experimentos é obter a dosagem \nideal de fertilizante que torne a produção máxima.\nQual deve ser a dosagem de fertilizante a ser aplicada, \nem quilograma por hectare, para que a produção seja máxima?\nA 200\nB 250\nC 300\nD 350\nE 500",
+  "processado_em": "2026-05-08T14:06:37.414304",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q028",
+  "imagem": "q028.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 28,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 28\t\nA palavra saudade faz parte do vocabulário cotidiano \ndos portugueses e, também, do povo brasileiro. Mas \nafinal, qual é a sua verdadeira origem? Existem algumas \nespeculações sobre a origem de saudade. Há quem \ndefenda que a palavra vem do árabe saudah. Outros \nentendem que a sua origem vem do latim sólitas, que \nsignifica solidão.\nAlguns especialistas indicam que palavras \ncomo saud, saudá e suaida significam “sangue pisado” e \n“preto dentro do coração”. A metáfora perfeita para alguém \nque carrega no seu coração uma profunda tristeza, tristeza \nesta que pode ser causada pela saudade. Os árabes \nutilizam o termo as-saudá quando querem se referir \na uma doença do fígado, diagnosticada por eles como \n“melancolia do paciente”.",
+  "processado_em": "2026-05-08T14:05:18.191177",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

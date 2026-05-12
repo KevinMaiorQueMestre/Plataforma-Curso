@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 122\t\nAs cangas são ambientes resultantes da atuação, ao longo \nde milhões de anos, de chuvas, enxurradas, calor e ventos em \nrochas ricas em ferro. São compostas por até 90% de óxidos \nde ferro e contêm solos muito ácidos, rasos, com reduzidos \níndices de fertilidade e temperaturas que atingem quase 70 °C \nna superfície. Ao contrário do que se imagina, esse tipo de \nambiente abriga comunidades de plantas e animais com elevado \nnúmero de espécies e distribuição restrita.\nCARMO, F. F. et al. Ilhas de ferro estratégicas para a conservação. \nDisponível em: http://cienciahoje.org.br. \nAcesso em: 2 dez. 2018 (adaptado).\nA seleção adaptativa nesses ambientes favorece a ocorrência \nde espécies\nA\texóticas.\nB\tmigratórias.\nC\tendêmicas.\nD\tdominantes.\nE\tgeneralistas.",
+  "processado_em": "2026-05-08T14:07:07.418569",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nUma pesquisa de mercado foi realizada entre os \nconsumidores das classes sociais A, B, C e D que \ncostumam participar de promoções tipo sorteio ou \nconcurso. Os dados comparativos, expressos no \ngráfico, revelam a participação desses consumidores \nem \ncinco \ncategorias: \nvia \nCorreios \n(juntando \nembalagens ou recortando códigos de barra), via \ninternet (cadastrando-se no site da empresa/marca \npromotora), via mídias sociais (redes sociais), via SMS \n(mensagem por celular) ou via rádio/TV.\nParticipação em promoções do tipo sorteio ou concurso em uma região\nPercentual\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0\n34\n40\n35\n28\n24\n20\n30\n28\nA/B\nC/D\nCorreios\nInternet\nMídias Sociais\nRádio/TV\nSMS\n37\n33\nUma empresa vai lançar uma promoção utilizando \napenas uma categoria nas classes A e B (A/B) e uma",
+  "processado_em": "2026-05-08T14:00:59.451300",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

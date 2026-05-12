@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 118\t\nUm menino está ajudando sua mãe na cozinha. Ela \nlhe pede que tire do fogo uma panela que já estava lá há \nbastante tempo, em fogo baixo, orientando-lhe que tome \ncuidado para não se queimar, buscando tocar apenas no \ncabo de madeira, e não na base de metal da panela.\nA mãe lhe fez essa recomendação porque o metal, em \nrelação à madeira, apresenta maior\nA\t\nA\t calor específico.\nB\t\nB\t energia interna.\nC\t\nC\t temperatura.\nD\t\nD\t condutividade térmica.\nE\t\nE\t coeficiente de dilatação térmica.",
+  "processado_em": "2026-05-08T14:04:47.702865",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nO psicólogo de uma empresa aplica um teste para \nanalisar a aptidão de um candidato a determinado \ncargo. O teste consiste em uma série de perguntas \ncujas respostas devem ser verdadeiro ou falso e termina \nquando o psicólogo fizer a décima pergunta ou quando o \ncandidato der a segunda resposta errada. Com base em \ntestes anteriores, o psicólogo sabe que a probabilidade \nde o candidato errar uma resposta é 0,20.\nA probabilidade de o teste terminar na quinta pergunta é\nA\t 0,02048.\nB\t 0,08192.\nC\t 0,24000.\nD\t 0,40960.\nE\t 0,49152.",
+  "processado_em": "2026-05-08T14:00:39.309896",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

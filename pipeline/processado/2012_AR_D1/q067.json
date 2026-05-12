@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 67\t\nO manual que acompanha uma ducha higiênica \ninforma que a pressão mínima da água para o seu \nfuncionamento apropriado é de 20 kPa. A figura mostra a \ninstalação hidráulica com a caixa d’água e o cano ao qual \ndeve ser conectada a ducha.\nCAIXA \nD’ÁGUA\nO valor da pressão da água na ducha está associado \nà altura\nA\t h1.\nB\t h2.\nC\t h3.\nD\t h4.\nE\t h5.",
+  "processado_em": "2026-05-08T13:59:02.499391",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

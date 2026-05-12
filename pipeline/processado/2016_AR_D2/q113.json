@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\t\nQuem procura a essência de um conto no espaço que \nfica entre a obra e seu autor comete um erro: é muito \nmelhor procurar não no terreno que fica entre o escritor \ne sua obra, mas justamente no terreno que fica entre o \ntexto e seu leitor.\nOZ, A. De amor e trevas. São Paulo: Cia. das Letras, 2005 (fragmento).\nA progressão temática de um texto pode ser estruturada \npor meio de diferentes recursos coesivos, entre os quais \nse destaca a pontuação. Nesse texto, o emprego dos dois \npontos caracteriza uma operação textual realizada com a \nfinalidade de\nA\t comparar elementos opostos.\nB\t relacionar informações gradativas.\nC\t intensificar um problema conceitual.\nD\t introduzir um argumento esclarecedor.\nE\t assinalar uma consequência hipotética.",
+  "processado_em": "2026-05-08T14:01:16.298026",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

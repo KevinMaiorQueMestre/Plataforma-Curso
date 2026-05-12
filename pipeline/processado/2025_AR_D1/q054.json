@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 54\t\nA ideia de êxodo urbano assume ares caricaturais. Pega a mais \nreduzida parte da pirâmide social e projeta para todos seus desejos \ndefensivos. Se o êxodo urbano for compreendido como aquisição \nde uma segunda residência, então não estamos, de fato, falando \nde êxodo, mas da reversão de um excedente de renda de uma \npequena fração da elite para as franjas metropolitanas. Se o êxodo \nurbano for compreendido como retorno aos municípios menos \npovoados, então não estamos, de fato, falando de êxodo urbano, \nmas de um movimento de migração de pessoas cuja estabilidade \nno emprego e a elevada renda lhes permitem simular, nas ilhas \nurbanas do interior agropecuário, a vida urbana metropolitana.\nARRAIS, T. A. O distópico êxodo urbano. Revista e, n. 11, maio 2021 (adaptado).\nA crítica apresentada no texto evidencia uma dinâmica socioespacial \nmarcada pela\nA\tvalorização de tradições rurais.\nB\tredução de plantações agrícolas.\nC\testagnação de atividades comerciais.\nD\tprecariedade de infraestruturas rodoviárias.\nE\tseletividade de deslocamentos populacionais.",
+  "processado_em": "2026-05-08T14:07:00.682656",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

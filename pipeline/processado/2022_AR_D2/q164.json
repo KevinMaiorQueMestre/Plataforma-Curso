@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nA esperança de vida ao nascer é o número médio \nde anos que um indivíduo tende a viver a partir de seu \nnascimento, considerando dados da população. No Brasil, \nesse número vem aumentando consideravelmente, como \nmostra o gráfico.\nEsperança de vida ao nascer\n75\n74\n73\n72\n2008\n72,78\n73,09\n73,4\n73,67\n73,95\n74,23\n2009\n2010\n2011\n2012\n2013\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\nPode-se observar que a esperança de vida ao nascer \nem 2012 foi exatamente a média das registradas nos \nanos de 2011 e 2013. Suponha que esse fato também \nocorreu com a esperança de vida ao nascer em 2013, em \nrelação às esperanças de vida de 2012 e de 2014.\nCaso a suposição feita tenha sido confirmada, a \nesperança de vida ao nascer no Brasil no ano de 2014 \nterá sido, em ano, igual a\nA\t\nA\t 74,23.\nB\t\nB\t 74,51.\nC\t\nC\t 75,07.\nD\t\nD\t 75,23.\nE\t\nE\t 78,49.",
+  "processado_em": "2026-05-08T14:05:12.652594",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

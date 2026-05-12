@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q041",
+  "imagem": "q041.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 41,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 41\t\nEm 1961, o presidente De Gaulle apelou com êxito \naos recrutas franceses contra o golpe militar dos seus \ncomandados, porque os soldados podiam ouvi-lo em \nrádios portáteis. Na década de 1970, os discursos do \naiatolá Khomeini, líder exilado da futura Revolução \nIraniana, eram gravados em fita magnética e prontamente \nlevados para o Irã, copiados e difundidos.\nHOBSBAWM, E. Era dos extremos: o breve século XX (1914-1991). \nSão Paulo: Cia. das Letras, 1995.\nOs exemplos mencionados no texto evidenciam um uso \ndos meios de comunicação identificado na\nA\t manipulação da vontade popular.\nB\t promoção da mobilização política.\nC\t insubordinação das tropas militares.\nD\t implantação de governos autoritários.\nE\t valorização dos socialmente desfavorecidos.",
+  "processado_em": "2026-05-08T14:00:29.721208",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

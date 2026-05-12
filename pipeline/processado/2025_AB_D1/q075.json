@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 75\t\nA cidade atual é uma cidade de contradições; abriga muitas \nethnes, muitas classes, muitas religiões. É fragmentária demais, \ncheia de contrastes e conflitos. Consequentemente, tem muitas \nfaces, não uma apenas. É a própria condição de abertura que \ntorna nossa cidade tão convidativa e atraente para sua crescente \nmultidão de habitantes. A falta de uma imagem coerente e \nexplícita pode, em nossas circunstâncias, ser uma virtude \npositiva, nunca um defeito ou mesmo um problema.\nRYKWERT, J. A sedução do lugar: a história e o futuro da cidade. \nSão Paulo: Martins Fontes, 2004 (adaptado).\nNo texto, a complexidade das cidades contemporâneas \napresenta-se como consequência da\nA\tinalterabilidade dos valores morais.\nB\tinviabilidade das diferenças sociais.\nC\tmultiplicidade de conexões culturais.\nD\thomogeneidade dos tecidos urbanos.\nE\tunidade dos comportamentos coletivos.",
+  "processado_em": "2026-05-08T14:06:47.145585",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

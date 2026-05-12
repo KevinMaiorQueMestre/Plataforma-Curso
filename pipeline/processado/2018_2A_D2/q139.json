@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nUma empresa de construção comprou um terreno \nde formato retangular por R$ 700 000,00. O terreno tem \n90 m de comprimento e 240 m de largura. O engenheiro \nda empresa elaborou três projetos diferentes para serem \navaliados pela direção da construtora, da seguinte \nmaneira:\nProjeto 1: dividir o terreno em lotes iguais de \n45 m × 10 m, sem ruas entre os lotes, e vender cada lote \npor R$ 23 000,00;\nProjeto 2: dividir o terreno em lotes iguais de \n20 m × 30 m, deixando entre lotes ruas de 10 m de \nlargura e 240 m de comprimento, e vender cada lote \npor R$ 35 000,00;\nProjeto 3: dividir o terreno em lotes iguais de \n35 m × 20 m, deixando entre lotes ruas de 20 m de \nlargura e 240 m de comprimento, e vender cada lote \npor R$ 45 000,00.\nA direção da empresa decidiu dividir o terreno e utilizar \no projeto que permitirá o maior lucro, sendo que este será \nigual ao valor obtido pela venda dos lotes, menos o valor \nda compra do terreno.\nNesse caso, o lucro da construtora, em real, será de\nA\t 380 000,00.\nB\t 404 000,00.\nC\t 1 104 000,00.\nD\t 1 120 000,00.\nE\t 1 460 000,00.",
+  "processado_em": "2026-05-11T23:26:22.808465",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

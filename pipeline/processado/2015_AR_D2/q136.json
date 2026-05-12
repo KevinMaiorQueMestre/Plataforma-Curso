@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\t\nUm estudante está pesquisando o desenvolvimento \nde certo tipo de bactéria. Para essa pesquisa, ele utiliza \numa estufa para armazenar as bactérias. A temperatura \nno interior dessa estufa, em graus Celsius, é dada pela \nexpressão T(h) = − h2 + 22h − 85, em que h representa \nas horas do dia. Sabe-se que o número de bactérias é o \nmaior possível quando a estufa atinge sua temperatura \nmáxima e, nesse momento, ele deve retirá-las da estufa. \nA tabela associa intervalos de temperatura, em graus \nCelsius, com as classificações: muito baixa, baixa, média, \nalta e muito alta.\nIntervalos de \ntemperatura (°C)\nClassificação\nT < 0\nMuito baixa\n0 < T < 17\nBaixa\n17 < T < 30\nMédia\n30 < T < 43\nAlta\nT > 43\nMuito alta\nQuando o estudante obtém o maior número possível \nde bactérias, a temperatura no interior da estufa está \nclassificada como\nA\t muito baixa.\nB\t baixa.\nC\t média.\nD\t alta.\nE muito alta.",
+  "processado_em": "2026-05-08T14:00:56.402202",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

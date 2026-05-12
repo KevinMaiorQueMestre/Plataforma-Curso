@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 18\nQUESTÃO 139\t\nO cultivo de uma flor rara só é viável se do mês do pla\nseguintes peculiaridades:\n•\t a variação do nível de chuvas (pluviosidade), nesse\n•\t a temperatura mínima, nesses meses, for superior a\n•\t ocorrer, nesse período, um leve aumento não super\nUm floricultor, pretendendo investir no plantio dessa flo\nlhe apresentou o gráfico com as condições previstas para \n250\n200\n150\n100\n50\n0\n2012\nMaio\nJunho\nJulho\nAgosto\nSetembro\nOutubro\nNovembro\n Pluviosidade\n Tempera\nPluviosidade (mm)\nCom base nas informações do gráfico, o floricultor veri\nO mês escolhido para o plantio foi\nA\t janeiro.\nB\t fevereiro.\nC\t agosto.\nD\t novembro.\nE\t dezembro.",
+  "processado_em": "2026-05-08T14:01:18.156666",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

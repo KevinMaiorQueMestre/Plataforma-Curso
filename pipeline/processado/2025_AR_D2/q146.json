@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 146\t\nUma pessoa pretende instalar um kit de gás natural veicular (\ne instalação desse kit, havia cinco modelos de cilindro para arma\nrespectivamente: 10, 14, 17, 21 e 25. O preço do cilindro é propo\n7 dias por semana, e o consumo do GNV é de 1 m3 a cada 13 km\npreço e que garanta apenas um abastecimento semanal.\nNessas condições, qual será a capacidade, em metro cúbico, do c\nA\t10\nB\t14\nC\t17\nD\t21\nE 25",
+  "processado_em": "2026-05-08T14:07:08.857464",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

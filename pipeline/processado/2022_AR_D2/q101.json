@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM \nda pista no intervalo de 1 s. A diferença de potencial (d.d.p.) \ncorresponde à quantidade de energia por carro necessária \npara o deslocamento de 1 m. De forma análoga à lei de \nOhm, cada via é classificada pela sua resistência, sendo \na de maior resistência a mais congestionada. O aplicativo \nmostra as rotas em ordem crescente, ou seja, da rota de \nmenor para a de maior resistência.\nComo teste para o sistema, são utilizadas três \npossíveis vias para uma viagem de A até B, com os \nvalores de d.d.p. e corrente conforme a tabela.\nRota\nd.d.p.\nJ\ncarro m\n\u001f\n\u001e\n\u001d\u001c\n\u001b\n\u001a\u0019\nCorrente\ncarro\ns\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a\n1\n510\n4\n2\n608\n4\n3\n575\n3\nQUESTÃO 101\t\nNo processo de captação da luz pelo olho para a \nformação de imagens estão envolvidas duas estruturas \ncelulares: os cones e os bastonetes. Os cones são sensíveis \nà energia dos fótons, e os bastonetes, à quantidade de \nfótons incidentes. A energia dos fótons que compõem \nos raios luminosos está associada à sua frequência, e a \nintensidade, ao número de fótons incidentes.\nUm animal que tem bastonetes mais sensíveis irá\nA\t\nA\t apresentar daltonismo.\nB\t\nB\t perceber cores fora do espectro do visível.\nC\t\nC\t enxergar bem em ambientes mal iluminados.\nD\t\nD\t necessitar de mais luminosidade para enxergar.\nE\t\nE\t fazer uma pequena distinção de cores em ambientes \niluminados.",
+  "processado_em": "2026-05-11T23:28:58.894868",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

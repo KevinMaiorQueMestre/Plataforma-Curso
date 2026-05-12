@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 111        \nMegaespetáculos com queima de grande quantidade \nde fogos de artifício em festas de final de ano são muito \ncomuns no Brasil. Após a queima, grande quantidade \nde material particulado permanece suspensa no ar. \nEntre os resíduos, encontram-se compostos de sódio, \npotássio, bário, cálcio, chumbo, antimônio, cromo, além \nde percloratos e gases, como os dióxidos de nitrogênio \ne enxofre.\nBRUNNING, A. The Chemistry of Firework Pollution. Disponível em:\nwww.compoundchem.com. Acesso em: 1 dez. 2017 (adaptado).\nEsses espetáculos promovem riscos ambientais, porque",
+  "processado_em": "2026-05-11T23:28:13.888830",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

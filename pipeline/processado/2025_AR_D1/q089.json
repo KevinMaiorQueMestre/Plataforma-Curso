@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 89\t\nTEXTO I\nEu escolhi Bezalel e lhe dei competência e habilidade \npara fazer todo tipo de trabalho artístico; para fazer desenhos \ne trabalhar em ouro, prata e bronze; para lapidar e montar \npedras preciosas; para entalhar madeira; e para fazer todo \ntipo de artesanato.\nBÍBLIA. Êxodo 31, 2-5. São Paulo: Paulinas, 2005.\nTEXTO II\nMoisés foi educado em toda a sabedoria dos egípcios e \nveio a ser poderoso em palavras e obras.\nBÍBLIA. Atos 7, 22. São Paulo: Paulinas, 2005.\nTEXTO III\nSe conhecêsseis a ciência certa, logo renunciarias à ostentação.\nALCORÃO. Sura 102, 5. São Paulo: Tangará, 1975.\nEscritos em temporalidades diferentes (Antiguidade e Idade \nMédia), os textos sagrados aproximam-se ao mostrar o papel \nda ciência para o(a)\nA\temergência das universidades e escolas confessionais.\nB\tcrescimento religioso e movimentos sectários.\nC\tavanço da intolerância e rivalidades nacionais.\nD\tpreservação das tradições e rituais místicos.\nE\tdesenvolvimento social e práticas laborais.",
+  "processado_em": "2026-05-08T14:07:03.171036",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

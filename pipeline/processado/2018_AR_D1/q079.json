@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 79\t\nA quem não basta pouco, nada basta.\nEPICURO. Os pensadores. São Paulo: Abril Cultural, 1985.\nRemanescente do período helenístico, a máxima \napresentada valoriza a seguinte virtude:\nA\t Esperança, tida como confiança no porvir.\nB\t Justiça, interpretada como retidão de caráter.\nC\t Temperança, marcada pelo domínio da vontade.\nD\t Coragem, definida como fortitude na dificuldade.\nE\t Prudência, caracterizada pelo correto uso da razão.",
+  "processado_em": "2026-05-11T23:26:41.111294",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CH - 1º dia | Caderno 1 - AZUL - Página 12\nQUESTÃO 36\t\nDessalinizaç\nCapacidade total de dessalinização das águas salob\nEstados Unidos\n5 653 941\nEspanha\n2 588 658\nCapacidade instalada (m³/dia):\n5 001 a\n500 00\nConforme a análise do documento cartográfico, a á\nexplicada pelo(a)\nA\t pioneirismo tecnológico.\nB\t condição hidropedológica.\nC\t escassez de água potável.\nD\t efeito das mudanças climáticas.\nE\t busca da sustentabilidade ambiental.",
+  "processado_em": "2026-05-08T14:01:06.024351",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

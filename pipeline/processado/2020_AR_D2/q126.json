@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 126                \nA enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade \numa preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do \nreúso, pode-se melhorar ainda mais a qualidade de vida, substituindo polímeros convencionais por polímeros \nbiodegradáveis.\nEsses polímeros têm grandes vantagens socioambientais em relação aos convencionais porque\nA \t não são tóxicos.\nB \t não precisam ser reciclados.\nC \t não causam poluição ambiental quando descartados.\nD \t são degradados em um tempo bastante menor que os convencionais.\nE \t apresentam propriedades mecânicas semelhantes aos convencionais.",
+  "processado_em": "2026-05-11T23:28:15.044597",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

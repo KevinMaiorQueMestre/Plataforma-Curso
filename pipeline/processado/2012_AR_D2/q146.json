@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 146\t\nUm maquinista de trem ganha R$ 100,00 por \nviagem e só pode viajar a cada 4 dias. Ele ganha \nsomente se fizer a viagem e sabe que estará de férias \nde 1º a 10 de junho, quando não poderá viajar. Sua \nprimeira viagem ocorreu no dia primeiro de janeiro. \nConsidere que o ano tem 365 dias.\nSe o maquinista quiser ganhar o máximo possível, \nquantas viagens precisará fazer?\nA\t 37\nB\t 51\nC\t 88\nD\t 89\nE\t 91",
+  "processado_em": "2026-05-08T13:59:48.803285",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

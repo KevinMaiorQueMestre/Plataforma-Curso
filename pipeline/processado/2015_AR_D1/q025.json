@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 25\t\nNão nos resta a menor dúvida de que a principal \ncontribuição dos diferentes tipos de movimentos sociais \nbrasileiros nos últimos vinte anos foi no plano da \nreconstrução do processo de democratização do país. \nE não se trata apenas da reconstrução do regime político, \nda retomada da democracia e do fim do Regime Militar. \nTrata-se da reconstrução ou construção de novos rumos \npara a cultura do país, do preenchimento de vazios na \ncondução da luta pela redemocratização, constituindo-se \ncomo agentes interlocutores que dialogam diretamente \ncom a população e com o Estado.\nGOHN, M. G. M. Os sem-terras, ONGs e cidadania. São Paulo: Cortez, 2003 (adaptado).\nNo processo da redemocratização brasileira, os novos \nmovimentos sociais contribuíram para\nA\t diminuir a legitimidade dos novos partidos políticos \nentão criados.\nB\t tornar a democracia um valor social que ultrapassa os \nmomentos eleitorais.\nC\t difundir a democracia representativa como objetivo \nfundamental da luta política.\nD\t ampliar as disputas pela hegemonia das entidades de \ntrabalhadores com os sindicatos.\nE\t fragmentar as lutas políticas dos diversos atores \nsociais frente ao Estado.",
+  "processado_em": "2026-05-08T14:00:44.145029",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

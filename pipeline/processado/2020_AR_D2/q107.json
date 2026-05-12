@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 107                \nUm microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância \nde rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O \ncatálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:\nOH\nCHO\nCHO\nOH\nOH\n(1)\n(2)\n(3)\n(4)\n(5)\nQual substância o empresário deverá utilizar?\nA \t 1\nB \t 2\nC \t 3\nD \t 4\nE \t 5",
+  "processado_em": "2026-05-11T23:28:13.732663",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

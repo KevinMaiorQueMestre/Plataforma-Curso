@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q002",
+  "imagem": "q002.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 2,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 02\t\nIncivismo\nPasear por el centro de Barcelona (España) de noche \nimplica, a ciencia cierta, tropezarse con, por ejemplo, \njóvenes bebiendo en portales y plazas, con alguno de \nellos aliviando la vejiga en las esquinas... La orden \npara la policía local ha sido la de multiplicar la ofensiva \ncontra la falta de civismo, combatiéndose también, por \nlo tanto, las molestias callejeras que perturban el sueño. \nY, aunque no hay milagros, las cifras ya constatan el \nesfuerzo de este año por poner un freno. Con respecto \na las molestias (ruidos, peleas, música a altas horas en \nla vía pública), las multas se han multiplicado por cuatro. \nLas multas por consumir alcohol en la calle superan ya \nlas 5 000 este verano.\nCASTÁN, P. Disponível em: www.elperiodico.com. Acesso em: 25 ago. 2011 (adaptado).\nPara combater a falta de civismo, a polícia da cidade de \nBarcelona tem\nA\t aumentado a aplicação de multas.\nB\t encarcerado os jovens baderneiros.\nC\t isolado o centro da cidade.\nD\t controlado a distribuição de álcool.\nE\t proibido a música em alto volume.",
+  "processado_em": "2026-05-11T23:26:07.463077",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

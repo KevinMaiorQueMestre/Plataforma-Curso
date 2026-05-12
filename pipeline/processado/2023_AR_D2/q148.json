@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nO triângulo da figura é denominado triângulo mágico. \nNos círculos, escrevem-se os números de 1 a 6, sem \nrepetição, com um número em cada círculo. O objetivo é \ndistribuir os números de forma que as somas dos números \nem cada lado do triângulo sejam iguais.\nConsidere que os números colocados nos vértices \ndo triângulo estejam em progressão aritmética de razão \nigual a 2.\nNas condições propostas, quais as possíveis soluções \npara as somas dos números que formam os lados do \ntriângulo?\nA\t\nA\t Há somente uma solução possível, e as somas em \ncada lado do triângulo são iguais a 7.\nB\t\nB\t Há somente uma solução possível, e as somas em \ncada lado do triângulo são iguais a 9.\nC\t\nC\t Há somente duas soluções possíveis, uma em que \nas somas em cada lado do triângulo são iguais a 7 e \noutra em que as somas são iguais a 9.\nD\t\nD\t Há somente duas soluções possíveis, uma em que \nas somas em cada lado do triângulo são iguais a 9 e \noutra em que as somas são iguais a 12.\nE\t\nE\t Há somente duas soluções possíveis, uma em que \nas somas em cada lado do triângulo são iguais a 10 e \noutra em que as somas são iguais a 11.",
+  "processado_em": "2026-05-08T14:05:45.896857",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

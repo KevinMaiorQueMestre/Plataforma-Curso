@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 14\t\nSaúde aprova implantação de 82 academias em \npraças públicas na PB\nSetenta e oito municípios paraibanos deverão \nreceber 82 unidades das Academias da Saúde, que são \nespaços apropriados para a prática de atividades físicas. \nOs equipamentos são montados ao ar livre, e a população \ntem orientação gratuita sobre o uso dos aparelhos para \nse exercitar. A implantação das academias faz parte de \num plano de ações estratégicas para o enfrentamento \ndas doenças crônicas não transmissíveis, cuja meta é \nreduzir as mortes prematuras em 2% ao ano. O objetivo \né alcançar melhorias em indicadores relacionados ao \ntabagismo, ao álcool, ao sedentarismo, à alimentação \ninadequada e à obesidade.\nDisponível em: http://g1.globo.com. Acesso em: 11 nov. 2011 (adaptado).\nNo texto, a atividade física é associada à prevenção de \ndoenças crônicas, à redução da mortalidade e à promoção \nda saúde. A partir de uma perspectiva ampliada e crítica \nsobre o conceito de saúde, interpretada como resultado \nde múltiplos fatores, o texto\nA\t\nA\t reforça a necessidade de a atividade física ser \norientada por um professor de educação física.\nB\t\nB\t considera a saúde de forma multifatorial, ou seja, \nresultante da interferência de diversos fatores.\nC\t\nC\t estabelece relação de causa-efeito entre atividade \nfísica e saúde, desconsiderando os condicionantes \nsociais.\nD\t\nD\t destaca a importância da atividade física como lazer \npara a sociedade brasileira.\nE\t\nE\t estabelece relações entre a prática de atividade física \ne a prevenção de doenças como a aids e a hepatite.",
+  "processado_em": "2026-05-08T14:04:36.988228",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nToxicidade\nA produção de ATP depende do gradiente de prótons g\nprovenientes da oxidação do NADH em NAD+ percorrem \nFe3+ a Fe2+. O oxigênio atua como aceptor final desses e\naltamente tóxica que tem grande afinidade pelo Fe3+. Qua\nFe3+ da citocromo c oxidase, impedindo a sua conversão e\nSubstrato\nproveniente\ndo nutriente\nForma\noxidada\nForma\nreduzida\nTransportador\n1\nTr\nCO2\nNADH\nNAD+\nEsse bloqueio aumenta a concentração celular de\nA\t\nA\t ATP.\nB\t\nB\t água.\nC\t\nC\t NADH.\nD\t\nD\t dióxido de carbono.\nE\t\nE\t citocromo c oxidase.",
+  "processado_em": "2026-05-08T14:05:44.515815",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 30\t\nOs movimentos de massa constituem-se no \ndeslocamento de material (solo e rocha) vertente \nabaixo pela influência da gravidade. As condições \nque favorecem os movimentos de massa dependem \nprincipalmente da estrutura geológica, da declividade da \nvertente, do regime de chuvas, da perda de vegetação e \nda atividade antrópica.\nBIGARELLA, J. J. Estrutura e origem das paisagens tropicais e subtropicais. \nFlorianópolis: UFSC, 2003 (adaptado).\nEm relação ao processo descrito, sua ocorrência é \nminimizada em locais onde há\nA\t exposição do solo.\nB\t drenagem eficiente.\nC\t rocha matriz resistente.\nD\t agricultura mecanizada.\nE\t média pluviométrica elevada.",
+  "processado_em": "2026-05-08T14:00:44.610740",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

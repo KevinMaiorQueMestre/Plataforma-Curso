@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q012",
+  "imagem": "q012.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 12,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 12\t\nO Ministério do Esporte no Brasil lançou o programa Maré \nInclusiva, em 2024, ano dos Jogos Paralímpicos de Paris. Esse \nprograma visa ampliar as oportunidades para pessoas com \ndeficiência que desejam praticar o surf. O parasurf é a prática \ndo surf adaptada para permitir que pessoas com deficiência \npratiquem o esporte em todas as suas categorias, modalidades \ne manifestações. Para a Secretaria Nacional do Paradesporto, \na iniciativa é mais do que um programa de esporte, é uma \niniciativa que busca transformar vidas e promover a inclusão por \nmeio do parasurf, criando um legado de igualdade e respeito.\nDisponível em: www.gov.br/esporte. Acesso em: 6 set. 2024 (adaptado).\nDe acordo com esse texto, o programa voltado ao estímulo da \nprática do parasurf evidencia a\nA\tadesão de diferentes países a programas inclusivos.\nB\tpreocupação política em atender a demandas paralímpicas.\nC\timportância de uma política pública esportiva para a inclusão.\nD\teficiência das iniciativas de inclusão em megaeventos esportivos.\nE\tescassez de investimento em práticas corporais de aventura \nna natureza",
+  "processado_em": "2026-05-08T14:06:57.667454",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

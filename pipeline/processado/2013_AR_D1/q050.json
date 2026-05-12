@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nMilhares de pessoas estavam morrendo de varíola \nhumana no final do século XVIII. Em 1796, o médico \nEdward Jenner (1749-1823) inoculou em um menino de \n8 anos o pus extraído de feridas de vacas contaminadas \ncom o vírus da varíola bovina, que causa uma doença \nbranda em humanos. O garoto contraiu uma infecção \nbenigna e, dez dias depois, estava recuperado. Meses \ndepois, Jenner inoculou, no mesmo menino, o pus \nvarioloso humano, que causava muitas mortes. O menino \nnão adoeceu.\nDisponível em: www.bbc.co.uk. Acesso em: 5 dez. 2012 (adaptado).\nConsiderando o resultado do experimento, qual a \ncontribuição desse médico para a saúde humana?\nA\t A prevenção de diversas doenças infectocontagiosas \nem todo o mundo.\nB\t A compreensão de que vírus podem se multiplicar em \nmatéria orgânica.\nC\t O \ntratamento \npara \nmuitas \nenfermidades \nque \nacometem milhões de pessoas.\nD\t O estabelecimento da ética na utilização de crianças \nem modelos experimentais.\nE\t A explicação de que alguns vírus de animais podem \nser transmitidos para os humanos.",
+  "processado_em": "2026-05-08T14:00:12.588627",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

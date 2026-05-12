@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nEm um experimento, um professor levou para a \nsala de aula um saco de arroz, um pedaço de madeira \ntriangular e uma barra de ferro cilíndrica e homogênea. \nEle propôs que fizessem a medição da massa da barra \nutilizando esses objetos. Para isso, os alunos fizeram \nmarcações na barra, dividindo-a em oito partes iguais, e \nem seguida apoiaram-na sobre a base triangular, com o \nsaco de arroz pendurado em uma de suas extremidades, \naté atingir a situação de equilíbrio.\nArroz\n5,00 kg\nNessa situação, qual foi a massa da barra obtida pelos \nalunos?\nA\t 3,00 kg\nB\t 3,75 kg\nC\t 5,00 kg\nD\t 6,00 kg\nE\t 15,00 kg",
+  "processado_em": "2026-05-08T14:00:48.632158",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 30\nQUESTÃO 176\t\nEm uma empresa de móveis, um cliente encomenda \num guarda-roupa nas dimensões 220 cm de altura, 120 cm \nde largura e 50 cm de profundidade. Alguns dias depois, o \nprojetista, com o desenho elaborado na escala 1 : 8, entra \nem contato com o cliente para fazer sua apresentação. \nNo momento da impressão, o profissional percebe que \no desenho não caberia na folha de papel que costumava \nusar. Para resolver o problema, configurou a impressora \npara que a figura fosse reduzida em 20%.\nA altura, a largura e a profundidade do desenho impresso \npara a apresentação serão, respectivamente,\nA\t 22,00 cm, 12,00 cm e 5,00 cm.\nB\t 27,50 cm, 15,00 cm e 6,25 cm.\nC\t 34,37 cm, 18,75 cm e 7,81 cm.\nD\t 35,20 cm, 19,20 cm e 8,00 cm.\nE\t 44,00 cm, 24,00 cm e 10,00 cm.",
+  "processado_em": "2026-05-08T14:01:24.438061",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

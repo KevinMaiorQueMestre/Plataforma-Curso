@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 55\t\nEntendo por barbárie algo muito simples, ou seja, \nque, estando na civilização do mais alto desenvolvimento \ntecnológico, as pessoas se encontrem atrasadas de um \nmodo peculiarmente disforme em relação à sua própria \ncivilização, tomadas por uma agressividade primitiva, \num ódio primitivo ou, na terminologia culta, um impulso \nde destruição, que contribui para aumentar ainda mais \no perigo de que toda esta civilização venha a explodir.\nADORNO, T. W. Educação e emancipação. Rio de Janeiro: \nPaz e Terra, 2006 (adaptado).\nAo refletir sobre a crise civilizatória vivida com a Segunda \nGuerra Mundial, o autor aponta como uma das condições \nde possibilidade da barbarização o(a)\nA\teclipse da experiência subjetiva.\nB\tdecadência da etiqueta burguesa.\nC\tesvanecimento da instituição familiar.\nD\tobscurecimento da razão instrumental.\nE enfraquecimento do progresso produtivo",
+  "processado_em": "2026-05-08T14:05:54.960549",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

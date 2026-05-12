@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q002",
+  "imagem": "q002.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 2,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 02\t\nNo man is an island,\nEntire of itself;\nEvery man is a piece of the continent,\nA part of the main.\n[...]\nAny man’s death diminishes me,\nBecause I am involved in mankind.\nDONNE, J. The Works of John Donne. Londres: John W. Parker, 1839 (fragmento).\nNesse poema, a expressão “No man is an island ” ressalta o(a)\nA\t\nA\t medo da morte.\nB\t\nB\t ideia de conexão.\nC\t\nC\t conceito de solidão.\nD\t\nD\t risco de devastação.\nE\t\nE\t necessidade de empatia.\n[to shore...\nPING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento).\nAo retratar a trajetória de refugiados, o poema recorre à \nimagem de viagem marítima para destacar o(a)\nA\t\nA\t risco de choques culturais.\nB\t\nB\t impacto do ensino de história.\nC\t\nC\t importância da luta ambiental.\nD\t\nD\t existência de experiências plurais.\nE\t\nE\t necessidade de capacitação profissional.",
+  "processado_em": "2026-05-11T23:29:11.804369",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 282.0
+  }
+}

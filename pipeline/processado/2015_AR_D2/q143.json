@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nUma carga de 100 contêineres, idênticos ao modelo \napresentado na Figura 1, deverá ser descarregada no \nporto de uma cidade. Para isso, uma área retangular de \n10 m por 32 m foi cedida para o empilhamento desses \ncontêineres (Figura 2).\n6,4 m\n2,5 m\n2,5 m\n32 m\n10 m\nÁrea para \narmazenar\ncontêineres\nFigura 1\nFigura 2\nDe acordo com as normas desse porto, os contêineres \ndeverão ser empilhados de forma a não sobrarem espaços \nnem ultrapassarem a área delimitada.\nApós o empilhamento total da carga e atendendo à norma \ndo porto, a altura mínima a ser atingida por essa pilha de \ncontêineres é\nA\t 12,5 m.\nB\t 17,5 m.\nC\t 25,0 m.\nD\t 22,5 m.\nE 32,5 m.",
+  "processado_em": "2026-05-08T14:00:56.835996",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

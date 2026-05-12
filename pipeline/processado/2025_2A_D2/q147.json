@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 147 \nUma atleta consome, diariamente, uma porção de 60 g \nde um alimento. A informação nutricional desse alimento está \nindicada no rótulo do produto, em porcentagem do valor diário \nrecomendado (% V.D.), com base em determinada dieta.\nInformação nutricional (porção de 60 g) \n% V.D.\nsĂůŽƌ\u0003ĞŶĞƌŐĠƟ\u0003ĐŽ\n8%\nProteínas\n9%\nFibra alimentar\n10%\nSódio\n12%\nDisponível em: www.tabelanutricional.com.br. \nAcesso em: 18 abr. 2015 (adaptado).\nUm nutricionista sugeriu um consumo diário maior desse \nalimento, de modo que, por meio da sua ingestão, a quantidade \nde proteínas aumentasse 80% do valor ingerido atualmente e \na quantidade de sódio não ultrapassasse 36% do valor diário \nrecomendado. Para seguir a sugestão do nutricionista, a atleta \ncalculou as quantidades mínima e máxima desse alimento a \nserem ingeridas diariamente.\nAs quantidades mínima e máxima, em grama, calculadas pela \natleta são, respectivamente,\nA 48,0 e 89,0.\nB 74,4 e 102,6.\nC 81,6 e 108,0.\nD 88,8 e 113,4.\nE 108,0 e 180,0.",
+  "processado_em": "2026-05-08T14:06:37.089857",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

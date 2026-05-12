@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 60          \nEm A morte de Ivan Ilitch, Tolstoi descreve com \ndetalhes repulsivos o terror de encarar a morte \niminente. Ilitch adoece depois de um pequeno acidente \ne logo compreende que se encaminha para o fim de \nmodo impossível de parar. “Nas profundezas de seu \ncoração, ele sabia estar morrendo, mas em vez de se \nacostumar com a ideia, simplesmente não o fazia e não \nconseguia compreendê-la”.\nKAZEZ, J. O peso das coisas: filosofia para o bem-viver. Rio de Janeiro: Tinta Negra, 2004.\nO texto descreve a experiência do personagem de Tolstoi \ndiante de um aspecto incontornável de nossas vidas. \nEsse aspecto foi um tema central na tradição filosófica\nA \t marxista, no contexto do materialismo histórico.\nB \t logicista, no propósito de entendimento dos fatos.\nC \t utilitarista, no sentido da racionalidade das ações.\nD \t pós-modernista, na discussão da fluidez das relações.\nE \t existencialista, na questão do reconhecimento de si.",
+  "processado_em": "2026-05-11T23:28:04.914562",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

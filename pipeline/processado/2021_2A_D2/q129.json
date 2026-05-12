@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A  CaO\nB  CaC2\nC  CaCO3\nD  Ca(HCO3)2\nE  Ca(OH)HCO3\nQuestão 129\nUm marceneiro esqueceu um pacote de pregos ao \nrelento, expostos à umidade do ar e à chuva. Com isso, \nos pregos de ferro, que tinham a massa de 5,6 g cada, \nacabaram cobertos por uma camada espessa de ferrugem \n(Fe2O3\u0006H2O), uma substância marrom insolúvel, produto \n\u000f\b\u0002 \u0004@\u000e\u000f\b'\u001d\u0004\u0002 \u000f\u0004\u0002 P\n\u0007\u0007\u0004\u0002 \u0010\n\r?2\u000e\u001e\u0004$\u0002 \u000b\f\n\u0002 \u0004\u001e\u0004\u0007\u0007\n\u0002 \t\nJ\f\u0005\u000f\u0004\u0002 \b\u0002\n\n\u000b\f\b'\u001d\u0004\u0002\u000b\fG\u0010\u000e\u001e\bI\n2 Fe (s) + 3\n2\n_ O2 (g) + H2O (l) — Fe2O3\u0006H2O (s)\nConsidere as massas molares (g/mol): H = 1; O = 16; \nFe = 56.\nQual foi a massa de ferrugem produzida ao se oxidar a \n\u0010\n\r\b\u000f\n\u0002`&«k\u0002\u000f\n\u0002\f\u0010\u0002%\u0007\nJ\u0004£\nA  4,45 g\nB  8,90 g\nC  17,80 g\nD  72,00 g\nE 144 00 g",
+  "processado_em": "2026-05-08T14:04:14.986130",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

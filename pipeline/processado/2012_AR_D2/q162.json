@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nO losango representado na Figura 1 foi formado pela \nunião dos centros das quatro circunferências tangentes, \nde raios de mesma medida.\nFigura 1\nDobrando-se o raio de duas das circunferências centradas \nem vértices opostos do losango e ainda mantendo-se \na configuração das tangências, obtém-se uma situação \nconforme ilustrada pela Figura 2.\nFigura 2\nO perímetro do losango da Figura 2, quando comparado \nao perímetro do losango da Figura 1, teve um aumento de\nA\t 300%.\nB\t 200%.\nC\t 150%.\nD\t 100%.\nE 50%",
+  "processado_em": "2026-05-08T13:59:15.011550",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

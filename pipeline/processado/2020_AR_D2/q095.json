@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 95        \nPara garantir que produtos eletrônicos estejam \narmazenados de forma adequada antes da venda, \nalgumas empresas utilizam cartões indicadores de \numidade nas embalagens desses produtos. Alguns \ndesses cartões contêm um sal de cobalto que \nmuda de cor em presença de água, de acordo com \na equação química:\n∆H < 0\n(azul)\n(rosa)\nComo você procederia para reutilizar, num curto \nintervalo de tempo, um cartão que já estivesse com a \ncoloração rosa?\nA \t Resfriaria no congelador.\nB \t Borrifaria com spray de água.\nC \t Envolveria com papel alumínio.\nD \t Aqueceria com secador de cabelos.\nE \t Embrulharia em guardanapo de papel.",
+  "processado_em": "2026-05-11T23:28:13.063613",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

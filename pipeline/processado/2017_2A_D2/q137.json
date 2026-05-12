@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\nEm uma embalagem de farinha encontra-se a receita \nde um bolo, sendo parte dela reproduzida a seguir:\nPossuindo apenas a colher medida indicada na \nreceita, uma dona de casa teve que fazer algumas \nFRQYHUV}HV\u0003 SDUD\u0003 SRGHU\u0003 PHGLU\u0003 FRP\u0003 SUHFLVmR\u0003 D\u0003 IDULQKD\u0011\u0003\nConsidere que a farinha e o fermento possuem \ndensidades iguais.\nCada xícara indicada na receita é equivalente a quantas \nFROKHUHV\u0003PHGLGDV\"\nA 10\nB 20\nC 40\nD 80\nE 320\nINGREDIENTES\n 640 g de farinha  (equivalente a 4 xícaras).\n 16 g de fermento biológico (equivalente a 2 colheres medidas).",
+  "processado_em": "2026-05-11T23:25:29.862004",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nDeseja-se comprar lentes para óculos. As lentes \ndevem ter espessuras mais próximas possíveis da medida \n3 mm. No estoque de uma loja, há lentes de espessuras: \n3,10 mm; 3,021 mm; 2,96 mm; 2,099 mm e 3,07 mm. \nSe as lentes forem adquiridas nessa loja, a espessura \nescolhida será, em milímetros, de\nA\t 2,099.\nB\t 2,96.\nC\t 3,021.\nD\t 3,07.\nE 3 10",
+  "processado_em": "2026-05-08T14:00:58.146770",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 42 \nTEXTO I\nZabé da Loca tinha a leveza do sopro e a força do vento. Na\na pobreza e a miséria a obrigaram a viver por mais de 20 ano\nVirou Zabé da Loca, para abreviar. Não era muito de conversa, \ntipicamente nordestino que a acompanhava desde os 6 anos d\nonde viveu, Monteiro, a 300 quilômetros da capital, João Pess\n80 crianças do sertão paraibano a espalharem melodias com a\nCORREIA FILHO\nTEXTO II\nFoto: Reprodução\nZabé da Loca tornou-se uma referência artística e educacional \nA transferência de conhecimento musical autodidata para o e\nB valorização dos saberes formais na arte de tocar pífano na p\nC salvaguarda do repertório da música formal por meio de um\nD sistematização de uma proposta educacional de ensino de i\nE visibilidade alcançada ao se mudar para a cidade de Monte",
+  "processado_em": "2026-05-08T14:06:28.216678",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

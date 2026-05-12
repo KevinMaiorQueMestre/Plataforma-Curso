@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 47          \nA soja é a cultura agrícola brasileira que mais cresceu \nnas últimas três décadas e corresponde a 49% da área \nplantada em grãos do país. O aumento da produtividade \nestá associado aos avanços tecnológicos, ao manejo \ne à eficiência dos produtores. O grão é componente \nessencial na fabricação de rações animais e, com uso \ncrescente na alimentação humana, encontra-se em \nfranco crescimento.\nDisponível em: www.agricultura.gov.br. Acesso em: 2 ago. 2012.\nUma causa para o crescimento, no Brasil, da produção \nagrícola especificada no texto é o(a)\nA \t ampliação da qualidade de vida no campo.\nB \t priorização do crédito ao pequeno produtor.\nC \t aumento do emprego de mão de obra informal. \nD \t aplicação de leis que viabilizam a distribuição de terras.\nE \t desenvolvimento de métodos que incrementam o cultivo.",
+  "processado_em": "2026-05-08T14:03:29.900514",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

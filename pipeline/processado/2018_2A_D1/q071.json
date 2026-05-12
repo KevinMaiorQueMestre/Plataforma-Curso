@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nA maioria das necessidades comuns de descansar, \ndistrair-se, comportar-se, amar e odiar o que os outros \namam e odeiam pertence a essa categoria de falsas \nnecessidades. Tais necessidades têm um conteúdo e \numa função determinada por forças externas, sobre as \nquais o indivíduo não tem controle algum.\nMARCUSE, H. A ideologia da sociedade industrial: o homem unidimensional. \nRio de Janeiro: Zahar, 1979.\nSegundo Marcuse, um dos pesquisadores da chamada \nEscola de Frankfurt, tais forças externas são resultantes de\nA\t aspirações de cunho espiritual.\nB\t propósitos solidários de classes.\nC\t exposição cibernética crescente.\nD\t interesses de ordem socioeconômica.\nE\t hegemonia do discurso médico-científico.",
+  "processado_em": "2026-05-11T23:26:16.113612",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

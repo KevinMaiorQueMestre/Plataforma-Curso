@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nNa modelagem e no estudo de fenômenos \nperiódicos, em geral, os modelos associados fazem uso \nde funções trigonométricas. Nesse sentido, considere \num experimento, realizado em laboratório, em que uma \nplanta foi colocada em uma estufa, onde a temperatura \né controlável. O experimento consiste em observar \nalterações nas características dessa planta ao ser \nsubmetida a variações de temperatura. Durante 24 horas, \na temperatura T(x) da estufa variou de acordo \ncom a função T(x) = 20 - 10sen \u001f \u001e\n\u001d\n\u001c\u001b\n\u001a\n\u0019\u0018\nx\n4\n, em que x \n \né medido em hora, variando no intervalo 0 ≤ x ≤ 24.\nDurante esse experimento, quantas vezes a temperatura \nna estufa atingiu o seu valor mínimo?\nA\t\nA\t 1\nB\t\nB\t 3\nC\t\nC\t 4\nD\t\nD\t 5\nE\t\nE\t 7",
+  "processado_em": "2026-05-08T14:05:28.821997",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

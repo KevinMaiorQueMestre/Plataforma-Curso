@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 130        \nEm uma usina geradora de energia elétrica, seja \natravés de uma queda-d’água ou através de vapor \nsob pressão, as pás do gerador são postas a girar. \nO movimento relativo de um ímã em relação a um \nconjunto de bobinas produz um fluxo magnético variável \natravés delas, gerando uma diferença de potencial em \nseus terminais. Durante o funcionamento de um dos \ngeradores, o operador da usina percebeu que houve um \naumento inesperado da diferença de potencial elétrico \nnos terminais das bobinas. \nNessa situação, o aumento do módulo da diferença de \npotencial obtida nos terminais das bobinas resulta do \naumento do(a)\nA \t intervalo de tempo em que as bobinas ficam imersas no \ncampo magnético externo, por meio de uma diminuição \nde velocidade no eixo de rotação do gerador.\nB \t fluxo magnético através das bobinas, por meio de \num aumento em sua área interna exposta ao campo \nmagnético aplicado.\nC \t intensidade do campo magnético no qual as bobinas \nestão imersas, por meio de aplicação de campos \nmagnéticos mais intensos.\nD \trapidez com que o fluxo magnético varia através das \nbobinas, por meio de um aumento em sua velocidade \nangular.\nE \t resistência interna do condutor que constitui as bobinas, \npor meio de um aumento na espessura dos terminais.",
+  "processado_em": "2026-05-11T23:28:15.209383",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

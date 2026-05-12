@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 78\t\nA regra de ouro, popularmente conhecida pelo provérb\nprincípios morais mais onipresentes. A noção subjacente, \numa forma ou de outra em praticamente todas as tradiçõe\na regra ou pelo menos de tecer comentários a respeito da\nDUPRÉ, B. 5\nO princípio ético apresentado no texto, como elemento es\nformulação teórica:\nA\tDoutrina teleológica.\nB\tImperativo categórico.\nC\tPensamento utilitarista.\nD\tSecularização inautêntica.\nE\tRaciocínio consequencialista.",
+  "processado_em": "2026-05-08T14:06:14.028449",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

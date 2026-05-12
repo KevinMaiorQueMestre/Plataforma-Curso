@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 121\t\nPlantas e algas realizam fotossíntese oxigênica para \nsíntese de matéria orgânica e, para isso, utilizam trifosfato de \nadenosina (ATP) e nicotinamida adenina dinucleotídeo fosfato \nreduzido (NADPH). Já algumas bactérias fotossintetizantes \nnão apresentam cloroplasto e clorofila, mas um pigmento \ndenominado bacterioclorofila. Esses procariotos realizam a \nfotossíntese anoxigênica, um processo de síntese de matéria \norgânica utilizando o gás carbônico (CO2) e o gás sulfídrico (H2S).\nNa fotossíntese oxigênica, qual composto desempenha função \nanáloga à do H2S?\nA\tATP.\nB\tNADPH.\nC\tOxigênio.\nD\tClorofila.\nE Água",
+  "processado_em": "2026-05-08T14:07:07.051263",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 97\nO grafeno é uma forma alotrópica do carbono \nconstituído por uma folha planar (arranjo bidimensional) \nde átomos de carbono compactados e com a espessura \nde apenas um átomo. Sua estrutura é hexagonal, \nFRQIRUPH\u0003D\u0003¿JXUD\u0011\n1HVVH\u0003DUUDQMR\u000f\u0003RV\u0003iWRPRV\u0003GH\u0003FDUERQR\u0003SRVVXHP\u0003KLEULGDomR\nA sp de geometria linear.\nB sp\u0015 de geometria trigonal planar.\nC sp3\u0003DOWHUQDGRV\u0003FRP\u0003FDUERQRV\u0003FRP\u0003KLEULGDomR\u0003sp de \ngeometria linear.\nD sp3d de geometria planar.\nE sp3d\u0015 com geometria hexagonal planar.",
+  "processado_em": "2026-05-11T23:26:44.445614",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 07\t\nJon Lord, fundador do Deep Purple, era um caso raro \nna música. Depois de uma carreira bem-sucedida como \ntecladista de duas das maiores bandas de rock do planeta, \naposentou-se em 2002 para compor peças eruditas. \nPara ele, clássico e popular eram apenas aspectos de uma \nmesma entidade, a boa música. O caminho era quase \nnatural. Tendo aprendido a tocar os clássicos no piano, \nLord apaixonou-se pelo rock ao ouvir Buddy Holly \ne começou a tocar em combos de jazz, rhythm’n’blues \ne depois rock. Em 1969, aos 27 anos, ele compôs, com \na ajuda do maestro Malcolm Arnold, um Concerto para \ngrupo e orquestra, temperando a estrutura de uma peça \nerudita com a eletricidade agressiva da fase mais criativa \ndo Deep Purple, a mesma equipe que comporia Smoke \non the Water em 1972.\nSOARES, M. Jon Lord foi um pioneiro na fusão entre rock e erudito. \nDisponível em: www1.folha.uol.com.br. Acesso em: 16 nov. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:05:16.348580",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

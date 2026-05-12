@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 68\t\nO menor tamanduá do mundo é solitário e tem \nhábitos noturnos, passa o dia repousando, geralmente \nem um emaranhado de cipós, com o corpo curvado \nde tal maneira que forma uma bola. Quando em \natividade, se locomove vagarosamente e emite som \nsemelhante a um assobio. A cada gestação, gera um \núnico filhote. A cria é deixada em uma árvore à noite \ne é amamentada pela mãe até que tenha idade para \nprocurar alimento. As fêmeas adultas têm territórios \ngrandes e o território de um macho inclui o de várias \nfêmeas, o que significa que ele tem sempre diversas \npretendentes à disposição para namorar!\nCiência Hoje das Crianças, ano 19, n. 174, nov. 2006 (adaptado).\nEssa descrição sobre o tamanduá diz respeito ao seu\nA\t hábitat.\nB\t biótopo.\nC\t nível trófico.\nD\t nicho ecológico.\nE potencial biótico",
+  "processado_em": "2026-05-08T13:59:02.500508",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

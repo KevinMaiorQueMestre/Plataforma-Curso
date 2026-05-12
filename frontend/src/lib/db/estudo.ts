@@ -18,6 +18,7 @@ export type ProblemaEstudo = {
   ano: string | null;
   cor_prova: string | null;
   q_num: string | null;
+  imagem_url: string | null; // URL da imagem da questão (pipeline ou manual)
   disciplina_id: string | null;
   disciplina_nome: string | null;
   conteudo_id: string | null;
@@ -335,7 +336,92 @@ export async function reabrirProblema(id: string): Promise<boolean> {
 }
 
 // ============================================================
+
+/**
+ * Busca a URL da imagem da questão no pipeline (questoes_enem) dado número, ano, aplicação e dia.
+ * Retorna null se não houver correspondência.
+ */
+export async function buscarImagemPipeline(
+  qNum: number,
+  ano: number,
+  aplicacao: string,
+  dia: string
+): Promise<string | null> {
+  const supabase = createClient();
+  const { data, error } = await supabase
+    .from('questoes_enem')
+    .select('imagem_url')
+    .eq('ano', ano)
+    .eq('aplicacao', aplicacao)
+    .eq('dia', dia)
+    .or(
+      `numero_azul.eq.${qNum},numero_amarela.eq.${qNum},numero_rosa.eq.${qNum},numero_cinza.eq.${qNum},numero_branca.eq.${qNum}`
+    )
+    .single();
+
+  if (error) {
+    console.error('[buscarImagemPipeline]', error.message);
+    return null;
+  }
+  return data?.imagem_url ?? null;
+}
+
+/**
+ * Salva/atualiza a URL da imagem associada a um ProblemaEstudo.
+ * Retorna true em caso de sucesso.
+ */
+export async function salvarImagemUrl(
+  problemaId: string,
+  url: string | null
+): Promise<boolean> {
+  const supabase = createClient();
+  const { error } = await supabase
+    .from('problemas_estudo')
+    .update({ imagem_url: url })
+    .eq('id', problemaId);
+  if (error) {
+    console.error('[salvarImagemUrl]', error.message);
+    return false;
+  }
+  return true;
+}
+
+/**
+ * Upload manual de imagem para a questão do usuário.
+ * Usa bucket `questao-imagens-manual` com caminho `${userId}/${problemaId}/${timestamp}_${file.name}`.
+ * Em caso de falha ao salvar no banco, remove o arquivo para rollback.
+ */
+export async function uploadImagemManual(
+  userId: string,
+  problemaId: string,
+  file: File
+): Promise<string | null> {
+  const supabase = createClient();
+  const timestamp = Date.now();
+  const path = `${userId}/${problemaId}/${timestamp}_${file.name}`;
+  const { error: uploadError } = await supabase.storage
+    .from('questao-imagens-manual')
+    .upload(path, file, { upsert: false });
+  if (uploadError) {
+    console.error('[uploadImagemManual] upload error:', uploadError.message);
+    return null;
+  }
+  const { data: publicData } = supabase.storage
+    .from('questao-imagens-manual')
+    .getPublicUrl(path);
+  const url = publicData?.publicUrl ?? null;
+  // Salvar URL no registro
+  const saved = await salvarImagemUrl(problemaId, url);
+  if (!saved && url) {
+    // rollback: remover arquivo
+    await supabase.storage.from('questao-imagens-manual').remove([path]);
+    return null;
+  }
+  return url;
+}
+
 // Helpers de UI
+
 // ============================================================
 
 export const ORIGEM_LABELS: Record<OrigemProblema, string> = {

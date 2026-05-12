@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nParte do gás carbônico da atmosfera é absorvida \npela água do mar. O esquema representa reações \nque ocorrem naturalmente, em equilíbrio, no sistema \nambiental marinho. O excesso de dióxido de carbono na \natmosfera pode afetar os recifes de corais.\nDióxido de carbono\n atmosférico\nCO2\nDióxido de carbono\n dissolvido\n1\n+\nCO2\nH2O\nÁgua\nH2CO3\nÁcido \ncarbônico\nHCO3\n–\nÍons bicarbonato\nH+\nÍons hidrogênio\nÍons carbonato\nCO3\n2–\nConchas \ndeformadas\nMenos\nácido\nMais\nácido\n2\n3\nDisponível em: http://news.bbc.co.uk. Acesso em: 20 maio 2014 (adaptado).\nO resultado desse processo nos corais é o(a)\nA\t seu branqueamento, levando à sua morte e extinção.\nB\t excesso de fixação de cálcio, provocando calcificação \nindesejável.\nC\t menor incorporação de carbono, afetando seu \nmetabolismo energético.\nD\t estímulo da atividade enzimática, evitando a \ndescalcificação dos esqueletos.\nE\t dano à estrutura dos esqueletos calcários, diminuindo \no tamanho das populações.",
+  "processado_em": "2026-05-08T14:00:31.404865",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

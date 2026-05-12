@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\t\nMuitos processos fisiológicos e bioquímicos, tais como \nbatimentos cardíacos e taxa de respiração, apresentam \nescalas construídas a partir da relação entre superfície e \nmassa (ou volume) do animal. Uma dessas escalas, por \nexemplo, considera que “o cubo da área S da superfície \nde um mamífero é proporcional ao quadrado de sua \nmassa M”.\nHUGHES-HALLETT, D. et al. Cálculo e aplicações. São Paulo: Edgard Blücher, 1999 (adaptado).\nIsso é equivalente a dizer que, para uma constante \nk > 0, a área S pode ser escrita em função de M por \nmeio da expressão:\nA S = k • M\nB S = k • M\n1\n3\nC S = k\n1\n• M\n1\n3\n3\nD S = k\n1\n• M\n2\n3\n3\nE S = k\n1\n• M\n2\n3",
+  "processado_em": "2026-05-08T14:00:22.801088",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

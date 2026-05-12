@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 134\t\nNas últimas décadas, a população dos centros urbano\no aumento do conforto e a minimização do desgaste de veí\ntrazer implicações ao meio ambiente. A impermeabilizaçã\nportanto, todos os dejetos e impurezas para os cursos de \nQual ação poderia mitigar os efeitos danosos da contamin\ndas vias públicas?\nA\tReciclar o lixo doméstico seco.\nB\tIncentivar a construção de fossas sépticas.\nC\tDifundir o uso de vasos de plantas nas vias públicas.\nD\tPromover a construção de parques e espaços arboriza\nE\tPropor políticas de expansão da canalização das redes",
+  "processado_em": "2026-05-08T14:06:03.424539",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

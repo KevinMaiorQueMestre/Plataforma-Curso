@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A f1 \t f2 e v1 \t v2.\nB f1 \t f2 e v1 \u0003 v2.\nC f1 \t f2 e v1 \f v2.\nD f1 \f f2 e v1 \u0003 v2.\nE f1 \f f2 e v1 \f v2.\nQuestão 135\nO polvo mimético apresenta padrões cromáticos e \ncomportamentos muito curiosos. Frequentemente, muda \n\b\u0002 \u0004\u0007\u000e\n\u0005\r\b'\u001d\u0004\u0002 \u000f\n\u0002 \t\n\f\t\u0002 \r\n\u0005\r?\u001e\f2\u0004\t$\u0002 \b\t\t\n\u0010\n2+\b\u0005\u000f\u0004/\t\n\u0002 \b\u0002\nalguns animais. As imagens 1, 3 e 5 apresentam polvos \n\u0010\u000e\u0010\n\r\u000e\b\u0005\u000f\u0004$\u0002 \u0007\n\t%\n\u001e\r\u000e#\b\u0010\n\u0005\r\n$\u0002 \f\u0010\u0002 %\n\u000e@\n/2\u000e\u0005J\f\b\u000f\u0004\u0002 _~k$\u0002\n\f\u0010\u0002%\n\u000e@\n/2\n\u001d\u0004\u0002_k\u0002\n\u0002\f\u0010\b\u0002\t\n\u0007%\n\u0005\r\n/\u0010\b\u0007\u000e\u0005+\b\u0002_¹k(\n1\n3\n5\n2\n4\n6\n\u0016\u0017\u0015\u0012\u0016$\u0002(\u0002\u0013(¤\u00024`\u0016\u0016$\u0002(¤\u0002\u001b\u0015\u0014\u0014\u0016¥\u0012$\u0002\u001b(\u0002\u0013^\u0005\b\u0010\u000e\u001e\u0002\u0010\u000e\u0010\u000e\u001e\u0007^\u0002\u000e\u0005\u0002\b\u0005\u0002`\u0005\u000f\u0004/\b2\b^\b\u0005\u0002\u0004\u001e\r\u0004%\f\t(\u0002\nIn: Proceedings of the Royal Society B: Biological Sciences, n. 268, out. 2001. \nDisponível em: www.researchgate.net. Acesso em: 15 mar. 2014 (adaptado).\nDo ponto de vista evolutivo, a capacidade apresentada se \nestabeleceu porque os polvos\nA \u0004\u0007\u000eJ\u000e\u0005\b\u0007\b\u0010/\t\n\u0002 \u000f\u0004\u0002 \u0010\n\t\u0010\u0004\u0002 \b\u0005\u001e\n\t\r\u0007\b2\u0002 \u000b\f\n\u0002 \n\t\t\n\t\u0002\nanimais.\nB passaram por mutações similares a esses organismos.\nC observaram \nesses \nanimais \nem \nseus \nnichos \necológicos.\nD resultaram de convergência adaptativa com essas \nespécies.\nE sobreviveram às pressões seletivas com esses \ncomportamentos",
+  "processado_em": "2026-05-08T14:04:30.538185",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

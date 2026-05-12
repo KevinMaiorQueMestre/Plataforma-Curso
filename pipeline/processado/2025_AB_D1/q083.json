@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 83\t\nA Casa do Pomar do Cafezal, localizada na comunidade \nAglomerado da Serra, em Belo Horizonte, foi a grande \nvencedora de um prêmio internacional, na categoria casa. \nA construção simples e feita pelo coletivo Levante desbancou \nvários concorrentes internacionais em um dos concursos mais \nimportantes da arquitetura mundial. A construção, que tem \ncerca de 70 m2, foi implantada em um terreno anguloso e \nrealizada com a ajuda de diferentes profissionais, fornecedores \ne residentes do local. Para o mundo, um vencedor; para o morador, \num “barraco”, como ele chama; e para os líderes do projeto, “um \n‘modelo’ construtivo que utiliza materiais próprios da periferia, \ncom uma implantação adequada e atenção à iluminação e \nventilação, resultando em um espaço com qualidade ambiental”.\nDisponível em: www.tuacasa.com.br. Acesso em: 13 out. 2023 (adaptado).\nEm relação à ambiência urbana, uma razão para o reconhecimento \ndo modelo construtivo apresentado foi\nA\tfavorecer a permeabilidade do solo.\nB\tdiversificar a cobertura arbórea.\nC\taperfeiçoar a drenagem pluvial.\nD\tmanter o consumo de energia.\nE\tgarantir o conforto térmico.",
+  "processado_em": "2026-05-08T14:06:47.588256",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

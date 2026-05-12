@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nA radiação na região do infravermelho interage com \na oscilação do campo elétrico gerada pelo movimento \nvibracional de átomos de uma ligação química. Quanto \nmais fortes forem as ligações e mais leves os átomos \nenvolvidos, maior será a energia e, portanto, maior a \nfrequência da radiação no infravermelho associada à \nvibração da ligação química. A estrutura química da \nmolécula 2-amino-6-cianopiridina é mostrada.\nNC\nN\nNH2\nA ligação química dessa molécula, envolvendo átomos \ndiferentes do hidrogênio, que absorve a radiação no \ninfravermelho com maior frequência é:\nA\t C―C\nB\t C―N\nC\t C=C\nD\t C=N\nE\t C≡N",
+  "processado_em": "2026-05-11T23:26:20.670361",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

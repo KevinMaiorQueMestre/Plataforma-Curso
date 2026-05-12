@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 23\t\nTEXTO I\nEm todo o país a lei de 13 de maio de 1888 libertou \npoucos negros em relação à população de cor. A maioria \njá havia conquistado a alforria antes de 1888, por meio \nde estratégias possíveis. No entanto, a importância \nhistórica da lei de 1888 não pode ser mensurada apenas \nem termos numéricos. O impacto que a extinção da \nescravidão causou numa sociedade constituída a partir \nda legitimidade da propriedade sobre a pessoa não cabe \nem cifras.\nALBUQUERQUE, W. O jogo da dissimulação: Abolição e cidadania negra no Brasil. \nSão Paulo: Cia. das Letras, 2009 (adaptado).\nTEXTO II\nNos anos imediatamente anteriores à Abolição, a \npopulação livre do Rio de Janeiro se tornou mais numerosa \ne diversificada. Os escravos, bem menos numerosos que \nantes, e com os africanos mais aculturados, certamente \nnão se distinguiam muito facilmente dos libertos e dos \npretos e pardos livres habitantes da cidade. Também já \nnão é razoável presumir que uma pessoa de cor seja \nprovavelmente cativa, pois os negros libertos e livres \npoderiam ser encontrados em toda parte.\nCHALHOUB, S. Visões da liberdade: uma história das últimas décadas da escravidão na \nCorte. São Paulo: Cia. das Letras, 1990 (adaptado).\nSobre o fim da escravidão no Brasil, o elemento destacado \nno Texto I que complementa os argumentos apresentados \nno Texto II é o(a)\nA\t variedade das estratégias de resistência dos cativos.\nB\t controle jurídico exercido pelos proprietários.\nC\t inovação social representada pela lei.\nD\t ineficácia prática da libertação.\nE\t significado político da Abolição.",
+  "processado_em": "2026-05-08T14:00:44.074579",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

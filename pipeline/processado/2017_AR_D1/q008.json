@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\nMas assim que penetramos no universo da web, \ndescobrimos que ele constitui não apenas um imenso \n“território” em expansão acelerada, mas que também \noferece inúmeros “mapas”, filtros, seleções para ajudar \no navegante a orientar-se. O melhor guia para a web é \na própria web. Ainda que seja preciso ter a paciência \nde explorá-la. Ainda que seja preciso arriscar-se a ficar \nperdido, aceitar “a perda de tempo” para familiarizar-se \ncom esta terra estranha. Talvez seja preciso ceder por um \ninstante a seu aspecto lúdico para descobrir, no desvio \nde um link, os sites que mais se aproximam de nossos \ninteresses profissionais ou de nossas paixões e que \npoderão, portanto, alimentar da melhor maneira possível \nnossa jornada pessoal.\nLÉVY, P. Cibercultura. São Paulo: Editora 34, 1999.\nO usuário iniciante sente-se não raramente desorientado \nno oceano de informações e possibilidades disponíveis \nna rede mundial de computadores. Nesse sentido, \nPierre Lévy destaca como um dos principais aspectos da \ninternet o(a)\nA\t \tespaço aberto para a aprendizagem.\nB\t \tgrande número de ferramentas de pesquisa.\nC\t \tausência de mapas ou guias explicativos.\nD\t \tinfinito número de páginas virtuais.\nE\t \tdificuldade de acesso aos sites de pesquisa.",
+  "processado_em": "2026-05-11T23:25:35.917389",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 54\t\nUm importante princípio da biologia, relacionado à \ntransmissão de caracteres e à embriogênese humana, \nfoi quebrado com a descoberta do microquimerismo \nfetal. Microquimerismo é o nome dado ao fenômeno \nbiológico referente a uma pequena população de células \nou DNA presente em um indivíduo, mas derivada de um \norganismo geneticamente distinto. Investigando-se a \npresença do cromossomo Y, foi revelado que diversos \ntecidos de mulheres continham células masculinas. \nA análise do histórico médico revelou uma correlação \nextremamente curiosa: apenas as mulheres que antes \ntiveram filhos homens apresentaram microquimerismo \nmasculino. Essa correlação levou à interpretação de que \nexiste uma troca natural entre células do feto e maternas \ndurante a gravidez.\nMUOTRI, A. Você não é só você: carregamos células maternas na maioria de nossos \nórgãos. Disponível em: http://g1.globo.com. Acesso em: 4 dez. 2012 (adaptado).\nO princípio contestado com essa descoberta, relacionado \nao desenvolvimento do corpo humano, é o de que\nA\t o fenótipo das nossas células pode mudar por \ninfluência do meio ambiente.\nB\t a dominância genética determina a expressão de \nalguns genes.\nC\t as mutações genéticas introduzem variabilidade no \ngenoma.\nD\t as mitocôndrias e o seu DNA provêm do gameta \nmaterno.\nE\t as nossas células corporais provêm de um único \nzigoto.",
+  "processado_em": "2026-05-08T14:00:47.119914",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 135\t\nA retina é um tecido sensível à luz, localizado na parte \nposterior do olho, onde ocorre o processo de formação \nde imagem. Nesse tecido, encontram-se vários tipos \ncelulares específicos. Um desses tipos celulares são os \ncones, os quais convertem os diferentes comprimentos \nde onda da luz visível em sinais elétricos, que são \ntransmitidos pelo nervo óptico até o cérebro.\nDisponível em: www.portaldaretina.com.br. Acesso em: 13 jun. 2012 (adaptado).\nEm relação à visão, a degeneração desse tipo celular irá\nA\t comprometer a capacidade de visão em cores.\nB\t impedir a projeção dos raios luminosos na retina.\nC\t provocar a formação de imagens invertidas na retina.\nD\t causar dificuldade de visualização de objetos próximos.\nE\t acarretar a perda da capacidade de alterar o diâmetro \nda pupila.",
+  "processado_em": "2026-05-11T23:25:52.307714",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

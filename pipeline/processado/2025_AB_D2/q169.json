@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 169\t\nO proprietário de um terreno em declive decidiu construir \ndois muros nas laterais de sua propriedade, ambos com \n40 metros de comprimento, 2 metros de altura em uma das \nextremidades e 2,5 metros na outra, conforme representado \nna figura.\nPara realizar a obra, esse proprietário consultou cinco \npedreiros, que cobram o mesmo valor por metro quadrado \nde muro construído. A medida da área total orçada por esses \npedreiros foi:\n•\tpedreiro I: 160 m2;\n•\tpedreiro II: 200 m2;\n•\tpedreiro III: 180 m2;\n•\tpedreiro IV: 90 m2;\n• pedreiro V: 169 m2",
+  "processado_em": "2026-05-08T14:06:53.919956",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 85\t\nHá pouco mais de um ano, o chefe de polícia do \nEstado do Rio de Janeiro, Dr. Alfredo Madureira, em pleno \nexercício de suas atribuições, entendeu tomar energéticas \nprovidências contra o curandeiro Breves, e depois de \nsucessivas queixas que recebera relativamente às curas \npraticadas pelo milagroso esculápio, concluiu as suas \ndiligências policiais com a prisão de Breves. Essa prisão, \nporém, e as medidas tomadas contra a exploração da \nboa-fé de muita gente infeliz tiveram de cessar, porque \napareceram os advogados do curandeiro Breves, em nome \nda liberdade de profissão, e em nome da arte sobrenatural \nde cura com benzeduras e raminhos de alecrim. E assim, \nfindaram as perseguições ao benemérito esculápio que, \nde fronte erguida, continuou a sua carreira de triunfo, \ninterrompida por um curto espaço de tempo.\nAutoridade e curandeirismo. Gazeta de Notícias, 18 out. 1896.\nNo texto, os dois pontos de vista apresentados pela \npolícia e pelos advogados sobre as práticas populares \nde cura se distanciam por apresentarem\nA\t\nA\t visões díspares sobre o mesmo tipo de ofício.\nB\t\nB\t discursos laudatórios sobre a mesma ordem vigente.\nC\t\nC\t regras sanitárias sobre a mesma atividade terapêutica.\nD\t\nD\t registros certificados sobre o mesmo exercício médico.\nE\t\nE\t regulamentos eugênicos sobre o mesmo fenômeno \nda cultura.",
+  "processado_em": "2026-05-08T14:05:21.432136",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

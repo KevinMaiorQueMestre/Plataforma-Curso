@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 55          \nSerá que as coisas lhe pareceriam diferentes se, de \nfato, todas elas existissem apenas na sua mente — se \ntudo o que você julgasse ser o mundo externo real fosse \napenas um sonho ou alucinação gigante, de que você \njamais fosse despertar? Se assim fosse, então é claro \nque você nunca poderia despertar, como faz quando \nsonha, pois significaria que não há mundo “real” no qual \ndespertar. Logo, não seria exatamente igual a um sonho \nou alucinação normal.\nNAGEL, T. Uma breve introdução à filosofia. São Paulo: Martins Fontes, 2011.\nO texto confere visibilidade a uma doutrina filosófica \ncontemporânea conhecida como:\nA \t Personalismo, que vincula a realidade circundante \naos domínios do pessoal.\nB \t Falsificacionismo, que estabelece ciclos de problemas \npara refutar uma conjectura.\nC \t Falibilismo, que rejeita mecanismos mentais para \nsustentar uma crença inequívoca.\nD \t Idealismo, que nega a existência de objetos \nindependentemente do trabalho cognoscente.\nE \t Solipsismo, que reconhece limitações cognitivas para \ncompreender uma experiência compartilhada.",
+  "processado_em": "2026-05-11T23:28:04.652381",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 102\t\nAs cutias, pequenos roedores das zonas tropicais, \ntransportam pela boca as sementes que caem das \nárvores, mas, em vez de comê-las, enterram-nas em \noutro lugar. Esse procedimento lhes permite salvar a \nmaioria de suas sementes enterradas para as épocas \nmais secas, quando não há frutos maduros disponíveis. \nCientistas descobriram que as cutias roubam as \nsementes enterradas por outras, e esse comportamento \nde “ladroagem” faz com que uma mesma semente possa \nser enterrada dezenas de vezes.\nDisponível em: http://chc.cienciahoje.uol.com.br. Acesso em: 30 jul. 2012.\nEssa “ladroagem” está associada à relação de\nA\t sinfilia.\nB\t predatismo.\nC\t parasitismo.\nD\t competição.\nE\t comensalismo.",
+  "processado_em": "2026-05-11T23:27:32.808246",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

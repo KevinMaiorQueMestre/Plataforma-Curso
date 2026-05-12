@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 57\t\nPara realizar um experimento com uma garrafa PET \ncheia d´água, perfurou-se a lateral da garrafa em três \nposições a diferentes alturas. Com a garrafa tampada, \na água não vazou por nenhum dos orifícios, e, com a \ngarrafa destampada, observou-se o escoamento da água \nconforme ilustrado na figura.\nComo a pressão atmosférica interfere no escoamento \nda água, nas situações com a garrafa tampada e \ndestampada, respectivamente?\nA\t Impede a saída de água, por ser maior que a pressão \ninterna; não muda a velocidade de escoamento, que \nsó depende da pressão da coluna de água.\nB\t Impede a saída de água, por ser maior que a pressão \ninterna; altera a velocidade de escoamento, que é \nproporcional à pressão atmosférica na altura do furo.\nC\t Impede a entrada de ar, por ser menor que a pressão \ninterna; altera a velocidade de escoamento, que é \nproporcional à pressão atmosférica na altura do furo.\nD\t Impede a saída de água, por ser maior que a pressão \ninterna; regula a velocidade de escoamento, que só \ndepende da pressão atmosférica.\nE\t Impede a entrada de ar, por ser menor que a pressão \ninterna; não muda a velocidade de escoamento, que \nsó depende da pressão da coluna de água.",
+  "processado_em": "2026-05-08T14:00:13.023728",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 109\t\nPesquisadores conseguiram estimular a absorção de \nenergia luminosa em plantas graças ao uso de nanotubos \nde carbono. Para isso, nanotubos de carbono “se \ninseriram” no interior dos cloroplastos por uma montagem \nespontânea, através das membranas dos cloroplastos. \nPigmentos da planta absorvem as radiações luminosas, \nos elétrons são “excitados” e se deslocam no interior de \nmembranas dos cloroplastos, e a planta utiliza em seguida \nessa energia elétrica para a fabricação de açúcares. \nOs nanotubos de carbono podem absorver comprimentos \nde onda habitualmente não utilizados pelos cloroplastos, \ne os pesquisadores tiveram a ideia de utilizá-los como \n“antenas”, estimulando a conversão de energia solar pelos \ncloroplastos, com o aumento do transporte de elétrons.\nNanotubos de carbono incrementam a fotossíntese de plantas. \n Disponível em: http://lqes.iqm.unicamp.br. Acesso em: 14 nov. 2014 (adaptado).\nO aumento da eficiência fotossintética ocorreu pelo fato \nde os nanotubos de carbono promoverem diretamente a\nA\t utilização de água.\nB\t absorção de fótons.\nC\t formação de gás oxigênio.\nD\t proliferação dos cloroplastos.\nE\t captação de dióxido de carbono.",
+  "processado_em": "2026-05-11T23:25:50.235194",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

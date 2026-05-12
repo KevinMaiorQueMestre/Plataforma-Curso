@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nMariana não tem computador pessoal em casa e \nprecisa fazer uma pesquisa na internet para um trabalho \nde escola. Então, foi até uma lan house perto de sua casa. \nNa porta da lan house havia esta placa:\nACESSO À INTERNET\nR$ 0,12 POR MINUTO\nR$ 2,00 (TAXA DE UTILIZAÇÃO)\nAssim, quantos reais Mariana pagaria para ficar uma \nhora e meia usando a internet nessa lan house?\nA\t\nA\t R$ 0,18\nB\t\nB\t R$ 2,18\nC\t\nC\t R$ 3,08\nD\t\nD\t R$ 3,18\nE\t\nE\t R$ 12,80",
+  "processado_em": "2026-05-08T14:05:28.035945",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

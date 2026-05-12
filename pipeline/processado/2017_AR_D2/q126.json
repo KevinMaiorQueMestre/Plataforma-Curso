@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nUma das estratégias para conservação de alimentos \né o salgamento, adição de cloreto de sódio (NaCl), \nhistoricamente utilizado por tropeiros, vaqueiros e \nsertanejos para conservar carnes de boi, porco e peixe.\nO que ocorre com as células presentes nos alimentos \npreservados com essa técnica?\nA\t O sal adicionado diminui a concentração de solutos \nem seu interior.\nB\t O sal adicionado desorganiza e destrói suas \nmembranas plasmáticas.\nC\t A adição de sal altera as propriedades de suas \nmembranas plasmáticas.\nD\t Os íons Na+ e Cl− provenientes da dissociação do sal \nentram livremente nelas.\nE\t A grande concentração de sal no meio extracelular \nprovoca a saída de água de dentro delas.",
+  "processado_em": "2026-05-11T23:25:51.128453",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

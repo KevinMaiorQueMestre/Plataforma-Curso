@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 34\t\nAntes de Roma ser fundada, as colinas de Alba \neram ocupadas por tribos latinas, que dividiam o ano de \nacordo com seus deuses. Os romanos adaptaram essa \nestrutura. No princípio dessa civilização o ano tinha dez \nmeses e começava por Martius (atual março). Os outros \ndois teriam sido acrescentados por Numa Pompílio, \no segundo rei de Roma.\nAté Júlio César reformar o calendário local, os \nmeses eram lunares, mas as festas em homenagem \naos deuses permaneciam designadas pelas estações. \nO descompasso de dez dias por ano fazia com \nque, em todos os triênios, um décimo terceiro mês, o \nIntercalaris, tivesse que ser enxertado. Com a ajuda de \nmatemáticos do Egito emprestados por Cleópatra, Júlio \nCésar acabou com a bagunça ao estabelecer o seguinte \ncalendário solar: Januarius, Februarius, Martius, Aprilis, \nMaius, Junius, Quinctilis, Sextilis, September, October, \nNovember e December. Quase igual ao nosso, com as \ndiferenças de que Quinctilis e Sextilis deram origem aos \nmeses de julho e agosto.\nDisponível em: https://aventurasnahistoria.uol.com.br. \nAcesso em: 8 dez. 2018.\nConsiderando as informações no texto e aspectos \nhistóricos da formação da língua, a atual escrita dos \nmeses do ano em português\nA\t reflete a origem latina de nossa língua.\nB\t decorre de uma língua falada no Egito antigo.\nC\t tem como base um calendário criado por Cleópatra.\nD\t segue a reformulação da norma da língua proposta \npor Júlio César.\nE\t resulta da padronização do calendário antes da \nfundação de Roma.",
+  "processado_em": "2026-05-11T23:27:23.280790",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

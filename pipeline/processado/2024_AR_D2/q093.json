@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 93\t\nMoradores do Brooklin, bairro de São Paulo, perdem o \nsono com um som alto, constante e estridente. O barulho é \ncausado por anfíbios anuros trazidos do Caribe, da espécie \nEleutherodactylus jahnstonei, que têm tamanho um pouco \nmaior que o de um grão de feijão e que encontraram na \ncapital um ambiente favorável. Cientistas foram até o local \ne encontraram esses animais nos jardins das casas.\nPererecas-assobiadoras tiram o sono de moradores do \nBrooklin. Disponível em: http://g1.globo.com. \nAcesso em: 26 mar. 2015 (adaptado).\nAo emitirem o som estridente, esses anfíbios\nA\tindicam que estão fora de seu hábitat natural.\nB\talertam para a presença de poluição urbana.\nC\tsinalizam a existência de superpopulação.\nD\tdirecionam insetos para sua alimentação.\nE\tatraem fêmeas para o acasalamento.",
+  "processado_em": "2026-05-08T14:06:16.449288",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

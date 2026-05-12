@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\nO osciloscópio é um instrumento que permite observar \nXPD\u0003GLIHUHQoD\u0003GH\u0003SRWHQFLDO\u0003\u000bGGS\f\u0003HP\u0003XP\u0003FLUFXLWR\u0003HOpWULFR\u0003\nHP\u0003IXQomR\u0003GR\u0003WHPSR\u0003RX\u0003HP\u0003IXQomR\u0003GH\u0003RXWUD\u0003GGS\u0011\u0003$\u0003OHLWXUD\u0003\nGR\u0003VLQDO\u0003p\u0003IHLWD\u0003HP\u0003XPD\u0003WHOD\u0003VRE\u0003D\u0003IRUPD\u0003GH\u0003XP\u0003JUi¿FR\u0003\nWHQVmR\u0003î\u0003WHPSR\u0011\n200\n150\n100\n50\n0\n−50\n−100\n−150\n−200\nt (ms)\nddp (V)\n10\n5\n%20),0\u000f\u00030\u0011\u0003'LVSRQtYHO\u0003HP\u001d\u0003ZZZ\u0011XISU\u0011EU\u0011\u0003$FHVVR\u0003HP\u001d\u0003\u0014\u0017\u0003DJR\u0011\u0003\u0015\u0013\u0014\u0015\u0003\u000bDGDSWDGR\f\u0011\n$\u0003IUHTXrQFLD\u0003GH\u0003RVFLODomR\u0003GR\u0003FLUFXLWR\u0003HOpWULFR\u0003HVWXGDGR\u0003p\u0003\nmais próxima de\nA 300 Hz.\nB 250 Hz.\nC 200 Hz.\nD 150 Hz.\nE 125 Hz.",
+  "processado_em": "2026-05-11T23:25:26.088724",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

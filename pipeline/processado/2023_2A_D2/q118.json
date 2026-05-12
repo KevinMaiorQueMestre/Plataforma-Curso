@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 118\t\nA análise da atividade de dois cultivos celulares \nmantidos com diferentes substratos está representada \nno quadro.\nCultivo celular\nSubstrato\nRendimento \nenergético dos \nprodutos\nA\n Glicose + O2\n219 kcal/mol\nB\n Glicose\n29 kcal/mol\nQual organela celular não está ativa no cultivo B?\nA\t\nA\t Núcleo.\nB\t\nB\t Lisossomos.\nC\t\nC\t Mitocôndrias.\nD\t\nD\t Complexo de Golgi.\nE\t\nE\t Retículo endoplasmático.",
+  "processado_em": "2026-05-08T14:05:25.518923",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

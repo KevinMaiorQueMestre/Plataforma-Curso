@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t solo fértil.\nB \t encosta íngreme.\nC \t vegetação diversificada.\nD \t drenagem eficiente.\nE \t clima ameno.\nQuestão 83          \nAo abrigo do teto, sua jornada de fé começava na \nsala de jantar. Na pequena célula cristã, dividia-se a \nrefeição e durante elas os crentes conversavam, rezavam \ne liam cartas de correligionários residentes em locais \ndiferentes do Império Romano (século II da Era Cristã). \nEsse ambiente garantia peculiar apoio emocional às \nexperiências intensamente individuais que abrigava.\nSENNET, R. Carne e pedra. Rio de Janeiro: Record, 2008.\nUm motivo que explica a ambientação da prática descrita \nno texto encontra-se no(a)\nA \t regra judaica, que pregava a superioridade espiritual \ndos cultos das sinagogas.\nB \t moralismo da legislação, que dificultava as reuniões \nabertas da juventude livre.\nC \t adesão do patriciado, que subvertia o conceito \noriginal dos valores estrangeiros.\nD \t decisão política, que censurava as manifestações \npúblicas da doutrina dissidente.\nE violência senhorial, que impunha a desestruturação",
+  "processado_em": "2026-05-11T23:28:06.613438",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

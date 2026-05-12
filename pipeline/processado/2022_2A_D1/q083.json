@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nO dólar fechou esta sexta-feira (15/10/21) cotado \na R$ 5,45, em queda de 1,11%. Após uma semana \nturbulenta, quando atingiu R$ 5,57 na quarta-feira (13) \ne forçou o Banco Central a vender US$ 1 bilhão por \ninstrumentos de mercado, a moeda norte-americana teve \nsua maior queda em duas semanas, mas dá sinais de \nque vai seguir valorizado ante o real nos próximos meses. \nPesam nesse cenário de alta fatores políticos; o Risco \nPaís; alta dos juros pressionando menos investimentos \ne as expectativas pessimistas do mercado para o futuro.\nAlta do dólar: entenda o que mantém a cotação acima dos R$ 5. Disponível em: \n www.istoedinheiro.com.br. Acesso em: 3 out. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:04:43.019030",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

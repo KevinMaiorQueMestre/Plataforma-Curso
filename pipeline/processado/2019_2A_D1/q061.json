@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 61\t\nUma \nação \ntomada \npor \nalguns \npaíses \nque \npode funcionar é proporcionar bolsas de estudo e \nempréstimos para aqueles que querem estudar em \ncentros universitários fora do país, com a contrapartida \nde que, após a conclusão da faculdade, essas pessoas \npossam pagar ao governo voltando e trabalhando no \npaís de origem. Desburocratizar o exercício de certas \nprofissões e incentivar centros de excelência também \npode ajudar.\nMALI, T. Disponível em: www.ufjf.br. \nAcesso em: 10 out. 2015 (adaptado).\nAs medidas governamentais descritas buscam conter a \nocorrência do seguinte processo demográfico:\nA\t Transferência de refugiados.\nB\t Deslocamento sazonal.\nC\t Movimento pendular.\nD\t Fuga de cérebros.\nE\t Fluxo de retorno.",
+  "processado_em": "2026-05-11T23:27:01.748146",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

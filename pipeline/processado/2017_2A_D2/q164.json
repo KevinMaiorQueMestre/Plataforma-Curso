@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\nUma fábrica de papel higiênico produz embalagens \ncom quatro rolos de 30 m cada, cujo preço para o \nconsumidor é R$ 3,60. Uma nova embalagem com dez \nrolos de 50 m cada, de mesma largura, será lançada no \nmercado. O preço do produto na nova embalagem deve \nser equivalente ao já produzido, mas, para incentivar as \nvendas, inicialmente o preço de venda terá um desconto \nde 10%.\nPara que isso aconteça, o preço de venda da nova \nembalagem, em real, deve ser\nA 8,10.\nB 9,00.\nC 9,90.\nD 13,50.\nE 15,00.",
+  "processado_em": "2026-05-11T23:25:30.936120",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 143 \nUm tipo de bactéria se reproduz rapidamente, formando \numa colônia com dois trilhões e quatrocentos e cinquenta \nbilhões de bactérias.\nEm notação científica, o número de bactérias dessa colônia é\nA 2,45 × 106.\nB 2,45 × 107.\nC 2,45 × 109.\nD 2,45 × 1012.\nE 2,45 × 1015.",
+  "processado_em": "2026-05-08T14:06:36.862558",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

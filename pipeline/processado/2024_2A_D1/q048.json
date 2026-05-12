@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 48\t\nO combustível mineral constitui tal vantagem para \na indústria que as fábricas e dependências deveriam \nforçosamente, segundo parece, agrupar-se em \ntorno das bacias hulhíferas. No início do século XX, \nfoi assim que se repartiu o trabalho. As cidades industriais \nespremem-se na vizinhança das minas: a população \nnelas amontoa-se em multidões densas sobre um \nsolo enegrecido pelos resíduos do carvão, sob um céu \nfuliginoso onde se busca em vão discernir o sol.\nRECLUS, E. O homem e a terra: a indústria e o comércio. \nSão Paulo: Expressão e Arte; Imaginário, 2011.\nUma mudança na produção dos espaços ocorrida no \ncontexto apresentado foi a\nA\tdiminuição de linhas férreas.\nB\tcriação de reservas ambientais.\nC\tredução da densidade demográfica.\nD\tsubstituição do sistema de navegação.\nE\tintensificação do processo de urbanização.",
+  "processado_em": "2026-05-08T14:05:54.493726",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

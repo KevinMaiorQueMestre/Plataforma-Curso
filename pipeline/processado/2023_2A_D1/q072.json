@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 72\t\nBelém é cercada por rios. Mas é a água que vem \nlá de cima que altera o ritmo na cidade. Quem vive na \ncapital paraense sempre sai de casa com uma dúvida e \numa certeza: sabe que vai chover, mas não sabe quando. \n“No Pará é assim. Ou você marca o encontro antes ou \ndepois da chuva”, conta um morador. É quase sempre assim \no ano inteiro, os moradores costumam dizer que só existem \nduas estações do ano na região — a que chove pouco e a \nque chove muito. “Não tem hora para chover”, constata uma \nmoradora. “Trabalho, escola... Atrasa tudo. Tem que ficar \nesperando passar a chuva, na verdade”, diz outra moradora.\nAntes e depois da chuva. Disponível em: http://g1.globo.com. \nAcesso em: 6 nov. 2021 (adaptado).\nQual fator geográfico favorece a condição climática da \ncidade citada no texto?\nA\t\nA\t Baixa latitude.\nB\t\nB\t Elevada altitude.\nC\t\nC\t Fraca insolação.\nD\t\nD\t Forte continentalidade.\nE\t\nE\t Acentuada refletividade.",
+  "processado_em": "2026-05-08T14:05:20.629787",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q028",
+  "imagem": "q028.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 28,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 28\t\n Disponível em: http://BP.blogspot.com. Acesso em: 24 ago. 2011.\nNa imagem, visualiza-se um método de cultivo e as \ntransformações provocadas no espaço geográfico. \nO objetivo imediato da técnica agrícola utilizada é\nA\t controlar a erosão laminar.\nB\t preservar as nascentes fluviais.\nC\t diminuir a contaminação química.\nD\t incentivar a produção transgênica.\nE\t implantar a mecanização intensiva.",
+  "processado_em": "2026-05-08T14:00:10.090487",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

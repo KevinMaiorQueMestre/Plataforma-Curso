@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nda sua memória\nmil\ne\nmui\ntos\nout\nros\nros\ntos\nsol\ntos\npou\ncoa\npou\ncoa\npag\namo\nmeu\nANTUNES, A. 2 ou + corpos no mesmo espaço. São Paulo: Perspectiva, 1998.\nTrabalhando com recursos formais inspirados no \nConcretismo, o poema atinge uma expressividade que se \ncaracteriza pela\nA\t interrupção da fluência verbal, para testar os limites \nda lógica racional.\nB\t reestruturação formal da palavra, para provocar o \nestranhamento no leitor.\nC\t dispersão das unidades verbais, para questionar o \nsentido das lembranças.\nD\t fragmentação da palavra, para representar o \nestreitamento das lembranças.\nE\t renovação das formas tradicionais, para propor uma \nnova vanguarda poética.",
+  "processado_em": "2026-05-08T14:00:55.095520",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 75\t\nA partir do século XIX e, principalmente, no século XX, iniciou-se \no uso de produtos sintéticos na agricultura. No Brasil, a partir da \ndécada de 1960 e, posteriormente, nos anos 1970, os inseticidas \nampliam sua fatia no mercado dos defensivos agrícolas.\nTROPPMAIR, H. Biogeografia e meio ambiente. \nRio de Janeiro: TB, 2012 (adaptado).\nNos espaços agrícolas, a mudança técnica descrita provocou \na diminuição da\nA\tdesagregação de camadas pedológicas.\nB\tdiversidade de polinizadores naturais.\nC\tcontaminação de lençóis freáticos.\nD\tprodutividade da terra cultivada.\nE ocorrência da erosão laminar",
+  "processado_em": "2026-05-08T14:07:02.305480",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

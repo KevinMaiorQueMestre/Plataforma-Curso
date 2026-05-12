@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 15\t\nNa produção social que os homens realizam, eles \nentram em determinadas relações indispensáveis e \nindependentes de sua vontade; tais relações de produção \ncorrespondem a um estágio definido de desenvolvimento \ndas suas forças materiais de produção. A totalidade \ndessas relações constitui a estrutura econômica da \nsociedade — fundamento real, sobre o qual se erguem as \nsuperestruturas política e jurídica, e ao qual correspondem \ndeterminadas formas de consciência social.\nMARX, K. Prefácio à Crítica da economia política. In: MARX, K.; ENGELS, F. \nTextos 3. São Paulo: Edições Sociais, 1977 (adaptado).\nPara o autor, a relação entre economia e política \nestabelecida no sistema capitalista faz com que\nA\t o proletariado seja contemplado pelo processo de \nmais-valia.\nB\t o trabalho se constitua como o fundamento real da \nprodução material.\nC\t a consolidação das forças produtivas seja compatível \ncom o progresso humano.\nD\t a autonomia da sociedade civil seja proporcional ao \ndesenvolvimento econômico.\nE\t a burguesia revolucione o processo social de \nformação da consciência de classe.",
+  "processado_em": "2026-05-08T14:00:09.360013",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nTEXTO I\nÉ muito importante entender que a significatividade do \nmundo, constituída pelas estruturas linguístico-conceituais, \nnão se reduz a uma significatividade apenas cognitiva. \nProporcionar uma significação para o mundo pode também \nconsistir em lidar com ele no sentido do “padecer”.\nCABRERA, J. Margens das filosofias da linguagem. \nBrasília: UnB, 2003 (adaptado).\nTEXTO II\nMundo, mundo, vasto mundo\nse eu me chamasse Raimundo\nseria uma rima, não seria uma solução.\nMundo, mundo, vasto mundo\nMais vasto é meu coração.\nANDRADE, C. D. Antologia poética. Rio de Janeiro: \nRecord, 1996 (fragmento).\nCom base nas informações presentes no Texto I, a \nconsideração sobre o mundo no Texto II tem uma significação:\nA\tValorativa, porque julga os atos praticados.\nB\tImperativa, porque comanda as ações efetivas.\nC\tFigurativa, porque contempla a realidade objetiva.\nD\tExpressiva, porque manifesta a experiência vivida.\nE\tAtitudinal, porque alcança as aspirações individuais.",
+  "processado_em": "2026-05-08T14:05:57.095593",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

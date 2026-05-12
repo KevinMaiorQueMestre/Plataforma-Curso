@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\nUma aluna estuda numa turma de 40 alunos. Em um \ndia, essa turma foi dividida em três salas, A, B e C, de \nDFRUGR\u0003FRP\u0003D\u0003FDSDFLGDGH\u0003GDV\u0003VDODV\u0011\u00031D\u0003VDOD\u0003$\u0003¿FDUDP\u0003\n10 alunos, na B, outros 12 alunos e na C, 18 alunos. \nSerá feito um sorteio no qual, primeiro, será sorteada \numa sala e, posteriormente, será sorteado um aluno \ndessa sala.\n4XDO\u0003 p\u0003 D\u0003 SUREDELOLGDGH\u0003 GH\u0003 DTXHOD\u0003 DOXQD\u0003 HVSHFt¿FD\u0003 VHU\u0003\nVRUWHDGD\u000f\u0003VDEHQGR\u0003TXH\u0003HOD\u0003HVWi\u0003QD\u0003VDOD\u0003&\"\nA\n1\n3\nB\n1\n18\nC\n1\n40\nD\n1\n54\nE\n7\n18",
+  "processado_em": "2026-05-11T23:25:29.959720",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

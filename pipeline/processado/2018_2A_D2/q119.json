@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nA figura apresenta um processo alternativo para obtenção de etanol combustível, utilizando o bagaço e as folhas \nda cana-de-açúcar. Suas principais etapas são identificadas com números.\nDisponível em: http://revistapesquisa.fapesp.br. Acesso em: 24 mar. 2014 (adaptado).\nEm qual etapa ocorre a síntese desse combustível?\nA\t 1\nB\t 2\nC\t 3\nD\t 4\nE\t 5",
+  "processado_em": "2026-05-11T23:26:21.347246",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

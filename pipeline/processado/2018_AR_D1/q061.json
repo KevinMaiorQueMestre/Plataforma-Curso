@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\t\nTEXTO I\nPrograma do Partido Social Democrático (PSD) \nCapitais estrangeiros\nÉ indispensável manter clima propício à entrada \nde capitais estrangeiros. A manutenção desse clima \nrecomenda a adoção de normas disciplinadoras dos \ninvestimentos e suas rendas, visando reter no país a \nmaior parcela possível dos lucros auferidos.\nTEXTO II\nPrograma da União Democrática Nacional (UDN) \nO capital\nApelar para o capital estrangeiro, necessário para os \nempreendimentos da reconstrução nacional e, sobretudo, \npara o aproveitamento das nossas reservas inexploradas, \ndando-lhe um tratamento equitativo e liberdade para a \nsaída dos juros.\nCHACON, V. História dos partidos brasileiros: discurso e práxis dos seus programas. \nBrasília: UnB, 1981 (adaptado).\nConsiderando as décadas de 1950 e 1960 no Brasil, os \ntrechos dos programas do PSD e UDN convergiam na \ndefesa da\nA\t autonomia de atuação das multinacionais.\nB\t descentralização da cobrança tributária.\nC\t flexibilização das reservas cambiais.\nD\t liberdade de remessa de ganhos.\nE\t captação de recursos do exterior.",
+  "processado_em": "2026-05-11T23:26:39.121436",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

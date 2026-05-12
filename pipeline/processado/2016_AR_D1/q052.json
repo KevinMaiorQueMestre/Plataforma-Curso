@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 18\nQUESTÃO 52\t\nOs feromônios são substâncias utilizadas na comunica\nisolado de um inseto foi o bombicol, substância produzida \nBom\nO uso de feromônios em ações de controle de insetos\nagricultura do futuro. São agentes altamente específicos\ndeterminados cultivos, conforme ilustrado no quadro.\nSubstância\nO\nNH\nOH\nO\nOH\nOCO\nOH\nFERREIRA, J. T. B.; ZARBIN, P. H. G. Amor ao primeiro odor: a\nConsiderando essas estruturas químicas, o tipo de estereoi\npelo feromônio utilizado no controle do inseto\nA\t Sitophilus spp.\nB\t Migdolus fryanus.\nC\t Anthonomus rubi.\nD\t Grapholita molesta.\nE\t Scrobipalpuloides absoluta.",
+  "processado_em": "2026-05-08T14:01:08.135563",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 112\t\nA fluidez da membrana celular é caracterizada pela \ncapacidade de movimento das moléculas componentes \ndessa estrutura. Os seres vivos mantêm essa \npropriedade de duas formas: controlando a temperatura \ne/ou alterando a composição lipídica da membrana. \nNeste último aspecto, o tamanho e o grau de insaturação \ndas caudas hidrocarbônicas dos fosfolipídios, conforme \nrepresentados na figura, influenciam significativamente \na fluidez. Isso porque quanto maior for a magnitude das \ninterações entre os fosfolipídios, menor será a fluidez da \nmembrana.\nRepresentação simplificada da estrutura  \nde um fosfolipídio\nCaudas\nhidrocarbônicas\nCabeça\npolar\nInsaturação\nAssim, existem bicamadas lipídicas com diferentes \ncomposições de fosfolipídios, como as mostradas de I a V.\nQual das bicamadas lipídicas apresentadas possui \nmaior fluidez?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V\nI\nII\nIII\nIV\nV",
+  "processado_em": "2026-05-11T23:27:33.719216",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

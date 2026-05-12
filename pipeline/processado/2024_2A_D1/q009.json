@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nO podcast é um arquivo digital de áudio que pode \nser inserido em várias plataformas on-line. Os conteúdos \ndesse formato são diversos, existem tanto os programas \nque abordam questões políticas nacionais, quanto os \nque desenvolvem temas voltados para a ciência. Enfim, \nos podcasts abrangem um leque diversificado de opções \npara os ouvintes.\nEsse arquivo digital de áudio tem marcas do formato \nradiofônico, como as entrevistas pingue-pongue — \nperguntas e respostas —, os debates em formato de \nmesa-redonda, as reportagens, os documentários em \náudios e os boletins. Contudo, não possui uma estrutura \nfixa, como os outros formatos, considerados tradicionais. \nCada episódio pode ser contado de diferentes maneiras. \nVale ressaltar que outro benefício de produzir conteúdos \nnesse formato é o aprofundamento da temática. O podcast \né considerado um produto híbrido, diferente do rádio e das \ndemais mídias tradicionais e, sobretudo, é flexível.\nRevista Arco: jornalismo científico e cultural. Disponível em: \nwww.ufsm.br. Acesso em: 19 jun. 2021 (adaptado).\nEm comparação a outras mídias, o podcast tem como \ndiferencial\nA\ta versatilidade na produção e no acesso a diferentes \nconteúdos.\nB\to resgate de modelos tradicionais de programas \nradiofônicos.\nC\ta abordagem pormenorizada de temas políticos e \ncientíficos.\nD\to alcance de um público amplo e diversificado.\nE\ta predominância de linguagem coloquial.",
+  "processado_em": "2026-05-08T14:05:51.806409",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

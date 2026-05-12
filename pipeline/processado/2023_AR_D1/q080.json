@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nO Golpe Militar de 1964 foi implacável no combate \nao que restava das Ligas Camponesas, generalizadas na \ndécada anterior. No entanto, em relação aos sindicatos, \nsua atitude foi ambígua. Por meio de acordos com os \nEstados Unidos, foram concebidos centros sindicais e \ncursos de liderança com base em princípios conservadores \ne ministrados por membros da Igreja Católica.\nDEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil. \nRio de Janeiro: Ediouro, 2006 (adaptado).\nOs sindicatos rurais foram tratados da forma descrita no \ntexto porque o governo pretendia utilizá-los para\nA\t\nA\t controlar as tensões políticas.\nB\t\nB\t limitar a legislação trabalhista.\nC\t\nC\t divulgar o programa populista.\nD\t\nD\t regularizar a propriedade da terra.\nE\t\nE\t estimular a oferta de mão de obra.",
+  "processado_em": "2026-05-08T14:05:39.430159",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

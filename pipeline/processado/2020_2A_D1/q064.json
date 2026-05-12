@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 64          \nNa América Latina, cerca de 40 milhões de pessoas, \nou seja, 7% da população, não possuem água segura para \no consumo humano, enquanto mais de 6% da população \nda região ainda praticam a defecação ao ar livre, com \ngraves consequências sociais e ambientais. Essa \nproblemática é mais frequente e mais complexa, como \nseria de se esperar, nas áreas semiáridas e desérticas, \nmas também se faz presente em regiões mais favorecidas \nem termos hidrológicos: a relação entre a disponibilidade \nnatural de água e a satisfação das necessidades vitais da \npopulação não é de maneira alguma mecânica ou direta.\nCASTRO, J. E.; HELLER, L.; MORAIS, M. P. O direito à água como política pública na \nAmérica Latina: uma exploração teórica e empírica. Brasília: Ipea, 2015 (adaptado).\nA política pública capaz de solucionar o problema \napresentado é:\nA \t Subsidiar a saúde privada.\nB \t Tratar os efluentes industriais.\nC \t Proteger os mananciais de rios.\nD \t Promover a oferta de empregos.\nE \t Democratizar o saneamento básico.",
+  "processado_em": "2026-05-08T14:03:30.986219",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

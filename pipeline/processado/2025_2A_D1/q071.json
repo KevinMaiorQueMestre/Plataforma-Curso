@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 71 \nJosé Bonifácio afirmou, em representação enviada à \nAssembleia Constituinte de 1823, que a escravidão era um \ncâncer que corroía nossa vida cívica e impedia a construção da \nnação. A desigualdade é a escravidão de hoje, o novo câncer \nque impede a constituição de uma sociedade democrática.\nCARVALHO, J. M. Cidadania no Brasil: o longo caminho. \nRio de Janeiro: Civilização Brasileira, 2015.\nAo comparar dois períodos distintos da história do Brasil, o autor \nentende que os fenômenos citados\nA fomentam a exclusão social.\nB descrevem a política partidária.\nC geram a subalternidade cultural.\nD desenvolvem a identidade coletiva.\nE incentivam a representação eleitoral.",
+  "processado_em": "2026-05-08T14:06:30.201925",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

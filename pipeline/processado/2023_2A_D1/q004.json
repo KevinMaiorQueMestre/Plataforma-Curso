@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 04\t\nMujeres de la radio en la selva tropical\nTres valientes mujeres de Ecuador han emprendido \nuna lucha digital. Con micrófono y grabadora atraviesan la \nselva tropical. Su pequeña emisora de radio se convierte \nen bastión contra la explotación de su tierra. Los pueblos \nindígenas de la selva amazónica están amenazados: las \nempresas petroleras están invadiendo cada vez más sus \nhábitats. Las reporteras radiales vuelven a sus raíces para \ndarles voz a las mujeres indígenas.\nMariana Canelos, Jiyun Uyunkar y Rupay Sumak \nviven hoy en la ciudad, pero nacieron y se crearon en la \nselva. Además del español, también hablan sus lenguas \ntribales, lo que es indispensable para llegar a los oyentes \nen los remotos pueblos amazónicos. “Hasta ahora nadie \nha dado voz a las mujeres de las aldeas. Pero nosotras \nlo hacemos”, dice Mariana Canelos, “queremos mostrar \nsu vida cotidiana, grabar sus historias y canciones antes \nde que se olviden”. Para ello, las mujeres de la radio se \ntrasladan en canoa por el Amazonas y sus afluentes, \nincluso en las zonas más remotas.\nDisponível em: www.dw.com. Acesso em: 28 out. 2021.",
+  "processado_em": "2026-05-08T14:05:16.176050",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

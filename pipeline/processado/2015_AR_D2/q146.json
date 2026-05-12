@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nUm arquiteto está reformando uma casa. De modo \na contribuir com o meio ambiente, decide reaproveitar \ntábuas de madeira retiradas da casa. Ele dispõe de \n40 tábuas de 540 cm, 30 de 810 cm e 10 de 1 080 cm, \ntodas de mesma largura e espessura. Ele pediu a um \ncarpinteiro que cortasse as tábuas em pedaços de mesmo \ncomprimento, sem deixar sobras, e de modo que as novas \npeças ficassem com o maior tamanho possível, mas de \ncomprimento menor que 2 m.\nAtendendo o pedido do arquiteto, o carpinteiro deverá produzir\nA\t 105 peças.\nB\t 120 peças.\nC\t 210 peças.\nD\t 243 peças.\nE\t 420 peças.",
+  "processado_em": "2026-05-08T14:00:56.997078",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

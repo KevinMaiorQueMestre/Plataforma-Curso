@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 104\t\nPara os circuitos de maratonas aquáticas realizadas em \nmares calmos e próximos à praia, é montado um sistema \nde boias que determinam o trajeto a ser seguido pelos \nnadadores. Uma das dificuldades desse tipo de circuito \né compensar os efeitos da corrente marinha. O diagrama \ncontém o circuito em que deve ser realizada uma volta no \nsentido anti-horário. As quatro boias estão numeradas de \n1 a 4. Existe uma corrente marinha de velocidade υc\n→, cujo \nmódulo é 30 metros por minuto, paralela à praia em toda \na área do circuito. Nas arestas mais longas, o nadador \nprecisará nadar na direção apontada pelos vetores υn\n→ dos \npontos 1 até 2 e de 3 até 4. Considere que a velocidade \ndo nadador é de 50 metros por minuto, em relação à água, \ndurante todo o circuito.\nNessa situação, em quantos minutos o nadador completará \na prova?\nA\t42\nB\t65\nC\t72\nD\t105\nE\t120",
+  "processado_em": "2026-05-08T14:06:17.368238",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 69\t\nRecentemente um estudo feito em campos de trigo \nmostrou que níveis elevados de dióxido de carbono na \natmosfera prejudicam a absorção de nitrato pelas plantas. \nConsequentemente, a qualidade nutricional desses \nalimentos pode diminuir à medida que os níveis de dióxido \nde carbono na atmosfera atingirem as estimativas para as \npróximas décadas.\nBLOOM, A. J. et al. Nitrate assimilation is inhibited by elevated CO2 in field-grown wheat. \nNature Climate Change, n. 4, abr. 2014 (adaptado).\nNesse contexto, a qualidade nutricional do grão de trigo \nserá modificada primariamente pela redução de\nA\t amido.\nB\t frutose.\nC\t lipídeos.\nD\t celulose.\nE\t proteínas.",
+  "processado_em": "2026-05-08T14:01:09.703446",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

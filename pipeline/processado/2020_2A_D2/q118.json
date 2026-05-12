@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 118          \nUm cidadão que se mudou de Brasília para Recife, \napós algum tempo, percebeu que partes de seu carro \nestavam enferrujando muito rapidamente. Perguntou para \nseu filho, estudante do ensino médio, a explicação para o \nfenômeno. O filho pesquisou na internet e descobriu que, \npor causa da maresia, gotículas de água do mar atingem \nos objetos de aço (liga de ferro e carbono) e intensificam \nsua corrosão. Com base nessa informação, o estudante \nexplicou corretamente ao pai o efeito do cloreto de sódio \nna corrosão.\nA explicação correta de a maresia acelerar a corrosão do \naço é porque\nA \t reduz o ferro.\nB \t oxida o carbono.\nC \t dissolve a pintura do carro.\nD \t torna a água mais condutora.\nE \t diminui a dissolução do oxigênio na água.",
+  "processado_em": "2026-05-08T14:03:37.001420",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

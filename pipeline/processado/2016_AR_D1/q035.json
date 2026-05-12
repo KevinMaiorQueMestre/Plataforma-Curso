@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q035",
+  "imagem": "q035.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 35,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 35\t\nO coronelismo era fruto de alteração na relação de forç\nfortalecimento do poder do Estado antes que o predomínio\nsistema político nacional, com base em barganhas entre o \npúblicos, desde o delegado de polícia até a professora prim\nna forma de voto.\nCARVALHO, J. M. Po\nNo contexto da Primeira República no Brasil, as relações p\nA\t coação das milícias locais.\nB\t estagnação da dinâmica urbana.\nC\t valorização do proselitismo partidário.\nD\t disseminação de práticas clientelistas.\nE\t centralização de decisões administrativas.",
+  "processado_em": "2026-05-08T14:01:05.944503",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

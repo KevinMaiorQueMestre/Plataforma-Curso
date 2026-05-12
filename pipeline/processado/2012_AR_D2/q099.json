@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 99\t\nQue estratégia argumentativa leva o personagem do terce\nA\t Prova concreta, ao expor o produto ao consumidor.\nB\t Consenso, ao sugerir que todo vendedor tem técnica.\nC\t Raciocínio lógico, ao relacionar uma fruta com um prod\nD\t Comparação, ao enfatizar que os produtos apresentad\nE Indução, ao elaborar o discurso de acordo com os ans",
+  "processado_em": "2026-05-08T13:59:22.204052",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

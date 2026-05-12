@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 88\t\nComo mostra a experiência histórica, mesmo nos países \ncentrais, a expansão do mercado de imóveis residenciais para \nas camadas de baixa renda, ou mesmo para setores inferiores \ndas camadas médias, somente ocorre quando há um sistema \nde crédito capaz de financiar, principalmente, o consumo. \nEssas experiências mostram, ainda, a importância do “fundo \npúblico” como elemento assegurador dos financiamentos. \nAlém disso, deve ser considerado que, no caso brasileiro, dada a \nestrutura de distribuição de renda e os altos níveis de pobreza, \nesse sistema de financiamento deve contar necessariamente \ncom um sistema amplo de subsídios.\nCARDOSO, A. L. Assentamentos precários no Brasil: discutindo conceitos. \nIn: MORAIS, M. P.; KRAUSE, C.; LIMA NETO, V. C. (Org.). \nCaracterização e tipologia de assentamentos precários: \nestudos de caso. Brasília: Ipea, 2016.\nNo contexto socioespacial descrito, a atuação do poder público \nobjetiva mitigar o problema do(a)\nA\tgentrificação local.\nB\tdéficit habitacional.\nC\tdesemprego estrutural.\nD\tconcentração fundiária.\nE\tespeculação monetária.",
+  "processado_em": "2026-05-08T14:06:47.810346",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 180        \nPergolado é o nome que se dá a um tipo de cobertura \nprojetada por arquitetos, comumente em praças e jardins, \npara criar um ambiente para pessoas ou plantas, no qual \nhá uma quebra da quantidade de luz, dependendo da \nposição do sol. É feito como um estrado de vigas iguais, \npostas paralelas e perfeitamente em fi la, como ilustra a \nfi gura.\n30 cm\n30 cm\nUm arquiteto projeta um pergolado com vãos de \n30 cm de distância entre suas vigas, de modo que, no \nsolstício de verão, a trajetória do sol durante o dia seja \nrealizada num plano perpendicular à direção das vigas, \ne que o sol da tarde, no momento em que seus raios \nfi zerem 30° com a posição a pino, gere a metade da luz \nque passa no pergolado ao meio-dia.\nPara atender à proposta do projeto elaborado pelo \narquiteto, as vigas do pergolado devem ser construídas \nde maneira que a altura, em centímetro, seja a mais \npróxima possível de\nA 9.\nB  15.\nC  26.\nD  52.\nE  60.",
+  "processado_em": "2026-05-11T23:28:20.778319",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

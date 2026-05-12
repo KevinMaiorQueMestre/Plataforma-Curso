@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nUm pescador tem um custo fixo diário de R$ 900,00 \ncom combustível, iscas, manutenção de seu barco e outras \npequenas despesas. Ele vende cada quilograma de peixe por \nR$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00 \npor dia. Sozinho, ele consegue, ao final de um dia de trabalho, \npescar 180 kg de peixe, o que é suficiente apenas para cobrir o \ncusto fixo diário. Portanto, precisa contratar ajudantes, pagando \npara cada um R$ 250,00 por dia de trabalho. Além desse valor, \n4% da receita obtida pela venda de peixe é repartida igualmente \nentre os ajudantes. Considerando o tamanho de seu barco, ele \npode contratar até 5 ajudantes. Ele sabe que com um ajudante \na pesca diária é de 300 kg e que, a partir do segundo \najudante contratado, aumenta-se em 100 kg a quantidade de \npeixe pescada por ajudante em um dia de trabalho.\nA quantidade mínima de ajudantes que esse pescador \nprecisa contratar para conseguir o lucro diário pretendido é\nA\t\nA\t 1.\nB\t\nB\t 2.\nC\t\nC\t 3.\nD\t\nD\t 4.\nE\t\nE\t 5.",
+  "processado_em": "2026-05-08T14:05:46.232081",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nO Esquema I mostra a configuração de uma quadra \nde basquete. Os trapézios em cinza, chamados de \ngarrafões, correspondem a áreas restritivas.\n580 cm\n600 cm\n360 cm\n580 cm\n360 cm\nEsquema I: área restritiva antes de 2010 \n600 cm\nVisando atender as orientações do Comitê Central da \nFederação Internacional de Basquete (Fiba) em 2010, que \nunificou as marcações das diversas ligas, foi prevista uma \nmodificação nos garrafões das quadras, que passariam a \nser retângulos, como mostra o Esquema II.\n580 cm\n580 cm\n490 cm\n490 cm\nEsquema II: área restritiva a partir de 2010\nApós executadas as modificações previstas, houve \numa alteração na área ocupada por cada garrafão, que \ncorresponde a um(a)\nA\t aumento de 5 800 cm².\nB\t aumento de 75 400 cm².\nC\t aumento de 214 600 cm².\nD\t diminuição de 63 800 cm².",
+  "processado_em": "2026-05-08T14:00:57.648522",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

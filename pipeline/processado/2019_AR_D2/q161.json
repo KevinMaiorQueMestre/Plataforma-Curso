@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 161\t\nAs luminárias para um laboratório de matemática \nserão fabricadas em forma de sólidos geométricos. \nUma delas terá a forma de um tetraedro truncado. \nEsse sólido é gerado a partir de secções paralelas \na cada uma das faces de um tetraedro regular. \nPara essa luminária, as secções serão feitas de \nmaneira que, em cada corte, um terço das arestas \nseccionadas serão removidas. Uma dessas secções \nestá indicada na figura.\nEssa luminária terá por faces\nA\t 4 hexágonos regulares e 4 triângulos equiláteros.\nB\t 2 hexágonos regulares e 4 triângulos equiláteros.\nC\t 4 quadriláteros e 4 triângulos isósceles.\nD\t 3 quadriláteros e 4 triângulos isósceles.\nE\t 3 hexágonos regulares e 4 triângulos equiláteros.\na\n3\na",
+  "processado_em": "2026-05-11T23:27:37.367625",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

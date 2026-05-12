@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 96\t\nAs soluções de hipoclorito de sódio têm ampla \naplicação como desinfetantes e alvejantes. Em uma \nempresa de limpeza, o responsável pela área de compras \ndeve decidir entre dois fornecedores que têm produtos \nsimilares, mas com diferentes teores de cloro.\nUm dos fornecedores vende baldes de 10 kg de \nproduto granulado, contendo 65% de cloro ativo, a um \ncusto de R$ 65,00. Outro fornecedor oferece, a um custo \nde R$ 20,00, bombonas de 50 kg de produto líquido \ncontendo 10% de cloro ativo.\nConsiderando apenas o quesito preço por kg de cloro \nativo e desprezando outras variáveis, para cada bombona \nde 50 kg haverá uma economia de\nA\t R$ 4,00.\nB\t R$ 6,00.\nC\t R$ 10,00.\nD\t R$ 30,00.\nE\t R$ 45,00.",
+  "processado_em": "2026-05-11T23:26:19.531649",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

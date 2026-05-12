@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t 93\nQuestão 162        \nCom o objetivo de contratar uma empresa responsável \npelo serviço de atendimento ao público, os executivos \nde uma agência bancária realizaram uma pesquisa de \nsatisfação envolvendo cinco empresas especializadas \nnesse segmento. Os procedimentos analisados (com \npesos que medem sua importância para a agência) e \nas respectivas notas que cada empresa recebeu estão \norganizados no quadro.\nProcedimento\nPeso\nNotas da empresa\nX\nY\nZ\nW\nT\nRapidez no \natendimento\n3\n5\n1\n4\n3\n4\nClareza nas \ninformações \npassadas aos \nclientes\n5\n1\n4\n3\n3\n2\nCortesia no \natendimento\n2\n2\n2\n2\n3\n4\nA agência bancária contratará a empresa com a maior \nmédia ponderada das notas obtidas nos procedimentos \nanalisados.\nApós a análise dos resultados da pesquisa de satisfação, \nos executivos da agência bancária contrataram a empresa \nA \t X.\nB \t Y.\nC \t Z.\nD \t W.\nE\t T.",
+  "processado_em": "2026-05-11T23:28:19.570874",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

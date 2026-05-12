@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nUma família composta por sete pessoas adultas, \napós decidir o itinerário de sua viagem, consultou \no site de uma empresa aérea e constatou que o voo \npara a data escolhida estava quase lotado. Na figura, \ndisponibilizada pelo site, as poltronas ocupadas estão \nmarcadas com X e as únicas poltronas disponíveis são \nas mostradas em branco.\nL\nG\nDisponível em: www.gebh.net. Acesso em: 30 out. 2013 (adaptado).\nO número de formas distintas de se acomodar a família \nnesse voo é calculado por\nA\t\n9!\n2!\nB\t\n9!\n7! × 2!\nC\t 7!\nD\t\n5!\n2!\n × 4!\nE\t\n5!\n4!\n × 4!\n3!",
+  "processado_em": "2026-05-08T14:00:59.097123",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

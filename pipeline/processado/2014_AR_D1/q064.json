@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 64\t\nO pêndulo de Newton pode ser constituído por cinco \npêndulos idênticos suspensos em um mesmo suporte. \nEm um dado instante, as esferas de três pêndulos são \ndeslocadas para a esquerda e liberadas, deslocando-se \npara a direita e colidindo elasticamente com as outras \nduas esferas, que inicialmente estavam paradas.\nO movimento dos pêndulos após a primeira colisão está \nrepresentado em:\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:00:30.919387",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

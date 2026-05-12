@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q039",
+  "imagem": "q039.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 39,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 39\t\nDisponível em: www.cnbbsul1.org.br. Acesso em: 2 ago. 2019.\nAs informações contidas no texto dessa campanha têm \no objetivo de\nA\t\nA\t avaliar as políticas públicas para melhorar a qualidade \ndos serviços prestados ao povo brasileiro.\nB\t\nB\t apresentar os canais de participação social, como os \nConselhos previstos na Constituição Federal de 1988.\nC\t\nC\t descrever o ciclo e as etapas de organização de uma \npolítica pública como incentivo à participação social.\nD\t\nD\t fazer a distinção entre as políticas de governo e as \npolíticas de Estado a fim de incentivar a busca por \ndireitos.\nE\t\nE\t estimular a participação da sociedade civil em políticas \npúblicas para fortalecer a cidadania e o bem comum.",
+  "processado_em": "2026-05-08T14:04:40.068521",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

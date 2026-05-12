@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nA figura representa o globo terrestre e nela estão \nmarcados os pontos A, B e C. Os pontos A e B estão \nlocalizados sobre um mesmo paralelo, e os pontos B e \nC, sobre um mesmo meridiano. É traçado um caminho do \nponto A até C, pela superfície do globo, passando por B, \nde forma que o trecho de A até B se dê sobre o paralelo \nque passa por A e B e, o trecho de B até C se dê sobre o \nmeridiano que passa por B e C. Considere que o plano a \né paralelo à linha do equador na figura.\nA projeção ortogonal, no plano a, do caminho traçado no \nglobo pode ser representada por\nA\nA\nB\nC\nB\nA\nB\nC\nC\nA\nB\nC\nD\nA\nB\nC\nE\nA\nB\nC",
+  "processado_em": "2026-05-08T14:01:24.283336",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

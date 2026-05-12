@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nA capacidade de refrigeração de um condicionador \nde ar é medida na unidade BTUh. O cálculo de quantos \nBTUh são necessários para a refrigeração adequada de \num ambiente depende de vários fatores. Em um ambiente \nfechado de altura padrão, com uma única pessoa, cada \nmetro quadrado de área do piso demanda 600 BTUh de \ncapacidade do condicionador de ar e, para cada pessoa \na mais nesse ambiente, exige-se mais 600 BTUh. Além \ndisso, cada aparelho eletrônico ligado (excluindo-se o \ncondicionador de ar) demanda mais 600 BTUh.\nDisponível em: www.webarcondicionado.com.br. \nAcesso em: 24 nov. 2021 (adaptado).\nEm uma sala retangular fechada de 6 metros de \ncomprimento, 4 metros de largura e altura padrão, \n5 pessoas trabalham simultaneamente em 5 computadores \nligados, e há um condicionador de ar de 24 600 BTUh.\nUm projeto prevê a contratação de novos funcionários \ne a instalação de novos computadores. Cada funcionário \nterá acesso a um único computador, e cada computador \nsó poderá ser utilizado por um único funcionário. \nSerão mantidos os computadores, os funcionários e o \ncondicionador de ar atuais, devendo este ser suficiente para \na refrigeração adequada da sala após a implementação do \nprojeto. Não haverá outros aparelhos eletrônicos no local.\nQual é a quantidade máxima de novos funcionários que pode \nser contratada de forma que se atenda à implementação \ndo projeto?\nA\t3\nB\t4\nC\t6\nD\t7\nE\t8",
+  "processado_em": "2026-05-08T14:06:05.805300",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

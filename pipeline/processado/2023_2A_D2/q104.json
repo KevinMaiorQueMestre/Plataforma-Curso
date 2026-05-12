@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 104\t\nNo manual de bolso sobre a sífilis, disponibilizado \ngratuitamente pelo Ministério da Saúde, é informado que a \nsífilis congênita é resultado da disseminação hematogênica \ndo Treponema pallidum, presente no sangue da gestante \ninfectada. A falta de tratamento ou tratamento inadequado \ndurante o período embrionário causa a transmissão vertical \npor via transplacentária. \nManual de bolso — sífilis. Disponível em: http://bvsms.saude.gov.br. \nAcesso em: 10 fev. 2012 (adaptado).\nConsidere uma gestante que descobre, no primeiro mês \nde gravidez, estar contaminada por essa bactéria. Para \ndiminuir a chance de contaminação do feto, a gestante \ndeverá\nA\t\nA\t realizar um transplante de placenta.\nB\t\nB\t tratar por via transplacentária o embrião.\nC\t\nC\t fazer exames sorológicos durante a gestação.\nD\t\nD\t eliminar o quanto antes o parasita de seu sangue.\nE\t\nE\t medicar adequadamente a criança logo após o \nnascimento.",
+  "processado_em": "2026-05-08T14:05:24.769431",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 11\t\nCIPRIANI, F. Disponível em: www.snmsolutions.com.br. Acesso em: 15 maio 2013 (adaptado).\nO consumidor do século XXI, chamado de novo \nconsumidor social, tende a se comportar de modo \ndiferente do consumidor tradicional. Pela associação das \ncaracterísticas apresentadas no diagrama, infere-se que \nesse novo consumidor sofre influência da\nA\t \tcultura do comércio eletrônico.\nB\t \tbusca constante pelo menor preço.\nC\t \tdivulgação de informações pelas empresas.\nD\t \tnecessidade recorrente de consumo.\nE\t \tpostura comum aos consumidores tradicionais.\nUsa novos canais\non-line e novas\nferramentas de\ncomunicação\nConfia em\nconselhos de\namigos on-line,\nconhecidos e\nestranhos\nTende a comprar\nmais on-line do\nque off-line\nQuer fornecer\nfeedback sobre\no produto e\nserviço ao\ncliente\nDeseja uma\nexperiência\nmelhor on-line \ndo que off-line\nLê e cria\navaliações,\nranking de \nprodutos e posts\nem blogs\nQuer suporte para\nencontrar pessoas\nque compartilham \nda mesma\nopinião\nNovo consumidor\nsocial",
+  "processado_em": "2026-05-11T23:25:36.065965",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

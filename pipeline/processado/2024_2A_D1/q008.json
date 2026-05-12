@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\nAL MARGEN. Os defeitos da sociedade. \nIlustração, lápis. 2016.\nDisponível em: https://culturainquieta.com. Acesso em: 18 nov. 2021.",
+  "processado_em": "2026-05-08T14:05:51.746305",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

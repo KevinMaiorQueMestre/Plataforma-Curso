@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\nUm estudante relatou que o mapeamento do DNA da \ncevada foi quase todo concluído e seu código genético \nGHVYHQGDGR\u0011\u0003&KDPRX\u0003DWHQomR\u0003SDUD\u0003R\u0003Q~PHUR\u0003GH\u0003JHQHV\u0003\nque compõem esse código genético e que a semente da \ncevada, apesar de pequena, possui um genoma mais \ncomplexo que o humano, sendo boa parte desse código \nconstituída de sequências repetidas. Nesse contexto, \no conceito de código genético está abordado de forma \nequivocada.\n&LHQWL¿FDPHQWH\u0003HVVH\u0003FRQFHLWR\u0003p\u0003GH¿QLGR\u0003FRPR\nA WULQFDV\u0003GH\u0003QXFOHRWtGHRV\u0003TXH\u0003FRGL¿FDP\u0003RV\u0003DPLQRiFLGRV\u0011\nB ORFDOL]DomR\u0003 GH\u0003 WRGRV\u0003 RV\u0003 JHQHV\u0003 HQFRQWUDGRV\u0003 HP\u0003 XP\u0003\ngenoma.\nC FRGL¿FDomR\u0003 GH\u0003 VHTXrQFLDV\u0003 UHSHWLGDV\u0003 SUHVHQWHV\u0003 HP\u0003\num genoma.\nD conjunto de todos os RNAs mensageiros transcritos \nem um organismo.\nE todas as sequências de pares de bases presentes em \num organismo.",
+  "processado_em": "2026-05-11T23:26:46.678519",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

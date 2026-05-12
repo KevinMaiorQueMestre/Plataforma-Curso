@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 126\t\nRecentemente um grupo de biólogos descobriu um \nanimal que vive em uma região extremamente árida no \nterritório brasileiro. Fizeram a coleta do sangue e da urina \ndesse animal e observaram que sua urina apresenta \numa concentração hipertônica em relação ao sangue.\nQue adaptação desse animal lhe permite viver na \nregião citada?\nA\t Diminuição da transpiração.\nB\t Eliminação de fezes hidratadas.\nC\t Predominância de hábitos diurnos.\nD\t Eliminação de muita água na urina.\nE\t Excreção de amônia como produto nitrogenado.",
+  "processado_em": "2026-05-11T23:27:10.241482",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

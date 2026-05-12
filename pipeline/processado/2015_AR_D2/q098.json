@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nZero Hora, jun. 2008 (adaptado).\nDia do Músico, do Professor, da Secretária, do \nVeterinário... Muitas são as datas comemoradas ao \nlongo do ano e elas, ao darem visibilidade a segmentos \nespecíficos da sociedade, oportunizam uma reflexão \nsobre a responsabilidade social desses segmentos. Nesse \ncontexto, está inserida a propaganda da Associação \nBrasileira de Imprensa (ABI), em que se combinam \nelementos verbais e não verbais para se abordar a estreita \nrelação entre imprensa, cidadania, informação e opinião.\nSobre essa relação, depreende-se do texto da ABI que,\nA\t para a imprensa exercer seu papel social, ela deve \ntransformar opinião em informação.\nB\t para a imprensa democratizar a opinião, ela deve \nselecionar a informação.\nC\t para o cidadão expressar sua opinião, ele deve \ndemocratizar a informação.\nD\t para a imprensa gerar informação, ela deve \nfundamentar-se em opinião.\nE\t para o cidadão formar sua opinião, ele deve ter \nacesso à informação.",
+  "processado_em": "2026-05-08T14:00:52.086884",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

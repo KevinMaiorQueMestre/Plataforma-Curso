@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nNa planta baixa de um clube, a piscina é representada \npor um quadrado cuja área real mede 400 m². Ao redor \ndessa piscina, será construída uma calçada, de largura \nconstante igual a 5 m.\nCalçada\nPiscina\n5 m\n5 m\n5 m\n5 m\nQual é a medida da área, em metro quadrado, ocupada \npela calçada?\nA\t\nA\t 1 000\nB\t\nB\t 900\nC\t\nC\t 600\nD\t\nD\t 500\nE\t\nE\t 400",
+  "processado_em": "2026-05-08T14:05:47.291531",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

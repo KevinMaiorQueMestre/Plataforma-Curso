@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 112\t\nNa perfuração de uma jazida petrolífera, a pressão \ndos gases faz com que o petróleo jorre. Ao se reduzir \na pressão, o petróleo bruto para de jorrar e tem de ser \nbombeado. No entanto, junto com o petróleo também se \nencontram componentes mais densos, tais como água \nsalgada, areia e argila, que devem ser removidos na \nprimeira etapa do beneficiamento do petróleo.\nA primeira etapa desse beneficiamento é a\nA\t decantação.\nB\t evaporação.\nC\t destilação.\nD\t floculação.\nE\t filtração.",
+  "processado_em": "2026-05-11T23:27:09.228917",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

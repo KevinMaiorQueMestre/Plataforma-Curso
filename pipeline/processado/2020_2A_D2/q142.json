@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 142          \nApós o término das inscrições de um concurso, cujo \nnúmero de candidatos e o número de vagas, nesta ordem, e\ninscrevendo-se mais 4 000 candidatos, fazendo com que \nTodos os candidatos inscritos fizeram a prova, e o total d\nOs demais candidatos foram reprovados.\nNessas condições, quantos foram os candidatos reprovad\nA \t 11 960\nB\t 11 970\nC \t 15 960\nD\t 15 970\nE\t 19 960",
+  "processado_em": "2026-05-08T14:03:38.179989",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

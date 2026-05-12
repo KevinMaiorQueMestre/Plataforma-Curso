@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 117\t\nAlguns hormônios sexuais têm ganhado notável atenção nos \núltimos anos por suas concentrações cada vez maiores no solo e \nna água em todo o mundo. O motivo da preocupação é porque, \nem níveis poluentes, eles têm sido associados ao câncer de mama \ne ao câncer de próstata, além de perturbarem a fisiologia dos \npeixes, podendo, ainda, afetarem o desenvolvimento reprodutivo \nde animais domésticos e selvagens. Assim, o descarte inadequado \ndesses hormônios representa uma séria ameaça ao solo, plantas, \nrecursos hídricos e humanos. De baixa polaridade, eles apresentam \numa solubilidade pequena e variável em água, dependendo dos \ngrupos presentes em suas estruturas, representando um grande \nrisco para os ambientes aquáticos. As figuras a seguir apresentam \nas estruturas de alguns desses hormônios.\nMUHAMMAD, A. et al. Environmental Impact of Estrogens \non Human, Animal and Plant Life: a Critical Review. \nEnvironment International, n. 99, 2017 (adaptado).\nDo ponto de vista das interações químicas, qual desses hormônios \napresenta maior solubilidade em ambientes aquáticos?\nA\tEstradiol.\nB\tEstriol.\nC\tEstrona.\nD\tNovestrol.\nE\tNoretindrona.",
+  "processado_em": "2026-05-08T14:07:06.378903",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

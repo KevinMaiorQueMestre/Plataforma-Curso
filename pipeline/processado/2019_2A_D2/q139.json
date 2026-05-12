@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 139\t\nA ingestão de sódio no Brasil, que já é normalmente \nalta, tende a atingir os mais elevados índices no \ninverno, quando cresce o consumo de alimentos \ncalóricos e condimentados. Mas, o sal não é um vilão, \nele pode e deve ser consumido diariamente, salvo \nalgumas restrições. Para uma pessoa saudável, o \nconsumo máximo de sal de cozinha (cloreto de sódio) \nnão deve ultrapassar 6 g diárias ou 2,4 g de sódio, \nconsiderando que o sal de cozinha é composto por \n40% de sódio e 60% de cloro.\nDisponível em: http://depoisdos25.com. \nAcesso em: 31 jul. 2012 (adaptado).\nConsidere uma pessoa saudável que, no decorrer de \n30 dias, consuma 450 g de sal de cozinha. \nO seu consumo médio diário excede ao consumo \nmáximo recomendado diariamente em\nA\t 150%\nB\t 250%\nC\t 275%\nD\t 525%\nE\t 625%",
+  "processado_em": "2026-05-11T23:27:11.758335",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

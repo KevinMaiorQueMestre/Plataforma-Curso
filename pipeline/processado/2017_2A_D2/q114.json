@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\nPesquisadores avaliaram a qualidade da água potável distribuída em cidades brasileiras. Entre as várias \nsubstâncias encontradas, destacam-se as apresentadas no esquema. A presença dessas substâncias pode ser \nYHUL¿FDGD\u0003SRU\u0003DQiOLVHV\u0003TXtPLFDV\u000f\u0003FRPR\u0003XPD\u0003UHDomR\u0003iFLGR\u0010EDVH\u000f\u0003PHGLDQWH\u0003D\u0003DGLomR\u0003GH\u0003KLGUy[LGR\u0003GH\u0003VyGLR\u0011\n'LVSRQtYHO\u0003HP\u001d\u0003ZZZ\u0011XQLFDPS\u0011EU\u0011\u0003$FHVVR\u0003HP\u001d\u0003\u0014\u0019\u0003QRY\u0011\u0003\u0015\u0013\u0014\u0017\u0003\u000bDGDSWDGR\f\u0011\n$SHVDU\u0003GH\u0003QmR\u0003VHU\u0003SHUFHSWtYHO\u0003YLVXDOPHQWH\u000f\u0003SRU\u0003FDXVD\u0003GDV\u0003FRQGLo}HV\u0003GH\u0003GLOXLomR\u000f\u0003HVVD\u0003DQiOLVH\u0003DSUHVHQWDUi\u0003UHVXOWDGR\u0003\nSRVLWLYR\u0003SDUD\u0003R\u000bD\f\nA cafeína.\nB atrazina.\nC triclosan.\nD benzo[a]pireno.\nE dipirona sódica.\nN\nN\nN\nN\nO\nCafeína\nAtrazina\nBenzo[a]pireno\nDipirona sódica\nTriclosan\nO\nO\nS\nO\u0010\u0003Na\u000e\nO\nO\nCI\nOH\nO\nCI\nCI\nN\nN\nN\nN\nCI\nN\nN\nNH\nNH",
+  "processado_em": "2026-05-11T23:25:27.518992",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

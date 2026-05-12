@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 95\t\nA farinha de linhaça dourada é um produto natural que \noferece grandes benefícios para o nosso organismo. A maior \nparte dos nutrientes da linhaça encontra-se no óleo desta \nsemente, rico em substâncias lipossolúveis com massas \nmoleculares elevadas. A farinha também apresenta altos \nteores de fibras proteicas insolúveis em água, celulose, \nvitaminas lipossolúveis e sais minerais hidrossolúveis.\nConsidere o esquema, que resume um processo de \nseparação dos componentes principais da farinha de \nlinhaça dourada.\nAdição de éter etílico, seguida de agitação\nExtrato etéreo\n(fase orgânica)\nExtrato aquoso\nFarinha de linhaça\nAdição de água, seguida de agitação\nFiltração\nFiltração\nDestilado 1\nDestilação\nDestilação\nDestilado 2\nResíduo 1\nResíduo 2\nResíduo 3\nResíduo 4\nO óleo de linhaça será obtido na fração\nA\t Destilado 1.\nB\t Destilado 2.\nC\t Resíduo 2.\nD\t Resíduo 3.\nE\t Resíduo 4.",
+  "processado_em": "2026-05-11T23:25:48.582823",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

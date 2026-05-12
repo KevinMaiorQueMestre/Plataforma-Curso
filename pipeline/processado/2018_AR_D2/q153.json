@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\nEm um aeroporto, os passageiros devem submeter \nVXDV\u0003 EDJDJHQV\u0003 D\u0003 XPD\u0003 GDV\u0003 FLQFR\u0003 PiTXLQDV\u0003 GH\u0003 UDLR\u0010;\u0003\ndisponíveis ao adentrarem a sala de embarque. Num \ndado instante, o tempo gasto por essas máquinas para \nescanear a bagagem de cada passageiro e o número de \nSHVVRDV\u0003SUHVHQWHV\u0003HP\u0003FDGD\u0003¿OD\u0003HVWmR\u0003DSUHVHQWDGRV\u0003HP\u0003\nXP\u0003SDLQHO\u000f\u0003FRPR\u0003PRVWUDGR\u0003QD\u0003¿JXUD\u0011\n35 segundos\n5 pessoas\n25 segundos\n6 pessoas\n22 segundos\n7 pessoas\n40 segundos\n4 pessoas\n20 segundos\n8 pessoas\nMáquina 5\nMáquina 4\nMáquina 3\nMáquina 2\nMáquina 1\nUm passageiro, ao chegar à sala de embarque desse \naeroporto no instante indicado, visando esperar o menor \ntempo possível, deverá se dirigir à máquina\nA 1.\nB \u0015\u0011\nC 3.\nD \u0017\u0011\nE 5.",
+  "processado_em": "2026-05-11T23:26:48.678992",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

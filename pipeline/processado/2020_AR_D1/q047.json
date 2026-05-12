@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t expansão do setor extrativista.\nB \t incremento da atividade agrícola.\nC \t diversificação da matriz energética.\nD \t fortalecimento da pesquisa científica.\nE \t monitoramento do fluxo alfandegário.\nQuestão 47          \nAs estatísticas mais recentes do Brasil rural revelam \num paradoxo que interessa a toda sociedade: o emprego \nde natureza agrícola definha em praticamente todo o país, \nmas a população residente no campo voltou a crescer; ou \npelo menos parou de cair. Esses sinais trocados sugerem \nque a dinâmica agrícola, embora fundamental, já não \ndetermina sozinha os rumos da demografia no campo. \nEsse novo cenário é explicado em parte pelo incremento \ndo emprego não agrícola no campo. Ao mesmo tempo, \naumentou a massa de desempregados, inativos e \naposentados que mantêm residência rural.\nSILVA, J. G. Velhos e novos mitos do rural brasileiro. Estudos Avançados, n. 43, dez. 2001.\nSobre o espaço brasileiro, o texto apresenta argumentos \nque refletem a \nA \t heterogeneidade do modo de vida agrário.\nB \t redução do fluxo populacional nas cidades.\nC \t correlação entre força de trabalho e migração sazonal.\nD \t indissociabilidade entre local de moradia e acesso à \nrenda.\nE \t desregulamentação das propriedades nas zonas de \nfronteira.",
+  "processado_em": "2026-05-11T23:28:04.129848",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

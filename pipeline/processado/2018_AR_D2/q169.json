@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\n8P\u0003TXHEUD\u0010FDEHoD\u0003FRQVLVWH\u0003HP\u0003UHFREULU\u0003XP\u0003TXDGUDGR\u0003\nFRP\u0003WULkQJXORV\u0003UHWkQJXORV\u0003LVyVFHOHV\u000f\u0003FRPR\u0003LOXVWUD\u0003D\u0003¿JXUD\u0011\n8PD\u0003 DUWHVm\u0003 FRQIHFFLRQD\u0003 XP\u0003 TXHEUD\u0010FDEHoD\u0003 FRPR\u0003\no descrito, de tal modo que a menor das peças é um \nWULkQJXOR\u0003UHWkQJXOR\u0003LVyVFHOHV\u0003FXMRV\u0003FDWHWRV\u0003PHGHP\u0003\u0015\u0003FP\u0011\n2\u0003 TXHEUD\u0010FDEHoD\u000f\u0003 TXDQGR\u0003 PRQWDGR\u000f\u0003 UHVXOWDUi\u0003 HP\u0003 XP\u0003\nquadrado cuja medida do lado, em centímetro, é\nA\n14\nB\n12\nC\n7 2\nD\n6\n4 2\n\u000e\nE\n6\n2 2\n\u000e",
+  "processado_em": "2026-05-11T23:26:49.737863",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

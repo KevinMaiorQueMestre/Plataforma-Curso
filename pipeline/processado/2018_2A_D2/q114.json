@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\t\nAs indústrias de cerâmica utilizam argila para produzir \nartefatos como tijolos e telhas. Uma amostra de argila \ncontém 45% em massa de sílica (SiO2) e 10% em massa \nde água (H2O). Durante a secagem por aquecimento em \numa estufa, somente a umidade é removida.\nApós o processo de secagem, o teor de sílica na argila \nseca será de\nA\t 45%.\nB\t 50%.\nC\t 55%.\nD\t 90%.\nE\t 100%.",
+  "processado_em": "2026-05-11T23:26:20.935327",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

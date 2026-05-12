@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 113\t\nO ácido ricinoleico, um ácido graxo funcionalizado, \ncuja nomenclatura oficial é ácido D-(−)-12-hidroxi-\noctadec-cis-9-enoico, é obtido da hidrólise ácida do \nóleo de mamona. As aplicações do ácido ricinoleico na \nindústria são inúmeras, podendo ser empregado desde \na fabricação de cosméticos até a síntese de alguns \npolímeros.\nPara uma amostra de solução desse ácido, o uso de um \npolarímetro permite determinar o ângulo de\nA\t refração.\nB\t reflexão.\nC\t difração.\nD\t giro levógiro.\nE\t giro destrógiro.",
+  "processado_em": "2026-05-11T23:27:09.266132",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

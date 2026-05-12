@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 102\t\nUm dos processos biotecnológicos mais antigos \né a utilização de microrganismos para a produção de \nalimentos. Num desses processos, certos tipos de \nbactérias anaeróbicas utilizam os açúcares presentes \nnos alimentos e realizam sua oxidação parcial, gerando \ncomo produto final da reação o ácido lático.\nQual produto destinado ao consumo humano tem sua \nprodução baseada nesse processo?\nA\t Pão.\nB\t Vinho.\nC\t Iogurte.\nD\t Vinagre.\nE\t Cachaça.",
+  "processado_em": "2026-05-11T23:27:08.220112",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

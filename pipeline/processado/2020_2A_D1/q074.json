@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 74          \nNo início do século XVI, as relíquias continuavam prot\nsendo levadas em solenes procissões pelas ruas, sacraliz\ncontinuidade em relação ao papel que haviam desempenha\ndaquele século, essa situação tinha se transformado. O cu\nprotestantes, que pregavam uma igreja invisível.\nCYMBALISTA, R. Relíquias sagradas e a co\nA nova abordagem sobre a prática indicada no texto funda\nA \t abandono de objetos mediadores.\nB \t instituição do ascetismo monástico.\nC \t desprezo do proselitismo religioso.\nD \t revalorização dos ritos sacramentais.\nE \t consagração de preceitos populares.",
+  "processado_em": "2026-05-08T14:03:31.568603",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

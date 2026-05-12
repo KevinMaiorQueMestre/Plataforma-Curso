@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nA exposição a alguns níveis sonoros pode causar \nlesões auditivas. Por isso, em uma indústria, são adotadas \nmedidas preventivas de acordo com a máquina que o \nfuncionário opera e o nível N de intensidade do som, \nmedido em decibel (dB), a que o operário é exposto, \nsendo N = log10I 10 − log10I 10\n0 , I a intensidade do som e \nI0 = 10−12 W/m2.\nDisponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).\nQuando o som é considerado baixo, ou seja, \nN = 48 dB ou menos, deve ser utilizada a medida \npreventiva I. No caso de o som ser moderado, quando \nN está no intervalo (48 dB, 55 dB), deve ser utilizada a \nmedida preventiva II. Quando o som é moderado alto, \nque equivale a N no intervalo (55 dB, 80 dB), a medida \npreventiva a ser usada é a III. Se N estiver no intervalo \n(80 dB, 115 dB), quando o som é considerado alto, deve ser \nutilizada a medida preventiva IV. E se o som é considerado \nmuito alto, com N maior que 115 dB, deve-se utilizar a \nmedida preventiva V.\nUma nova máquina, com I = 8 × 10−8 W/m2, foi adquirida \ne será classificada de acordo com o nível de ruído \nque produz. \nConsidere 0,3 como aproximação para log102.\nO funcionário que operará a nova máquina deverá adotar \na medida preventiva\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:46.635479",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

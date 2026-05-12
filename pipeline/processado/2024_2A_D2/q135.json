@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 135\t\nA figura ilustra diferentes etapas de um experimento r\ne pneumococos.\nA hipótese testada com a realização desse experimento é \nA\tos seres vivos sofrem mutações pelo calor.\nB\to calor é eficaz para matar microrganismos.\nC\tas bactérias virulentas não são alteradas pelo calor.\nD\ta virulência de uma bactéria pode ser transferida para o\nE a sobrevivência dos camundongos depende da quantid",
+  "processado_em": "2026-05-08T14:06:03.514512",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

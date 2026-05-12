@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nO descarte de detergentes comuns nos esgotos \ndomésticos ocasiona a formação de uma camada \nde espuma que impede a entrada de oxigênio na \nágua. Os microrganismos que vivem nessas águas \nnão são capazes de quebrar moléculas ramificadas, \nocorrendo assim um desequilíbrio ambiental nos rios. \nA fórmula a seguir representa a estrutura química de um \ntensoativo presente na composição de um detergente \nnão biodegradável.\nS\nO\nO\nO– Na+\n Tensoativo não biodegradável\nQual modificação química na estrutura desse tensoativo \no tornaria um detergente biodegradável?\nA\t\nA\t Retirar a parte polar da molécula.\nB\t\nB\t Eliminar as insaturações do anel aromático.\nC\t\nC\t Trocar o grupo aniônico por um grupo neutro.\nD\t\nD\t Alterar o grupo aniônico por um grupo catiônico.\nE\t\nE\t Modificar a cadeia carbônica para cadeia normal.",
+  "processado_em": "2026-05-08T14:05:44.018198",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

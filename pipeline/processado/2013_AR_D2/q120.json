@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nDisponível em: www.filosofia.com.br. Acesso em: 30 abr. 2010.\nPelas características da linguagem visual e pelas \nescolhas \nvocabulares, \npode-se \nentender \nque \no \ntexto possibilita a reflexão sobre uma problemática \ncontemporânea ao\nA\t criticar o transporte rodoviário brasileiro, em razão da \ngrande quantidade de caminhões nas estradas.\nB\t ironizar a dificuldade de locomoção no trânsito urbano, \ndevida ao grande fluxo de veículos.\nC\t expor a questão do movimento como um problema \nexistente desde tempos antigos, conforme frase citada.\nD\t restringir os problemas de tráfego a veículos particulares, \ndefendendo, como solução, o transporte público.\nE\t propor a ampliação de vias nas estradas, detalhando \no espaço exíguo ocupado pelos veículos nas ruas",
+  "processado_em": "2026-05-08T14:00:21.187750",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

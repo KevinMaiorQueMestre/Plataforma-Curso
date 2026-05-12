@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nUma torneira não foi fechada corretamente e ficou \npingando, da meia-noite às seis horas da manhã, com a \nfrequência de uma gota a cada três segundos. Sabe-se \nque cada gota d’agua tem volume de 0,2 mL.\nQual foi o valor mais aproximado do total de água \ndesperdiçada nesse período, em litros?\nA\t 0,2\nB\t 1,2\nC\t 1,4\nD\t 12,9\nE 64 8",
+  "processado_em": "2026-05-08T14:00:23.793931",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

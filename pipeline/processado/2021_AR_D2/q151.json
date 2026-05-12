@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E  39\nQuestão 151\nUm automóvel apresenta um desempenho médio de \n16 km/L. Um engenheiro desenvolveu um novo motor \n\b\u0002 \u001e\u0004\u0010!\f\t\r\u001d\u0004\u0002 \u000b\f\n\u0002 \n\u001e\u0004\u0005\u0004\u0010\u000e\b$\u0002 \n\u0010\u0002 \u0007\n2\b'\u001d\u0004\u0002 \b\u0004\u0002 \u001e\u0004\u0005\t\f\u0010\u0004\u0002\ndo motor anterior, 0,1 L de combustível a cada 20 km \npercorridos.\nO valor do desempenho médio do automóvel com o novo \n\u0010\u0004\r\u0004\u0007$\u0002\n\u0010\u0002\u000b\f\u000e2Y\u0010\n\r\u0007\u0004\u0002%\u0004\u0007\u00022\u000e\r\u0007\u0004$\u0002\n@%\u0007\n\t\t\u0004\u0002\u001e\u0004\u0010\u0002\f\u0010\b\u0002\u001e\b\t\b\u0002\ndecimal, é\nA  15,9.\nB  16,1.\nC  16,4.\nD  17,4.\nE 18 0",
+  "processado_em": "2026-05-08T14:04:31.192467",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

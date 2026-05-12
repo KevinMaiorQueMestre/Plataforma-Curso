@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nO Decreto Federal n. 7.390/2010, que regulamenta a Lei \nda Política Nacional sobre Mudança do Clima (PNMC) no \nBrasil, projeta que as emissões nacionais de gases de efeito \nestufa (GEE) em 2020 serão de 3,236 milhões. Esse mesmo \ndecreto define o compromisso nacional voluntário do Brasil \nem reduzir as emissões de GEE projetadas para 2020 entre \n38,6% e 38,9%.\nBRASIL. Decreto n. 7.390, de 9 de dezembro de 2010. Disponível em: www.planalto.gov.br. \nAcesso em: 2 jun. 2014 (adaptado).\nO cumprimento da meta mencionada está condicionada por\nA\t abdicar das usinas nucleares.\nB\t explorar reservas do pré-sal.\nC\t utilizar gás de xisto betuminoso.\nD\t investir em energias sustentáveis.\nE\t encarecer a produção de automóveis.",
+  "processado_em": "2026-05-11T23:26:17.445353",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 14\t\nPROPAGANDA — O exame dos textos e mensagens \nde Propaganda revela que ela apresenta posições \nparciais, que refletem apenas o pensamento de uma \nminoria, como se exprimissem, em vez disso, a convicção \nde uma população; trata-se, no fundo, de convencer o \nouvinte ou o leitor de que, em termos de opinião, está fora \ndo caminho certo, e de induzi-lo a aderir às teses que lhes \nsão apresentadas, por um mecanismo bem conhecido da \npsicologia social, o do conformismo induzido por pressões \ndo grupo sobre o indivíduo isolado.\nBOBBIO, N.; MATTEUCCI, N.; PASQUINO, G. Dicionário de política. \nBrasília: UnB, 1998 (adaptado).\nDe acordo com o texto, as estratégias argumentativas \ne o uso da linguagem na produção da propaganda \nfavorecem a\nA\t \treflexão da sociedade sobre os produtos anunciados.\nB\t \tdifusão do pensamento e das preferências das \ngrandes massas.\nC\t \timposição das ideias e posições de grupos específicos.\nD\t \tdecisão consciente do consumidor a respeito de sua \ncompra.\nE\t \tidentificação dos interesses do responsável pelo \nproduto divulgado.",
+  "processado_em": "2026-05-11T23:25:36.200810",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

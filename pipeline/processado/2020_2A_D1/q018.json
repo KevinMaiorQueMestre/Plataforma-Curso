@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 18          \nRonda Jean Rousey definitivamente é uma daquelas \nmulheres que ficará marcada na história. Ela foi capaz \nde fazer o que pouquíssimos conseguem: atrair o público \nnormal, que não está acostumado a acompanhar o MMA \nregularmente.\nRESENDE, I. Disponível em: http://espn.uol.com.br. Acesso em: 31 ago. 2017.\nRonda Rousey é uma atleta de MMA (Mixed Martial Arts \n– Artes Marciais Mistas), campeã nessa modalidade. Por \nseu desempenho na área das lutas, ela se contrapõe \nao modelo de feminilidade normativo. No contexto \nda sociedade contemporânea, no qual mulheres têm \nconquistado diferentes espaços, Ronda\nA \t masculiniza-se \nem \nfunção \ndas \ncaracterísticas \nnecessárias a essa prática esportiva.\nB \t aproveita-se do padrão estético para conquistar \npatrocínios e manter-se no esporte.\nC \t submete-se aos elementos da identidade masculina \npara se manter no esporte.\nD \t cruza uma fronteira de gênero ao se inserir numa \nárea de reserva masculina.\nE \t mantém sua feminilidade em detrimento de um alto \ndesempenho esportivo.",
+  "processado_em": "2026-05-08T14:03:25.069370",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

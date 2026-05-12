@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 170\t\nA luminância de um objeto é a grandeza que descreve a \nquantidade de luz produzida ou refletida por sua superfície. \nEla está definida como a razão entre a intensidade luminosa, \nmedida em candela (cd), e o quadrado da distância do objeto \naté o foco de luz, medida em metro (m).\nA unidade de medida da luminância de um objeto é\nA\t cd\nm2\nB\t m\ncd\n2\nC\t cd\nm\nD\t m\ncd\nE\t m\ncd2",
+  "processado_em": "2026-05-08T14:07:10.236935",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

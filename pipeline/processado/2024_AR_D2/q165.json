@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nPara abrir a porta de uma empresa, cada funcionário \ndeve cadastrar uma senha utilizando um teclado \nalfanumérico como o representado na figura.\nPor exemplo: a tecla que contém o número 2 traz as \nletras correlacionadas A, B e C. Cada toque nessa tecla \nmostra, sequencialmente, os seguintes caracteres: 2, A, B \ne C. Para os próximos toques, essa sequência se repete. \nAs demais teclas funcionam da mesma maneira.\nAs senhas a serem cadastradas pelos funcionários \ndevem conter 5 caracteres, sendo 2 algarismos distintos \nseguidos de 3 letras diferentes, nessa ordem. Um funcionário \nirá cadastrar a sua primeira senha, podendo escolher entre \nas teclas que apresentam os números 1, 2, 5, 7 e 0 e as \nrespectivas letras correlacionadas, quando houver.\nO número de possibilidades diferentes que esse \nfuncionário tem para cadastrar sua senha é\nA\t11 520.\nB\t14 400.\nC\t18 000.\nD\t312 000.\nE\t390 000.",
+  "processado_em": "2026-05-08T14:06:21.086048",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

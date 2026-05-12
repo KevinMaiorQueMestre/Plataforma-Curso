@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nAs serpentes que habitam regiões de seca podem \nficar em jejum por um longo período de tempo devido à \nescassez de alimento. Assim, a sobrevivência desses \npredadores \nestá \nrelacionada \nao \naproveitamento \nmáximo dos nutrientes obtidos com a presa capturada. \nDe acordo com essa situação, essas serpentes \napresentam alterações morfológicas e fisiológicas, \ncomo o aumento das vilosidades intestinais e a \nintensificação da irrigação sanguínea na porção interna \ndessas estruturas.\nA função do aumento das vilosidades intestinais para \nessas serpentes é maximizar o(a)\nA\t comprimento do trato gastrointestinal para caber \nmais alimento.\nB\t área de contato com o conteúdo intestinal para \nabsorção dos nutrientes.\nC\t liberação de calor via irrigação sanguínea para \ncontrole térmico do sistema digestório.\nD\t secreção de enzimas digestivas para aumentar a \ndegradação proteica no estômago.\nE\t processo de digestão para diminuir o tempo de \npermanência do alimento no intestino.",
+  "processado_em": "2026-05-08T14:00:12.712957",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \u0007\n\u000f\f'\u001d\u0004(\nB \n%\u0004@\u000e\u000f\b'\u001d\u0004(\nC \t\f!\t\r\u000e\r\f\u000e'\u001d\u0004(\nD \n\t\r\n\u0007\u000e\u0006\u001e\b'\u001d\u0004(\nE \t\b%\u0004\u0005\u000e\u0006\u001e\b'\u001d\u0004(\nQuestão 132\nDurante o desenvolvimento embrionário humano \n\u0004\u001e\u0004\u0007\u0007\n\u0002 \f\u0010\b\u0002 \u001e\u0004\u0010\f\u0005\u000e\u001e\b'\u001d\u0004\u0002 \n\u0005\r\u0007\n\u0002 \u0004\t\u0002 ?\r\u0007\u000e\u0004\t\u0002 \u000f\u000e\u0007\n\u000e\r\u0004\u0002 \n\u0002\nesquerdo através do forame oval (ou forame de Botal). \n\u0014\t\t\b\u0002 \u001e\u0004\u0010\f\u0005\u000e\u001e\b'\u001d\u0004\u0002 \u0005\u001d\u0004\u0002 \u001e\b\f\t\b\u0002 %\u0007\n\"\fG\u0004\t\u0002 *\u0002 \u001e\u000e\u0007\u001e\f2\b'\u001d\u0004\u0002\n\u000f\u0004\u0002 !\n!>\u0002 \n\u0010\u0002 P\u0004\u0007\u0010\b'\u001d\u0004$\u0002 \n@\u001e\n\r\u0004\u0002 \t\n\u0002 \n2\b\u0002 %\n\u0007\u000f\f\u0007\b\u0007\u0002 \b%B\t\u0002 \no nascimento.\n\u0017\t\u0002%\u0007\n\"\fG\u0004\t\u0002\u0005\u0004\u0002%\n\u0007G\u0004\u000f\u0004\u0002\n\u0010!\u0007\u000e\u0004\u0005?\u0007\u000e\u0004\u0002\t\u001d\u0004\u0002\n#\u000e\r\b\u000f\u0004\t\u0002%\u0004\u0007\u000b\f\n\u0002\n\b\u0002\u001e\u000e\u0007\u001e\f2\b'\u001d\u0004\u0002P\n\r\b2\u0002\t\n\u0002\b\t\t\n\u0010\n2+\b\u0002*\u0002\u000f\u0004\t_\b\tk\nA \b#\n\t$\u0002 %\u0004\u0007\u000b\f\n\u0002 \b\u0002 %\n\u000b\f\n\u0005\b\u0002 \u001e\u000e\u0007\u001e\f2\b'\u001d\u0004\u0002 \n\u0002 \b\u0002 J\u0007\b\u0005\u000f\n\u0002\n\u001e\u000e\u0007\u001e\f2\b'\u001d\u0004\u0002\n\t\r\u001d\u0004\u0002%\u0007\n\t\n\u0005\r\n\t(\nB répteis, porque a mistura de sangue é minimizada por \num metabolismo lento.\nC \u001e\u0007\u0004\u001e\u0004\u000f\u000e2\u000e\b\u0005\u0004\t$\u0002 %\u0004\u0007\u000b\f\n\u0002 \b\u0002 \t\n%\b\u0007\b'\u001d\u0004\u0002 \u000f\u0004\t\u0002 #\n\u0005\r\u0007G\u001e\f2\u0004\t\u0002\nimpede a mistura sanguínea.\nD %\n\u000e@\n\t$\u0002 %\u0004\u0007\u000b\f\n\u0002 \b\u0002 \u001e\u000e\u0007\u001e\f2\b'\u001d\u0004\u0002 Z\u0002 \t\u000e\u0010%2\n\t$\u0002 \u0004\u001e\u0004\u0007\u0007\n\u0005\u000f\u0004\u0002\n\f\u0010\b\u0002%\b\t\t\bJ\n\u0010\u0002K\u0005\u000e\u001e\b\u0002%\n2\u0004\u0002\u001e\u0004\u0007\b'\u001d\u0004(\nE anfíbios, \nporque \npressões \ndiferenciais \nisolam \ntemporalmente o sangue venoso do arterial",
+  "processado_em": "2026-05-08T14:04:30.272854",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

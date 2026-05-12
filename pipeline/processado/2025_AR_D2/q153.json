@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 153\t\nPara acompanhar o fluxo de visitantes em seu prédio, \numa empresa estabeleceu um código de identificação para a \nvisitação. De acordo com a regra estabelecida, cada visitante será \nidentificado com um código sequencial numérico com 7 dígitos, \ndeterminado, da esquerda para a direita, da seguinte forma:\n•\to primeiro dígito indica o andar ao qual o visitante se \ndirige, que é um número de 1 a 4;\n•\tos dois próximos dígitos correspondem ao número do \nsetor da empresa ao qual o visitante se destina. Esse \nnúmero varia de 01 a 20;\n•\tos três dígitos seguintes correspondem ao número do \nfuncionário da empresa com quem o visitante irá se reunir. \nEsse número varia de 001 a 135;\n•\to último dígito indica se o visitante chegou à empresa \npela manhã, dígito 0, ou à tarde, dígito 1.\nUm visitante chegou à empresa às 10 horas da manhã para \nse reunir com o funcionário identificado pelo número 109, \nque trabalha no setor 08 da empresa, localizado no 2º andar.\nO código de identificação desse visitante é\nA\t0109082.\nB\t0281090.\nC\t1010982.\nD\t2081090.\nE\t2810910.",
+  "processado_em": "2026-05-08T14:07:09.328490",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

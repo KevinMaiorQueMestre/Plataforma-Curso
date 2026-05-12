@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 173        \nO consumo de espumantes no Brasil tem \naumentado nos últimos anos. Uma das etapas do \nseu processo de produção consiste no envasamento \nda bebida em garrafas semelhantes às da imagem. \nNesse processo, a vazão do líquido no interior da \ngarrafa é constante e cessa quando atinge o nível de \nenvasamento.",
+  "processado_em": "2026-05-11T23:28:20.199157",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

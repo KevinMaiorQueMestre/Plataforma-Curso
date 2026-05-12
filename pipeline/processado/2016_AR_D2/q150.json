@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\t\nAo iniciar suas atividades, um ascensorista registra t\nde pessoas que saem do elevador em cada um dos anda\nregistros do ascensorista durante a primeira subida do térre\ndo edifício.\n Número de pessoas\nTérreo\n1o anda\nque entram no elevador\n4\n4\nque saem do elevador\n0\n3\nCom base no quadro, qual é a moda do número de pessoa\nA\t 2\nB\t 3\nC\t 4\nD\t 5\nE\t 6",
+  "processado_em": "2026-05-08T14:01:22.296092",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

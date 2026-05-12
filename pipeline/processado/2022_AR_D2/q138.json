@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\t\nA\t 0,125.\nB\t\nB\t 0,200.\nC\t\nC\t 4,800.\nD\t\nD\t 6,000.\nE\t\nE\t 12,000.\nQUESTÃO 138\t\nDefinem-se o dia e o ano de um planeta de um sistema solar \ncomo sendo, respectivamente, o tempo que o planeta leva para \ndar 1 volta completa em torno de seu próprio eixo de rotação e o \ntempo para dar 1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema \nsolar, onde um dia corresponda a 73 dias terrestres e \nque 2 de seus anos correspondam a 1 ano terrestre. \nConsidere que 1 ano terrestre tem 365 de seus dias.\nNo planeta Z, seu ano corresponderia a quantos de seus \ndias?\nA\t\nA\t 2,5\nB\t\nB\t 10,0\nC\t\nC\t 730,0\nD\t\nD\t 13 322,5\nE\t\nE\t 53 290,0",
+  "processado_em": "2026-05-08T14:05:11.420403",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

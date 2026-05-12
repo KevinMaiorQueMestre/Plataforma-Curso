@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\t\nA pátria\nAma, com fé e orgulho, a terra em que nasceste!\nCriança! não verás nenhum país como este! \nOlha que céu! que mar! que rios! que floresta!\nA Natureza, aqui, perpetuamente em festa,\nÉ um seio de mãe a transbordar carinhos.\nVê que vida há no chão! vê que vida há nos ninhos,\nQue se balançam no ar, entre os ramos inquietos!\nVê que luz, que calor, que multidão de insetos!\nVê que grande extensão de matas, onde impera,\nFecunda e luminosa, a eterna primavera!\nBoa terra! jamais negou a quem trabalha \nO pão que mata a fome, o teto que agasalha...\nQuem com o seu suor a fecunda e umedece,\nVê pago o seu esforço, e é feliz, e enriquece!\nCriança! não verás país nenhum como este:\nImita na grandeza a terra em que nasceste!\nBILAC, O. Poesias infantis. Rio de Janeiro: Francisco Alves, 1929.\nPublicado em 1904, o poema A pátria harmoniza-se \ncom um projeto ideológico em construção na Primeira \nRepública. O discurso poético de Olavo Bilac ecoa esse \nprojeto, na medida em que\nA\t a paisagem natural ganha contornos surreais, como o \nprojeto brasileiro de grandeza.\nB\t a prosperidade individual, como a exuberância da \nterra, independe de políticas de governo.\nC\t os valores afetivos atribuídos à família devem ser \naplicados também aos ícones nacionais.\nD\t a capacidade produtiva da terra garante ao país a \nriqueza que se verifica naquele momento.\nE\t a valorização do trabalhador passa a integrar o \nconceito de bem-estar social experimentado.",
+  "processado_em": "2026-05-08T14:00:54.544774",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

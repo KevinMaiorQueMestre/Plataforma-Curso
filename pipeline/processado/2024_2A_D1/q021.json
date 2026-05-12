@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 21\t\nTEXTO I\nLORCA, G. À procura de emprego. Fotografia. 1949.\nDisponível em: www livrariacultura com br Acesso em: 18 jun 2019",
+  "processado_em": "2026-05-08T14:05:52.654886",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

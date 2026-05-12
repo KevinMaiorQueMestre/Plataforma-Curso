@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 65\t\nOs \nvegetais \nbiossintetizam \ndeterminadas \nsubstâncias (por exemplo, alcaloides e flavonoides), cuja \nestrutura química e concentração variam num mesmo \norganismo em diferentes épocas do ano e estágios \nde desenvolvimento. Muitas dessas substâncias são \nproduzidas para a adaptação do organismo às variações \nambientais \n(radiação \nUV, \ntemperatura, \nparasitas, \nherbívoros, estímulo a polinizadores etc.) ou fisiológicas \n(crescimento, envelhecimento etc.).\nAs variações qualitativa e quantitativa na produção \ndessas substâncias durante um ano são possíveis porque \no material genético do indivíduo\nA\t sofre constantes recombinações para adaptar-se.\nB\t muda ao longo do ano e em diferentes fases da vida.\nC\t cria novos genes para biossíntese de substâncias \nespecíficas.\nD\t altera a sequência de bases nitrogenadas para criar \nnovas substâncias.\nE\t possui genes transcritos diferentemente de acordo \nd\nid d",
+  "processado_em": "2026-05-08T13:59:02.496935",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

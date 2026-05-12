@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 111\nA densidade é uma propriedade que relaciona massa \ne volume de um material. Um estudante iniciou um \n%\u0007\u0004\u001e\n\u000f\u000e\u0010\n\u0005\r\u0004\u0002 \u000f\n\u0002 \u000f\n\r\n\u0007\u0010\u000e\u0005\b'\u001d\u0004\u0002 \u000f\b\u0002 \u000f\n\u0005\t\u000e\u000f\b\u000f\n\u0002 \u000f\n\u0002 \f\u0010\b\u0002\namostra sólida desconhecida. Primeiro ele determinou a \nmassa da amostra, obtendo 27,8 g. Em seguida, utilizou \numa proveta, graduada em mililitro, com água para \ndeterminar o volume da amostra, conforme esquematizado \n\u0005\b\u0002\u0006J\f\u0007\b(\u0002\u0003\u0004\u0005\t\u000e\u000f\n\u0007\n\u0002\b\u0002\u000f\n\u0005\t\u000e\u000f\b\u000f\n\u0002\u000f\b\u0002?J\f\b\u0002\u000eJ\f\b2\u0002\b\u0002\u0002J\u00107(\nProveta com água\nProveta com água e amostra\nVolume inicial\nVolume final\nÁgua\nAmostra\nÁgua\n50\n40\n30\n20\n10\n50\n40\n30\n20\n10\nA densidade da amostra obtida, em g/mL, é mais \npróxima de\nA  0,36.\nB  0,56.\nC  0,62.\nD  0,79.\nE  2,78.",
+  "processado_em": "2026-05-08T14:04:14.081126",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

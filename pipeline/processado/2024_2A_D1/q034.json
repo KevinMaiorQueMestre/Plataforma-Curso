@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 34\t\nFoi instaurada a Comissão Temporária de Inteligência \nArtificial (CTIA) no Senado Federal. O objetivo: discutir \ndiferentes projetos de lei sobre o uso da tecnologia.\nA Inteligência Artificial (IA) vem se mostrando uma \nferramenta para otimização de demandas no setor público \ne, ao mesmo tempo, uma preocupação para o processo \ndemocrático. Por um lado, ela já é usada em tribunais para \na aceleração de procedimentos burocráticos e decisões \nsobre aposentadoria. Por outro lado, a tecnologia também \nvem sendo utilizada para a desinformação, como na criação \nde imagens de fatos que não aconteceram na realidade.\nA comissão, que já discutiu os impactos da IA na \nagricultura, no meio acadêmico e na indústria, debateu os \nefeitos da tecnologia no jornalismo e no processo eleitoral.\nUma advogada e professora do Instituto Brasileiro de \nEnsino, Desenvolvimento e Pesquisa (IDP) falou sobre os \ndesafios da implementação segura da tecnologia: “Não existe \nnenhum mecanismo hoje, nenhum software, que vá identificar \nse um conteúdo é produzido por Inteligência Artificial”.\nDisponível em: www.cartacapital.com.br. \nAcesso em: 2 fev. 2024 (adaptado).\nAo abordar a questão da segurança na implementação \nda IA em diferentes esferas da sociedade, esse texto \nevidencia a\nA\timportância de ferramentas tecnológicas para diferentes \nsetores da economia.\nB\tproblemática da identificação da origem de conteúdos \npublicados na internet.\nC\tcontribuição da tecnologia digital para a consolidação \nda democracia.\nD\tutilização da internet para impulsionar trabalhos \nacadêmicos.\nE\tprecariedade de leis para regulamentar o uso da internet.",
+  "processado_em": "2026-05-08T14:05:53.427564",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

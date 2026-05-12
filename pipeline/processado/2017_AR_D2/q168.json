@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nViveiros \nde \nlagostas \nsão \nconstruídos, \npor \ncooperativas locais de pescadores, em formato de \nprismas reto-retangulares, fixados ao solo e com telas \nflexíveis de mesma altura, capazes de suportar a \ncorrosão marinha. Para cada viveiro a ser construído, \na cooperativa utiliza integralmente 100 metros lineares \ndessa tela, que é usada apenas nas laterais. \nX\nY\nNível do mar \nQuais devem ser os valores de X e de Y, em metro, para \nque a área da base do viveiro seja máxima? \nA\t 1 e 49\nB\t 1 e 99\nC\t 10 e 10 \nD\t 25 e 25\nE\t 50 e 50",
+  "processado_em": "2026-05-11T23:25:57.073739",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

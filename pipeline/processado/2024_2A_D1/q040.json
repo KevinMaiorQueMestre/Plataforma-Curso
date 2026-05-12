@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q040",
+  "imagem": "q040.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 40,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 40\t\nMESTRE VITALINO. Ceia. Cerâmica policromada.  \n14 × 24 cm. Acervo Galeria Pé de Boi, Rio de Janeiro.\nDisponível em: www.itaucultural.org.br. Acesso em: 26 jul. 2010.\nMestre Vitalino, importante ceramista popular brasileiro, \nna obra reproduzida, retrata uma cena típica da cultura \nnordestina: o horário da refeição. Seus bonecos de \nbarro apresentam características artísticas marcantes, \nrepresentadas como\nA\thumanas, com fixação do momento de um gesto.\nB\tabstratas, com estilização e redução da figura.\nC\tfigurativas, com representação da realidade.\nD\treligiosas, com alongamento das formas divinas.\nE\tdramáticas, com predominância de linhas curvas.",
+  "processado_em": "2026-05-08T14:05:53.948224",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

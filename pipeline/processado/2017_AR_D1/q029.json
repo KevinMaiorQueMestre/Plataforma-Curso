@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 29\t\nTEXTO I\nFundamentam-se as regras da Gramática Normativa \nnas obras dos grandes escritores, em cuja linguagem as \nclasses ilustradas põem o seu ideal de perfeição, porque \nnela é que se espelha o que o uso idiomático estabilizou \ne consagrou.\nLIMA, C. H. R. Gramática normativa da língua portuguesa. Rio de Janeiro: José Olympio, 1989.",
+  "processado_em": "2026-05-11T23:25:37.691681",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

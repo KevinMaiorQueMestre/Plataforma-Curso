@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 34\t\nDisponível em: www.banktrack.org. Acesso em: 7 maio 2013 (adaptado).\nA imagem indica pontos com ativo uso de tecnologia, \ncorrespondentes a que processo de intervenção no \nespaço?\nA\t Expansão das áreas agricultáveis, com uso intensivo \nde maquinário e insumos agrícolas.\nB\t Recuperação de águas eutrofizadas em decorrência \nda contaminação por esgoto doméstico.\nC\t Ampliação da capacidade de geração de energia, \ncom alteração do ecossistema local.\nD\t Impermeabilização do solo pela construção civil nas \náreas de expansão urbana.\nE\t Criação recente de grandes parques industriais de \nmediano potencial poluidor.",
+  "processado_em": "2026-05-08T14:00:29.208961",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

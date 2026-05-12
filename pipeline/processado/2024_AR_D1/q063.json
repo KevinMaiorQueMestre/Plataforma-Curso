@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nUma das principais atividades provocadas pela arte, \na reflexão, é abandonada pela indústria cultural. A indústria \ncultural seria como uma isca que ilude os indivíduos, \ncom o sonho de que eles são livres, originais, únicos e \nespeciais quando, na verdade, os trata como servos \ne partes de uma massa homogênea.\nFONTES, B.; MAGALHÃES, R. O que é indústria cultural? In: \nBODART, C. N. (Org.). Conceitos e categorias do ensino de \nsociologia. Maceió: Café com Sociologia, 2021 (adaptado).\nAo analisar as consequências da dinâmica apresentada no \ntexto, as autoras destacam a importância do conceito como:\nA\tFerramenta de luta coletiva.\nB\tMecanismo de controle social.\nC\tInstituição de interesse público.\nD\tOrganização da iniciativa privada.\nE\tInstrumento de manipulação estatal.",
+  "processado_em": "2026-05-08T14:06:13.323910",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

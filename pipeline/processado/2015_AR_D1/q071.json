@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nVários ácidos são utilizados em indústrias que \ndescartam seus efluentes nos corpos d’água, como \nrios e lagos, podendo afetar o equilíbrio ambiental. \nPara neutralizar a acidez, o sal carbonato de \ncálcio pode ser adicionado ao efluente, em \nquantidades apropriadas, pois produz bicarbonato, \nque neutraliza a água. As equações envolvidas no \nprocesso são apresentadas:\n(I) CaCO3 (s) + CO2 (g) + H2O (l) \n Ca2+ (aq) + 2 HCO3\n- (aq)\n(II) HCO3\n- (aq) \n H+ (aq) + CO3\n2- (aq)       K1 = 3,0×10-11\n(III) CaCO3 (s) \n Ca2+ (aq) + CO3\n2- (aq)       K2 = 6,0×10-9\n(IV) CO2 (g) + H2O (l) \n H+ (aq) + HCO3\n- (aq)       K3 = 2,5×10-7\nCom base nos valores das constantes de equilíbrio das \nreações II, III e IV a 25 °C, qual é o valor numérico da \nconstante de equilíbrio da reação I?\nA\t 4,5×10−26\nB\t 5,0×10-5\nC\t 0,8×10-9\nD\t 0,2×105\nE\t 2,2×1026",
+  "processado_em": "2026-05-08T14:00:48.154628",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

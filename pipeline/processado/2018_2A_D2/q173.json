@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nEm certa página de um livro foi anotada uma \nsenha. Para se descobrir qual é a página, dispõe-se \nda informação de que a soma dos quadrados dos três \nnúmeros correspondentes à página da senha, à página \nanterior e à página posterior é igual a um certo número k \nque será informado posteriormente.\nDenotando por n o número da página da senha, qual é a \nexpressão que relaciona n e k?\nA\t 3n2 − 4n = k − 2\nB\t 3n2 + 4n = k − 2\nC\t 3n2 = k + 2\nD\t 3n2 = k − 2\nE\t 3n2 = k",
+  "processado_em": "2026-05-11T23:26:24.354085",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

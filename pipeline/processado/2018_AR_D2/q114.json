@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\nO nível metabólico de uma célula pode ser determinado pela taxa de síntese de RNAs e proteínas, processos \nGHSHQGHQWHV\u0003GH\u0003HQHUJLD\u0011\u0003(VVD\u0003GLIHUHQoD\u0003QD\u0003WD[D\u0003GH\u0003VtQWHVH\u0003GH\u0003ELRPROpFXODV\u0003p\u0003UHÀHWLGD\u0003QD\u0003DEXQGkQFLD\u0003H\u0003FDUDFWHUtVWLFDV\u0003\nPRUIROyJLFDV\u0003GRV\u0003FRPSRQHQWHV\u0003FHOXODUHV\u0011\u0003(P\u0003XPD\u0003HPSUHVD\u0003GH\u0003SURGXomR\u0003GH\u0003KRUP{QLRV\u0003SURWHLFRV\u0003D\u0003SDUWLU\u0003GR\u0003FXOWLYR\u0003GH\u0003\ncélulas animais, um pesquisador deseja selecionar uma linhagem com o metabolismo de síntese mais elevado, dentre \nDV\u0003FLQFR\u0003HVTXHPDWL]DGDV\u0003QD\u0003¿JXUD\u0011\nQual linhagem deve ser escolhida pelo pesquisador?\nA ,\nB ,,\nC ,,,\nD ,9\nE V",
+  "processado_em": "2026-05-11T23:26:46.822892",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

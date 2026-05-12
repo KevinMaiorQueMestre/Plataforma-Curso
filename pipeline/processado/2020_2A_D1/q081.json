@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 81          \nUma civilização é a entidade cultural mais ampla. \nAs aldeias, as regiões, as etnias, as nacionalidades, os \nsegmentos religiosos, todos têm culturas distintas em \ndiferentes níveis de heterogeneidade cultural. A cultura \nde um vilarejo no sul da Itália pode ser diferente da de \num vilarejo no norte da Itália, mas ambos compartilharam \numa cultura italiana comum que os distingue de vilarejos \nalemães. As comunidades europeias, por sua vez, \ncompartilharão aspectos culturais que as distinguem das \ncomunidades chinesas ou hindus.\nHUNTINGTON, S. P. O choque de civilizações. \nRio de Janeiro: Objetiva,1997.\nDe acordo com esse entendimento, a civilização é uma \nconstrução cultural que se baseia na\nA \t atemporalidade dos valores universais.\nB \t globalização do mundo contemporâneo.\nC \t fragmentação das ações políticas.\nD \t centralização do poder estatal.\nE \t identidade dos grupos sociais.",
+  "processado_em": "2026-05-08T14:03:32.047429",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

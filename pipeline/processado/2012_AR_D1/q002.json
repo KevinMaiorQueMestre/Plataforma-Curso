@@ -1,0 +1,28 @@
+{
+  "questao_id": "2012_AR_D1_q002",
+  "imagem": "q002.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 2,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Esclarecimento é a saída do homem de sua \nmenoridade, da qual ele próprio é culpado. A menoridade \né a incapacidade de fazer uso de seu entendimento sem a \ndireção de outro indivíduo. O homem é o próprio culpado \ndessa menoridade se a causa dela não se encontra na \nfalta de entendimento, mas na falta de decisão e coragem \nde servir-se de si mesmo sem a direção de outrem. Tem \ncoragem de fazer uso de teu próprio entendimento, tal é \no lema do esclarecimento. A preguiça e a covardia são as \ncausas pelas quais uma tão grande parte dos homens, \ndepois que a natureza de há muito os libertou de uma \ncondição estranha, continuem, no entanto, de bom grado \nmenores durante toda a vida.\nKANT, I. Resposta à pergunta: o que é esclarecimento? Petrópolis: Vozes, 1985 (adaptado).\nKant destaca no texto o conceito de Esclarecimento, \nfundamental para a compreensão do contexto filosófico \nda Modernidade. Esclarecimento, no sentido empregado \npor Kant, representa\nA\t a reivindicação de autonomia da capacidade racional \ncomo expressão da maioridade.\nB\t o exercício da racionalidade como pressuposto menor \ndiante das verdades eternas.\nC\t a imposição de verdades matemáticas, com caráter \nobjetivo, de forma heterônoma.\nD\t a compreensão de verdades religiosas que libertam o \nhomem da falta de entendimento.\nE\t a emancipação da subjetividade humana de ideologias \nproduzidas pela própria razão.",
+  "processado_em": "2026-05-11T23:37:35.420351",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

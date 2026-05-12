@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 48\t\nO Instituto Histórico e Geográfico Brasileiro \n(IHGB) reuniu historiadores, romancistas, poetas, \nadministradores públicos e políticos em torno da \ninvestigação a respeito do caráter brasileiro. Em certo \nsentido, a estrutura dessa instituição, pelo menos como \nprojeto, reproduzia o modelo centralizador imperial. \nAssim, enquanto na Corte localizava-se a sede, nas \nprovíncias deveria haver os respectivos institutos \nregionais. Estes, por sua vez, enviariam documentos e \nrelatos regionais para a capital.\nDEL PRIORE, M.; VENÂNCIO, R. Uma breve história do Brasil. \nSão Paulo: Planeta do Brasil, 2010 (adaptado).\nDe acordo com o texto, durante o reinado de D. Pedro II, \no referido instituto objetivava\nA\t construir uma narrativa de nação.\nB\t debater as desigualdades sociais.\nC\t combater as injustiças coloniais.\nD\t defender a retórica do abolicionismo.\nE\t evidenciar uma diversidade étnica.",
+  "processado_em": "2026-05-11T23:26:59.565376",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

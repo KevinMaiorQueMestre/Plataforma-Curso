@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nEntretanto, nosso amigo Basso tem o ânimo alegre. \nIsso resulta da filosofia: estar alegre diante da morte, forte \ne contente qualquer que seja o estado do corpo, sem \ndesfalecer, ainda que desfaleça.\nSÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990.\nO excerto refere-se a uma carta de Sêneca na qual \nse apresenta como um bem fundamental da filosofia \npromover a\nA\t\nA\t valorização de disputas dialógicas.\nB\t\nB\t rejeição das convenções sociais.\nC\t\nC\t inspiração de natureza religiosa.\nD\t\nD\t exaltação do sofrimento.\nE\t\nE\t moderação das paixões.",
+  "processado_em": "2026-05-08T14:05:06.242814",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

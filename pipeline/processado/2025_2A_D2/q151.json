@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 151 \nUma pessoa irá de carro retirar uma mercadoria em uma loj\npoderá retirar essa mercadoria e obteve como resposta o mapa d\nAo escolher uma das cinco lojas, o aplicativo identificou sua\n1º) siga em frente até a rotatória, nela pegue a segunda saíd\n2º) siga em frente até a rotatória, nela pegue a segunda saíd\n3º) siga em frente até a rotatória, nela pegue a segunda saíd\nAs rotatórias são percorridas no sentido anti-horário e, no\na terceira rotatórias é o dobro da distância entre a primeira e a \nno quadro.\nRotatórias\n1 e 2\n2 e 3\n2 e 4\n2 e 5\n2 e 6\nSeguindo as instruções recebidas do aplicativo, ela irá retirar a m\nA I.\nB II.\nC III.\nD IV.\nE V.",
+  "processado_em": "2026-05-08T14:06:37.362864",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

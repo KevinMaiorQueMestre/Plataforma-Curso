@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 69\t\nA instalação de uma refinaria obedece a diversos \nfatores técnicos. Um dos mais importantes é a \nlocalização, que deve ser próxima tanto dos centros \nde consumo como das áreas de produção. A Petrobras \npossui refinarias estrategicamente distribuídas pelo país. \nElas são responsáveis pelo processamento de milhões \nde barris de petróleo por dia, suprindo o mercado com \nderivados que podem ser obtidos a partir de petróleo \nnacional ou importado.\nMURTA, A. L. S. Energia: o vício da civilização; crise energética e alternativas sustentáveis. \nRio de Janeiro: Garamond, 2011.\nA territorialização de uma unidade produtiva depende de \ndiversos fatores locacionais. A partir da leitura do texto, \no fator determinante para a instalação das refinarias de \npetróleo é a proximidade a\nA\t \tsedes de empresas petroquímicas.\nB\t \tzonas de importação de derivados.\nC\t \tpolos de desenvolvimento tecnológico.\nD\t \táreas de aglomerações de mão de obra.\nE\t \tespaços com infraestrutura de circulação.",
+  "processado_em": "2026-05-11T23:25:42.113052",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

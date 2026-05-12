@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nUm restaurante utiliza, para servir bebidas, bandejas \ncom bases quadradas. Todos os copos desse restaurante \ntêm o formato representado na figura: \nA\nC\nB\nD\nConsidere que AC = 7 BD\n5\n  e que l é a medida de um \ndos lados da base da bandeja. \nQual deve ser o menor valor da razão l\nBD\n para que uma \nbandeja tenha capacidade de portar exatamente quatro \ncopos de uma só vez?\nA 2\nB 14\n5\nC 4\nD 24\n5\nE 28\n5",
+  "processado_em": "2026-05-08T14:00:24.378576",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

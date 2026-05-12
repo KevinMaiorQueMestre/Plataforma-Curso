@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nNos Estados Unidos a unidade de medida de \nvolume mais utilizada em latas de refrigerante é a \nonça fluida (fl oz), que equivale a aproximadamente \n2,95 centilitros (cL).\nSabe-se que o centilitro é a centésima parte do litro e \nque a lata de refrigerante usualmente comercializada no \nBrasil tem capacidade de 355 mL.\nAssim, a medida do volume da lata de refrigerante de \n355 mL, em onça fluida (fl oz), é mais próxima de\nA\t 0,83.\nB\t 1,20.\nC\t 12,03.\nD\t 104,73.\nE\t 120,34.",
+  "processado_em": "2026-05-08T14:00:23.959603",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

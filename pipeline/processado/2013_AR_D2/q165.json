@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nA temperatura T de um forno (em graus centígrados) \né reduzida por um sistema a partir do instante de seu \ndesligamento (t = 0) e varia de acordo com a expressão \nT(t) = − t 2\n4\n + 400, com t em minutos. Por motivos \nde segurança, a trava do forno só é liberada para \nabertura quando o forno atinge a temperatura de 39 ºC.\nQual o tempo mínimo de espera, em minutos, após se \ndesligar o forno, para que a porta possa ser aberta?\nA\t 19,0\nB\t 19,8\nC\t 20,0\nD\t 38,0\nE\t 39,0",
+  "processado_em": "2026-05-08T14:00:24.023063",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

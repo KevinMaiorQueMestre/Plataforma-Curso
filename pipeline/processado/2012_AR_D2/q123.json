@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 123\t\nPicasso, P. Les Demoiselles d’Avignon. Nova York, 1907.\nARGAN, G. C. Arte moderna: do Iluminismo aos movimentos contemporâneos. \nSão Paulo: Companhia das Letras, 1992.\nO quadro Les Demoiselles d’Avignon (1907), de Pablo \nPicasso, representa o rompimento com a estética clássica \ne a revolução da arte no início do século XX. Essa nova \ntendência se caracteriza pela\nA\t pintura de modelos em planos irregulares.\nB\t mulher como temática central da obra.\nC\t cena representada por vários modelos.\nD\t oposição entre tons claros e escuros.\nE\t nudez explorada como objeto de arte.",
+  "processado_em": "2026-05-08T13:59:37.100968",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

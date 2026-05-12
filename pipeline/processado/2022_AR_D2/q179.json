@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nUma empresa de engenharia projetou uma casa com \na forma de um retângulo para um de seus clientes. Esse \ncliente solicitou a inclusão de uma varanda em forma \nde L. A figura apresenta a planta baixa desenhada pela \nempresa, já com a varanda incluída, cujas medidas, \nindicadas em centímetro, representam os valores das \ndimensões da varanda na escala de 1 : 50.\n16 cm\nESCALA 1 : 50\nSALA\nQUARTO\nSUÍTE\nBANHO\nSOCIAL\nBANHO\nSUÍTE\nCOZINHA\nVARANDA\nQUARTO\n4 cm\n18,4 cm\n5 cm\nA medida real da área da varanda, em metro quadrado, é\nA\t\nA\t 33,40.\nB\t\nB\t 66,80.\nC\t\nC\t 89,24.\nD\t\nD\t 133,60.\nE\t\nE\t 534,40.",
+  "processado_em": "2026-05-08T14:05:13.363120",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

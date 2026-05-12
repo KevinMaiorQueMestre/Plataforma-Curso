@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\t\nTEXTO I\nJoão Guedes, um dos assíduos frequentadores do \nboliche do capitão, mudara-se da campanha havia três \nanos. Três anos de pobreza na cidade bastaram para o \ndegradar. Ao morrer, não tinha um vintém nos bolsos e \nfazia dois meses que saíra da cadeia, onde estivera preso \npor roubo de ovelha.\nA história de sua desgraça se confunde com a da \nmaioria dos que povoam a aldeia de Boa Ventura, uma \ncidadezinha distante, triste e precocemente envelhecida, \nsituada nos confins da fronteira do Brasil com o Uruguai.\nMARTINS, C. Porteira fechada. Porto Alegre: Movimento, 2001 (fragmento).\n TEXTO II\nComecei a procurar emprego, já topando o que desse \ne viesse, menos complicação com os homens, mas não \ntava fácil. Fui na feira, fui nos bancos de sangue, fui \nnesses lugares que sempre dão para descolar algum, \nfui de porta em porta me oferecendo de faxineiro, mas \ntava todo mundo escabreado pedindo referências, e \nreferências eu só tinha do diretor do presídio.\nFONSECA, R. Feliz Ano Novo. São Paulo: Cia. das Letras, 1989 (fragmento).\nA oposição entre campo e cidade esteve entre as temáticas \ntradicionais da literatura brasileira. Nos fragmentos dos \ndois autores contemporâneos, esse embate incorpora um \nelemento novo: a questão da violência e do desemprego. \nAs narrativas apresentam confluência, pois nelas o(a)\nA\t criminalidade é algo inerente ao ser humano, que \nsucumbe a suas manifestações.\nB\t meio urbano, especialmente o das grandes cidades, \nestimula uma vida mais violenta.\nC\t falta de oportunidades na cidade dialoga com a \npobreza do campo rumo à criminalidade.\nD\t êxodo rural e a falta de escolaridade são causas da \nviolência nas grandes cidades.\nE\t complacência das leis e a inércia das personagens \nsão estímulos à prática criminosa",
+  "processado_em": "2026-05-08T14:00:35.415812",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

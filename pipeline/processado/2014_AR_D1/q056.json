@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nDiesel é uma mistura de hidrocarbonetos que também \napresenta enxofre em sua composição. Esse enxofre é \num componente indesejável, pois o trióxido de enxofre \ngerado é um dos grandes causadores da chuva ácida. \nNos anos 1980, não havia regulamentação e era utilizado \nóleo diesel com 13 000 ppm de enxofre. Em 2009, o \ndiesel passou a ter 1 800 ppm de enxofre (S1800) e, em \nseguida, foi inserido no mercado o diesel S500 (500 ppm). \nEm 2012, foi difundido o diesel S50, com 50 ppm de \nenxofre em sua composição. Atualmente, é produzido um \ndiesel com teores de enxofre ainda menores.\nOs impactos da má qualidade do óleo diesel brasileiro. Disponível em: www.cnt.org.br. \nAcesso em: 20 dez. 2012 (adaptado).\nA substituição do diesel usado nos anos 1980 por aquele \ndifundido em 2012 permitiu uma redução percentual de \nemissão de SO3 de\nA\t 86,2%.\nB\t 96,2%.\nC\t 97,2%.\nD\t 99,6%.\nE\t 99,9%.",
+  "processado_em": "2026-05-08T14:00:30.550912",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

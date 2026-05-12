@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 34\t\nTEXTO I\nATAÍDE, M. C. Coroação de Nossa Senhora de Porciúncula. \nDetalhe da pintura do forro da nave da Igreja de São Francisco de \nAssis de Ouro Preto. 1801-12.\nDisponível em: http://enciclopedia.itaucultural.org.br. Acesso em: 30 out. 2015.\nTEXTO II\nManuel da Costa Ataíde (Mariana, MG, 1762-1830), \nassim como os demais artistas do seu tempo, recorria a \nbíblias e a missais impressos na Europa como ponto de \npartida para a seleção iconográfica das suas composições, \nque então recriava com inventiva liberdade.\nSe Mário de Andrade houvesse conseguido a \noportunidade de acesso aos meios de aproximação \nótica da pintura dos forros de Manuel da Costa Ataíde, \nimaginamos como não teria vibrado com o mulatismo \ndas figuras do mestre marianense, ratificando, ao lado de \nAntônio Francisco Lisboa, o Aleijadinho, a sua percepção \npioneira de um surto de racialidade brasileira em nossa \nterra, em pleno século XVIII.\nFROTA, L. C. Ataíde: vida e obra de Manuel da Costa Ataíde. \nRio de Janeiro: Nova Fronteira, 1982.\nO Texto II destaca a inovação na representação artística \nsetecentista, expressa no Texto I pela\nA\t reprodução de episódios bíblicos.\nB\t retratação de elementos europeus.\nC\t valorização do sincretismo religioso.\nD\t recuperação do antropocentrismo clássico.\nE\t incorporação de características identitárias.",
+  "processado_em": "2026-05-11T23:26:11.890533",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

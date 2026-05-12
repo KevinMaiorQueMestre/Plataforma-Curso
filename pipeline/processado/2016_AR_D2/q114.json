@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\t\nO livro A fórmula secreta conta a história de um \nepisódio fundamental para o nascimento da matemática \nmoderna e retrata uma das disputas mais virulentas da \nciência renascentista. Fórmulas misteriosas, duelos \npúblicos, traições, genialidade, ambição — e matemática! \nEsse é o instigante universo apresentado no livro, que \nresgata a história dos italianos Tartaglia e Cardano e da \nfórmula revolucionária para resolução de equações de \nterceiro grau. A obra reconstitui um episódio polêmico \nque marca, para muitos, o início do período moderno da \nmatemática.\nEm última análise, A fórmula secreta apresenta-se \ncomo uma ótima opção para conhecer um pouco mais \nsobre a história da matemática e acompanhar um dos \ndebates científicos mais inflamados do século XVI no \ncampo. Mais do que isso, é uma obra de fácil leitura e \numa boa mostra de que é possível abordar temas como \nálgebra de forma interessante, inteligente e acessível ao \ngrande público.\nGARCIA, M. Duelos, segredos e matemática. Disponível em: http://cienciahoje.uol.com.br. \nAcesso em: 6 out. 2015 (adaptado).\nNa construção textual, o autor realiza escolhas para \ncumprir determinados objetivos. Nesse sentido, a função \nsocial desse texto é\nA\t interpretar a obra a partir dos acontecimentos da \nnarrativa.\nB\t apresentar o resumo do conteúdo da obra de modo \nimpessoal.\nC\t fazer a apreciação de uma obra a partir de uma \nsíntese crítica.\nD\t informar o leitor sobre a veracidade dos fatos descritos \nna obra.\nE\t classificar a obra como uma referência para estudiosos \nda matemática.",
+  "processado_em": "2026-05-08T14:01:16.369799",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

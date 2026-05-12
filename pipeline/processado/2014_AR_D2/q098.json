@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nEm uma escala de 0 a 10, o Brasil está entre 3 e 4 no \nquesito segurança da informação. “Estamos começando \na acordar para o problema. Nessa história de espionagem \ncorporativa, temos muita lição a fazer. Falta consciência \ninstitucional e um longo aprendizado. A sociedade caiu \nem si e viu que é uma coisa que nos afeta”, diz S.P., \npós-doutor em segurança da informação. Para ele, devem \nser estabelecidos canais de denúncia para esse tipo de \nsituação. De acordo com o conselheiro do Comitê Gestor \nda Internet (CGI), o Brasil tem condições de desenvolver \ntecnologia própria para garantir a segurança dos dados \ndo país, tanto do governo quanto da população. “Há \numa massa de conhecimento dentro das universidades \ne em empresas inovadoras que podem contribuir \npropondo medidas para que possamos mudar isso \n[falta de segurança] no longo prazo”. Ele acredita que o \ngoverno tem de usar o seu poder de compra de softwares \ne hardwares para a área da segurança cibernética, \nde forma a fomentar essas empresas, a produção de \nconhecimento na área e a construção de uma cadeia de \nprodução nacional. \nSARRES, C. Disponível em: www.ebc.com.br. Acesso em: 22 nov. 2013 (adaptado).",
+  "processado_em": "2026-05-08T14:00:34.946951",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

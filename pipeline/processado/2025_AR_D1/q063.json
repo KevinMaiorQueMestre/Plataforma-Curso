@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 63\t\nProdução e exportações brasile\nFonte: USDA, 2020. Elaboração CNA.\n*Fatia de participação na produção mundial.\nQual condição favoreceu o cenário produtivo exposto na figura\nA\tRedução do poder de compra da população brasileira.\nB\tAmpliação da entrada do capital agroindustrial no campo.\nC\tDiminuição do uso de trabalho especializado na agropecuár\nD\tValorização da moeda nacional em relação ao dólar america\nE\tInclusão de pequenas propriedades em cultivos de subsistê",
+  "processado_em": "2026-05-08T14:07:01.793675",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

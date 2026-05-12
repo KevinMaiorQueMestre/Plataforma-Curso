@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nNo contexto da matemática recreativa, utilizando \ndiversos materiais didáticos para motivar seus alunos, \numa professora organizou um jogo com um tipo de \nbaralho modificado. No início do jogo, vira-se uma carta \ndo baralho na mesa e cada jogador recebe em mãos \nnove cartas. Deseja-se formar pares de cartas, sendo \na primeira carta a da mesa e a segunda, uma carta na \nmão do jogador, que tenha um valor equivalente àquele \ndescrito na carta da mesa. O objetivo do jogo é verificar \nqual jogador consegue o maior número de pares. Iniciado \no jogo, a carta virada na mesa e as cartas da mão de um \njogador são como no esquema:\n6\n8\n6\n8\n75%\n3,4\n34%\n0,75\n4,3\n7,5\n4\n3\n6,8\n3\n4\n3\n4\nCarta da mesa\nCartas da mão\nSegundo as regras do jogo, quantas cartas da mão desse \njogador podem formar um par com a carta da mesa?\nA\t 9\nB\t 7\nC\t 5\nD\t 4\nE\t 3",
+  "processado_em": "2026-05-08T14:00:59.417655",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 28\nQUESTÃO 169\t\nNo tanque de um certo carro de passeio cabem até \n50 L de combustível, e o rendimento médio deste carro na \nestrada é de 15 km/L de combustível. Ao sair para uma \nviagem de 600 km o motorista observou que o marcador \nde combustível estava exatamente sobre uma das marcas \nda escala divisória do medidor, conforme figura a seguir.\n1/2\n1/1\nComo o motorista conhece o percurso, sabe que \nexistem, até a chegada a seu destino, cinco postos de \nabastecimento de combustível, localizados a 150 km, \n187 km, 450 km, 500 km e 570 km do ponto de partida.\nQual a máxima distância, em quilômetro, que poderá \npercorrer até ser necessário reabastecer o veículo, de \nmodo a não ficar sem combustível na estrada?\nA\t 570\nB\t 500\nC\t 450\nD\t 187\nE\t 150",
+  "processado_em": "2026-05-08T14:01:23.981361",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

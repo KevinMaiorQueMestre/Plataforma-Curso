@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 138          \nUma partida de futebol tem dois tempos de 45 minutos \ncada. A duração do intervalo entre cada tempo é \nde 15 minutos. Eventualmente, por ocasião de \nparalisações ocorridas durante um dos tempos (como \ncomemorações de gols, atendimento a jogadores que \nnecessitem de maca), ocorre acréscimo ao tempo de \njogo.\nNo Brasil, o segundo tempo é iniciado zerando-se o \ncronômetro, mas em campeonatos europeus, começa \ncom o cronômetro posicionado em 45 minutos. Em uma \npartida de um campeonato europeu, um time marcou \num gol aos 17 minutos e 45 segundos. A outra equipe \nempatou o jogo aos 54 minutos e 32 segundos. O tempo \ndo intervalo foi respeitado e houve um acréscimo de \n2 minutos ao primeiro tempo do jogo.\nO tempo transcorrido entre os dois gols foi de\nA \t 54 minutos e 47 segundos.\nB \t 53 minutos e 47 segundos.\nC \t 51 minutos e 47 segundos.\nD \t 38 minutos e 47 segundos.",
+  "processado_em": "2026-05-08T14:03:37.973997",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

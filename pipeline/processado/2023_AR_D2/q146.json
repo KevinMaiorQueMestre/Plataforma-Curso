@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nA foto mostra a construção de uma cisterna destinada \nao armazenamento de água. Uma cisterna como essa, na \nforma de cilindro circular reto com 3 m² de área da base, \nfoi abastecida por um curso-d’água com vazão constante. \nO seu proprietário registrou a altura do nível da água no \ninterior da cisterna durante o abastecimento em diferentes \nmomentos de um mesmo dia, conforme o quadro.\nHorário (h)\nNível da água (m)\n6:00\n0,5\n8:00\n1,1\n12:00\n2,3\n15:00\n3,2\nDisponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.\nQual foi a vazão, em metro cúbico por hora, do \ncurso-d’água que abasteceu a cisterna?\nA\t\nA\t 0,3\nB\t\nB\t 0,5\nC\t\nC\t 0,9\nD\t\nD\t 1,8\nE\t\nE\t 2,7",
+  "processado_em": "2026-05-08T14:05:45.793645",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

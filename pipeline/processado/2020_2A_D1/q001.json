@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questões de 01 a 05 (opção espanhol)\nQuestão 1          \nCúentame, madre...\n    Madre, cuéntame todo lo que sabes por tus \nviejos dolores. Cuéntame cómo nace y cómo viene su \ncuerpecillo, entrabado con mis vísceras.\n   Dime si buscará solo mi pecho o si se lo debo ofrecer, \nincitándolo.\n   Dame tu ciencia de amor, ahora, madre. Enséñame \nlas nuevas caricias, delicadas, más delicadas que las del \nesposo.\n¿Cómo limpiaré su cabecita, en los días sucesivos? \n¿Y cómo lo haré para no dañarlo? Enséñame, madre, la \ncanción de cuna con que me meciste. Esa lo hará dormir \nmejor que otras canciones.\nMISTRAL, G. Cuéntame madre. In: Desolación. Madrid: Espasa-Calpe, 1969.\nNa prosa poética de Gabriela Mistral, o eu lírico, com o \nuso reiterado do imperativo, demonstra\nA \t caráter autoritário da filha frente à mãe. \nB \t polidez ao se dirigir à mãe para pedir ajuda.\nC \t meticulosidade ao realizar atribuições maternas. \nD \t súplica diante das inquietações da maternidade. \nE \t dependência da mãe em questões matrimoniais.",
+  "processado_em": "2026-05-08T14:03:22.349252",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

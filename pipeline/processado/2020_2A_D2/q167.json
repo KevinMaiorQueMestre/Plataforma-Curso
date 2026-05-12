@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Disponível em: www.google.com. Acesso em: 7 dez. 2017 (adaptado).\nEle observou que o mapa apresentado na tela do \ncomputador estava na escala 1 : 20 000. Nesse instante, \nmediu o comprimento de um dos segmentos que formam \nos lados desse hexágono, encontrando 5 cm.\nSe esse estudante resolver dar uma volta completa pelas \nruas que formam esse hexágono, ele percorrerá, em \nquilômetro,\nA \t 1.\nB \t 4.\nC \t 6.\nD \t 20.\nE \t 24.\nQuestão 167          \nA prefeitura de uma cidade está renovando os \ncanteiros de flores de suas praças. Entre as possíveis \nvariedades que poderiam ser plantadas, foram escolhidas \ncinco: amor-perfeito, cravina, petúnia, margarida e lírio. \nEm cada um dos canteiros, todos com composições \ndiferentes, serão utilizadas somente três variedades \ndistintas, não importando como elas serão dispostas.\nUm funcionário deve determinar os trios de variedades \nde flores que irão compor cada canteiro.\nDe acordo com o disposto, a quantidade de trios possíveis \né dada por\nA  5\t\n \nB  5 ∙3\nC  \n5!\n5 −3 !\nD  \n5!\n5 −3 !2!\nE  \n5!\n5 −3 !3!",
+  "processado_em": "2026-05-08T14:03:39.725258",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

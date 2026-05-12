@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nUma câmara de resfriamento de um laboratório tem \num dispositivo que, ao ser ajustado, alterará a temperatura, \nem grau Celsius, de um líquido ao final de cada minuto. \nNessa câmara, existem dois visores, o primeiro indicando \no quanto a temperatura do líquido deve ser diminuída ao \nfinal de cada minuto, e o segundo indicando a temperatura \ndo líquido na câmara naquele instante.\nFoi iniciado um teste nessa câmara quando um líquido, \nà temperatura de 30 °C, foi colocado em seu interior. \nEla estava programada no primeiro visor em 1,4 °C. \nNo final de 5 minutos, foi alterada a temperatura, e o valor \nda mudança que aparecia no primeiro visor foi diminuído \nem 0,5 °C. Ao final de 15 minutos do início do teste, a \ntemperatura registrada no primeiro visor foi aumentada \nem 0,3 °C em relação à última marcação.\nUm dos objetivos desse teste é que, ao final de \n30 minutos, a temperatura do líquido seja de 0 °C. Assim, \napós 25 minutos relativamente ao início do teste, novo \najuste deve ser feito na numeração do primeiro visor.\nQue alteração deverá ser feita na numeração do primeiro \nvisor ao final de 25 minutos do início do teste?\nA\t\nA\t Aumentar 4,0 °C.\nB\t\nB\t Aumentar 3,0 °C.\nC\t\nC\t Aumentar 1,0 °C.\nD\t\nD\t Diminuir 0,8 °C.\nE\t\nE\t Diminuir 3,0 °C.",
+  "processado_em": "2026-05-08T14:05:29.153484",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

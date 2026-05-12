@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nA figura a seguir representa parte da planta de um \nloteamento, em que foi usada a escala 1 : 1 000. No \ncentro da planta uma área circular, com diâmetro de \n8 cm, foi destinada para a construção de uma praça.\n8 cm\nO diâmetro real dessa praça, em metro, é:\nA\t 1 250\nB\t 800\nC\t 125\nD\t 80\nE\t 8",
+  "processado_em": "2026-05-11T23:26:23.829646",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

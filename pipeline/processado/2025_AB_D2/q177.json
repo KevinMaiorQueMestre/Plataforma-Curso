@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 177\t\nO gerente de um restaurante, para melhorar o atendimento \nem seu estabelecimento, registrou nesta semana o número de \nmesas ocupadas de segunda a sexta-feira, em cinco intervalos \nde tempo, conforme apresentado na tabela.\nHorários\nseg\nter\nQua\nQui\nsex\n11 h às 12 h\n10\n12\n12\n10\n6\n12 h às 13 h\n73\n83\n20\n48\n38\n13 h às 14 h\n124\n110\n35\n50\n56\n14 h às 15 h\n57\n39\n20\n24\n44\n15 h às 16 h\n8\n12\n24\n56\n105\nTotal\n272\n256\n111\n188\n249\nAtualmente o restaurante conta com 3 garçons, e cada um \natende, no máximo, 24 mesas por hora. O gerente pretende \ncontratar, para a próxima semana, garçons adicionais para \naqueles dias em que os 3 garçons foram insuficientes para \natender à demanda de mesas em algum dos intervalos \nconsiderados. Para isso, utilizou os dados registrados na tabela.\nA quantidade mínima de novos garçons a serem contratados será\nA\t5 garçons na segunda-feira, 4 na terça-feira, 1 na quarta-feira, \n2 na quinta-feira e 4 na sexta-feira.\nB\t2 garçons na segunda-feira, 2 na terça-feira, 1 na quinta-feira \ne 2 na sexta-feira.\nC\t1 garçom na segunda-feira, 1 na terça-feira e 1 na sexta-feira.\nD\t2 garçons na segunda-feira, 2 na terça-feira e 2 na sexta-feira.\nE\t3 garçons na segunda-feira, 2 na terça-feira e 2 na sexta-feira.",
+  "processado_em": "2026-05-08T14:06:54.478544",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

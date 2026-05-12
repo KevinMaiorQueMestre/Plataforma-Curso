@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 50                \nA expansão das cidades e a formação das aglomerações urbanas no Brasil foram marcadas pela produção \nindustrial e pela consolidação das metrópoles como locais de seu desenvolvimento. Na segunda metade do século XX, \nas metrópoles brasileiras estenderam-se por áreas de ocupação contínua, configurando densas regiões urbanizadas.\nMOURA, R. Arranjos urbano-regionais no Brasil: especificidades e reprodução de padrões. Disponível em: www.ub.edu. Acesso em: 11 fev. 2015.\nO resultado do processo geográfico descrito foi o(a)\nA \t valorização da escala local.\nB \t crescimento das áreas periféricas.\nC \t densificação do transporte ferroviário.\nD \t predomínio do planejamento estadual.\nE \t inibição de consórcios intermunicipais.",
+  "processado_em": "2026-05-11T23:28:04.264403",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

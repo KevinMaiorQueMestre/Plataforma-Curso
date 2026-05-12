@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 31\t\nO lazer é um fenômeno mundial, fruto da modernidade e \ndas relações que se estabelecem entre o tempo do trabalho e \no tempo do não trabalho. Os efeitos da industrialização e da \nglobalização foram percebidos pela velocidade das mensagens \nveiculadas pela mídia, pela explosão das novas tecnologias de \ninformação e comunicação, pela exacerbação do individualismo \ne da competitividade, além de terem provocado mudanças no \ncontexto social e também uma crise nas relações de trabalho. \nDesse modo, o lazer apresenta-se como um conjunto de \nelementos culturais que podem ser vivenciados no tempo livre, \nseja de forma prática ou contemplativa.\nProposta curricular do estado de Minas Gerais, 6º ao 9º ano. Disponível em: \nhttp://crv.educacao.mg.gov.br. Acesso em: 10 jul. 2012 (adaptado).\nO texto aborda questões referentes às mudanças na sociedade \natual e seus impactos na organização do tempo do trabalho e \ndo não trabalho, reconhecendo o lazer como uma atividade\nA\tvivenciada no tempo livre, que favorece o individualismo.\nB\tcontemplativa, pois busca maior produtividade no tempo livre.\nC\trealizada no tempo livre, com vistas a aumentar a competitividade.\nD\tesportiva ou intelectual, escolhida pelos indivíduos no seu \ntempo livre.\nE\tfruída no tempo livre, na tensão entre a sociedade industrial \ne a da informação.",
+  "processado_em": "2026-05-08T14:06:43.744222",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

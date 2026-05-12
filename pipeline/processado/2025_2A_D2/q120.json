@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 120 \nEm 2011 foi aprovado, pela Comissão Técnica Nacional de Bios\nproduzido exclusivamente no Brasil. Esse OGM é uma variedade\ntransmitida pela mosca-branca. Para desenvolver a resistência, fo\numa proteína não funcional, similar à proteína viral denominada \nO processo descrito protege o feijão contra o referido vírus po\nA produção de proteínas de resistência contra o vírus.\nB inibição da síntese das proteínas Rep não funcionais.\nC produção de proteínas virais que repelem a mosca-branca.\nD indução de uma resposta de defesa da planta contra a mosca-\nE síntese da proteína Rep não funcional, que impede a replic",
+  "processado_em": "2026-05-08T14:06:35.828646",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

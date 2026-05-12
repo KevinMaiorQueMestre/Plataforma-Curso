@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nO estudo de compostos orgânicos permite aos \nanalistas \ndefinir \npropriedades \nfísicas \ne \nquímicas \nresponsáveis pelas características de cada substância \ndescoberta. Um laboratório investiga moléculas quirais \ncuja cadeia carbônica seja insaturada, heterogênea e \nramificada.\nA fórmula que se enquadra nas características da \nmolécula investigada é\nA\t CH3–(CH)2–CH(OH)–CO–NH–CH3.\nB\t CH3–(CH)2–CH(CH3)–CO–NH–CH3.\nC\t CH3–(CH)2–CH(CH3)–CO–NH2.\nD\t CH3–CH2–CH(CH3)–CO–NH–CH3.\nE\t C6H5–CH2–CO–NH–CH3.",
+  "processado_em": "2026-05-08T14:00:31.632073",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 61\t\nA eficiência das lâmpadas pode ser comparada \nutilizando a razão, considerada linear, entre a quantidade \nde luz produzida e o consumo. A quantidade de luz é \nmedida pelo fluxo luminoso, cuja unidade é o lúmen (lm). \nO consumo está relacionado à potência elétrica da \nlâmpada que é medida em watt (W). Por exemplo, \numa lâmpada incandescente de 40 W emite cerca de \n600 lm, enquanto uma lâmpada fluorescente de 40 W \nemite cerca de 3 000 lm.\nDisponível em: http://tecnologia.terra.com.br. Acesso em: 29 fev. 2012 (adaptado).\nA eficiência de uma lâmpada incandescente de 40 W é\nA\t maior que a de uma lâmpada fluorescente de 8 W, \nque produz menor quantidade de luz.\nB\t maior que a de uma lâmpada fluorescente de 40 W, \nque produz menor quantidade de luz.\nC\t menor que a de uma lâmpada fluorescente de 8 W, \nque produz a mesma quantidade de luz.\nD\t menor que a de uma lâmpada fluorescente de 40 W, \npois consome maior quantidade de energia.\nE\t igual a de uma lâmpada fluorescente de 40 W, que \nconsome a mesma quantidade de energia.",
+  "processado_em": "2026-05-08T13:59:02.491414",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

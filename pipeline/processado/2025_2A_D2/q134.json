@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 134 \nAs infecções parasitárias dos intestinos, de acordo com a \ncondições de vida de diferentes comunidades. Por exemplo, em r\neconômica, uma das parasitoses mais comuns é a teníase, causa\nCHIEFFI, P. P.; AMATO NETO, V. Vermes\nNesse sentido, para reduzir a incidência dessa verminose na com\nA promover a vacinação do gado.\nB controlar a população de vetores.\nC tratar com hipoclorito de sódio a água consumida.\nD construir redes de saneamento básico.\nE evitar contato humano com solos contaminados.",
+  "processado_em": "2026-05-08T14:06:36.438580",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

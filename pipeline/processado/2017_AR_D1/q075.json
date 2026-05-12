@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nPalestinos se agruparam em frente a aparelhos de \ntelevisão e telas montadas ao ar livre em Ramalah, na \nCisjordânia, para acompanhar o voto da resolução que \npedia o reconhecimento da chamada Palestina como \num Estado observador não membro da Organização \ndas Nações Unidas (ONU). O objetivo era esperar pelo \nnascimento, ao menos formal, de um Estado palestino. \nDepois da aprovação da resolução, centenas de pessoas \nforam à praça da cidade com bandeiras palestinas, \nsoltaram fogos de artifício, fizeram buzinaços e dançaram \npelas ruas. Aprovada com 138 votos dos 193 da \nAssembleia-Geral, a resolução eleva o status do Estado \npalestino perante a organização.\nPalestinos comemoram elevação de status na ONU com bandeiras e fogos. Disponível \nem: http://folha.com. Acesso em: 4 dez. 2012 (adaptado).\nA mencionada resolução da ONU referendou o(a)\nA\t \tdelimitação institucional das fronteiras territoriais.\nB\t \taumento da qualidade de vida da população local.\nC\t \timplementação do tratado de paz com os israelenses.\nD\t \tapoio da comunidade internacional à demanda \nnacional.\nE\t \tequiparação da condição política com a dos demais \npaíses.",
+  "processado_em": "2026-05-11T23:25:42.836155",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

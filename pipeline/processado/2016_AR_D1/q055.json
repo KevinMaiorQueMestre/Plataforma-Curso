@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 19\nQUESTÃO 55\t\nA Figura 1 apresenta o gráfico da intensidade, \nem decibéis (dB), da onda sonora emitida por um \nalto-falante, que está em repouso, e medida por um \nmicrofone em função da frequência da onda para \ndiferentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. \nA Figura 2 apresenta um diagrama com a indicação das \ndiversas faixas do espectro de frequência sonora para o \nmodelo de alto-falante utilizado neste experimento.\nFigura 1\n+20\n+10\n0\n−10\n−20\ndB\n20\n50\n100\n1 000\n10 000\n20 000\nHz\n3 mm\n25 mm\n51 mm\n60 mm\n2\n3 4 5 6 7 9\n8\n2\n3 4 5 6 7 9\n8\nResposta de Frequência\nDisponível em: www.batera.com.br. Acesso em: 8 fev. 2015.\nFigura 2\nSubgrave\nGrave\nMédia\nbaixa\nMédia\nMédia \nalta\nAguda\nFaixas do espectro de frequência sonora\n20 Hz\n63 Hz\n250 Hz\n640 Hz\n2,5 kHz\n5 kHz\n20 kHz\nDisponível em: www.somsc.com.br. Acesso em: 2 abr. 2015.\nRelacionando as informações presentes nas figuras 1 e 2, \ncomo a intensidade sonora percebida é afetada pelo \naumento da distância do microfone ao alto-falante?\nA\t Aumenta na faixa das frequências médias.\nB\t Diminui na faixa das frequências agudas.\nC\t Diminui na faixa das frequências graves.\nD\t Aumenta na faixa das frequências médias altas.\nE\t Aumenta na faixa das frequências médias baixas.",
+  "processado_em": "2026-05-08T14:01:08.933297",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

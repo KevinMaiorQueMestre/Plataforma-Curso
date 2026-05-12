@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nUm curso preparatório para concursos tem duas \nturmas, A e B. Do total de alunos, 54% estão na \nturma A. A direção do curso decidiu pagar um bônus \nsalarial aos professores dessas turmas, de acordo com \na probabilidade de um aluno do curso, escolhido ao \nacaso, ser aprovado no concurso. Foi estabelecida a \ntabela que indica como o bônus seria definido.\nProbabilidade de aprovação (%) \nBônus\n0 < P < 10\nI\n10 < P < 20\nII\n20 < P < 35\nIII\n35 < P < 50\nIV\n50 < P < 100\nV\n Para calcular a probabilidade desejada, foi aplicado \num simulado anterior ao concurso. Nele, o percentual de \naprovados da turma A foi de 25%, enquanto houve uma \naprovação de 40% para os alunos da turma B.\nDessa forma, os professores desse curso devem receber \no bônus \nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V",
+  "processado_em": "2026-05-08T14:04:50.413199",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nGangorra é um brinquedo que consiste de uma tábua \nlonga e estreita equilibrada e fixada no seu ponto central \n(pivô). Nesse brinquedo, duas pessoas sentam-se nas \nextremidades e, alternadamente, impulsionam-se para \ncima, fazendo descer a extremidade oposta, realizando, \nassim, o movimento da gangorra.\nConsidere a gangorra representada na figura, em que \nos pontos A e B são equidistantes do pivô:\nPivô\nA\nB\nA projeção ortogonal da trajetória dos pontos A e B, sobre \no plano do chão da gangorra, quando esta se encontra \nem movimento, é:\nA        \nA\nB\nB\n  \nA\nB\nC\n        A\nB\nD\n           A\nB\nE\nA\nB",
+  "processado_em": "2026-05-08T14:00:24.452293",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

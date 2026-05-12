@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 58\t\nTEXTO I\nO dispositivo panóptico organiza unidades espaciais \nque permitem ver sem parar e reconhecer imediatamente. \nEm suma, o princípio da masmorra é invertido; ou antes, \nde suas três funções — trancar, privar de luz e esconder — \nsó se conserva a primeira e suprimem-se as outras \nduas. A visibilidade é uma armadilha. Fazer com que a \nvigilância seja permanente em seus efeitos, mesmo se \né descontínua em sua ação; que a perfeição do poder \ntenda a tornar inútil a atualidade de seu exercício; que \nesse aparelho arquitetural seja uma máquina de criar e \nsustentar uma relação de poder independente daquele \nque o exerce.\nFOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987 (adaptado).\nTEXTO II\nLAERTE. Disponível em: www.laerte.art.br. Acesso em: 25 nov. 2021.\nO objetivo do modelo de vigilância descrito nos textos I \ne II aponta para o(a)\nA\t\nA\t intercâmbio de opinião diversa.\nB\t\nB\t desenvolvimento de sujeito crítico.\nC\t\nC\t sentimento de observação constante.\nD\t\nD\t movimento de revolta individual.\nE\t\nE\t criação de liberdade efetiva.",
+  "processado_em": "2026-05-08T14:05:20.014863",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

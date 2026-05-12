@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 141\nUm inseto percorreu sobre a superfície de um objeto, \nem formato de um prisma reto ABCDEFGH, com base \nretangular, uma trajetória poligonal, com vértices nos \npontos: A\u0002/\u0002X\u0002/\u0002Y\u0002/\u0002G\u0002/\u0002F\u0002/\u0002E\u0002/\u0002X\u0002/\u0002G\u0002/\u0002E, na ordem em que \nforam apresentados.\nA\nD\nC\nY\nG\nF\nH\nE\nX\nB\n¶\u0002 \u0005\n\u001e\n\t\t?\u0007\u000e\u0004\u0002 \u0007\n%\u0007\n\t\n\u0005\r\b\u0007\u0002 \b\u0002 %\u0007\u0004\"\n'\u001d\u0004\u0002 \u0004\u0007\r\u0004J\u0004\u0005\b2\u0002 \u000f\u0004\u0002\ntrajeto percorrido pelo inseto sobre o plano determinado \npela base do prisma.\n\u0012\u0002 \u0007\n%\u0007\n\t\n\u0005\r\b'\u001d\u0004\u0002 \u000f\b\u0002 %\u0007\u0004\"\n'\u001d\u0004\u0002 \u0004\u0007\r\u0004J\u0004\u0005\b2\u0002 \u000f\u0004\u0002 \r\u0007\b\"\n\r\u0004\u0002\npercorrido pelo inseto é \nA  \nA\nB\nC\nD\nB  \nA\nB\nC\nD\nC  \nA\nB\nC\nD",
+  "processado_em": "2026-05-08T14:04:15.576088",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

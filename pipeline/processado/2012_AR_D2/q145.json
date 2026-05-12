@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 145\t\nCerto vendedor tem seu salário mensal calculado \nda seguinte maneira: ele ganha um valor fixo de \nR$ 750,00, mais uma comissão de R$ 3,00 para cada \nproduto vendido. Caso ele venda mais de 100 produtos, \nsua comissão passa a ser de R$ 9,00 para cada produto \nvendido a partir do 101º produto vendido",
+  "processado_em": "2026-05-08T13:59:48.297386",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

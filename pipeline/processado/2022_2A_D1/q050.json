@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nNa década de 1960, o governo Goulart tentara, de uma \nsó vez, realizar um conjunto de “ajustes” políticos e sociais \ncom a finalidade de incluir na Nação oficial, e na própria \nConstituição Federal, uma série de grupos que, em parte, a \npolítica e a história haviam deixado para trás, e que a nova \nconjuntura brasileira e internacional fazia emergir.\nDAHÁS, N. O discurso da central hoje. Disponível em: www.revistadehistoria.com.br. \nAcesso em: 29 out. 2015.\nNa conjuntura histórica abordada no texto, surgiu como \nprotagonista no campo político o grupo social dos\nA\t\nA\t empresários industriais.\nB\t\nB\t trabalhadores rurais.\nC\t\nC\t oligarcas regionais.\nD\t\nD\t profissionais liberais.\nE\t\nE\t religiosos católicos.",
+  "processado_em": "2026-05-08T14:04:40.883965",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

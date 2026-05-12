@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 73\t\nA história do Primeiro de Maio de 1890 — na França e na \nEuropa, o primeiro de todos os Primeiros de Maio — é, sob \nvários aspectos, exemplar. Resultante de um ato político \ndeliberado, essa manifestação ilustra o lado voluntário da \nconstrução de uma classe — a classe operária — à qual \nos socialistas tentam dar uma unidade política e cultural \natravés daquela pedagogia da festa cujo princípio, eficácia \ne limites há muito tempo tinham sido experimentados pela \nRevolução Francesa.\nPERROT, M. Os excluídos da história: operários, mulheres e prisioneiros. \nRio de Janeiro: Paz e Terra, 1988.\nCom base no texto, a fixação dessa data comemorativa \ntinha por objetivo\nA\t\nA\t valorizar um sentimento burguês.\nB\t\nB\t afirmar uma identidade coletiva.\nC\t\nC\t edificar uma memória nacional.\nD\t\nD\t criar uma comunidade cívica.\nE\t\nE\t definir uma tradição popular.",
+  "processado_em": "2026-05-08T14:05:04.656634",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nO proprietário de um parque aquático deseja construir \numa piscina em suas dependências. A figura representa \na vista superior dessa piscina, que é formada por três \nsetores circulares idênticos, com ângulo central igual a \n60°. O raio R deve ser um número natural. \n60°\nR\nO parque aquático já conta com uma piscina em \nformato retangular com dimensões 50 m x 24 m.\nO proprietário quer que a área ocupada pela nova \npiscina seja menor que a ocupada pela piscina já existente.\nConsidere 3,0 como aproximação para π.\nO maior valor possível para R, em metros, deverá ser\nA\t 16.\nB\t 28.\nC\t 29.\nD\t 31.\nE\t 49.",
+  "processado_em": "2026-05-08T14:00:59.162470",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

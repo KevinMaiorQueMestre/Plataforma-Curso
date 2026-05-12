@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 87\t\nO Ministério do Trabalho e Emprego (MTE) \nrealizou 248 ações fiscais e resgatou um total de \n1 590 trabalhadores da situação análoga à de escravo, \nem 2014, em todo o país. A análise do enfrentamento \ndo trabalho em condições análogas às de escravo \nmaterializa a efetivação de parcerias inéditas no \ntrato da questão, podendo ser referenciadas ações \nfiscais realizadas com o Ministério da Defesa, \nExército \nBrasileiro, \nInstituto \nBrasileiro \ndo \nMeio \nAmbiente e dos Recursos Naturais Renováveis \n(Ibama) e Instituto Chico Mendes de Conservação da \nBiodiversidade (ICMBio).\nDisponível em: http://portal.mte.gov.br. \nAcesso em: 4 fev. 2015 (adaptado).\nA estratégia defendida no texto para reduzir o problema \nsocial apontado consiste em:\nA\t Articular os órgãos públicos.\nB\t Pressionar o Poder Legislativo.\nC\t Ampliar a emissão das multas.\nD\t Limitar a autonomia das empresas.\nE\t Financiar as pesquisas acadêmicas.",
+  "processado_em": "2026-05-11T23:27:29.058930",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

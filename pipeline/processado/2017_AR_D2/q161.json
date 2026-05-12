@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nEm um parque há dois mirantes de alturas distintas \nque são acessados por elevador panorâmico. O topo \ndo mirante 1 é acessado pelo elevador 1, enquanto \nque o topo do mirante 2 é acessado pelo elevador 2. \nEles encontram-se a uma distância possível de ser \npercorrida a pé, e entre os mirantes há um teleférico que \nos liga que pode ou não ser utilizado pelo visitante.",
+  "processado_em": "2026-05-11T23:25:56.261482",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

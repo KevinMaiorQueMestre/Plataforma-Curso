@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 54\nA tecelagem é numa sala com quatro janelas e \n150 operários. O salário é por obra. No começo da \nfábrica, os tecelões ganhavam em média 170$000 réis \nmensais. Mais tarde não conseguiam ganhar mais do \nque 90$000; e pelo último rebaixamento, a média era \nde 75$000! E se a vida fosse barata! Mas as casas \nque a fábrica aluga, com dois quartos e cozinha, são a \n20$000 réis por mês; as outras são de 25$ a 30$000 réis.\nQuanto aos gêneros de primeira necessidade, em regra \ncustam mais do que em São Paulo.\nCARONE, E. Movimento operário no Brasil. São Paulo: Difel, 1979.\nEssas condições de trabalho, próprias de uma sociedade \nem processo de industrialização como a brasileira do \ninício do século XX, indicam a\nA exploração burguesa.\nB organização dos sindicatos.\nC ausência de especialização.\nD industrialização acelerada.\nE alta de preços.",
+  "processado_em": "2026-05-11T23:25:21.154650",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

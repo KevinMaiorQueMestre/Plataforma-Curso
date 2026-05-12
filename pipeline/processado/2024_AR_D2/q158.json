@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nUma tubulação despeja sempre o mesmo volume de \nágua por unidade de tempo em uma caixa-d’água, o que \nsignifica dizer que a vazão de água nessa tubulação é \nconstante. Na junção dessa tubulação com a caixa-d’água, \nestá instalada uma membrana de filtragem cujo objetivo é \nfiltrar eventuais impurezas presentes na água, combinado \na um bom fluxo de água. O fluxo (φ) de água através \nda superfície da membrana é diretamente proporcional \nà vazão de água na tubulação, medida em mililitro por \nsegundo, e inversamente proporcional à área da superfície \nda membrana, medida em centímetro quadrado.\nA unidade de medida adequada para descrever o fluxo \n(φ) de água que atravessa a superfície da membrana é\nA mL ⋅\n⋅\ns cm2\nB mL\ns\ncm2\n⋅\nC \nmL\ncm\ns\n2 ⋅\nD cm\ns\n2 ⋅\nmL\nE\ncm\ns\n2\nmL ⋅",
+  "processado_em": "2026-05-08T14:06:20.586648",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

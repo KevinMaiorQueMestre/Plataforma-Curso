@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 116\t\nObjetos de prata sofrem escurecimento devido à \nsua reação com enxofre. Estes materiais recuperam seu \nbrilho característico quando envoltos por papel alumínio e \nmergulhados em um recipiente contendo água quente e \nsal de cozinha.\nA reação não balanceada que ocorre é:\nAg2S (s) + Al (s) → Al2S3 (s) + Ag (s)\nDados da massa molar dos elementos (g mol−1): \nAg = 108; S = 32.\nUCKO, D. A. Química para as ciências da saúde: uma introdução à química geral, \norgânica e biológica. São Paulo: Manole, 1995 (adaptado).\nUtilizando o processo descrito, a massa de prata metálica \nque será regenerada na superfície de um objeto que \ncontém 2,48 g de Ag2S é\nA\t 0,54 g.\nB\t 1,08 g.\nC\t 1,91 g.\nD\t 2,16 g.\nE\t 3,82 g.",
+  "processado_em": "2026-05-11T23:26:21.019951",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

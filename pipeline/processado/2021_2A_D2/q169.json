@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 169\n\u0017\u0002\u001e\u0007\n\t\u001e\u000e\u0010\n\u0005\r\u0004\u0002\u000f\n\u0002\f\u0010\b\u0002%\u0004%\f2\b'\u001d\u0004\u0002\u000f\n\u0002\u0010\u000e\u001e\u0007\u0004\u0007J\b\u0005\u000e\t\u0010\u0004\t\u0002\n{\u0002\u000f\n\t\u001e\u0007\u000e\r\u0004\u0002%\n2\b\u0002\n@%\u0007\n\t\t\u001d\u0004\u0002K t\nt\n( )\n81 3\n2\n1\n3\n, em que K (t) \nindica a quantidade de microrganismos em um meio de \n\u001e\f2\r\f\u0007\b\u0002 \n\u0010\u0002 P\f\u0005'\u001d\u0004\u0002 \u000f\u0004\u0002 \r\n\u0010%\u0004\u0002 t(\u0002 \u0017\u0002 J\u0007?\u0006\u001e\u0004\u0002 \u0007\n%\u0007\n\t\n\u0005\r\b\u0002 \b\u0002\n\n#\u00042\f'\u001d\u0004\u0002\u000f\n\u0002K\u0002\n\u0010\u0002\u0007\n2\b'\u001d\u0004\u0002\b\u0004\u0002\r\n\u0010%\u0004\u0002t.\nK\n6 563\n0\nm\nt\nCom base nos dados, o valor de m é\nA   4\n \n_\n 3\nB   7\n \n_\n 5\nC   24\n \n__\n 5\nD   12\nE   81",
+  "processado_em": "2026-05-08T14:04:17.635889",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

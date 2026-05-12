@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 29\t\nTEXTO I\nTambém \nchamados \nimpressões \nou \nimagens \nfotogramáticas [...], os fotogramas são, numa definição \ngenérica, imagens realizadas sem a utilização da câmera \nfotográfica, por contato direto de um objeto ou material \ncom uma superfície fotossensível exposta a uma fonte \nde luz. Essa técnica, que nasceu junto com a fotografia e \nserviu de modelo a muitas discussões sobre a ontologia \nda imagem fotográfica, foi profundamente transformada \npelos artistas da vanguarda, nas primeiras décadas do \nséculo XX. Representou mesmo, ao lado das colagens, \nfotomontagens e outros procedimentos técnicos, a \nincorporação definitiva da fotografia à arte moderna e \nseu distanciamento da representação figurativa.\nCOLUCCI, M. B. Impressões fotogramáticas e vanguardas: as experiências de Man Ray. \nStudium, n. 2, 2000.\nTEXTO II\nRAY, M. Rayograph, 1922. 23,9 x 29,9 cm. MOMA, Nova York.\nDisponível em: www.moma.org. Acesso em: 18 abr. 2018 (adaptado).\nNo fotograma de Man Ray, o “distanciamento da \nrepresentação figurativa” a que se refere o Texto I \nmanifesta-se na\nA\t ressignificação do jogo de luz e sombra, nos moldes \nsurrealistas.\nB\t imposição do acaso sobre a técnica, como crítica à \narte realista.\nC\t composição \nexperimental, \nfragmentada \ne \nde \ncontornos difusos.\nD\t abstração radical, voltada para a própria linguagem \nfotográfica.\nE\t imitação de formas humanas, com base em \ndiferentes objetos.",
+  "processado_em": "2026-05-11T23:26:33.777436",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

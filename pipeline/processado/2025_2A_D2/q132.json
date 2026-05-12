@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 132 \nNa anáfase I, durante a gametogênese, pode ocorrer uma \nirregularidade meiótica pela não separação de um par de \ncromossomos homólogos, formando gametas com alterações \nno número de cromossomos. No momento da fecundação, \nalguns desses gametas poderão resultar em trissomias como a do \ncromossomo 21, originando indivíduos com síndrome de Down.\nBORGES, J. Para que serve o sexo? Disponível em: http://cienciahoje.uol.com.br. \nAcesso: 20 abr. 2015 (adaptado).\nQuantos cromossomos possui o gameta irregular que participou \nda fecundação que gerou um indivíduo com essa síndrome?\nA 22\nB 23\nC 24\nD 45\nE 47",
+  "processado_em": "2026-05-08T14:06:36.367014",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 169 \nEm um país, todos os produtos comercializados estão as\nsequência numérica pode ser representada por um código\nseguintes regras:\n• os três primeiros dígitos são associados ao país que com\n• dígitos nas posições quatro a nove identificam a empresa\n• dígitos nas posições dez a doze identificam o produto. E\nO último dígito, chamado de dígito verificador, é consequ\npreviamente definidas, realizadas com os doze primeiros.\nQuantos diferentes códigos de barras podem estar associados \nA 46 × 93\nB 46 × 103\nC 106 × 103\nD 3! × 46 × 103\nE (6 × 4) × (10 × 3)",
+  "processado_em": "2026-05-08T14:06:38.267619",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

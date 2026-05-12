@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nA água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos, \nem formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura.\nReservatório 1\nReservatório 2\nCano de\nentrada\nA água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do \ncano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios.\nQual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água \nno sistema?\nA\nh\nv\nD\nh\nv\nB\nh\nE\nh",
+  "processado_em": "2026-05-11T23:25:54.446662",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

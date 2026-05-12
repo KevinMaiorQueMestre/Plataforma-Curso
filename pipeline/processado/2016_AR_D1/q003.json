@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 03\t\nOs moradores de Andalsnes, na Noruega, poderiam \nse dar ao luxo de morar perto do trabalho nos dias úteis e \nde se refugiar na calmaria do bosque aos fins de semana. \nE sem sair da mesma casa. Bastaria achar uma vaga \npara estacionar o imóvel antes de curtir o novo endereço.\nDisponível em: http://casavogue.globo.com. Acesso em: 3 out. 2015 (adaptado).\nUma vez implementada, essa proposta afetaria a \ndinâmica do espaço urbano por reduzir a intensidade do \nseguinte processo:\nA\t Êxodo rural.\nB\t Movimento pendular.\nC\t Migração de retorno.\nD\t Deslocamento sazonal.\nE\t Ocupação de áreas centrais.",
+  "processado_em": "2026-05-08T14:01:02.150999",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

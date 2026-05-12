@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 91 \nDisponível em: http://paleobio2009.blogspot.com.br. Acesso em: 13 mar. 2013 (adaptado).\nA tirinha sugere o estudo da evolução biológica com base em evidências evolutivas conhecidas como\nA órgãos homólogos.\nB estruturas vestigiais.\nC testemunhos fósseis.\nD vestígios moleculares.\nE semelhanças anatômicas.",
+  "processado_em": "2026-05-11T23:29:39.858413",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

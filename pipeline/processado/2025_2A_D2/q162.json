@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 162 \nUma locadora de automóveis apresenta a seus clientes um \ngráfico que indica quanto deve ser pago de seguro em função do \ntempo de locação de qualquer automóvel, para os 5 primeiros \ndias de locação.\nEssa locadora cobra R$ 50,00 para cada 6 horas de aluguel \ndo automóvel mais o valor relativo ao seguro.\nQual é o valor total que um cliente deve pagar, em real, pela \nlocação de um automóvel nessa locadora por 3 dias inteiros \nmais três quartos de um dia?\nA 640,00\nB 670,00\nC 790,00\nD 820,00\nE 830,00",
+  "processado_em": "2026-05-08T14:06:37.967945",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

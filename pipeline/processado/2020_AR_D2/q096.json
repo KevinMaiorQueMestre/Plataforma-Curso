@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 96        \nUm estudante tem uma fonte de tensão com corrente \ncontínua que opera em tensão fixa de 12 V. Como \nprecisa alimentar equipamentos que operam em tensões \nmenores, ele emprega quatro resistores de 100 Ω para \nconstruir um divisor de tensão. Obtém-se este divisor \nassociando os resistores, como exibido na figura. Os \naparelhos podem ser ligados entre os pontos A, B, C, D e \nE, dependendo da tensão especificada.\nFonte CC\n12 V\n+\n−\n100 Ω\n100 Ω\n100 Ω\n100 Ω\nA\nB\nC\nD\nE\n \nEle tem um equipamento que opera em 9,0 V com \numa resistência interna de 10 kΩ.\nEntre quais pontos do divisor de tensão esse equipamento \ndeve ser ligado para funcionar corretamente e qual será o \nvalor da intensidade da corrente nele estabelecida?\nA \t Entre A e C; 30 mA.\nB \t Entre B e E; 30 mA.\nC \t Entre A e D; 1,2 mA.\nD \t Entre B e E; 0,9 mA.\nE \t Entre A e E; 0,9 mA.",
+  "processado_em": "2026-05-11T23:28:13.111642",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

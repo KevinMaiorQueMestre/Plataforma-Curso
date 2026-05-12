@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nO quadro mostra valores de corrente elétrica e seus \nefeitos sobre o corpo humano.\nCorrente elétrica\nDano físico\nAté 10 mA\nDor e contração muscular\nDe 10 mA até 20 mA\nAumento das contrações \nmusculares\nDe 20 mA até 100 mA\nParada respiratória\nDe 100 mA até 3 A\nFibrilação ventricular\nAcima de 3 A\nParada cardíaca e queimaduras\nA corrente elétrica que percorrerá o corpo de um \nindivíduo depende da tensão aplicada e da resistência \nelétrica média do corpo humano. Esse último fator está \nintimamente relacionado com a umidade da pele, que \nseca apresenta resistência elétrica da ordem de 500 kΩ, \nmas, se molhada, pode chegar a apenas 1 kΩ.\nApesar de incomum, é possível sofrer um acidente \nutilizando baterias de 12 V. Considere que um indivíduo \ncom a pele molhada sofreu uma parada respiratória \nao tocar simultaneamente nos pontos A e B de uma \nassociação de duas dessas baterias.\nDURAN, J. E. R. Biofísica: fundamentos e aplicações.\nSão Paulo: Pearson Prentice Hall, 2003 (adaptado).\nQual associação de baterias foi responsável pelo acidente?\nA\n-\n+\nA\nB\n-\n+\nB\n-\n+\nA\nB\n-\n+\nC\nA\nB\n-\n+\n-\n+\nD\n+\nA\nB\n-\n-\n+\nE\nA\nB\n-\n+\n-\n+",
+  "processado_em": "2026-05-08T14:05:10.301426",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

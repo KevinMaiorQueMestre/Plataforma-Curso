@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\t\nBalões cheios de gás hélio são soltos no ar pelas \ncrianças e sobem até não serem mais vistos em poucos \nminutos.\nDurante a subida, o gás no interior do balão sofre \naumento de\nA\t\nA\t volume.\nB\t\nB\t pressão.\nC\t\nC\t densidade.\nD\t\nD\t temperatura.\nE\t\nE\t massa molar.",
+  "processado_em": "2026-05-08T14:05:24.794794",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\nUm carro solar é um veículo que utiliza apenas a \nenergia solar para a sua locomoção. Tipicamente, o carro \ncontém um painel fotovoltaico que converte a energia \ndo Sol em energia elétrica que, por sua vez, alimenta \num motor elétrico. A imagem mostra o carro solar Tokai \nChallenger, desenvolvido na Universidade de Tokai, no \nJapão, e que venceu o World Solar Challenge de 2009, \numa corrida internacional de carros solares, tendo atingido \numa velocidade média acima de 100 km/h. \nDisponível em: www.physics.hku.hk. Acesso em: 3 jun. 2015.\nConsidere uma região plana onde a insolação \n(energia solar por unidade de tempo e de área que chega \nà superfície da Terra) seja de 1 000 W/m2, que o carro \nsolar possua massa de 200 kg e seja construído de forma \nque o painel fotovoltaico em seu topo tenha uma área de \n9,0 m2 e rendimento de 30%. \nDesprezando as forças de resistência do ar, o tempo que \nesse carro solar levaria, a partir do repouso, para atingir a \nvelocidade de 108 km/h é um valor mais próximo de\nA\t 1,0 s.\nB\t 4,0 s.\nC\t 10 s.\nD\t 33 s.\nE\t 300 s.",
+  "processado_em": "2026-05-08T14:00:46.555159",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

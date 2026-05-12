@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 34\t\nEmbora haja dados comuns que dão unidade ao \nfenômeno da urbanização na África, na Ásia e na América \nLatina, os impactos são distintos em cada continente e \nmesmo dentro de cada país, ainda que as modernizações \nse deem com o mesmo conjunto de inovações.\nELIAS, D. Fim do século e urbanização no Brasil. Revista Ciência Geográfica, \nano IV, n. 11, set./dez. 1988.\nO texto aponta para a complexidade da urbanização \nnos diferentes contextos socioespaciais. Comparando \na organização socioeconômica das regiões citadas, a \nunidade desse fenômeno é perceptível no aspecto\nA\t espacial, em função do sistema integrado que envolve \nas cidades locais e globais.\nB\t cultural, em função da semelhança histórica e da \ncondição de modernização econômica e política.\nC\t demográfico, em função da localização das maiores \naglomerações urbanas e continuidade do fluxo \ncampo-cidade.\nD\t territorial, em função da estrutura de organização \ne planejamento das cidades que atravessam as \nfronteiras nacionais.\nE\t econômico, em função da revolução agrícola que \ntransformou o campo e a cidade e contribuiu para \nfixação do homem ao lugar.",
+  "processado_em": "2026-05-08T14:00:11.581940",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

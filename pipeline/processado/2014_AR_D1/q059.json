@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 59\t\nA revelação das chapas de raios X gera uma solução \nque contém íons prata na forma de Ag(S2O3)2\n3−. Para evitar \na descarga desse metal no ambiente, a recuperação de \nprata metálica pode ser feita tratando eletroquimicamente \nessa solução com uma espécie adequada. O quadro \napresenta semirreações de redução de alguns íons \nmetálicos.\nSemirreação de redução\nE 0 (V)\nAg(S2O3)2\n3− (aq) + e−  \n  Ag (s) + 2 S2O3\n2− (aq) +0,02\nCu2+ (aq) + 2 e−  \n  Cu (s)\n+0,34\nPt2+ (aq) + 2 e−  \n  Pt (s)\n+1,20\nAl3+ (aq) + 3 e−  \n  Al (s)\n−1,66\nSn2+ (aq) + 2 e−  \n  Sn (s)\n−0,14\nZn2+ (aq) + 2 e−  \n  Zn (s)\n−0,76\nBENDASSOLLI, J. A. et al. Procedimentos para a recuperação de Ag de resíduos líquidos e \nsólidos. Química Nova, v. 26, n. 4, 2003 (adaptado).\nDas espécies apresentadas, a adequada para essa \nrecuperação é\nA\t Cu (s).\nB\t Pt (s).\nC\t Al3+ (aq).\nD\t Sn (s).\nE\t Zn2+ (aq).",
+  "processado_em": "2026-05-08T14:00:30.690895",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

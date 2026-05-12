@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q037",
+  "imagem": "q037.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 37,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 37\t\nAs plataformas ou crátons correspondem aos \nterrenos mais antigos e arrasados por muitas fases \nde erosão. Apresentam uma grande complexidade \nlitológica, prevalecendo as rochas metamórficas muito \nantigas (Pré-Cambriano Médio e Inferior). Também \nocorrem rochas intrusivas antigas e resíduos de rochas \nsedimentares. São três as áreas de plataforma de \ncrátons no Brasil: a das Guianas, a Sul-Amazônica e a \ndo São Francisco.\nROSS, J. L. S. Geografia do Brasil. São Paulo: Edusp, 1998.\nAs regiões cratônicas das Guianas e a Sul-Amazônica \ntêm como arcabouço geológico vastas extensões de \nescudos cristalinos, ricos em minérios, que atraíram \na ação de empresas nacionais e estrangeiras do \nsetor de mineração e destacam-se pela sua história \ngeológica por\nA\t apresentarem áreas de intrusões graníticas, ricas em \njazidas minerais (ferro, manganês).\nB\t corresponderem ao principal evento geológico do \nCenozoico no território brasileiro.\nC\t apresentarem áreas arrasadas pela erosão, que \noriginaram a maior planície do país.\nD\t possuírem em sua extensão terrenos cristalinos ricos \nem reservas de petróleo e gás natural.\nE\t serem esculpidas pela ação do intemperismo físico, \ndecorrente da variação de temperatura.",
+  "processado_em": "2026-05-08T13:59:02.009237",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

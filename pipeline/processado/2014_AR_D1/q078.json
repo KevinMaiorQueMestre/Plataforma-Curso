@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 78\t\nCom o objetivo de substituir as sacolas de polietileno, \nalguns supermercados têm utilizado um novo tipo de \nplástico ecológico, que apresenta em sua composição \namido de milho e uma resina polimérica termoplástica, \nobtida a partir de uma fonte petroquímica.\nERENO, D. Plásticos de vegetais. Pesquisa Fapesp, n. 179, jan. 2011 (adaptado).\nNesses plásticos, a fragmentação da resina polimérica é \nfacilitada porque os carboidratos presentes\nA\t dissolvem-se na água.\nB\t absorvem água com facilidade.\nC\t caramelizam por aquecimento e quebram.\nD\t são digeridos por organismos decompositores.\nE\t decompõem-se espontaneamente em contato com \nágua e gás carbônico",
+  "processado_em": "2026-05-08T14:00:31.661384",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nOs botos-cinza (Sotalia guianensis), mamíferos da \nfamília dos golfinhos, são excelentes indicadores da \npoluição das áreas em que vivem, pois passam toda a \nsua vida — cerca de 30 anos — na mesma região. Além \ndisso, a espécie acumula mais contaminantes em seu \norganismo, como o mercúrio, do que outros animais da \nsua cadeia alimentar.\nMARCOLINO, B. Sentinelas do mar. Disponível em: http://cienciahoje.uol.com.br. \nAcesso em: 1 ago. 2012 (adaptado).\nOs botos-cinza acumulam maior concentração dessas \nsubstâncias porque\nA\t são animais herbívoros.\nB\t são animais detritívoros.\nC\t são animais de grande porte.\nD\t digerem o alimento lentamente.\nE\t estão no topo da cadeia alimentar.",
+  "processado_em": "2026-05-11T23:25:50.336018",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

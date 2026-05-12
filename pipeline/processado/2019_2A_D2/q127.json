@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 127\t\nEm uma atividade prática, um professor propôs o \nseguinte experimento:\nMateriais: copo plástico pequeno, leite e suco \nde limão.\nProcedimento: coloque leite até a metade do copo \nplástico e, em seguida, adicione lentamente 20 gotas \nde limão.\nLevando-se em consideração a faixa de pH do suco \nde limão, a composição biomolecular do leite e os \nresultados que os alunos observariam na realização \ndo experimento, qual processo digestório estaria sendo \nsimulado?\nA\t Ação da bile sobre as gorduras no duodeno.\nB\t Ação do suco pancreático sobre as gorduras.\nC\t Ação da saliva sobre os carboidratos na boca.\nD\t Ação do suco entérico sobre as proteínas no íleo.\nE\t Ação do suco gástrico sobre as proteínas no estômago.",
+  "processado_em": "2026-05-11T23:27:10.277880",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

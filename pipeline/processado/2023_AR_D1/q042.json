@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 42\t\nO acesso às Práticas Corporais/Atividades Físicas \n(PC/AF) é desigual no Brasil, à semelhança de outros \nindicadores sociais e de saúde. Em geral, PC/AF prazerosas, \ndiversificadas, mais afeitas ao período de lazer estão \nconcentradas nas populações mais abastadas. As atividades \nfísicas de deslocamento, trajetos a pé ou de bicicleta para \nestudar ou trabalhar, por exemplo, são mais frequentes \nna classe social menos favorecida. Aqui, há uma relação \ninversa e perversa entre variáveis socioeconômicas de acesso \nàs PC/AF. As maiores prevalências de inatividade física foram \nem mulheres, pessoas com 60 anos ou mais, negros, pessoas \ncom autoavaliação de saúde ruim ou muito ruim, com renda \nfamiliar de até quatro salários mínimos por pessoa, pessoas \nque desconhecem programas públicos de PC/AF e residentes \nem áreas sem locais públicos para a prática.\nKNUTH, A. G.; ANTUNES, P. C. Saúde e Sociedade, n. 2, 2021 (adaptado).\nO fator central que impacta a realização de práticas \ncorporais/atividades físicas no tempo de lazer no Brasil é a\nA\t\nA\t diferença entre homens e mulheres.\nB\t\nB\t inexistência de políticas públicas.\nC\t\nC\t diversidade de faixa etária.\nD\t\nD\t variação de condição étnica.\nE\t\nE\t desigualdade entre classes sociais.",
+  "processado_em": "2026-05-08T14:05:36.451781",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

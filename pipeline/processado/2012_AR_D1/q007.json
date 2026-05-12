@@ -1,0 +1,28 @@
+{
+  "questao_id": "2012_AR_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "É verdade que nas democracias o povo parece \nfazer o que quer; mas a liberdade política não consiste \nnisso. Deve-se ter sempre presente em mente o que é \nindependência e o que é liberdade. A liberdade é o direito \nde fazer tudo o que as leis permitem; se um cidadão \npudesse fazer tudo o que elas proíbem, não teria mais \nliberdade, porque os outros também teriam tal poder.\nMONTESQUIEU. Do Espírito das Leis. São Paulo: Editora Nova Cultural, 1997 (adaptado).\nA \ncaracterística \nde \ndemocracia \nressaltada \npor \nMontesquieu diz respeito\nA\t ao status de cidadania que o indivíduo adquire ao \ntomar as decisões por si mesmo.\nB\t ao condicionamento da liberdade dos cidadãos à \nconformidade às leis.\nC\t à possibilidade de o cidadão participar no poder e, \nnesse caso, livre da submissão às leis.\nD\t ao livre-arbítrio do cidadão em relação àquilo que é \nproibido, desde que ciente das consequências.\nE\t ao direito do cidadão exercer sua vontade de acordo \ncom seus valores pessoais.",
+  "processado_em": "2026-05-11T23:37:35.977316",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

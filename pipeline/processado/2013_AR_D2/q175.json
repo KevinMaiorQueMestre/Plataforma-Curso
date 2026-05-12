@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nUma fábrica de parafusos possui duas máquinas, \nI e II, para a produção de certo tipo de parafuso. \nEm setembro, a máquina I produziu 54\n100\n do total \nde parafusos produzidos pela fábrica. Dos parafusos \nproduzidos por essa máquina, \n25\n1 000\n eram defeituosos. \nPor sua vez, \n38\n1 000  dos parafusos produzidos no mesmo \nmês pela máquina II eram defeituosos.\nO desempenho conjunto das duas máquinas é \nclassificado conforme o quadro, em que P indica a \nprobabilidade de um parafuso escolhido ao acaso ser \ndefeituoso.\n0 ≤ P < 2\n100\nExcelente\n2\n100 ≤ P <\n4\n100\nBom\n4\n100 ≤ P <\n6\n100\nRegular\n6\n100 ≤ P <\n8\n100\nRuim\n8\n100 ≤ P ≤ 1\nPéssimo\nO desempenho conjunto dessas máquinas, em setembro, \npode ser classificado como\nA\t excelente.\nB\t bom.\nC\t regular.\nD\t ruim.\nE péssimo",
+  "processado_em": "2026-05-08T14:00:24.526402",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nUm fazendeiro tem um depósito para armazenar leite \nformado por duas partes cúbicas que se comunicam, \ncomo indicado na figura. A aresta da parte cúbica de \nbaixo tem medida igual ao dobro da medida da aresta \nda parte cúbica de cima. A torneira utilizada para encher \no depósito tem vazão constante e levou 8 minutos para \nencher metade da parte de baixo.\nQuantos minutos essa torneira levará para encher \ncompletamente o restante do depósito?\nA\t 8\nB\t 10\nC\t 16\nD\t 18",
+  "processado_em": "2026-05-08T14:00:40.310120",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

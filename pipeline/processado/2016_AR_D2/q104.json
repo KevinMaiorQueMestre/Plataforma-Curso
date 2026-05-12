@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 104\t\nAntiode\nPoesia, não será esse\no sentido em que\nainda te escrevo:\nflor! (Te escrevo:\nflor! Não uma\nflor, nem aquela\nflor-virtude — em\ndisfarçados urinóis).\nFlor é a palavra\nflor; verso inscrito\nno verso, como as\nmanhãs no tempo.\nFlor é o salto\nda ave para o voo:\no salto fora do sono\nquando seu tecido\nse rompe; é uma explosão\nposta a funcionar,\ncomo uma máquina,\numa jarra de flores.\nMELO NETO, J. C. Psicologia da composição. Rio de Janeiro: Nova Fronteira, 1997 (fragmento).\nA poesia é marcada pela recriação do objeto por \nmeio da linguagem, sem necessariamente explicá-lo. \nNesse fragmento de João Cabral de Melo Neto, poeta \nda geração de 1945, o sujeito lírico propõe a recriação \npoética de\nA\t uma palavra, a partir de imagens com as quais \nela pode ser comparada, a fim de assumir novos \nsignificados.\nB\t um urinol, em referência às artes visuais ligadas às \nvanguardas do início do século XX.\nC\t uma ave, que compõe, com seus movimentos, uma \nimagem historicamente ligada à palavra poética.\nD\t uma máquina, levando em consideração a relevância \ndo discurso técnico-científico pós-Revolução Industrial.\nE\t um tecido, visto que sua composição depende de \nelementos intrínsecos ao eu lírico.",
+  "processado_em": "2026-05-08T14:01:15.674270",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

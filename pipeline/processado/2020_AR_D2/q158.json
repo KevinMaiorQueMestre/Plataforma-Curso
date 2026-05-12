@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\t 1.\nB \t 2.\nC \t 3.\nD \t 4.\nE \t 5.\nQuestão 158        \nUma das Sete Maravilhas do Mundo Moderno é o \nTemplo de Kukulkán, localizado na cidade de Chichén \nItzá, no México. Geometricamente, esse templo pode \nser representado por um tronco reto de pirâmide de base \nquadrada.\nAs quantidades de cada tipo de figura plana que formam \nesse tronco de pirâmide são\nA \t 2 quadrados e 4 retângulos.\nB\t 1 retângulo e 4 triângulos isósceles.\nC \t 2 quadrados e 4 trapézios isósceles.\nD\t 1 quadrado, 3 retângulos e 2 trapézios retângulos.\nE \t 2 retângulos, 2 quadrados e 2 trapézios retângulos.",
+  "processado_em": "2026-05-11T23:28:19.332352",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

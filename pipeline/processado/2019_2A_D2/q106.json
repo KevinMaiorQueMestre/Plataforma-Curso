@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 106\t\nEm um laboratório de química foram encontrados \ncinco frascos não rotulados, contendo: propanona, \nágua, tolueno, tetracloreto de carbono e etanol. Para \nidentificar os líquidos presentes nos frascos, foram feitos \ntestes de solubilidade e inflamabilidade. Foram obtidos \nos seguintes resultados:\n- Frascos 1, 3 e 5 contêm líquidos miscíveis entre si;\n- Frascos 2 e 4 contêm líquidos miscíveis entre si;\n- Frascos 3 e 4 contêm líquidos não inflamáveis.\nCom base nesses resultados, pode-se concluir que a \nágua está contida no frasco\nA\t 1.\nB\t 2.\nC\t 3.\nD\t 4.\nE\t 5.",
+  "processado_em": "2026-05-11T23:27:08.623915",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

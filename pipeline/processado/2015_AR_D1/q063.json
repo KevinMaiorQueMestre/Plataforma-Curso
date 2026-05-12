@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nUma pessoa abre sua geladeira, verifica o que \nhá dentro e depois fecha a porta dessa geladeira. \nEm seguida, ela tenta abrir a geladeira novamente, mas \nsó consegue fazer isso depois de exercer uma força mais \nintensa do que a habitual.\nA dificuldade extra para reabrir a geladeira ocorre \nporque o(a)\nA\t volume de ar dentro da geladeira diminuiu.\nB\t motor da geladeira está funcionando com potência \nmáxima.\nC\t força exercida pelo ímã fixado na porta da geladeira \naumenta.\nD\t pressão no interior da geladeira está abaixo da \npressão externa.\nE\t temperatura no interior da geladeira é inferior ao valor \nexistente antes de ela ser aberta.",
+  "processado_em": "2026-05-08T14:00:47.722025",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 174\t\nUma caixa de descarga, acoplada a um vaso sanitário, tem \na forma de paralelepípedo reto retângulo cujas dimensões \ninternas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia \nque interrompe o abastecimento quando a altura da coluna de \nágua atinge 2 dm, conforme a figura.\nA cada acionamento da descarga, todo o volume de \nágua contida na caixa é despejado no vaso. Para reduzir o \nvolume de água despejado a cada acionamento, uma pessoa \ncolocará, no interior dessa caixa, garrafas de 300 mL, cheias \nde areia e tampadas, de modo a ficarem submersas quando \no abastecimento for interrompido.\nPara garantir o funcionamento eficiente, o mínimo de água \ndespejada a cada acionamento deve ser de 5 L.\nA quantidade máxima de garrafas que serão colocadas nessa \ncaixa, garantindo um funcionamento eficiente, é igual a\nA\t10.\nB\t8.\nC\t4.\nD\t3.\nE 2",
+  "processado_em": "2026-05-08T14:07:10.483243",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

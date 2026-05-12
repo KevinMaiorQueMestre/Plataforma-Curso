@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "p\nCUNHA, E. Os sertões. São Paulo: Editora Três, 1984.\nNo experimento descrito, a relação com a paisagem e \ncom a religiosidade permite que o sertanejo seja\nA\t\nA\t afeito à devoção ao aceitar destinos sacralizados.\nB\t\nB\t acostumado à pobreza ao admitir acasos naturais.\nC\t\nC\t habituado ao solo ao conhecer terrenos cultiváveis.\nD\t\nD\t íntimo à Caatinga ao interpretar condições ambientais.\nE\t\nE\t próximo à vegetação ao identificar espécies arbustivas.\nQUESTÃO 47\t\nSempre que a relevância do discurso entra em \njogo, a questão torna-se política por definição, pois é o \ndiscurso que faz do homem um ser político. E tudo que os \nhomens fazem, sabem ou experimentam só tem sentido \nna medida em que pode ser discutido. Haverá, talvez, \nverdades que ficam além da linguagem e que podem ser \nde grande relevância para o homem no singular, isto é, \npara o homem que, seja o que for, não é um ser político. \nMas homens no plural, isto é, os homens que vivem e se \nmovem e agem neste mundo, só podem experimentar o \nsignificado das coisas por poderem falar e ser inteligíveis \nentre si e consigo mesmos",
+  "processado_em": "2026-05-08T14:05:01.634171",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

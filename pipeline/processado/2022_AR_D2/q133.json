@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 133\t\nUma lanterna funciona com três pilhas de resistênc\nposicionadas corretamente, devem acender a lâmpada inc\nposição correta gera uma f.e.m. (força eletromotriz) de 1,5\nequívoco de inverter a posição de uma das pilhas. Consid\nposição.\nCom esse equívoco, qual é a intensidade de corrente que \nA\t\nA\t 0,25 A\nB\t\nB\t 0,33 A\nC\t\nC\t 0,75 A\nD\t\nD\t 1,00 A\nE\t\nE\t 1,33 A",
+  "processado_em": "2026-05-08T14:05:11.280317",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

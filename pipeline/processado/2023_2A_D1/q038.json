@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 38\t\nDisponível em: www.cnj.jus.br. Acesso em: 30 out. 2021.\nA articulação entre os recursos verbais e não verbais \nutilizados na construção do texto tem como objetivo\nA\t\nA\t explicar para o público os efeitos de conteúdos \nenganosos.\nB\t\nB\t expor a fragilidade de tecnologias digitais na \nmanipulação de dados.\nC\t\nC\t promover a partilha de conhecimentos por meio de \nrecursos tecnológicos.\nD\t\nD\t orientar práticas para o reconhecimeto de mensagens \nperigosas em ambientes digitais.\nE\t\nE\t incentivar a adoção de comportamentos adequados \nna disseminação de informações.",
+  "processado_em": "2026-05-08T14:05:19.113958",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

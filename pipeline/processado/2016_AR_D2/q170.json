@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nSob a orientação de um mestre de obras, João \ne Pedro trabalharam na reforma de um edifício. João \nefetuou reparos na parte hidráulica nos andares 1, 3, 5, 7, \ne assim sucessivamente, de dois em dois andares. Pedro \ntrabalhou na parte elétrica nos andares 1, 4, 7, 10, e assim \nsucessivamente, de três em três andares. Coincidentemente, \nterminaram seus trabalhos no último andar. Na conclusão \nda reforma, o mestre de obras informou, em seu relatório, \no número de andares do edifício. Sabe-se que, ao longo \nda execução da obra, em exatamente 20 andares, foram \nrealizados reparos nas partes hidráulica e elétrica por João \ne Pedro.\nQual é o número de andares desse edifício?\nA\t 40\nB\t 60\nC\t 100\nD\t 115\nE\t 120",
+  "processado_em": "2026-05-08T14:01:24.011923",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

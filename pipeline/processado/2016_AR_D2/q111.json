@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LC - 2º dia | Caderno 5 - AMARELO - Página 10\nQUESTÃO 111\t\nMandinga — Era a denominação que, no período \ndas grandes navegações, os portugueses davam à costa \nocidental da África. A palavra se tornou sinônimo de \nfeitiçaria porque os exploradores lusitanos consideravam \nbruxos os africanos que ali habitavam — é que eles davam \nindicações sobre a existência de ouro na região. Em idioma \nnativo, manding designava terra de feiticeiros. A palavra \nacabou virando sinônimo de feitiço, sortilégio.\nCOTRIM, M. O pulo do gato 3. São Paulo: Geração Editorial, 2009 (fragmento).\nNo texto, evidencia-se que a construção do significado da \npalavra mandinga resulta de um(a)\nA\t contexto sócio-histórico.\nB\t diversidade étnica.\nC\t descoberta geográfica.\nD\t apropriação religiosa.\nE\t contraste cultural.",
+  "processado_em": "2026-05-08T14:01:16.216052",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

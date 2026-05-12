@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 87\t\nA topografia predominante no Planalto Central é a de \numa região horizontal, chata, que me fez recordar muito \ndo Planalto Central da África do Sul: o mesmo horizonte \ncircular, a mesma vegetação baixa e rala, que permite à \nvista varrer extensões infinitas.\nWEIBEL, L. Capítulos de geografia tropical e do Brasil. \nRio de Janeiro: IBGE, 1979.\nQuais formações vegetais pertencem às paisagens \napresentadas?\nA\t Os cerrados e as savanas.\nB\t Os garrigues e as pradarias.\nC\t As caatingas e os maquis.\nD\t As coníferas e as estepes.\nE\t As restingas e os chaparrais.",
+  "processado_em": "2026-05-11T23:27:02.852080",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 157\t\nSegundo o Instituto Brasileiro de Geografia e \nEstatística (IBGE), o rendimento médio mensal \ndos trabalhadores brasileiros, no ano 2000, era de \nR$ 1 250,00. Já o Censo 2010 mostrou que, em 2010, \nesse valor teve um aumento de 7,2% em relação a \n2000. Esse mesmo instituto projeta que, em 2020, o \nrendimento médio mensal dos trabalhadores brasileiros \npoderá ser 10% maior do que foi em 2010.\nIBGE. Censo 2010. Disponível em: www.ibge.gov.br. \nAcesso em: 13 ago. 2012 (adaptado).\nSupondo que as projeções do IBGE se realizem, o \nrendimento médio mensal dos brasileiros em 2020 será de\nA\t R$ 1 340,00.\nB\t R$ 1 349,00.\nC\t R$ 1 375,00.\nD\t R$ 1 465,00.\nE\t R$ 1 474,00.",
+  "processado_em": "2026-05-11T23:27:36.723588",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

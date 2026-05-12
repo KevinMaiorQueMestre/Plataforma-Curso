@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q039",
+  "imagem": "q039.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 39,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 39\t\nDisponível em: www.facebook.com/omeusegredinho. Acesso em: 9 dez. 2017 (adaptado).\nEssa imagem ilustra a reação dos celíacos (pessoas \nsensíveis ao glúten) ao ler rótulos de alimentos sem \nglúten. Essas reações indicam que, em geral, os rótulos \ndesses produtos\nA\t trazem informações explícitas sobre a presença do \nglúten.\nB\t oferecem várias opções de sabor para esses \nconsumidores.\nC\t classificam o produto como adequado para o \nconsumidor celíaco.\nD\t influenciam o consumo de alimentos especiais para \nesses consumidores.\nE\t variam na forma de apresentação de informações \nrelevantes para esse público.",
+  "processado_em": "2026-05-11T23:26:36.350322",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 116\t\nDurante o ano de 2020, impulsionado pela necessidade \nde respostas rápidas e eficientes para desinfectar ambientes \nde possíveis contaminações com o SARS-CoV-2, causador \nda covid-19, diversas alternativas foram buscadas para \nos procedimentos de descontaminação de materiais e \nambientes. Entre elas, o uso de ozônio em meio aquoso \ncomo agente sanitizante para pulverização em humanos \ne equipamentos de proteção em câmaras ou túneis, \nhigienização de automóveis e de ambientes fechados e \ndescontaminação de trajes. No entanto, pouca atenção foi \ndada à toxicidade do ozônio, à formação de subprodutos, ao \nnível de concentração segura e às precauções necessárias.\nLIMA, M. J. A.; FELIX, E. P.; CARDOSO, A. A. Aplicações e implicações do ozônio na \nindústria, ambiente e saúde. Química Nova, n. 9, 2021 (adaptado).\nO grande risco envolvido no emprego indiscriminado \ndessa substância deve-se à sua ação química como\nA\t\nA\t catalisador.\nB\t\nB\t oxidante.\nC\t\nC\t redutor.\nD\t\nD\t ácido.\nE\t\nE\t base.",
+  "processado_em": "2026-05-08T14:05:10.054767",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

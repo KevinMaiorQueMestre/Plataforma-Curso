@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\t\nWILL. Disponível em: www.willtirando.com.br. Acesso em: 7 nov. 2013.\nOpportunity é o nome de um veículo explorador que \naterrissou em Marte com a missão de enviar informações \nà Terra. A charge apresenta uma crítica ao(à)\nA\t gasto exagerado com o envio de robôs a outros planetas.\nB\t exploração indiscriminada de outros planetas.\nC\t circulação digital excessiva de autorretratos.\nD\t vulgarização das descobertas espaciais.\nE\t mecanização das atividades humanas.",
+  "processado_em": "2026-05-08T14:00:35.054795",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

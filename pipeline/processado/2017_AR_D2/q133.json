@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 133\t\nNo ar que respiramos existem os chamados “gases \ninertes”. Trazem curiosos nomes gregos, que significam \n“o Novo”, “o Oculto”, “o Inativo”. E de fato são de tal \nmodo inertes, tão satisfeitos em sua condição, que \nnão interferem em nenhuma reação química, não se \ncombinam com nenhum outro elemento e justamente por \nesse motivo ficaram sem ser observados durante séculos: \nsó em 1962 um químico, depois de longos e engenhosos \nesforços, conseguiu forçar “o Estrangeiro” (o xenônio) a \ncombinar-se fugazmente com o flúor ávido e vivaz, e a \nfaçanha pareceu tão extraordinária que lhe foi conferido \no Prêmio Nobel.\nLEVI, P. A tabela periódica. Rio de Janeiro: Relume-Dumará, 1994 (adaptado).\nQual propriedade do flúor justifica sua escolha como \nreagente para o processo mencionado?\nA\t Densidade.\nB\t Condutância.\nC\t Eletronegatividade.\nD\t Estabilidade nuclear.\nE\t Temperatura de ebulição.",
+  "processado_em": "2026-05-11T23:25:51.584128",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

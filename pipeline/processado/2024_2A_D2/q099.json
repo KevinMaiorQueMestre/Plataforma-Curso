@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\t\nAo respirarmos, falarmos, tossirmos ou espirrarmos, \nliberamos gotículas e aerossóis. Se estamos com alguma \ninfecção respiratória viral, vírus estarão contidos ali. \nEstima-se que uma pessoa com covid-19 falando alto por \n1 minuto pode gerar mais de 1 000 partículas de aerossóis, \no que poderia levar à liberação de mais de 100 000 partículas \nvirais de SARS-CoV-2. O uso de máscaras pela população \npode auxiliar na redução da transmissão desse vírus, \nconforme representado na figura.\nDisponível em: www.blogs.unicamp.br. \nAcesso em: 17 dez. 2021(adaptado).\nAs máscaras auxiliam no controle dessa doença, pois\nA\tneutralizam as partículas virais presentes nas gotículas \ne aerossóis.\nB\tfornecem uma barreira de proteção contra as partículas \nvirais liberadas no ar.\nC\treduzem a quantidade de vírus nas gotículas produzidas \ndurante a respiração.\nD\tpermitem que os indivíduos infectados inspirem e expirem \nmenos partículas virais.\nE\tmantêm afastados os indivíduos não infectados daqueles \nque já foram infectados.",
+  "processado_em": "2026-05-08T14:05:59.872916",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

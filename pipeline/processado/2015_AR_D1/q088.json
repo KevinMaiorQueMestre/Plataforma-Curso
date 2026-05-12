@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nPara obter a posição de um telefone celular, a polícia \nbaseia-se em informações do tempo de resposta do \naparelho em relação às torres de celular da região de \nonde se originou a ligação. Em uma região, um aparelho \nestá na área de cobertura de cinco torres, conforme o \nesquema.\nConsiderando que as torres e o celular são puntiformes e \nque estão sobre um mesmo plano, qual o número mínimo \nde torres necessárias para se localizar a posição do \ntelefone celular que originou a ligação?\nA\t Uma.\nB\t Duas.\nC\t Três.\nD\t Quatro.\nE\t Cinco.",
+  "processado_em": "2026-05-08T14:00:49.096808",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

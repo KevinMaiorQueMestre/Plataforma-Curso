@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nUma empresa produz e vende um tipo de chocolate, \nmaciço, em formato de cone circular reto com as medidas \ndo diâmetro da base e da altura iguais a 8 cm e 10 cm, \nrespectivamente, como apresenta a figura.\n8 cm\n10 cm\nDevido a um aumento de preço dos ingredientes \nutilizados na produção desse chocolate, a empresa \ndecide produzir esse mesmo tipo de chocolate com um \nvolume 19% menor, no mesmo formato de cone circular \nreto com altura de 10 cm.\nPara isso, a empresa produzirá esses novos chocolates \ncom medida do raio da base, em centímetro, igual a\nA\t\nA\t 1,52.\nB\t\nB\t 3,24.\nC\t\nC\t 3,60.\nD\t\nD\t 6,48.\nE\t\nE\t 7,20.",
+  "processado_em": "2026-05-08T14:05:11.884296",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

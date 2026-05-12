@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t Diminuir a absorção do princípio ativo no intestino.\nB \t Impedir que o fármaco seja solubilizado no intestino.\nC \t Garantir que o fármaco não seja afetado pelas \nsecreções gástricas.\nD \t Permitir a liberação do princípio ativo pela ação das \namilases salivares.\nE \t Facilitar a liberação do fármaco pela ação dos sais \nbiliares sobre o revestimento.\nQuestão 92        \nAs panelas de pressão reduzem o tempo de \ncozimento dos alimentos por elevar a temperatura de \nebulição da água. Os usuários conhecedores do utensílio \nnormalmente abaixam a intensidade do fogo em panelas \nde pressão após estas iniciarem a saída dos vapores.\nAo abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)\nA \t aumento da pressão interna e os riscos de explosão.\nB \t dilatação da panela e a desconexão com sua tampa.\nC \t perda da qualidade nutritiva do alimento.\nD \t deformação da borracha de vedação.\nE \t consumo de gás desnecessário.\nQuestão 93        \nA nanotecnologia pode ser caracterizada quando os \ncompostos estão na ordem de milionésimos de milímetros, \ncomo na utilização de nanomateriais catalíticos nos \nprocessos industriais. O uso desses materiais aumenta \na eficiência da produção, consome menos energia e gera \nmenores quantidades de resíduos. O sucesso dessa \naplicação tecnológica muitas vezes está relacionado ao \naumento da velocidade da reação química envolvida.\nO êxito da aplicação dessa tecnologia é por causa \nda realização de reações químicas que ocorrem em \ncondições de\nA \t alta pressão.\nB \t alta temperatura.\nC \t excesso de reagentes.\nD \t maior superfície de contato.\nE \t elevada energia de ativação.",
+  "processado_em": "2026-05-11T23:28:12.973854",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

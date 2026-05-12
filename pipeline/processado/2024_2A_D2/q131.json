@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 131\t\nAtualmente, temos um número considerável de \nalternativas de fontes primárias de energia: geotérmica, \nmaremotriz, biomassa, nuclear e eólica. Essas são \nusadas para obtenção de energias secundárias, como \na energia elétrica.\nDisponível em: www.energiasdomundo.com.br. \nAcesso em: 24 nov. 2014 (adaptado).\nQual fonte primária permite obter essa energia secundária \npor processos químicos?\nA\tEólica.\nB\tNuclear.\nC\tBiomassa.\nD\tMaremotriz.\nE\tGeotérmica.",
+  "processado_em": "2026-05-08T14:06:03.257658",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

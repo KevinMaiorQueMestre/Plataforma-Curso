@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nQue Stendhal confessasse haver escrito um de seus \nlivros para cem leitores, coisa é que admira e consterna. \nO que não admira, nem provavelmente consternará, é se \neste outro livro não tiver os cem leitores de Stendhal, \nnem cinquenta, nem vinte, e quando muito, dez. Dez? \nTalvez cinco. Trata-se, na verdade, de uma obra difusa, \nna qual eu, Brás Cubas, se adotei a forma livre de um \nSterne, ou de um Xavier de Maistre, não sei se lhe meti \nalgumas rabugens de pessimismo. Pode ser. Obra de \nfinado. Escrevia-a com a pena da galhofa e a tinta da \nmelancolia, e não é difícil antever o que poderá sair desse \nconúbio. Acresce que a gente grave achará no livro umas \naparências de puro romance, ao passo que a gente frívola \nnão achará nele o seu romance usual; ei-lo aí fica privado \nda estima dos graves e do amor dos frívolos, que são as \nduas colunas máximas da opinião.\nASSIS, M. Memórias póstumas de Brás Cubas. Disponível em: www.dominiopublico.gov.br. \nAcesso em: 8 ago. 2015.",
+  "processado_em": "2026-05-08T14:05:16.506990",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

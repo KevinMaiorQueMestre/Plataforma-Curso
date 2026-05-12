@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nUma fábrica de fórmicas produz placas quadradas \nde lados de medida igual a y centímetros. Essas placas \nsão vendidas em caixas com N unidades e, na caixa, é \nespecificada a área máxima S que pode ser coberta pelas \nN placas.\nDevido a uma demanda do mercado por placas \nmaiores, a fábrica triplicou a medida dos lados de suas \nplacas e conseguiu reuni-las em uma nova caixa, de tal \nforma que a área coberta S não fosse alterada.\nA quantidade X, de placas do novo modelo, em cada nova \ncaixa será igual a:\nA N\n9\nB\nN\n6\nC\nN\n3\nD 3N\nE 9N",
+  "processado_em": "2026-05-08T14:00:23.208572",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

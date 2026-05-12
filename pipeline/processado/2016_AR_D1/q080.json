@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 28\nQUESTÃO 80\t\nO Painel Intergovernamental de Mudanças Climáticas (\no planeta passará por mudanças climáticas e propõe estra\nmitigação são direcionadas à causa dessas mudanças, pr\nna atmosfera. As estratégias de adaptação, por sua vez, s\npreparar os sistemas humanos às mudanças climáticas já \nIPCC, 2014. Climate Change 2\nConsiderando as informações do texto, qual ação represen\nA\t Construção de usinas eólicas. \nB\t Tratamento de resíduos sólidos.\nC\t Aumento da eficiência dos veículos.\nD\t Adoção de agricultura sustentável de baixo carbono.\nE\t Criação de diques de contenção em regiões costeiras.",
+  "processado_em": "2026-05-08T14:01:11.471635",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

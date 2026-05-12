@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 131\t\nA biorremediação designa tratamentos que usam \norganismos para reduzir a quantidade de substâncias \ntóxicas no ambiente ou degradá-las em substâncias \nnão tóxicas ou de menor toxicidade. Uma planta aquática, \no aguapé, tem sido utilizada para a biorremediação de \nambientes contaminados por metais tóxicos. Sabe-se \nque esses poluentes serão captados para dentro do \ncorpo do vegetal.\nDentro do corpo do vegetal, esses contaminantes serão\nA\t\nA\t digeridos por enzimas.\nB\t\nB\t acumulados nos tecidos.\nC\t\nC\t eliminados pelos estômatos.\nD\t\nD\t metabolizados por glândulas.\nE\t\nE\t utilizados como fonte energética.",
+  "processado_em": "2026-05-08T14:05:44.963007",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

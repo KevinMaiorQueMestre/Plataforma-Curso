@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nEm uma cantina, o sucesso de venda no verão são sucos \npreparados à base de polpa de frutas. Um dos sucos mais \nvendidos é o de morango com acerola, que é preparado com \n2\n3\n de polpa de morango e 1\n3\n de polpa de acerola.\nPara o comerciante, as polpas são vendidas em \nembalagens de igual volume. Atualmente, a embalagem \nda polpa de morango custa R$ 18,00 e a de acerola, \nR$ 14,70. Porém, está prevista uma alta no preço \nda embalagem da polpa de acerola no próximo mês, \npassando a custar R$ 15,30.\nPara não aumentar o preço do suco, o comerciante \nnegociou com o fornecedor uma redução no preço da \nembalagem da polpa de morango.\nA redução, em real, no preço da embalagem da polpa de \nmorango deverá ser de\nA\t 1,20.\nB\t 0,90.\nC\t 0,60.\nD\t 0,40.\nE\t 0,30.",
+  "processado_em": "2026-05-11T23:25:52.608586",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

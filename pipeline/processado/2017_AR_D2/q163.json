@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nUma desenhista projetista deverá desenhar uma \ntampa de panela em forma circular. Para realizar esse \ndesenho, ela dispõe, no momento, de apenas um \ncompasso, cujo comprimento das hastes é de 10 cm, um \ntransferidor e uma folha de papel com um plano cartesiano. \nPara esboçar o desenho dessa tampa, ela afastou as \nhastes do compasso de forma que o ângulo formado por \nelas fosse de 120°. A ponta seca está representada pelo \nponto C, a ponta do grafite está representada pelo ponto \nB e a cabeça do compasso está representada pelo ponto \nA conforme a figura.\n120°\ny\nx\nB\n1\n0\n3\nC\nA\nApós concluir o desenho, ela o encaminha para o \nsetor de produção. Ao receber o desenho com a indicação \ndo raio da tampa, verificará em qual intervalo este se \nencontra e decidirá o tipo de material a ser utilizado na \nsua fabricação, de acordo com os dados.\nTipo de material\nIntervalo de valores do raio (cm)\nI\n0 < R ≤ 5\nII\n5 < R ≤ 10 \nIII\n10 < R ≤ 15\nIV\n15 < R ≤ 21\nV\n21 < R ≤ 40\nConsidere 1,7 como aproximação para \n3 .\nO tipo de material a ser utilizado pelo setor de \nprodução será\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-11T23:25:56.440134",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

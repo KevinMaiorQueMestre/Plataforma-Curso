@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\tpétalas atrativas.\nB\tnéctar açucarado.\nC\todor desagradável.\nD\ttamanho pronunciado.\nE grãos de pólen numerosos\nA\tTerapia gênica.\nB\tMarcação molecular.\nC\tClonagem terapêutica.\nD\tHibridização genômica.\nE\tSequenciamento gênico.\n2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENEM2024ENE",
+  "processado_em": "2026-05-11T23:29:25.970579",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 284.3
+  }
+}

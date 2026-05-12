@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 165        \nUma torneira está gotejando água em um balde \ncom capacidade de 18 litros. No instante atual, o \nbalde se encontra com ocupação de 50% de sua \ncapacidade. A cada segundo caem 5 gotas de água \nda torneira, e uma gota é formada, em média, por \n5 × 10−2 mL de água.\nQuanto tempo, em hora, será necessário para encher \ncompletamente o balde, partindo do instante atual?\nA  2 × 101 \nB  1 × 101 \nC  2 × 10−2 \nD  1 × 10−2 \nE  1 × 10−3",
+  "processado_em": "2026-05-11T23:28:19.742927",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

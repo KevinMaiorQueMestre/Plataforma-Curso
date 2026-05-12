@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 22\t\nNo século XIX, o preço mais alto dos terrenos situados \nno centro das cidades é causa da especialização dos \nbairros e de sua diferenciação social. Muitas pessoas, \nque não têm meios de pagar os altos aluguéis dos bairros \nelegantes, são progressivamente rejeitadas para a \nperiferia, como os subúrbios e os bairros mais afastados.\nRÉMOND, R. O século XIX. São Paulo: Cultrix, 1989 (adaptado).\nUma consequência geográfica do processo socioespacial \ndescrito no texto é a\nA\t criação de condomínios fechados de moradia.\nB\t decadência das áreas centrais de comércio popular.\nC\t aceleração do processo conhecido como cercamento.\nD\t ampliação do tempo de deslocamento diário da \npopulação.\nE\t contenção \nda \nocupação \nde \nespaços \nsem \ninfraestrutura satisfatória.",
+  "processado_em": "2026-05-08T14:00:28.110807",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

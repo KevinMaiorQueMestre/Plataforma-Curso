@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 173\t\nUma empresa tem diversos funcionários. Um deles \né o gerente, que recebe R$ 1 000,00 por semana. \nOs outros funcionários são diaristas. Cada um deles \ntrabalha 2 dias por semana, recebendo R$ 80,00 por \ndia trabalhado.\nChamando de X a quantidade total de funcionários \nda empresa, a quantia Y, em reais, que esta empresa \ngasta semanalmente para pagar seus funcionários é \nexpressa por\nA\t Y = 80X + 920.\nB\t Y = 80X + 1 000.\nC\t Y = 80X + 1 080.\nD\t Y = 160X + 840.\nE\t Y = 160X + 1 000.",
+  "processado_em": "2026-05-11T23:27:38.012265",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

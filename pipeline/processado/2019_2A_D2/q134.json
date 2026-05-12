@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 134\t\nUm herbicida de largo espectro foi desenvolvido \npara utilização em lavouras. Esse herbicida atua inibindo \na atividade de uma enzima dos vegetais envolvida na \nbiossíntese de aminoácidos essenciais. Atualmente ele \né bastante utilizado em plantações de soja, podendo \ninclusive inibir a germinação ou o crescimento das \nplantas cultivadas.\nDe que forma é desenvolvida a resistência da soja \nao herbicida?\nA\t Expondo frequentemente uma espécie de soja \na altas concentrações do herbicida, levando ao \ndesenvolvimento de resistência.\nB\t Cultivando a soja com elevadas concentrações de \naminoácidos, induzindo a formação de moléculas \nrelacionadas à resistência.\nC\t Empregando raios X para estimular mutações em \numa variedade de soja, produzindo a enzima-alvo \nresistente ao herbicida.\nD\t Introduzindo na soja um gene específico de outra \nespécie, possibilitando a produção da enzima de \nresistência ao herbicida.\nE\t Administrando a enzima-alvo nos fertilizantes \nutilizados na lavoura, promovendo sua absorção \npela espécie cultivada.",
+  "processado_em": "2026-05-11T23:27:11.030984",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

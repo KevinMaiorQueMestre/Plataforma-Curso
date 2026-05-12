@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 121\t\nAi, palavras, ai, palavras\nque estranha potência a vossa!\nTodo o sentido da vida\nprincipia a vossa porta:\no mel do amor cristaliza\nseu perfume em vossa rosa;\nsois o sonho e sois a audácia,\ncalúnia, fúria, derrota...\nA liberdade das almas,\nai! Com letras se elabora...\nE dos venenos humanos\nsois a mais fina retorta:\nfrágil, frágil, como o vidro\ne mais que o aço poderosa!\nReis, impérios, povos, tempos,\npelo vosso impulso rodam...\nMEIRELES, C. Obra poética. Rio de Janeiro: Nova Aguilar, 1985 (fragmento).\nO fragmento destacado foi transcrito do Romanceiro \nda Inconfidência, de Cecília Meireles. Centralizada no \nepisódio histórico da Inconfidência Mineira, a obra, \nno entanto, elabora uma reflexão mais ampla sobre a \nseguinte relação entre o homem e a linguagem:\nA\t A força e a resistência humanas superam os danos \nprovocados pelo poder corrosivo das palavras.\nB\t As relações humanas, em suas múltiplas esferas, têm \nseu equilíbrio vinculado ao significado das palavras.\nC\t O significado dos nomes não expressa de forma justa \ne completa a grandeza da luta do homem pela vida.\nD\t Renovando o significado das palavras, o tempo permite \nàs gerações perpetuar seus valores e suas crenças.\nE\t Como produto da criatividade humana, a linguagem \ntem seu alcance limitado pelas intenções e gestos.",
+  "processado_em": "2026-05-08T13:59:36.097347",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

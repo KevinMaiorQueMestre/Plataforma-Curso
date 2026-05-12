@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 64\t\nUma das etapas do tratamento da água é a \ndesinfecção, sendo a cloração o método mais empregado. \nEsse método consiste na dissolução do gás cloro \nnuma solução sob pressão e sua aplicação na água a \nser desinfectada. As equações das reações químicas \nenvolvidas são:\nCl2 (g) + 2 H2O (l) \n HClO (aq) + H3O+ (aq) + Cl− (aq)\nHClO (aq) + H2O (l) \n H3O+ (aq) + ClO− (aq)        pKa = − log Ka = 7,53\nA ação desinfetante é controlada pelo ácido \nhipocloroso, que possui um potencial de desinfecção \ncerca de 80 vezes superior ao ânion hipoclorito. O pH do \nmeio é importante, porque influencia na extensão com \nque o ácido hipocloroso se ioniza.\nPara que a desinfecção seja mais efetiva, o pH da água a \nser tratada deve estar mais próximo de\nA\t 0.\nB\t 5.\nC\t 7.\nD\t 9.\nE\t 14.",
+  "processado_em": "2026-05-08T14:00:13.342827",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

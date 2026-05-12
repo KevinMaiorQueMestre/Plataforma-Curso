@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 97\nNo manual de instruções de um conjunto de \n30 lâmpadas idênticas, usadas para enfeite, está \n\n\t%\n\u001e\u000e\u0006\u0002\u001e\b\u000f\u0004\u0002\u000b\f\n\u0002\u0004\u0002\u001e\u0004\u0005\"\f\u0005\r\u0004\u0002\u000f\n#\n\u0002\t\n\u0007\u00022\u000eJ\b\u000f\u0004\u0002\n\u0010\u0002\f\u0010\b\u0002\nrede elétrica de 120 V resultando em uma corrente \n\r\u0004\r\b2\u0002 \u000f\n\u0002 $&\u0002 \u0012(\u0002 \u0016\u0004\u0002 \n\u0005\r\b\u0005\r\u0004$\u0002 \u0004\u0002 \u0010\b\u0005\f\b2\u0002 \u0005\u001d\u0004\u0002 \u000e\u0005P\u0004\u0007\u0010\b\u0002 \b\u0002\n%\u0004\r>\u0005\u001e\u000e\b\u0002\u0005\u0004\u0010\u000e\u0005\b2\u0002\u000f\n\u0002\u001e\b\u000f\b\u00022\u0010%\b\u000f\b\u0002%\b\u0007\b\u0002\b\u0002\b\u000b\f\u000e\t\u000e'\u001d\u0004\u0002\u000f\n\u0002\n2\u0010%\b\u000f\b\t\u0002\u000e\u0005\u000f\u000e#\u000e\u000f\f\b\u000e\t\u0002\u000f\n\u0002\u0007\n%\u0004\t\u000e'\u001d\u0004\u0002\n\u0010\u0002\u001e\b\t\u0004\u0002\u000f\n\u0002\u000b\f\n\u000e\u0010\b(\u0002\n\u0013\n%\u0004\u000e\t\u0002\u000f\n\u00022\u000eJ\b\u0007\u0002\u0004\u0002\u001e\u0004\u0005\"\f\u0005\r\u0004$\u0002%\n\u0007\u001e\n!\n/\t\n\u0002\u000b\f\n$\u0002\b\u0004\u0002\u0007\n\r\u000e\u0007\b\u0007\u0002\n\u000b\f\b2\u000b\f\n\u0007\u00022\u0010%\b\u000f\b$\u0002\f\u0010\u0002\r\n\u0007'\u0004\u0002\u000f\b\t\u0002\u000f\n\u0010\b\u000e\t\u0002\u0005\u001d\u0004\u0002\b\u001e\n\u0005\u000f\n(\nQual a potência nominal de cada lâmpada?\nA  4 W\nB  18 W\nC  55 W\nD  180 W\nE  540 W",
+  "processado_em": "2026-05-08T14:04:13.510484",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

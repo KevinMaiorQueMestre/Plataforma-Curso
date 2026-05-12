@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS\nQuestões de 91 a 135\nQuestão 91          \nGralha-do-cerrado (Cyanocorax cristatellus) é uma espécie de ave que tem um característico topete frontal \nalongado, plumagem azul-escura, parte posterior do pescoço e garganta pretos, barriga e ponta da cauda brancas. \nAlcança até 35 centímetros de comprimento. A espécie é onívora e sua ampla dieta inclui frutos, insetos, sementes, \npequenos répteis e ovos de outras espécies de aves.\nSICK, H. Ornitologia brasileira. Rio de Janeiro: Nova Fronteira, 1997 (adaptado).\nAlém das características morfológicas do animal, a descrição da gralha-do-cerrado diz respeito a seu\nA \t hábitat.\nB \t ecótopo.\nC  nível trófico.\nD \t nicho ecológico.\nE \t ecossistema.",
+  "processado_em": "2026-05-11T23:27:49.940458",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

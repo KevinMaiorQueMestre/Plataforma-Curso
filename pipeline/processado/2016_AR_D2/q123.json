@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\t\nEspetáculo Romeu e Julieta, Grupo Galpão.\nGUTO MUNIZ. Disponível em: www.focoincena.com.br. Acesso em: 30 maio 2016.\nA principal razão pela qual se infere que o espetáculo \nretratado na fotografia é uma manifestação do teatro de \nrua é o fato de\nA\t dispensar o edifício teatral para a sua realização.\nB\t utilizar figurinos com adereços cômicos.\nC\t empregar elementos circenses na atuação.\nD\t excluir o uso de cenário na ambientação.\nE\t negar o uso de iluminação artificial.",
+  "processado_em": "2026-05-08T14:01:17.121958",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

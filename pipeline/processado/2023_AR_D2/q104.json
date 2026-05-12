@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 104\t\nHá muito tempo são conhecidas espécies de \nlesmas-do-mar com uma capacidade ímpar: guardar \nparte da maquinaria das células das algas que \nconsomem — os cloroplastos — e mantê-los funcionais \ndentro das suas próprias células, obtendo assim \nparte do seu alimento. Investigadores portugueses \ndescobriram que essas lesmas-do-mar podem ser \nmais eficientes nesse processo do que as próprias \nalgas que consomem.\nDisponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).\nEssa adaptação confere a esse organismo a capacidade \nde obter primariamente\nA\t\nA\t ácidos nucleicos.\nB\t\nB\t carboidratos.\nC\t\nC\t proteínas.\nD\t\nD\t vitaminas.\nE\t\nE\t lipídios.",
+  "processado_em": "2026-05-08T14:05:43.340840",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nA corda puxada pelos devotos é, atualmente, um dos \nelementos mais característicos do Círio de Nazaré. Inserida \nna procissão de 1855, para que os devotos pudessem tirar \na berlinda de um atoleiro, hoje ela perdeu seu significado \nprático original, embora seu aspecto simbólico de sacrifício \ne aproximação do sagrado tenha permanecido ao longo \ndos anos.\nCírio de Nazaré. Disponível em: http://portal.iphan.gov.br. \nAcesso em: 16 nov. 2021 (adaptado).\nA reapropriação simbólica da corda apresentada no texto \nmostra como a festividade está marcada pela\nA\treprodução de culto católico.\nB\tassimilação de ritual nativo.\nC\tcontestação de signo cultural.\nD\trecuperação de costume europeu.\nE\tmanifestação de imaginário popular.",
+  "processado_em": "2026-05-08T14:05:57.233885",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

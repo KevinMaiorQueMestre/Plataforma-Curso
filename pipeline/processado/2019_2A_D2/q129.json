@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 129\t\nO mangue é composto por três tipos de árvores \n(Rhizophora mangle — mangue-bravo ou vermelho, \nAvicennia schaueriana — mangue-seriba, e Laguncularia \nracemosa — mangue-branco). Uma característica \nmorfológica comum aos três tipos de árvores encontradas \nno mangue está relacionada à pouca disponibilidade de \noxigênio encontrado em seu solo.\nALVES, J. R. P. (Org.). Manguezais: educar para proteger. \nRio de Janeiro: Femar; Semads, 2001 (adaptado).\nA característica morfológica de valor adaptativo \nreferenciada no texto é a\nA\t ausência de frutos.\nB\t ausência de estômatos.\nC\t presença de folhas largas.\nD\t presença de raízes-escoras.\nE\t presença de pneumatóforos.",
+  "processado_em": "2026-05-11T23:27:10.348047",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

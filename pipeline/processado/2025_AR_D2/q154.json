@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 154\t\nQuatro candidatos se apresentaram para realizar a prova de \num concurso. Antes de iniciar a prova, os celulares dos quatro \ncandidatos foram recolhidos pelo aplicador, que os guardou, \ncada um, dentro de um envelope preto. Ao término da prova, \no aplicador devolveu os quatro envelopes com os celulares aos \nquatro candidatos, de maneira aleatória, já que não havia feito \na identificação dos envelopes.\nA probabilidade de que todos os candidatos tenham recebido \nde volta os envelopes com os seus respectivos celulares é\nA\t 1\n2\nB\t 1\n10\nC\t 1\n16\nD\t 1\n24\nE\t 1\n256",
+  "processado_em": "2026-05-08T14:07:09.364369",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\nO filósofo reconhece-se pela posse inseparável \ndo gosto da evidência e do sentido da ambiguidade. \nQuando se limita a suportar a ambiguidade, esta se \nchama equívoco. Sempre aconteceu que, mesmo aqueles \nque pretenderam construir uma filosofia absolutamente \npositiva, só conseguiram ser filósofos na medida em que, \nsimultaneamente, se recusaram o direito de se instalar no \nsaber absoluto. O que caracteriza o filósofo é o movimento \nque leva incessantemente do saber à ignorância, da \nignorância ao saber, e um certo repouso neste movimento.\nMERLEAU-PONTY, M. Elogio da filosofia. \nLisboa: Guimarães, 1998 (adaptado).\nO texto apresenta um entendimento acerca dos elementos \nconstitutivos da atividade do filósofo, que se caracteriza por\nA\t reunir os antagonismos das opiniões ao método \ndialético.\nB\t ajustar a clareza do conhecimento ao inatismo das \nideias.\nC\t associar a certeza do intelecto à imutabilidade da \nverdade.\nD\t conciliar o rigor da investigação à inquietude do \nquestionamento.\nE\t compatibilizar as estruturas do pensamento aos \nprincípios fundamentais.",
+  "processado_em": "2026-05-11T23:26:37.716527",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nFolha de S. Paulo, 31 out. 2021.\nNesse anúncio publicitário, o trecho que concentra \nconcomitantemente marcas das funções conativa e \nemotiva da linguagem é\nA\t“Vamos criar juntos o próximo nível?”.\nB\t“Somos diferentes do que éramos ontem.”.\nC\t“Juntos, estamos desenhando soluções”.\nD\t“que estão transformando o amanhã.”.\nE\t“conheça as soluções para sua empresa.”.",
+  "processado_em": "2026-05-08T14:05:51.953429",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

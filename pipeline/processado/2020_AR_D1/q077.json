@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t emprego do trabalho escravo.\nB \t consolidação dos valores burgueses.\nC \t banimento das dissidências religiosas.\nD \t contenção da identificação nacionalista.\nE \t hierarquização dos agentes econômicos.\nQuestão 77          \nVemos que toda cidade é uma espécie de \ncomunidade, e toda comunidade se forma com vistas \na algum bem, pois todas as ações de todos os homens \nsão praticadas com vistas ao que lhe parece um bem; \nse todas as comunidades visam algum bem, é evidente \nque a mais importante de todas elas e que inclui todas as \noutras tem mais que todas este objetivo e visa ao mais \nimportante de todos os bens.",
+  "processado_em": "2026-05-11T23:28:06.357617",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

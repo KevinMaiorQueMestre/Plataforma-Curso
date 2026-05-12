@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 149\t\nEm uma empresa trabalham 50 funcionários, dos quais, \ninicialmente, 40 tomam café diariamente. Essa empresa tem \numa máquina que produz, diariamente, 12 000 mililitros de café. \nA máquina está programada para liberar uma quantidade de \nmililitros de café a cada acionamento. Os 12 000 mL de café são \nsuficientes, sem sobra, para que cada um desses 40 funcionários \npossa utilizar essa máquina 5 vezes por dia. Pretende-se \nreprogramar a máquina para que essa quantidade de café \nproduzida seja suficiente para que cada um dos 50 funcionários \npossa utilizar essa máquina 3 vezes por dia.\nNa reprogramação, a quantidade de café, em mililitro, que deverá \nser liberada a cada uso é\nA\t48.\nB\t80.\nC\t100.\nD\t150.\nE 240",
+  "processado_em": "2026-05-08T14:06:52.935813",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

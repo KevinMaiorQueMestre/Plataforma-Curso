@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 109          \nA presença de substâncias ricas em enxofre, como \na pirita (FeS2), em áreas de mineração, provoca um dos \nmais preocupantes impactos causados pela exploração \ndos recursos naturais da crosta terrestre. Em contato \ncom o oxigênio atmosférico, o sulfeto sofre oxidação \nem diversas etapas até formar uma solução aquosa \nconhecida como drenagem ácida de minas, de acordo \ncom a equação química descrita.\n4 FeS2 (s) + 15 O2 (g) + 2 H2O (l) → 2 Fe2(SO4)3 (aq) + 2 H2SO4 (aq)\nUm dos processos de intervenção nesse problema \nenvolve a reação do resíduo ácido com uma substância \nbásica, de baixa solubilidade em meio aquoso, e sem \na geração de subprodutos danosos ao meio ambiente.\nFIGUEIREDO, B. R. Minérios e ambientes. Campinas: Unicamp, 2000.\nEsse processo de intervenção é representado pela \nequação química:\nA \t Ca (s) + 2 H2O (l) → Ca(OH)2 (aq) + H2 (g).\nB \t CaO (s) + H2SO4 (aq) → CaSO4 (aq) + H2O (l).\nC \t CaCO3 (s) + H2SO4 (aq) → CaSO4 (aq) + H2O (l) + CO2 (g).\nD \t CaSO4 (s) + H2SO4 (aq) → Ca2+ (aq) + 2 H+ (aq) + 2 SO4\n2− (aq).\nE \t Ca(HCO3)2 (s) + 2 H2O (l) → Ca(OH)2 (aq) + 2 H2O (l) + 2 CO2 (g).",
+  "processado_em": "2026-05-08T14:03:36.551524",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

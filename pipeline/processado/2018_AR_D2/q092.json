@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 92\n$\u0003 WHFQRORJLD\u0003 GH\u0003 FRPXQLFDomR\u0003 GD\u0003 HWLTXHWD\u0003 5),'\u0003\n(chamada de etiqueta inteligente) é usada há anos \npara rastrear gado, vagões de trem, bagagem aérea e \ncarros nos pedágios. Um modelo mais barato dessas \netiquetas pode funcionar sem baterias e é constituído \npor três componentes: um microprocessador de silício; \numa bobina de metal, feita de cobre ou de alumínio, que \np\u0003HQURODGD\u0003HP\u0003XP\u0003SDGUmR\u0003FLUFXODU\u001e\u0003H\u0003XP\u0003HQFDSVXODGRU\u000f\u0003\nque é um material de vidro ou polímero envolvendo \no microprocessador e a bobina. Na presença de um \ncampo de radiofrequência gerado pelo leitor, a etiqueta \ntransmite sinais. A distância de leitura é determinada \npelo tamanho da bobina e pela potência da onda de \nrádio emitida pelo leitor.\n'LVSRQtYHO\u0003HP\u001d\u0003KWWS\u001d\u0012\u0012HOHWURQLFRV\u0011KVZ\u0011XRO\u0011FRP\u0011EU\u0011\u0003$FHVVR\u0003HP\u001d\u0003\u0015\u001a\u0003IHY\u0011\u0003\u0015\u0013\u0014\u0015\u0003\u000bDGDSWDGR\f\u0011\nA etiqueta funciona sem pilhas porque o campo\nA elétrico da onda de rádio agita elétrons da bobina.\nB HOpWULFR\u0003GD\u0003RQGD\u0003GH\u0003UiGLR\u0003FULD\u0003XPD\u0003WHQVmR\u0003QD\u0003ERELQD\u0011\nC magnético da onda de rádio induz corrente na bobina.\nD PDJQpWLFR\u0003GD\u0003RQGD\u0003GH\u0003UiGLR\u0003DTXHFH\u0003RV\u0003¿RV\u0003GD\u0003ERELQD\u0011\nE magnético da onda de rádio diminui a ressonância no \ninterior da bobina.",
+  "processado_em": "2026-05-11T23:26:44.190900",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

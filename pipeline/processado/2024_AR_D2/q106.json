@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nNa tirinha, Calvin se divertia em um balanço antes de \nsoltar-se dele e cair ao chão. Em sua fala, ele demonstra ter \nimaginado que permaneceria em movimento circular. Porém, \na força gravitacional, que permanece atuando no garoto, \nmodifica a direção de sua velocidade, fazendo com que ele \nchegue ao chão da maneira ilustrada no último quadrinho.\nWATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com. \nAcesso em: 19 nov. 2021 (adaptado).\nQual vetor representa a força resultante exercida pelo chão \nsobre Calvin no exato momento em que ele toca o chão?\nA\t  \nB\t \nC\t \nD\t \nE",
+  "processado_em": "2026-05-08T14:06:17.495525",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 i\nQUESTÃO 94\t\nEm um sistema hipotético mantido sob iluminação, \nestão presentes uma célula autotrófica e uma célula \nheterotrófica. A esse sistema são fornecidos água, glicose \ne gás oxigênio, sendo esse último na forma de 18O2.\nAo final de um período de 24 horas, a análise dos \ncompostos presentes nesse sistema permitirá a detecção \ndo isótopo no(a)\nA\t\nA\t água produzida na respiração.\nB\t\nB\t piruvato produzido na glicólise.\nC\t\nC\t etanol produzido na fermentação.\nD\t\nD\t glicose produzida na fotossíntese.\nE\t\nE\t gás carbônico produzido no ciclo de Krebs.",
+  "processado_em": "2026-05-11T23:28:41.969622",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

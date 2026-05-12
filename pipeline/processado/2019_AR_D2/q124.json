@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 124\t\nEm 1962, um jingle (vinheta musical) criado por Heitor Carillo fez tanto sucesso que extrapolou as fronteiras do \nrádio e chegou à televisão ilustrado por um desenho animado. Nele, uma pessoa respondia ao fantasma que batia \nem sua porta, personificando o “frio”, que não o deixaria entrar, pois não abriria a porta e compraria lãs e cobertores \npara aquecer sua casa. Apesar de memorável, tal comercial televisivo continha incorreções a respeito de conceitos \nfísicos relativos à calorimetria.\nDUARTE, M. Jingle é a alma do negócio: livro revela os bastidores das músicas de propagandas. \nDisponível em: https://guiadoscuriosos.uol.com.br. Acesso em: 24 abr. 2019 (adaptado).\nPara solucionar essas incorreções, deve-se associar à porta e aos cobertores, respectivamente, as funções de:\nA\t Aquecer a casa e os corpos.\nB\t Evitar a entrada do frio na casa e nos corpos.\nC\t Minimizar a perda de calor pela casa e pelos corpos.\nD\t Diminuir a entrada do frio na casa e aquecer os corpos.\nE\t Aquecer a casa e reduzir a perda de calor pelos corpos.",
+  "processado_em": "2026-05-11T23:27:34.591063",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

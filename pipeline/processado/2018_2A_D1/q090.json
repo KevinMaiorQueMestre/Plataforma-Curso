@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 90\t\nQuando analisamos nossos pensamentos ou ideias, \npor mais complexos e sublimes que sejam, sempre \ndescobrimos que se resolvem em ideias simples que \nsão cópias de uma sensação ou sentimento anterior. \nMesmo as ideias que, à primeira vista, parecem mais \nafastadas dessa origem mostram, a um exame mais \natento, ser derivadas dela.\nHUME, D. Investigação sobre o entendimento humano. São Paulo: Abril Cultural, 1973.\nDepreende-se deste excerto da obra de Hume que o \nconhecimento tem a sua gênese na\nA\t convicção inata.\nB\t dimensão apriorística.\nC\t elaboração do intelecto.\nD\t percepção dos sentidos.\nE\t realidade trascendental.",
+  "processado_em": "2026-05-11T23:26:17.476539",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nUma nova economia surgiu em escala global no \núltimo quartel do século XX. Chamo-a de informacional, \nglobal e em rede para identificar suas características \nfundamentais e diferenciadas e enfatizar sua interligação. \nÉ informacional porque depende basicamente de sua \ncapacidade de gerar, processar e aplicar de forma \neficiente a informação baseada em conhecimentos. É \nglobal porque seus componentes estão organizados \nem escala global, diretamente ou mediante uma rede \nde conexões entre agentes econômicos. É rede porque \né feita em uma rede global de interação entre redes \nempresariais.\nCASTELLS, M. A sociedade em rede — a era da informação: economia, \nsociedade e cultura. São Paulo: Paz e Terra, 1999 (adaptado).\nQual mudança estrutural é resultado da forma de \norganização econômica descrita no texto?\nA\t\nA\t Fabricação em série.\nB\t\nB\t Ampliação de estoques.\nC\t\nC\t Fragilização dos cartéis. \nD\t\nD\t Padronização de mercadorias.\nE\t\nE\t Desterritorialização da produção.",
+  "processado_em": "2026-05-08T14:05:03.465506",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

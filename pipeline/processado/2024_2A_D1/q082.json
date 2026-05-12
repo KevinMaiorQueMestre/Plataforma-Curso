@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nEm discurso pronunciado a 7 de maio de 1943, \nGetúlio Vargas saudou a nova usina siderúrgica de \nVolta Redonda como símbolo da emancipação do Brasil.\nWIRTH, J. D. A política de desenvolvimento na Era de Vargas. \nRio de Janeiro: FGV, 1973 (adaptado).\nNo contexto histórico da época, o otimismo do \npronunciamento presidencial citado no texto justifica-se pela\nA\trealocação nacional do eixo econômico.\nB\tneutralidade ideológica da política externa.\nC\tcapacidade produtiva de bens de consumo.\nD\tindependência fabril das grandes potências.\nE importância econômica da indústria pesada",
+  "processado_em": "2026-05-08T14:05:57.299406",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\nPara apagar os focos A e B de um incêndio, que \nestavam a uma distância de 30 m um do outro, os \nbombeiros de um quartel decidiram se posicionar de \nmodo que a distância de um bombeiro ao foco A, de \ntemperatura mais elevada, fosse sempre o dobro da \ndistância desse bombeiro ao foco B, de temperatura \nmenos elevada.\nNestas condições, a maior distância, em metro, que dois \nbombeiros poderiam ter entre eles é\nA 30.\nB \u0017\u0013\u0011\nC \u0017\u0018\u0011\nD 60.\nE 68.",
+  "processado_em": "2026-05-11T23:26:48.519320",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

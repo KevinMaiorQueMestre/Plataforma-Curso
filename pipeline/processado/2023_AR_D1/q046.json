@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS\nQuestões de 46 a 90\nQUESTÃO 46\t\nFotografia da avó bordada\nSCARELI, G. A máquina de costura e os fios da memória. Revista Brasileira \nde Pesquisa (Auto)Biográfica, n. 18, maio-ago. 2021.\nA definição de Sertão descrita no bordado associa esse \nrecorte espacial a \nA\t\nA\t percursos e roteiros turísticos.\nB\t\nB\t trajetos e movimentos holísticos.\nC\t\nC\t vivências e itinerários socioafetivos.\nD\t\nD\t fronteiras e demarcações territoriais.\nE\t\nE\t profissões e interesses econômicos.",
+  "processado_em": "2026-05-08T14:05:36.733486",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

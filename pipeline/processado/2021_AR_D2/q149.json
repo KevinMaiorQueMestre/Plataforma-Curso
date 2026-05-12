@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 149\n\u0012\u0002\u0007\n2\b'\u001d\u0004\u0002\u000f\n\u0002\u0016\n\r\u0004\u0005/7\b%2\b\u001e\n\u0002\n\t\r\b!\n2\n\u001e\n\u0002\u000b\f\n\u0002\u0004\u0002\u0010B\u000f\f2\u0004\u0002\n#\u00042\f\u0010Z\r\u0007\u000e\u001e\u0004\u0002 \u000f\n\u0002 \f\u0010\u0002 \f\u000e\u000f\u0004\u0002 Z\u0002 \u000f\u000e\u0007\n\r\b\u0010\n\u0005\r\n\u0002 %\u0007\u0004%\u0004\u0007\u001e\u000e\u0004\u0005\b2\u0002 \b\u0004\u0002\nquadrado da velocidade do som (em metro por segundo) no \n\f\u000e\u000f\u0004\u0002\n\u0002*\u0002\t\f\b\u0002\u000f\n\u0005\t\u000e\u000f\b\u000f\n\u0002_\n\u0010\u0002\u000b\f\u000e2\u0004J\u0007\b\u0010\b\u0002%\u0004\u0007\u0002\u0010\n\r\u0007\u0004\u0002\u001eK!\u000e\u001e\u0004k$\u0002\ncom uma constante de proporcionalidade adimensional.\n\u0016\n\t\t\b\u0002\u0007\n2\b'\u001d\u0004$\u0002\b\u0002\f\u0005\u000e\u000f\b\u000f\n\u0002\u000f\n\u0002\u0010\n\u000f\u000e\u000f\b\u0002\b\u000f\n\u000b\f\b\u000f\b\u0002%\b\u0007\b\u0002\u0004\u0002\nmódulo volumétrico é\nA  kg\rm¢\rs{\nB  kg\rm{\rs~\nC  kg\rm&\rs2\nD  kg{\rm1\rs2\nE  kg{\rm5\rs~",
+  "processado_em": "2026-05-08T14:04:31.115383",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

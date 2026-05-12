@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nPara concretar a laje de sua residência, uma pessoa \ncontratou uma construtora. Tal empresa informa que o \npreço y do concreto bombeado é composto de duas \npartes: uma fixa, chamada de taxa de bombeamento, \ne uma variável, que depende do volume x de concreto \nutilizado. Sabe-se que a taxa de bombeamento custa \nR$ 500,00 e que o metro cúbico do concreto bombeado \né de R$ 250,00.\nA expressão que representa o preço y em função do \nvolume x, em metro cúbico, é\nA\t\nA\t y = 250x\nB\t\nB\t y = 500x\nC\t\nC\t y = 750x\nD\t\nD\t y = 250x + 500\nE\t\nE\t y = 500x + 250",
+  "processado_em": "2026-05-08T14:05:47.125855",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

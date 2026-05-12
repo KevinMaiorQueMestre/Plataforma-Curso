@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nUm cientista, em seus estudos para modelar a \npressão arterial de uma pessoa, utiliza uma função do \ntipo P(t) = A + Bcos(kt) em que A, B e K  são constantes \nreais positivas e t representa a variável tempo, medida \nem segundo. Considere que um batimento cardíaco \nrepresenta o intervalo de tempo entre duas sucessivas \npressões máximas.\nAo analisar um caso específico, o cientista obteve os dados:\nPressão mínima\n78\nPressão máxima\n120\nNúmero de batimentos cardíacos por minuto\n90\nA função P(t) obtida, por este cientista, ao analisar o caso \nespecífico foi\nA\t P(t) = 99 + 21cos(3πt)\nB\t P(t) = 78 + 42cos(3πt)\nC\t P(t) = 99 + 21cos(2πt)\nD\t P(t) = 99 + 21cos(t)\nE\t P(t) = 78 + 42cos(t)",
+  "processado_em": "2026-05-11T23:25:58.216443",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

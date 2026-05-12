@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 25\nQUESTÃO 160\t\nEm um exame, foi feito o monitoramento dos níveis de \nduas substâncias presentes (A e B) na corrente sanguínea \nde uma pessoa, durante um período de 24 h, conforme \no resultado apresentado na figura. Um nutricionista, no \nintuito de prescrever uma dieta para essa pessoa, analisou \nos níveis dessas substâncias, determinando que, para \numa dieta semanal eficaz, deverá ser estabelecido um \nparâmetro cujo valor será dado pelo número de vezes em \nque os níveis de A e de B forem iguais, porém, maiores \nque o nível mínimo da substância A durante o período de \nduração da dieta.\nSubstância A\nSubstância B\nTempo (h)\n24\n0\nNível\n \nConsidere que o padrão apresentado no resultado \ndo exame, no período analisado, se repita para os dias \nsubsequentes.\nO valor do parâmetro estabelecido pelo nutricionista, para \numa dieta semanal, será igual a\nA\t 28.\nB\t 21.\nC\t 2.\nD\t 7.\nE\t 14.",
+  "processado_em": "2026-05-08T14:01:22.880219",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

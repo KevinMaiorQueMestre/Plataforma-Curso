@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 46\t\nAo longo da história, os movimentos sociais são \nprodutores de novos valores e objetivos, criando novas \nnormas para organizar a vida social. Os movimentos \nsociais exercem o contrapoder construindo-se mediante \num processo de comunicação autônoma, livre do controle \ndos que detêm o poder institucional.\nCASTELLS, M. Redes da indignação e esperança. \nRio de Janeiro: Jorge Zahar, 2013 (adaptado).\nO contrapoder indicado no texto se expressa na\nA\t\nA\t adoção de éticas horizontais.\nB\t\nB\t rejeição de dissidências morais.\nC\t\nC\t negação de estratégias coletivas.\nD\t\nD\t promoção de descrenças axiológicas.\nE\t\nE\t incorporação de convenções estatais.",
+  "processado_em": "2026-05-08T14:04:40.464510",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

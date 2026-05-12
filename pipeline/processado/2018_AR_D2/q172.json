@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\nUma loja vende automóveis em N parcelas iguais \nVHP\u0003 MXURV\u0011\u0003 1R\u0003 PRPHQWR\u0003 GH\u0003 FRQWUDWDU\u0003 R\u0003 ¿QDQFLDPHQWR\u000f\u0003\ncaso o cliente queira aumentar o prazo, acrescentando \nmais 5 parcelas, o valor de cada uma das parcelas \nGLPLQXL\u0003 5\u0007\u0003 \u0015\u0013\u0013\u000f\u0013\u0013\u000f\u0003 RX\u0003 VH\u0003 HOH\u0003 TXLVHU\u0003 GLPLQXLU\u0003 R\u0003 SUD]R\u000f\u0003\nFRP\u0003 \u0017\u0003 SDUFHODV\u0003 D\u0003 PHQRV\u000f\u0003 R\u0003 YDORU\u0003 GH\u0003 FDGD\u0003 XPD\u0003 GDV\u0003\nSDUFHODV\u0003VREH\u00035\u0007\u0003\u0015\u0016\u0015\u000f\u0013\u0013\u0011\u0003&RQVLGHUH\u0003DLQGD\u0003TXH\u000f\u0003QDV\u0003WUrV\u0003\npossibilidades de pagamento, o valor do automóvel é o \nPHVPR\u000f\u0003WRGDV\u0003VmR\u0003VHP\u0003MXURV\u0003H\u0003QmR\u0003p\u0003GDGR\u0003GHVFRQWR\u0003HP\u0003\nnenhuma das situações.\nNessas condições, qual é a quantidade N de parcelas a \nserem pagas de acordo com a proposta inicial da loja?\nA \u0015\u0013\nB \u0015\u0017\nC \u0015\u001c\nD \u0017\u0013\nE 58",
+  "processado_em": "2026-05-11T23:26:49.845112",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

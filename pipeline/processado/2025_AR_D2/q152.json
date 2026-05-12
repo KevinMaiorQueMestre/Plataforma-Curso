@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 152\t\nUma fábrica de tijolos ecológicos com 3 funcionários, \ncada um trabalhando 6 horas diárias, produz 720 unidades \npor dia. Para atender ao crescimento da demanda por esse \ntipo de tijolo, essa fábrica passou a ter 5 funcionários, cada um \ntrabalhando 9 horas por dia, aumentando, assim, sua capacidade \nde produção. Todos os funcionários produzem igual quantidade \nde tijolos a cada hora, independentemente de trabalharem \n6 ou 9 horas diárias.\nO número de tijolos fabricados diariamente após o aumento da \ncapacidade de produção é\nA\t800.\nB\t1 080.\nC\t1 200.\nD\t1 800.\nE 2 520",
+  "processado_em": "2026-05-08T14:07:09.282665",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

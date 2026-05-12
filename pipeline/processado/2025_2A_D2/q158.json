@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 158 \nOs dados apresentados indicam os volumes médios de chuva \nnos diversos meses do ano em um município, onde as médias \nclimatológicas são valores calculados com base em uma série \nde dados observados ao longo de 30 anos.\nMês\nPrecipitação pluviométrica (mm)\nJaneiro\n237\nFevereiro\n222\nMarço\n161\nAbril\n73\nMaio\n71\nJunho\n50\nJulho\n44\nAgosto\n40\nSetembro\n71\nOutubro\n127\nNovembro\n143\nDezembro\n201\nA mediana da distribuição das médias das precipitações \npluviométricas mensais descritas no quadro, expressa em \nmilímetro, é\nA 120.\nB 100.\nC 73.\nD 50.\nE 47.",
+  "processado_em": "2026-05-08T14:06:37.738839",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

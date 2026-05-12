@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nO gerente de uma fábrica pretende comparar a evoluç\npassou a verificar o número de unidades vendidas de cad\nverificação, para os meses de abril a junho, são apresenta\nProduto\nVendas\nem abril\n(unidade)\nl\n80\nll\n190\nO gerente estava decidido a cessar a produção do p\nproduto I superassem as do produto II.\nSuponha que a variação na quantidade de unidades v\nno período representado na tabela.\nEm qual mês o produto II parou de ser produzido?\nA\t\nA\t Junho.\nB\t\nB\t Julho.\nC\t\nC\t Agosto.\nD\t\nD\t Setembro.\nE\t\nE\t Outubro.",
+  "processado_em": "2026-05-08T14:05:45.599605",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

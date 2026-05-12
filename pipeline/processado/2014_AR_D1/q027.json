@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\t\nA urbanização brasileira, no início da segunda metade d\nRuas foram alargadas, túneis e viadutos foram construído\nferroviário não foi muito diferente. O transporte coletivo sai\nJANOT, L. F\nA relação entre transportes e urbanização é explicada, no \nA\t retirada dos investimentos estatais aplicados em trans\nB\t demanda por transporte individual ocasionada pela ex\nC\t presença hegemônica do transporte alternativo localiza\nD\t aglomeração do espaço urbano metropolitano impedin\nE predominância do transporte rodoviário associado à pe",
+  "processado_em": "2026-05-08T14:00:28.487979",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

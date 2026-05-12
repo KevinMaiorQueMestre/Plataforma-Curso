@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 24\t\nOcorre que a grande obra nunca é apenas a tradução \ndo engenho e arte do seu autor, seja este escritor, filósofo, \ncientista, pintor, músico, arquiteto, escultor, cineasta. \nEm geral, a grande obra é também, ou mesmo \nprincipalmente, a expressão do clima sociocultural, \nintelectual, científico, filosófico e artístico da época, \nconforme se expressa em alguma coletividade, grupo \nsocial, etnia, gênero ou povo.\nIANNI, O. Variações sobre arte e ciência. Tempo Social, n. 1, jun. 2004.\nO fragmento define o que é uma grande obra de arte. \nComo estratégia de construção do texto, o autor faz uso \nrecorrente de\nA\t enumerações para sustentar o ponto de vista \napresentado.\nB\t repetições para retificar as características do objeto \ndescrito.\nC\t generalizações para sintetizar as ideias expostas.\nD\t adjetivações para descrever a obra caracterizada.\nE\t sinonímias para retomar as características da \natividade autoral.",
+  "processado_em": "2026-05-11T23:26:10.990175",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 30\t\nO bioma Cerrado foi considerado recentemente \num dos 25 hotspots de biodiversidade do mundo, \nsegundo uma análise em escala mundial das regiões \nbiogeográficas sobre áreas globais prioritárias para \nconservação. O conceito de hotspot foi criado tendo \nem vista a escassez de recursos direcionados para \nconservação, com o objetivo de apresentar os chamados \n“pontos quentes”, ou seja, locais para os quais existe \nmaior necessidade de direcionamento de esforços, \nbuscando evitar a extinção de muitas espécies que \nestão altamente ameaçadas por ações antrópicas. \nPINTO, P. P.; DINIZ-FILHO, J. A. F. In: ALMEIDA, M. G. (Org.). Tantos cerrados: \nmúltiplas abordagens sobre a biogeodiversidade e singularidade cultural. \nGoiânia: Vieira, 2005 (adaptado).\nA necessidade desse tipo de ação na área mencionada \ntem como causa a\nA\t intensificação da atividade turística.\nB\t implantação de parques ecológicos.\nC\t exploração dos recursos minerais.\nD\t elevação do extrativismo vegetal.\nE\t expansão da fronteira agrícola.",
+  "processado_em": "2026-05-08T14:01:05.467459",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

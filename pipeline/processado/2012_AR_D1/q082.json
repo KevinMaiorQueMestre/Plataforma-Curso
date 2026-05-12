@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 82\t\nO boato de que os lacres das latas de alumínio teriam \num alto valor comercial levou muitas pessoas a juntarem \nesse material na expectativa de ganhar dinheiro com sua \nvenda. As empresas fabricantes de alumínio esclarecem \nque isso não passa de uma “lenda urbana”, pois ao retirar \no anel da lata, dificulta-se a reciclagem do alumínio. Como \na liga do qual é feito o anel contém alto teor de magnésio, \nse ele não estiver junto com a lata, fica mais fácil ocorrer \na oxidação do alumínio no forno. A tabela apresenta as \nsemirreações e os valores de potencial padrão de redução \nde alguns metais:\nSemirreação\nPotencial Padrão de \nRedução (V)\nLi+ + e– → Li\n–3,05\nK+ + e– → K\n–2,93\nMg2+ + 2 e– → Mg\n–2,36\nAl3+ + 3 e– → Al\n–1,66\nZn2+ + 2 e– → Zn\n–0,76\nCu2+ + 2 e– → Cu\n+0,34\nDisponível em: www.sucatas.com. Acesso em: 28 fev. 2012 (adaptado).\nCom base no texto e na tabela, que metais poderiam \nentrar na composição do anel das latas com a mesma \nfunção do magnésio, ou seja, proteger o alumínio da \noxidação nos fornos e não deixar diminuir o rendimento \nda sua reciclagem?\nA\t Somente o lítio, pois ele possui o menor potencial de \nredução.\nB\t Somente o cobre, pois ele possui o maior potencial \nde redução.\nC\t Somente o potássio, pois ele possui potencial de \nredução mais próximo do magnésio.\nD\t Somente o cobre e o zinco, pois eles sofrem oxidação \nmais facilmente que o alumínio.\nE\t Somente o lítio e o potássio, pois seus potenciais de \nredução são menores do que o do alumínio.",
+  "processado_em": "2026-05-08T13:59:02.517847",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

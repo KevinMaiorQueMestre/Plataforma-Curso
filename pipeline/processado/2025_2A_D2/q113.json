@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 113 \nA fotografia de corpos celestes a partir da Terra pode \nser feita com um telescópio instalado sobre um suporte de \nguiagem. Esse suporte é composto por um sistema mecânico que \né utilizado para compensar o movimento de rotação da Terra, \nao manter o telescópio apontado para um “ponto fixo” no céu. \nUm estudante de física, em Brasília (latitude 16° Sul), adquiriu \num telescópio e um suporte de guiagem. Como experimento, ele \nusou o telescópio para estimar a velocidade linear de rotação \nda Terra na sua latitude. Para realizar os cálculos, ele utilizou o \nesboço a seguir e considerou p = 3 e cos (16°) = 0,9.\nA velocidade linear, em quilômetro por hora, obtida pelo \nestudante é\nA 720 km/h.\nB 800 km/h.\nC 1 440 km/h.\nD 1 600 km/h.\nE 2 880 km/h.",
+  "processado_em": "2026-05-08T14:06:35.501077",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

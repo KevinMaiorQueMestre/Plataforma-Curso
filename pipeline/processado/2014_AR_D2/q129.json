@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nNo Brasil, a origem do funk e do hip-hop remonta \naos anos 1970, quando da proliferação dos chamados \n“bailes black” nas periferias dos grandes centros urbanos. \nEmbalados pela black music americana, milhares de \njovens encontravam nos bailes de final de semana uma \nalternativa de lazer antes inexistente. Em cidades como \no Rio de Janeiro ou São Paulo, formavam-se equipes de \nsom que promoviam bailes onde foi se disseminando um \nestilo que buscava a valorização da cultura negra, tanto \nna música como nas roupas e nos penteados. No Rio \nde Janeiro ficou conhecido como “Black Rio”. A indústria \nfonográfica descobriu o filão e, lançando discos de \n“equipe” com as músicas de sucesso nos bailes, difundia \na moda pelo restante do país.\nDAYRELL, J. A música entra em cena: o rap e o funk na socialização da juventude.\nBelo Horizonte: UFMG, 2005.\nA presença da cultura hip-hop no Brasil caracteriza-se \ncomo uma forma de\nA\t lazer gerada pela diversidade de práticas artísticas \nnas periferias urbanas.\nB\t entretenimento inventada pela indústria fonográfica \nnacional.\nC\t subversão de sua proposta original já nos primeiros \nbailes.\nD\t afirmação de identidade dos jovens que a praticam.\nE\t reprodução da cultura musical norte-americana.",
+  "processado_em": "2026-05-08T14:00:38.121955",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 78\t\nA Roda dos Expostos de Salvador (Bahia) data de 1726 e \nfoi uma das instituições implantadas com o objetivo de acolher \ne prover um encaminhamento para a criança recém-nascida \nabandonada. Essa assistência fundamentava-se em práticas \ncaritativas, paternalistas e imediatistas que visavam ao cuidado \nbásico da criança e, especialmente, à salvação da sua alma, \nvia batismo, devido à alta mortalidade.\nBORRIONE, R.; CHAVES, A. M. Análise documental e contexto \nde desenvolvimento. Disponível em: www.scielo.br. \nAcesso em: 15 ago. 2013.\nA instituição apresentada no texto justificava-se pelo(a)\nA\tdefesa de direitos humanos.\nB\tpreceito de natureza sociorreligiosa.\nC\treconhecimento de vínculos familiares.\nD\tdiscurso de cunho técnico-científico.\nE\tideologia de caráter abolicionista.",
+  "processado_em": "2026-05-08T14:07:02.473007",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 134\t\nNo manual fornecido pelo fabricante de uma ducha \nelétrica de 220 V é apresentado um gráfico com a variação \nda temperatura da água em função da vazão para três \ncondições (morno, quente e superquente). Na condição \nsuperquente, a potência dissipada é de 6 500 W. Considere \no calor específico da água igual a 4 200 J/(kg °C) e \ndensidade da água igual a 1 kg/L.\nElevação de temperatura × Curva vazão\n∆T (°C)\n40\n30\n20\n10\n1\n3\n2\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nVazão\n(L/min)\n1 - MORNO\n2 - QUENTE\n3 - SUPERQUENTE\nCom base nas informações dadas, a potência na condição \nmorno corresponde a que fração da potência na condição \nsuperquente?\nA\n1\n3\nB\n1\n5\nC\n3\n5\nD\n3\n8\nE\n5\n8",
+  "processado_em": "2026-05-11T23:25:52.209945",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 132\t\nCarta ao Tom 74\nRua Nascimento Silva, cento e sete\nVocê ensinando pra Elizete\nAs canções de canção do amor demais\nLembra que tempo feliz\nAh, que saudade,\nIpanema era só felicidade\nEra como se o amor doesse em paz\nNossa famosa garota nem sabia\nA que ponto a cidade turvaria\nEsse Rio de amor que se perdeu\nMesmo a tristeza da gente era mais bela\nE além disso se via da janela\nUm cantinho de céu e o Redentor\nÉ, meu amigo, só resta uma certeza,\nÉ preciso acabar com essa tristeza\nÉ preciso inventar de novo o amor\nMORAES, V.; TOQUINHO. Bossa Nova, sua história, sua gente. \nSão Paulo: Universal; Philips,1975 (fragmento).\nO trecho da canção de Toquinho e Vinícius de Moraes \napresenta marcas do gênero textual carta, possibilitando \nque o eu poético e o interlocutor\nA\t compartilhem uma visão realista sobre o amor em \nsintonia com o meio urbano.\nB\t troquem notícias em tom nostálgico sobre as \nmudanças ocorridas na cidade.\nC\t façam confidências, uma vez que não se encontram \nmais no Rio de Janeiro.\nD\t tratem pragmaticamente sobre os destinos do amor e \nda vida citadina.\nE\t aceitem as transformações ocorridas em pontos \nturísticos específicos",
+  "processado_em": "2026-05-08T14:00:55.982222",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

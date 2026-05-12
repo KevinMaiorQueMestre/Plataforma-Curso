@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nUm dia, meu pai tomou-me pela mão, minha mãe \nbeijou-me a testa, molhando-me de lágrimas os cabelos \ne eu parti.\nDuas vezes fora visitar o Ateneu antes da minha \ninstalação.\nAteneu era o grande colégio da época. Afamado por \num sistema de nutrido reclame, mantido por um diretor \nque de tempos a tempos reformava o estabelecimento, \npintando-o \njeitosamente \nde \nnovidade, \ncomo \nos \nnegociantes que liquidam para recomeçar com artigos de \núltima remessa; o Ateneu desde muito tinha consolidado \ncrédito na preferência dos pais, sem levar em conta a \nsimpatia da meninada, a cercar de aclamações o bombo \nvistoso dos anúncios.\nO Dr. Aristarco Argolo de Ramos, da conhecida família \ndo Visconde de Ramos, do Norte, enchia o império com o \nseu renome de pedagogo. Eram boletins de propaganda \npelas províncias, conferências em diversos pontos da",
+  "processado_em": "2026-05-08T14:00:54.458713",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

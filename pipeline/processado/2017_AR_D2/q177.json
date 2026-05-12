@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nQuanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado um miniaplicativo de computador \nque roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa \nacessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso \nda sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias.\nTempo de acesso na sexta-feira (minuto)\nTempo de acesso no sábado (minuto)\nSite X\n12\nSite Y\n30\nSite U\n40 \nSite Z\n10 \nSite W\n38 \nSite U\n56\nSite X\n21\nSite Y\n51\nSite W\n57\nSite Z\n11 \nAnalisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado, \nfoi no site\nA\t X.\nB\t Y.\nC\t Z.\nD\t W.\nE\t U.",
+  "processado_em": "2026-05-11T23:25:58.109546",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

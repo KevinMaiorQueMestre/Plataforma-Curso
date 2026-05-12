@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 134          \nUm cordão de 200 pequenas lâmpadas é utilizado \nem árvores de Natal. Uma pessoa verifica que, ao retirar \nsomente uma lâmpada de qualquer posição, outras nove \nnão acendem mais, porém as demais 190 lâmpadas \npermanecem em pleno funcionamento. Com base nessa \ninformação, ela tenta identificar a estrutura do circuito \ne a relação entre os valores das quantidades físicas \nenvolvidas, entre as quais a razão entre as intensidades \nda corrente elétrica em uma das lâmpadas e da corrente \nelétrica total no cordão com as 200 lâmpadas ligadas.\nO valor dessa razão é igual a\nA \t 1/200.\nB \t 1/100.\nC \t 1/20.\nD \t 1/10.\nE \t 1.",
+  "processado_em": "2026-05-08T14:03:37.743653",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

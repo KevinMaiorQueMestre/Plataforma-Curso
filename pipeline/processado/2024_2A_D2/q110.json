@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nA evolução das populações envolve processos de variação \ne adaptação ao longo do tempo, podendo desencadear \no surgimento de novas raças ou espécies a partir de uma \npreexistente. A grande diversidade de organismos presentes \nem nosso planeta pode ser explicada pela moderna teoria \nevolucionista, que associa o darwinismo aos conceitos de \ngenética. Com base nesses conhecimentos, é possível realizar \na reprodução diferencial de genótipos e a formação de raças \ncom diferentes fenótipos, como representado na figura.\nCAIN, M. et al. Discover Biology. Nova York: \nW. W. Norton & Company, 2002 (adaptado).\nA formação dessas raças deve-se ao processo de\nA\tderiva genética.\nB\tseleção artificial.\nC\tformação de híbridos.\nD\tespeciação alopátrica.\nE\tdivergência adaptativa.",
+  "processado_em": "2026-05-08T14:06:01.398931",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

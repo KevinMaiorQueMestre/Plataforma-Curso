@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nNa música, usam-se sinais gráficos chamados figuras \nde duração para indicar por quanto tempo se deve emitir \ndeterminado som.\nAs figuras de duração usadas atualmente são: \nsemibreve, mínima, semínima, colcheia, semicolcheia, \nfusa e semifusa.\nEssas figuras não possuem um valor (tempo) fixo. Elas \nsão proporcionais entre si. A duração de tempo de uma \nsemibreve é equivalente à de duas mínimas, a duração \nde uma mínima é equivalente à de duas semínimas, a \nduração de uma semínima equivale à de duas colcheias \ne assim por diante, seguindo a ordem dada.\nConsidere que a semibreve tem a duração de tempo \nde uma unidade.\nSemibreve\nMínima\nSemínima\nColcheia Semicolcheia\nFusa\nSemifusa\nDisponível em: www.portaledumusicalcp2.mus.br. Acesso em: 11 nov. 2013 (adaptado).\nA sequência que indica a duração de tempo de uma \nmínima, de uma semínima, de uma colcheia, de uma \nsemicolcheia, de uma fusa e de uma semifusa é\nA\n2 4 8 16 32 64\n, , ,\n,\n,\nB\n1 2 4 8 16 32\n, , , ,\n,\nC\n1 1\n2\n1\n4\n1\n8\n1\n16\n1\n32\n,\n,\n,\n,\n,\nD\n1\n2\n3\n4\n7\n8\n15\n16\n31\n32\n63\n64\n,\n,\n,\n,\n,\nE\n1\n2\n1\n4\n1\n8\n1\n16\n1\n32\n1\n64\n,\n,\n,\n,\n,",
+  "processado_em": "2026-05-11T23:26:24.634477",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

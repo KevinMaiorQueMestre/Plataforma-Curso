@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nO elemento iodo (I) tem função biológica e é acumulado \nna tireoide. Nos acidentes nucleares de Chernobyl e \nFukushima, ocorreu a liberação para a atmosfera do \nradioisótopo \n131I, responsável por enfermidades nas \npessoas que foram expostas a ele. O decaimento de uma \nmassa de 12 microgramas do isótopo 131I foi monitorado \npor 14 dias, conforme o quadro.\nTempo (dia)\nMassa residual de 131I (µg)\n0\n12,0\n2\n10,1\n4\n8,5\n5\n7,8\n6\n7,2\n8\n6,0\n14\n3,6\nApós o período de 40 dias, a massa residual desse \nisótopo é mais próxima de\nA\t\nA\t 2,4 µg.\nB\t\nB\t 1,5 µg.\nC\t\nC\t 0,8 µg.\nD\t\nD\t 0,4 µg.\nE\t\nE\t 0,2 µg.",
+  "processado_em": "2026-05-08T14:05:11.128167",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

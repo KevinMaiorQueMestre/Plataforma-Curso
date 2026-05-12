@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 30          \nDisponível em: www.bhaz.com.br. Acesso em: 14 jun. 2018.\nEssa campanha de conscientização sobre o assédio \nsofrido pelas mulheres nas ruas constrói-se pela \ncombinação da linguagem verbal e não verbal. A imagem \nda mulher com o nariz e a boca cobertos por um lenço é \na representação não verbal do(a)\nA \t silêncio imposto às mulheres, que não podem \ndenunciar o assédio sofrido.\nB \t metáfora de que as mulheres precisam defender-se \ndo assédio masculino.\nC \t constrangimento pelo qual passam as mulheres e \nsua tentativa de esconderem-se.\nD \t necessidade que as mulheres têm de passarem \ndespercebidas para evitar o assédio.",
+  "processado_em": "2026-05-11T23:28:01.858508",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

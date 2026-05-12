@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q035",
+  "imagem": "q035.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 35,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 35          \nAMARAL, T. O mamoeiro, 1925, óleo sobre tela.\nIEB/USP.\nAs vanguardas europeias trouxeram novas perspectivas \npara as artes plásticas brasileiras. Na obra O mamoeiro, \na pintora Tarsila do Amaral valoriza\nA \t a representação de trabalhadores do campo.\nB \t as retas em detrimento dos círculos.\nC \t os padrões tradicionais nacionalistas.\nD \t a representação por formas geométricas.\nE \t os padrões e objetos mecânicos.",
+  "processado_em": "2026-05-08T14:03:28.724148",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

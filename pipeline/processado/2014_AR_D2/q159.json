@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nO Brasil é um país com uma vantagem econômica \nclara no terreno dos recursos naturais, dispondo de uma \ndas maiores áreas com vocação agrícola do mundo. \nEspecialistas calculam que, dos 853 milhões de hectares \ndo país, as cidades, as reservas indígenas e as áreas de \npreservação, incluindo florestas e mananciais, cubram \npor volta de 470 milhões de hectares. Aproximadamente \n280 milhões se destinam à agropecuária, 200 milhões \npara pastagens e 80 milhões para a agricultura, \nsomadas as lavouras anuais e as perenes, como o café \ne a fruticultura.\nFORTES, G. Recuperação de pastagens é alternativa para ampliar cultivos. \nFolha de S. Paulo, 30 out. 2011.\nDe acordo com os dados apresentados, o percentual \ncorrespondente à área utilizada para agricultura em \nrelação à área do território brasileiro é mais próximo de\nA\t 32,8%\nB\t 28,6%\nC\t 10,7%\nD\t 9,4%\nE\t 8,0%",
+  "processado_em": "2026-05-08T14:00:39.724277",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nA sobrevivência dos pomeranos\nOcorrem no Brasil atual casos como o da língua falada \npelos pomeranos, que imigraram para o Brasil devido à \nSegunda Guerra Mundial, e que conseguiu manter-se viva \nem pequenas comunidades do Rio Grande do Sul e do \nEspírito Santo. Essa língua, em pleno uso e transmissão \nno Brasil, não é mais falada na Europa Central, sua região \nde origem. Após a guerra, a região onde ficava Pomerode \nfoi incorporada à Polônia pela força do regime soviético. \nQuanto à etnia dos pomeranos, praticamente foi extinta e \nos sobreviventes dispersados pela Polônia. Mas a língua \npermanece viva no Brasil.\nCASAL JR., M. Disponível em: http://desafios.ipea.gov.br.\nAcesso em: 30 out. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:05:19.381474",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

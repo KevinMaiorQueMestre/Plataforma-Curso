@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 74\t\nA característica que permite identificar um planeta \nno céu é o seu movimento relativo às estrelas fixas. \nSe observarmos a posição de um planeta por vários \ndias, verificaremos que sua posição em relação às \nestrelas fixas se modifica regularmente. A figura \ndestaca o movimento de Marte observado em \nintervalos de 10 dias, registrado da Terra.\nMARTE\n+20\n+10\n155º\n150º\n145º\n140º\n135º\n130º\nProjecto Física. Lisboa: Fundação Calouste Gulbenkian, 1980 (adaptado).\nQual a causa da forma da trajetória do planeta Marte \nregistrada na figura?\nA\t A maior velocidade orbital da Terra faz com que, em \ncertas épocas, ela ultrapasse Marte.\nB\t A presença de outras estrelas faz com que \nsua trajetória seja desviada por meio da atração \ngravitacional.\nC\t A órbita de Marte, em torno do Sol, possui uma forma \nelíptica mais acentuada que a dos demais planetas.\nD\t A atração gravitacional entre a Terra e Marte faz com \nque este planeta apresente uma órbita irregular em \ntorno do Sol.\nE\t A proximidade de Marte com Júpiter, em algumas \népocas do ano, faz com que a atração gravitacional \nde Júpiter interfira em seu movimento.",
+  "processado_em": "2026-05-08T13:59:02.508022",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

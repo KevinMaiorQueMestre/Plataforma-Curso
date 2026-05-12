@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 104\t\nA eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas \naplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. \nNesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\nCélula eletroquímica\nSolução aquosa\nde NaCl\nBateria\nÂnodo de carbono\nDiafragma de amianto\nProduto secundário\nCl2 (g)\nCátodo de carbono\nDreno para solução\naquosa alcalina\ne\ne\ne\ne\n+\n+\n-\n-\nSHREVE, R. N.; BRINK Jr., J. A. Indústrias de processos químicos. Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).\nNo processo eletrolítico ilustrado, o produto secundário obtido é o\nA\t vapor de água.\nB\t oxigênio molecular.\nC\t hipoclorito de sódio.\nD\t hidrogênio molecular.\nE\t cloreto de hidrogênio.",
+  "processado_em": "2026-05-11T23:25:50.026436",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

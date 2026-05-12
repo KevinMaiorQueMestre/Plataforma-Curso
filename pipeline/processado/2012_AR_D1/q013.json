@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 13\t\nO que o projeto governamental tem em vista é \npoupar à Nação o prejuízo irreparável do perecimento e \nda evasão do que há de mais precioso no seu patrimônio. \nGrande parte das obras de arte até mais valiosas e dos \nbens de maior interesse histórico, de que a coletividade \nbrasileira era depositária, têm desaparecido ou se \narruinado irremediavelmente. As obras de arte típicas e \nas relíquias da história de cada país não constituem o seu \npatrimônio privado, e sim um patrimônio comum de todos \nos povos.\nANDRADE, R. M. F. Defesa do patrimônio artístico e histórico. O Jornal, 30 out. 1936.\n In: ALVES FILHO, I. Brasil, 500 anos em documentos. \nRio de Janeiro: Mauad, 1999 (adaptado).",
+  "processado_em": "2026-05-08T13:59:01.980496",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

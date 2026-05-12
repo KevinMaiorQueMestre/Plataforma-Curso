@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nIsometria é uma transformação geométrica que, aplicada a uma figura, mantém as distâncias entre pontos. Duas das \ntransformações isométricas são a reflexão e a rotação. A reflexão ocorre por meio de uma reta chamada eixo. Esse eixo \nfunciona como um espelho, a imagem refletida é o resultado da transformação. A rotação é o “giro” de uma figura ao redor de \num ponto chamado centro de rotação. A figura sofreu cinco transformações isométricas, nessa ordem:\ny\nx\nA\n1ª) Reflexão no eixo x;\n2ª) Rotação de 90 graus no sentido anti-horário, com centro de rotação no ponto A;\n3ª) Reflexão no eixo y;\n4ª) Rotação de 45 graus no sentido horário, com centro de rotação no ponto A;\n5ª) Reflexão no eixo x.\nDisponível em: www.pucsp.br. Acesso em: 2 ago. 2012.\nQual a posição final da figura?\nA\t  \nA\nD\nA\nB\t  \nA\nE\nA\nC\t  \nA",
+  "processado_em": "2026-05-11T23:26:24.496589",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

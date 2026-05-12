@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\nPara a Olimpíada de 2012, a piscina principal do \nCentro Aquático de Londres, medindo 50 metros de \ncomprimento, foi remodelada para ajudar os atletas a \nmelhorar suas marcas. Observe duas das melhorias:\nVeja\u000f\u0003Q\u0011\u0003\u0015\u0003\u0015\u001a\u001b\u000f\u0003MXO\u0011\u0003\u0015\u0013\u0014\u0015\u0003\u000bDGDSWDGR\f\u0011\nA capacidade da piscina em destaque, em metro cúbico, \né igual a\nA 3 750.\nB 1 500.\nC 1 250.\nD 375.\nE 150.\nLargura das raias\nCada uma das dez raias\nmede 2,5 metros, conforme\no padrão oficial. Nas provas\nfinais, a primeira e a décima\nficarão vazias para evitar \nque as ondas desfavoreçam\nos atletas\n3 metros\nCom essa\nprofundidade, a água\nque se movimenta em \ndireção ao fundo da\npiscina demora mais para\nretornar à superfície\ne não atrapalha a\nprogressão dos\nnadadores\nProfundidade",
+  "processado_em": "2026-05-11T23:25:31.206538",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

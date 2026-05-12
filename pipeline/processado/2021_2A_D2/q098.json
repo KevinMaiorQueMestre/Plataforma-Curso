@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 98\nE\u0002\u0003\u0004\u0005\u0006\u0007\b\u0005\t\n\u000b\u0004\u0002 técnicas\nConsumo de energia:\n127 V ~ 60 Hz, 1 200 W\nPotência máxima:\n700 W\nFrequência operacional:\n2 450 MHz\nDimensões externas (A x L x P):\n(26,5 x 45,3 x 32,8) cm\nDimensões do compartimento \ndo forno (A x L x P):\n(22,5 x 32,0 x 29,2) cm\nCapacidade do forno:\n20 litros\nUniformidade de cozimento:\nSistema de prato \ngiratório\nPeso líquido:\n10,22 kg\n\u0017\u0002\u000b\f\b\u000f\u0007\u0004\u0002\u001e\u0004\u0005\r{\u0010\u0002\b\t\u0002\n\t%\n\u001e\u000e\u0006\u001e\b'\u0011\n\t\u0002\r{\u001e\u0005\u000e\u001e\b\t\u0002\u000f\n\u0002\f\u0010\u0002\nP\u0004\u0007\u0005\u0004\u0002\u000f\n\u0002\u0010\u000e\u001e\u0007\u0004/\u0004\u0005\u000f\b\t$\u0002\n\u0010\u0002\u000b\f\n\u0002{\u0002%\u0004\t\tG#\n2\u0002\u000f\u000e\t\r\u000e\u0005J\f\u000e\u0007\u0002\n\u0005\r\u0007\n\u0002\na potência consumida pelo eletrodoméstico quando ligado \nem uma rede elétrica sob determinadas condições de \n\r\n\u0005\t\u001d\u0004\u0002\n2{\r\u0007\u000e\u001e\b\u0002\n\u0002P\u0007\n\u000b\f>\u0005\u001e\u000e\b\u0002\n\u0002\b\u0002\u0010?@\u000e\u0010\b\u0002%\u0004\r>\u0005\u001e\u000e\b\u0002P\u0004\u0007\u0005\n\u001e\u000e\u000f\b\u0002\n\b\u0004\t\u0002\b2\u000e\u0010\n\u0005\r\u0004\t\u0002\u0005\n2\n\u0002\b\u000b\f\n\u001e\u000e\u000f\u0004\t(\u0002\u001b\b\u0010!{\u0010\u0002\u000f\u000e\t\r\u000e\u0005J\f\n\u0010/\t\n\u0002\b\u0002\nP\u0007\n\u000b\f>\u0005\u001e\u000e\b\u0002\u000f\n\u0002\u0010\u000e\u001e\u0007\u0004/\u0004\u0005\u000f\b\t$\u0002*\u0002\u000b\f\b2\u0002\u0004\u0002\b2\u000e\u0010\n\u0005\r\u0004\u0002{\u0002\t\f!\u0010\n\r\u000e\u000f\u0004$\u0002\ne a frequência da rede elétrica.\n\u0019\r\u000e2\u000eY\b/\t\n\u0002 \n\t\t\n\u0002 \n\u000b\f\u000e%\b\u0010\n\u0005\r\u0004\u0002 %\b\u0007\b\u0002 \u000f\n\t\u001e\u0004\u0005J\n2\b\u0007\u0002 \f\u0010\u0002\nalimento durante 15 minutos, em potência máxima.\nDurante o descongelamento, a frequência da onda \neletromagnética que aquece o alimento e a quantidade \n\b%\u0007\u0004@\u000e\u0010\b\u000f\b\u0002 \u000f\n\u0002 \n\u0005\n\u0007J\u000e\b\u0002 P\u0004\u0007\u0005\n\u001e\u000e\u000f\b\u0002 %\b\u0007\b\u0002 \b\u000b\f\n\u001e>/2\u0004\u0002 \t\u001d\u0004$\u0002\nrespectivamente,\nA  2 450 MHz e 630 kJ.\nB  2 450 MHz e 114 kJ.\nC  2 390 MHz e 630 kJ.\nD  60 Hz e 114 kJ.\nE  60 Hz e 127 kJ.",
+  "processado_em": "2026-05-08T14:04:13.560174",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

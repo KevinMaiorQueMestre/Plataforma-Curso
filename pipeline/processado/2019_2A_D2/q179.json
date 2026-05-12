@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 179\t\nUm país decide investir recursos na educação em \nsuas cidades que tenham um alto nível de analfabetismo. \nOs recursos serão divididos de acordo com a idade média \nda população que é analfabeta, conforme apresentado \nno quadro.\nRecurso\nIdade média da população \nanalfabeta (M )\nI\nM < 22\nII\n22 < M < 27\nIII\n27 < M < 32\nIV\n32 < M < 37\nV\nM > 37\nUma cidade desse país possui 60\n100  do total de \nanalfabetos de sua população composto por mulheres. \nA média de idade das mulheres analfabetas é de \n30 anos, e a média de idade dos homens analfabetos é \nde 35 anos.",
+  "processado_em": "2026-05-11T23:27:14.091555",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

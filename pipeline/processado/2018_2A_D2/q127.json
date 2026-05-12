@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 127\t\nAlguns modelos mais modernos de fones de ouvido \ncontam com uma fonte de energia elétrica para poderem \nfuncionar. Esses novos fones têm um recurso, denominado \n“Cancelador de Ruídos Ativo”, constituído de um circuito \neletrônico que gera um sinal sonoro semelhante ao \nsinal externo de frequência fixa. No entanto, para que o \ncancelamento seja realizado, o sinal sonoro produzido \npelo \ncircuito \nprecisa \napresentar \nsimultaneamente \ncaracterísticas específicas bem determinadas.\nQuais são as características do sinal gerado pelo circuito \ndesse tipo de fone de ouvido?\nA\t Sinal com mesma amplitude, mesma frequência \ne diferença de fase igual a 90° em relação ao sinal \nexterno.\nB\t Sinal com mesma amplitude, mesma frequência e \ndiferença de fase igual a 180° em relação ao sinal \nexterno.\nC\t Sinal com mesma amplitude, mesma frequência \ne diferença de fase igual a 45° em relação ao sinal \nexterno.\nD\t Sinal de amplitude maior, mesma frequência e \ndiferença de fase igual a 90° em relação ao sinal \nexterno.\nE\t Sinal com mesma amplitude, mesma frequência e \nmesma fase do sinal externo.",
+  "processado_em": "2026-05-11T23:26:22.154058",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

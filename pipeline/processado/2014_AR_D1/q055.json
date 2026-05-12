@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 55\t\nUma pessoa, lendo o manual de uma ducha que \nacabou de adquirir para a sua casa, observa o gráfico, \nque relaciona a vazão na ducha com a pressão, medida \nem metros de coluna de água (mca).\nVazão (L/min)\n14\n12\n10\n8\n6\n4\n2\n0\n1\n2\n4\n6\n8\n3\n5\n7\n9\nPressão Estática (mca)\nNessa casa residem quatro pessoas. Cada uma delas \ntoma um banho por dia, com duração média de 8 minutos, \npermanecendo o registro aberto com vazão máxima \ndurante esse tempo. A ducha é instalada em um ponto \nseis metros abaixo do nível da lâmina de água, que se \nmantém constante dentro do reservatório.\nAo final de 30 dias, esses banhos consumirão um volume \nde água, em litros, igual a\nA\t 69 120.\nB\t 17 280.\nC\t 11 520.\nD\t 8 640.\nE\t 2 880.",
+  "processado_em": "2026-05-08T14:00:30.489481",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

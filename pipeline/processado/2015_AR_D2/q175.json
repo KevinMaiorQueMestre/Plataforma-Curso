@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nUma competição esportiva envolveu 20 equipes \ncom 10 atletas cada. Uma denúncia à organização dizia \nque um dos atletas havia utilizado substância proibida. \nOs organizadores, então, decidiram fazer um exame \nantidoping. Foram propostos três modos diferentes para \nescolher os atletas que irão realizá-lo:\nModo I: sortear três atletas dentre todos os \nparticipantes; \nModo II: sortear primeiro uma das equipes e, desta, \nsortear três atletas;\nModo III: sortear primeiro três equipes e, então, \nsortear um atleta de cada uma dessas três equipes. \nConsidere que todos os atletas têm igual probabilidade \nde serem sorteados e que P(I), P(II) e P(III) sejam as \nprobabilidades de o atleta que utilizou a substância \nproibida seja um dos escolhidos para o exame no caso do \nsorteio ser feito pelo modo I, II ou III. \nComparando-se essas probabilidades, obtém-se\nA\t P(I) < P(III) < P(II) \nB\t P(II) < P(I) < P(III)\nC\t P(I) < P(II) = P(III) \nD\t P(I) = P(II) < P(III) \nE\t P(I) = P(II) = P(III)",
+  "processado_em": "2026-05-08T14:00:59.337782",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

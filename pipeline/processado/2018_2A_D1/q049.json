@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\nTEXTO I\nÉ da maior utilidade saber falar de modo a persuadir \ne conter o arrebatamento dos espíritos desviados pela \ndoçura da sua eloquência. Foi com este fim que me \napliquei a formar uma biblioteca. Desde há muito tempo \nem Roma, em toda a Itália, na Germânia e na Bélgica, \ngastei muito dinheiro para pagar a copistas e livros, \najudado em cada província pela boa vontade e solicitude \ndos meus amigos.\nGEBERTO DE AURILLAC. Lettres. Século X. Apud PEDRERO-SÁNCHEZ, M. G. \nHistória da Idade Média: texto e testemunhas. São Paulo: Unesp, 2000.\nTEXTO II\nEu não sou doutor nem sequer sei do que trata \nesse livro; mas, como a gente tem que se acomodar às \nexigências da boa sociedade de Córdova, preciso ter \numa biblioteca. Nas minhas prateleiras tenho um buraco \nexatamente do tamanho desse livro e como vejo que \ntem uma letra e encadernação muito bonitas, gostei dele \ne quis comprá-lo. Por outro lado, nem reparei no preço. \nGraças a Deus sobra-me dinheiro para essas coisas.\nAL HADRAMI. Século X. Apud PEDRERO-SÁNCHEZ, M. G. A Península Ibérica entre o \nOriente e o Ocidente: cristãos, judeus e muçulmanos. São Paulo: Atual, 2002.\nNesses textos do século X, percebem-se visões distintas \nsobre os livros e as bibliotecas em uma sociedade \nmarcada pela\nA\t difusão da cultura favorecida pelas atividades urbanas.\nB\t laicização do saber, que era facilitada pela educação \nnobre.\nC\t ampliação da escolaridade realizada pelas corporações \nde ofício.\nD\t evolução da ciência que era provocada pelos \nintelectuais bizantinos.\nE\t publicização das escrituras, que era promovida pelos \nsábios religiosos.",
+  "processado_em": "2026-05-11T23:26:12.712134",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

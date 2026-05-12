@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 76\t\nOs direitos do homem constituem uma classe variável, como \na história destes últimos séculos demonstra suficientemente. \nO elenco dos direitos do homem se modificou, e continua a se \nmodificar, com a mudança das condições históricas, ou seja, \ndos carecimentos e dos interesses, das classes no poder, dos meios \ndisponíveis para a realização dos mesmos, das transformações \ntécnicas. Direitos que foram declarados absolutos no final do \nséculo XVIII foram submetidos a radicais limitações nas declarações \ncontemporâneas; direitos que as declarações do século XVIII \nnem sequer mencionavam, como os direitos sociais, são agora \nproclamados com grande ostentação nas recentes declarações.\nBOBBIO, N. A era dos direitos. Rio de Janeiro: Elsevier, 2004.\nOs argumentos apresentados no texto sustentam que os direitos \nhumanos são variáveis porque os considera como\nA\tfenômenos espontâneos.\nB\tconquistas atemporais.\nC\tconvenções coletivas.\nD\tresquícios religiosos.\nE\timposições políticas.",
+  "processado_em": "2026-05-08T14:07:02.354625",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

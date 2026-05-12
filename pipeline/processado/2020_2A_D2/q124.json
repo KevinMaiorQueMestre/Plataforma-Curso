@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 124          \nQuando as pilhas, que contêm metais pesados, são \ndescartadas no lixo comum, pode ocorrer o rompimento \nde sua blindagem e a liberação de seu conteúdo para o \nmeio ambiente. Ao atingir o solo, um metal pesado pode \nficar retido nas camadas superiores por três processos: \nreação com moléculas orgânicas que possuam oxigênio \nou nitrogênio em sua estrutura, adsorção em argilas e \nminerais e reação com grupamento hidroxila, sulfeto ou \nmetil, formando precipitado insolúvel.\nCom \nbases \nnas \ninformações \napresentadas, \nsão \nsuscetíveis de serem formados no solo os compostos:\nA \t CdS e Zn(OH)2\nB \t Pb(OH)2 e Na2S\nC \t Ni(OH)2  e Cr(C2H5)2\nD \t CdSO4 e Pb(CH3CO2)2",
+  "processado_em": "2026-05-08T14:03:37.273369",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

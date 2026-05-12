@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nPara a identificação de um rapaz vítima de acidente, \nfragmentos de tecidos foram retirados e submetidos à \nextração de DNA nuclear, para comparação com o DNA \ndisponível dos possíveis familiares (pai, avô materno, avó \nmaterna, filho e filha). Como o teste com o DNA nuclear \nnão foi conclusivo, os peritos optaram por usar também \nDNA mitocondrial, para dirimir dúvidas.\nPara identificar o corpo, os peritos devem verificar se há \nhomologia entre o DNA mitocondrial do rapaz e o DNA \nmitocondrial do(a)\nA\t pai.\nB\t filho.\nC\t filha.\nD\t avó materna.\nE\t avô materno.",
+  "processado_em": "2026-05-08T14:00:14.488133",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\t\nA pressão sonora (P), medida em newton por metro qu\nem decibel (dB), se relacionam mediante a expressão\nn \u001f 20 l\nsendo P0 = 2 × 10–5 N/m2 uma constante, denominada limi\nDurante uma fiscalização, foi medido, por um decibelí\nautomotivo ligado, atingiu um nível de pressão sonora de 8\nA pressão sonora, em newton por metro quadrado, proven\nA\t8 × 10−5\nB\t5 × 10−2\nC\t2 × 10−1\nD\t1 × 103\nE\t2 × 109",
+  "processado_em": "2026-05-08T14:06:04.874762",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

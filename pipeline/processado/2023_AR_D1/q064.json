@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 64\t\nTxai Suruí, liderança da Juventude Indígena, \nprofere seu discurso na abertura da COP-26\n“O clima está esquentando, os animais estão \ndesaparecendo, os rios estão morrendo e nossas \nplantações não florescem como no passado. A Terra está \nfalando: ela nos diz que não temos mais tempo.”\nVICK, M. Quais são as conquistas do movimento indígena na COP-26. \nDisponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado).\nO discurso da líder indígena explicita um problema global \nrelacionado ao(à)\nA\t\nA\t manejo tradicional.\nB\t\nB\t reciclagem residual.\nC\t\nC\t consumo consciente.\nD\t\nD\t exploração predatória.\nE\t\nE\t reaproveitamento energético.",
+  "processado_em": "2026-05-08T14:05:37.561298",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

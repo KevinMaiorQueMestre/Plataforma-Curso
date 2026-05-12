@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 20\t\nNunca nos tornaremos matemáticos, por exemplo, \nembora nossa memória possua todas as demonstrações \nfeitas por outros, se nosso espírito não for capaz de \nresolver toda espécie de problemas; não nos tornaríamos \nfilósofos, por ter lido todos os raciocínios de Platão e \nAristóteles, sem poder formular um juízo sólido sobre \no que nos é proposto. Assim, de fato, pareceríamos ter \naprendido, não ciências, mas histórias.\nDESCARTES, R. Regras para a orientação do espírito. São Paulo: Martins Fontes, 1999.\nEm sua busca pelo saber verdadeiro, o autor considera o \nconhecimento, de modo crítico, como resultado da\nA\t investigação de natureza empírica.\nB\t retomada da tradição intelectual.\nC\t imposição de valores ortodoxos.\nD\t autonomia do sujeito pensante.\nE\t liberdade do agente moral.",
+  "processado_em": "2026-05-08T14:01:04.401509",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q039",
+  "imagem": "q039.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 39,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 39\t\n \nMeta de Faminto\nJK — Você agora tem automóvel brasileiro, para correr \nem estradas pavimentadas com asfalto brasileiro, com \ngazolina brasileira. Que mais quer?\nJECA — Um prato de feijão brasileiro, seu doutô!\nTHÉO. In: LEMOS, R. (Org.). Uma história do Brasil através da caricatura (1840-2001). \nRio de Janeiro: Bom Texto; Letras & Expressões, 2001.\nA charge ironiza a política desenvolvimentista do governo \nJuscelino Kubitschek, ao\nA\t evidenciar que o incremento da malha viária diminuiu \nas desigualdades regionais do país.\nB\t destacar que a modernização das indústrias dinamizou \na produção de alimentos para o mercado interno.\nC\t enfatizar que o crescimento econômico implicou \naumento das contradições socioespaciais.\nD\t ressaltar que o investimento no setor de bens duráveis \nincrementou os salários de trabalhadores.\nE\t mostrar que a ocupação de regiões interioranas abriu \nfrentes de trabalho para a pop lação local",
+  "processado_em": "2026-05-08T14:00:11.831435",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

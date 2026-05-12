@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 172\t\nOs alunos de uma turma escolar foram divididos em \ndois grupos. Um grupo jogaria basquete, enquanto o \noutro jogaria futebol. Sabe-se que o grupo de basquete \né formado pelos alunos mais altos da classe e tem \numa pessoa a mais do que o grupo de futebol. A tabela \nseguinte apresenta informações sobre as alturas dos \nalunos da turma.\nMédia\nMediana\nModa\n1,65\n1,67\n1,70\nOs alunos P, J, F e M medem, respectivamente, \n1,65 m, 1,66 m, 1,67 m e 1,68 m, e as suas alturas não \nsão iguais a de nenhum outro colega da sala.\nSegundo essas informações, argumenta-se que os \nalunos P, J, F e M jogaram, respectivamente,\nA\t basquete, basquete, basquete, basquete.\nB\t futebol, basquete, basquete, basquete.\nC\t futebol, futebol, basquete, basquete.\nD\t futebol, futebol, futebol, basquete.\nE\t futebol, futebol, futebol, futebol.",
+  "processado_em": "2026-05-11T23:27:37.974025",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

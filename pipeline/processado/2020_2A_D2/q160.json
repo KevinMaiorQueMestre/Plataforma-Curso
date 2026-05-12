@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 160          \nUm piscicultor cria uma espécie de peixe em \num tanque cilíndrico. Devido às características \ndessa espécie, o tanque deve ter, exatamente, \n2 metros de profundidade e ser dimensionado \nde forma a comportar 5 peixes para cada metro \ncúbico de água. Atualmente, o tanque comporta um \ntotal de 750 peixes. O piscicultor deseja aumentar \na capacidade do tanque para que ele comporte \n900 peixes, mas sem alterar a sua profundidade. \nConsidere 3 como aproximação para .\nO aumento da medida do raio do tanque, em metro, deve \nser de\nA \n30 −5\nB \n30 −5\n2\nC \n5\nD \n5\n2\nE 15\n2",
+  "processado_em": "2026-05-08T14:03:39.248005",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

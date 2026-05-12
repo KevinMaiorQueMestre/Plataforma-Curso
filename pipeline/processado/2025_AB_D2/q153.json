@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 153\t\nUm vendedor de balões para festas comprou um recipiente \ncheio de gás hélio, no formato de cilindro circular reto com 40 cm \nde diâmetro interno da base e 1 m de altura. Ele vai adquirir \nbalões em uma loja que só os vende em pacotes fechados, cada \num com 5 balões esféricos que, após enchidos com gás hélio, \ntêm 30 cm de diâmetro.\nO volume adquirido desse gás, em condições normais de \npressão, é igual a 12 vezes o volume do recipiente comprado. \nNo caso dos balões esféricos, o volume de gás hélio no seu \ninterior é igual à capacidade volumétrica desses balões quando \ncheios. O vendedor pretende encher o maior número possível \nde balões com o gás comprado.\nO número mínimo de pacotes de balões que o vendedor deve \ncomprar de forma a utilizar todo o volume de gás hélio adquirido é\nA\t11.\nB\t12.\nC\t22.\nD\t24.\nE\t25.",
+  "processado_em": "2026-05-08T14:06:53.201339",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

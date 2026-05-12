@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nDiferenças entre inundação gradual e brusca\nTOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais: \nconhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).\nA desproporção de velocidade e tempo de duração nos \ntipos de inundação destacados é condicionada pela\nA\tvariabilidade solar anual.\nB\ttemperatura média mensal.\nC\tdeclividade do relevo local.\nD\tdinâmica tectônica regional.\nE\tgradação da turbidez fluvial.",
+  "processado_em": "2026-05-08T14:06:12.563940",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

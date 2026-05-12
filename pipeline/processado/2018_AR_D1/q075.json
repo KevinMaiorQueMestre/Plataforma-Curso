@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nOs países industriais adotaram uma concepção \ndiferente das relações familiares e do lugar da fecundidade \nna vida familiar e social. A preocupação de garantir uma \ntransmissão integral das vantagens econômicas e sociais \nadquiridas tem como resultado uma ação voluntária de \nlimitação do número de nascimentos.\nGEORGE, P. Panorama do mundo atual. São Paulo: Difusão Europeia do Livro, 1968 (adaptado).\nEm meados do século XX, o fenômeno social descrito \ncontribuiu para o processo europeu de\nA\t estabilização da pirâmide etária. \nB\t conclusão da transição demográfica. \nC\t contenção da entrada de imigrantes. \nD\t elevação do crescimento vegetativo. \nE\t formação de espaços superpovoados.",
+  "processado_em": "2026-05-11T23:26:40.984584",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

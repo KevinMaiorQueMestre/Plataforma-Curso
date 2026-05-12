@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\t\nEm uma linha de transmissão de informações por \nfibra óptica, quando um sinal diminui sua intensidade para \nvalores inferiores a 10 dB, este precisa ser retransmitido. \nNo entanto, intensidades superiores a 100 dB não podem \nser transmitidas adequadamente. A figura apresenta \ncomo se dá a perda de sinal (perda óptica) para diferentes \ncomprimentos de onda para certo tipo de fibra óptica.\nComprimento de onda (µm)\nPerda óptica (dB/km)\n0,8\n1\n2\n3\n4\n5\n6\n0,9\n1,0\n1,1\n1,2\n1,3\n1,4\n1,5\n1,6\n1,7\n1,8\nAtenuação e limitações das fibras ópticas. Disponível em: www.gta.ufrj.br. \nAcesso em: 25 maio 2017 (adaptado).\nQual é a máxima distância, em km, que um sinal pode ser \nenviado nessa fibra sem ser necessária uma retransmissão?\nA\t 6\nB\t 18\nC\t 60\nD\t 90\nE\t 100",
+  "processado_em": "2026-05-11T23:25:49.029329",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

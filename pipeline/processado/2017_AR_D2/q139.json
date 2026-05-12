@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nUm casal realiza sua mudança de domicílio \ne necessita colocar numa caixa de papelão um \nobjeto cúbico, de 80 cm de aresta, que não pode ser \ndesmontado. Eles têm à disposição cinco caixas, com \ndiferentes dimensões, conforme descrito:\n•\t Caixa 1: 86 cm × 86 cm × 86 cm\n•\t Caixa 2: 75 cm × 82 cm × 90 cm\n•\t Caixa 3: 85 cm × 82 cm × 90 cm\n•\t Caixa 4: 82 cm × 95 cm × 82 cm\n•\t Caixa 5: 80 cm × 95 cm × 85 cm\nO casal precisa escolher uma caixa na qual o \nobjeto caiba, de modo que sobre o menor espaço livre \nem seu interior.\nA caixa escolhida pelo casal deve ser a de número\nA\t 1.\nB\t 2.\nC\t 3.\nD\t 4.\nE\t 5.",
+  "processado_em": "2026-05-11T23:25:52.681600",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 146\t\nUm estudante posicionou uma haste entre uma parede e uma \nvela. A haste, com 20 cm de comprimento, foi colocada paralela \nà parede, na qual projetava uma sombra de comprimento H. \nO estudante mediu a distância entre a chama da vela e a parede, \nencontrando 140 cm, e elaborou um esquema para ilustrar a \nsituação, como na figura, em que X representa a distância entre \na haste e a chama da vela.\nQual é a relação entre H e X nesse experimento?\nA\t H\nX = 1\n7\nB\t H\nX = 7\nC\tH ⋅ X = 700\nD\tH ⋅ X = 1 400\nE\tH ⋅ X = 2 800",
+  "processado_em": "2026-05-08T14:06:52.815769",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

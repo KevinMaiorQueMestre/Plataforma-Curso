@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 26\t\nQUANDO TUDO SE CONFUNDE\nQUALQUER MAPA É MÚNDI\nLAERTE. Mapa-múndi. Disponível em: www1.folha.uol.com.br. Acesso em: 24 out. 2021.\nNesse cartum, a predominância da função poética da \nlinguagem manifesta-se na\nA\t\nA\t ênfase dada à dificuldade de compreensão de um \natlas.\nB\t\nB\t articulação entre a expressão verbal e as imagens \nrepresentadas.\nC\t\nC\t singularidade da percepção da autora sobre a área \nde geografia.\nD\t\nD\t construção de uma representação cartográfica \ndiferente.\nE\t\nE\t forma de organização das informações do mapa-múndi.",
+  "processado_em": "2026-05-08T14:05:18.100759",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

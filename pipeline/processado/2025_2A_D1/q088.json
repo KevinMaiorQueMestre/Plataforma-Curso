@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 88 \nCom capital inicial de US$ 50 bilhões para financiar obras \nde infraestrutura em países pobres e emergentes, o novo \nBanco de Desenvolvimento dos Brics vem sendo encarado \ncomo uma alternativa ao Banco Mundial e ao Fundo Monetário \nInternacional (FMI). O banco deverá reduzir a influência \ninternacional dos Estados Unidos e da União Europeia.\nCORRÊA, A. Disponível em: www.bbc.com. \nAcesso em: 14 jul. 2014 (adaptado).\nA instituição abordada no texto busca uma mudança na \ngeopolítica ao\nA intensificar a utilização do dólar.\nB enfatizar a relação Sul-Sul.\nC ampliar a bipolaridade global.\nD garantir a taxação de importados.\nE padronizar a matriz energética",
+  "processado_em": "2026-05-08T14:06:31.017252",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

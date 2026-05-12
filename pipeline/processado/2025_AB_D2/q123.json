@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 123\t\nA luz que atinge a retina desencadeia a formação de impu\nncéfalo, como representado no esquema. Para que uma pesso\nQuando alguma parte da via que conduz a informação até lá é le\nhega ao hipotálamo não participa da formação da imagem, ma\nineal. Quando há entrada de luz na retina, a secreção de melat\nUm médico avaliou a secreção de melatonina após ilumin\naciente (1), houve inibição da secreção de melatonina; enqua\nOs pacientes 1 e 2 tiveram perda visual, pois apresentavam prob\nA\tretina e nervo óptico.\nB\tcórtex visual e retina.\nC\tnervo óptico e tálamo.\nD\ttálamo e córtex visual.\nE\thipotálamo e glândula pineal.",
+  "processado_em": "2026-05-08T14:06:51.286180",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

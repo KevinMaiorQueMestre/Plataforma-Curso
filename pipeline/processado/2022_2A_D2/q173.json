@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nPara tornar uma pista de automobilismo mais se\nOs engenheiros contratados elaboraram um projeto com\n(I), (II), (III), (IV) e (V) pelas linhas tracejadas, como mostr\nque se façam duas dessas alterações.\nTodos os trechos passíveis de modificação, tanto no traça\nou segmentos de reta.\nIII\nIV\n200 m\n60°\n60°\n360 m\n480 m\n \nPretende-se que a nova pista tenha extensão mais pró\nem comum da pista original e da nova pista não serão alte\nUtilize 3 como aproximação para π.\nPara atender às condições apresentadas, quais setores de\nA\t\nA\t I e V\nB\t\nB\t II e III\nC\t\nC\t II e V\nD\t\nD\t III e IV\nE\t\nE\t IV e V",
+  "processado_em": "2026-05-08T14:04:50.981338",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

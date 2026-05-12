@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 04\t\nMORGAN, J. Disponível em: www3.gobiernodecanarias.org. Acesso em: 5 maio 2024.\nNa charge, a diversidade linguística está representada pelo uso de\nA\testruturas verbais com valor de futuro próximo.\nB\texpressões idiomáticas características de uma região.\nC\tadvérbios característicos do repertório vocabular dos jovens.\nD\tmarcas da oralidade expressas na representação escrita da fala.\nE\tenunciados interrogativos em situação comunicativa com um interlocutor.",
+  "processado_em": "2026-05-11T23:29:49.914688",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

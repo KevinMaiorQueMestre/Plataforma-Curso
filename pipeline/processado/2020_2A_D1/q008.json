@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 8          \nA verdade sobre o envelhecimento das populações\nTem se tornado popular produzir grandes projeções \nde redução de prosperidade baseada no envelhecimento \ndemográfico. Mas será que isso é realmente um problema?\nA média de idade nos Estados Unidos é atualmente \nde 36 anos. Na Etiópia, a média é de 18 anos. O país \ncom maior número de idosos é a Alemanha, onde a \nmédia de idade é de 45 anos. Países em que a população \nmais jovem domina são mais pobres, e aqueles com a \npopulação dominante mais idosa são mais ricos. Então \npor que temer o envelhecimento da população?\nExistem pelo menos duas razões. A primeira é \npsicológica: em analogia ao envelhecimento das pessoas, \nsugere que, à medida que as populações envelhecem, \ntornam-se mais fracas e perdem acuidade mental. A \nsegunda decorre dos economistas e de um indicador \nconhecido como razão de dependência, que pressupõe \nque todos os adultos com menos de 65 anos contribuem \npara a sociedade, e todos com mais de 65 anos são um \npeso. E a proporção de pessoas com mais de 65 anos \ntende a aumentar.\nLUTZ, W. Azul Magazine, ago. 2017 (adaptado).\nA articulação entre as informações do texto leva à \ncompreensão de que ele propõe um(a)\nA \t levantamento das causas do envelhecimento das \npopulações.\nB \t análise dos dados demográficos de diferentes países \ndo mundo.\nC \t comparação \nentre \na \nidade \nda \npopulação \neconomicamente ativa no mundo.\nD \t questionamento sobre o impacto negativo do \nenvelhecimento da população.\nE \t alerta aos economistas sobre as contribuições da \npopulação abaixo dos 65 anos",
+  "processado_em": "2026-05-08T14:03:23.610704",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

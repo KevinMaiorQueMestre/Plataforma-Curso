@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nA Lei da Gravitação, de Isaac Newton, estabelece a \nintensidade da força entre dois objetos. Ela é dada pela \nequação F\ng m m\nd\n=\n1\n2\n2\n \n, sendo m1 e m2 as massas dos \nobjetos, d a distância entre eles, g a constante universal \nda gravitação e F a intensidade da força gravitacional que \num objeto exerce sobre o outro.\nConsidere um esquema que represente cinco satélites \nde mesma massa orbitando a Terra. Denote os satélites \npor A, B, C, D e E, sendo esta a ordem decrescente da \ndistância da Terra (A o mais distante e E o mais próximo \nda Terra).\nDe acordo com a Lei da Gravitação Universal, a Terra \nexerce maior força sobre o satélite\nA\t A.\nB\t B.\nC\t C.\nD\t D.\nE\t E.",
+  "processado_em": "2026-05-11T23:26:23.058227",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 54\t\nOs grupos dominantes são beneficiados em termos de \ncredibilidade e podem, com isso, controlar falas de membros \nde outros grupos, descredibilizando seus testemunhos com \nbase em concepções compartilhadas de preconceito de \nidentidade (gênero e raça). Algumas formas de preconceito \ntornam as declarações das pessoas menos importantes \ndevido ao seu pertencimento a determinado grupo social. \nAssim, um falante recebe menos credibilidade devido ao \npreconceito do ouvinte.\nKUHNEN, T. Resenha de The Power and Ethics of Knowing, \nde Miranda Fricker. Revista Princípios, n. 33, 2013.\nCom base na reflexão suscitada no texto, o preconceito \nde identidade é responsável por um tipo de injustiça\nA\testética, que normatiza os padrões corporais.\nB\tsensorial, que privilegia as habilidades visuais.\nC\tafetiva, que impede as expressões emocionais.\nD\tepistêmica, que prejudica as trocas informacionais.\nE\teconômica, que perpetua as desigualdades materiais.",
+  "processado_em": "2026-05-08T14:06:12.895392",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

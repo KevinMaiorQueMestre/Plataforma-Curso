@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 94\t\nDisponível em: www.lacronicadeleon.es. Acesso em: 12 mar. 2012 (adaptado).\nA acessibilidade é um tema de relevância tanto na esfera \npública quanto na esfera privada. No cartaz, a exploração \ndesse tema destaca a importância de se\nA\t estimular os cadeirantes na superação de barreiras.\nB\t respeitar o estacionamento destinado a cadeirantes.\nC\t identificar as vagas reservadas aos cadeirantes.\nD\t eliminar os obstáculos para o trânsito de cadeirantes.\nE\t facilitar a locomoção de cadeirantes em estacionamentos.",
+  "processado_em": "2026-05-08T14:00:51.766598",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

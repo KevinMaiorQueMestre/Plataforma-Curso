@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\nA Transferência Eletrônica Disponível (TED) é uma \nWUDQVDomR\u0003 ¿QDQFHLUD\u0003 GH\u0003 YDORUHV\u0003 HQWUH\u0003 GLIHUHQWHV\u0003 EDQFRV\u0011\u0003\nUm economista decide analisar os valores enviados por \nPHLR\u0003GH\u00037('V\u0003HQWUH\u0003FLQFR\u0003EDQFRV\u0003\u000b\u0014\u000f\u0003\u0015\u000f\u0003\u0016\u000f\u0003\u0017\u0003H\u0003\u0018\f\u0003GXUDQWH\u0003\num mês. Para isso, ele dispõe esses valores em uma \nmatriz A   [aij], em que 1 d i d 5 e 1 d j d 5, e o elemento \naij corresponde ao total proveniente das operações feitas \nYLD\u00037('\u000f\u0003HP\u0003PLOKmR\u0003GH\u0003UHDO\u000f\u0003WUDQVIHULGRV\u0003GR\u0003EDQFR\u0003i para \no banco j durante o mês. Observe que os elementos\naii   0, uma vez que TED é uma transferência entre bancos \ndistintos. Esta é a matriz obtida para essa análise:\nA =\n⎡\n⎣\n⎢\n⎢\n⎢\n⎢\n⎢\n⎢\n⎤\n⎦\n⎥\n⎥\n⎥\n⎥\n⎥\n⎥\n0\n2\n2\n0\n0\n2\n1\n0\n1\n2\n0\n1\n1\n0\n2\n2\n0\n0\n3\n0\n1\n1\n0\nCom base nessas informações, o banco que transferiu a \nmaior quantia via TED é o banco\nA 1.\nB \u0015\u0011\nC 3.\nD \u0017\u0011\nE 5.",
+  "processado_em": "2026-05-11T23:26:49.518616",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

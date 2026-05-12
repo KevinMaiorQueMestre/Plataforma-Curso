@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nUma instituição de ensino superior ofereceu vagas \nem um processo seletivo de acesso a seus cursos. \nFinalizadas as inscrições, foi divulgada a relação do \nnúmero de candidatos por vaga em cada um dos cursos \noferecidos. Esses dados são apresentados no quadro.\nCurso\nNúmero \nde vagas \noferecidas\nNúmero \nde candidatos \npor vaga\nAdministração\n30\n6\nCiências Contábeis\n40\n6\nEngenharia Elétrica\n50\n7\nHistória\n30\n8\nLetras\n25\n4\nPedagogia\n25\n5\nQual foi o número total de candidatos inscritos nesse \nprocesso seletivo?\nA\t\nA\t 200\nB\t\nB\t 400\nC\t\nC\t 1 200\nD\t\nD\t 1 235\nE\t\nE\t 7 200",
+  "processado_em": "2026-05-08T14:05:12.858371",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

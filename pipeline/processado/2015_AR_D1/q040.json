@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q040",
+  "imagem": "q040.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 40,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 40\t\nA crescente intelectualização e racionalização não \nindicam um conhecimento maior e geral das condições \nsob as quais vivemos. Significa a crença em que, se \nquiséssemos, \npoderíamos \nter \nesse \nconhecimento \na qualquer momento. Não há forças misteriosas \nincalculáveis; podemos dominar todas as coisas pelo \ncálculo. \nWEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios \nde sociologia. Rio de Janeiro: Zahar, 1979 (adaptado).\nTal como apresentada no texto, a proposição de Max \nWeber a respeito do processo de desencantamento do \nmundo evidencia o(a)\nA\t progresso civilizatório como decorrência da expansão \ndo industrialismo.\nB\t extinção \ndo \npensamento \nmítico \ncomo \num \ndesdobramento do capitalismo.\nC\t emancipação como consequência do processo de \nracionalização da vida.\nD\t afastamento de crenças tradicionais como uma \ncaracterística da modernidade.\nE\t fim \ndo \nmonoteísmo \ncomo \ncondição \npara \na \nconsolidação da ciência.",
+  "processado_em": "2026-05-08T14:00:45.845444",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

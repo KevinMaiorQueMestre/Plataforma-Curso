@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nUma empresa de segurança domiciliar oferece o serviço \nde patrulha noturna, no qual vigilantes em motocicletas \nfazem o monitoramento periódico de residências. \nA empresa conta com uma base, de onde acompanha \no trajeto realizado pelos vigilantes durante as patrulhas \ne orienta o deslocamento de equipes de reforço quando \nnecessário. Numa patrulha rotineira, sem ocorrências, \num vigilante conduziu sua motocicleta a uma velocidade \nconstante durante todo o itinerário estabelecido, levando \n30 minutos para conclusão. De acordo com os registros \ndo GPS alocado na motocicleta, a distância da posição \ndo vigilante à base, ao longo do tempo de realização do \ntrajeto, é descrita pelo gráfico.",
+  "processado_em": "2026-05-08T14:05:47.155477",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

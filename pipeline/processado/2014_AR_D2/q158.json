@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nUma empresa farmacêutica produz medicamentos \nem pílulas, cada uma na forma de um cilindro com uma \nsemiesfera com o mesmo raio do cilindro em cada uma \nde suas extremidades. Essas pílulas são moldadas por \numa máquina programada para que os cilindros tenham \nsempre 10 mm de comprimento, adequando o raio de \nacordo com o volume desejado.\nUm medicamento é produzido em pílulas com 5 mm \nde raio. Para facilitar a deglutição, deseja-se produzir \nesse medicamento diminuindo o raio para 4 mm, e, por \nconsequência, seu volume. Isso exige a reprogramação \nda máquina que produz essas pílulas.\nUse 3 como valor aproximado para p.\nA redução do volume da pílula, em milímetros cúbicos, \napós a reprogramação da máquina, será igual a\nA\t 168.\nB\t 304.\nC\t 306.\nD\t 378.\nE\t 514.",
+  "processado_em": "2026-05-08T14:00:39.677279",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nO esquema mostra como a intensidade luminosa \ndecresce com o aumento da profundidade em um rio, \nsendo L0 a intensidade na sua superfície.\n0 m\nL0\n1 m\n3\n2 L0\n2 m\n9\n4 L0\n3 m\n27\n8 L0\nIntensidade luminosa\nProfundidade\nConsidere que a intensidade luminosa diminui, a cada \nmetro acrescido na profundidade, segundo o mesmo \npadrão do esquema.",
+  "processado_em": "2026-05-08T14:05:46.428041",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

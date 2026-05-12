@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 105\t\nO conteúdo de um cilindro de gás natural veicular explodiu, \nliberando um volume de 15 m3 de gás, que entrou em combustão. \nApesar do risco de explosão, o gás natural veicular (GNV) é \num combustível bastante eficiente em termos econômicos. \nApresenta densidade de 0,8 kg/m3 e seu componente principal \né o metano (CH4), de massa molar igual a 16 g/mol, numa \nconcentração de 90%. É possível avaliar a energia liberada na \nexplosão a partir das energias de ligação dos átomos envolvidos, \ndescritas no quadro.\nLigação\nenergia de ligação (kJ/mol)\nC - H\n414\nO = O\n498\nC = O\n799\nH - O\n460\nCHANG, R. Chemistry. Nova York: McGraw-Hill, 2010 (adaptado).\nA energia, em quilojoule, gerada no momento da explosão é \nmais próxima de\nA\t2,5 × 105 kJ.\nB\t2,7 × 105 kJ.\nC\t3,1 × 105 kJ.\nD\t5,3 × 105 kJ.\nE\t5,9 × 105 kJ.",
+  "processado_em": "2026-05-08T14:06:50.275834",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 115\t\nUm Buraco Negro é um corpo celeste que possui uma \ngrande quantidade de matéria concentrada em uma pequena \nregião do espaço, de modo que sua força gravitacional é \ntão grande que qualquer partícula fica aprisionada em sua \nsuperfície, inclusive a luz. O raio dessa região caracteriza \numa superfície-limite, chamada de horizonte de eventos, \nda qual nada consegue escapar. Considere que o Sol foi \ninstantaneamente substituído por um Buraco Negro com \na mesma massa solar, de modo que o seu horizonte de \neventos seja de aproximadamente 3,0 km.\nSCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to \nEinstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022 (adaptado).\nApós a substituição descrita, o que aconteceria aos \nplanetas do Sistema Solar? \nA\t\nA\t Eles se moveriam em órbitas espirais, aproximando-se \nsucessivamente do Buraco Negro.\nB\t\nB\t Eles oscilariam aleatoriamente em torno de suas \nórbitas elípticas originais.\nC\t\nC\t Eles se moveriam em direção ao centro do Buraco \nNegro.\nD\t\nD\t Eles passariam a precessionar mais rapidamente.\nE\t\nE\t Eles manteriam suas órbitas inalteradas.",
+  "processado_em": "2026-05-08T14:05:10.022555",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

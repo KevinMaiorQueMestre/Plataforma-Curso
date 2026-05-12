@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 135\t\nPesquisadores desenvolveram uma nova e mais eficiente rota sintética para produzir a substância \natorvastatina, empregada para reduzir os níveis de colesterol. Segundo os autores, com base nessa descoberta, \na síntese da atorvastatina cálcica (CaC66H68F2N4O10, massa molar igual a 1 154 g\nmol) é realizada a partir do \néster 4-metil-3-oxopentanoato de metila (C7H12O3, massa molar igual a 144 g\nmol).\nUnicamp descobre nova rota para produzir medicamento mais vendido no mundo. Disponível em: www.unicamp.br. Acesso em: 26 out. 2015 (adaptado).\nConsidere o rendimento global de 20% na síntese da atorvastatina cálcica a partir desse éster, na proporção de 1 : 1. \nSimplificadamente, o processo é ilustrado na figura.\n11 etapas de síntese\nO\nO\nO\nO\nNH\nN\nOH\nOH\nO\nO\nF\n2\nCa2+\nRendimento global\nde 20%\nVIEIRA, A. S. Síntese total da atorvastatina cálcica. Disponível em: http://ipd-farma.org.br. Acesso em: 26 out. 2015 (adaptado).\nConsiderando o processo descrito, a massa, em grama, de atorvastatina cálcica obtida a partir de 100 g do éster é \nmais próxima de\nA\t 20.\nB\t 29.\nC\t 160.\nD\t 202.\nE\t 231.",
+  "processado_em": "2026-05-11T23:26:22.599269",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

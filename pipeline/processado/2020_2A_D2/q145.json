@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 145          \nNo desenho técnico, é comum representar um \nsólido por meio de três vistas (frontal, perfil e superior), \nresultado da projeção do sólido em três planos, \nperpendiculares dois a dois.\nA figura representa as vistas de uma torre.\nVista\nfrontal\nVista\nperfil\nVista\nsuperior\nDisponível em: www.uems.br. Acesso em: 11 dez. 2012 (adaptado).\nCom base nas vistas fornecidas, qual figura melhor \nrepresenta essa torre?\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:03:38.329433",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

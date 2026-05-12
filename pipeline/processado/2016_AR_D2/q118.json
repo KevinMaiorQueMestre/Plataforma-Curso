@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LC - 2º dia | Caderno 5 - AMARELO - Página 12\nQUESTÃO 118\t\nDisponível em: www.paradapelavida.com.br. Acesso em: 15 nov. 2014.\nNesse texto, a combinação de elementos verbais e não \nverbais configura-se como estratégia argumentativa para\nA\t manifestar a preocupação do governo com a \nsegurança dos pedestres.\nB\t associar a utilização do celular às ocorrências de \natropelamento de crianças.\nC\t orientar pedestres e motoristas quanto à utilização \nresponsável do telefone móvel.\nD\t influenciar o comportamento de motoristas em relação \nao uso de celular no trânsito.\nE\t alertar a população para os riscos da falta de atenção \nno trânsito das grandes cidades.",
+  "processado_em": "2026-05-08T14:01:16.727468",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

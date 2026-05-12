@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 18\t\nO que é software livre\nSoftware livre é qualquer programa de computador construído de forma colaborativa, via internet, por uma \ncomunidade internacional de desenvolvedores independentes. São centenas de milhares de hackers, que negam \nsua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer \no significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e \nque gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte \naberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade. \nNos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu, \nsendo quase impossível decifrar a programação.\nO que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão \ne não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma \ne uma comunidade de usuários com milhões de membros no mundo.\nBRANCO, M. Software livre e desenvolvimento social e económico. In: CASTELLS, M.; CARDOSO, G. (Org). \nA sociedade em rede: do conhecimento à acção política. Lisboa: Imprensa Nacional, 2005 (adaptado).\nA criação de softwares livres contribui para a produção do conhecimento na sociedade porque\nA\t democratiza o acesso a produtos construídos coletivamente.\nB\t complexifica os sistemas operacionais disponíveis no mercado.\nC\t qualifica um maior número de pessoas para o uso de tecnologias.\nD\t possibilita a coleta de dados confidenciais para seus desenvolvedores.\nE\t insere profissionalmente os hackers na área de inovação tecnológica.",
+  "processado_em": "2026-05-11T23:27:21.110012",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

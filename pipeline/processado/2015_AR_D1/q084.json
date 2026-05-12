@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 84\t\nO aproveitamento de resíduos florestais vem se \ntornando cada dia mais atrativo, pois eles são uma fonte \nrenovável de energia. A figura representa a queima de \num bio-óleo extraído do resíduo de madeira, sendo ∆H1 \na variação de entalpia devido à queima de 1 g desse \nbio-óleo, resultando em gás carbônico e água líquida, e \n∆H2 a variação de entalpia envolvida na conversão de 1 g \nde água no estado gasoso para o estado líquido.\nEnergia\nBio-óleo + O  (g)\nCO  (g)\nCO  (g)\nH O (g)\nH O ( )ℓ\nH  =   18,8 kJ/g\nH  =   2,4 kJ/g\n2\n2\n2\n2\n2\n1\n2\n+\n+\nA variação de entalpia, em kJ, para a queima de 5 g desse \nbio-óleo resultando em CO2 (gasoso) e H2O (gasoso) é:\nA\t −106.\nB\t −94,0.\nC\t −82,0.\nD\t −21,2.\nE\t −16,4.",
+  "processado_em": "2026-05-08T14:00:48.723756",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

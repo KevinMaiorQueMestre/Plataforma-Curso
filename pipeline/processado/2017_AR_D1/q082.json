@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\n \nO instituto popular, de acordo com o exame da \nrazão, fez da figura do alferes Xavier o principal dos \ninconfidentes, e colocou os seus parceiros a meia ração de \nglória. Merecem, decerto, a nossa estima aqueles outros; \neram patriotas. Mas o que se ofereceu a carregar com os \npecadores de Israel, o que chorou de alegria quando viu \ncomutada a pena de morte dos seus companheiros, pena \nque só ia ser executada nele, o enforcado, o esquartejado, \no decapitado, esse tem de receber o prêmio na proporção \ndo martírio, e ganhar por todos, visto que pagou por todos.\nASSIS, M. Gazeta de Notícias, n. 114, 24 abr. 1892.\nNo processo de transição para a República, a narrativa \nmachadiana sobre a Inconfidência Mineira associa \nA\t \tredenção cristã e cultura cívica.\nB\t \tveneração aos santos e radicalismo militar. \nC\t \tapologia aos protestantes e culto ufanista.\nD\t \ttradição messiânica e tendência regionalista.\nE\t \trepresentação eclesiástica e dogmatismo ideológico.",
+  "processado_em": "2026-05-11T23:25:43.106298",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

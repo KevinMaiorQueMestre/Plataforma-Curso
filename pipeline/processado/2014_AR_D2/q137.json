@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\t\nUma empresa que organiza eventos de formatura \nconfecciona canudos de diplomas a partir de folhas de papel \nquadradas. Para que todos os canudos fiquem idênticos, \ncada folha é enrolada em torno de um cilindro de madeira \nde diâmetro d em centímetros, sem folga, dando-se 5 voltas \ncompletas em torno de tal cilindro. Ao final, amarra-se um \ncordão no meio do diploma, bem ajustado, para que não \nocorra o desenrolamento, como ilustrado na figura.\nEm seguida, retira-se o cilindro de madeira do meio \ndo papel enrolado, finalizando a confecção do diploma. \nConsidere que a espessura da folha de papel original seja \ndesprezível.\nQual é a medida, em centímetros, do lado da folha de \npapel usado na confecção do diploma?\nA\t  p d\nB\t  2 p d \nC\t  4 p d\nD\t  5 p d\nE\t  10 p d",
+  "processado_em": "2026-05-08T14:00:38.604247",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 25\t\nCom o enredo que homenageou o centenário do \nRei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi \ncoroada no Carnaval 2012.\nA penúltima escola a entrar na Sapucaí, na segunda \nnoite de desfiles, mergulhou no universo do cantor e \ncompositor brasileiro e trouxe a cultura nordestina com \ncriatividade para a Avenida, com o enredo O dia em que \ntoda a realeza desembarcou na Avenida para coroar o \nRei Luiz do Sertão.\nDisponível em: www.cultura.rj.gov.br. \nAcesso em: 15 maio 2012 (adaptado).\nA notícia relata um evento cultural que marca a\nA\t primazia do samba sobre a música nordestina.\nB\t inter-relação entre dois gêneros musicais brasileiros.\nC\t valorização das origens oligárquicas da cultura \nnordestina.\nD\t proposta de resgate de antigos gêneros musicais \nbrasileiros.\nE\t criatividade em compor um samba-enredo em \nhomenagem a uma pessoa.",
+  "processado_em": "2026-05-11T23:27:22.354756",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

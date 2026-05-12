@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 90 \nUm país que vive a cultura latina, e cujos cidadãos aprenderam \na história “como se tivesse sido estabelecida exclusivamente de \nleste a oeste”. “Mas nada teria sido possível sem fios fortes que \ncruzassem perpendicularmente de baixo para cima. A história \ndos Estados Unidos são esses fios: um eixo norte-sul em torno \ndo qual se formou o país, que se cruza com o eixo leste-oeste. \nDar essa visibilidade é como inclinar o mapa para um lado e ver \nos Estados Unidos de um ponto de vista incomum”.\nLAFUENTE, J. EUA, um país latino-americano. Disponível em: \nhttps://brasil.elpais.com. Acesso em: 11 nov. 2021 (adaptado).\nO texto apresenta uma inovação na produção da memória \nestadunidense ao reconhecer sua\nA herança artística.\nB tradição econômica.\nC influência hispânica.\nD diversidade anglo-saxã.\nE configuração geomorfológica.",
+  "processado_em": "2026-05-08T14:06:31.120201",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

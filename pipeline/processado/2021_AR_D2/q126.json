@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 126\nNa montagem de uma cozinha para um restaurante, a \nescolha do material correto para as panelas é importante, \npois a panela que conduz mais calor é capaz de cozinhar \nos alimentos mais rapidamente e, com isso, há economia \n\u000f\n\u0002 J?\t(\u0002 \u0012\u0002 \r\b@\b\u0002 \u000f\n\u0002 \u001e\u0004\u0005\u000f\f'\u001d\u0004\u0002 \u000f\u0004\u0002 \u001e\b2\u0004\u0007\u0002 \u000f\n%\n\u0005\u000f\n\u0002 \u000f\b\u0002\ncondutividade k do material, de sua área A, da diferença \nde temperatura \nT e da espessura d do material, sendo \n\u000f\b\u000f\b\u0002%\n2\b\u0002\u0007\n2\b'\u001d\u0004\u0002 \u0004Q\n\u0004t \u0005 k A \u0004T\nd . Em panelas com dois \n\u0010\b\r\n\u0007\u000e\b\u000e\t$\u0002\b\u0002\r\b@\b\u0002\u000f\n\u0002\u001e\u0004\u0005\u000f\f'\u001d\u0004\u0002Z\u0002\u000f\b\u000f\b\u0002%\u0004\u0007\u0002\u0004Q\n\u0004t \u0005 A\n\u0004T\nd{\nk{ \u0006 d~\nk~\n, \nem que d1 e d2\u0002 \t\u001d\u0004\u0002 \b\t\u0002 \n\t%\n\t\t\f\u0007\b\t\u0002 \u000f\u0004\t\u0002 \u000f\u0004\u000e\t\u0002 \u0010\b\r\n\u0007\u000e\b\u000e\t$\u0002 \ne k1 e k2\u0002 \t\u001d\u0004\u0002 \b\t\u0002 \u001e\u0004\u0005\u000f\f\r\u000e#\u000e\u000f\b\u000f\n\t\u0002 \u000f\n\u0002 \u001e\b\u000f\b\u0002 \u0010\b\r\n\u0007\u000e\b2(\u0002 \n\u0017\t\u0002\u0010\b\r\n\u0007\u000e\b\u000e\t\u0002\u0010\b\u000e\t\u0002\u001e\u0004\u0010\f\u0005\t\u0002\u0005\u0004\u0002\u0010\n\u0007\u001e\b\u000f\u0004\u0002%\b\u0007\b\u0002%\b\u0005\n2\b\t\u0002\t\u001d\u0004\u0002\no alumínio (k \u0003\u0002~}\u0002w]\u0010\u0002©k$\u0002\u0004\u0002P\n\u0007\u0007\u0004\u0002_k \u0003\u0002³\u0002w]\u0010\u0002©k\u0002\n\u0002\u0004\u0002\b'\u0004\u0002 \n(k \u0003\u0002&\u0002w]\u0010\u0002©k\u0002\u001e\u0004\u0010!\u000e\u0005\b\u000f\u0004\u0002\u001e\u0004\u0010\u0002\u0004\u0002\u001e\u0004!\u0007\n\u0002_k \u0003\u0002}\u0002w]\u0010\u0002©k(\n\u0003\u0004\u0010%\b\u0007\b/\t\n\u0002\f\u0010\b\u0002%\b\u0005\n2\b\u0002\u000f\n\u0002P\n\u0007\u0007\u0004$\u0002\f\u0010\b\u0002\u000f\n\u0002\b2\f\u0010G\u0005\u000e\u0004\u0002 \ne uma composta de {\n~\n da espessura em cobre e {\n~\n da \nespessura em aço, todas com a mesma espessura total e \ncom a mesma área de fundo.\n\u0012\u0002 \u0004\u0007\u000f\n\u0010\u0002 \u001e\u0007\n\t\u001e\n\u0005\r\n\u0002 \u000f\b\u0002 \u0010\b\u000e\t\u0002 \n\u001e\u0004\u0005Y\u0010\u000e\u001e\b\u0002 %\b\u0007\b\u0002 \b\u0002 \u0010\n\u0005\u0004\t\u0002\n\n\u001e\u0004\u0005Y\u0010\u000e\u001e\b\u0002Z\nA \u001e\u0004!\u0007\n/\b'\u0004$\u0002\b2\f\u0010G\u0005\u000e\u0004\u0002\n\u0002P\n\u0007\u0007\u0004(\nB \b2\f\u0010G\u0005\u000e\u0004$\u0002\u001e\u0004!\u0007\n/\b'\u0004\u0002\n\u0002P\n\u0007\u0007\u0004(\nC \u001e\u0004!\u0007\n/\b'\u0004$\u0002P\n\u0007\u0007\u0004\u0002\n\u0002\b2\f\u0010G\u0005\u000e\u0004(\nD \b2\f\u0010G\u0005\u000e\u0004$\u0002P\n\u0007\u0007\u0004\u0002\n\u0002\u001e\u0004!\u0007\n/\b'\u0004(\nE P\n\u0007\u0007\u0004$\u0002\b2\f\u0010G\u0005\u000e\u0004\u0002\n\u0002\u001e\u0004!\u0007\n/\b'\u0004(",
+  "processado_em": "2026-05-08T14:04:30.001834",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\t\nUma notícia traz esperança a pessoas com certos \ntipos sanguíneos. Pesquisadores europeus conseguiram \ninjetar, com sucesso, glóbulos vermelhos originados a \npartir de células-tronco em uma pessoa.\nFolha de S. Paulo, 3 set. 2011 (adaptado).\nEsse avanço na medicina foi importante porque permitirá\nA\t\nA\t a substituição de tratamentos convencionais para \nestancar hemorragias internas.\nB\t\nB\t a produção de glóbulos vermelhos in vitro do próprio \nindivíduo, evitando transfusões sanguíneas.\nC\t\nC\t a realização da transfusão de sangue entre doador e \nreceptor com menor risco de incompatibilidade.\nD\t\nD\t a substituição dos glóbulos vermelhos pelas \ncélulas-tronco na corrente sanguínea, aumentando \no número dessas células.\nE\t\nE\t a realização de tratamentos de doenças do sangue ou \naté mesmo a não manifestação de algumas doenças, \nreduzindo o número de mortes.",
+  "processado_em": "2026-05-08T14:05:25.314592",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

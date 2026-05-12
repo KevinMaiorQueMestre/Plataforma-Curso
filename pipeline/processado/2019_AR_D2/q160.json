@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 160\t\nDurante suas férias, oito amigos, dos quais dois são \ncanhotos, decidem realizar um torneio de vôlei de praia. \nEles precisam formar quatro duplas para a realização \ndo torneio. Nenhuma dupla pode ser formada por dois \njogadores canhotos.\nDe quantas maneiras diferentes podem ser formadas \nessas quatro duplas?\nA\t 69\nB\t 70\nC\t 90\nD\t 104\nE\t 105",
+  "processado_em": "2026-05-11T23:27:37.197652",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

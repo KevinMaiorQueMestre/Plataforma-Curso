@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t aumento da incidência de luz solar.\nB \t diminuição da absorção de água.\nC \t estabilização da umidade.\nD \t elevação de temperatura.\nE \t liberação de oxigênio.\nQuestão 101        \nMesmo para peixes de aquário, como o peixe \narco-íris, a temperatura da água fora da faixa ideal \n(26 °C a 28 °C), bem como sua variação brusca, pode \nafetar a saúde do animal. Para manter a temperatura \nda água dentro do aquário na média desejada, utilizam-\nse dispositivos de aquecimento com termostato. Por \nexemplo, para um aquário de 50 L, pode-se utilizar um \nsistema de aquecimento de 50 W otimizado para suprir \nsua taxa de resfriamento. Essa taxa pode ser considerada \npraticamente constante, já que a temperatura externa ao \naquário é mantida pelas estufas. Utilize para a água o \ncalor específico 4,0 kJ kg−1 K−1 e a densidade 1 kg L−1.",
+  "processado_em": "2026-05-11T23:28:13.290108",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

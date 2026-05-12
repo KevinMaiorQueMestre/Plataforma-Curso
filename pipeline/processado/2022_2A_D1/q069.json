@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 69\t\nO equilíbrio ecológico e social do caipira se \nestabeleceu em função do que poderíamos qualificar \nde condições primitivas do meio: terra virgem de fácil \namanho, abundância da caça, pesca e coleta, fraca \ndensidade demográfica, limitando a concorrência vital. \nQuando, apesar disto, um determinado meio se exauria \n(relativamente aos seus precários recursos técnicos, \né claro, não em absoluto), ele corrigia a situação pela \nmobilidade. A mobilidade recria o meio, permitindo as \ncondições desejadas; e deste modo garante o equilíbrio.\nCANDIDO, A. Os parceiros do Rio Bonito. São Paulo: Duas Cidades, 1971.\nA construção do sujeito histórico mencionado pelo autor \nproblematiza a relação entre\nA\t\nA\t agricultura familiar e dinamização do mercado local.\nB\t\nB\t comunidades autônomas e garantia de direitos sociais.\nC\t\nC\t cultivos itinerantes e disponibilidade de riquezas \nnaturais.\nD\t\nD\t cercamento de latifúndios e proletarização de setores \ncamponeses. \nE\t\nE\t condições de competitividade e ampliação da \nagroindústria moderna.",
+  "processado_em": "2026-05-08T14:04:42.094538",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

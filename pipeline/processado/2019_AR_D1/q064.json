@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 64\t\nA lenda diz que, em um belo dia ensolarado, \nNewton estava relaxando sob uma macieira. Pássaros \ngorjeavam em suas orelhas. Havia uma brisa gentil. \nEle \ncochilou \npor \nalguns \nminutos. \nDe \nrepente, \numa maçã caiu sobre a sua cabeça e ele acordou com \num susto. Olhou para cima. “Com certeza um pássaro \nou um esquilo derrubou a maçã da árvore”, supôs. Mas \nnão havia pássaros ou esquilos na árvore por perto. \nEle, então, pensou: “Apenas alguns minutos antes, \na maçã estava pendurada na árvore. Nenhuma força \nexterna fez ela cair. Deve haver alguma força subjacente \nque causa a queda das coisas para a terra”.\nSILVA, C. C.; MARTINS, R. A. Estudos de história e filosofia das ciências. \nSão Paulo: Livraria da Física, 2006 (adaptado).\nEm contraponto a uma interpretação idealizada, o \ntexto aponta para a seguinte dimensão fundamental da \nciência moderna:\nA\t Falsificação de teses.\nB\t Negação da observação.\nC\t Proposição de hipóteses.\nD\t Contemplação da natureza.\nE\t Universalização de conclusões.",
+  "processado_em": "2026-05-11T23:27:25.792681",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

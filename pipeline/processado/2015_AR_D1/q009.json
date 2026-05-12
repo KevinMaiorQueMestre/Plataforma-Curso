@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nVoz do sangue \nPalpitam-me \nos sons do batuque \ne os ritmos melancólicos do blue.\nÓ negro esfarrapado \ndo Harlem \nó dançarino de Chicago\nó negro servidor do South\nÓ negro da África\nnegros de todo o mundo\nEu junto \nao vosso magnífico canto\na minha pobre voz\nos meus humildes ritmos.\nEu vos acompanho\npelas emaranhadas áfricas \ndo nosso Rumo. \nEu vos sinto\nnegros de todo o mundo\neu vivo a nossa história\nmeus irmãos.\nDisponível em: www.agostinhoneto.org. Acesso em: 30 jun. 2015.\nNesse poema, o líder angolano Agostinho Neto, na \ndécada de 1940, evoca o pan-africanismo com o \nobjetivo de\nA\t incitar a luta por políticas de ações afirmativas na \nAmérica e na África.\nB\t reconhecer as desigualdades sociais entre os negros \nde Angola e dos Estados Unidos.\nC\t descrever o quadro de pobreza após os processos de \nindependência no continente africano.\nD\t solicitar o engajamento dos negros estadunidenses \nna luta armada pela independência em Angola.\nE\t conclamar as populações negras de diferentes países \na apoiar as lutas por igualdade e independência.",
+  "processado_em": "2026-05-08T14:00:42.694757",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

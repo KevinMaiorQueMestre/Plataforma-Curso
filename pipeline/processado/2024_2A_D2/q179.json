@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nUma incorporadora põe à venda diversos apartamentos \nde 2 e de 3 quartos. Os de 2 quartos têm varanda e custam \nR$ 220 000,00. Alguns apartamentos de 3 quartos não têm \nvaranda e custam R$ 300 000,00. Se tiverem varanda, \no preço será 15% maior. A previsão do mercado é de \nque imóveis de 2 quartos possam ser revendidos daqui \na 12 meses por 5% a mais que o preço pelo qual foram \ncomprados, enquanto apartamentos de 3 quartos poderão \nser revendidos daqui a 12 meses por 4% a mais do que o \nvalor pago, independentemente de terem varanda.\nUma agência imobiliária tem R$ 1 000 000,00 para \ninvestir e decidiu comprar alguns desses apartamentos. \nA intenção é revendê-los daqui a 12 meses com o maior lucro \npossível. As possibilidades de compra foram analisadas e, \nlevando em conta o valor a investir e a previsão do mercado, \numa decisão sobre a compra foi tomada",
+  "processado_em": "2026-05-08T14:06:06.194928",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

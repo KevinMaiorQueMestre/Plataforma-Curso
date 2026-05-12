@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 114          \nO peróxido de hidrogênio é um produto secundário do \nmetabolismo celular e apresenta algumas funções úteis, \nmas, quando em excesso, é prejudicial, gerando radicais \nque são tóxicos para as células. Para se defender, o \norganismo vivo utiliza a enzima catalase, que decompõe \nH2O2 em H2O e O2. A energia de reação de decomposição, \nquando na presença e ausência da catalase, está \nmostrada no gráfico.\nH2O2\nProgresso da reação\nReação sem catalase\nReação com catalase\nEnergia potencial\nH2O + ¹/2 O2\nDisponível em: www.pontociencia.org.br.  Acesso em: 14 ago. 2013 (adaptado).\nNa situação descrita, o organismo utiliza a catalase \nporque ela\nA \t diminui a energia de ativação.\nB \t permite maior rendimento da reação.\nC \t diminui o valor da entalpia da reação.\nD \t consome rapidamente o oxigênio do reagente.\nE \t reage rapidamente com o peróxido de hidrogênio.",
+  "processado_em": "2026-05-08T14:03:36.842743",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

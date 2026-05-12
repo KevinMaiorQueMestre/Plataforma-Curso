@@ -1,0 +1,28 @@
+{
+  "questao_id": "2012_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 01\t\nCharge anônima. BURKE, P. A fabricação do rei. Rio de Janeiro: Zahar, 1994.\nNa França, o rei Luís XIV teve sua imagem fabricada por \num conjunto de estratégias que visavam sedimentar uma \ndeterminada noção de soberania. Neste sentido, a charge \napresentada demonstra\nA\t a humanidade do rei, pois retrata um homem comum, \nsem os adornos próprios à vestimenta real.\nB\t a unidade entre o público e o privado, pois a figura do \nrei com a vestimenta real representa o público e sem \na vestimenta real, o privado.\nC\t o vínculo entre monarquia e povo, pois leva \nao conhecimento do público a figura de um rei \ndespretensioso e distante do poder político.\nD\t o gosto estético refinado do rei, pois evidencia a \nelegância dos trajes reais em relação aos de outros \nmembros da corte.\nE\t a importância da vestimenta para a constituição \nsimbólica do rei, pois o corpo político adornado",
+  "processado_em": "2026-05-11T23:37:35.298765",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

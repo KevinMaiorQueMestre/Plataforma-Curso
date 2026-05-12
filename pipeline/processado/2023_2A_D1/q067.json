@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nÉ fundamental que se reconheça que as Tecnologias \nda Informação e Comunicação (TICs) no meio rural \npotencializam a comunicação e facilitam as trocas de \nexperiências, sobretudo entre os jovens, que veem nela a \npossibilidade de sair para além de seus espaços geográfico \ne social, podendo fazer-se pertencer a diferentes redes, \nonde a organização pode emergir como resultado de \num processo de partilha de interesses e sentimentos \nde pertencimento.\nREDIN, E. et al. Juventude rural e novas formas [...]. Disponível em: \nwww.revistas.usp.br. Acesso em: 6 out. 2021 (adaptado).\nO aspecto mencionado no texto, favorecido pela difusão \ndas TICs no espaço rural, é o(a)\nA\t\nA\t ampliação de sociabilidade.\nB\t\nB\t redistribuição da terra.\nC\t\nC\t direito do trabalhador.\nD\t\nD\t alteração da paisagem.\nE\t\nE\t deslocamento da população.",
+  "processado_em": "2026-05-08T14:05:20.373611",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

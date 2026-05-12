@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nNasce daqui uma questão: se vale mais ser amado \nque temido ou temido que amado. Responde-se que \nambas as coisas seriam de desejar; mas porque é \ndifícil juntá-las, é muito mais seguro ser temido que \namado, quando haja de faltar uma das duas. Porque \ndos homens se pode dizer, duma maneira geral, que \nsão ingratos, volúveis, simuladores, covardes e ávidos \nde lucro, e enquanto lhes fazes bem são inteiramente \nteus, oferecem-te o sangue, os bens, a vida e os filhos, \nquando, como acima disse, o perigo está longe; mas \nquando ele chega, revoltam-se.\nMAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.\nA partir da análise histórica do comportamento humano \nem suas relações sociais e políticas, Maquiavel define o \nhomem como um ser\nA\t munido de virtude, com disposição nata a praticar \no bem a si e aos outros.\nB\t possuidor de fortuna, valendo-se de riquezas \npara alcançar êxito na política.\nC\t guiado por interesses, de modo que suas ações \nsão imprevisíveis e inconstantes.\nD\t naturalmente racional, vivendo em um estado \npré-social e portando seus direitos naturais.\nE\t sociável \npor \nnatureza, \nmantendo \nrelações \npacíficas com seus pares.",
+  "processado_em": "2026-05-08T14:00:09.079947",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

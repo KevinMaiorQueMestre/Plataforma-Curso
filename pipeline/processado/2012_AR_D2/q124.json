@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 124\t\nCapa do LP Os Mutantes, 1968.\nDisponível em: http://mutantes.com. Acesso em: 28 fev. 2012.\nA capa do LP Os Mutantes, de 1968, ilustra o movimento \nda contracultura. O desafio à tradição nessa criação \nmusical é caracterizado por\nA\t letras e melodias com características amargas \ne depressivas.\nB\t arranjos baseados em ritmos e melodias nordestinos.\nC\t sonoridades \nexperimentais \ne \nconfluência \nde \nelementos populares e eruditos.\nD\t temas que refletem situações domésticas ligadas à \ntradição popular.\nE\t ritmos contidos e reservados em oposição aos \nmodelos estrangeiros",
+  "processado_em": "2026-05-08T13:59:37.604113",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

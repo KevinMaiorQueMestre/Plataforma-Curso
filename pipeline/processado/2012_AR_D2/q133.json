@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 133\t\nDisponível em: www.assine.abril.com.br. Acesso em: 29 fev. 2012 (adaptado).\nCom o advento da internet, as versões de revistas e livros \ntambém se adaptaram às novas tecnologias. A análise \ndo texto publicitário apresentado revela que o surgimento \ndas novas tecnologias\nA\t proporcionou mudanças no paradigma de consumo e \noferta de revistas e livros.\nB\t incentivou a desvalorização das revistas e livros \nimpressos.\nC\t viabilizou a aquisição de novos equipamentos digitais.\nD\t aqueceu o mercado de venda de computadores.\nE diminuiu os incentivos à compra de eletrônicos",
+  "processado_em": "2026-05-08T13:59:42.126389",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nA valsa vienense é a mais antiga das danças de salão \ntradicional. É dançada desde a Idade Média, quando \nos pares davam voltas pelo salão realizando giros em \ntorno de si mesmos em postura fechada. Pelo fato de ser \ndançada aos pares em contato íntimo, a valsa encantava \na sociedade medieval, como também sofria proibições \npor infringir os “bons costumes”. Originária das danças \ncampestres e folclóricas, no século XVI, a aristocracia \nfrancesa abandonou a valsa por sua estreita relação com \na cultura plebeia, retomando-a posteriormente.\nFRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico: \n aproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado).\nA expressão cultural descrita no texto foi rejeitada no início \nda Idade Moderna por congregar\nA\ttraços advindos da feitiçaria nórdica.\nB\tpráticas inspiradas em rituais pagãos.\nC\tregras decorrentes do período renascentista.\nD\tcompassos produzidos em territórios colonizados.\nE\telementos provenientes de segmentos populares.",
+  "processado_em": "2026-05-08T14:06:11.955974",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

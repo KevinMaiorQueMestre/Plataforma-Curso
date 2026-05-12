@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\t\nA\t radiação.\nB\t\nB\t condução.\nC\t\nC\t campo elétrico variável.\nD\t\nD\t campo magnético variável.\nE\t\nE\t ressonância eletromagnética.\nQUESTÃO 102\t\nUma academia decide trocar gradualmente seus \naparelhos de musculação. Agora, os frequentadores \nque utilizam os aparelhos do tipo 1 podem também \nutilizar os aparelhos do tipo 2, representados na figura, \npara elevar cargas correspondentes às massas M1 e M2, \ncom velocidade constante. A fim de que o exercício seja \nrealizado com a mesma força F, os usuários devem ser \norientados a respeito da relação entre as cargas nos dois \ntipos de aparelhos, já que as polias fixas apenas mudam a \ndireção das forças, enquanto a polia móvel divide as forças.\nEm ambos os aparelhos, considere as cordas \ninextensíveis, as massas das polias e das cordas desprezíveis \ne que não há dissipação de energia.\nF\nF\nM1\nM2\nAparelho do tipo 2\nAparelho do tipo 1\nPara essa academia, qual deve ser a razão M\nM\n2\n1\n informada \naos usuários?\nA\t\nA\t 1\n4\nB\t\nB\t 1\n2\nC\t\nC\t 1\nD\t\nD\t 2\nE\t\nE\t 4",
+  "processado_em": "2026-05-08T14:05:43.218003",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

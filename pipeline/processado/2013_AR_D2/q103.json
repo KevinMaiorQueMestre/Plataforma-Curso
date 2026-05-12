@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 103\t\nO jogo é uma atividade ou ocupação voluntária, \nexercida dentro de certos e determinados limites de tempo \ne de espaço, segundo regras livremente consentidas, mas \nabsolutamente obrigatórias, dotado de um fim em si mesmo, \nacompanhado de um sentimento de tensão e de alegria e \nde uma consciência de ser diferente da “vida quotidiana”.\nHUIZINGA, J. Homo ludens: o jogo como elemento da cultura. São Paulo: Perspectiva, 2004.\nSegundo o texto, o jogo comporta a possibilidade de \nfruição. Do ponto de vista das práticas corporais, essa \nfruição se estabelece por meio do(a)\nA\t fixação de táticas, que define a padronização para \nmaior alcance popular.\nB\t competitividade, que impulsiona o interesse pelo sucesso.\nC\t refinamento técnico, que gera resultados satisfatórios.\nD\t caráter lúdico, que permite experiências inusitadas.\nE\t uso tecnológico, que amplia as opções de lazer.",
+  "processado_em": "2026-05-08T14:00:20.227066",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

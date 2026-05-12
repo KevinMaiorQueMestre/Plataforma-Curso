@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nA figura apresenta o esquema do encanamento de uma casa onde se detectou a presença de vazamento de \nágua em um dos registros. Ao estudar o problema, o morador concluiu que o vazamento está ocorrendo no registro \nsubmetido à maior pressão hidrostática.\nIV\nI\nIII\nII\nV\nRegistro\nCaixa-d’água\nEm qual registro ocorria o vazamento?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-11T23:26:22.062098",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

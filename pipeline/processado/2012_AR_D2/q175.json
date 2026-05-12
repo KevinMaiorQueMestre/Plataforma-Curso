@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nO gráfico apresenta o comportamento de emprego \nformal surgido, segundo o Caged, no período de janeiro \nde 2010 a outubro de 2010.\nMAIO\nDisponível em: www.mte.gov.br. Acesso em: 28 fev. 2012 (adaptado).\nCom base no gráfico, o valor da parte inteira da mediana \ndos empregos formais surgidos no período é",
+  "processado_em": "2026-05-08T13:59:15.777106",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nUma proposta de dispositivo capaz de indicar a qualid\nevitar fraudes, poderia utilizar o conceito de refração luminos\nambiente, apresenta razão entre os senos dos raios incide\nfeixe de luz proveniente do ar com um ângulo fixo e maior q\nindicará adulteração no combustível.\nEm uma fiscalização rotineira, o teste apresentou o valor d\nA\t Mudou de sentido.\nB\t Sofreu reflexão total.\nC\t Atingiu o valor do ângulo limite.\nD\t Direcionou-se para a superfície de separação.\nE\t Aproximou-se da normal à superfície de separação.",
+  "processado_em": "2026-05-08T14:00:31.118318",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

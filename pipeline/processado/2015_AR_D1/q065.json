@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 65\t\nUma garrafa térmica tem como função evitar a \ntroca de calor entre o líquido nela contido e o ambiente, \nmantendo a temperatura de seu conteúdo constante. \nUma forma de orientar os consumidores na compra de \numa garrafa térmica seria criar um selo de qualidade, \ncomo se faz atualmente para informar o consumo de \nenergia de eletrodomésticos. O selo identificaria cinco \ncategorias e informaria a variação de temperatura do \nconteúdo da garrafa, depois de decorridas seis horas de \nseu fechamento, por meio de uma porcentagem do valor \ninicial da temperatura de equilíbrio do líquido na garrafa. \nO quadro apresenta as categorias e os intervalos de \nvariação percentual da temperatura.\nTipo de selo\nVariação de temperatura\nA\nmenor que 10%\nB\n entre 10% e 25%\nC\nentre 25% e 40%\nD\nentre 40% e 55%\nE\nmaior que 55%\nPara atribuir uma categoria a um modelo de garrafa \ntérmica, são preparadas e misturadas, em uma garrafa, \nduas amostras de água, uma a 10 °C e outra a 40 °C, \nna proporção de um terço de água fria para dois terços \nde água quente. A garrafa é fechada. Seis horas depois, \nabre-se a garrafa e mede-se a temperatura da água, \nobtendo-se 16 °C.\nQual selo deveria ser posto na garrafa térmica testada? \nA\t A\nB\t B\nC\t C\nD\t D\nE\t E",
+  "processado_em": "2026-05-08T14:00:47.844500",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 59\t\nPlantas terrestres que ainda estão em fase de \ncrescimento fixam grandes quantidades de CO2, \nutilizando-o para formar novas moléculas orgânicas, \ne liberam grande quantidade de O2. No entanto, \nem florestas maduras, cujas árvores já atingiram o \nequilíbrio, o consumo de O2 pela respiração tende a \nigualar sua produção pela fotossíntese. A morte natural \nde árvores nessas florestas afeta temporariamente a \nconcentração de O2 e de CO2 próximo à superfície do \nsolo onde elas caíram.\nA concentração de O2 próximo ao solo, no local da \nqueda, será\nA\t menor, pois haverá consumo de O2 durante a \ndecomposição dessas árvores.\nB\t maior, pois haverá economia de O2 pela ausência das \nárvores mortas.\nC\t maior, pois haverá liberação de O2 durante a \nfotossíntese das árvores jovens.\nD\t igual, pois haverá consumo e produção de O2 pelas \nárvores maduras restantes.\nE\t menor, pois haverá redução de O2 pela falta da \nfotossíntese realizada pelas árvores mortas.",
+  "processado_em": "2026-05-08T14:00:13.119706",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

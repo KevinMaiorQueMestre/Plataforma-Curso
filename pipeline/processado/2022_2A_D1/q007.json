@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 07\t\nTEXTO I\nO homem atual está sacrificando conhecimentos \nprofundos de qualidade em prol de informações cada \nvez mais reduzidas, o que dá uma imagem incompleta \ndo mundo em que cremos viver. Por isso as numerosas \nnotícias de hoje serão esquecidas amanhã, uma vez que \nserão substituídas por outras numerosas notícias. Quanto \nmais informações tem uma sociedade, um acúmulo \nexcessivo, menos memória guardamos, o que diminui \nsua profundidade histórica, e, por conseguinte, também \na capacidade que se tem para conduzi-la com as nossas \npróprias mãos.\nDisponível em: www.revistaesfinge.com.br. Acesso em: 13 out. 2021 (adaptado).\nTEXTO II\nEsc (Caverna digital)\nO que Maria vê\nSeu João não vê\nDentro de cada universo\nCada um enxerga e sente\nCom seu cada qual\nO que Francisco diz\nBia num entendeu\nJá tinha visto tanta coisa\nQue na sua cabeça tudo logo se perdeu\nMe faz lembrar onde estamos",
+  "processado_em": "2026-05-08T14:04:36.534202",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

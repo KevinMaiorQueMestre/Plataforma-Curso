@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q016",
+  "imagem": "q016.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 16,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 16\t\nQueijo de Minas vira patr\nO modo artesanal da fabricação do queijo em Minas G\ncultural imaterial brasileiro pelo Conselho Consultivo do In\nO veredicto foi dado em reunião do conselho realizada no \ndo Iphan e do conselho ressaltou que a técnica de fabrica\nser mineiro”.\nEntre os bens que compõem o patrimônio nacional, o\nrepresentado em:\nA\nMosteiro de São Bento (RJ)\nB\nTiradentes esquartejado (1893), de Pedro Américo\nC\nOfício das paneleiras de Goiabeiras (ES)",
+  "processado_em": "2026-05-08T14:00:27.823997",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

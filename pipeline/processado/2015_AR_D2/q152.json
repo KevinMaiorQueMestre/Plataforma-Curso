@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nUm casal realiza um financiamento imobiliário de \nR$ 180 000,00, a ser pago em 360 prestações mensais, \ncom taxa de juros efetiva de 1% ao mês. A primeira \nprestação é paga um mês após a liberação dos recursos \ne o valor da prestação mensal é de R$ 500,00 mais juro \nde 1% sobre o saldo devedor (valor devido antes do \npagamento). Observe que, a cada pagamento, o saldo \ndevedor se reduz em R$ 500,00 e considere que não há \nprestação em atraso.\nEfetuando o pagamento dessa forma, o valor, em reais, a \nser pago ao banco na décima prestação é de\nA\t 2 075,00.\nB\t 2 093,00.\nC\t 2 138,00.\nD\t 2 255,00.\nE 2 300 00",
+  "processado_em": "2026-05-08T14:00:57.304711",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

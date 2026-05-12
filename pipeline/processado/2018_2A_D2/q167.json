@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nUma senhora acaba de fazer uma ultrassonografia e \ndescobre que está grávida de quadrigêmeos.\nQual é a probabilidade de nascerem dois meninos e duas \nmeninas?\nA\n1\n16\nB\n3\n16\nC\n1\n4\nD\n3\n8\nE\n1\n2",
+  "processado_em": "2026-05-11T23:26:23.972266",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

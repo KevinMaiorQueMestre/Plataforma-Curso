@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87 \nFigura 1\n24º\n24º\n22º\n23º\n23º\n22º\n22º\n21º\n22º\n20º\n22º\n24º\n23º\n18º\n17º\n17º\n11º\n11º\n4º\n4º\n9º\n19º\n19º\n18º\nMínimas - Quinta-feira\nCPTEC/INPE\n28/08/2014\nDisponível em: http://img0.cptec.inpe.br. Acesso em: 25 ago. 2014 (adaptado).\nFigura 2\nUmidade relativa do ar, por região do país,\npara o dia 28/08/2014\nRegiões\nUmidade relativa\n(intervalo médio)\nNorte\n60 - 70%\nNordeste\n90 - 100%\nCentro-Oeste\n55 - 65%\nSudeste\n65 - 75%\nSul\n90 - 100%\nDisponível em: http://imagens.climatempo.com.br. Acesso em: 25 ago. 2014 (adaptado).\nNo dia em que foram colhidos os dados meteorológicos \napresentados, qual fator climático foi determinante para \nexplicar os índices de umidade relativa do ar nas regiões \nNordeste e Sul?\nA  Altitude, que forma barreiras naturais.\nB  Vegetação, que afeta a incidência solar.\nC  Massas de ar, que provocam precipitações.\nD  Correntes marítimas, que atuam na troca de calor.\nE  Continentalidade, \nque \ninfl uencia \nna \namplitude \nda temperatura.",
+  "processado_em": "2026-05-11T23:25:43.353789",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

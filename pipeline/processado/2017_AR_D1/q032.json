@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 32\t\nSegundo quadro\nUma sala da prefeitura. O ambiente é modesto. \nDurante a mutação, ouve-se um dobrado e vivas a \nOdorico, “viva o prefeito” etc. Estão em cena Dorotéa, \nJuju, Dirceu, Dulcinéa, o vigário e Odorico. Este último, à \njanela, discursa.\nODORICO — Povo sucupirano! Agoramente já \ninvestido no cargo de Prefeito, aqui estou para receber a \nconfirmação, a ratificação, a autenticação e por que não \ndizer a sagração do povo que me elegeu.",
+  "processado_em": "2026-05-11T23:25:37.825627",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

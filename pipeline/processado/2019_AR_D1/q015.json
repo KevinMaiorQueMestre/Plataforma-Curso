@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 15\t\nO Instituto de Arte de Chicago disponibilizou para \nvisualização on-line, compartilhamento ou download \n(sob licença Creative Commons), 44 mil imagens de \nobras de arte em altíssima resolução, além de livros, \nestudos e pesquisas sobre a história da arte.\nPara o historiador da arte, Bendor Grosvenor, o \nsucesso das coleções on-line de acesso aberto, além \nde democratizar a arte, vem ajudando a formar um novo \npúblico museológico. Grosvenor acredita que quanto \nmais pessoas forem expostas à arte on-line, mais visitas \npessoais acontecerão aos museus.\nA coleção está disponível em seis categorias: \npaisagens urbanas, impressionismo, essenciais, arte \nafricana, moda e animais. Também é possível pesquisar \npelo nome da obra, estilo, autor ou período. Para navegar",
+  "processado_em": "2026-05-11T23:27:20.549292",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

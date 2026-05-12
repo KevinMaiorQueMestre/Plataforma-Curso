@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nO uso de aplicativos de transporte tem sido uma \nalternativa à população que busca preços mais competitivos \npara se locomover, principalmente nas grandes cidades. \nAs formas usadas para determinar o valor cobrado por \ncada viagem variam de um aplicativo para outro, mas, em \ngeral, o valor V a ser pago, em real, varia em função de:\n•\t tarifa base F: valor fixo, em real, cobrado no início \nda viagem;\n•\t tempo T: tempo, em minuto, de duração da viagem;\n•\t distância D: distância percorrida, em quilômetro.\nUm desses aplicativos cobra R$ 2,00 de valor fixo, \nacrescido de R$ 0,26 por minuto de viagem e de R$ 1,40 \npor quilômetro rodado.\nNessas condições, a expressão que fornece o valor V a \nser pago por uma viagem desse aplicativo é\nA\t2,00F + 0,26T + 1,40D\nB\t2,00 + 0,26T + 1,40D\nC\t2,00 + 0,26T + D\nD\t0,26T + 1,40D\nE\tF + T + D",
+  "processado_em": "2026-05-08T14:06:20.507081",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 23\nQUESTÃO 154\t\nA distribuição de salários pagos em uma empresa \npode ser analisada destacando-se a parcela do total da \nmassa salarial que é paga aos 10% que recebem os \nmaiores salários. Isso pode ser representado na forma de \num gráfico formado por dois segmentos de reta, unidos \nem um ponto P, cuja abscissa tem valor igual a 90, como \nilustrado na figura.\nNo eixo horizontal do gráfico tem-se o percentual de \nfuncionários, ordenados de forma crescente pelos valores \nde seus salários, e no eixo vertical tem-se o percentual do \ntotal da massa salarial de todos os funcionários.\n100\nMassa salarial \nacumulada (%)\n50\n0\n90\n50\n100\nQuantidade de\nfuncionários (%)\nA\nB\nP\nO Índice de Gini, que mede o grau de concentração \nde renda de um determinado grupo, pode ser calculado \npela razão \nA \nA + B\n, em que A e B são as medidas das \náreas indicadas no gráfico.\nA empresa tem como meta tornar seu Índice de Gini \nigual ao do país, que é 0,3. Para tanto, precisa ajustar os \nsalários de modo a alterar o percentual que representa \na parcela recebida pelos 10% dos funcionários de maior \nsalário em relação ao total da massa salarial.\nDisponível em: www.ipea.gov.br. Acesso em: 4 maio 2016 (adaptado).\nPara atingir a meta desejada, o percentual deve ser\nA\t 40%\nB\t 20%\nC\t 60%\nD\t 30%\nE\t 70%",
+  "processado_em": "2026-05-08T14:01:22.530880",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

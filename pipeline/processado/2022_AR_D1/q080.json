@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nAdvento da Polis, nascimento da filosofia: entre as \nduas ordens de fenômenos, os vínculos são demasiado \nestreitos para que o pensamento racional não apareça, \nem suas origens, solidário das estruturas sociais e \nmentais próprias da cidade grega. Assim recolocada na \nhistória, a filosofia despoja-se desse caráter de revelação \nabsoluta que às vezes lhe foi atribuído, saudando, na \njovem ciência dos jônios, a razão intemporal que veio \nencarnar-se no Tempo. A escola de Mileto não viu \nnascer a Razão; ela construiu uma Razão, uma primeira \nforma de racionalidade. Essa razão grega não é a razão \nexperimental da ciência contemporânea.\nVERNANT, J. P. Origens do pensamento grego. Rio de Janeiro: Difel, 2002.\nOs vínculos entre os fenômenos indicados no trecho \nforam fortalecidos pelo surgimento de uma categoria de \npensadores, a saber:\nA\t\nA\t Os epicuristas, envolvidos com o ideal de vida feliz.\nB\t\nB\t Os estoicos, dedicados à superação dos infortúnios.\nC\t\nC\t Os sofistas, comprometidos com o ensino da \nretórica.\nD\t\nD\t Os peripatéticos, empenhados na dinâmica do \nensino.\nE\t\nE\t Os poetas rapsodos, responsáveis pela narrativa do \nmito.",
+  "processado_em": "2026-05-08T14:05:05.259983",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

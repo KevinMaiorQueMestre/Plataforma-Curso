@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 132\t\nQuando se considera a extrema velocidade com \nque a luz se espalha por todos os lados e que, quando \nvêm de diferentes lugares, mesmo totalmente opostos, \n[os raios luminosos] se atravessam uns aos outros sem \nse atrapalharem, compreende-se que, quando vemos \num objeto luminoso, isso não poderia ocorrer pelo \ntransporte de uma matéria que venha do objeto até nós, \ncomo uma flecha ou bala atravessa o ar; pois certamente \nisso repugna bastante a essas duas propriedades da \nluz, principalmente a última.\nHUYGENS, C. In: MARTINS, R. A. Tratado sobre a luz, de Cristian Huygens. \nCaderno de História e Filosofia da Ciência, supl. 4, 1986.\nO \ntexto \ncontesta \nque \nconcepção \nacerca \ndo \ncomportamento da luz?\nA\t O entendimento de que a luz precisa de um meio \nde propagação, difundido pelos defensores da \nexistência do éter.\nB\t O modelo ondulatório para a luz, o qual \nconsidera a possibilidade de interferência entre \nfeixes luminosos.\nC\t O modelo corpuscular defendido por Newton, \nque descreve a luz como um feixe de partículas.\nD\t A crença na velocidade infinita da luz, defendida \npela maioria dos filósofos gregos.\nE\t A ideia defendida pelos gregos de que a luz era \nproduzida pelos olhos.",
+  "processado_em": "2026-05-11T23:27:35.116048",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

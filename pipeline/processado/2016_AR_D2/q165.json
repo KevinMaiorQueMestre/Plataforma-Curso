@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nUma família resolveu comprar um imóvel num bairro \ncujas ruas estão representadas na figura. As ruas com \nnomes de letras são paralelas entre si e perpendiculares \nàs ruas identificadas com números. Todos os quarteirões \nsão quadrados, com as mesmas medidas, e todas as \nruas têm a mesma largura, permitindo caminhar somente \nnas direções vertical e horizontal. Desconsidere a largura \ndas ruas.\nRua A\nRua B\nRua C\nRua E\nRua D\nRua F\nRua 1\nRua 2\nRua 3\nRua 4\nRua 5\nRua 6\nA família pretende que esse imóvel tenha a mesma \ndistância de percurso até o local de trabalho da mãe, \nlocalizado na rua 6 com a rua E, o consultório do pai, \nna rua 2 com a rua E, e a escola das crianças, na rua 4 \ncom a rua A.\nCom base nesses dados, o imóvel que atende as \npretensões da família deverá ser localizado no encontro \ndas ruas\nA\t 3 e C.\nB\t 4 e C.\nC\t 4 e D.\nD\t 4 e E.\nE\t 5 e C.",
+  "processado_em": "2026-05-08T14:01:23.140734",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\nO hidrocarboneto representado pela estrutura \nquímica a seguir pode ser isolado a partir das folhas \nRX\u0003GDV\u0003ÀRUHV\u0003GH\u0003GHWHUPLQDGDV\u0003SODQWDV\u0011\u0003$OpP\u0003GLVVR\u000f\u0003VXD\u0003\nIXQomR\u0003p\u0003UHODFLRQDGD\u000f\u0003HQWUH\u0003RXWURV\u0003IDWRUHV\u000f\u0003D\u0003VHX\u0003SHU¿O\u0003\nde insaturações.\n&RQVLGHUDQGR\u0003HVVH\u0003SHU¿O\u0003HVSHFt¿FR\u000f\u0003TXDQWDV\u0003OLJDo}HV\u0003SL\u0003\nD\u0003PROpFXOD\u0003FRQWpP\"\nA 1\nB 2\nC 4\nD 6\nE 7",
+  "processado_em": "2026-05-11T23:25:28.986586",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

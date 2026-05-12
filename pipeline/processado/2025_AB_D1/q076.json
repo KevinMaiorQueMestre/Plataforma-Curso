@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 76\t\nMas a conversão seria apenas uma questão de salvação? \nPara  o europeu do Renascimento, religião e política \nmisturavam-se inextrincavelmente. A integração política dos \npovos indígenas exigia sua cristianização, pois a fé era o único \ndenominador comum dos súditos de Carlos V, que incluíam tanto \nos flamengos de Gand como os mouros de Granada e os bascos \nde Bilbao. Aliás, o cristianismo do Renascimento era mais um \nmodo de vida do que um conjunto bem definido de crenças e \nrituais: englobava a educação, a moral, a arte, a sexualidade, \nas práticas alimentares, as relações de casamento, ritmava a \npassagem do tempo e os momentos fundamentais da vida.\nGRUZINSKI S O pensamento mestiço São Paulo: Cia das Letras 2001",
+  "processado_em": "2026-05-08T14:06:47.173788",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

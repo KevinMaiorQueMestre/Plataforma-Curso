@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 102 \nA invasão de javalis está causando prejuízos para agricultores \ne ameaça também a suinocultura. Atualmente, o javali é o único \nanimal cujo abate em ambientes naturais é permitido no país. \nUm bando de javalis pode destruir toda uma lavoura de milho \nem poucos dias. Além do milho, eles consomem também a soja, \nmas apenas nos estágios iniciais da produção, quando o animal \nse interessa pelo adubo e pelas sementes. Quando estão nas \nflorestas, os javalis configuram um risco ambiental, porque \nse alimentam de espécies nativas ameaçadas de extinção. \nAlém disso, eles carregam vírus como o da febre aftosa e o \nda doença de Aujeszky, que atingem animais de criação como \nporcos, bois e cabras.\nDisponível em: https://g1.globo.com. Acesso em: 10 dez. 2021 (adaptado).\nNesse contexto, a medida que pode ser adotada pelas \ncomunidades locais para controlar a população da espécie \ninvasora, sem interferir na dinâmica do ambiente, é o(a)\nA caça excepcional dos indivíduos invasores.\nB aplicação de veneno em adubos e sementes.\nC implantação de pecuária intensiva de porcos.\nD substituição dos milharais por outras culturas.\nE plantio de eucaliptos no lugar de espécies nativas.",
+  "processado_em": "2026-05-08T14:06:34.929516",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

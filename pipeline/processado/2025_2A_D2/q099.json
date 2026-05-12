@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A Predatismo.\nB Canibalismo.\nC Parasitismo.\nD Competição.\nE Comensalismo.\nQUESTãO 99 \nA datação por decaimento radioativo é utilizada para determ\nantropológicas. A quantidade de material radioativo nesses objeto\ntem permitido aplicar essa técnica com isótopos como o potáss\no tempo necessário para que a concentração do elemento se \nidade só pode ser feita por esse método porque, no processo\nda concentração inicial do elemento.\nA tabela a seguir apresenta a idade de um objeto estima\nradioativo (40\n19K) e seus produtos de decaimento radioativo.\nConcentração de 40\n19K : conce\ndo material proveniente\ndecaimento radioativ\n1 : 0\n1 : 1\n1 : 3\n1 : 7\n1 : 19\n1 : 40\nUma amostra de granito analisada apresentou 2,5 g de 40\n19K\nA idade estimada, em ano, para essa amostra de granito é:\nA 1,3 × 109 anos.\nB 2,6 × 109 anos.\nC 3,9 × 109 anos.\nD 1,7 × 1010 anos.\nE 2 1 × 1010 anos",
+  "processado_em": "2026-05-08T14:06:34.802906",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

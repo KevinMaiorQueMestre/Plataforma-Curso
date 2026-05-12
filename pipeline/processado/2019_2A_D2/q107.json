@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 107\t\nA figura mostra, de forma esquemática, uma \nrepresentação comum em diversos livros e textos sobre \neclipses. Apenas analisando essa figura, um estudante \npode concluir que os eclipses podem ocorrer duas \nvezes a cada volta completa da Lua em torno da Terra. \nApesar de a figura levar a essa percepção, algumas \ninformações adicionais são necessárias para se concluir \nque nem o eclipse solar, nem o lunar ocorrem com tal \nperiodicidade.\nA periodicidade dos eclipses ser diferente da possível \npercepção do estudante ocorre em razão de\nA\t eclipses noturnos serem imperceptíveis da Terra.\nB\t planos das órbitas da Terra e da Lua serem \ndiferentes.\nC\t distância entre a Terra e a Lua variar ao longo da \nórbita.\nD\t eclipses serem visíveis apenas em parte da \nsuperfície da Terra.\nE\t o Sol ser uma fonte de luz extensa comparado ao \ntamanho da Lua.\nRaios solares\n(Sol distante)\nLUA\nTERRA",
+  "processado_em": "2026-05-11T23:27:08.738367",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

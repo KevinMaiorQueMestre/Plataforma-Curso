@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 76\t\nResumamos os principais caracteres de um rizoma: \ndiferentemente das árvores ou de suas raízes, o rizoma \nconecta um ponto qualquer com outro ponto qualquer e cada \num de seus traços não remete necessariamente a traços de \nmesma natureza. Contra os sistemas centrados (e mesmo \npolicentrados), de comunicação hierárquica e ligações \npreestabelecidas, o rizoma é um sistema a-centrado não \nhierárquico e não significante, sem general, sem memória \norganizadora ou autômato central, unicamente definido por \numa circulação de estados.\nDELEUZE, G.; GUATTARI, F. Mil platôs. \nSão Paulo: Editora 34, 1995 (adaptado).\nQual elemento da cultura contemporânea se relaciona às \ncaracterísticas do conceito de rizoma, conforme descrito \nno texto?\nA\tEstrutura fixa.\nB\tLógica binária.\nC\tControle homogêneo.\nD\tUniformidade de opiniões.\nE\tPluralidade de interações.",
+  "processado_em": "2026-05-08T14:06:13.905605",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

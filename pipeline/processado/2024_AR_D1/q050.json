@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nO bispo Bartolomeu de Las Casas é o homem mais \nodiado da América, o anti-Cristo dos senhores, o açoite \ndestas terras. Por sua culpa, o imperador promulgou \nnovas leis que despojam de escravos índios os filhos dos \nconquistadores. O que será deles sem os braços que \nos sustentam nas minas e nas lavouras? As novas leis \nestão arrancando a comida de suas bocas. Las Casas é o \nhomem mais amado da América. Voz dos mudos, teimoso \ndefensor dos que recebem pior tratamento que o esterco \ndas praças, denunciador de quem por cobiça converte \nJesus Cristo no mais cruel dos deuses e o rei em lobo \nfaminto de carne humana.\nGALEANO, E. Os nascimentos. Porto Alegre: \nL&PM, 2011 (adaptado).\nOs diferentes pontos de vista presentes no texto expressam \nque o bispo era, ao mesmo tempo,\nA\texecrado pelos reis e reverenciado pelos religiosos do local.\nB\tdetestado pelos colonizadores e respeitado pelos povos \ndo lugar.\nC\tmenosprezado pela colônia e idolatrado pelos governantes \nda região.\nD\tdesrespeitado pela metrópole e adorado pelos invasores \nda Espanha.\nE\tdesacatado pelos excluídos e valorizado pelos negociantes \nde negros.",
+  "processado_em": "2026-05-08T14:06:11.905943",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

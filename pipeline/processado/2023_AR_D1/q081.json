@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 81\t\nA economia das ilegalidades se reestruturou com o \ndesenvolvimento da sociedade capitalista. A ilegalidade dos \nbens foi separada da ilegalidade dos direitos. Divisão que \ncorresponde a uma oposição de classes, pois, de um lado, a \nilegalidade mais acessível às classes populares será a dos \nbens — transferência violenta das propriedades; de outro, \nà burguesia, então, se reservará a ilegalidade dos direitos: \na possibilidade de desviar seus próprios regulamentos \ne suas próprias leis; e essa grande redistribuição das \nilegalidades se traduzirá até por uma especialização dos \ncircuitos judiciários; para as ilegalidades de bens — para \no roubo — os tribunais ordinários e os castigos; para \nas ilegalidades de direitos — fraudes, evasões fiscais, \noperações comerciais irregulares — jurisdições especiais \ncom transações, acomodações, multas atenuadas etc.\nFOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.\nO texto apresenta uma relação de cálculo político-econômico \nque caracteriza o poder punitivo por meio da\nA\t\nA\t gestão das ilicitudes pelo sistema judicial.\nB\t\nB\t aplicação das sanções pelo modelo equânime.\nC\t\nC\t supressão dos crimes pela penalização severa.\nD\t\nD\t regulamentação dos privilégios pela justiça social.\nE\t\nE\t repartição de vantagens pela hierarquização cultural.",
+  "processado_em": "2026-05-08T14:05:39.472097",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

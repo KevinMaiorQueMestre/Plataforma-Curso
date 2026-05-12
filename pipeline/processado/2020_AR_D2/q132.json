@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Em qual dos recipientes a água terá maior temperatura ao final do experimento?\nA \t A\nB \t B\nC \t C\nD \t D\nE \t E\nQuestão 132                \nA  Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior \nparte do reagente em produto, de forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o \nproduto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim, \nas indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia.\nO perfil de um processo que segue todos os princípios desse ramo da química pode ser representado por:\nA \t A + B + C → D    (a reação ocorre a altas pressões).\nB \t A + B → C + D    (a reação é fortemente endotérmica).\nC \t A + 3B → C    (a reação ocorre com uso de solvente orgânico).\nD \t 3A + 2B → 2C → 3D + 2E    (a reação ocorrre sob pressão atmosférica).\nE \t A + 1−2B → C    (a reação ocorre com o uso de um catalisador contendo um metal não tóxico).",
+  "processado_em": "2026-05-11T23:28:15.478901",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nUma conversação de tal natureza transforma o \nouvinte; o contato de Sócrates paralisa e embaraça; \nleva a refletir sobre si mesmo, a imprimir à atenção uma \ndireção incomum: os temperamentais, como Alcibíades, \nsabem que encontrarão junto dele todo o bem de que \nsão capazes, mas fogem porque receiam essa influência \npoderosa, que os leva a se censurarem. É sobretudo \na esses jovens, muitos quase crianças, que ele tenta \nimprimir sua orientação.\nBRÉHIER, E. História da filosofia. São Paulo: Mestre Jou, 1977.\nO texto evidencia características do modo de vida \nsocrático, que se baseava na\nA\t \tcontemplação da tradição mítica.\nB\t \tsustentação do método dialético.\nC\t \trelativização do saber verdadeiro.\nD\t \tvalorização da argumentação retórica. \nE\t \tinvestigação dos fundamentos da natureza.",
+  "processado_em": "2026-05-11T23:25:41.965202",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

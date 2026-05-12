@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nJoão Antônio de Barros (Jota Barros) nasceu \naos 24 de junho de 1935, em Glória de Goitá (PE). \nMarceneiro, entalhador, xilógrafo, poeta repentista e \nescritor de literatura de cordel, já publicou 33 folhetos e \nainda tem vários inéditos. Reside em São Paulo desde \n1973, vivendo exclusivamente da venda de livretos de \ncordel e das cantigas de improviso, ao som da viola. \nGrande divulgador da poesia popular nordestina no \nSul, tem dado frequentemente entrevistas à imprensa \npaulista sobre o assunto.\nEVARISTO, M. C. O cordel em sala de aula. In: BRANDÃO, H. N. (Coord.). \nGêneros do discurso na escola: mito, conto, cordel, discurso político, \ndivulgação científica. São Paulo: Cortez, 2000.\nA biografia é um gênero textual que descreve a \ntrajetória de determinado indivíduo, evidenciando sua \nsingularidade. No caso específico de uma biografia \ncomo a de João Antônio de Barros, um dos principais \nelementos que a constitui é\nA\t a estilização dos eventos reais de sua vida, para que \no relato biográfico surta os efeitos desejados.\nB\t o relato de eventos de sua vida em perspectiva \nhistórica, que valorize seu percurso artístico.\nC\t a narração de eventos de sua vida que demonstrem a \nqualidade de sua obra.\nD\t uma retórica que enfatize alguns eventos da vida \nexemplar da pessoa biografada.\nE\t uma exposição de eventos de sua vida que mescle \nobjetividade e construção ficcional",
+  "processado_em": "2026-05-08T14:00:54.499681",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

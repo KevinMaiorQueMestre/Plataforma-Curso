@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nDurante a Segunda Guerra Mundial, para decifrarem \nas mensagens secretas, foi utilizada a técnica de \ndecomposição em fatores primos. Um número N é dado \npela expressão 2x ⋅ 5y ⋅ 7z, na qual x, y e z são números \ninteiros não negativos. Sabe-se que N é múltiplo de 10 e \nnão é múltiplo de 7.\nO número de divisores de N, diferentes de N, é\nA\t x ⋅ y ⋅ z\nB\t (x + 1) ⋅ (y + 1)\nC\t x ⋅ y ⋅ z − 1\nD\t (x + 1) ⋅ (y + 1) ⋅ z\nE\t (x + 1) ⋅ (y + 1) ⋅ (z + 1) − 1",
+  "processado_em": "2026-05-08T14:00:39.977789",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

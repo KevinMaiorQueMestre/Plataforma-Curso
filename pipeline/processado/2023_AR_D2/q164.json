@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nUm artista plástico esculpe uma escultura a partir \nde um bloco de madeira de lei, em etapas. Inicialmente, \nesculpe um cone reto com 36 cm de altura e diâmetro da \nbase medindo 18 cm. Em seguida, remove desse cone um \ncone menor, cujo diâmetro da base mede 6 cm, obtendo, \nassim, um tronco de cone, conforme ilustrado na figura.\n6 cm\n36 cm\n18 cm\nEm seguida, perfura esse tronco de cone, removendo \num cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o \nmesmo do cone original. Dessa forma, ao final, a escultura \ntem a forma de um tronco de cone com uma perfuração \ncilíndrica de base a base.\nO tipo de madeira utilizada para produzir essa escultura \ntem massa igual a 0,6 g por centímetro cúbico de volume. \nUtilize 3 como aproximação para π.\nQual é a massa, em grama, dessa escultura?\nA\t\nA\t 1 198,8\nB\t\nB\t 1 296,0\nC\t\nC\t 1 360,8\nD\t\nD\t 4 665,6\nE\t\nE\t 4 860,0",
+  "processado_em": "2026-05-08T14:05:46.705501",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

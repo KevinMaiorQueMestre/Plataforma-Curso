@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 20\nQUESTÃO 144\t\nUm posto de saúde registrou a quantidade de vacinas \naplicadas contra febre amarela nos últimos cinco meses:\n•\t 1o mês: 21; \n•\t 2o mês: 22; \n•\t 3o mês: 25; \n•\t 4o mês: 31; \n•\t 5o mês: 21.\nNo início do primeiro mês, esse posto de saúde tinha \n228 vacinas contra febre amarela em estoque. A política de \nreposição do estoque prevê a aquisição de novas vacinas, \nno início do sexto mês, de tal forma que a quantidade inicial \nem estoque para os próximos meses seja igual a 12 vezes a \nmédia das quantidades mensais dessas vacinas aplicadas \nnos últimos cinco meses.\nPara atender essas condições, a quantidade de vacinas \ncontra febre amarela que o posto de saúde deve adquirir \nno início do sexto mês é\nA\t 156.\nB\t 180.\nC\t 192.\nD\t 264.\nE\t 288.",
+  "processado_em": "2026-05-08T14:01:21.926910",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

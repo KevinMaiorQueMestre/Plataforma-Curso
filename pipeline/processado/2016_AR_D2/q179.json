@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nPara garantir a segurança de um grande evento \npúblico que terá início às 4 h da tarde, um organizador \nprecisa monitorar a quantidade de pessoas presentes em \ncada instante. Para cada 2 000 pessoas se faz necessária \na presença de um policial. Além disso, estima-se uma \ndensidade de quatro pessoas por metro quadrado de área \nde terreno ocupado. Às 10 h da manhã, o organizador \nverifica que a área de terreno já ocupada equivale a um \nquadrado com lados medindo 500 m. Porém, nas horas \nseguintes, espera-se que o público aumente a uma taxa \nde 120 000 pessoas por hora até o início do evento, \nquando não será mais permitida a entrada de público.\nQuantos policiais serão necessários no início do evento \npara garantir a segurança?\nA\t 360\nB\t 485\nC\t 560\nD\t 740\nE\t 860",
+  "processado_em": "2026-05-08T14:01:25.476517",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

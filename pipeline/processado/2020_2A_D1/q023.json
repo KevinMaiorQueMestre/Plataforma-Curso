@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 23          \nA expansão urbana altera a configuração de \nmuitos espaços, a ponto de prejudicar atividades neles \ndesenvolvidas, seja pela especulação imobiliária, ou \npelo projeto urbanístico da administração pública. Essa \npressão é sentida em algumas escolas, principalmente \npara a prática de esportes, que demanda uma área ampla \ne diferenciada. O problema leva gestores e docentes a \nprocurarem alternativas para se adaptar a essa realidade \nurbana. Para o urbanista Fernando Pinho, “se a cidade é \nde todos e para todos, por que não se apropriar dela? A \nescola deve ser mais porosa à cidade, à vida do lado de \nfora [...]. Temos que trazer a cidade para a sala de aula e \ntornar a cidade uma sala de aula”.\nPERET, E. A cidade como sala de aula. Retratos: \na revista do IBGE, n. 4, 2017 (adaptado).\nAs mudanças urbanísticas têm impactado o espaço \nescolar. Nesse contexto, a prática de esporte\nA \t pressupõe \nprojetos \nurbanísticos \nque \nsejam \nadequados.\nB \t exige quadras e ginásios que se localizem fora da \nescola.\nC \t demanda locais específicos que viabilizem sua \nrealização.\nD \t pede criação de regras que atendam à reconfiguração \nurbana.\nE \t requer modalidades não convencionais que explorem \no espaço urbano.",
+  "processado_em": "2026-05-08T14:03:25.755985",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

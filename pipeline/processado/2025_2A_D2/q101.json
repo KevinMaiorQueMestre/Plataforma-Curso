@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 101 \nEm ferros-velhos, são comuns anúncios de compra de \nsucatas, como:\n“Compram-se sucatas em geral: alumínio, \ncobre, chumbo e metal”\nUm grupo de estudantes de Química decidiu investigar \nqual seria o significado da palavra “metal” em meio a nomes \nde outros elementos químicos metálicos. Para isso, colheram \namostras de peças feitas do dito “metal”. O grupo observou \nque, a olho nu, essas amostras tinham aparência homogênea \nem toda a sua extensão. Análises químicas indicaram que os \nelementos zinco e cobre compunham 100% da massa de todas \nas amostras.\nOs estudantes concluíram que, na linguagem do ferro-velho, \n“metal” significa:\nA Emulsão de cobre e zinco.\nB Liga metálica de cobre e zinco.\nC Suspensão de cobre com zinco.\nD Amálgama contendo cobre e zinco.\nE Composto salino formado por cobre e zinco.",
+  "processado_em": "2026-05-08T14:06:34.883806",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

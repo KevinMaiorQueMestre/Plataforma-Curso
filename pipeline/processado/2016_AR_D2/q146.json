@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nUm petroleiro possui reservatório em formato de um \nparalelepípedo retangular com as dimensões dadas por \n60 m x 10 m de base e 10 m de altura. Com o objetivo de \nminimizar o impacto ambiental de um eventual vazamento, \nesse reservatório é subdividido em três compartimentos, \nA, B e C, de mesmo volume, por duas placas de aço \nretangulares com dimensões de 7 m de altura e 10 m de \nbase, de modo que os compartimentos são interligados, \nconforme a figura. Assim, caso haja rompimento no casco \ndo reservatório, apenas uma parte de sua carga vazará.\n10 m\n10 m\n60 m\n7 m\nA\nB\nC\nSuponha que ocorra um desastre quando o petroleiro \nse encontra com sua carga máxima: ele sofre um acidente \nque ocasiona um furo no fundo do compartimento C. \nPara fins de cálculo, considere desprezíveis as \nespessuras das placas divisórias.\nApós o fim do vazamento, o volume de petróleo derramado \nterá sido de\nA\t 1,4 × 103 m3\nB\t 1,8 × 103 m3 \nC\t 2,0 × 103 m3\nD\t 3,2 × 103 m3\nE\t 6,0 × 103 m3",
+  "processado_em": "2026-05-08T14:01:22.005420",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

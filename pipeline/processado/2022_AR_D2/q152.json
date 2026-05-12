@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nA World Series é a decisão do campeonato \nnorte-americano de beisebol. Os dois times que chegam \na essa fase jogam, entre si, até sete partidas. O primeiro \ndesses times que completar quatro vitórias é declarado \ncampeão.\nConsidere que, em todas as partidas, a probabilidade \nde qualquer um dos dois times vencer é sempre 1\n2 .\nQual é a probabilidade de o time campeão ser aquele que \nvenceu a primeira partida da World Series?\nA\t\nA\t 35\n64\nB\t\nB\t 40\n64\nC\t\nC\t 42\n64\nD\t\nD\t 44\n64\nE\t\nE\t 52\n64",
+  "processado_em": "2026-05-08T14:05:12.051516",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

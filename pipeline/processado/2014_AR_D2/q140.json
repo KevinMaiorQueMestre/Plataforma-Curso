@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\t\nUm sinalizador de trânsito tem o formato de um \ncone circular reto. O sinalizador precisa ser revestido \nexternamente com adesivo fluorescente, desde sua \nbase (base do cone) até a metade de sua altura, para \nsinalização noturna. O responsável pela colocação do \nadesivo precisa fazer o corte do material de maneira que \na forma do adesivo corresponda exatamente à parte da \nsuperfície lateral a ser revestida.\nQual deverá ser a forma do adesivo?\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:00:38.785229",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 152\nO projeto de um contêiner, em forma de paralelepípedo \nreto retangular, previa a pintura dos dois lados (interno e \nexterno) de cada uma das quatro paredes com tinta acrílica \ne a pintura do piso interno com tinta epóxi. O construtor \nhavia pedido, a cinco fornecedores diferentes, orçamentos \ndas tintas necessárias, mas, antes de iniciar a obra, resolveu \nmudar o projeto original, alterando o comprimento e a largura \npara o dobro do originalmente previsto, mantendo inalterada \na altura. Ao pedir novos orçamentos aos fornecedores, para \nas novas dimensões, cada um deu uma resposta diferente \nsobre as novas quantidades de tinta necessárias.\n\u0014\u0010\u0002 \u0007\n2\b'\u001d\u0004\u0002 \b\u0004\u0002 %\u0007\n#\u000e\t\r\u0004\u0002 %\b\u0007\b\u0002 \u0004\u0002 %\u0007\u0004\"\n\r\u0004\u0002 \u0004\u0007\u000eJ\u000e\u0005\b2$\u0002 \b\t\u0002\nnovas quantidades de tinta necessárias informadas pelos \nfornecedores foram as seguintes:\n• Fornecedor I: “O dobro, tanto para as paredes \nquanto para o piso.”\n• Fornecedor II: “O dobro para as paredes e quatro \nvezes para o piso.”\n• Fornecedor III: “Quatro vezes, tanto para as paredes \nquanto para o piso.”\n• Fornecedor IV: “Quatro vezes para as paredes e o \ndobro para o piso.”\n• Fornecedor V: “Oito vezes para as paredes e quatro \nvezes para o piso.”\nAnalisando as informações dos fornecedores, o \nconstrutor providenciará a quantidade adequada de \nmaterial. Considere a porta de acesso do contêiner como \nparte de uma das paredes.\nQual dos fornecedores prestou as informações adequadas, \n\u000f\n#\n\u0005\u000f\u0004\u0002\t\n\u0007\u0002\u0004\u0002\n\t\u001e\u00042+\u000e\u000f\u0004\u0002%\n2\u0004\u0002\u001e\u0004\u0005\t\r\u0007\f\r\u0004\u0007\u0002%\b\u0007\b\u0002\b\u0002\b\u000b\f\u000e\t\u000e'\u001d\u0004\u0002\n\u000f\u0004\u0002\u0010\b\r\n\u0007\u000e\b2\nA  I\nB  II\nC III\nD IV\nE  V\nQuestão 153\nUm povoado com 100 habitantes está passando por \n\f\u0010\b\u0002 \t\u000e\r\f\b'\u001d\u0004\u0002 \u000f\n\u0002 \t\n\u001e\b\u0002 %\u0007\u00042\u0004\u0005J\b\u000f\b\u0002 \n\u0002 \u0004\t\u0002 \u0007\n\t%\u0004\u0005\t?#\n\u000e\t\u0002\n%\n2\b\u0002 \b\u000f\u0010\u000e\u0005\u000e\t\r\u0007\b'\u001d\u0004\u0002 %K!2\u000e\u001e\b\u0002 2\u0004\u001e\b2\u0002 \u000f\n\u001e\u000e\u000f\n\u0010\u0002 \u001e\u0004\u0005\r\u0007\b\r\b\u0007\u0002 \b\u0002\n\u001e\u0004\u0005\t\r\u0007\f'\u001d\u0004\u0002 \u000f\n\u0002 \f\u0010\u0002 \u0007\n\t\n\u0007#\b\rB\u0007\u000e\u0004(\u0002 \u00142\n\u0002 \u000f\n#\n\u0007?\u0002 \r\n\u0007\u0002 \b\u0002 P\u0004\u0007\u0010\b\u0002\nde um cilindro circular reto, cuja base tenha 5 metros \nde diâmetro interno, e atender à demanda de água da \n%\u0004%\f2\b'\u001d\u0004\u0002 %\u0004\u0007\u0002 \f\u0010\u0002 %\n\u0007G\u0004\u000f\u0004\u0002 \u000f\n\u0002 \n@\b\r\b\u0010\n\u0005\r\n\u0002 \t\n\r\n\u0002 \u000f\u000e\b\t\u0002\nconsecutivos. No oitavo dia, o reservatório vazio é \n\u001e\u0004\u0010%2\n\r\b\u0010\n\u0005\r\n\u0002\u0007\n\b!\b\t\r\n\u001e\u000e\u000f\u0004\u0002%\u0004\u0007\u0002\u001e\b\u0007\u0007\u0004\t/%\u000e%\b(\nConsidere que o consumo médio diário por habitante \nZ\u0002\u000f\n\u0002{~}\u00022\u000e\r\u0007\u0004\t\u0002\u000f\n\u0002?J\f\b(\u0002\u0019\t\n\u0002\u0002\u001e\u0004\u0010\u0004\u0002\b%\u0007\u0004@\u000e\u0010\b'\u001d\u0004\u0002%\b\u0007\b\u0002\u000e.\nNas condições apresentadas, o reservatório deverá ser \nconstruído com uma altura interna mínima, em metro, igual a\nA  1,12.\nB  3,10.\nC  4,35.\nD  4,48.\nE 5 60",
+  "processado_em": "2026-05-08T14:04:31.278013",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

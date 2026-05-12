@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 102\t\nA história evolutiva do grupo ao qual pertence a planta \ncomigo-ninguém-pode (Dieffenbachia spp.) remonta seu \nestabelecimento há aproximadamente 40 milhões de anos. \nEssas plantas podem produzir intoxicações sérias em adultos e \nmorte de crianças e animais domésticos, pois em seus tecidos \napresentam células que contêm “pequenas agulhas” de oxalato \nde cálcio, chamadas de ráfides, liberadas quando as células são \nde alguma forma danificadas.\nA hipótese aceita é a de que a presença dessas estruturas teria \nocorrido a partir da pressão seletiva exercida por\nA\talterações na temperatura.\nB\tanimais domésticos.\nC\tinsetos herbívoros.\nD\talterações no solo.\nE\tseres humanos.",
+  "processado_em": "2026-05-08T14:06:50.048788",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

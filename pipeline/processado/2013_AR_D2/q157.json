@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nAs notas de um professor que participou de um \nprocesso seletivo, em que a banca avaliadora era \ncomposta por cinco membros, são apresentadas no \ngráfico. Sabe-se que cada membro da banca atribuiu \nduas notas ao professor, uma relativa aos conhecimentos \nespecíficos da área de atuação e outra, aos conhecimentos \npedagógicos, e que a média final do professor foi dada \npela média aritmética de todas as notas atribuídas pela \nbanca avaliadora.\nNotas (em pontos)\n18\n16\n17\n13\n14\n19\n14\n16\n12\n20\n18\n16\n14\n12\n10\n8\n6\n4\n2\n0\nAvaliador A\nAvaliador B\nAvaliador C\nAvaliador D\nAvaliador E\nConhecimentos\n específicos \nConhecimentos \npedagógicos \n1",
+  "processado_em": "2026-05-08T14:00:23.719159",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 18\t\nO mundo revivido\nSobre esta casa e as árvores que o tempo\nesqueceu de levar. Sobre o curral\nde pedra e paz e de outras vacas tristes\nchorando a lua e a noite sem bezerros.\nSobre a parede larga deste açude\nonde outras cobras verdes se arrastavam,\ne pondo o sol nos seus olhos parados\niam colhendo sua safra de sapos.\nSob as constelações do sul que a noite\narmava e desarmava: as Três Marias,\no Cruzeiro distante e o Sete-Estrelo.\nSobre este mundo revivido em vão,",
+  "processado_em": "2026-05-11T23:25:36.705647",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

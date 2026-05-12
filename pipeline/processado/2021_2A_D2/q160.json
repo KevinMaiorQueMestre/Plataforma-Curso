@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 160\nOs preços médios da gasolina, etanol e diesel \nsofreram variações que foram registradas pela Agência \nNacional de Petróleo, Gás Natural e Biocombustíveis \n(ANP), para a gasolina, em seis datas compreendidas no \nperíodo entre 15 de outubro de 2015 e 13 de janeiro de \n}$\u0002\u001e\u0004\u0005P\u0004\u0007\u0010\n\u0002\u0004\u0002J\u0007?\u0006\u001e\u0004(\nPreço da gasolina\nValor médio por litro (R$)\n3/dez.\n5/nov.\n15/out.\n3,8\n3,6\n3,691\n3,676\n3,773\n3,755\nData\n9/dez. 30/dez. 13/jan./16\n3,655\n3,654\nDisponível em: www.sistemasaltograndense.com. Acesso em: 30 nov. 2017 (adaptado).\n\u0003\u0004\u0005\t\u000e\u000f\n\u0007\b\u0005\u000f\u0004/\t\n\u0002 \u0004\t\u0002 \u000e\u0005\r\n\u0007#\b2\u0004\t\u0002 \u000f\u0004\u0002 %\n\u0007G\u0004\u000f\u0004\u0002 \u001e\u0004\u0010\u0002 #\b2\u0004\u0007\n\t\u0002\n\u000e\u0005P\u0004\u0007\u0010\b\u000f\u0004\t\u0002 \u0005\u0004\u0002 J\u0007?\u0006\u001e\u0004$\u0002 \u0004\u0002 \u0010\b\u000e\u0004\u0007\u0002 \b\f\u0010\n\u0005\r\u0004$\u0002 \n\u0010\u0002 #\b2\u0004\u0007\u0002\nabsoluto do preço da gasolina, ocorreu no intervalo de\nA  15/out. a 5/nov.\nB  5/nov. a 3/dez.\nC  3/dez. a 9/dez.\nD  9/dez. a 30/dez.\nE  30/dez. a 13/jan./16.",
+  "processado_em": "2026-05-08T14:04:17.275224",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

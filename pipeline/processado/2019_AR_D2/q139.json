@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 139\t\nUm grupo de países criou uma instituição responsável \npor organizar o Programa Internacional de Nivelamento \nde Estudos (PINE) com o objetivo de melhorar os índices \nmundiais de educação. Em sua sede foi construída \numa escultura suspensa, com a logomarca oficial do \nprograma, em três dimensões, que é formada por suas \niniciais, conforme mostrada na figura.\nEssa escultura está suspensa por cabos de aço, de \nmaneira que o espaçamento entre letras adjacentes é o \nmesmo, todas têm igual espessura e ficam dispostas em \nposição ortogonal ao solo, como ilustrado a seguir.\nAo meio-dia, com o sol a pino, as letras que formam \nessa escultura projetam ortogonalmente suas sombras \nsobre o solo.\nA sombra projetada no solo é\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-11T23:27:35.529862",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

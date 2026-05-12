@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\nNo primeiro ano do ensino médio de uma escola, \né hábito os alunos dançarem quadrilha na festa junina. \nNeste ano, há 12 meninas e 13 meninos na turma, e para \na quadrilha foram formados 12 pares distintos, compostos \npor uma menina e um menino. Considere que as meninas \nsejam os elementos que compõem o conjunto A e os \nmeninos, o conjunto B, de modo que os pares formados \nUHSUHVHQWHP\u0003XPD\u0003IXQomR\u0003f de A em B.\n&RP\u0003EDVH\u0003QHVVDV\u0003LQIRUPDo}HV\u000f\u0003D\u0003FODVVL¿FDomR\u0003GR\u0003WLSR\u0003GH\u0003\nIXQomR\u0003TXH\u0003HVWi\u0003SUHVHQWH\u0003QHVVD\u0003UHODomR\u0003p\nA f é injetora, pois para cada menina pertencente ao \nconjunto A está associado um menino diferente \npertencente ao conjunto B.\nB f é sobrejetora, pois cada par é formado por uma \nmenina pertencente ao conjunto A e um menino \npertencente ao conjunto B, sobrando um menino sem \nformar par.\nC f é injetora, pois duas meninas quaisquer \npertencentes ao conjunto A formam par com um \nmesmo menino pertencente ao conjunto B, para \nenvolver a totalidade de alunos da turma.\nD f é bijetora, pois dois meninos quaisquer pertencentes \nao conjunto B formam par com uma mesma menina \npertencente ao conjunto A.\nE f é sobrejetora, pois basta que uma menina do \nconjunto A forme par com dois meninos pertencentes",
+  "processado_em": "2026-05-11T23:25:31.105040",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

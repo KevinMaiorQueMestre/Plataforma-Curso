@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 30\t\nForam 11 bilhões de palavras examinadas em mais \nde três milhões de livros que mostraram que a linguagem \nusada em romances, durante mais de cem anos, é sexista. \nUm grupo de cientistas realizou um descomunal trabalho \nde campo no qual analisou de forma maciça textos escritos \nem inglês em livros publicados entre 1900 e 2008. O que \nfoi analisado exatamente? A correlação entre gêneros \ne qualificativos em busca de um padrão: o tratamento \ndiferente entre mulheres e homens em textos escritos.\nO estudo utilizou um sistema baseado em inteligência \nartificial e aprendizagem de máquina para analisar, palavra \npor palavra, as obras publicadas nesse período. A análise \nconcluiu que as mulheres recebem apenas qualificativos \nrelacionados ao seu físico, enquanto para os homens as \nreferências se concentram principalmente em sua força \ne personalidade. Os atributos negativos relacionados ao \nfísico e à aparência nessas obras são observados até \ncinco vezes mais nas mulheres do que nos homens. \nOs algoritmos aprendem com os textos já escritos e \npublicados. Assim, um sistema pode considerar bom um \nmodelo que se repete várias vezes (por exemplo, aquele \nrelacionado à beleza e à mulher) e assimilá-lo em sua \nexecução atual.\nZURIARRAIN, J. M. Disponível em: https://brasil.elpais.com.\nAcesso em: 5 nov. 2021 (adaptado).\nO desenvolvimento de tecnologias, como os algoritmos \ne a inteligência artificial, permite a análise de um grande \nvolume de dados. Nesse texto, a utilização desses \nrecursos\nA\t\nA\t avalia as qualidades positivas atribuídas aos homens.\nB\t\nB\t revela a materialidade linguística de estereótipos de \ngênero.\nC\t\nC\t indica a pouca eficácia da aprendizagem de máquina.\nD\t\nD\t questiona a linearidade de padrões linguísticos.\nE\t\nE\t atesta cientificamente as diferenças sociais.",
+  "processado_em": "2026-05-08T14:05:18.304413",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

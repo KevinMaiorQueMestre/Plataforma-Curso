@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 151          \nO quadro mostra o número de gols feitos pela equipe \nA em campeonatos estaduais de futebol, no período de \n2007 a 2012.\nAno\nNúmero de gols\n2007\n64\n2008\n59\n2009\n61\n2010\n45\n2011\n61\n2012\n58\nFaltando ainda alguns jogos para o término do \ncampeonato estadual de 2013, o número de gols \nmarcados pela equipe B era 52. O técnico dessa equipe \nfez um levantamento para saber quantos gols sua equipe \ndeveria marcar nos próximos jogos de modo que, ao \nfinal do campeonato, o número total de gols marcados \npela equipe B ultrapasse a média de gols marcados pela \nequipe A nos campeonatos de 2007 a 2012.\nQuantos gols, no mínimo, a equipe B ainda precisaria marcar?\nA\t 2\nB \t 6\nC\t 7\nD 9",
+  "processado_em": "2026-05-08T14:03:38.798068",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

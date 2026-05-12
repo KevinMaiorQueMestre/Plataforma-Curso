@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 34 \nBaixa umidade e incêndios\nComemorado no dia 5 de setembro, o Dia da Amazônia \nfoi abafado pelo fogo. Mais de mil cidades brasileiras estavam \nem alerta em razão dos baixos níveis de umidade. A escassez \nhídrica severa em vários estados, como São Paulo, Minas Gerais, \nMato Grosso, Mato Grosso do Sul e Goiás, em agosto de 2024, \nsomada a incêndios provocados pela baixa umidade e pelo \nser humano, causou uma grande onda de fogo e de calor no \npaís. Enquanto parte da Amazônia e do Pantanal ardia em \nchamas, milhares de focos de incêndio eram identificados \nem São Paulo. Passaram-se os dias e tudo parece voltar ao \nnormal até o surgimento de novos focos. O que será do país \nno próximo verão? E o que nós e as autoridades federais e \nestaduais poderemos fazer com urgência?\nR.G.S., Porto Alegre, via e-mail.\nDisponível em: www.correiodopovo.com.br. \nAcesso em: 19 set 2024 (adaptado)",
+  "processado_em": "2026-05-08T14:06:27.596311",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

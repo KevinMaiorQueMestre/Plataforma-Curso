@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 101\t\nO \nmármore, \nrocha \nmetamórfica \ncomposta \nprincipalmente de carbonato de cálcio (CaCO3), é muito \nutilizada como material de construção e também na \nprodução de esculturas. Entretanto, se peças de mármore \nsão expostas a ambientes externos, particularmente \nem grandes cidades e zonas industriais, elas sofrem ao \nlongo do tempo um processo de desgaste, caracterizado \npela perda de massa da peça.\nEsse processo de deterioração ocorre em função da\nA\t oxidação do mármore superficial pelo oxigênio.\nB\t decomposição do mármore pela radiação solar.\nC\t onda de choque provocada por ruídos externos.\nD\t abrasão por material particulado presente no ar.\nE\t acidez da chuva que cai sobre a superfície da peça.",
+  "processado_em": "2026-05-11T23:27:08.180716",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

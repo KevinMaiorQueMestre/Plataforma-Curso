@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nAo escutar a notícia de que um filme recém-lançado \narrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão \nem bilheteria, um estudante escreveu corretamente o \nnúmero que representa essa quantia, com todos os seus \nalgarismos.\nO número escrito pelo estudante foi\nA\t\nA\t 135 000,00.\nB\t\nB\t 1 350 000,00.\nC\t\nC\t 13 500 000,00.\nD\t\nD\t 135 000 000,00.\nE\t\nE\t 1 350 000 000,00.",
+  "processado_em": "2026-05-08T14:05:11.724520",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

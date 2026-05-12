@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\t\nUma indústria faz uma parceria com uma distribuidora \nde sucos para lançar no mercado dois tipos de \nembalagens. Para a fabricação dessas embalagens, \na indústria dispõe de folhas de alumínio retangulares, \nde dimensões 10 cm por 20 cm. Cada uma dessas \nfolhas é utilizada para formar a superfície lateral da \nembalagem, em formato de cilindro circular reto, que \nposteriormente recebe fundo e tampa circulares. A figura \nilustra, dependendo de qual das duas extensões será \nutilizada como altura, as duas opções para formar a \npossível embalagem.\nDentre essas duas embalagens, a de maior capacidade \napresentará volume, em centímetro cúbico, igual a\nA 4 000 π\nB 2 000 π\nC 4 000\nπ\nD 1000\nπ\nE\n500\nπ",
+  "processado_em": "2026-05-08T14:06:20.194529",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

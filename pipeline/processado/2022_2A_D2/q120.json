@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nUm dos fármacos usados como quimioterápico contra \no câncer é a colchicina. Ela age como um bloqueador \nda divisão celular, intervindo na polimerização dos \nmicrotúbulos, formadores das fibras do fuso acromático, \ninibindo, assim, o crescimento do tumor.\nA colchicina age no tratamento do câncer, pois\nA\t\nA\t inibe a atividade das mitocôndrias, diminuindo a \nprodução de ATP.\nB\t\nB\t bloqueia a síntese proteica, o que impede a \npolimerização dos microtúbulos.\nC\t\nC\t impede a polimerização do fuso, que promove a \ncondensação da cromatina nuclear.\nD\t\nD\t causa a despolimerização de proteínas do fuso, \nimpedindo a separação das células-filhas no final da \nmitose.\nE\t\nE\t promove a despolimerização das fibras do fuso, \nimpossibilitando a separação dos cromossomos na \ndivisão.",
+  "processado_em": "2026-05-08T14:04:47.781837",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

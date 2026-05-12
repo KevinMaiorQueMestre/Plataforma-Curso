@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 121\t\nGripado, penso entre espirros em como a palavra \ngripe nos chegou após uma série de contágios entre \nlínguas. Partiu da Itália em 1743 a epidemia de gripe \nque disseminou pela Europa, além do vírus propriamente \ndito, dois vocábulos virais: o italiano influenza e o francês \ngrippe. O primeiro era um termo derivado do latim \nmedieval influentia, que significava “influência dos astros \nsobre os homens”. O segundo era apenas a forma nominal \ndo verbo gripper, isto é, “agarrar”. Supõe-se que fizesse \nreferência ao modo violento como o vírus se apossa do \norganismo infectado.\nRODRIGUES, S. Sobre palavras.Veja, São Paulo, 30 nov. 2011.\nPara se entender o trecho como uma unidade de \nsentido, é preciso que o leitor reconheça a ligação entre \nseus elementos. Nesse texto, a coesão é construída \npredominantemente pela retomada de um termo por outro \ne pelo uso da elipse. O fragmento do texto em que há \ncoesão por elipse do sujeito é:\nA\t “[...] a palavra gripe nos chegou após uma série de \ncontágios entre línguas.”\nB\t “Partiu da Itália em 1743 a epidemia de gripe [...]”.\nC\t “O primeiro era um termo derivado do latim medieval \ninfluentia, que significava ‘influência dos astros sobre \nos homens’.”\nD\t “O segundo era apenas a forma nominal do verbo \ngripper [...]”.\nE\t “Supõe-se que fizesse referência ao modo violento \ncomo o vírus se apossa do organismo infectado.”",
+  "processado_em": "2026-05-08T14:00:21.238520",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 150          \nOs pesquisadores de uma empresa especializada \nem grãos selecionaram cinco diferentes tipos de semente \nde feijão e concluíram que, quando armazenadas por \naté seis meses, o poder germinativo de cada um desses \ntipos expressa, em porcentagem, quantas sementes \nsão capazes de germinar, transcorrido o tempo de \narmazenamento correspondente. Considere que o tempo \nzero corresponde ao plantio direto da semente sem \narmazenamento, conforme descrito no quadro.\nSemente \nde feijão\nTempo de armazenamento (em mês)\n0\n3\n6\nPoder germinativo (em porcentagem)\nTipo 1\n84\n84\n79\nTipo 2\n85\n82\n79\nTipo 3\n86\n80\n77\nTipo 4\n82\n82\n80\nTipo 5\n85\n85\n76\nUm agricultor irá plantar três áreas distintas \nutilizando sementes de um mesmo tipo. A primeira área \nserá plantada quando da aquisição das sementes, a \nsegunda, três meses após a primeira e a terceira, três \nmeses após a segunda, respeitando assim o tempo de \narmazenamento utilizado pelos pesquisadores. Esse \nagricultor irá optar pela compra do tipo de semente \nque apresentar a maior média dos três percentuais de \npoder germinativo.\nDisponível em: http://sistemasdeproducao.cnptia.embrapa.br.\nAcesso em: 22 out. 2015 (adaptado).\nSegundo essas informações, qual será o tipo de semente \na ser adquirida por ele?\nA \t 1\nB \t 2\nC \t 3\nD \t 4\nE \t 5",
+  "processado_em": "2026-05-08T14:03:38.750961",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

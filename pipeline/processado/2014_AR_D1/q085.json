@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 85 \n Imunobiológicos:\ndiferentes formas de produção, diferentes aplicações\nAplicação do \nimunobiológico I\nProdução do\n imunobiológico III\nAplicação do imunobiológico III\nAplicação do \nimunobiológico II\nVírus, \nbactérias\nA\nB\nEmbora sejam produzidos e utilizados em situações \ndistintas, os imunobiológicos I e II atuam de forma \nsemelhante nos humanos e equinos, pois\nA conferem imunidade passiva.\nB transferem células de defesa.\nC suprimem a resposta imunológica.\nD estimulam a produção de anticorpos.\nE desencadeiam a produção de antígenos.",
+  "processado_em": "2026-05-08T14:00:32.249807",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

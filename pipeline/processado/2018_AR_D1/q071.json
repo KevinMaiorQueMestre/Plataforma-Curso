@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nOs seus líderes terminaram presos e assassinados. \nA “marujada” rebelde foi inteiramente expulsa da \nesquadra. Num sentido histórico, porém, eles foram \nvitoriosos. A “chibata” e outros castigos físicos infamantes \nnunca mais foram oficialmente utilizados; a partir de \nentão, os marinheiros – agora respeitados – teriam \nsuas condições de vida melhoradas significativamente. \nSem dúvida fizeram avançar a História.\nMAESTRI, M. 1910: a revolta dos marinheiros – uma saga negra. São Paulo: Global, 1982.\nA eclosão desse conflito foi resultado da tensão acumulada \nna Marinha do Brasil pelo(a)\nA\t engajamento de civis analfabetos após a emergência \nde guerras externas.\nB\t insatisfação \nde \nmilitares \npositivistas \napós \na \nconsolidação da política dos governadores.\nC\t rebaixamento de comandantes veteranos após a \nrepressão a insurreições milenaristas.\nD\t sublevação das classes populares do campo após a \ninstituição do alistamento obrigatório.\nE\t manutenção \nda \nmentalidade \nescravocrata \nda \noficialidade após a queda do regime imperial.",
+  "processado_em": "2026-05-11T23:26:40.197727",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

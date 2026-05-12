@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 103\t\nOs olhos humanos normalmente têm três tipos de \ncones responsáveis pela percepção das cores: um tipo \npara tons vermelhos, um para tons azuis e outro para tons \nverdes. As diversas cores que enxergamos são o resultado \nda percepção das cores básicas, como indica a figura.\nVermelho\nVermelho\nVerde\nAmarelo\nBranco\nAzul\nAzul\nMagenta\nMagenta\nCiano\nA protanopia é um tipo de daltonismo em que há \ndiminuição ou ausência de receptores da cor vermelha. \nConsidere um teste com dois voluntários: uma pessoa \ncom visão normal e outra com caso severo de protanopia. \nNesse teste, eles devem escrever a cor dos cartões que \nlhes são mostrados. São utilizadas as cores indicadas \nna figura.\nPara qual cartão os dois voluntários identificarão a \nmesma cor?\nA\t Vermelho.\nB\t Magenta.\nC\t Amarelo.\nD\t Branco.\nE\t Azul.",
+  "processado_em": "2026-05-11T23:27:32.914618",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

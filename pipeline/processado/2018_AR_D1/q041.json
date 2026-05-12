@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q041",
+  "imagem": "q041.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 41,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 41\t\nDisponível em: www.sul21.com.br. Acesso em: 1 dez. 2017 (adaptado).",
+  "processado_em": "2026-05-11T23:26:36.677069",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

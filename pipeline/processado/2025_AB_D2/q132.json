@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 132\t\nO plantio do feijão requer solos que apresentem fertilid\nmagnésio, nitrogênio, fósforo e enxofre e baixa concentração de\nde feijão em sua lavoura, que se encontra com a superfície cla\num produto que possa ser aplicado diretamente ao solo, o ag\nseguintes produtos:\nIdentificação \ndo produto\nComponente\nI\nAl2(SO4)3\nSólido útil para cor\nII\n(NH4)2SO4\nSal inorgân\nIII\nHNO3\nSolução aquosa\nIV\nCaCO3\nCalcário é \nV\nNaNO3\nSalitre do C\nQual é o produto indicado para corrigir o pH do solo, possibilit\nA\tI\nB\tII\nC\tIII\nD\tIV\nE\tV",
+  "processado_em": "2026-05-08T14:06:51.643376",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

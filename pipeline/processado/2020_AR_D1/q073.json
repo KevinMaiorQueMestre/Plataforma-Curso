@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 73          \nDeclaração de Salamanca – 1994\nAcreditamos e proclamamos que: toda criança \ntem direito fundamental à educação e deve ser dada \na oportunidade de atingir e manter o nível adequado \nde aprendizagem; toda criança possui características, \ninteresses, habilidades e necessidades de aprendizagem \nque são únicas; sistemas educacionais deveriam ser \ndesignados e programas educacionais deveriam ser \nimplementados no sentido de se levar em conta a vasta \ndiversidade de tais características e necessidades.\nDisponível em: http://portal.mec.gov.br. Acesso em: 4 out. 2015.\nComo signatário da Declaração citada, o Brasil \ncomprometeu-se com a elaboração de políticas públicas \neducacionais que contemplem a",
+  "processado_em": "2026-05-11T23:28:06.152327",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

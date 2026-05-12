@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 86\t\nO progresso\nEu queria não ver todo o verde da terra morrendo\nE das águas dos rios os peixes desaparecendo \nEu queria gritar que esse tal de ouro negro \nNão passa de um negro veneno \nE sabemos que por tudo isso vivemos bem menos.\nROBERTO CARLOS; ERASMO CARLOS. Roberto Carlos. \nRio de Janeiro: CBS, 1976 (fragmento).\nO trecho da letra da canção avalia o uso de combustíveis \nfósseis com base em sua potencial contribuição para \naumentar o(a)\nA\t base da pirâmide etária.\nB\t alcance da fronteira de recursos.\nC\t degradação da qualidade de vida.\nD\t sustentabilidade da matriz energética.\nE\t exploração do trabalho humano.",
+  "processado_em": "2026-05-11T23:27:02.819625",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 58\t\nEm 1872, havia mais de 1 milhão de votantes, correspondentes \na 13% da população livre. Em 1886, votaram nas eleições \nparlamentares pouco mais de 100 mil eleitores, ou 0,8% da \npopulação total. Houve um corte de quase 90% do eleitorado. \nO dado é chocante, sobretudo se lembrarmos que a tendência \nde todos os países europeus da época era na direção de ampliar \nos direitos políticos. O mais grave é que esse retrocesso foi \nduradouro. A Proclamação da República não alterou o quadro.\nCARVALHO, J. M. Cidadania no Brasil. Rio de Janeiro: \nCivilização Brasileira, 2002 (adaptado).\nDe acordo com o texto, a participação no processo eleitoral \nbrasileiro após a Reforma de 1881 sofreu uma variação que \nse explica pela\nA\trestrição de gênero.\nB\texclusão de imigrantes.\nC\tcomprovação de domicílio.\nD\texigência da alfabetização.\nE\tobrigatoriedade do sufrágio.",
+  "processado_em": "2026-05-08T14:07:01.556852",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

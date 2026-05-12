@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 74\t\nRADIAÇÃO SOLAR\nGLOBAL HORIZONTAL\nMÉDIA ANUAL\n3,15 3,50 3,85 4,20 4,55 4,90 5,25 5,60 5,95 6,30 6,65 kWh/m²\n0\n200\n400\n600\n800 1000 km\nPEREIRA, E. B. et al. Atlas brasileiro de energia solar. São José dos Campos: Inpe, 2006.\nUma característica regional que justifica o maior \npotencial anual médio para o aproveitamento da \nenergia solar é a reduzida\nA\t\nA\t declividade do relevo.\nB\t\nB\t extensão longitudinal.\nC\t\nC\t nebulosidade atmosférica.\nD\t\nD\t irregularidade pluviométrica.\nE\t\nE\t influência da continentalidade.",
+  "processado_em": "2026-05-08T14:05:04.931269",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

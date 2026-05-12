@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 125\t\nEm uma comunidade rural, os moradores utilizam uma \nbomba-d’água alimentada por 100 V de tensão contínua, \npodendo variar em até 5 V. Um eletrotécnico pretende instalar \nplacas fotovoltaicas para alimentar essa bomba. As placas são \nidênticas e cada uma apresenta tensão de operação igual a \n34 V com corrente de 7,5 A. Além disso, cada placa apresenta \n40 V de tensão elétrica, quando em circuito aberto. Assim, \nconsiderando que a placa descrita é um gerador não ideal, em \ncircuito aberto ela pode ser representada conforme a figura:\nO eletrotécnico construiu um circuito que permite à \nbomba-d’água operar corretamente com o menor número \npossível de placas conectadas. Para isso, desenhou um diagrama \nno qual todas essas placas são representadas como um único \ngerador não ideal, com a especificação das correspondentes \ncaracterísticas elétricas.\nO diagrama que representa o circuito construído pelo \neletrotécnico é:\nA\t\nB\t\nC\t\nD\t\nE",
+  "processado_em": "2026-05-08T14:07:07.610489",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

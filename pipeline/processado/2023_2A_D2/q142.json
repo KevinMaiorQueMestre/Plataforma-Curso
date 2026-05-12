@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\t\nA trajetória de um avião durante um voo entre duas \ncidades ocorre dentro de áreas de controle de tráfego. \nDurante um voo, é exigido que o avião sobrevoe pontos \nde controle situados no solo e demarcados entre a \norigem (O) e o destino (D) da aeronave. Assim, embora a \ntrajetória do avião ocorra num espaço tridimensional, para \no controlador de voo, a visualização representativa dessa \ntrajetória é dada por uma linha poligonal plana, em que \ntrês pontos de controle sucessivos, nas representações, \ndevem ser não colineares.\nDisponível em: www.kaspersky.com.br. Acesso em: 21 out. 2019 (adaptado).\nAs figuras apresentam algumas possibilidades dessas \nrepresentações, nas quais todos os pontos de controle \nestão representados.\nD\nD\nD\nD\nD\nO\nO\nO\nO\nO\nI\nII\nIII\nIV\nV\nSuponha que um avião fez um voo com origem \ndiferente do destino final e cuja representação apresente \ntrês pontos de controle.\nNesse voo, qual das figuras apresentadas é compatível \ncom as restrições estabelecidas?\nA\t\nA\t I\nB\t\nB\t II\nC\t\nC\t III\nD\t\nD\t IV\nE\t\nE\t V",
+  "processado_em": "2026-05-08T14:05:26.857653",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

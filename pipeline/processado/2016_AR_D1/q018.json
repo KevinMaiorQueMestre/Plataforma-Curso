@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 18\t\nSegundo a Conferência de Quioto, os países \ncentrais industrializados, responsáveis históricos pela \npoluição, deveriam alcançar a meta de redução de \n5,2% do total de emissões segundo níveis de 1990. \nO nó da questão é o enorme custo desse processo, \ndemandando mudanças radicais nas indústrias para \nque se adaptem rapidamente aos limites de emissão \nestabelecidos e adotem tecnologias energéticas limpas. \nA comercialização internacional de créditos de sequestro \nou de redução de gases causadores do efeito estufa \nfoi a solução encontrada para reduzir o custo global do \nprocesso. Países ou empresas que conseguirem reduzir \nas emissões abaixo de suas metas poderão vender este \ncrédito para outro país ou empresa que não consiga.\nBECKER, B. Amazônia: geopolítica na virada do II milênio. Rio de Janeiro: Garamond, 2009.\nAs posições contrárias à estratégia de compensação \npresente no texto relacionam-se à ideia de que \nela promove\nA\t retração nos atuais níveis de consumo.\nB\t surgimento de conflitos de caráter diplomático.\nC\t diminuição dos lucros na produção de energia.\nD\t desigualdade na distribuição do impacto ecológico.\nE\t decréscimo \ndos \níndices \nde \ndesenvolvimento \neconômico.",
+  "processado_em": "2026-05-08T14:01:04.303476",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

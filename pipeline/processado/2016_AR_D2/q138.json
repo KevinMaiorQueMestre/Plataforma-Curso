@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 17\nQUESTÃO 138\t\nA fim de acompanhar o crescimento de crianças, \nforam criadas pela Organização Mundial da Saúde \n(OMS) tabelas de altura, também adotadas pelo \nMinistério da Saúde do Brasil. Além de informar os \ndados referentes ao índice de crescimento, a tabela \ntraz gráficos com curvas, apresentando padrões de \ncrescimento estipulados pela OMS.\nO gráfico apresenta o crescimento de meninas, \ncuja análise se dá pelo ponto de intersecção entre o \ncomprimento, em centímetro, e a idade, em mês completo \ne ano, da criança.\n120\n115\n110\n105\n100\n95\n90\n85\n80\n2\n4\n6\n8\n10\n2\n4\n6\n8\n10\nComprimento/estatura (cm)\nMeses\n3 anos\n4 anos\n5 anos\nIdade (mês completo e ano)\n120\n115\n110\n105\n100\n95\n90\n85\n80\np50\np15\np3\np97\np85\nDisponível em: www.aprocura.com.br. Acesso em: 22 out. 2015 (adaptado).\nUma menina aos 3 anos de idade tinha altura de \n85 centímetros e aos 4 anos e 4 meses sua altura chegou \na um valor que corresponde a um ponto exatamente \nsobre a curva p50. \nQual foi o aumento percentual da altura dessa menina, \ndescrito com uma casa decimal, no período considerado?\nA\t 23,5%\nB\t 21,2%\nC\t 19,0%\nD\t 11,8%\nE\t 10,0%",
+  "processado_em": "2026-05-08T14:01:18.081454",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

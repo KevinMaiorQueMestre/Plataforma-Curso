@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\t\nO audiograma corresponde a uma maneira objetiva d\nfrequências sonoras. Quanto maior a sensibilidade, menor\nNo gráfico, cada curva tracejada corresponde a uma dete\nA curva cheia superior corresponde aos níveis de intensid\n120\n100\nNível de intensidade sonora (dB)\n80\n60\n40\n20\n0\n20\n40\n100\n200\n40\nFreq\nLENT, R. Cem bilhões d\nA faixa de frequência, em Hz, na qual a maioria da populaç\nA\t\nA\t abaixo de 80.\nB\t\nB\t entre 80 e 100.\nC\t\nC\t entre 2 000 e 4 000.\nD\t\nD\t entre 4 000 e 10 000.\nE\t\nE\t acima de 10 000.",
+  "processado_em": "2026-05-08T14:04:46.881352",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

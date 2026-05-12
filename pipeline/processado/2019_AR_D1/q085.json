@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 85\t\n“Nossa cultura não cabe nos seus museus”.\nTOLENTINO, A. B. Patrimônio cultural e discursos museológicos. \nMidas, n. 6, 2016.\nProduzida no Chile, no final da década de 1970, \na imagem expressa um conflito entre culturas e sua \npresença em museus decorrente da\nA\t valorização do mercado das obras de arte.\nB\t definição dos critérios de criação de acervos.\nC\t ampliação da rede de instituições de memória.\nD\t burocratização do acesso dos espaços expositivos.\nE\t fragmentação dos territórios das comunidades \nrepresentadas.",
+  "processado_em": "2026-05-11T23:27:28.160364",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

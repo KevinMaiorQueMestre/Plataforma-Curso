@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q006",
+  "imagem": "q006.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 6,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 06\t\nNo que diz respeito ao gênero bilhete, a autora dessa crônica\nA\tressalta a formalidade na comunicação com as pessoas de sua convivência.\nB\tcritica a ansiedade causada pela velocidade da comunicação.\nC\texpressa a obrigatoriedade de concisão nas anotações.\nD\tquestiona a prática da escrita de próprio punho.\nE\tapresenta a diversidade de usos no cotidiano.",
+  "processado_em": "2026-05-11T23:29:50.005751",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

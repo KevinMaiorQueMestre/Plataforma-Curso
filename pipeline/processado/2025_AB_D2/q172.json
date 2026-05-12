@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 172\t\nNo piso de uma sala, há obstáculos. Cada obstáculo tem \numa cor: azul, cinza ou alaranjado. Um robô foi colocado na \nposição representada pela seta, conforme a figura.\nEsse robô foi programado para, ao iniciar sua movimentação, \nseguir continuamente sempre no sentido que aponta a seta. \nEle tem um sensor que, ao tocar em um obstáculo, identifica \nsua cor. Se a cor é cinza, o robô gira 90° no sentido horário; \nse a cor é alaranjado, gira 90° no sentido anti-horário, e se a \ncor for azul, gira 180°.\nPara sair dessa sala, em quantos obstáculos ele tocará?\nA\t11\nB\t8\nC\t7\nD\t6\nE\t1",
+  "processado_em": "2026-05-08T14:06:54.188415",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\t\nAtualmente, há telefones celulares com telas de \ndiversos tamanhos e em formatos retangulares. Alguns \ndeles apresentam telas medindo 3 1\n2\n polegadas, com \ndeterminadas especificações técnicas. Além disso, em \nmuitos modelos, com a inclusão de novas funções no \ncelular, suas telas ficaram maiores, sendo muito comum \nencontrarmos atualmente telas medindo 4 5\n6  polegadas, \nconforme a figura.\nDisponível em: www.tecmundo.com.br. \nAcesso em: 5 nov. 2014 (adaptado).\nA diferença de tamanho, em valor absoluto, entre as \nmedidas, em polegada, das telas do celular 2 e do celular 1, \nrepresentada apenas com uma casa decimal, é\nA\t0,1.\nB\t0,5.\nC\t1,0.\nD\t1,3.\nE\t1,8.",
+  "processado_em": "2026-05-08T14:06:19.687900",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

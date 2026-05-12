@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q005",
+  "imagem": "q005.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 5,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 05\t\nDe ponta a ponta, é tudo praia-palma, muito chã e \nmuito formosa. Pelo sertão nos pareceu, vista do mar, \nmuito grande, porque, a estender olhos, não podíamos \nver senão terra com arvoredos, que nos parecia muito \nlonga. Nela, até agora, não pudemos saber que haja ouro, \nnem prata, nem coisa alguma de metal ou ferro; nem lho \nvimos. Porém a terra em si é de muito bons ares [...]. \nPorém o melhor fruto que dela se pode tirar me parece \nque será salvar esta gente.\nCarta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. \nHistória moderna através de textos. São Paulo: Contexto, 2001.\nA carta de Pero Vaz de Caminha permite entender o \nprojeto colonizador para a nova terra. Nesse trecho, o \nrelato enfatiza o seguinte objetivo:\nA\t Valorizar a catequese a ser realizada sobre os \npovos nativos.\nB\t Descrever \na \ncultura \nlocal \npara \nenaltecer \na \nprosperidade portuguesa.\nC\t Transmitir o conhecimento dos indígenas sobre o \npotencial econômico existente.\nD\t Realçar a pobreza dos habitantes nativos para \ndemarcar a superioridade europeia.\nE\t Criticar o modo de vida dos povos autóctones para \nevidenciar a ausência de trabalho.",
+  "processado_em": "2026-05-08T14:00:08.119650",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

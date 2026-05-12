@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nNa construção de um avião de papel, uma criança dobr\nAssim, ela obteve dois novos retângulos, sendo um deles o\numa nova dobradura, mantendo N fixo e sobrepondo o lado\ndeterminou um ponto P em MN e também um ponto Q em\nConsiderando as classificações quanto à medida dos ângu\nA\tacutângulo e escaleno.\nB\tacutângulo e isósceles não equilátero.\nC\tacutângulo e equilátero.\nD\tretângulo e escaleno.\nE\tretângulo e isósceles não equilátero.",
+  "processado_em": "2026-05-08T14:06:04.843675",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

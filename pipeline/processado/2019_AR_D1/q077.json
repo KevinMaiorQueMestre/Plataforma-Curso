@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 77\t\nFala-se aqui de uma arte criada nas ruas e para \nas ruas, marcadas antes de tudo pela vida cotidiana, \nseus conflitos e suas possibilidades, que poderiam \nenvolver técnicas, agentes e temas que não fossem \nencontrados nas instituições mais tradicionais e formais.\nVALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do \nBeco do Batman. Boletim Goiano de Geografia (Online). \n Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).\nA manifestação artística expressa na imagem e \napresentada \nno \ntexto \nintegra \num \nmovimento \ncontemporâneo de\nA\t regulação das relações sociais.\nB\t apropriação dos espaços públicos.\nC\t padronização das culturas urbanas.\nD\t valorização dos formalismos estéticos.\nE\t revitalização dos patrimônios históricos.",
+  "processado_em": "2026-05-11T23:27:26.963204",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

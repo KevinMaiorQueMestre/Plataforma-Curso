@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 157\t\nEm 2011, um tsunami atingiu os reatores da usina nuclear \nde Fukushima, no Japão, liberando radiação para o meio \nambiente e provocando um dos maiores acidentes radioativos \nda história. Inicialmente, foi delimitada uma área de isolamento \ncorrespondente a um círculo com raio de 30 km, centrado no \nlocal do acidente radioativo.\nDisponível em: https://noticias.uol.com.br. \nAcesso em: 24 abr. 2024 (adaptado).\nConsidere que, para aumentar a margem de segurança, \no raio do círculo da área de isolamento foi ampliado para 40 km, \nmantendo-se o mesmo centro.\nUse 3 como valor aproximado para π.\nO aumento da medida da área de isolamento, em quilômetro \nquadrado, foi de\nA\t300.\nB\t2 100.\nC\t4 800.\nD\t7 500.\nE\t14 700.",
+  "processado_em": "2026-05-08T14:06:53.410775",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

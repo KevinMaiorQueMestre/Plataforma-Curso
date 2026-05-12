@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 65\t\nA manutenção da produtividade de grãos por hectare \ntem sido obtida, entre outros, graças ao aumento do uso \nde fertilizantes. Contudo, a incapacidade de regeneração \ndo solo no longo prazo mostra que, mesmo aumentando \no uso de fertilizantes, não é possível alcançar a mesma \nprodutividade por hectare.\nPORTO-GONÇALVES, C. W. A globalização da natureza e a natureza da globalização. \nRio de Janeiro: Civilização Brasileira, 2006 (adaptado).\nNo contexto descrito, uma estratégia que tem sido \nutilizada para a manutenção dos níveis de produtividade \né o(a)\nA\t elevação do valor final do produto.\nB\t adoção de políticas de subvenção.\nC\t ampliação do modelo monocultor.\nD\t investimento no uso da biotecnologia.\nE\t crescimento da mão de obra empregada.",
+  "processado_em": "2026-05-11T23:26:14.421439",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

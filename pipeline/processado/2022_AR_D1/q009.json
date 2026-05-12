@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nDETRAN  ES\nCausar um acidente\né algo que você leva\npro resto da vida.\nNão beba se for dirigir.\nArrependimento\nArrependimento\nCausar um acidente\né algo que você leva\npro resto da vida.\nNão beba se for dirigir.\nDETRAN  ES\nDisponível em: www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado).\nPara convencer o público-alvo sobre a necessidade de \num trânsito mais seguro, essa peça publicitária apela \npara o(a)\nA\t\nA\t sentimento de culpa provocado no condutor \ncausador de acidentes.\nB\t\nB\t dano psicológico causado nas vítimas da violência \nnas estradas.\nC\t\nC\t importância do monitoramento do trânsito pelas \nautoridades competentes.\nD\t\nD\t necessidade de punição a motoristas alcoolizados \nenvolvidos em acidentes.\nE\t\nE\t sofrimento decorrente da perda de entes queridos em \nacidentes automobilísticos.",
+  "processado_em": "2026-05-08T14:04:58.317918",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

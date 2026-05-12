@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 47\t\nHá quinze anos, a média de cana cortada era de seis \ntoneladas por trabalhador por dia. Hoje, os trabalhadores \ncortam dez toneladas. Intensificou-se o ritmo da jornada \nde trabalho para que o trabalhador seja competitivo. A \nreferência dele passou a ser a máquina. As usinas, para \nterem um trabalhador com esse perfil, não podem tratar-\n-lhes como os migrantes de antigamente. Ele precisa \nde uma comida especial. Então, melhorou o padrão de \nalimentação. Precisa de descanso especial, por isso os \nalojamentos foram melhorados.\nO paradoxo no mundo do trabalho. Disponível em: http://amaivos.uol.com.br. \nAcesso em: 19 maio 2013 (adaptado).\nNa perspectiva apresentada no texto, as melhorias das \ncondições de vida do trabalhador são explicadas pelo(a)\nA\t\nA\t distribuição equitativa de terras.\nB\t\nB\t incremento da oferta de emprego.\nC\t\nC\t demanda de elevada qualificação.\nD\t\nD\t exigência crescente de produtividade.\nE\t\nE\t aperfeiçoamento do marco normativo.",
+  "processado_em": "2026-05-08T14:04:40.516999",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q028",
+  "imagem": "q028.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 28,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 28\t\nDisponível em: www.separeolixo.gov.br. Acesso em: 4 dez. 2017 (adaptado).\nNessa campanha, a principal estratégia para convencer \no leitor a fazer a reciclagem do lixo é a utilização da \nlinguagem não verbal como argumento para\nA\t reaproveitamento de material.\nB\t facilidade na separação do lixo.\nC\t melhoria da condição do catador.\nD\t preservação de recursos naturais.\nE\t geração de renda para o trabalhador.",
+  "processado_em": "2026-05-11T23:26:32.707257",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

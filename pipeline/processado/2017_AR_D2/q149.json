@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nUm brinquedo infantil caminhão-cegonha é formado \npor uma carreta e dez carrinhos nela transportados, \nconforme a figura.\nNo setor de produção da empresa que fabrica esse \nbrinquedo, é feita a pintura de todos os carrinhos para que \no aspecto do brinquedo fique mais atraente. São utilizadas \nas cores amarelo, branco, laranja e verde, e cada carrinho \né pintado apenas com uma cor. O caminhão-cegonha \ntem uma cor fixa. A empresa determinou que em todo \ncaminhão-cegonha deve haver pelo menos um carrinho \nde cada uma das quatro cores disponíveis. Mudança de \nposição dos carrinhos no caminhão-cegonha não gera um \nnovo modelo do brinquedo.\nCom base nessas informações, quantos são os modelos \ndistintos do brinquedo caminhão-cegonha que essa \nempresa poderá produzir?\nA\t C6,4\nB\t C9,3\nC\t C10,4\nD\t 64\nE\t 46",
+  "processado_em": "2026-05-11T23:25:53.371826",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

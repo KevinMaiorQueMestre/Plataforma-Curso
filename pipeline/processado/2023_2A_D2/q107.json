@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 107\t\nO tratamento do esgoto gerado por fábricas e \nresidências pode se tornar mais acessível em virtude de \numa nova proposta tecnológica, que utiliza um reator capaz \nde transformar nitrogênio orgânico, presente no esgoto, em \nnitrogênio inorgânico. A tecnologia prevê o uso de um cilindro \nde acrílico com espuma de poliuretano em seu interior, \nsob a qual se fixam bactérias capazes de tratar o efluente. \nAs bactérias que ficam no exterior da espuma realizam \nreações de nitrificação desse substrato, e as que ficam \nno interior da espuma realizam reações de desnitrificação.\nDisponível em: http://cienciahoje.uol.com.br. Acesso em: 25 jun. 2015 (adaptado).\nNa primeira etapa do processo, que ocorre no exterior da \nespuma, a ação das bactérias consiste em\nA\t\nA\t converter nitrogênio gasoso (N2) em fertilizante.\nB\t\nB\t usar CO2 para converter nitrato em nitrogênio \ngasoso (N2).\nC\t\nC\t transformar a matéria orgânica morta em íons \namônio (NH4\n+).\nD\t\nD\t capturar nitrogênio gasoso (N2) e convertê-lo em \namônia (NH3).\nE\t\nE\t utilizar O2 para transformar amônia (NH3) em nitrito \ne, após, em nitrato.",
+  "processado_em": "2026-05-08T14:05:24.954822",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

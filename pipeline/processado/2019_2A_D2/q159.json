@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 159\t\nUma empresa, investindo na segurança, contrata \numa firma para instalar mais uma câmera de segurança \nno teto de uma sala. Para iniciar o serviço, o representante \nda empresa informa ao instalador que nessa sala já \nestão instaladas duas câmeras e, a terceira, deverá ser \ncolocada de maneira a ficar equidistante destas. Além \ndisso, ele apresenta outras duas informações:\n(i) \u0007um esboço em um sistema de coordenadas \ncartesianas, do teto da sala, onde estão inseridas \nas posições das câmeras 1 e 2, conforme \na figura.\n(ii) \u0007\ny\nx\nLargura da sala (m)\nCâmera 2\nCâmera 1\nComprimento da sala (m)\n4\n3\n2\n1\n1\n0\n2\n3\n4\ncinco relações entre as coordenadas (x ; y) da \nposição onde a câmera 3 deverá ser instalada.\nR1:\ny = x\nR2:\ny = − 3x + 5\nR3:\ny = − 3x + 10\nR4:\ny\nx\n\u001f\n\u001e\n1\n3\n5\n3\nR5:\ny\nx\n\u001f\n\u001e\n1\n3\n1\n10\nO instalador, após analisar as informações e as \ncinco relações, faz a opção correta dentre as relações \napresentadas para instalar a terceira câmera.\nA relação escolhida pelo instalador foi a\nA\t R1.\nB\t R2.\nC\t R3.\nD\t R4.\nE\t R5.",
+  "processado_em": "2026-05-11T23:27:12.815737",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

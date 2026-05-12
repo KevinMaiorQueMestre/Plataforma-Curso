@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 09\t\nNa regulação de matérias culturalmente delicadas, \ncomo, por exemplo, a linguagem oficial, os currículos \nda educação pública, o status das Igrejas e das \ncomunidades religiosas, as normas do direito penal \n(por exemplo, quanto ao aborto), mas também em \nassuntos menos chamativos, como, por exemplo, a \nposição da família e dos consórcios semelhantes ao \nmatrimônio, a aceitação de normas de segurança ou a \ndelimitação das esferas pública e privada — em tudo \nisso reflete-se amiúde apenas o autoentendimento \nético-político de uma cultura majoritária, dominante \npor motivos históricos. Por causa de tais regras, \nimplicitamente repressivas, mesmo dentro de uma \ncomunidade republicana que garanta formalmente \na igualdade de direitos para todos, pode eclodir um \nconflito cultural movido pelas minorias desprezadas \ncontra a cultura da maioria.\nHABERMAS, J. A inclusão do outro: estudos de teoria política. São Paulo: Loyola, 2002.\nA reivindicação dos direitos culturais das minorias, \ncomo exposto por Habermas, encontra amparo nas \ndemocracias contemporâneas, na medida em que \nse alcança\nA\t a secessão, pela qual a minoria discriminada \nobteria a igualdade de direitos na condição \nda sua concentração espacial, num tipo de \nindependência nacional.\nB\t a reunificação da sociedade que se encontra \nfragmentada em grupos de diferentes comunidades \nétnicas, confissões religiosas e formas de vida, em \ntorno da coesão de uma cultura política nacional.\nC\t a coexistência das diferenças, considerando a \npossibilidade de os discursos de autoentendimento \nse submeterem ao debate público, cientes de que \nestarão vinculados à coerção do melhor argumento.\nD\t a autonomia dos indivíduos que, ao chegarem à \nvida adulta, tenham condições de se libertar das \ntradições de suas origens em nome da harmonia da \npolítica nacional.\nE\t o desaparecimento de quaisquer limitações, tais \ncomo linguagem política ou distintas convenções \nde comportamento, para compor a arena política a \nser compartilhada",
+  "processado_em": "2026-05-08T13:59:01.976386",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

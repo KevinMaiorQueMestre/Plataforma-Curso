@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 64\t\nUma análise criteriosa do desempenho de Usain \nBolt na quebra do recorde mundial dos 100 metros rasos \nmostrou que, apesar de ser o último dos corredores \na reagir ao tiro e iniciar a corrida, seus primeiros \n30 metros foram os mais velozes já feitos em um recorde \nmundial, cruzando essa marca em 3,78 segundos. Até se \ncolocar com o corpo reto, foram 13 passadas, mostrando \nsua potência durante a aceleração, o momento mais \nimportante da corrida. Ao final desse percurso, Bolt havia \natingido a velocidade máxima de 12 m/s.\nDisponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado).\nSupondo que a massa desse corredor seja igual a 90 kg, \no trabalho total realizado nas 13 primeiras passadas é \nmais próximo de:\nA\t 5,4×102 J.\nB\t 6,5×103 J.\nC\t 8,6×103 J.\nD\t 1,3×104 J.\nE\t 3,2×104 J.",
+  "processado_em": "2026-05-08T14:00:47.785263",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

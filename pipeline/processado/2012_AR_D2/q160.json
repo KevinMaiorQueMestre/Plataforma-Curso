@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\t\nUma mãe recorreu à bula para verificar a dosagem \nde um remédio que precisava dar a seu filho. Na bula, \nrecomendava-se a seguinte dosagem: 5 gotas para cada \n2 kg de massa corporal a cada 8 horas.\nSe a mãe ministrou corretamente 30 gotas do remédio a \nseu filho a cada 8 horas, então a massa corporal dele é de\nA\t 12 kg.\nB\t 16 kg.\nC\t 24 kg.\nD\t 36 kg.\nE 75 kg",
+  "processado_em": "2026-05-08T13:59:14.910209",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

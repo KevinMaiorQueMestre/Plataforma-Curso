@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões de 136 a 180\nQuestão 136                \nUm administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de \nprodução de seus itens, em real, em função da quantidade de itens produzidos.\nReceita\nCusto\nQuantidade de \nitens produzidos\nR$\n5\n10\n15\n20\n25\n30\n35\n40\n45\n50\n55\n5\n10\n15\n20\n25\n30\n0\nO lucro é determinado pela diferença: Receita – Custo. \nO gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é\nA\nR$\n5\n−5\n−10\n−15\n−20\n10\n15\n20\n25\n30\n35\n40\n5\n10\n20\n25\n30\n0\nQuantidade de \nitens produzidos\n15\nD\nR$\n5\n−5\n10\n15\n20\n25\n30\n35\n40\n45\n50\n55\n5\n10\n20\n25\n30\n0\nQuantidade de \nitens produzidos\n15\nB\nR$\n5\n−5\n−10\n−15\n20\n10\n15\n20\n5\n10\n20\n25\n30\n0\nQuantidade de \nitens produzidos\n15\nE\nR$\n20\n25\n30\n35\n40\n45\n50\n55",
+  "processado_em": "2026-05-11T23:28:15.793343",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

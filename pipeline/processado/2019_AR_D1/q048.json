@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 48\t\nDizem que Humboldt, naturalista do século XIX, \nmaravilhado \npela \ngeografia, \nflora \ne \nfauna \nda \nregião sul-americana, via seus habitantes como se \nfossem mendigos sentados sobre um saco de ouro, \nreferindo-se a suas incomensuráveis riquezas naturais \nnão exploradas. De alguma maneira, o cientista ratificou \nnosso papel de exportadores de natureza no que seria \no mundo depois da colonização ibérica: enxergou-nos \ncomo territórios condenados a aproveitar os recursos \nnaturais existentes.\nACOSTA, A. Bem viver: uma oportunidade para imaginar outros mundos. \nSão Paulo: Elefante, 2016 (adaptado).\nA relação entre ser humano e natureza ressaltada \nno texto refletia a permanência da seguinte corrente \nfilosófica:\nA\t Relativismo cognitivo.\nB\t Materialismo dialético.\nC\t Racionalismo cartesiano.\nD\t Pluralismo epistemológico.\nE\t Existencialismo fenomenológico.",
+  "processado_em": "2026-05-11T23:27:24.862842",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

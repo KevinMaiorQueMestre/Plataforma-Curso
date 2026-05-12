@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 10\t\nEsse texto organiza-se pelo encadeamento de sequências textu\napresentada em:\nA\t“Às vezes usa o epíteto num modo semi-irônico, como quem \nB\t“Meu velho pai tá de saco cheio ‘dessas coisas’”. (l. 7)\nC\t“e começou a reclamar da dificuldade de nos comunicarmos \nD\t“A hipótese é absurda, mas não mais que o furdunço global q\nE\t“Na faculdade eu penava pra entender o que o Marx queria dize\n(l. 29-30)",
+  "processado_em": "2026-05-08T14:06:42.071289",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

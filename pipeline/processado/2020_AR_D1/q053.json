@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 53          \n“Devo estar chegando perto do centro da Terra. Deixe \nver: deve ter sido mais de seis mil quilômetros, por aí...” \n(como se vê, Alice tinha aprendido uma porção de coisas \ndesse tipo na escola, e embora essa não fosse uma \noportunidade lá muito boa de demonstrar conhecimentos, \njá que não havia ninguém por perto para escutá-la, em \ntodo caso era bom praticar um pouco) “... sim, deve ser \nmais ou menos essa a distância... mas então qual seria \na latitude ou longitude em que estou?” (Alice não tinha \na menor ideia do que fosse latitude ou longitude, mas \nachou que eram palavras muito imponentes).\nCARROLL, L. Aventuras de Alice: no País das Maravilhas, Através do espelho e outros textos. \nSão Paulo: Summus, 1980.\nO texto descreve uma confusão da personagem em \nrelação\nA \t ao tipo de projeção cartográfica.\nB \t aos contornos dos fusos horários.\nC \t à localização do norte magnético.\nD \t aos referenciais de posição relativa.\nE \t às distorções das formas continentais.",
+  "processado_em": "2026-05-11T23:28:04.495435",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

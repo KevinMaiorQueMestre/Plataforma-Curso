@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nA vegetação apresenta adaptações ao ambiente, \ncomo plantas arbóreas e arbustivas com raízes que se \nexpandem horizontalmente, permitindo forte ancoragem \nno substrato lamacento; raízes que se expandem \nverticalmente, por causa da baixa oxigenação do \nsubstrato; folhas que têm glândulas para eliminar o \nexcesso de sais; folhas que podem apresentar cutícula \nespessa para reduzir a perda de água por evaporação.\nAs características descritas referem-se a plantas \nadaptadas ao bioma:\nA\t Cerrado.\nB\t Pampas.\nC\t Pantanal.\nD\t Manguezal.\nE\t Mata de Cocais.",
+  "processado_em": "2026-05-08T14:01:09.901199",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

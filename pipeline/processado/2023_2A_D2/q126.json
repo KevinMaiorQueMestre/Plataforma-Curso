@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nHoje em dia, não é raro encontrar sacolas plásticas p\nsupermercado: da padaria à farmácia, o consumidor está s\nnecessária assim. A cada mês, cerca de 1,5 bilhão de sa\npor dia e 18 bilhões ao ano. Não é à toa, portanto, que o u\ndos ambientalistas.\nOs ambientalistas consideram o uso excessivo de sacolas\nA\t\nA\t o uso de materiais descartáveis incrementa o consum\nB\t\nB\t o plástico é derivado do petróleo, recurso natural es\nC\t\nC\t as sacolas se transformam em lixo de difícil decomp\nD\t\nD\t o risco de contaminação do solo e subsolo por gases \nE\t\nE\t o consumo de produtos industrializados é estimulado",
+  "processado_em": "2026-05-08T14:05:25.938542",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

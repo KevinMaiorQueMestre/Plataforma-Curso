@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nUm dos grandes problemas enfrentados nas rodovias \nbrasileiras é o excesso de carga transportada pelos \ncaminhões. Dimensionado para o tráfego dentro dos \nlimites legais de carga, o piso das estradas se deteriora \ncom o peso excessivo dos caminhões. Além disso, o \nexcesso de carga interfere na capacidade de frenagem \ne no funcionamento da suspensão do veículo, causas \nfrequentes de acidentes.\nCiente dessa responsabilidade e com base na \nexperiência adquirida com pesagens, um caminhoneiro \nsabe que seu caminhão pode carregar, no máximo, 1 500 \ntelhas ou 1 200 tijolos.\nConsiderando esse caminhão carregado com 900 \ntelhas, quantos tijolos, no máximo, podem ser \nacrescentados à carga de modo a não ultrapassar a \ncarga máxima do caminhão?\nA\t 300 tijolos\nB\t 360 tijolos\nC\t 400 tijolos\nD\t 480 tijolos\nE\t 600 tijolos",
+  "processado_em": "2026-05-08T14:00:23.543354",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

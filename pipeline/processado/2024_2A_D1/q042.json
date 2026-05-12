@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 42\t\nDois países, três cidades, uma só comunidade\nCidades separadas por fronteira seca reúnem paranaenses, \ncatarinenses e argentinos em uma integração. Essa irmandade \nentre os municípios é perceptível não apenas pela relação \ngeográfica. Nas ruas ou no comércio, é fácil encontrar quem \ntrabalhe em uma cidade e viva na outra. É comum perceber um \nsotaque quase indefinido, misturando português e espanhol, \nresultado da convivência entre brasileiros e argentinos. \nPalavras como camiáu (caminhão) não são encontradas \nnem no espanhol nem no português vernáculos, apenas no \nportunhol. Tal situação, de contato linguístico, é muito comum \nnas fronteiras de países ou até mesmo dentro de um país em \nque duas línguas coexistem, em regiões próximas a países \nfronteiriços ou em comunidades bilíngues.\nDisponível em: www.gazetadopovo.com.br. \nAcesso em: 12 dez. 2023 (adaptado).\nDe acordo com esse texto, a palavra “camiáu” é um exemplo \nde fenômeno que revela a\nA\tvariedade histórica do português brasileiro usado em \ncomunidades bilíngues.\nB\tcriação de neologismos no âmbito do comércio no \nportuguês brasileiro.\nC\tnecessidade de alterações ortográficas na língua \nespanhola.\nD\triqueza da diversidade linguística em contextos de \nfronteira.\nE\tvariação do léxico do português em estados brasileiros.",
+  "processado_em": "2026-05-08T14:05:54.054453",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

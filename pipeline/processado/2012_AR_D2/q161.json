@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nO esporte de alta competição da atualidade produziu \numa questão ainda sem resposta: Qual é o limite do corpo \nhumano? O maratonista original, o grego da lenda, morreu \nde fadiga por ter corrido 42 quilômetros. O americano \nDean Karnazes, cruzando sozinho as planícies da \nCalifórnia, conseguiu correr dez vezes mais em 75 horas.\nUm professor de Educação Física, ao discutir com \na turma o texto sobre a capacidade do maratonista \namericano, desenhou na lousa uma pista reta de \n60 centímetros, que representaria o percurso referido.\nDisponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2011 (adaptado).\nSe o percurso de Dean Karnazes fosse também em uma \npista reta, qual seria a escala entre a pista feita pelo \nprofessor e a percorrida pelo atleta?\nA\t 1:700\nB\t 1:7 000\nC\t 1:70 000\nD\t 1:700 000\nE 1:7 000 000",
+  "processado_em": "2026-05-08T13:59:14.949121",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 134\t\nUma cozinheira colocou sal a mais no feijão que \nestava cozinhando. Para solucionar o problema, ela \nacrescentou batatas cruas e sem tempero dentro da \npanela. Quando terminou de cozinhá-lo, as batatas",
+  "processado_em": "2026-05-11T23:27:35.207092",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

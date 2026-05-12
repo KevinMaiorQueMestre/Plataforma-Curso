@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CH\n1º di\n| C d\n1\nAZUL\nPá i\n23\nQUESTÃO 62\nEnquanto persistirem as grandes diferenças sociais \ne os níveis de exclusão que conhecemos hoje no Brasil, \nas políticas sociais compensatórias serão indispensáveis.\nSACHS, I. Inclusão social pelo trabalho decente. Revista de Estudos Avançados, n. 51, ago. 2004.\nAs ações referidas são legitimadas por uma concepção \nde política pública\nA focada no vínculo clientelista.\nB pautada na liberdade de iniciativa.\nC baseada em relações de parentesco.\nD orientada por organizações religiosas.\nE centrada na regulação de oportunidades.",
+  "processado_em": "2026-05-11T23:25:22.143920",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

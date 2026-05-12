@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q006",
+  "imagem": "q006.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 6,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 06\t\nNessa crônica, os impactos do desenvolvimento tecnológico na v\nA\tpotencial restrito da memória humana.\nB\tinteração conflituosa na família moderna.\nC\tsubstituição rápida dos aparelhos eletrônicos.\nD\tetarismo resultante da rapidez do fluxo informacional.\nE\tdescontentamento com o excesso de recursos digitais.",
+  "processado_em": "2026-05-08T14:06:41.960208",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

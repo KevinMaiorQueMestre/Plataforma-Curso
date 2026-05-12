@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 87          \nNa Grécia, o conceito de povo abrange tão \nsomente aqueles indivíduos considerados cidadãos. \nAssim é possível perceber que o conceito de povo era \nmuito restritivo. Mesmo tendo isso em conta, a forma \ndemocrática vivenciada e experimentada pelos gregos \natenienses nos séculos IV e V a.C. pode ser caracterizada, \nfundamentalmente, como direta.\nMANDUCO, A. Ciência política. São Paulo: Saraiva, 2011.\nNaquele contexto, a emergência do sistema de governo \nmencionado no excerto promoveu o(a)\nA \t competição para a escolha de representantes.\nB \t campanha pela revitalização das oligarquias.\nC \t estabelecimento de mandatos temporários.\nD \t declínio da sociedade civil organizada.\nE \t participação no exercício do poder.",
+  "processado_em": "2026-05-11T23:28:06.795169",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

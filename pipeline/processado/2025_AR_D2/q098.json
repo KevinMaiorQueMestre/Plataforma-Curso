@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 98\t\nO sashimi (filé de peixe cru) de baiacu é uma iguaria muito \napreciada no Japão. Entretanto, sua ingestão pode causar a \nmorte por parada respiratória, pois esse peixe contém uma \npotente neurotoxina termoestável, a tetrodotoxina, que é \nproduzida e armazenada nas gônadas e vísceras.\nQue ação poderia evitar essa intoxicação?\nA\tCriar os peixes em cativeiro.\nB\tRealizar a pesca com redes.\nC\tConsumir peixes cozidos ou fritos.\nD\tPreparar o peixe em condições adequadas de higiene.\nE\tManusear o peixe sem provocar o rompimento dos órgãos \ninternos.",
+  "processado_em": "2026-05-08T14:07:04.887608",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

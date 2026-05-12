@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nO presidente de uma empresa, com o objetivo de \nrenovar sua frota de automóveis, solicitou uma pesquisa \nmedindo o consumo de combustível de 5 modelos de carro \nque usam o mesmo tipo de combustível. O resultado foi:\n•\t Carro I: deslocamento de 195 km consumindo \n20 litros de combustível;\n•\t Carro II: deslocamento de 96 km consumindo \n12 litros de combustível;\n•\t Carro III: deslocamento de 145 km consumindo \n16 litros de combustível;\n•\t Carro IV: deslocamento de 225 km consumindo \n24 litros de combustível;\n•\t Carro V: deslocamento de 65 km consumindo \n8 litros de combustível.\nPara renovar a frota com o modelo mais econômico, em \nrelação à razão quilômetro rodado por litro, devem ser \ncomprados carros do modelo\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-11T23:26:23.678329",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

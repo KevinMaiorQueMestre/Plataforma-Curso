@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 03\t\n Que hay de cierto en la fábula de la cigarra y la hormiga\nCuenta una conocida fábula que, tras pasar todo \nun verano cantando y ociosa, una cigarra se encontró \nsin alimento y decidió pedir a su vecina, la hormiga algo \nque llevarse a la boca. Esta le ofreció granos de arroz \nacompañados de una moraleja: más vale prevenir que \nlamentar. ¿Merecen su fama de previsoras y afanosas \nlas hormigas? Sin duda. Las hormigas cortadoras de \nhojas (Atta cephalotes), por ejemplo, son consideradas \nlas primeras agricultoras del planeta, dedicadas a cortar, \nacarrear e integrar hojas en el jardín de hongos del que \nse alimentan. Otro dato curioso es que se ha comprobado \nque, prácticamente en todas las especies de hormigas, \nlas más ancianas asumen trabajos de mayor riesgo. \nDe acuerdo con Dawid Moron de la Universidad de \nJagiellonian (Polonia), esto se debe a que es mejor para \nla colonia sacrificar una vida que está cerca de su fin \nque a un individuo joven.\nEn cuanto a las cigarras, no se les puede acusar de \nperezosas. Lo que sí es cierto es que los machos pasan \nel verano “cantando” — un sonido que producen con \nunas membranas llamadas timbales — y encaramados \na un árbol de cuya savia se alimentan",
+  "processado_em": "2026-05-11T23:27:18.190508",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

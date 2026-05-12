@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 26\t\nA natureza fez os homens tão iguais, quanto às \nfaculdades do corpo e do espírito, que, embora por vezes \nse encontre um homem manifestamente mais forte de \ncorpo, ou de espírito mais vivo do que outro, mesmo \nassim, quando se considera tudo isto em conjunto, a \ndiferença entre um e outro homem não é suficientemente \nconsiderável para que um deles possa com base \nnela reclamar algum benefício a que outro não possa \nigualmente aspirar.\nHOBBES, T. Leviatã. São Paulo: Martins Fontes, 2003.\nPara Hobbes, antes da constituição da sociedade civil, \nquando dois homens desejavam o mesmo objeto, eles\nA\t entravam em conflito.\nB\t recorriam aos clérigos.\nC\t consultavam os anciãos.\nD\t apelavam aos governantes.\nE\t exerciam a solidariedade.",
+  "processado_em": "2026-05-08T14:00:44.189215",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 64\t\n Figura 1\nAMAZÔNIA\nNORDESTE\nCENTRO-SUL\nDisponível em: http://atlasescolar.ibge.gov.br. Acesso em: 2 out. 2015 (adaptado).\n Figura 2\nNORTE\nCENTRO-OESTE\nSUDESTE\nSUL\nNORDESTE\nDisponível em: http://imgms.almanaque.abril.com.br. Acesso em: 2 out. 2015.\nNo planejamento das ações governamentais, a segunda \nforma de regionalização apresenta a vantagem de\nA\t respeitar a divisão político-administrativa.\nB\t reconhecer as desigualdades sociais.\nC\t considerar as identidades culturais.\nD\t valorizar a dinâmica econômica.\nE\t incorporar os critérios naturais.",
+  "processado_em": "2026-05-11T23:26:14.026071",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

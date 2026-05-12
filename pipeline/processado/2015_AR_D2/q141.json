@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nAtualmente existem diversas locadoras de veículos, \npermitindo uma concorrência saudável para o mercado, \nfazendo com que os preços se tornem acessíveis.\nNas locadoras P e Q, o valor da diária de seus carros \ndepende da distância percorrida, conforme o gráfico.\nValor da diária (R$)\nDistância percorrida (km)\n0\n20\n40\n60\n100\n80\n120\n140\n160\n20\n40\n60\n80\n100\n120\n140\n160\nP\nQ\nDisponível em: www.sempretops.com. Acesso em: 7 ago. 2012.\nO valor pago na locadora Q é menor ou igual àquele pago \nna locadora P para distâncias, em quilômetros, presentes \nem qual(is) intervalo(s)?\nA\t De 20 a 100.\nB\t De 80 a 130.\nC\t De 100 a 160.\nD\t De 0 a 20 e de 100 a 160.\nE De 40 a 80 e de 130 a 160",
+  "processado_em": "2026-05-08T14:00:56.636250",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

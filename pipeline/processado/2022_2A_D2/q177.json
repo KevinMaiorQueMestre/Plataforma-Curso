@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nTrês amigos realizaram uma viagem de carro entre \nduas cidades, num tempo total de 31 horas. Para não \nfazer paradas, revezaram na direção, de forma que cada \num deles dirigisse um terço da quilometragem total. \nO primeiro, mais prudente, dirigiu a uma velocidade \nmédia de 75 quilômetros por hora; o segundo, a uma \nvelocidade média de 90 quilômetros por hora; e o último, \nmais apressado, dirigiu a uma velocidade média de \n100 quilômetros por hora.\nA distância percorrida por eles, em quilômetros, foi de\nA\t\nA\t 900.\nB\t\nB\t 2 700.\nC\t\nC\t 2 738.\nD\t\nD\t 2 790.\nE\t\nE\t 8 215.",
+  "processado_em": "2026-05-08T14:04:51.123854",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

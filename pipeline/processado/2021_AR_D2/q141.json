@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 141\nUm ciclista amador de 61 anos de idade utilizou \num monitor cardíaco para medir suas frequências \ncardíacas em quatro diferentes tipos de trechos do \npercurso. Os resultados das frequências cardíacas \nmáximas alcançadas nesses trechos foram:\nTrechos do percurso \nFrequências cardíacas \nmáximas (bpm)\nLeve no plano\n90\nForte no plano\n120\nSubida moderada\n130\nSubida forte\n140\n\u001a\b!\n/\t\n\u0002 \u000b\f\n\u0002 \b\u0002 P\b\u000e@\b\u0002 \b\n\u0007B!\u000e\u001e\b\u0002 \u000e\u000f\n\b2\u0002 %\b\u0007\b\u0002 \u0004\u0002 J\b\u0005+\u0004\u0002\nde condicionamento físico é entre 65% e 85% da \nfrequência cardíaca máxima (Fc máx.), que, por sua vez, \né determinada pela fórmula:\nFc máx. = 220 – idade,\nem que a idade é dada em ano e Fc máx. é dada em bpm \n(batimento por minuto).",
+  "processado_em": "2026-05-08T14:04:30.742455",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

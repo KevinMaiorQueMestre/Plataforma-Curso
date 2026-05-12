@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nA imagem representa uma ilustração retirada do \nlivro De Motu Cordis, de autoria do médico inglês \nWillian Harvey, que fez importantes contribuições para o \nentendimento do processo de circulação do sangue no \ncorpo humano. No experimento ilustrado, Harvey, após \naplicar um torniquete (A) no braço de um voluntário e \nesperar alguns vasos incharem, pressionava-os em um \nponto (H). Mantendo o ponto pressionado, deslocava o \nconteúdo de sangue em direção ao cotovelo, percebendo \nque um trecho do vaso sanguíneo permanecia vazio após \nesse processo (H-O).\nDisponível em: www.answers.com. Acesso em: 18 dez. 2012 (adaptado).\nA demonstração de Harvey permite estabelecer a relação \nentre circulação sanguínea e\nA\t pressão arterial.\nB\t válvulas venosas.\nC\t circulação linfática.\nD\t contração cardíaca.\nE\t transporte de gases.",
+  "processado_em": "2026-05-08T14:00:12.937147",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

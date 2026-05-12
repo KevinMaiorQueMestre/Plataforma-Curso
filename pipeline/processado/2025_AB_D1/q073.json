@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 73\t\nO sujeito, previamente vivido como tendo uma identidade \nunificada e estável, está se tornando fragmentado, composto \nnão de uma única, mas de várias identidades, algumas vezes \ncontraditórias ou não resolvidas. Há uma fragmentação de códigos \nculturais, aquela multiplicidade de estilos, aquela ênfase no \nefêmero, no flutuante, no impermanente e no pluralismo cultural.\nHALL, S. A identidade cultural na pós-modernidade. \nRio de Janeiro: DP&A, 2006.\nEntre os efeitos sociopolíticos significativos do fenômeno descrito \nno texto, encontra-se a\nA\treivindicação de direitos civis.\nB\timposição de ideais teológicos.\nC\tconsolidação de pactos regionais.\nD\tunificação de territórios nacionais.\nE manutenção de valores tradicionais",
+  "processado_em": "2026-05-08T14:06:47.070600",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

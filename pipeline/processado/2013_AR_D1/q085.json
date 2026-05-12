@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 85\t\nDesenvolve-se um dispositivo para abrir automaticame\nque uma corrente elétrica i = 6 A percorra uma barra condu\na uma mola de constante elástica k = 5 × 10–2 N/cm. O sis\nuniforme perpendicular ao plano. Quando acionado o botã\nmédia de 5 m/s e atingirá a catraca em 6 milisegundos, ab\nx (cm)\nC\n0\ncatraca\nx\nx\nx\nx\nx\nx\ni\nL\nv\ni\nA intensidade do campo magnético, para que o dispostivo \nA\t 5 × 10–1 T.\nB\t 5 × 10–2 T.\nC\t 5 × 101 T.\nD\t 2 × 10–2 T.\nE\t 2 × 100 T.",
+  "processado_em": "2026-05-08T14:00:14.360491",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

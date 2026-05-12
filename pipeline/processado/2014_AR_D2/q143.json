@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nO Ministério da Saúde e as unidades federadas \npromovem frequentemente campanhas nacionais e locais \nde incentivo à doação voluntária de sangue, em regiões \ncom menor número de doadores por habitante, com o \nintuito de manter a regularidade de estoques nos serviços \nhemoterápicos. Em 2010, foram recolhidos dados sobre o \nnúmero de doadores e o número de habitantes de cada \nregião conforme o quadro seguinte.\nTaxa de doação de sangue, por região, em 2010\nRegião\nDoadores   \nNúmero de \nhabitantes\nDoadores/\nhabitantes\nNordeste\n820 959\n53 081 950\n1,5%\nNorte\n232 079\n15 864 454\n1,5%\nSudeste\n1 521 766\n80 364 410\n1,9%\nCentro-Oeste\n362 334\n14 058 094\n2,6%\nSul\n690 391\n27 386 891\n2,5%\nTotal\n3 627 529\n190 755 799\n1,9%\nOs resultados obtidos permitiram que estados, \nmunicípios e o governo federal estabelecessem as regiões \nprioritárias do país para a intensificação das campanhas \nde doação de sangue.\nA campanha deveria ser intensificada nas regiões em \nque o percentual de doadores por habitantes fosse menor \nou igual ao do país.\nDisponível em: http://bvsms.saude.gov.br. Acesso em: 2 ago. 2013 (adaptado).\nAs regiões brasileiras onde foram intensificadas as \ncampanhas na época são\nA\t Norte, Centro-Oeste e Sul.\nB\t Norte, Nordeste e Sudeste.\nC\t Nordeste, Norte e Sul.\nD\t Nordeste, Sudeste e Sul.\nE C\nt\nO\nt\nS l\nS d\nt",
+  "processado_em": "2026-05-08T14:00:38.912421",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

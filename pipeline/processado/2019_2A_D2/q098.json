@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 98\t\nUm laudo de análise de laboratório apontou que \namostras de leite de uma usina de beneficiamento \nestavam em desacordo com os padrões estabelecidos \npela legislação. Foi observado que a concentração de \nsacarose era maior do que a permitida.\nQual teste listado permite detectar a irregularidade \ndescrita?\nA\t Medida da turbidez.\nB\t Determinação da cor.\nC\t Determinação do pH.\nD\t Medida da densidade.\nE\t Medida da condutividade.",
+  "processado_em": "2026-05-11T23:27:07.669894",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 135\nEm uma palestra, o apresentador falou sobre uma \nimportante doença negligenciada no Brasil, citando \nalgumas medidas ou ações que podem ser adotadas \n%\b\u0007\b\u0002 \u0004\u0002 \t\n\f\u0002 \u001e\u0004\u0005\r\u0007\u00042\n$\u0002 \r\b\u000e\t\u0002 \u001e\u0004\u0010\u0004I\u0002 \b\u0002 \n\f\r\b\u0005?\t\u000e\b\u0002 \u000f\n\u0002 \u001e\u001d\n\t\u0002\n\t\u0004\u0007\u0004%\u0004\t\u000e\r\u000e#\u0004\t$\u0002 \b\u0002 !\u0004\u0007\u0007\u000eP\b'\u001d\u0004\u0002 \u001e\u0004\u0010\u0002 \u000e\u0005\t\n\r\u000e\u001e\u000e\u000f\b$\u0002 \b\u0002 \u0007\n\u0010\u0004'\u001d\u0004\u0002\nde matéria orgânica e a poda de árvores no quintal das \nresidências.\nNo texto, a qual doença o apresentador se referia?\nA  Raiva.\nB  Malária.\nC  Dengue.\nD  Toxoplasmose.\nE Leishmaniose visceral",
+  "processado_em": "2026-05-08T14:04:15.237094",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

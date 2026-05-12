@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nMUSEU DA LÍNGUA PORTUGUESA. Oswald de Andrade: o culpado de tudo. \n27 set. 2011 a 29 jan. 2012. São Paulo: Prol Gráfica, 2012.\nO poema de Oswald de Andrade remonta à ideia de que a \nbrasilidade está relacionada ao futebol. Quanto à questão \nda identidade nacional, as anotações em torno dos versos \nconstituem\nA\t direcionamentos possíveis para uma leitura crítica de \ndados histórico-culturais.\nB\t forma clássica da construção poética brasileira.\nC\t rejeição à ideia do Brasil como o país do futebol. \nD\t intervenções de um leitor estrangeiro no exercício de \nleitura poética.\nE\t lembretes de palavras tipicamente brasileiras \nb tit ti\nd\ni i\ni",
+  "processado_em": "2026-05-08T14:00:22.265550",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

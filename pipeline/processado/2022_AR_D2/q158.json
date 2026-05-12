@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nDentre as diversas planificações possíveis para o \ncubo, uma delas é a que se encontra apresentada na \nFigura 1.\nFigura 1\nEm um cubo, foram pintados, em três de suas faces, \nquadrados de cor cinza escura, que ocupam um quarto \ndessas faces, tendo esses três quadrados um vértice em \ncomum, conforme ilustrado na Figura 2.\nFigura 2",
+  "processado_em": "2026-05-08T14:05:12.329670",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

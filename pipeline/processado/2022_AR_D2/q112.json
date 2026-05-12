@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nUm grupo de alunos realizou um experimento para \nobservar algumas propriedades dos ácidos, adicionando \num pedaço de mármore (CaCO3) a uma solução aquosa \nde ácido clorídrico (HCl), observando a liberação de um \ngás e o aumento da temperatura.\nGás\nÁcido\nMármore\nO gás obtido no experimento é o:\nA\t\nA\t H2\nB\t\nB\t O2\nC\t\nC\t CO2\nD\t\nD\t CO\nE\t\nE\t Cl2",
+  "processado_em": "2026-05-08T14:05:09.876823",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

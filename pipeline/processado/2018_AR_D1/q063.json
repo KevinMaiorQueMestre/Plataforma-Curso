@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 63\t\nTrajetória de ciclones tropicais\nDisponível em: http://globalwarmingart.com. Acesso em: 12 jul. 2015 (adaptado).\nQual característica do meio físico é condição necessária \npara a distribuição espacial do fenômeno representado?\nA\t Cobertura vegetal com porte arbóreo.\nB\t Barreiras orográficas com altitudes elevadas.\nC\t Pressão atmosférica com diferença acentuada.\nD\t Superfície continental com refletividade intensa.\nE\t Correntes marinhas com direções convergentes.",
+  "processado_em": "2026-05-11T23:26:39.567804",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

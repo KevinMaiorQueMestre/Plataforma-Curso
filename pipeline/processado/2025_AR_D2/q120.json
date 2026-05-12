@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 120\t\nO aquecimento em fogões por indução utiliza bobinas \npara produzir um campo magnético variável. Essa bobina se \nlocaliza abaixo do vidro cerâmico sobre o qual a panela se apoia. \nO mecanismo aquece apenas a panela que se encontra na zona \nde cozimento, o que é uma das principais vantagens em relação \nao uso do fogão a gás ou de resistência elétrica.\nPEREIRA, A. B. et al. Fogões de indução: montagem e testes de um circuito \ndisponível. Disponível em: https://publicacoes.fatecsertaozinho.edu.br. \nAcesso em: 21 maio 2025 (adaptado).\nO uso do campo magnético variável tem a finalidade de\nA\timantar o material da panela por indução.\nB\tmovimentar os átomos de ferro concentrados no fundo da panela.\nC\temitir radiação eletromagnética, aquecendo a panela através \ndo vidro cerâmico.\nD\tinduzir corrente elétrica na parte inferior da panela, aquecendo-a \npor efeito Joule.\nE\tgerar um fluxo de corrente de convecção no ar contido entre \na região da bobina e o vidro cerâmico.",
+  "processado_em": "2026-05-08T14:07:06.716664",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

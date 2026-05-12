@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nEU QUERIA\nPODER.\nFOR\nRAIO \nT\nA charge ilustra um anseio presente na sociedade contem\nA\t\nA\t situação de revolta individual.\nB\t\nB\t satisfação de desejos pessoais.\nC\t\nC\t participação em ações decisórias.\nD\t\nD\t permanência em passividade social.\nE\t\nE\t conivência em interesses partidários.",
+  "processado_em": "2026-05-08T14:05:37.178416",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

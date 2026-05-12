@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 49 \nO perdão não é o esquecimento. Ao contrário, ele requer a \nmemória absolutamente viva do que não se pode esquecer, para \nalém de todo trabalho do luto, de reconciliação, de restauração. \nApenas se pode perdoar lembrando-se, sem atenuar, o malfeito, \naquilo que se tem a perdoar. Se apenas perdoo o que é perdoável, \no pecado não mortal, não faço nada que mereça o nome de \nperdão. O que é perdoável está de antemão perdoado. Daí a \naporia: apenas se tem a perdoar o imperdoável. O único perdão \npossível é, portanto, realmente o perdão impossível.\nDERRIDA, J. Papel máquina. São Paulo: Estação Liberdade, 2004.\nO conceito de perdão apresentado no texto pressupõe a \nnecessidade de\nA dirigir um apelo ético também à vítima.\nB isentar de culpabilidade moral o ofensor.\nC reaproximar de forma imediata os envolvidos.\nD exigir uma reparação efetiva pela dor causada.\nE evidenciar o caráter religioso da ação de desculpar",
+  "processado_em": "2026-05-08T14:06:29.020431",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

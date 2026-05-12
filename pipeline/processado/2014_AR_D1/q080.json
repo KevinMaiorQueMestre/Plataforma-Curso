@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nO principal processo industrial utilizado na produção \nde fenol é a oxidação do cumeno (isopropilbenzeno). \nA equação mostra que esse processo envolve a formação \ndo hidroperóxido de cumila, que em seguida é decomposto \nem fenol e acetona, ambos usados na indústria química \ncomo precursores de moléculas mais complexas. Após \no processo de síntese, esses dois insumos devem ser \nseparados para comercialização individual.\nCumeno\n+ O2\nCatalisador\nOOH\nH2O / H2SO4\nOH\nHidroperóxido\nde cumila\nFenol\n+\nO\nAcetona\nConsiderando as características físico-químicas dos dois \ninsumos formados, o método utilizado para a separação \nda mistura, em escala industrial, é a\nA\t filtração.\nB\t ventilação.\nC\t decantação.\nD\t evaporação.\nE\t destilação fracionada.",
+  "processado_em": "2026-05-08T14:00:31.739854",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

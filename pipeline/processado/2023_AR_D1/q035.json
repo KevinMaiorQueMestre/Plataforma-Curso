@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q035",
+  "imagem": "q035.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 35,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 35\t\nA indústria do esporte eletrônico é um mercado que \nestá crescendo em um ritmo mais rápido do que a economia \nmundial. Sua popularidade cresceu muito e no Brasil não é \ndiferente. De acordo com os dados de uma pesquisa, mais de \n64% dos brasileiros que jogam videogame já ouviram falar de \nesporte eletrônico. No entanto, o que chama a atenção é o \ncrescimento superior a 10% do público praticante comparado \nao ano anterior, que subiu de 44,7% para 55,4%. Trata-se \nde um percentual expressivo, já que o Brasil está no top 3 \ndentre os países que têm maior número de espectadores de \nesporte eletrônico do mundo. Comparado ao ano anterior, \nem 2020, o Brasil teve um marco de crescimento de 20% \nna audiência. Mundo afora, a árdua dedicação de grandes \ngamers contribuiu para o reconhecimento do Comitê Olímpico \nInternacional, aliado a outras cinco federações esportivas \ne suas desenvolvedoras de jogos, que direcionaram um \nolhar mais atento ao assunto, permitindo dar o primeiro \npasso para concretizar, pela primeira vez na história dos \njogos eletrônicos, um evento olímpico oficial.\nDisponível em: https://chicoterra.com. Acesso em: 19 nov. 2021 (adaptado).\nO contexto em que o esporte eletrônico é apresentado no \ntexto demonstra o(a)\nA\t\nA\t condição favorável à expansão dessa modalidade.\nB\t\nB\t promoção dessa prática por jogadores profissionais.\nC\t\nC\t impulsionamento de um processo de marketing.\nD\t\nD\t favorecimento de fabricantes dos jogos.\nE\t\nE\t modificação da audiência televisiva.",
+  "processado_em": "2026-05-08T14:05:36.080154",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

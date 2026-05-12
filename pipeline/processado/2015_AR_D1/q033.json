@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 33\t\nTanto potencial poderia ter ficado pelo caminho, \nse não fosse o reforço em tecnologia que um gaúcho \nbuscou. Há pouco mais de oito anos, ele usava o bico \nda botina para cavoucar a terra e descobrir o nível de \numidade do solo, na tentativa de saber o momento ideal \npara acionar os pivôs de irrigação. Até que conheceu uma \nestação meteorológica que, instalada na propriedade, \najuda a determinar a quantidade de água de que a planta \nnecessita. Assim, quando inicia um plantio, o agricultor \njá entra no site do sistema e cadastra a área, o pivô, a \ncultura, o sistema de plantio, o espaçamento entre linhas e \no número de plantas, para então receber recomendações \ndiretamente dos técnicos da universidade.\nCAETANO, M. O valor de cada gota. Globo Rural, n. 312, out. 2011.\nA implementação das tecnologias mencionadas no texto \ngarante o avanço do processo de \nA\t monitoramento da produção.\nB\t valorização do preço da terra.\nC\t correção dos fatores climáticos.\nD\t divisão de tarefas na propriedade.\nE\t estabilização da fertilidade do solo.",
+  "processado_em": "2026-05-08T14:00:44.951955",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

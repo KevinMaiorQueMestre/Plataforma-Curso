@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 31\t\nA história do futebol é uma triste viagem do prazer \nao dever. [...] O jogo se transformou em espetáculo, com \npoucos protagonistas e muitos espectadores, futebol para \nolhar, e o espetáculo se transformou num dos negócios \nmais lucrativos do mundo, que não é organizado para \nser jogado, mas para impedir que se jogue. A tecnocracia \ndo esporte profissional foi impondo um futebol de pura \nvelocidade e muita força, que renuncia à alegria, atrofia a \nfantasia e proíbe a ousadia. Por sorte ainda aparece nos \ncampos, [...] algum atrevido que sai do roteiro e comete \no disparate de driblar o time adversário inteirinho, além \ndo juiz e do público das arquibancadas, pelo puro prazer \ndo corpo que se lança na proibida aventura da liberdade.\nGALEANO, E. Futebol ao sol e à sombra. Porto Alegre: L&PM Pockets, 1995 (adaptado).\nO texto indica que as mudanças nas práticas corporais, \nespecificamente no futebol,\nA\t fomentaram uma tecnocracia, promovendo uma \nvivência mais lúdica e irreverente.\nB\t promoveram o surgimento de atletas mais habilidosos, \npara que fossem inovadores.\nC\t incentivaram a associação dessa manifestação à \nfruição, favorecendo o improviso.\nD\t tornaram a modalidade em um produto a ser \nconsumido, negando sua dimensão criativa.\nE\t contribuíram para esse esporte ter mais jogadores, \nbem como acompanhado de torcedores.",
+  "processado_em": "2026-05-11T23:26:33.999730",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 127        \nA fragmentação dos hábitats é caracterizada pela \nformação de ilhas da paisagem original, circundadas \npor áreas transformadas. Esse tipo de interferência no \nambiente ameaça a biodiversidade. Imagine que uma \npopulação de onças foi isolada em uma mata pequena. \nElas se extinguiriam mesmo sem terem sido abatidas. \nDiversos componentes da ilha de hábitat, como o \ntamanho, a heterogeneidade, o seu entorno, a sua \nconectividade e o efeito de borda são determinantes para \na persistência ou não das espécies originais.\nUma medida que auxilia na conservação da biodiversidade \nnas ilhas mencionadas no texto compreende a",
+  "processado_em": "2026-05-11T23:28:15.073787",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

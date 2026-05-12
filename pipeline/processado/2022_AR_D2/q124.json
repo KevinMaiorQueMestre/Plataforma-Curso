@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nEm 2017, foi inaugurado, no estado da Bahia, o \nParque Solar Lapa, composto por duas usinas (Bom Jesus \nda Lapa e Lapa) e capaz de gerar cerca de 300 GWh de \nenergia por ano. Considere que cada usina apresente \npotência igual a 75 MW, com o parque totalizando uma \npotência instalada de 150 MW. Considere ainda que a \nirradiância solar média é de 1 500 W\nm2  e que a eficiência \ndos painéis é de 20%.\nParque Solar Lapa entra em operação. Disponível em: www.canalbioenergia.com.br. \nAcesso em: 9 jun. 2022 (adaptado).\nNessas condições, a área total dos painéis solares que \ncompõem o Parque Solar Lapa é mais próxima de:\nA\t\nA\t 1 000 000 m2\nB\t\nB\t 500 000 m2\nC\t\nC\t 250 000 m2\nD\t\nD\t 100 000 m2\nE\t\nE\t 20 000 m2",
+  "processado_em": "2026-05-08T14:05:10.617453",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

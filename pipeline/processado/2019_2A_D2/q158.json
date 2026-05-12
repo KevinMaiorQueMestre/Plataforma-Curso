@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 158\t\nMuitos restaurantes servem refrigerantes em copos \ncontendo limão e gelo. Suponha um copo de formato \ncilíndrico, com as seguintes medidas: diâmetro = 6 cm e \naltura = 15 cm. Nesse copo, há três cubos de gelo, cujas \narestas medem 2 cm cada, e duas rodelas cilíndricas \nde limão, com 4 cm de diâmetro e 0,5 cm de espessura \ncada. Considere que, ao colocar o refrigerante no copo, \nos cubos de gelo e os limões ficarão totalmente imersos. \n(Use 3 como aproximação para π).\nO volume máximo de refrigerante, em centímetro cúbico, \nque cabe nesse copo contendo as rodelas de limão e os \ncubos de gelo com suas dimensões inalteradas, é igual a\nA\t 107.\nB\t 234.\nC\t 369.\nD\t 391.\nE\t 405.",
+  "processado_em": "2026-05-11T23:27:12.731757",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

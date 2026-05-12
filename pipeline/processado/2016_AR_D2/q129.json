@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nTEXTO I\nBACON, F. Três estudos para um autorretrato. Óleo sobre tela, 37,5 x 31,8 cm (cada), 1974. \nDisponível em: www.metmuseum.org. Acesso em: 30 maio 2016.\nTEXTO II\nTenho um rosto lacerado por rugas secas e profundas, \nsulcos na pele. Não é um rosto desfeito, como acontece \ncom pessoas de traços delicados, o contorno é o mesmo \nmas a matéria foi destruída. Tenho um rosto destruído.\nDURAS, M. O amante. Rio de Janeiro: Nova Fronteira, 1985.\nNa imagem e no texto do romance de Marguerite \nDuras, os dois autorretratos apontam para o modo de \nrepresentação da subjetividade moderna. Na pintura \ne na literatura modernas, o rosto humano deforma-se, \ndestrói-se ou fragmenta-se em razão\nA\t da adesão à estética do grotesco, herdada do \nromantismo europeu, que trouxe novas possibilidades \nde representação.\nB\t das catástrofes que assolaram o século XX e da \ndescoberta de uma realidade psíquica pela psicanálise.\nC\t da opção em demonstrarem oposição aos limites \nestéticos da revolução permanente trazida pela \narte moderna.\nD\t do posicionamento do artista do século XX contra a \nnegação do passado, que se torna prática dominante \nna sociedade burguesa.\nE\t da intenção de garantir uma forma de criar obras \nde arte independentes da matéria presente em sua \nhistória pessoal.",
+  "processado_em": "2026-05-08T14:01:17.647654",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

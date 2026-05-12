@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nO circuito com três lâmpadas incandescentes idênticas, \nrepresentado na figura, consiste em uma associação mista \nde resistores. Cada lâmpada (L 1, L2 e L3) é associada, \nem paralelo, a um resistor de resistência R, formando um \nconjunto. Esses conjuntos são associados em série, tendo \ntodas as lâmpadas o mesmo brilho quando ligadas à fonte \nde energia. Após vários dias em uso, apenas a lâmpada L2 \nqueima, enquanto as demais permanecem acesas.\nFonte de\nenergia\nR\nL³\nR\nR\nL²\nL¹\nEm relação à situação em que todas as lâmpadas \nfuncionam, após a queima de L2, os brilhos das \nlâmpadas serão\nA\t\nA\t os mesmos.\nB\t\nB\t mais intensos.\nC\t\nC\t menos intensos.\nD\t\nD\t menos intenso para L 1 e o mesmo para L3.\nE\t\nE\t mais intenso para L 1 e menos intenso para L3.",
+  "processado_em": "2026-05-08T14:05:43.005329",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

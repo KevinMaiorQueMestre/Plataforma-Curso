@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 171          \nFoi feita uma pesquisa sobre a escolaridade dos \nfuncionários de uma empresa. Verificou-se que 1\n4 dos \nhomens que ali trabalham têm o ensino médio completo, \nenquanto 2\n3  das mulheres que trabalham na empresa \ntêm o ensino médio completo. Constatou-se, também, que \nentre todos os que têm o ensino médio completo, metade \nsão homens.\nA fração que representa o número de funcionários homens \nem relação ao total de funcionários dessa empresa é\nA \n1\n8\nB \n3\n11\nC \n11\n24\nD 2\n3\nE 8\n11",
+  "processado_em": "2026-05-08T14:03:39.986523",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

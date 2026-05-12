@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nUm professor de matemática desenvolveu uma \natividade educacional relacionada aos Jogos Olímpicos \ne confeccionou uma maquete que representa uma piscina \nnas dimensões olímpicas. Admitiu que a piscina olímpica \ndeve ter capacidade mínima de 2 500 000 litros e construiu \nsua maquete, referente a esse valor mínimo, na forma de \nparalelepípedo reto retângulo com dimensões internas \n2 cm, 25 cm e 50 cm, cujo volume é 2 500  cm3. Considere \nque 1 L = 103 cm3.\nA maquete confeccionada pelo professor foi elaborada \nna escala\nA\t\nA\t 1 : 100.\nB\t\nB\t 1 : 1 000.\nC\t\nC\t 1 : 2 000.\nD\t\nD\t 1 : 50 000.\nE\t\nE\t 1 : 1 000 000.",
+  "processado_em": "2026-05-08T14:05:28.447694",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nTEXTO I\nAnônimo. Cabeça de uma figura feminina.  \nCirca 2700-2500 a.C. Escultura em mármore, 8 × 3,2 cm. \nMetropolitan Museum of Art, Nova Iorque.\nWOLKOFF, J. These\nA leitura comparativa das duas esculturas, separadas por \nA\tvalorização da arte antiga por artistas contemporâneos\nB\tresistência da arte escultórica aos avanços tecnológic\nC\tsimplificação da forma em razão do tipo de material util\nD\tpersistência de padrões estéticos em diferentes épocas\nE ausência de detalhes como traço distintivo da arte tradi",
+  "processado_em": "2026-05-08T14:06:10.965646",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

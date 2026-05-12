@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 118\t\nO físico Hans C. Oersted observou que um fio transporta\ndo campo magnético foi verificada ao aproximar u\nA figura ilustra um fio percorrido por uma corrente elétrica\nestão num plano transversal e equidistantes do fio. Em ca\nA\nB\nC\ni\nConsiderando apenas o campo magnético por causa da \npontos A, B e C serão\nA\ni\nB\ni\nC\ni",
+  "processado_em": "2026-05-08T14:05:10.238560",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "O pneu escolhido foi\nA \t I.\nB \t II.\nC \t III.\nD \t IV.\nE \t V.\nQuestão 161        \nUm pé de eucalipto em idade adequada para o corte \nrende, em média, 20 mil folhas de papel A4. A densidade \nsuperficial do papel A4, medida pela razão da massa de \numa folha desse papel por sua área, é de 75 gramas por \nmetro quadrado, e a área de uma folha de A4 é 0,062 \nmetro quadrado.\nDisponível em: http://revistagalileu.globo.com. Acesso em: 28 fev. 2013 (adaptado).\nNessas condições, quantos quilogramas de papel rende, \nem média, um pé de eucalipto?\nA \t 4 301\nB \t 1 500\nC \t 930\nD 267",
+  "processado_em": "2026-05-11T23:28:19.518053",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

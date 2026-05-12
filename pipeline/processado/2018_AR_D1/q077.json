@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nA presunção de que a superfície das chapadas \ne chapadões representa uma velha peneplanície é \ncorroborada pelo fato de que ela é coberta por acumulações \nsuperficiais, tais como massas de areia, camadas de \ncascalhos e seixos e pela ocorrência generalizada de \nconcreções ferruginosas que formam uma crosta laterítica, \ndenominada “canga”.\nWEIBEL, L. Disponível em: http://biblioteca.ibge.gov.br. Acesso em: 8 jul. 2015 (adaptado).\nQual tipo climático favorece o processo de alteração do \nsolo descrito no texto?\nA\t Árido, com déficit hídrico.\nB\t Subtropical, com baixas temperaturas.\nC\t Temperado, com invernos frios e secos.\nD\t Tropical, com sazonalidade das chuvas.\nE\t Equatorial, com pluviosidade abundante.",
+  "processado_em": "2026-05-11T23:26:41.050392",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

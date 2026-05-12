@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 138        \nUm clube deseja produzir miniaturas em escala do \ntroféu que ganhou no último campeonato. O troféu está \nrepresentado na Figura 1 e é composto por uma base \nem formato de um paralelepípedo reto-retângulo de \nmadeira, sobre a qual estão fi xadas três hastes verticais \nque sustentam uma esfera de 30 cm de diâmetro, que fi ca \ncentralizada sobre a base de madeira. O troféu tem 100 cm \nde altura, incluída sua base.\n8 cm\n50 cm\n50 cm\nFigura 1\nFigura 2\n10 cm\n?",
+  "processado_em": "2026-05-11T23:28:16.176235",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

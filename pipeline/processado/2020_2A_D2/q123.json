@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 123          \nNa tentativa de explicar o processo evolutivo dos \nseres humanos, em 1981, Lynn Margulis propôs a teoria \nendossimbiótica, após ter observado que duas organelas \ncelulares se assemelhavam a bactérias em tamanho, \nforma, genética e bioquímica. Acredita-se que tais \norganelas são descendentes de organismos procariontes \nque foram capturados por alguma célula, vivendo em \nsimbiose. Tais organelas são as mitocôndrias e os \ncloroplastos, que podem se multiplicar dentro da célula.\nA multiplicação dessas organelas deve-se ao fato de \napresentarem\nA \t DNA próprio.\nB \t ribossomos próprios.\nC \t membrana duplicada.\nD \t código genético diferenciado.\nE \t maquinaria de reparo do DNA.",
+  "processado_em": "2026-05-08T14:03:37.228444",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nUma cidade enfrenta racionamento no abastecimento \nde água. Para minimizar os efeitos da falta de água para \nseus hóspedes, o gerente de um hotel pretende substituir \na caixa-d’água existente por um reservatório. Sabe-se \nque o consumo médio diário do hotel é de 10 mil litros de \nágua. Mantido o consumo médio diário, o gerente quer \nque o novo reservatório, uma vez cheio, seja capaz de \nsuprir as necessidades do hotel por, pelo menos, 6 dias \ncompletos, mesmo que não haja abastecimento de água \nnesse período.\nO espaço de que o hotel dispõe para instalar o novo \nreservatório tem formato retangular com largura de 5 m \ne comprimento de 6 m. O gerente analisa cinco opções \ndisponíveis para esse reservatório.\nReservatórios retangulares\nReservatório\nLargura \n(m)\nComprimento \n(m)\nAltura \n(m)\nR1\n6\n6\n2\nR2\n4\n5\n2,5\nR3\n5\n6\n2\nReservatórios cilíndricos\nReservatório\nRaio (m)\nAltura (m)\nR4\n6\n6\nR5\n4\n5\nA opção de reservatório que atende à necessidade do \nhotel e que cabe no espaço disponível é\nA\t\nA\t R1.\nB\t\nB\t R2.\nC\t\nC\t R3.\nD\t\nD\t R4.\nE\t\nE\t R5.",
+  "processado_em": "2026-05-08T14:04:51.293240",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

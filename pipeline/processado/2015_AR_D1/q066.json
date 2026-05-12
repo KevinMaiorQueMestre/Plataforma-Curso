@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nA cariotipagem é um método que analisa células de \num indivíduo para determinar seu padrão cromossômico. \nEssa técnica consiste na montagem fotográfica, em \nsequência, dos pares de cromossomos e permite identificar \num indivíduo normal (46, XX ou 46, XY) ou com alguma \nalteração cromossômica. A investigação do cariótipo \nde uma criança do sexo masculino com alterações \nmorfológicas e comprometimento cognitivo verificou que \nela apresentava fórmula cariotípica 47, XY, +18.\nA alteração cromossômica da criança pode ser \nclassificada como\nA\t estrutural, do tipo deleção.\nB\t numérica, do tipo euploidia.\nC\t numérica, do tipo poliploidia.\nD\t estrutural, do tipo duplicação.\nE\t numérica, do tipo aneuploidia.",
+  "processado_em": "2026-05-08T14:00:47.876001",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

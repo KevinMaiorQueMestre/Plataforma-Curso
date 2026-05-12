@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 154\t\nAs projeções para a produção de arroz no período \nde 2012 - 2021, em uma determinada região produtora, \napontam para uma perspectiva de crescimento constante \nda produção anual. O quadro apresenta a quantidade de \narroz, em toneladas, que será produzida nos primeiros \nanos desse período, de acordo com essa projeção.\nAno\nProjeção da produção (t) \n2012\n50,25\n2013\n51,50\n2014\n52,75\n2015\n54,00\nA quantidade total de arroz, em toneladas, que deverá ser \nproduzida no período de 2012 a 2021 será de\nA\t 497,25.\nB\t 500,85.\nC\t 502,87.\nD\t 558,75.\nE\t 563,25.",
+  "processado_em": "2026-05-08T14:00:23.576414",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

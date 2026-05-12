@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 143        \nUma pessoa precisa comprar 15 sacos de cimento \npara uma reforma em sua casa. Faz pesquisa de preço em \ncinco depósitos que vendem o cimento de sua preferência \ne cobram frete para entrega do material, conforme a \ndistância do depósito à sua casa. As informações sobre \npreço do cimento, valor do frete e distância do depósito \naté a casa dessa pessoa estão apresentadas no quadro.\nDepósito\nValor do saco \nde cimento\nValor do\nfrete para cada \nquilômetro\nDistância entre \na casa e o \ndepósito\n(R$)\n(R$)\n(km)\nA\n23,00\n1,00\n10\nB\n21,50\n3,00\n12\nC\n22,00\n1,50\n14\nD\n21,00\n3,50\n18\nE\n24,00\n2,50\n2\nA pessoa escolherá um desses depósitos para \nrealizar sua compra, considerando os preços do cimento \ne do frete oferecidos em cada opção.\nSe a pessoa decidir pela opção mais econômica, o depósito \nescolhido para a realização dessa compra será o\nA    A.\nB    B.\nC    C.\nD    D.\nE    E.",
+  "processado_em": "2026-05-11T23:28:16.471095",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

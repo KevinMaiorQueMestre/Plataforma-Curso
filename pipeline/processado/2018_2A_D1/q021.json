@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 21\t\nDisponível em: http://portal.iphan.gov.br. Acesso em: 11 mar. 2016.\nOs azulejos das fachadas do centro histórico de São Luís (MA) \nintegram o patrimônio cultural da humanidade reconhecido \npela Unesco. A técnica artística utilizada para a produção \ndesses revestimentos advém das\nA\t confluências de diferentes saberes do Oriente Médio \ne da Europa.\nB\t adequações para aproveitamento da mão de obra \nlocal.\nC\t inovações decorrentes da Revolução Industrial.\nD\t influências das culturas francesa e holandesa.\nE\t descobertas de recursos naturais na Colônia.",
+  "processado_em": "2026-05-11T23:26:10.863098",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

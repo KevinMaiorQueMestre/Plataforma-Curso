@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\nNa teoria das eleições, o Método de Borda sugere \nque, em vez de escolher um candidato, cada juiz deve \ncriar um ranking de sua preferência para os concorrentes \n\u000bLVWR\u0003 p\u000f\u0003 FULDU\u0003 XPD\u0003 OLVWD\u0003 FRP\u0003 D\u0003 RUGHP\u0003 GH\u0003 FODVVL¿FDomR\u0003\ndos concorrentes). A este ranking é associada uma \nSRQWXDomR\u001d\u0003XP\u0003SRQWR\u0003SDUD\u0003R\u0003~OWLPR\u0003FRORFDGR\u0003QR\u0003ranking,\ndois pontos para o penúltimo, três para o antepenúltimo, \nH\u0003DVVLP\u0003VXFHVVLYDPHQWH\u0011\u0003$R\u0003¿QDO\u000f\u0003VRPD\u0010VH\u0003D\u0003SRQWXDomR\u0003\natribuída a cada concorrente por cada um dos juízes.\nEm uma escola houve um concurso de poesia no qual \ncinco alunos concorreram a um prêmio, sendo julgados \nSRU\u0003 \u0015\u0018\u0003 MXt]HV\u0011\u0003 3DUD\u0003 D\u0003 HVFROKD\u0003 GD\u0003 SRHVLD\u0003 YHQFHGRUD\u0003\nIRL\u0003 XWLOL]DGR\u0003 R\u0003 0pWRGR\u0003 GH\u0003 %RUGD\u0011\u0003 1RV\u0003 TXDGURV\u000f\u0003 HVWmR\u0003\napresentados os rankings dos juízes e a frequência de \ncada ranking.\nColocação\nRanking\n,\n,,\n,,,\n,9\n1o\nAna\nDani\nBia\nEdu\n\u0015o\nBia\nCaio\nAna\nAna\n3o\nCaio\nEdu\nCaio\nDani\n\u0017o\nDani\nAna\nEdu\nBia\n5o\nEdu\nBia\nDani\nCaio\nRanking\nFrequência\n,\n\u0017\n,,\n9\n,,,\n\u001a\n,9\n5\nA poesia vencedora foi a de\nA Edu.\nB Dani.\nC Caio.\nD Bia.\nE Ana.",
+  "processado_em": "2026-05-11T23:26:48.880225",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\n— Famigerado? [...]\n— Famigerado é “inóxio”, é “célebre”, “notório”, “notável”...\n— Vosmecê mal não veja em minha grossaria no não \nentender. Mais me diga: é desaforado? É caçoável? É de \narrenegar? Farsância? Nome de ofensa?\n— Vilta nenhuma, nenhum doesto. São expressões \nneutras, de outros usos...\n— Pois... e o que é que é, em fala de pobre, linguagem \nde em dia de semana?\n— Famigerado? Bem. É: “importante”, que merece \nlouvor, respeito...\nROSA, G. Famigerado. In: Primeiras estórias. Rio de Janeiro: Nova Fronteira, 2001.\nNesse texto, a associação de vocábulos da língua \nportuguesa a determinados dias da semana remete ao\nA\t local de origem dos interlocutores.\nB\t estado emocional dos interlocutores.\nC\t grau de coloquialidade da comunicação.\nD\t nível de intimidade entre os interlocutores.\nE\t conhecimento compartilhado na comunicação.",
+  "processado_em": "2026-05-11T23:26:28.508044",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 77\t\nO consumo da habitação, em especial aquela \ndotada de atributos especiais no espaço urbano, \ncontribui para o entendimento do fenômeno, pois \ncertas áreas tornam-se alvos de operações comerciais \nde prestígio com a produção e/ou a renovação de \nconstruções, diferente de outras porções da cidade, \ndotadas de menor infraestrutura.\nSANTOS, A. R. O consumo da habitação de luxo no espaço urbano \nparisiense. Confins, n. 23, 2015 (adaptado).\nO conceito que define o processo descrito denomina-se\nA\t escala cartográfica.\nB\t conurbação metropolitana.\nC\t território nacional.\nD\t especulação imobiliária.\nE\t paisagem natural.",
+  "processado_em": "2026-05-11T23:27:02.448996",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

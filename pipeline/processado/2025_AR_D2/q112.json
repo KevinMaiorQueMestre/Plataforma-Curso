@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 112\t\nGolden Rice, ou arroz dourado, é uma variedade de arroz \nenriquecida em betacaroteno, precursor da vitamina A. \nFoi desenvolvida para ajudar a combater a doença decorrente \nda deficiência dessa vitamina. Para a obtenção dessa variedade \nde arroz, foram utilizados métodos de engenharia genética.\nBORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia. \nViçosa: UFV, 2008 (adaptado).\nEsse alimento contribui para diminuir a carência associada a \nqual doença?\nA\tHemofilia.\nB\tEscorbuto.\nC\tRaquitismo.\nD\tCegueira noturna.\nE Anemia perniciosa",
+  "processado_em": "2026-05-08T14:07:06.059778",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

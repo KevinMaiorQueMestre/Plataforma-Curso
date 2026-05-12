@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 38\t\nUm carro esportivo é financiado pelo Japão, \nprojetado na Itália e montado em Indiana, México e \nFrança, usando os mais avançados componentes \neletrônicos, que foram inventados em Nova Jérsei \ne fabricados na Coreia. A campanha publicitária é \ndesenvolvida na Inglaterra, filmada no Canadá, a edição \ne as cópias, feitas em Nova York para serem veiculadas \nno mundo todo. Teias globais disfarçam-se com o \nuniforme nacional que lhes for mais conveniente.\nREICH, R. O trabalho das nações: preparando-nos para o capitalismo no século XXI. \nSão Paulo: Educator, 1994 (adaptado).\nA viabilidade do processo de produção ilustrado pelo texto \npressupõe o uso de\nA\t linhas de montagem e formação de estoques.\nB\t empresas burocráticas e mão de obra barata.\nC\t controle estatal e infraestrutura consolidada.\nD\t organização em rede e tecnologia de informação.\nE\t gestão centralizada e protecionismo econômico.",
+  "processado_em": "2026-05-08T14:00:45.735815",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t Cancioneiro caipira, retrato do cotidiano do homem \ndo campo com melodias tristes.\nQuestão 72          \nNa Mesopotâmia, os frutos da civilização foram \npartilhados entre diversas cidades-estados e, no \ninterior delas, entre vários grupos sociais, se bem \nque desigualmente. No Egito dos faraós, os frutos em \nquestão concentraram-se quase somente na Corte real \ne, secundariamente, nos centros regionais de poder. \nSe na Mesopotâmia o comércio cedo começou a servir \ntambém à acumulação de riquezas privadas, no Egito \nas trocas importantes permaneceram por mais tempo \nsob controle do Estado.  \nCARDOSO, C. F. Sociedades do antigo Oriente Próximo. \nSão Paulo: Ática, 1986 (adaptado).\nUm fator sociopolítico que caracterizava a organização \nestatal egípcia no contexto mencionado está indicado no(a)\nA \t atrofiamento da casta militar.\nB \t instituição de assembleias locais.\nC \t eleição dos conselhos provinciais.\nD \t fortalecimento do aparato burocrático.\nE esgotamento do fundamento teocrático",
+  "processado_em": "2026-05-08T14:03:31.487555",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

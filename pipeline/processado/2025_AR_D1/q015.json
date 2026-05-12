@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 15\t\nO retrato como gênero da pintura ocidental ficou vinculado \nàs elites, tornando invisíveis as populações que não faziam parte \ndo círculo dominante. Num país de tradição escravocrata e \ncolonizado por europeus como o Brasil, pouquíssimas pessoas \nnegras e indígenas foram retratadas em pintura, e menos ainda \nidentificadas com seus nomes nos retratos. Daí a importância, \npara a história da arte e para a história brasileira, dos retratos \nde Dalton Paula.\nDisponível em: www.masp.org.br. Acesso em: 5 maio 2024 (adaptado).\nAo dar protagonismo a Zeferina e a João de Deus Nascimento, \no artista Dalton Paula evidencia que a(s)\nA\tarte pode promover formas de afirmação de identidade social.\nB\tcomunidades periféricas passam a adquirir o gênero retrato.\nC\tpersonagens retratadas simbolizam a sociedade brasileira.\nD\tpintura funciona como instrumento de ascensão social.\nE\timagens tradicionais preservam memórias afetivas.",
+  "processado_em": "2026-05-08T14:06:57.917539",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

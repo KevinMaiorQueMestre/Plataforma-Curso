@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 51\t\nPesticidas \nsão \ncontaminantes \nambientais \naltamente tóxicos aos seres vivos e, geralmente, \ncom grande persistência ambiental. A busca por \nnovas formas de eliminação dos pesticidas tem \naumentado nos últimos anos, uma vez que as \ntécnicas atuais são economicamente dispendiosas e \npaliativas. A biorremediação de pesticidas utilizando \nmicrorganismos tem se mostrado uma técnica muito \npromissora para essa finalidade, por apresentar \nvantagens econômicas e ambientais.\nPara ser utilizado nesta técnica promissora, um \nmicrorganismo deve ser capaz de\nA\t transferir o contaminante do solo para a água.\nB\t absorver o contaminante sem alterá-lo quimicamente.\nC\t apresentar alta taxa de mutação ao longo das gerações.\nD\t estimular o sistema imunológico do homem contra o \ncontaminante.\nE\t metabolizar o contaminante, liberando subprodutos \nmenos tóxicos ou atóxicos.",
+  "processado_em": "2026-05-08T13:59:02.467108",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

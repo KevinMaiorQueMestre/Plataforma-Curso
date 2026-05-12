@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nO gráfico fornece os valores das ações da empresa \nXPN, no período das 10 às 17 horas, num dia em que elas \noscilaram acentuadamente em curtos intervalos de tempo.\n460\n380\n330\n280\n200\n150\n100\n10      11     12     13      14     15      16     17\nValor da Ação (em reais)\nTempo (em horas)\nNeste dia, cinco investidores compraram e venderam o \nmesmo volume de ações, porém em horários diferentes, \nde acordo com a seguinte tabela.\nInvestidor\nHora da Compra\nHora da Venda\n1\n10:00\n15:00\n2\n10:00\n17:00\n3\n13:00\n15:00\n4\n15:00\n16:00\n5\n16:00\n17:00\nCom relação ao capital adquirido na compra e venda das \nações, qual investidor fez o melhor negócio?\nA\t 1\nB\t 2\nC\t 3\nD\t 4\nE 5",
+  "processado_em": "2026-05-08T13:59:14.801106",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

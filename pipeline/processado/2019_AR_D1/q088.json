@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 88\t\nO bônus demográfico é caracterizado pelo período \nem que, por causa da redução do número de filhos \npor mulher, a estrutura populacional fica favorável \nao crescimento econômico. Isso acontece porque há \nproporcionalmente menos crianças na população, e o \npercentual de idosos ainda não é alto.\nGOIS, A. O Globo, 5 abr. 2015 (adaptado).\nA ação estatal que contribui para o aproveitamento do \nbônus demográfico é o estímulo à\nA\t atração de imigrantes.\nB\t elevação da carga tributária.\nC\t qualificação da mão de obra.\nD\t admissão de exilados políticos.\nE\t concessão de aposentadorias.",
+  "processado_em": "2026-05-11T23:27:29.103097",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

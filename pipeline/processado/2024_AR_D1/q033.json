@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 33\t\nDisponível em: https://defesacivil.rs.gov.br. \nAcesso em: 11 mar. 2024 (adaptado).\nNesse cartaz, a expressão “Vou deixar que você se vá”, \nem conjunto com os elementos não verbais utilizados, \ntem a finalidade de\nA\tincentivar o descarte de itens defeituosos.\nB\tpromover a reciclagem de produtos usados.\nC\tgarantir a conservação de roupas de inverno.\nD\trelacionar o gesto de doação à ideia de desapego.\nE comparar a peça de roupa ao sentimento de despedida",
+  "processado_em": "2026-05-08T14:06:10.809404",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

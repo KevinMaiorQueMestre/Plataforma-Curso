@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 84\t\nTEXTO I\nUma filosofia da percepção que queira reaprender a \nver o mundo restituirá à pintura e às artes em geral seu \nlugar verdadeiro.\nMERLEAU-PONTY, M. Conversas: 1948. São Paulo: Martins Fontes, 2004.\n TEXTO II\nOs grandes autores de cinema nos pareceram \nconfrontáveis não apenas com pintores, arquitetos, \nmúsicos, mas também com pensadores. Eles pensam \ncom imagens, em vez de conceitos.\nDELEUZE, G. Cinema 1: a imagem-movimento. São Paulo: Brasiliense, 1983 (adaptado).\nDe que modo os textos sustentam a existência de um \nsaber ancorado na sensibilidade?\nA\t\nA\t Admitindo o belo como fenômeno transcendental.\nB\t\nB\t Reafirmando a vivência estética como juízo de gosto.\nC\t\nC\t Considerando o olhar como experiência de conhecimento.\nD\t\nD\t Apontando as formas de expressão como auxiliares \nda razão.\nE\t\nE\t Estabelecendo a inteligência como implicação das \nrepresentações.",
+  "processado_em": "2026-05-08T14:05:05.503175",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

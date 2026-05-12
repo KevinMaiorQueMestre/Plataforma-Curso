@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 86\t\nAs fraldas descartáveis que contêm o polímero poliacr\nque as fraldas de pano convencionais, constituídas de fibra\nn\nO  Na\nO \n–\n+\n(1)\nA maior eficiência dessas fraldas descartáveis, em relação\nA\t interações dipolo-dipolo mais fortes entre o poliacrilat\ncelulose e as moléculas de água.\nB\t interações íon-íon mais fortes entre o poliacrilato e as\nentre a celulose e as moléculas de água.\nC\t ligações de hidrogênio mais fortes entre o poliacrilat\ncelulose e as moléculas de água.\nD\t ligações de hidrogênio mais fortes entre o poliacrilato\ninduzido-dipolo induzido entre a celulose e as molécula\nE\t interações íon-dipolo mais fortes entre o poliacrilato e a\nentre a celulose e as moléculas de água",
+  "processado_em": "2026-05-08T14:00:14.398083",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

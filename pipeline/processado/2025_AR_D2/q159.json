@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 159\t\nUm recipiente tem um formato que faz com que, ao ser \nenchido de água com uma vazão constante, a distância D da \nlâmina de água ao tampo da mesa, em centímetro, aumente \nem relação ao tempo T, em minuto, de acordo com uma função \ndo tipo\nD = k + tg[p(T + m)],\nsendo os parâmetros k, p e m números reais, para T variando \nentre 0 e 4 minutos, conforme ilustrado na figura, na qual estão \napresentadas assíntotas verticais da função tangente utilizada \nna definição de D.\nA expressão algébrica que representa a relação entre D e T é\nA\t D\nT\n\u001f\n\u001e\n\u001d\n\u001d\n\u001c\n\u001b\u001a\n\u0019\n\u0018\u0017\n\u0016\n\u0015\u0014\n\u0013\n\u0012\u0011\n2 5\n30\n5\n2\n2\n,\ntg\n\u0010\nB\t D\nT\n\u001f\n\u001e\n\u001e\n\u001d\n\u001c\u001b\n\u001a\n\u0019\u0018\n\u0017\n\u0016\u0015\n\u0014\n\u0013\u0012\n4\n30\n5\n2\ntg\nC\t D\nT\n\u001f\n\u001e\n\u001e\n\u001e\n\u001d\n\u001c\u001b\n\u001a\n\u0019\u0018\n\u0017\n\u0016\u0015\n\u0014\n\u0013\u0012\n4\n2 5\n5\n2\n2\ntg\n,\n\u0011\nD\t D\nT\n\u001f\n\u001e\n\u001d\n\u001c\n\u001b\n\u001a\n\u0019\u0018\n\u0017\n\u0016\u0015\n30\n1\n2\n5\ntg\nE\t D\nT\n\u001f\n\u001e\n\u001d\n\u001c\n\u001b\u001a\n\u0019\n\u0018\u0017\n\u0016\n\u0015\u0014\n\u0013\n\u0012\u0011\n30\n1\n2\n5\n2\ntg",
+  "processado_em": "2026-05-08T14:07:09.722026",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

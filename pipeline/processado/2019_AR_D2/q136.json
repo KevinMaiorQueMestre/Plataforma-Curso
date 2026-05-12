@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 136\t\nA bula de um antibiótico infantil, fabricado na \nforma de xarope, recomenda que sejam ministrados, \ndiariamente, no máximo 500 mg desse medicamento \npara cada quilograma de massa do paciente. Um pediatra \nprescreveu a dosagem máxima desse antibiótico para \nser ministrada diariamente a uma criança de 20 kg pelo \nperíodo de 5 dias. Esse medicamento pode ser comprado \nem frascos de 10 mL, 50 mL, 100 mL, 250 mL e 500 mL. \nOs pais dessa criança decidiram comprar a quantidade \nexata de medicamento que precisará ser ministrada no \ntratamento, evitando a sobra de medicamento. Considere \nque 1 g desse medicamento ocupe um volume de 1 cm3.\nA capacidade do frasco, em mililitro, que esses pais \ndeverão comprar é\nA\t 10.\nB\t 50.\nC\t 100.\nD\t 250.\nE\t 500.",
+  "processado_em": "2026-05-11T23:27:35.315701",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

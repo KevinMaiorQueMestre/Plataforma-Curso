@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 120\t\nNa madrugada de 11 de março de 1978, partes de \num foguete soviético reentraram na atmosfera acima da \ncidade do Rio de Janeiro e caíram no Oceano Atlântico. \nFoi um belo espetáculo, os inúmeros fragmentos \nentrando em ignição devido ao atrito com a atmosfera \nbrilharam intensamente, enquanto “cortavam o céu”. \nMas se a reentrada tivesse acontecido alguns minutos \ndepois, teríamos uma tragédia, pois a queda seria na \nárea urbana do Rio de Janeiro e não no oceano.\nLAS CASAS, R. Lixo espacial. Observatório Astronômico Frei Rosário, \nICEx, UFMG. Disponível em: www.observatorio.ufmg.br. \n Acesso em: 27 set. 2011 (adaptado).\nDe acordo com os fatos relatados, a velocidade angular \ndo foguete em relação à Terra no ponto de reentrada era\nA\t igual à da Terra e no mesmo sentido.\nB\t superior à da Terra e no mesmo sentido.\nC\t inferior à da Terra e no sentido oposto.\nD\t igual à da Terra e no sentido oposto.\nE\t superior à da Terra e no sentido oposto.",
+  "processado_em": "2026-05-11T23:27:34.234594",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

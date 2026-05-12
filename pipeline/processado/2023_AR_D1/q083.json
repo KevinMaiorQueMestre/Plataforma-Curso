@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nDiversos são os fatores causadores da degradação \ndo solo, atuando de forma direta ou indireta, mas quase \nsempre a grande maioria das terras degradadas inicia esse \nprocesso com o desmatamento, que pode ser seguido \npor diversas formas de ocupação desordenada, como: \ncorte de taludes para a construção de casas, rodovias e \nferrovias, agricultura, com uso da queimada, vários tipos de \nmineração, irrigação excessiva, crescimento desordenado \ndas cidades, superpastoreio, uso do solo para diversos \ntipos de despejos industriais e domésticos, sem tratamento \nda área que recebe esses despejos; enfim, de uma forma \nou de outra, os solos tornam-se degradados, sendo muitas \nvezes difícil, ou quase impossível, a sua recuperação.\nGUERRA, A. T. Degradação dos solos: conceitos e temas. In: GUERRA, A. T.; \nJORGE, M. C. O. (Org.). Degradação dos solos no Brasil. \nRio de Janeiro: Difel, 2018.\nA partir da ocupação desordenada exposta no texto, o que \nimpede a recuperação do recurso natural destacado é a\nA\t\nA\t elevação da biomassa.\nB\t\nB\t redução da salinização.\nC\t\nC\t diminuição da fertilidade.\nD\t\nD\t ampliação da microfauna. \nE\t\nE\t decomposição do substrato.",
+  "processado_em": "2026-05-08T14:05:39.568696",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

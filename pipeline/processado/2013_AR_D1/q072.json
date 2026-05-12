@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 72\t\nUm eletricista analisa o diagrama de uma instalação\ncorrente em uma cozinha. Nesse ambiente existem uma g\na figura. O eletricista deseja medir a tensão elétrica aplic\nPara isso, ele dispõe de um voltímetro (V) e dois amperím\nG\nFase\nNeutro\nT\nPara realizar essas medidas, o esquema da ligação desse\nA \nG\nFase\nNeutro\nT\nL\nV\nA\nA\nB\nG\nFase\nNeutro\nT\nL\nV\nA\nA\n \nC\nG\nFase\nNeutro\nT\nL\nV\nA\nA",
+  "processado_em": "2026-05-08T14:00:13.792844",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

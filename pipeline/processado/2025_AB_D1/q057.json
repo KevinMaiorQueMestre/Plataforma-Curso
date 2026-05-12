@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 57\t\nÉ preciso considerar as divisões na sociedade. As pessoas \nveem a história de maneira diferente porque têm vidas \ndiferentes. Se seus antepassados chegaram num navio negreiro, \nvocê verá a história de um modo diverso do que aqueles cujos \nparentes vieram em caravelas.\nSEREZA, H. C. Para Maxwell, comemoração revela autoconfiança brasileira. \nFolha de S. Paulo, 6 mar. 2000.\nDe acordo com o texto, a compreensão dos acontecimentos do \npassado apoia-se na\nA\ttradição iluminista.\nB\tpesquisa científica.\nC\tfilosofia escolástica.\nD\tperspectiva do sujeito.\nE difusão do catolicismo",
+  "processado_em": "2026-05-08T14:06:46.380602",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

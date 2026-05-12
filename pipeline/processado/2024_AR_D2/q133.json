@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 133\t\nO Cerrado e a Amazônia abrigam grande número de \nserpentes popularmente conhecidas como cobras-corais. \nNa Amazônia predominam as corais-verdadeiras, que \nsão peçonhentas, enquanto no Cerrado prevalecem as \nfalsas-corais, que não possuem peçonha. Essas espécies \napresentam um padrão de coloração muito semelhante. \nEssa similaridade traz uma vantagem tanto para as corais \nfalsas como para as verdadeiras.\nFRANÇA, F. G. R. [...] serpentes corais em ambientes \ncampestres, savânicos e florestais da América do Sul. \nBrasília: UnB, 2008 (adaptado).\nNas fotografias, são apresentados exemplos dessas \nserpentes: uma coral-verdadeira e uma falsa-coral.\nSILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo \neducativo para reconhecimento das cobras-corais do estado de \nMinas Gerais, Brasil. Herpetologia Brasileira, \nn. 1, 2021 (adaptado).\nQual é a vantagem dessa similaridade para as falsas-corais?\nA\tFacilita a captura de presas.\nB\tDiminui a competição por recursos.\nC\tPossibilita a geração de indivíduos híbridos.\nD\tReduz a possibilidade de sofrerem predação.\nE\tOtimiza o encontro de parceiros reprodutivos.",
+  "processado_em": "2026-05-08T14:06:19.297621",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

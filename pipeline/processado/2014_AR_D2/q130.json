@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nA forte presença de palavras indígenas e africanas e \nde termos trazidos pelos imigrantes a partir do século XIX \né um dos traços que distinguem o português do Brasil e o \nportuguês de Portugal. Mas, olhando para a história dos \nempréstimos que o português brasileiro recebeu de línguas \neuropeias a partir do século XX, outra diferença também \naparece: com a vinda ao Brasil da família real portuguesa \n(1808) e, particularmente, com a Independência, Portugal \ndeixou de ser o intermediário obrigatório da assimilação \ndesses empréstimos e, assim, Brasil e Portugal começaram \na divergir, não só por terem sofrido influências diferentes, \nmas também pela maneira como reagiram a elas.\nILARI, R.; BASSO, R. O português da gente: a língua que estudamos, a língua que \nfalamos. São Paulo: Contexto, 2006.\nOs empréstimos linguísticos, recebidos de diversas \nlínguas, são importantes na constituição do português do \nBrasil porque\nA\t deixaram marcas da história vivida pela nação, como \na colonização e a imigração.\nB\t transformaram em um só idioma línguas diferentes, \ncomo as africanas, as indígenas e as europeias.\nC\t promoveram uma língua acessível a falantes de \norigens distintas, como o africano, o indígena e o \neuropeu.\nD\t guardaram uma relação de identidade entre os \nfalantes do português do Brasil e os do português de \nPortugal.\nE\t tornaram a língua do Brasil mais complexa do que \nas línguas de outros países que também tiveram \ncolonização portuguesa.",
+  "processado_em": "2026-05-08T14:00:38.184691",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

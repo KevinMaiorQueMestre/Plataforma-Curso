@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 65\t\nUma manifestação comum das torcidas em estádios \nde futebol é a ola mexicana. Os espectadores de uma \nlinha, sem sair do lugar e sem se deslocarem lateralmente, \nficam de pé e se sentam, sincronizados com os da linha \nadjacente. O efeito coletivo se propaga pelos espectadores \ndo estádio, formando uma onda progressiva, conforme \nilustração.\nCalcula-se que a velocidade de propagação dessa \n“onda humana” é 45 km/h, e que cada período de \noscilação contém 16 pessoas, que se levantam e sentam \norganizadamente e distanciadas entre si por 80 cm.\nDisponível em: www.ufsm.br. Acesso em: 7 dez. 2012 (adaptado).\nNessa ola mexicana, a frequência da onda, em hertz, é \num valor mais próximo de\nA\t 0,3.\nB\t 0,5.\nC\t 1,0.\nD\t 1,9.\nE 3 7",
+  "processado_em": "2026-05-08T14:00:13.398742",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

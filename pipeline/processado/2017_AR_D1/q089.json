@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nO comércio soube extrair um bom proveito da \ninteratividade própria do meio tecnológico. A possibilidade \nde se obter um alto desenho do perfil de interesses do \nusuário, que deverá levar às últimas consequências o \nprincípio da oferta como isca para o desejo consumista, \nfoi o principal deles.\nSANTAELLA, L. Culturas e artes do pós-humano: da cultura das mídias à cibercultura. \nSão Paulo: Paulus, 2003 (adaptado).\nDo ponto de vista comercial, o avanço das novas \ntecnologias, indicado no texto, está associado à\nA\t \tatuação dos consumidores como fiscalizadores da \nprodução.\nB\t \texigência de consumidores conscientes de seus \ndireitos.\nC\t \trelação direta entre fabricantes e consumidores.\nD\t \tindividualização das mensagens publicitárias.\nE\t \tmanutenção das preferências de consumo.",
+  "processado_em": "2026-05-11T23:25:43.608249",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

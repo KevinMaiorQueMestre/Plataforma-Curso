@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 116          \nA irradiação e o sucesso evolutivo das angiospermas \nestão associados à ação de animais que atuam na \npolinização de suas flores, principalmente os insetos. \nNessa relação, os insetos foram e ainda são beneficiados \ncom alimento.\nPara as angiospermas, essa coevolução foi vantajosa por\nA \t reduzir a ação dos herbívoros.\nB  reduzir a competição interespecífica.\nC \t aumentar sua variabilidade genética.\nD \t aumentar a produção de grãos de pólen.\nE aumentar a independência da água para reprodução",
+  "processado_em": "2026-05-08T14:03:36.902431",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

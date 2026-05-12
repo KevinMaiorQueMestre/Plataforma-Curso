@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t presença de atividade criativa.\nB \t realização de práticas imitativas.\nC \t busca de sobrevivência individual.\nD \t modificação de paisagens naturais.\nE \t existência de organização coletiva.\nQuestão 83          \nTal fenômeno não pode ser reduzido a alguns \nnúcleos urbanos no topo da hierarquia. É um \nprocesso que conecta serviços avançados, centros \nprodutores e mercados em rede com intensidade \ndiferente e em diferente escala, dependendo da \nrelativa importância das atividades localizadas em \ncada área face à rede mundial.\nCASTELLS M A\ni d d\nd\nSã\nP\nl\nP\nT\n2000 ( d\nt d )",
+  "processado_em": "2026-05-08T14:03:32.123438",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

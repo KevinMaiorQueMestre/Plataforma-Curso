@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nA saúde do professor: acústica arquitetônica\nDentre os parâmetros acústicos que afetam a \ninteligibilidade dos sons emitidos em ambientes fechados, \ndestacam-se o ruído de fundo do ambiente e o decréscimo \ndo nível sonoro com a distância da fonte emissora. Assim, \nsentar-se no fundo da sala de aula pode prejudicar a \naprendizagem dos estudantes, por impedir que eles \ndistingam, com precisão, os sons emitidos, diminuindo a \ninteligibilidade da fala de seus professores. Considere a \nsituação exemplificada pelo infográfico: à distância de \n1 metro, o nível sonoro da fala de um professor é de \n60 dB e diminui com a distância. Considere, ainda, que o \nruído de fundo nessa sala de aula pode chegar a 45 dB \ne que, para ser compreendida, o nível sonoro da fala do \nprofessor deve estar 5 dB acima desse ruído.\nDisponível em: www.ufrrj.br. Acesso em: 2 dez. 2021 (adaptado).\nPara um valor máximo do ruído de fundo, a maior distância \nque um estudante pode estar do professor para que ainda \nconsiga compreender sua fala é mais próxima de\nA\t3,0 m.\nB\t4,5 m.\nC\t6,5 m.\nD\t8,0 m.\nE\t9,5 m.",
+  "processado_em": "2026-05-08T14:06:18.849127",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

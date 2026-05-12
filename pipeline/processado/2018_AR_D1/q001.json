@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 01\t\nEl día en que lo iban a matar, Santiago Nasar se \nlevantó a las 5:30 de la mañana para esperar el buque \nen que llegaba el obispo. Había soñado que atravesaba \nun bosque de higuerones donde caía una llovizna tierna, \ny por un instante fue feliz en el sueño, pero al despertar \nse sintió por completo salpicado de cagada de pájaros. \n“Siempre soñaba con árboles”, me dijo Plácida Linero, su \nmadre, evocando 27 años después los pormenores de \naquel lunes ingrato. “La semana anterior había soñado \nque iba solo en un avión de papel de estaño que volaba \nsin tropezar por entre los almendros”, me dijo. Tenía una \nreputación muy bien ganada de intérprete certera de los \nsueños ajenos, siempre que se los contaran en ayunas, \npero no había advertido ningún augurio aciago en esos \ndos sueños de su hijo, ni en los otros sueños con árboles \nque él le había contado en las mañanas que precedieron \na su muerte.\nMÁRQUEZ, G. G. Crónica de una muerte anunciada. Disponível em: http://biblio3.url.edu.gt. \nAcesso em: 2 jan. 2015.",
+  "processado_em": "2026-05-11T23:26:27.938415",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

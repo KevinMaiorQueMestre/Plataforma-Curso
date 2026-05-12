@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nO biogás é uma alternativa energética muito importante, \npois, além de reduzir a dependência por combustíveis \nfósseis, sua obtenção pode ser realizada a partir de \nresíduos da produção agroindustrial. Considere que o \nbiogás produzido em um empreendimento de suinocultura \ncontém 70% em volume de metano (massa molar 16 g/mol; \nvolume molar 22 L/mol). Ele será utilizado para geração de \nenergia em substituição ao etanol (massa molar 46 g/mol) \nem um gerador no qual 1 m3 de biogás de origem suína \nsubstitui 0,59 L de etanol anidro (densidade 0,78 g/mL).\nNessas condições, a massa de metano necessária para \nsubstituir 10 mol de etanol na produção de energia é mais \npróxima de\nA\t300 g.\nB\t400 g.\nC\t510 g.\nD\t590 g.\nE 720 g",
+  "processado_em": "2026-05-08T14:06:17.831729",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

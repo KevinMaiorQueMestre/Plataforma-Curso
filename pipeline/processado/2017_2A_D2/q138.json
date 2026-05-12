@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\nNuma tarefa escolar, um aluno precisava fazer a planta \nEDL[D\u0003GH\u0003VXD\u0003FDVD\u0003HP\u0003XPD\u0003HVFDOD\u0003GH\u0003\u0014\u0003\u001d\u0003\u0017\u0013\u0011\u0003(OH\u0003YHUL¿FRX\u0003\nque a base da casa era retangular, tendo 12 metros de \ncomprimento e 8 metros de largura. O aluno foi a uma \npapelaria e lá observou que havia cinco tipos de folhas \nde papel, todas com diferentes dimensões. O quadro \ncontém os cinco tipos de folhas, com seus comprimentos \ne larguras fornecidos em centímetro.\nFolha de papel\nComprimento\nLargura\nTipo I\n16\n12\nTipo II\n30\n20\nTipo III\n32\n22\nTipo IV\n34\n24\nTipo V\n48\n32\nO aluno analisou os cinco tipos de folha e comprou \na que possuía as dimensões mínimas necessárias para \nTXH\u0003HOH\u0003¿]HVVH\u0003D\u0003SODQWD\u0003GH\u0003VXD\u0003FDVD\u0003QD\u0003HVFDOD\u0003GHVHMDGD\u000f\u0003\ndeixando exatamente 2 centímetros de margem em cada \num dos quatro lados da folha.\nA folha escolhida pelo aluno foi a de tipo\nA I.\nB II.\nC III.\nD IV.\nE V.",
+  "processado_em": "2026-05-11T23:25:29.903168",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

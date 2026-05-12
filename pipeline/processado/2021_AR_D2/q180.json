@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 180\nO Atomium, representado na imagem, é um \ndos principais pontos turísticos de Bruxelas. Ele foi \n\u001e\u0004\u0005\t\r\u0007\fG\u000f\u0004\u0002\n\u0010\u0002{&³\u0002%\b\u0007\b\u0002\b\u0002%\u0007\u000e\u0010\n\u000e\u0007\b\u0002J\u0007\b\u0005\u000f\n\u0002\n@%\u0004\t\u000e'\u001d\u0004\u0002\nmundial depois da Segunda Guerra Mundial, a Feira \nMundial de Bruxelas.\n\u001b\u0007\b\r\b/\t\n\u0002 \u000f\n\u0002 \f\u0010\b\u0002 \n\t\r\u0007\f\r\f\u0007\b\u0002 \u0010\n\r?2\u000e\u001e\b\u0002 \u001e\u0004\u0005\t\r\u0007\fG\u000f\b\u0002 \u0005\u0004\u0002\nformato de um cubo. Essa estrutura está apoiada por um \ndos vértices sobre uma base paralela ao plano do solo, \ne a diagonal do cubo, contendo esse vértice, é ortogonal \nao plano da base. Centradas nos vértices desse cubo, \nforam construídas oito esferas metálicas, e uma outra \n\n\tP\n\u0007\b\u0002P\u0004\u000e\u0002\u001e\u0004\u0005\t\r\u0007\fG\u000f\b\u0002\u001e\n\u0005\r\u0007\b\u000f\b\u0002\u0005\u0004\u0002%\u0004\u0005\r\u0004\u0002\u000f\n\u0002\u000e\u0005\r\n\u0007\t\n'\u001d\u0004\u0002\u000f\b\t\u0002\n\u000f\u000e\bJ\u0004\u0005\b\u000e\t\u0002\u000f\u0004\u0002\u001e\f!\u0004(\u0002\u0012\t\u0002\u0004\u000e\r\u0004\u0002\n\tP\n\u0007\b\t\u0002\t\u0004!\u0007\n\u0002\u0004\t\u0002#Z\u0007\r\u000e\u001e\n\t\u0002\t\u001d\u0004\u0002\ninterligadas segundo suas arestas, e a esfera central se \nconecta a elas pelas diagonais do cubo.\n\u001b\u0004\u000f\b\t\u0002 \n\t\t\b\t\u0002 \u000e\u0005\r\n\u00072\u000eJ\b'\u0011\n\t\u0002 \t\u001d\u0004\u0002 P\n\u000e\r\b\t\u0002 %\u0004\u0007\u0002 \r\f!\u0004\t\u0002\ncilíndricos que possuem escadas em seu interior, \npermitindo o deslocamento de pessoas pela parte \ninterna da estrutura. Na diagonal ortogonal à base, o \ndeslocamento é feito por um elevador, que permite o \ndeslocamento entre as esferas da base e a esfera do \nponto mais alto, passando pela esfera central.",
+  "processado_em": "2026-05-08T14:04:33.319170",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

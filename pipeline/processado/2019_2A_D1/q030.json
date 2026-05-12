@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 30\t\nQual a diferença entre freios ventilados, \n perfurados e sólidos?\nDa esquerda para a direita: perfurado, ventilado e sólido.  \n(No detalhe, a câmara interna do disco ventilado).\nFrenagens geram calor. O sistema de freios \ntransforma a energia cinética do movimento em energia \ntérmica por meio do atrito entre as pastilhas de freio \ne os discos. Em duas linhas, esse é o princípio de \nfuncionamento do freio.\nMas há um efeito colateral. Esse calor gerado \nprovoca fadiga dos discos e pastilhas e compromete a \neficiência do conjunto de freios.\nO disco de freio sólido é uma peça só, feita de ferro \nmaciço. A vantagem está em custar mais barato que os \noutros. Contudo, tem baixo rendimento em situações \nextremas de frenagem (em descidas de serras, por \nexemplo) por não ter estruturas que favoreçam seu \nresfriamento. Por isso, discos sólidos são usados em \naplicações mais leves, comuns no eixo dianteiro dos \ncompactos 1.0 e no eixo traseiro de carros maiores, \ncomo sedãs e SUVs médios.\nO modelo ventilado, por sua vez, é formado por \ndois discos mais finos unidos por uma câmara interna \nque tem a função de proporcionar uma passagem do \nar entre eles, resfriando com mais rapidez o conjunto. \nEles estão nos eixos dianteiros dos compactos mais \npotentes. Mas também aparecem nos eixos traseiros de \ncarros esportivos. Mas esportivos com motores de alto \ndesempenho e carros de luxo têm discos perfurados. \nHá pequenos furos no disco com o objetivo de aumentar \no atrito e dispersar o calor.\nRODRIGUEZ, H. Disponível em: http://quatrorodas.abril.com.br. \nAcesso em: 22 ago. 2017 (adaptado).\nO texto mostra diferentes tipos de discos de freio e \ndefende a eficácia de um modelo sobre o outro. Para \nconvencer o leitor disso, o autor utiliza o recurso de\nA\t definir em duas linhas o princípio de funcionamento \ndo freio de esportivos de alto desempenho com \ndiscos perfurados.\nB\t divulgar os modelos de carros que adotam os \nmelhores sistemas de frenagem e resfriamento dos \ncomponentes.\nC\t apresentar cada tipo de disco, criticando a forma \ncomo eles geram calor nas frenagens.\nD\t evidenciar os riscos do baixo desempenho dos \ndiferentes modelos de discos de freio.\nE\t comparar o custo, a eficiência e a forma como os \ndiscos dissipam o calor da frenagem.",
+  "processado_em": "2026-05-11T23:26:57.414205",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

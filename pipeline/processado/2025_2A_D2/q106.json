@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 106 \nA pilha seca ácida é muito comum no cotidiano e, sendo a \nmais barata, é usada para alimentar equipamentos portáteis. \nDentro da pilha temos o ânodo (polo negativo) e o cátodo (polo \npositivo), que são formados por:\nZn (s) → Zn2+ (aq) + 2 e−\n2 MnO2 (aq) + 2 NH4\n+ (aq) + 2 e− → Mn2O3 (s) + 2 NH3 (g) + H2O (l)\nDurante esse processo, o aumento na produção do gás vai \nimpedindo o fluxo de corrente elétrica no interior da pilha. É da \nsabedoria popular que, ao colocar a pilha no congelador, ela ganha \numa sobrevida e pode ser usada por mais alguns minutos.\nEsse fato ocorre porque\nA a solubilidade do gás aumenta em baixa temperatura e \nrestabelece o fluxo de elétrons.\nB as condições reacionais de oxidação e redução se invertem \ne promovem a recarga da pilha.\nC o gás amônia sofre expansão ao ser resfriado e libera o fluxo \nde elétrons pela barra de grafita.\nD a produção dos gases em temperatura baixa cessa e possibilita \na continuidade da passagem da corrente.\nE a presença de bolhas de gás no interior da pilha aumenta \ne restabelece o fluxo de elétrons do cátodo para o ânodo.",
+  "processado_em": "2026-05-08T14:06:35.124824",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

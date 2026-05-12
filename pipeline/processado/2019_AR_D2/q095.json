@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 95\t\nAs redes de alta tensão para transmissão de energia \nelétrica geram campo magnético variável o suficiente \npara induzir corrente elétrica no arame das cercas. \nTanto \nos \nanimais \nquanto \nos \nfuncionários \ndas \npropriedades rurais ou das concessionárias de energia \ndevem ter muito cuidado ao se aproximarem de uma \ncerca quando esta estiver próxima a uma rede de alta \ntensão, pois, se tocarem no arame da cerca, poderão \nsofrer choque elétrico.\nPara minimizar este tipo de problema, deve-se:\nA\t Fazer o aterramento dos arames da cerca.\nB\t Acrescentar fusível de segurança na cerca.\nC\t Realizar o aterramento da rede de alta tensão.\nD\t Instalar fusível de segurança na rede de alta tensão.\nE\t Utilizar fios encapados com isolante na rede \nde alta tensão.",
+  "processado_em": "2026-05-11T23:27:32.451995",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

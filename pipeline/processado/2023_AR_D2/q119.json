@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nO manual de um automóvel alerta sobre os cuidad\nRecomenda-se que a pressão seja verificada com os\ndesatento a essa informação, realizou uma viagem long\npressão P0 no interior dos pneus não era a recomendad\nera T0. Após um longo período em repouso, os pneus d\nresfriamento, não há alteração no volume dos pneus e \npneus um gás perfeito (também denominado gás ideal).\nDurante o processo de resfriamento, os valores de pres\npelo gráfico:\nA\nP (Pa)\nP0\nT0\nT (K)\nT\nB\nP0\nT0\nT\nP (Pa)\nT (K)\nC\nP0\nT0\nT\nT (K)\nP (Pa)",
+  "processado_em": "2026-05-08T14:05:44.414461",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

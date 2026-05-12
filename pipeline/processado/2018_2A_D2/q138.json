@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nAo acessar uma página da internet, que trata da \npesquisa de assuntos de interesse juvenil, encontramos \na figura:\nMANGÁS\nFÉ\nLIVROS MÚSICA\nDANÇA\nNOVELAS\nESCOLA\nAMIZADE\nPAZ\nAMOR\nESPORTES\nTEATRO CINEMA\nRELIGIÃO\nTRABALHO\nPOLÍTICA FAMÍLIA LIBERDADESEXO\nBALADASHQ\nSabe-se que nesse tipo de comunicação visual, \ncomum em páginas da internet, o tamanho das letras \nestá diretamente associado ao número de vezes que \no assunto ou termo foi pesquisado ou lido naquela página. \nDessa forma, quanto maior o tamanho das letras de cada \npalavra, maior será o número de vezes que esse tema \nfoi pesquisado.\nDe acordo com a figura, quais são, em ordem decrescente, \nos três assuntos que mais interessaram às pessoas que \nacessaram a página citada?\nA\t HQ, FÉ, PAZ.\nB\t MANGÁS, FÉ, LIVROS.\nC\t MÚSICA, BALADAS, AMOR.\nD\t AMOR, MÚSICA, BALADAS.\nE\t AMOR, BALADAS, MÚSICA.",
+  "processado_em": "2026-05-11T23:26:22.756263",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

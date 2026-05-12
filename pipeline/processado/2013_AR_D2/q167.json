@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nA figura apresenta dois mapas, em que o estado do \nRio de Janeiro é visto em diferentes escalas.\nHá interesse em estimar o número de vezes que \nfoi ampliada a área correspondente a esse estado no \nmapa do Brasil.\nEsse número é\nA\t menor que 10.\nB\t maior que 10 e menor que 20.\nC\t maior que 20 e menor que 30.\nD\t maior que 30 e menor que 40.\nE\t maior que 40.",
+  "processado_em": "2026-05-08T14:00:24.176425",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

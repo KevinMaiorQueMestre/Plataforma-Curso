@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nO índice de massa corporal (IMC) de uma pessoa é \ndefinido como o quociente entre a massa dessa pessoa, \nmedida em quilograma, e o quadrado da sua altura, \nmedida em metro. Esse índice é usado como parâmetro \npara verificar se o indivíduo está ou não acima do peso \nideal para a sua altura. Durante o ano de 2011, uma \npessoa foi acompanhada por um nutricionista e passou \npor um processo de reeducação alimentar. O gráfico \nindica a variação mensal do IMC dessa pessoa, durante \no referido período. Para avaliar o sucesso do tratamento, \no nutricionista vai analisar as medidas estatísticas \nreferentes à variação do IMC.\n29,8\n29,5\n29,2\n28,9\n28,6\n28,3\n28,0\n27,7\n27,4\n27,1\n26,8\n26,5\n26,2\n25,9\nJan.\nMar.\nAbr.\nMaio\nJun.\nJul.\nAgo.\nSet.\nOut.\nNov.\nDez.\nFev.\nMês\nIMC\nDe acordo com o gráfico, podemos concluir que a mediana \nda variação mensal do IMC dessa pessoa é igual a\nA\t 27,40.\nB\t 27,55.\nC\t 27,70.\nD\t 28,15.\nE\t 28,45.",
+  "processado_em": "2026-05-11T23:26:24.681254",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 156\t\nO índice de massa corporal (IMC) é uma medida internacional \nusada para determinar se uma pessoa está com a massa corporal \nideal. No cálculo do IMC, são utilizadas a massa corporal da \npessoa, em quilograma, e a sua altura, em metro. O valor do \nIMC é dado pela razão entre a massa do indivíduo pelo quadrado \nde sua altura.\nA unidade de medida do IMC é\nA\tkg ⋅ m-2\nB\tkg ⋅ m-1\nC\tkg ⋅ m2\nD\tm ⋅ kg-1\nE\tm2 ⋅ kg-1",
+  "processado_em": "2026-05-08T14:06:53.371933",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

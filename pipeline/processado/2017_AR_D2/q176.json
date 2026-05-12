@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nA Igreja de São Francisco de Assis, obra arquitetônica modernista de Oscar Niemeyer, localizada na Lagoa da Pampulha, \nem Belo Horizonte, possui abóbadas parabólicas. A seta na Figura 1 ilustra uma das abóbadas na entrada principal \nda capela. A Figura 2 fornece uma vista frontal desta abóbada, com medidas hipotéticas para simplificar os cálculos.\n5 metros\n4 metros\n3 metros\nH metros\nFigura 1\nFigura 2\nQual a medida da altura H, em metro, indicada na Figura 2?\nA\n16\n3\nB\n31\n5\nC\n25\n4\nD\n25\n3\nE\n75\n2",
+  "processado_em": "2026-05-11T23:25:58.027721",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

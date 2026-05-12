@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 24\t\n100\n95\n90\n85\n80\n75\n70\n65\n60\n55\n50\n45\n40\n45\n30\n25\n20\n15\n10\n5\n0\n8,0                6,0               4,0                2,0               0,0                2,0               4,0                6,0               8,0\n%\n1991\n2010\nComposição da população residente urbana por sexo, \nsegundo os grupos de idade - Brasil - 1991/2010\nFonte: IBGE, Censo Demográfico 1991/2010\nHomens\nMulheres\n100\n95\n90\n85\n80\n75\n70\n65\n60\n55\n50\n45\n40\n45\n30\n25\n20\n15\n10\n5\n0\n8,0               6,0                4,0               2,0               0,0                2,0               4,0               6,0               8,0\n%\n1991\n2010\nComposição da população residente rural por sexo,\nsegundo os grupos de idade - Brasil - 1991/2010\nHomens\nFonte: IBGE, Censo Demográfico 1991/2010\nMulheres\nBRASIL. IBGE. Censo demográfico 1991-2010. Rio de Janeiro, 2011.\nA interpretação e a correlação das figuras sobre a \ndinâmica demográfica brasileira demonstram um(a)\nA\t menor proporção de fecundidade na área urbana.\nB\t menor proporção de homens na área rural.\nC\t aumento da proporção de fecundidade na área rural.\nD\t queda da longevidade na área rural.\nE\t queda do número de idosos na área urbana.",
+  "processado_em": "2026-05-08T13:59:01.994682",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

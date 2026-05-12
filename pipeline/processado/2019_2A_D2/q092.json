@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 92\t\nSegundo o pensamento religioso de Padre Cícero \nRomão Batista (1844-1934), a ação humana do \ncamponês sobre a natureza deveria seguir alguns \nprincípios norteadores, os quais ficaram conhecidos na \ncultura popular brasileira como “os preceitos ecológicos \ndo Padre Cícero”. Dentre esses preceitos, destaca-se:\n“Não plante em serra acima, nem faça roçado em \nladeira muito em pé: deixe o mato protegendo a terra \npara que a água não a arraste e não se perca a sua \nriqueza.”\nFIGUEIREDO, J. B. A. Educação ambiental dialógica: as \ncontribuições de Paulo Freire e a cultura popular nordestina. \nFortaleza: UFC, 2007.\nComparando o pensamento do Padre Cícero com \no atual conhecimento científico, pode-se encontrar \nelementos de convergência, já que a prática citada \ncontribui primariamente para evitar (o)a\nA\t erosão.\nB\t salinização.\nC\t eutrofização.\nD\t assoreamento.\nE\t desertificação.",
+  "processado_em": "2026-05-11T23:27:06.054401",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 29 \nDAHMER, A. Dispo\nAo retratar as plataformas de busca de relacionamento virtual, e\nA destacar padrões de relacionamentos amorosos.\nB nivelar as atitudes de usuários de aplicativo na internet.\nC questionar o uso excessivo de aplicativos de encontros.\nD criticar comportamentos superficiais na sociedade atual.\nE provocar reflexão sobre a veracidade das informações on-line",
+  "processado_em": "2026-05-08T14:06:27.175412",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

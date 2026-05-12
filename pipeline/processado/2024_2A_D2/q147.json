@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nDois objetos metálicos, ambos com temperatura inicial \nigual a 10 °C, são aquecidos. Suas temperaturas, y1 e y2, \nem função do tempo t, em segundo, estão representadas \nno plano cartesiano pelas semirretas com origem no ponto \nA(0 ; 10) e que passam, respectivamente, pelos pontos \nB(20 ; 50) e C(40 ; 30). Sabe-se que, em determinado \nintervalo de tempo, a temperatura y1 aumentou 20 °C.\nNesse mesmo intervalo de tempo, a temperatura y2, \nem grau Celsius, aumentou\nA\t5.\nB\t10.\nC\t15.\nD\t20.\nE\t50.",
+  "processado_em": "2026-05-08T14:06:04.244976",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

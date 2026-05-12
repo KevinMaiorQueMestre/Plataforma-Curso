@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 163\t\nConsidere que a safra nacional de cereais, \nleguminosas e oleaginosas, em 2012, aponte uma \nparticipação por região conforme indicado no gráfico. \nEm valores absolutos, essas estimativas indicam que \nas duas regiões maiores produtoras deveriam produzir \njuntas um total de 119,8 milhões de toneladas em 2012.\nSul\n37,2%\nSudeste\n11,4%\nNordeste\n10,4%\nNorte\n2,7%\nCentro-Oeste\n38,3%\nDe acordo com esses dados, a produção estimada, \nem milhão de tonelada, de cereais, leguminosas e \noleaginosas, em 2012, na Região Sudeste do país, \nfoi um valor mais aproximado de\nA\t 11,4.\nB\t 13,6.\nC\t 15,7.\nD\t 18,1.\nE\t 35,6.",
+  "processado_em": "2026-05-11T23:27:13.197166",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

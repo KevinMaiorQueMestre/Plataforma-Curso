@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 148\t\nDeseja-se comprar determinado produto e, após \numa pesquisa de preços, o produto foi encontrado em \n5 lojas diferentes, a preços variados.\n•\t Loja 1: \u000720% de desconto, que equivale a R$ 720,00, \nmais R$ 70,00 de frete;\n•\t Loja 2: \u000720% de desconto, que equivale a R$ 740,00, \nmais R$ 50,00 de frete;\n•\t Loja 3: \u000720% de desconto, que equivale a R$ 760,00, \nmais R$ 80,00 de frete;\n•\t Loja 4: \u000715% de desconto, que equivale a R$ 710,00, \nmais R$ 10,00 de frete;\n•\t Loja 5: \u000715% de desconto, que equivale a R$ 690,00, \nsem custo de frete.\nO produto foi comprado na loja que apresentou o \nmenor preço total.\nO produto foi adquirido na loja\nA\t 1.\nB\t 2.\nC\t 3.\nD\t 4.\nE\t 5.",
+  "processado_em": "2026-05-11T23:27:12.180056",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

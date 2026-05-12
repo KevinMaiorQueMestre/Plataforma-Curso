@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 50\t\nOs carrinhos de brinquedo podem ser de vários tipos. \nDentre eles, há os movidos a corda, em que uma mola \nem seu interior é comprimida quando a criança puxa o \ncarrinho para trás. Ao ser solto, o carrinho entra em \nmovimento enquanto a mola volta à sua forma inicial.\nO processo de conversão de energia que ocorre no \ncarrinho descrito também é verificado em\nA\t um dínamo.\nB\t um freio de automóvel.\nC\t um motor a combustão.\nD\t uma usina hidroelétrica.\nE\t uma atiradeira (estilingue).",
+  "processado_em": "2026-05-08T13:59:02.023234",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

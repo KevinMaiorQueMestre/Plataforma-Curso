@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 85\t\nA imagem representa o processo de evolução das \nplantas e algumas de suas estruturas. Para o sucesso \ndesse processo, a partir de um ancestral simples, os \ndiferentes grupos vegetais desenvolveram estruturas \nadaptativas que lhes permitiram sobreviver em diferentes \nambientes.\nVasos condutores\nDisponível em: http://biopibidufsj.blogspot.com. Acesso em: 29 fev. 2012 (adaptado).\nQual das estruturas adaptativas apresentadas contribuiu \npara uma maior diversidade genética?\nA\t As sementes aladas, que favorecem a dispersão aérea.\nB\t Os arquegônios, que protegem o embrião multicelular.\nC\t Os grãos de pólen, que garantem a polinização \ncruzada.\nD\t Os frutos, que promovem uma maior eficiência \nreprodutiva.\nE\t Os vasos condutores, que possibilitam o transporte \nda seiva bruta.",
+  "processado_em": "2026-05-08T13:59:02.520954",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

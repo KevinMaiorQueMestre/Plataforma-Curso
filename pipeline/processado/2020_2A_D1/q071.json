@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 71          \nNo Brasil, após a eclosão da Bossa Nova, no fim dos \nanos 1950 — quando efetivamente a canção popular \ncomeçou a ser objeto de debate e análise por parte das \nelites culturais — desenvolveram-se duas principais \nvertentes interpretativas da nossa música: a vertente \nda tradição e a vertente da modernidade, dualismo que \nnão surgiu nesta época e nem se restringe ao tema da \nprodução musical. Desde pelo menos 1922, a tensão \nentre “tradicional” e “moderno” ocupa o centro do debate \npolítico-cultural no país, refletindo o dilema de uma elite \nem busca da identidade brasileira.\nARAÚJO, P. C. Eu não sou cachorro, não.\n Rio de Janeiro: Record, 2013.\nA manifestação cultural que, a partir da década de 1960, \npretendeu sintetizar o dualismo apresentado no texto foi:\nA \t Jovem Guarda, releitura do rock anglófono com letras \nem português.\nB \t Samba-canção, combinação de ritmos africanos com \ntons de boleros.\nC \t Tropicália, junção da música pop internacional com \nritmos nacionais.\nD \t Brega, amostra do dia a dia dos setores populares \ncom temas românticos.",
+  "processado_em": "2026-05-08T14:03:31.376186",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

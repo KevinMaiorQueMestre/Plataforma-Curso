@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\n(P\u0003\u0014\u001c\u0016\u001b\u0003R\u0003DUTXHyORJR\u0003DOHPmR\u0003:LOKHOP\u0003.|QLJ\u000f\u0003GLUHWRU\u0003\nGR\u0003 0XVHX\u0003 1DFLRQDO\u0003 GR\u0003 ,UDTXH\u000f\u0003 HQFRQWURX\u0003 XP\u0003 REMHWR\u0003\nHVWUDQKR\u0003QD\u0003FROHomR\u0003GD\u0003LQVWLWXLomR\u000f\u0003TXH\u0003SRGHULD\u0003WHU\u0003VLGR\u0003\nusado como uma pilha, similar às utilizadas em nossos \nGLDV\u0011\u0003$\u0003 VXSRVWD\u0003 SLOKD\u000f\u0003 GDWDGD\u0003 GH\u0003 FHUFD\u0003 GH\u0003 \u0015\u0013\u0013\u0003 D\u0011&\u0011\u000f\u0003 p\u0003\nconstituída de um pequeno vaso de barro (argila) no qual \nforam instalados um tubo de cobre, uma barra de ferro \n(aparentemente corroída por ácido) e uma tampa de \nbetume (asfalto), conforme ilustrado. Considere os \nSRWHQFLDLV\u0010SDGUmR\u0003GH\u0003UHGXomR\u001d\u0003E \u000b)H\u0015+_)H\f\u0003 \u0003í\u0013\u000f\u0017\u0017\u00039\u001e\u0003\nE (H+_+\u0015) = 0,00 V; e E (Cu\u0015+_&X\f\u0003 \u0003\u000e\u0013\u000f\u0016\u0017\u00039\u0011\nTampa de\nbetume\nVestígio\nde ácido\nTubo de cobre\nVaso de\nbarro\nBarra de ferro\nAs pilhas de Bagdá e a acupuntura. Disponível em: http://jornalggn.com.br. \n$FHVVR\u0003HP\u001d\u0003\u0014\u0017\u0003GH]\u0011\u0003\u0015\u0013\u0014\u0017\u0003\u000bDGDSWDGR\f\u0011\nNessa suposta pilha, qual dos componentes atuaria como \ncátodo?\nA A tampa de betume.\nB O vestígio de ácido.\nC A barra de ferro.\nD O tubo de cobre.\nE O vaso de barro.",
+  "processado_em": "2026-05-11T23:26:47.370571",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

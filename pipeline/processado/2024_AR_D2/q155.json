@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nUm proprietário pretende instalar um sensor de \npresença para a proteção de seu imóvel. O sensor \ndeverá detectar movimentos de objetos e pessoas numa \ndeterminada região plana. A figura ilustra a vista superior \nda área de cobertura (setor circular em azul) de um sensor \ncolocado no ponto S. Essa área depende da medida do \nângulo α, em grau, e do raio R, em metro.\nAo aumentar o ângulo α ou o raio R aumenta-se a \nárea de cobertura do sensor. Entretanto, quanto maior \nessa área maior o preço do sensor",
+  "processado_em": "2026-05-08T14:06:20.464110",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

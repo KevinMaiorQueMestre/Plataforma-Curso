@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 150\t\nNa produção de uma unidade de um produto, uma empresa \ngastava R$ 40,00 na compra de matéria-prima e mais R$ 40,00 \nem custos diversos. Essa empresa vendia esse produto por \nR$ 120,00 a unidade.\nEm decorrência de mudanças no mercado consumidor, \nos custos diversos aumentaram em 50%, embora o custo com \nmatéria-prima tenha permanecido o mesmo. Assim, a empresa \nreajustará o preço de venda desse produto de forma que, \nao conceder um desconto de 20%, o lucro, em real, por unidade \nvendida permaneça o mesmo.\nDe quanto será o reajuste, em real, no preço de venda desse \nproduto?\nA\t16,00\nB\t20,00\nC\t25,00\nD\t50,00\nE\t55,00",
+  "processado_em": "2026-05-08T14:06:52.978037",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS\nQuestões de 91 a 135\nQUESTÃO 91\t\nO esquema representa um experimento feito com \ncélulas do protozoário Amoeba proteus. Nele, um grupo \nde células foi tratado com a droga citocalasina B, enquanto \noutro grupo não foi tratado, servindo como controle. \nO formato e o movimento das células tratadas foram \ncomprometidos.\nSADAVA, D. et al. Vida: a ciência da biologia — volume I: célula e \nhereditariedade. Porto Alegre: Artmed, 2009 (adaptado).\nQual componente celular foi afetado pela droga utilizada \nno experimento?\nA\tVacúolos.\nB\tMitocôndrias.\nC\tMicrofilamentos.\nD\tMaterial genético.\nE\tMembrana plasmática.",
+  "processado_em": "2026-05-08T14:06:16.361832",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

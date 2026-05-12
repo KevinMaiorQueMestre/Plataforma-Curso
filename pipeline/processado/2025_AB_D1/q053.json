@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 53\t\nNão ignoro que muitos foram e são de opinião de que as \ncoisas do mundo são governadas de tal modo pela fortuna e por \nDeus e que os homens não podem corrigi-las com a prudência, \ne até não têm remédio algum contra eles. Por isso, poder-se-ia \njulgar que não devemos incomodar-nos demais com as coisas, \nmas deixar-nos governar à sorte.\nMAQUIAVEL, N. O Príncipe. São Paulo: Martins Fontes, 2010.\nDiante dessas reflexões de Maquiavel, qual é a função do \nlivre-arbítrio nos domínios da política?\nA\tAplacar a aspiração de poder dos súditos.\nB\tOrientar o soberano no campo das incertezas.\nC\tEstabilizar a administração por meio do diálogo.\nD\tRelativizar os valores morais no escopo das tradições.\nE\tAprimorar o espírito bélico para a conquista de territórios.",
+  "processado_em": "2026-05-08T14:06:46.255109",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

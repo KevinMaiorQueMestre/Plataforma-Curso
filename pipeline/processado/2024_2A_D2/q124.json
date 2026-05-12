@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nUm laboratório farmacêutico desenvolveu um anestés\npele de pacientes a serem submetidos a pequenas interve\npolímero 100% biodegradável, dotadas de paredes semipe\nativos prilocaína e lidocaína. O nanoanestésico é responsá\ndesejada do organismo.\nVASCONCELOS\nA utilização dessas nanocápsulas implica o(a)\nA\tdiminuição do tempo de vida do fármaco, pela migração\nB\tfacilidade de sua absorção na epiderme, pela interação\nC\tacréscimo da concentração dos princípios ativos do an\nD\tutilização de uma maior quantidade do creme, para manter \nE\taumento do transporte e da absorção dos princípios \nepiderme para a derme.",
+  "processado_em": "2026-05-08T14:06:02.817247",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

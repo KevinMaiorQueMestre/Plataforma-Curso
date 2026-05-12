@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 89          \nAntes que a arte polisse nossas maneiras e \nensinasse nossas paixões a falarem a linguagem \napurada, nossos costumes eram rústicos. Não era \nmelhor, mas os homens encontravam sua segurança \nna facilidade para se reconhecerem reciprocamente, e \nessa vantagem, de cujo valor não temos mais a noção, \npoupava-lhes muitos vícios.\nROUSSEAU, J.-J. Discurso sobre as ciências e as artes. \nSão Paulo: Abril Cultural, 1983 (adaptado).\nNo presente excerto, o filósofo Jean-Jacques Rousseau \n(1712-1778) exalta uma condição que teria sido \nvivenciada pelo homem em qual situação?\nA \t No sistema monástico, pela valorização da religião.\nB \t Na existência em comunidade, pela comunhão de valores.\nC \t No modelo de autogestão, pela emancipação do sujeito.\nD \t No estado de natureza, pelo exercício da liberdade.\nE \t Na vida em sociedade, pela abundância de bens.",
+  "processado_em": "2026-05-08T14:03:32.432211",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

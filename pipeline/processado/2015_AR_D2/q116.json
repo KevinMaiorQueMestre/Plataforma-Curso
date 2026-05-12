@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 116\t\nMáscara senufo, Mali. Madeira e fibra vegetal. Acervo do MAE/USP.\nAs formas plásticas nas produções africanas conduziram \nartistas modernos do início do século XX, como Pablo \nPicasso, a algumas proposições artísticas denominadas \nvanguardas. A máscara remete à\nA\t preservação da proporção.\nB\t idealização do movimento.\nC\t estruturação assimétrica.\nD\t sintetização das formas.\nE\t valorização estética.",
+  "processado_em": "2026-05-08T14:00:54.938137",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nDois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água\ncontida em cada reservatório nesse período pode ser visualizada na figura.\n180 000\n170 000\n160 000\n150 000\n140 000\n130 000\n120 000\n110 000\n100 000\n90 000\n80 000\n70 000\n60 000\n50 000\n40 000\n30 000\n20 000\n10 000\n0\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n90 000\n80 000\n70 000\n60 000\n50 000\n40 000\n30 000\n20 000\n10 000\nReservatório A\nQuantidade de água armazenada\nVolume (L)\nReservatório B\nTempo (h)\nReservatório B\nReservatório A\nO número de horas em que os dois reservatórios contêm a mesma quantidade de água é\nA\t 1.\nB\t 2.\nC\t 4.\nD\t 5.\nE\t 6.",
+  "processado_em": "2026-05-11T23:25:57.444791",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "inteira",
+    "linha_x": 292.3
+  }
+}

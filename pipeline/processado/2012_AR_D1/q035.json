@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q035",
+  "imagem": "q035.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 35,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 35\t\nA experiência que tenho de lidar com aldeias de \ndiversas nações me tem feito ver, que nunca índio fez \ngrande confiança de branco e, se isto sucede com os que \nestão já civilizados, como não sucederá o mesmo com \nesses que estão ainda brutos.\nNORONHA, M. Carta a J. Caldeira Brant. 2 jan.1751. Apud CHAIM, M. M. \nAldeamentos indígenas (Goiás: 1749-1811). São Paulo: \nNobel, Brasília: INL, 1983 (adaptado).\nEm 1749, ao separar-se de São Paulo, a capitania de \nGoiás foi governada por D. Marcos de Noronha, que \natendeu às diretrizes da política indigenista pombalina \nque incentivava a criação de aldeamentos em função\nA\t das constantes rebeliões indígenas contra os brancos \ncolonizadores, que ameaçavam a produção de ouro \nnas regiões mineradoras.\nB\t da propagação de doenças originadas do contato \ncom os colonizadores, que dizimaram boa parte da \npopulação indígena.\nC\t do empenho das ordens religiosas em proteger \no indígena da exploração, o que garantiu a sua \nsupremacia na administração colonial.\nD\t da política racista da Coroa Portuguesa, contrária à \nmiscigenação, que organizava a sociedade em uma \nhierarquia dominada pelos brancos.\nE\t da necessidade de controle dos brancos sobre a \npopulação indígena, objetivando sua adaptação às \nexigências do trabalho regular.",
+  "processado_em": "2026-05-08T13:59:02.005874",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

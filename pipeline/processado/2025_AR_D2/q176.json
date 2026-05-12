@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 176\t\nUm empresário utiliza máquinas cuja pressão interna P, \nem atmosfera, depende do tempo contínuo de utilização t, em \nhora, e de um parâmetro positivo K, que define o modelo da \nmáquina, segundo a expressão:\nP = 4 ⋅ log[−K ⋅ (t + 1) ⋅ (t − 19)]\nO fabricante dessas máquinas recomenda ao usuário \nque a pressão interna desse tipo de máquina não ultrapasse \n10 atmosferas durante seu funcionamento.\nO empresário pretende comprar novas máquinas desse \ntipo que deverão funcionar, diariamente, por um período \ncontínuo de 10 horas. Para isso, precisa definir o modelo de \nmáquina a ser adquirida escolhendo o maior valor possível \ndo parâmetro K, atendendo à recomendação do fabricante.\nO maior valor a ser escolhido para K é\nA\t100,5\nB\t108\nC\t10\n84\n2 5,\nD\t10\n99\n2 5,\nE\t25 × 10−2",
+  "processado_em": "2026-05-08T14:07:10.580949",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

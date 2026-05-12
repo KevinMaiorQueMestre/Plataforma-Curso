@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 134\t\nEra um dos meus primeiros dias na sala de música. \nA fim de descobrirmos o que deveríamos estar fazendo \nali, propus à classe um problema. Inocentemente \nperguntei: — O que é música?\nPassamos dois dias inteiros tateando em busca de \numa definição. Descobrimos que tínhamos de rejeitar \ntodas as definições costumeiras porque elas não eram \nsuficientemente abrangentes.\nO simples fato é que, à medida que a crescente \nmargem a que chamamos de vanguarda continua suas \nexplorações pelas fronteiras do som, qualquer definição \nse torna difícil. Quando John Cage abre a porta da sala \nde concerto e encoraja os ruídos da rua a atravessar suas \ncomposições, ele ventila a arte da música com conceitos \nnovos e aparentemente sem forma.\nSCHAFER, R. M. O ouvido pensante. São Paulo: Unesp, 1991 (adaptado).\nA frase “Quando John Cage abre a porta da sala de \nconcerto e encoraja os ruídos da rua a atravessar suas \ncomposições”, na proposta de Schafer de formular uma \nnova conceituação de música, representa a\nA\t acessibilidade à sala de concerto como metáfora, \nnum momento em que a arte deixou de ser elitizada.\nB\t abertura da sala de concerto, que permitiu que a \nmúsica fosse ouvida do lado de fora do teatro.\nC\t postura inversa à música moderna, que desejava se \nenquadrar em uma concepção conformista.\nD\t intenção do compositor de que os sons extramusicais \nsejam parte integrante da música.\nE\t necessidade do artista contemporâneo de atrair maior \npúblico para o teatro.",
+  "processado_em": "2026-05-08T14:00:38.445216",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

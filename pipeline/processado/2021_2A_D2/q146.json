@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E  V\nQuestão 146\n\u0019\u0010\u0002\r{\u001e\u0005\u000e\u001e\u0004\u0002J\u0007?\u0006\u001e\u0004\u0002\u001e\u0004\u0005\t\r\u0007B\u000e\u0002\f\u0010\b\u0002\u0005\u0004#\b\u0002P\u00042+\b\u0002\b\u0002%\b\u0007\r\u000e\u0007\u0002\ndas medidas de uma folha A0. As medidas de uma folha \n\u0012\u0002\t\u001d\u0004\u0002&&\u0002\u0010\u0010\u0002\u000f\n\u00022\b\u0007J\f\u0007\b\u0002\n\u0002\u0002\u0010\u0010\u0002\u000f\n\u0002\u001e\u0004\u0010%\u0007\u000e\u0010\n\u0005\r\u0004(\u0002 \nA nova folha foi construída do seguinte modo: acrescenta \numa polegada na medida da largura e 16 polegadas na \nmedida do comprimento. Esse técnico precisa saber a \n\u0007\bY\u001d\u0004\u0002 \n\u0005\r\u0007\n\u0002 \b\t\u0002 \u0010\n\u000f\u000e\u000f\b\t\u0002 \u000f\b\u0002 2\b\u0007J\f\u0007\b\u0002 \n\u0002 \u000f\u0004\u0002 \u001e\u0004\u0010%\u0007\u000e\u0010\n\u0005\r\u0004$\u0002\nrespectivamente, dessa nova folha.\nConsidere 2,5 cm como valor aproximado para uma \npolegada.\n\u0018\f\b2\u0002 {\u0002 \b\u0002 \u0007\bY\u001d\u0004\u0002 \n\u0005\r\u0007\n\u0002 \b\t\u0002 \u0010\n\u000f\u000e\u000f\b\t\u0002 \u000f\b\u0002 2\b\u0007J\f\u0007\b\u0002 \n\u0002 \u000f\u0004\u0002\ncomprimento da nova folha?\nA  \n1\n \n__\n16\nB  \n620\n \n_____\n1 240\nC  596\n \n____\n856\nD  598\n \n____\n880\nE  \n845\n \n_____\n 4 840",
+  "processado_em": "2026-05-08T14:04:15.902049",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

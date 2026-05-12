@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nDeputados que participaram da Conferência da \nOrganização das Nações Unidas (ONU) sobre Mudanças \nClimáticas, na Escócia, avaliaram a participação do Brasil \ne apontaram o “dever de casa” do país a partir de agora. \nA COP-26 reuniu quase 200 países em busca de ações \nefetivas para a redução das emissões de gases que aceleram \no aquecimento global. O Brasil atualizou sua Contribuição \nNacional Determinada (NDC), ou seja, a meta voluntária \nde redução das emissões de gases que comprometem a \nqualidade do ar: a previsão de corte nas emissões passou \nde 43% para 50% até 2030. O país também reafirmou a \nmeta de neutralidade climática até 2050.\nDisponível em: www.camara.leg.br. Acesso em: 24 nov. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:05:19.742878",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

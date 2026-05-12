@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 77 \nO clima no Antropoceno\nSe o aquecimento global aumentar pelo menos 2 °C, \nas projeções para uma ampla área do Brasil é de mais \nchuvas concentradas. No Sudeste e no Sul, onde vive 60% da \npopulação brasileira, tem ocorrido um aumento claro no nível \nde pluviosidade média e de episódios extremos de chuvas \ndesde os anos 1960, tendências que devem se intensificar nas \npróximas décadas caso o planeta aqueça 2 °C.\nPIVETTA, M. Revista Pesquisa Fapesp, n. 307, set. 2021 (adaptado).\nO problema apontado no texto demanda o planejamento das \ncidades para\nA diversificar parques industriais.\nB reestruturar redes de drenagem.\nC redimensionar áreas de comércio.\nD padronizar modais de transporte público.\nE flexibilizar regras de verticalização urbana.",
+  "processado_em": "2026-05-08T14:06:30.463784",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

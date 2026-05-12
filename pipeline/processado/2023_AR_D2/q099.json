@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\t\nA tecnologia de vacinas de RNA mensageiro (RNAm) \né investigada há anos. Avanços científicos em genética \nmolecular permitiram desenvolver uma vacina para \ncontrole da pandemia da covid-19 causada pelo vírus de \nRNA SARS-CoV-2. A vacina de RNAm tem sequências \nde genes do vírus. Entretanto, por ser muito instável, o \nRNAm deve ser recoberto por uma capa de lipídios que \nevita sua degradação e favorece sua ação. Dessa forma, \no RNAm desempenhará sua função específica atuando \nno mesmo compartimento celular de sempre.\nDisponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).\nA imunização produzida por esse tipo de vacina é \nalcançada por meio da\nA\t\nA\t estimulação de leucócitos induzida pela capa lipídica \ncontendo RNAm.\nB\t\nB\t atuação do RNAm como sequestrador do vírus para \no meio extracelular.\nC\t\nC\t tradução do RNAm em proteína viral, desencadeando \na resposta antigênica.\nD\t\nD\t competição entre o RNAm vacinal e o RNA viral pelos \nsítios dos ribossomos.\nE\t\nE\t incorporação do RNAm viral ao genoma do hospedeiro, \ngerando novo fenótipo.",
+  "processado_em": "2026-05-08T14:05:43.060012",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

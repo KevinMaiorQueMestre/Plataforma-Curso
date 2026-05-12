@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 60\t\nUm dos jornais pioneiros na utilização de correspondentes \npara a cobertura de assuntos nacionais manteve seus leitores \ninformados sobre o dia a dia das operações da quarta e última \ncampanha militar contra Canudos ao publicar, entre os meses de \nagosto e outubro de 1897, os telegramas enviados diretamente \ndo “sertão baiano” por seu correspondente Euclides da Cunha.\nMARTINS JR., C. O espetáculo da técnica “desencantando” os “sertões”: \nengenheiros e engenharias de racionalização e controle territorial das \nfronteiras ocidentais do Brasil (1870-1915). Revista Territórios \ne Fronteiras, n. 2, jul.-dez. 2014 (adaptado).\nA novidade tecnológica apresentada no texto favoreceu a \ncobertura da guerra porque permitiu o(a)\nA\terudição das narrativas de repórteres.\nB\tdispensa do depoimento de testemunhas.\nC\tcontrole dos conflitos regionais.\nD\tfechamento dos periódicos monarquistas.\nE celeridade da circulação de notícias",
+  "processado_em": "2026-05-08T14:06:46.468512",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 78          \nNo \nfim \nda \ndécada \nde \n1950, \na \nagricultura \nintensiva começou a ser disseminada nos países em \ndesenvolvimento. Esse fato marcou o início da Revolução \nVerde — um período de 30 anos de grandes colheitas \nque permitiram a muitos países pobres tornarem-se \nautossuficientes em alimentos. Com esse incrível aumento \nna produção, observado especialmente nos países da \nAmérica Latina, veio uma crescente dependência dos \nprodutos químicos agrícolas — e também problemas \necológicos em escala global. No Brasil, os resultados \ndessa revolução são visíveis e colocaram o país entre os \nmais importantes da agropecuária mundial.\nBURNIE D Fique por dentro da ecologia São Paulo: Cosac & Naify 2001 (adaptado)",
+  "processado_em": "2026-05-08T14:03:31.900628",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\t\nO processo de radiação de alimentos consiste em \nsubmeter os alimentos, já embalados ou a granel, a uma \nquantidade controlada de radiação ionizante, por um \ndeterminado período de tempo. Esse procedimento não \naumenta o nível de radioatividade normal dos alimentos. \nA aplicação de uma dose de radiação normalmente resulta \nna morte de insetos, bactérias patogênicas, fungos e \nleveduras, aumentando assim o tempo de conservação \ndos alimentos, e pode retardar a maturação de algumas \nfrutas e legumes, sendo possível assim aumentar seu \nperíodo de armazenamento.\nEm relação ao processo de conservação de alimentos \ndescrito no texto, infere-se que\nA\t\nA\t as frutas e os legumes submetidos a uma dose de \nradiação apodrecem mais rapidamente que as demais. \nB\t\nB\t o processo de radiação de alimentos torna-os altamente \nradioativos e impróprios para o consumo humano. \nC\t\nC\t apenas os alimentos já embalados em recipientes \nadequados podem ser submetidos a uma dose de \nradiação ionizante. \nD\t\nD\t alimentos tratados com radiação ficam mais sensíveis \nao ataque de insetos, bactérias patogênicas, fungos \ne leveduras.\nE\t\nE\t com a eliminação dos principais agentes patogênicos, \na aplicação da radiação em alimentos contribui para \nsua melhor conservação.",
+  "processado_em": "2026-05-08T14:05:25.778269",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

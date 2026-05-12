@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 56\t\nPor séculos, o Rio Reno tem sido uma rota de navegação \nconfiável, ajudando a criar gigantes fabris ao longo de suas \nmargens. No entanto, esses dias parecem estar no fim, pois \no nível da água tem diminuído regularmente, o que impede a \nnavegação fluvial do final do verão até o outono. Isso mostra \ncomo a crise climática atinge as economias dos países ricos.\nDisponível em: www.estadao.com.br. Acesso em: 10 ago. 2023 (adaptado).\nQual é o efeito econômico do problema ambiental apresentado \nno texto?\nA\tSupressão da extração de minério.\nB\tIntensificação da atividade de pesca.\nC\tEncarecimento da logística de transporte.\nD\tInviabilização da agricultura de subsistência.\nE Sucateamento da indústria de transformação",
+  "processado_em": "2026-05-08T14:07:01.135242",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

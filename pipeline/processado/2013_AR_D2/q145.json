@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nNum parque aquático existe uma piscina infantil na \nforma de um cilindro circular reto, de 1 m de profundidade \ne volume igual a 12 m3, cuja base tem raio R e centro O. \nDeseja-se construir uma ilha de lazer seca no interior \ndessa piscina, também na forma de um cilindro circular \nreto, cuja base estará no fundo da piscina e com centro \nda base coincidindo com o centro do fundo da piscina, \nconforme a figura. O raio da ilha de lazer será r. Deseja-se \nque após a construção dessa ilha, o espaço destinado à \nágua na piscina tenha um volume de no mínimo 4 m3",
+  "processado_em": "2026-05-08T14:00:23.233985",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

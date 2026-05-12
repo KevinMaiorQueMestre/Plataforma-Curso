@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 144        \nUm motociclista planeja realizar uma viagem cujo \ndestino fica a 500 km de sua casa. Sua moto consome \n5 litros de gasolina para cada 100 km rodados, e o \ntanque da moto tem capacidade para 22 litros. Pelo \nmapa, observou que no trajeto da viagem o último posto \ndisponível para reabastecimento, chamado Estrela, fica a \n80 km do seu destino. Ele pretende partir com o tanque \nda moto cheio e planeja fazer somente duas paradas para \nreabastecimento, uma na ida e outra na volta, ambas no \nposto Estrela. No reabastecimento para a viagem de ida, \ndeve considerar também combustível suficiente para se \ndeslocar por 200 km no seu destino.\nA quantidade mínima de combustível, em litro, que \nesse motociclista deve reabastecer no posto Estrela na \nviagem de ida, que seja suficiente para fazer o segundo \nreabastecimento, é\nA  13.\nB  14.\nC  17.\nD  18.\nE  21.",
+  "processado_em": "2026-05-11T23:28:16.512156",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A  o fl uxo de calor por condução no condensador sofre \nconsiderável redução.\nB  a \ntemperatura \nda \nsubstância \nrefrigerante \nno \ncondensador diminui mais rapidamente.\nC  o fl uxo de calor promove signifi cativa elevação da \ntemperatura no interior do refrigerador.\nD  a \nliquefação \nda \nsubstância \nrefrigerante \nno \ncondensador exige mais trabalho do compressor.\nE  as correntes de convecção nas proximidades do \ncondensador ocorrem com maior difi culdade.\nQuestão 134        \nUm mergulhador fi ca preso ao explorar uma caverna \nno oceano. Dentro da caverna formou-se um bolsão de \nar, como mostrado na fi gura, onde o mergulhador se \nabrigou.\nDurante o resgate, para evitar danos a seu \norganismo, foi necessário que o mergulhador passasse \npor um processo de descompressão antes de retornar \nà superfície para que seu corpo fi casse novamente sob \npressão atmosférica. O gráfi co mostra a relação entre \nos tempos de descompressão recomendados para \nindivíduos nessa situação e a variação de pressão.\n)",
+  "processado_em": "2026-05-11T23:28:15.614319",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

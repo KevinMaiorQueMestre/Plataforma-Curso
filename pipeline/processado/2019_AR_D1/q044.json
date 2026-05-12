@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 44\t\nToca a sirene na fábrica,\ne o apito como um chicote\nbate na manhã nascente\ne bate na tua cama\nno sono da madrugada.\nTernuras da áspera lona",
+  "processado_em": "2026-05-11T23:27:24.461985",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

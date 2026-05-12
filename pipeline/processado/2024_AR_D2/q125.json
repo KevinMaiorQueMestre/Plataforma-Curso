@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\t\nUma agricultora, com a intenção de comercializar o \nmilho recém-colhido, testou uma forma de preservar o \nsabor adocicado do seu produto. O melhor resultado foi \nobtido quando ela imergiu as espigas em água fervente \ndurante alguns minutos e, em seguida, em água gelada. \nCom esse procedimento, parte da glicose do milho não foi \ntransformada em amido, mantendo o seu sabor adocicado.\nUtilizando esse procedimento, o sabor foi conservado \nporque houve\nA\tdesnaturação enzimática pela alta temperatura.\nB\tconversão de nutrientes pela redução de temperatura.\nC\tdegradação das reservas nutritivas pelo choque térmico.\nD\timpedimento da entrada de oxigênio pela fervura da água.\nE\tdesidratação dos grãos por causa da alteração da \ntemperatura",
+  "processado_em": "2026-05-08T14:06:18.883837",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 132\t\nO correr da vida embrulha tudo. A vida é assim: \nesquenta e esfria, aperta e daí afrouxa, sossega e depois \ndesinquieta. O que ela quer da gente é coragem.  \nROSA, J. G. Grande sertão: veredas. Rio de Janeiro: Nova Fronteira, 1986.\nNo romance Grande sertão: veredas, o protagonista \nRiobaldo narra sua trajetória de jagunço. A leitura do \ntrecho permite identificar que o desabafo de Riobaldo se \naproxima de um(a)\nA\t diário, por trazer lembranças pessoais.\nB\t fábula, por apresentar uma lição de moral.\nC\t notícia, por informar sobre um acontecimento.\nD\t aforismo, por expor uma máxima em poucas palavras.\nE\t crônica, por tratar de fatos do cotidiano.",
+  "processado_em": "2026-05-08T14:00:38.309399",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nDisponível \nO mapa aponta a necessidade de iniciativas governament\nA\tprojetos de exploração mineral.\nB\tampliação de subsídios industriais.\nC\tpolíticas de fiscalização ambiental.\nD\tvalorização de cultivos modernos.\nE\tatividades de integração regional.",
+  "processado_em": "2026-05-08T14:05:57.701646",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

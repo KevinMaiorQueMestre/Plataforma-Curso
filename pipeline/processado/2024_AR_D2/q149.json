@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nA criptografia refere-se à construção e análise de protoc\nJúlio César, imperador romano, utilizava um código para \nse a mensagem caísse em mãos inimigas, a informação n\nalfabeto era substituída pela letra três posições à frente, o\npelo “F”, e assim sucessivamente.\nA B C D E F G H\nI\nJ\nK L M N O P Q R S\nA B C D E F G H\nI\nJ\nK L M N O P\nQualquer código que tenha um padrão de substituição d\nou um Código de César. Note que, para decifrar uma Cifra d\npois isso define todas as demais substituições a serem fei\nUma mensagem, em um alfabeto de 26 letras, foi codific\nde se descobrir, aleatoriamente, o padrão utilizado nessa co\nnas tentativas seguintes.\nA probabilidade de se descobrir o padrão dessa Cifra de C\nA \n1\n25\n1\n25\n1\n25\n+\n+\nB 24\n25\n23\n24\n1\n23\n+\n+\nC \n1\n25\n1\n24\n1\n23\n×\n×\nD 24\n25\n23\n25\n1\n25\n×\n×\nE\n24\n25\n23\n24\n1\n23\n×\n×",
+  "processado_em": "2026-05-08T14:06:20.092551",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "questao_id": "2014_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 04\t\nÉ o caráter radical do que se procura que exige a \nradicalização do próprio processo de busca. Se todo o \nespaço for ocupado pela dúvida, qualquer certeza que \naparecer a partir daí terá sido de alguma forma gerada \npela própria dúvida, e não será seguramente nenhuma \ndaquelas que foram anteriormente varridas por essa \nmesma dúvida.\nSILVA, F. L. Descartes: a metafísica da modernidade. \nSão Paulo: Moderna, 2001 (adaptado).\nApesar de questionar os conceitos da tradição, a dúvida \nradical da filosofia cartesiana tem caráter positivo por \ncontribuir para o(a)\nA\t dissolução do saber científico.\nB\t recuperação dos antigos juízos.\nC\t exaltação do pensamento clássico.\nD\t surgimento do conhecimento inabalável.\nE\t fortalecimento dos preconceitos religiosos.",
+  "processado_em": "2026-05-11T23:36:59.380804",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 162\t\nO dono de um salão de festas precisa decorar cinco \npilastras verticais cilíndricas idênticas, cujo raio da base \nmede 10 cm. O objetivo é revestir integralmente essas \npilastras com faixas de menor comprimento possível, de \nmodo que cada uma tenha seis faixas de cor preta e \ncinco faixas de cor branca, conforme ilustrado na figura.\nEle orçou as faixas em cinco lojas que as \ncomercializam na largura e nas cores desejadas, \nporém, em todas elas, só são vendidas peças inteiras. \nOs comprimentos e os respectivos preços das peças \ncomercializadas por loja estão apresentados no quadro.\nLoja\nComprimento da \npeça (em metro)\nPreço da peça \n(em real)\nI \n3 \n11,00 \nII \n7 \n19,00 \nIII \n10 \n33,00 \nIV \n14 \n37,00 \nV \n22 \n61,00 \nO dono do salão de festas decidiu efetuar a compra \nem uma única loja, optando por aquela em que a compra \nficaria mais barata.\nUtilize 3 como valor aproximado para π. \nA loja na qual o dono do salão de festas deve comprar \nas peças necessárias para confeccionar as faixas é\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.\nVista lateral\nda pilastra",
+  "processado_em": "2026-05-11T23:27:13.137313",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

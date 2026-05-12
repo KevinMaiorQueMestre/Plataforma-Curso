@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 127 \nConsidere o cladograma:\nDisponível e\nA partir da análise desse cladograma, as aves são mais aparentad\nA anfíbios.\nB mamíferos.\nC tartarugas.\nD outros dinossauros.\nE lagartos e cobras.",
+  "processado_em": "2026-05-08T14:06:36.160306",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

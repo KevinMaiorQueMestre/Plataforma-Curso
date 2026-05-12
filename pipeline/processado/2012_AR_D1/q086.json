@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 86\t\nOsmose é um processo espontâneo que ocorre em \ntodos os organismos vivos e é essencial à manutenção \nda vida. Uma solução 0,15 mol/L de NaCℓ (cloreto de \nsódio) possui a mesma pressão osmótica das soluções \npresentes nas células humanas.\nA imersão de uma célula humana em uma solução \n0,20 mol/L de NaCℓ tem, como consequência, a\nA\t adsorção de íons Na+ sobre a superfície da célula.\nB\t difusão rápida de íons Na+ para o interior da célula.\nC\t diminuição da concentração das soluções presentes \nna célula.\nD\t transferência de íons Na+ da célula para a solução.\nE\t transferência de moléculas de água do interior da \nél l\nl\nã",
+  "processado_em": "2026-05-08T13:59:02.521937",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

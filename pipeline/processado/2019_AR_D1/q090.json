@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 90\t\nA fome não é um problema técnico, pois ela não se \ndeve à falta de alimentos, isso porque a fome convive \nhoje com as condições materiais para resolvê-la.\nPORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio \nambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo \nno século XXI: território de vida, de luta e de construção da justiça \nsocial. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado).\nO texto demonstra que o problema alimentar apresentado \ntem uma dimensão política por estar associado ao(à)\nA\t escala de produtividade regional.\nB\t padrão de distribuição de renda.\nC\t dificuldade de armazenamento de grãos.\nD\t crescimento da população mundial.\nE\t custo de escoamento dos produtos.",
+  "processado_em": "2026-05-11T23:27:29.176998",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

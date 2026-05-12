@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q006",
+  "imagem": "q006.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 6,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 06\t\nO canto triste dos conquistados: \nos últimos dias de Tenochtitlán \nNos caminhos jazem dardos quebrados;\nos cabelos estão espalhados.\nDestelhadas estão as casas,\nVermelhas estão as águas, os rios, como se alguém \nas tivesse tingido,\nNos escudos esteve nosso resguardo,\nmas os escudos não detêm a desolação...\nPINSKY, J. et al. História da América através de textos. \nSão Paulo: Contexto, 2007 (fragmento).   \nO texto é um registro asteca, cujo sentido está \nrelacionado ao(à)\nA\t tragédia causada pela destruição da cultura \ndesse povo.\nB\t tentativa frustrada de resistência a um poder \nconsiderado superior.\nC\t extermínio \ndas \npopulações \nindígenas \npelo \nExército espanhol.\nD\t dissolução da memória sobre os feitos de seus \nantepassados.\nE\t profetização das consequências da colonização \nda América",
+  "processado_em": "2026-05-08T14:00:08.158071",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87 \n  \nQuando adolescente, as nossas tardes, após \nas aulas, consistiam em tomar às mãos o violão e o \ndicionário de acordes de Almir Chediak e desafi ar nosso \namigo Hamilton a descobrir, apenas ouvindo o acorde, \nquais notas eram escolhidas. Sempre perdíamos a \naposta, ele possui o ouvido absoluto.\nO ouvido absoluto é uma característica perceptual de \npoucos indivíduos capazes de identifi car notas isoladas \nsem outras referências, isto é, sem precisar relacioná-las \ncom outras notas de uma melodia.\nLENT, R. O cérebro do meu professor de acordeão. Disponível em: http://cienciahoje.uol.com.br. \nAcesso em: 15 ago. 2012 (adaptado).\nNo contexto apresentado, a propriedade física das \nondas que permite essa distinção entre as notas é a\nA frequência.\nB intensidade.\nC forma da onda.\nD amplitude da onda.\nE velocidade de propagação.",
+  "processado_em": "2026-05-08T14:00:32.327341",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

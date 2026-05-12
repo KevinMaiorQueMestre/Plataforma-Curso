@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 53\t\nTEXTO I\nA partir do século IV, com os imperadores ditos cristãos, \no teatro e a dança foram condenados. O batismo era recusado aos \nque atuavam no circo ou na pantomima. E em 398, no Concílio de \nCartago, os que iam ao teatro nos dias santos foram excomungados.\nDINIZ, T.; SANTOS, G. História da dança. Disponível em: www.uel.br. \nAcesso em: 18 out. 2023.\nTEXTO II\nA dança no ato litúrgico cumpre tanto um papel de adoração \nquanto mercadológico. Não à toa há aceitação, expansão \ne investimento nessa prática percebida massivamente pela \nampla divulgação principalmente nas redes sociais. A expansão \ne ampliação por via de festivais, aulas, cursos, palestras etc. \nconsolida a criação de um mercado específico para esse público.\nSANTOS, Z. Dança gospel. Salvador: UFBA, 2021.\nA percepção sobre a dança e a cultura corporal apresenta \naspectos relacionados, respectivamente, a\nA\tsegregação social e intolerância eclesiástica.\nB\trituais eucarísticos e sacramentos da Igreja.\nC\ttranse individual e progresso intelectual.\nD\tpenitência pessoal e juramento coletivo.\nE\tdogmatismo religioso e adesão de fiéis.",
+  "processado_em": "2026-05-08T14:07:00.640723",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

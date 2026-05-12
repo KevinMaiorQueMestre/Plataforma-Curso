@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 142\n\u0019\u0010\b\u0002 \u0010\u0004'\b\u0002 \n\t\r\b\u001e\u000e\u0004\u0005\u0004\f\u0002 \t\n\f\u0002 \u001e\b\u0007\u0007\u0004\u0002 \u0005\b\u0002 \u000e\u0005\r\n\u0007\t\n'\u001d\u0004\u0002 \u000f\b\u0002\nRua 1 com a Avenida A. Ela está hospedada em um hotel \nna Rua 3, posicionado a exatos 40 metros de distância \n\u000f\b\u0002\u0012#\n\u0005\u000e\u000f\b\u0002\u0012$\u0002\u001e\u0004\u0005\r\b\u000f\u0004\t\u0002\b\u0002%\b\u0007\r\u000e\u0007\u0002\u000f\b\u0002\u0012#\n\u0005\u000e\u000f\b\u0002\u0012\u0002\n\u0010\u0002\u000f\u000e\u0007\n'\u001d\u0004\u0002\nà Avenida B. \nNo mapa está representado um plano cartesiano cujo \neixo das abscissas coincide com a Avenida A e o das \nordenadas, com a Rua 1, sendo a origem (0, 0) o local \nonde se encontra estacionado o veículo. Os quarteirões \nformados pelos cruzamentos dessas vias formam \nquadrados de lados medindo 100 m.\nAvenida C\nRua 1\nRua 2\nCarro\nx (m)\ny (m)\n0\n0\nRua 3\nAvenida A\nAvenida B\n\u0012\u0002 \u0004\u0007\u000f\n\u0005\b\u000f\b\u0002 \u000f\u0004\u0002 %\u0004\u0005\r\u0004\u0002 \u000b\f\n\u0002 \u0007\n%\u0007\n\t\n\u0005\r\b\u0002 \b\u0002 2\u0004\u001e\b2\u000eY\b'\u001d\u0004\u0002 \u000f\u0004\u0002\nhotel é\nA  \u0007 60.\nB  \u0007\b40.\nC  0.\nD  40.\nE 60",
+  "processado_em": "2026-05-08T14:04:15.618350",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

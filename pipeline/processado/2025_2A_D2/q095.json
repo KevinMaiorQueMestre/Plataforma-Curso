@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 95 \nRadionuclídeos são utilizados para a obtenção de imagens \nmédicas de diferentes órgãos do corpo humano. No processo \nde geração de imagem, o radionuclídeo sofre desintegração \ncom emissão de radiação. O tempo dessa desintegração deve \nser suficiente para que haja acúmulo do radionuclídeo no órgão \nque se pretende examinar, e para que corresponda a cerca de \numa vez e meia (1,5 ×) o tempo de duração do exame. Para se \nobterem imagens de um órgão num exame que tem duração \nde 4 horas, é necessário selecionar um radionuclídeo dentre \nos cinco apresentados no quadro.\nRadionuclídeo\nTempo de meia-vida\n13N\n10 min\n18F\n110 min\n64Cu\n13 h\n99Tc\n6,0 h\n124I\n4,2 d\nOLIVEIRA, R. et al. Preparações radiofarmacêuticas e suas aplicações. \nRev. Bras. Ciênc. Farm., n. 2, 2006 (adaptado).\nQual é o radionuclídeo adequado para a obtenção dessas imagens?\nA 13N\nB 18F\nC 64Cu\nD 99Tc\nE 124I",
+  "processado_em": "2026-05-08T14:06:33.571181",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

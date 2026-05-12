@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 145 \nUma fábrica de televisores de tela plana vende esse produto \na lojistas pelo valor unitário de R$ 1 200,00. Inicialmente, \na gerência de uma loja planeja efetuar um pedido de 40 unidades \nde televisores para a fábrica. Uma transportadora cobra \nR$ 12 000,00 para o transporte de até 120 televisores.\nA gerência da loja decide aumentar a quantidade de \ntelevisores no pedido, de forma a reduzir em 60% o custo do \nfrete por televisor em relação ao inicialmente planejado.\nO valor, em real, que a loja necessitará gastar a mais com a \nquantidade de televisores a serem adquiridos, em relação ao \ninicialmente planejado, é\nA 19 200,00.\nB 28 800,00.\nC 32 400,00.\nD 72 000,00.\nE 96 000,00.",
+  "processado_em": "2026-05-08T14:06:36.976970",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

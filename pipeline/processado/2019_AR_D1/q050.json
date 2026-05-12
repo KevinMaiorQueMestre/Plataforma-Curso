@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 50\t\nA hospitalidade pura consiste em acolher aquele que \nchega antes de lhe impor condições, antes de saber e \nindagar o que quer que seja, ainda que seja um nome ou \num “documento” de identidade. Mas ela também supõe \nque se dirija a ele, de maneira singular, chamando-o \nportanto e reconhecendo-lhe um nome próprio: \n“Como você se chama?” A hospitalidade consiste em \nfazer tudo para se dirigir ao outro, em lhe conceder, \naté mesmo perguntar seu nome, evitando que essa \npergunta se torne uma “condição”, um inquérito policial, \num fichamento ou um simples controle das fronteiras. \nUma arte e uma poética, mas também toda uma política \ndependem disso, toda uma ética se decide aí.\nDERRIDA, J. Papel-máquina. São Paulo: \nEstação Liberdade, 2004 (adaptado).\nAssociado ao contexto migratório contemporâneo, \no conceito de hospitalidade proposto pelo autor impõe a \nnecessidade de\nA\t anulação da diferença.\nB\t cristalização da biografia.\nC\t incorporação da alteridade.\nD\t supressão da comunicação.\nE\t verificação da proveniência.",
+  "processado_em": "2026-05-11T23:27:25.048293",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

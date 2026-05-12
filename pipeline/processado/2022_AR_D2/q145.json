@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nO governo de um estado pretende realizar uma \nobra de infraestrutura para auxiliar na integração e \nno processo de escoamento da produção agrícola \nde duas cidades. O projeto consiste na interligação \ndireta das cidades A e B com a Rodovia 003, pela \nconstrução das Rodovias 001 e 002. As duas rodovias \nserão construídas em linha reta e deverão se conectar \nà Rodovia 003 em um mesmo ponto, conforme \nesboço apresentado na figura, na qual estão também \nindicadas as posições das cidades A e B, considerando \no eixo x posicionado sobre a Rodovia 003, e cinco \nlocalizações sugeridas para o ponto de conexão entre \nas três rodovias.\n0\n5\n10 15 20 25 30 35 40 45 50 55\nx (km)\n10\n20\n30\n40\ny (km)\nCidade A\nCidade B\nRodovia 003\nRodovia 001\nRodovia 002\nI\nII\nIII IV\nV\nPretende-se que a distância percorrida entre as duas \ncidades, pelas Rodovias 001 e 002, passando pelo ponto \nde conexão, seja a menor possível.\nDadas as exigências do projeto, qual das localizações \nsugeridas deve ser a escolhida para o ponto de conexão?\nA\t\nA\t I\nB\t\nB\t II\nC\t\nC\t III\nD\t\nD\t IV\nE\t\nE\t V",
+  "processado_em": "2026-05-08T14:05:11.773374",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

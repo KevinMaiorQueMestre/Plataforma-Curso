@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 166        \nO artista gráfico holandês Maurits Cornelius Escher \ncriou belíssimas obras nas quais as imagens se repetiam, \ncom diferentes tamanhos, induzindo ao raciocínio de \nrepetição infinita das imagens. Inspirado por ele, um artista \nfez um rascunho de uma obra na qual propunha a ideia \nde construção de uma sequência de infinitos quadrados, \ncada vez menores, uns sob os outros, conforme indicado \nna figura.\nP\n1\n1/2\n1/4\nT\nR\nS\nO quadrado PRST, com lado de medida 1, é o ponto \nde partida. O segundo quadrado é construído sob ele \ntomando-se o ponto médio da base do quadrado anterior \ne criando-se um novo quadrado, cujo lado corresponde \nà metade dessa base. Essa sequência de construção se \nrepete recursivamente.\nQual é a medida do lado do centésimo quadrado \nconstruído de acordo com esse padrão?\nA  1\n2\n100\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a\nB  1\n2\n99\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a\nC  1\n2\n97\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a  \nD  1\n2\n98\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a\n\u0019\nE  1\n2\n99\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a\n\u0019",
+  "processado_em": "2026-05-11T23:28:19.818169",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\t\nO fisiologista inglês Archibald Vivian Hill propôs, \nem seus estudos, que a velocidade v de contração de \num músculo ao ser submetido a um peso p é dada pela \nequação (p + a) (v + b) = K, com a, b e K constantes.\nUm fisioterapeuta, com o intuito de maximizar o efeito \nbenéfico dos exercícios que recomendaria a um de seus \npacientes, quis estudar essa equação e a classificou \ndesta forma:\nTipo de curva\nSemirreta oblíqua\nSemirreta horizontal\nRamo de parábola\nArco de circunferência\nRamo de hipérbole\nO fisioterapeuta analisou a dependência entre v e p \nna equação de Hill e a classificou de acordo com sua \nrepresentação geométrica no plano cartesiano, utilizando \no par de coordenadas (p ; v). Admita que K > 0.\nDisponível em: http://rspb.royalsocietypublishing.org. Acesso em: 14 jul. 2015 (adaptado).\nO gráfico da equação que o fisioterapeuta utilizou para \nmaximizar o efeito dos exercícios é do tipo\nA\t semirreta oblíqua.\nB\t semirreta horizontal.\nC\t ramo de parábola.\nD\t arco de circunferência.\nE\t ramo de hipérbole.",
+  "processado_em": "2026-05-11T23:25:56.235523",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

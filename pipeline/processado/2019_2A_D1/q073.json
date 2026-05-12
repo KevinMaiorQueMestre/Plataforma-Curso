@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 73\t\nUma parte da nossa formação científica confunde-se \ncom a atividade de uma polícia de fronteiras, revistando \nos pensamentos de contrabando que viajam na mala \nde outras sabedorias. Apenas passam os pensamentos \nde carimbada cientificidade. A biologia, por exemplo, \né um modo maravilhoso de emigrarmos de nós, de \ntransitarmos para lógicas de outros seres, de nos \ndescentrarmos. Aprendemos que não somos o centro \nda vida nem o topo da evolução.\nCOUTO, M. Interinvenções. Portugal: Caminho, 2009 (adaptado).\nNo trecho, expressa-se uma visão poética da \nepistemologia científica, caracterizada pela\nA\t implementação de uma viragem linguística com \nbase no formalismo.\nB\t fundamentação de uma abordagem híbrida com \nbase no relativismo.\nC\t interpretação da natureza eclética das coisas com \nbase no antiacademicismo.\nD\t definição de uma metodologia transversal com base \nem um panorama cético.\nE\t compreensão da realidade com base em uma \nperspectiva não antropocêntrica.",
+  "processado_em": "2026-05-11T23:27:02.293038",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

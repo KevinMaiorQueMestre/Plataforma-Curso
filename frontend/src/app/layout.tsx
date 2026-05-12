@@ -23,6 +23,7 @@ export const metadata: Metadata = {
 
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { Toaster } from "sonner";
+import { GlobalPresenceProvider } from "@/components/GlobalPresenceProvider";
 
 export default function RootLayout({
   children,
@@ -42,7 +43,9 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          {children}
+          <GlobalPresenceProvider>
+            {children}
+          </GlobalPresenceProvider>
           <Toaster richColors position="top-right" />
         </ThemeProvider>
       </body>

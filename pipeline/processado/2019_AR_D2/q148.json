@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 148\t\nUm professor aplica, durante os cinco dias úteis \nde uma semana, testes com quatro questões de \nmúltipla escolha a cinco alunos. Os resultados foram \nrepresentados na matriz.\nNessa matriz os elementos das linhas de 1 a 5 \nrepresentam as quantidades de questões acertadas \npelos alunos Ana, Bruno, Carlos, Denis e Érica, \nrespectivamente, \nenquanto \nque \nas \ncolunas \nde \n1 a 5 indicam os dias da semana, de segunda-feira \na sexta-feira, respectivamente, em que os testes \nforam aplicados.\nO teste que apresentou maior quantidade de acertos foi \no aplicado na\nA\t segunda-feira.\nB\t terça-feira.\nC\t quarta-feira.\nD\t quinta-feira.\nE\t sexta-feira.\n3\n3\n2\n3\n0\n2\n2\n2\n2\n2\n0\n4\n2\n4\n0\n1\n1\n3\n1\n4\n2\n2\n2\n0\n4",
+  "processado_em": "2026-05-11T23:27:36.037707",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

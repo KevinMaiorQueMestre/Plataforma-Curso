@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87\t\nA democracia responde a esta pergunta: quem deve \nexercer o poder público? A resposta é: o exercício do \npoder público corresponde à coletividade dos cidadãos. \nContudo, nessa pergunta não se fala sobre qual extensão \ndeva ter o poder público. Trata-se somente de determinar \no sujeito a quem o mando compete. A democracia propõe \nque mandemos todos; quer dizer, que todos intervenham \nnos fatos sociais.\nORTEGA Y GASSET, J. apud MAIA, E. C. Mario Vargas Llosa e o \nindivíduo para além da tribo. Disponível em: \n www.estadodaarte.estadao.com.br. \nAcesso em: 10 out. 2021 (adaptado).\nO que sustenta o exercício do poder, conforme a configuração \napresentada no texto escrito na década de 1920?\nA\tSoberania popular.\nB\tDivisão de classes.\nC\tAcúmulo de capital.\nD\tDefesa da propriedade.\nE\tCentralização administrativa.",
+  "processado_em": "2026-05-08T14:06:14.580496",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 66\t\nA criação do Sistema Único de Saúde (SUS) \ncomo uma política para todos constitui-se uma \ndas mais importantes conquistas da sociedade \nbrasileira no século XX. O SUS deve ser valorizado \ne defendido como um marco para a cidadania e o \navanço civilizatório. A democracia envolve um modelo \nde Estado no qual políticas protegem os cidadãos \ne reduzem as desigualdades. O SUS é uma diretriz \nque fortalece a cidadania e contribui para assegurar o \nexercício de direitos, o pluralismo político e o bem-estar \ncomo valores de uma sociedade fraterna, pluralista \ne sem preconceitos, conforme prevê a Constituição \nFederal de 1988.\nRIZZOTO, M. L. F. et al. Justiça social, democracia com direitos \nsociais e saúde: a luta do Cebes. Revista Saúde em Debate, \nn. 116, jan.-mar. 2018 (adaptado).\nSegundo o texto, duas características da concepção da \npolítica pública analisada são:\nA\t Paternalismo e filantropia.\nB\t Liberalismo e meritocracia.\nC\t Universalismo e igualitarismo.\nD\t Nacionalismo e individualismo.\nE\t Revolucionarismo e coparticipação.",
+  "processado_em": "2026-05-11T23:27:25.881493",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

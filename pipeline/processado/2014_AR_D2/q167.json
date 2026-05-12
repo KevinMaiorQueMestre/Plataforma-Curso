@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nA figura mostra uma criança brincando em um balanço \nno parque. A corda que prende o assento do balanço ao \ntopo do suporte mede 2 metros. A criança toma cuidado \npara não sofrer um acidente, então se balança de modo \nque a corda não chegue a alcançar a posição horizontal.  \n2 metros\nTopo do \nsuporte\nChão do parque\nNa figura, considere o plano cartesiano que contém \na trajetória do assento do balanço, no qual a origem está \nlocalizada no topo do suporte do balanço, o eixo X é \nparalelo ao chão do parque, e o eixo Y tem orientação \npositiva para cima.\nA curva determinada pela trajetória do assento do balanço \né parte do gráfico da função \nA f(x) = − √ 2 − x 2\nB f(x) = √ 2 − x 2\nC f(x) = x 2 − 2\nD f(x) = − √ 4 − x 2\nE f(x) = √ 4 − x 2",
+  "processado_em": "2026-05-08T14:00:40.071838",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

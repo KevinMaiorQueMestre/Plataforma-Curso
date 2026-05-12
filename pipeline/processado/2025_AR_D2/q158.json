@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 158\t\nPace é um termo usado por um corredor para denominar \nem segundo, que esse corredor leva para percorrer 1 km.\nO esquema apresenta o tempo, em segundo, que um corre\ntrechos de 1 km, em uma corrida de 5 km, e o tempo gasto pa\nO melhor pace que esse corredor alcançou em corridas de\nPara que consiga repetir nessa corrida seu melhor pace em corr\nmenor do que o que ele gastou para percorrer o 4º trecho?\nA\t1\nB\t2\nC\t8\nD\t9\nE\t15",
+  "processado_em": "2026-05-08T14:07:09.632447",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

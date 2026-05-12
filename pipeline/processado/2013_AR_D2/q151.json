@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\t\nPara aumentar as vendas no início do ano, uma loja \nde departamentos remarcou os preços de seus produtos \n20% abaixo do preço original. Quando chegam ao caixa, \nos clientes que possuem o cartão fidelidade da loja têm \ndireito a um desconto adicional de 10% sobre o valor total \nde suas compras.\nUm cliente deseja comprar um produto que custava \nR$ 50,00 antes da remarcação de preços. Ele não possui \no cartão fidelidade da loja.\nCaso esse cliente possuísse o cartão fidelidade da loja, a \neconomia adicional que obteria ao efetuar a compra, em \nreais, seria de\nA\t 15,00.\nB\t 14,00.\nC\t 10,00.\nD\t 5,00.\nE\t 4,00.",
+  "processado_em": "2026-05-08T14:00:23.465601",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

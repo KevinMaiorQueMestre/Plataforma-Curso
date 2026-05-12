@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nRochas ígneas\nAmazônia Legal\nROCHAS ÍGNEAS DA AMAZÔNIA LEGAL\n70°W\n60°W\n50°W\n70°W\n60°W\n50°W\n5°N\n0°\n5°S\n10°S\n15°S\n5°N\n0°\n5°S\n10°S\n15°S\nVenezuela\nVenezuela\nColômbia\nPeru\nBolívia\nChile\nGuiana\nSuriname\nGuiana Francesa\nGuiana Francesa\nOceano\nPacífico\nOceano\nAtlântico\nAmazonas\nPará\nAmapá\nTocantins\nTocantins\nPiauí\nBahia\nGoiás\nDF Minas Gerais\nMato Grosso do Sul\nRondônia\nRondônia\nMato Grosso\nAcre\n0\n80\n160\n320Km\nProjeção: Albers\nDatum: SIRGAS 2000\nRoraima\nRoraima\n   aranhão\nMaranhão\nGeoestatísticas de recursos naturais da Amazônia Legal. \nRio de Janeiro: IBGE, 2011 (adaptado).\nO mapa espacializa um recurso natural com alto potencial \npara ocorrência de:\nA\t\nA\t Abalos sísmicos periódicos.\nB\t\nB\t Jazidas de minerais metálicos.\nC\t\nC\t Reservas de combustíveis fósseis.\nD\t\nD\t Aquíferos sedimentares profundos.\nE\t\nE\t Estruturas geológicas metamórficas.",
+  "processado_em": "2026-05-08T14:05:05.390708",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 91\t\nUma casa tem um cabo elétrico mal dimensionado, \nde resistência igual a 10 Ω, que a conecta à rede elétrica \nde 120 V. Nessa casa, cinco lâmpadas, de resistência \nigual a 200 Ω, estão conectadas ao mesmo circuito que \numa televisão de resistência igual a 50 Ω, conforme \nilustrado no esquema. A televisão funciona apenas com \ntensão entre 90 V e 130 V.\n10 Ω\n200 Ω\n200 Ω\n200 Ω\n200 Ω\n200 Ω\n50 Ω\n120 V\nO número máximo de lâmpadas que podem ser ligadas \nsem que a televisão pare de funcionar é:\nA\t 1.\nB\t 2.\nC\t 3.\nD\t 4.\nE\t 5.",
+  "processado_em": "2026-05-11T23:27:32.247842",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

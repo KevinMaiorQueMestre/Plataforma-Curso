@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 153        \nUm hotel de 3 andares está sendo construído. Cada \nandar terá 100 quartos. Os quartos serão numerados de \n100 a 399 e cada um terá seu número afixado à porta. \nCada número será composto por peças individuais, cada \numa simbolizando um único algarismo.\nQual a quantidade mínima de peças, simbolizando o \nalgarismo 2, necessárias para identificar o número de \ntodos os quartos?\nA  160\nB  157\nC  130\nD  120\nE   60",
+  "processado_em": "2026-05-11T23:28:19.067431",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

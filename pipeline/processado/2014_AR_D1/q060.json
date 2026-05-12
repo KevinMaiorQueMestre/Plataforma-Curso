@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 60\t\nExistem bactérias que inibem o crescimento de um fu\nferro disponível no meio. As bactérias também fazem fixaçã\nsubstâncias que estimulam diretamente o crescimento do t\nPELZER, G. Q. et al. Mecanismos de controle\nQual dos processos biológicos mencionados indica uma re\nA\t Fixação de nitrogênio para o tomateiro.\nB\t Disponibilização de cálcio para o tomateiro.\nC\t Diminuição da quantidade de ferro disponível para o fu\nD\t Liberação de substâncias que inibem o crescimento do\nE\t Liberação de auxinas que estimulam o crescimento do",
+  "processado_em": "2026-05-08T14:00:30.716566",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

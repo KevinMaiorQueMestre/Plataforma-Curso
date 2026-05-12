@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 140\t\nNa cantina de uma escola, há cinco alimentos vendidos em \npacotes com diferentes quantidades de porções.\nAs informações nutricionais contidas nos rótulos desses \nprodutos estão indicadas nas imagens.\nUma estudante opta sempre pelo alimento com a menor \nquantidade total de sódio por pacote.\nQual desses produtos deve ser o escolhido pela estudante?\nA\tBatata chips.\nB\tPalitos salgados.\nC\tBiscoito multigrãos.\nD\tBiscoito de polvilho.\nE\tBiscoito de água e sal.",
+  "processado_em": "2026-05-08T14:07:08.484583",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

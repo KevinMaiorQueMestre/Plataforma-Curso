@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 117\t\nA ação de uma nova droga antitumoral sobre o \ncitoesqueleto foi investigada. O pesquisador comparou \no efeito da droga na velocidade de deslocamento celular \ne na integridade de filamentos do córtex celular e de \nflagelos, conforme apresentado na figura.\nO pesquisador concluiu que a droga age sobre os\nA\t microtúbulos apenas.\nB\t filamentos de actina apenas.\nC\t filamentos intermediários apenas.\nD\t filamentos de actina e microtúbulos.\nE filamentos de actina e filamentos intermediários.",
+  "processado_em": "2026-05-11T23:27:09.842612",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

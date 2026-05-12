@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nVisando atingir metas econômicas previamente \nestabelecidas, é comum no final do mês algumas \nlojas colocarem certos produtos em promoção. \nUma determinada loja de departamentos colocou \nem oferta os seguintes produtos: televisão, sofá e \nestante. Na compra da televisão mais o sofá, o cliente \npagaria R$ 3 800,00. Se ele levasse o sofá mais \na estante, pagaria R$ 3 400,00. A televisão mais a \nestante sairiam por R$ 4 200,00. Um cliente resolveu \nlevar duas televisões e um sofá que estavam na \npromoção, conseguindo ainda mais 5% de desconto \npelo pagamento à vista.\nO valor total, em real, pago pelo cliente foi de\nA\t 3 610,00.\nB\t 5 035,00.\nC\t 5 415,00.\nD\t 5 795,00.\nE\t 6 100,00.",
+  "processado_em": "2026-05-11T23:26:23.945441",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

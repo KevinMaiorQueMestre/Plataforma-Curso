@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 159\t\nApós o Fórum Nacional Contra a Pirataria (FNCP) \nincluir a linha de autopeças em campanha veiculada \ncontra a falsificação, as agências fiscalizadoras \ndivulgaram que os cinco principais produtos de \nautopeças falsificados são: rolamento, pastilha de freio, \ncaixa de direção, catalisador e amortecedor.\nDisponível em: www.oficinabrasil.com.br. \nAcesso em: 25 ago. 2014 (adaptado).\nApós uma grande apreensão, as peças falsas foram \ncadastradas utilizando-se a codificação:\n1: rolamento, 2: pastilha de freio, 3: caixa de direção, \n4: catalisador e 5: amortecedor.\nAo final obteve-se a sequência: 5, 4, 3, 2, 1, 2, 3, 4, \n5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, ... que apresenta \num padrão de formação que consiste na repetição de um \nbloco de números. Essa sequência descreve a ordem \nem que os produtos apreendidos foram cadastrados.\nO 2 015º item cadastrado foi um(a)\nA\t rolamento.\nB\t catalisador.\nC\t amortecedor.\nD\t pastilha de freio.\nE\t caixa de direção.",
+  "processado_em": "2026-05-11T23:27:37.075143",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

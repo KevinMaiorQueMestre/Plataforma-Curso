@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 147\t\nEm um jogo digital, há três personagens: um herói e dois \nvilões. A programação é feita de tal forma que o herói sempre \nserá atacado pelo vilão que estiver mais próximo dele. Uma das \nmaneiras de “confundir” os vilões é movimentar o herói por \ntrajetórias que o mantenha equidistante dos vilões, gerando \nindefinição entre eles e, com isso, não sendo atacado.\nPara a programação de uma das etapas desse jogo, \no programador considerou, no plano cartesiano, o quadrado \nSTUV como a região de movimentação dos personagens, onde \nV e T representam as posições fixas dos vilões, e S, a posição \ninicial do herói, como apresentado na figura.\nQual é a equação da trajetória em que o herói poderá se \nmovimentar sem ser atacado?\nA\ty = −3x + 20\nB\ty = −3x + 16\nC\ty = −3x − 20\nD\ty = 3x + 16\nE\ty = 3x − 16",
+  "processado_em": "2026-05-08T14:07:08.929975",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

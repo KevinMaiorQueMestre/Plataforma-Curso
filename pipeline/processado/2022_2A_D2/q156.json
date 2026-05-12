@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nSete países americanos, Argentina, Brasil, Canadá, \nChile, Estados Unidos, Paraguai e Uruguai; e sete países \neuropeus, Portugal, Espanha, França, Inglaterra, Itália, \nAlemanha e Suíça, decidem criar uma comissão com \nrepresentantes de oito desses países, objetivando criar \npolíticas de incentivo e regulação do turismo entre eles. \nNa hipótese de criação da comissão, serão escolhidos \naleatoriamente quatro representantes de países das \nAméricas e quatro representantes de países europeus, \nnão podendo estar na comissão dois representantes de \num mesmo país.\nQual é a probabilidade de o Brasil e a França pertencerem \na essa comissão?\nA\t\nA\t\n1\n182\nB\t\nB\t\n1\n49\nC\t\nC\t 1\n4\nD\t\nD\t\n1\n13\nE\t\nE\t 16\n49",
+  "processado_em": "2026-05-08T14:04:50.216337",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

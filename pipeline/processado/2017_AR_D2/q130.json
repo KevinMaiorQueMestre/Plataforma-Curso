@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nEm algumas residências, cercas eletrificadas são utilizadas com o objetivo de afastar possíveis invasores. Uma \ncerca eletrificada funciona com uma diferença de potencial elétrico de aproximadamente 10 000 V. Para que não seja \nletal, a corrente que pode ser transmitida através de uma pessoa não deve ser maior do que 0,01 A. Já a resistência \nelétrica corporal entre as mãos e os pés de uma pessoa é da ordem de 1 000 Ω.\nPara que a corrente não seja letal a uma pessoa que toca a cerca eletrificada, o gerador de tensão deve possuir uma \nresistência interna que, em relação à do corpo humano, é\nA\t praticamente nula.\nB\t aproximadamente igual.\nC\t milhares de vezes maior.\nD\t da ordem de 10 vezes maior.\nE\t da ordem de 10 vezes menor.",
+  "processado_em": "2026-05-11T23:25:51.296703",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

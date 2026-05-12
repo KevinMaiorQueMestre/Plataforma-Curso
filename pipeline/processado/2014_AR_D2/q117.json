@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 117\t\nO negócio\nGrande sorriso do canino de ouro, o velho Abílio \npropõe às donas que se abastecem de pão e banana:\n— Como é o negócio?\nDe cada três dá certo com uma. Ela sorri, não \nresponde ou é uma promessa a recusa:\n— Deus me livre, não! Hoje não...\nAbílio interpelou a velha:\n— Como é o negócio?\nEla concordou e, o que foi melhor, a filha também aceitou \no trato. Com a dona Julietinha foi assim. Ele se chegou:\n— Como é o negócio?",
+  "processado_em": "2026-05-08T14:00:36.252125",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

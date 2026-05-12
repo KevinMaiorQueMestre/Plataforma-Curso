@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\t\nTEXTO I\nA “Festa do Pau da Bandeira de Santo Antônio”, \nde Barbalha (CE), constitui-se de elementos históricos \nque congregam cultura e natureza. Trata-se de uma \nmanifestação de cultura popular, expressa em décadas \nde tradição, por meio da devoção ao santo padroeiro e \nao simbolismo da árvore, cujo caule é conduzido nos \nombros dos devotos e hasteado em frente à matriz do \nsanto, abrindo os festejos do padroeiro da cidade.",
+  "processado_em": "2026-05-08T14:04:41.452600",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

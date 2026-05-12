@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nO dono de um sítio pretende colocar uma haste \nde sustentação para melhor firmar dois postes de \ncomprimentos iguais a 6 m e 4 m. A figura representa \na situação real na qual os postes são descritos pelos \nsegmentos AC e BD e a haste é representada pelo \nsegmento EF, todos perpendiculares ao solo, que é \nindicado pelo segmento de reta AB. Os segmentos AD e \nBC representam cabos de aço que serão instalados.\nC\n4\nE\nA\nF\nD\n6\nB",
+  "processado_em": "2026-05-08T14:00:24.402238",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

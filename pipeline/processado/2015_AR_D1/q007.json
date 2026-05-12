@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 07\t\nO principal articulador do atual modelo econômico \nchinês argumenta que o mercado é só um instrumento \neconômico, que se emprega de forma indistinta tanto \nno capitalismo como no socialismo. Porém os próprios \nchineses já estão sentindo, na sua sociedade, o seu \nreal significado: o mercado não é algo neutro, ou \num instrumental técnico que possibilita à sociedade \nutilizá-lo para a construção e edificação do socialismo. \nEle é, ao contrário do que diz o articulador, um \ninstrumento do capitalismo e é inerente à sua estrutura \ncomo modo de produção. A sua utilização está levando a \numa polarização da sociedade chinesa.\nOLIVEIRA, A. A Revolução Chinesa. Caros Amigos, 31 jan. 2011 (adaptado).\nNo texto, as reformas econômicas ocorridas na China são \ncolocadas como antagônicas à construção de um país \nsocialista. Nesse  contexto, a característica fundamental \ndo socialismo, à qual o modelo econômico chinês atual se \ncontrapõe é a\nA\t desestatização da economia.\nB\t instauração de um partido único.\nC\t manutenção da livre concorrência.\nD\t formação de sindicatos trabalhistas.\nE\t extinção gradual das classes sociais.",
+  "processado_em": "2026-05-08T14:00:42.596779",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

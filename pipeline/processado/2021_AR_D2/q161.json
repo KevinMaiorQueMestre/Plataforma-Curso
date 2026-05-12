@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 161\n\u0019\u0010\b\u0002\u0010\u00042\b\u0002Z\u0002\t\u00042\r\b\u0002\u000f\b\u0002%\u0004\t\u000e'\u001d\u0004\u0002\u000f\u000e\t\r\n\u0005\u000f\u000e\u000f\b\u0002\u001e\u0004\u0005P\u0004\u0007\u0010\n\u0002\b\u0002\u0006J\f\u0007\nda massa m\u0002\n\u0010\u0002P\f\u0005'\u001d\u0004\u0002\u000f\u0004\u0002\r\n\u0010%\u0004\u0002t (em segundo) em um sis\nZ\u0002\u000f\n\t\u001e\u0007\u000e\r\u0004\u0002%\u0004\u0007\u0002\f\u0010\b\u0002\n@%\u0007\n\t\t\u001d\u0004\u0002\u000f\u0004\u0002\r\u000e%\u0004\u0002P(t) = \u0018\u0005A cos (\u0019t)  ou P(\nmáximo e \u0019 é a frequência, que se relaciona com o período T p\nConsidere a ausência de quaisquer forças dissipativas\n1\n2\n3\n0\n\u00041\n\u00042\n\u00043\nP\nPosição\nde equilíbrio\nm\nm\nMola distendida\n\u0012\u0002\n@%\u0007\n\t\t\u001d\u0004\u0002\b2JZ!\u0007\u000e\u001e\b\u0002\u000b\f\n\u0002\u0007\n%\u0007\n\t\n\u0005\r\b\u0002\b\t\u0002%\u0004\t\u000e'\u0011\n\t\u0002P(t) da\nA  \u00043 cos (2t)\nB  \u00043 sen (2t)\nC  3 cos (2t)\nD  \u00046 cos (2t)\nE 6 sen (2t)",
+  "processado_em": "2026-05-08T14:04:31.687776",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

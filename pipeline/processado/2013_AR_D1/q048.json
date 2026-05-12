@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 48\t\nEm um experimento foram utilizadas duas garrafas \nPET, uma pintada de branco e a outra de preto, acopladas \ncada uma a um termômetro. No ponto médio da distância \nentre as garrafas, foi mantida acesa, durante alguns \nminutos, uma lâmpada incandescente. Em seguida a \nlâmpada   foi desligada. Durante o experimento, foram \nmonitoradas as temperaturas das garrafas: a) enquanto \na lâmpada permaneceu acesa e b) após a lâmpada ser \ndesligada e atingirem equilíbrio térmico com o ambiente.\nTermômetro\nA taxa de variação da temperatura da garrafa preta, em \ncomparação à da branca, durante todo experimento, foi\nA\t igual no aquecimento e igual no resfriamento.\nB\t maior no aquecimento e igual no resfriamento.\nC\t menor no aquecimento e igual no resfriamento.\nD\t maior no aquecimento e menor no resfriamento.\nE\t maior no aquecimento e maior no resfriamento.",
+  "processado_em": "2026-05-08T14:00:12.489267",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

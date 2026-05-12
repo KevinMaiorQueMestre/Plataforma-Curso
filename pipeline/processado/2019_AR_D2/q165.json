@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 165\t\nO preparador físico de um time de basquete dispõe \nde um plantel de 20 jogadores, com média de altura \nigual a 1,80 m. No último treino antes da estreia em \num campeonato, um dos jogadores desfalcou o time \nem razão de uma séria contusão, forçando o técnico a \ncontratar outro jogador para recompor o grupo.\nSe o novo jogador é 0,20 m mais baixo que o anterior, \nqual é a média de altura, em metro, do novo grupo?\nA\t 1,60\nB\t 1,78\nC\t 1,79\nD\t 1,81\nE\t 1,82",
+  "processado_em": "2026-05-11T23:27:37.688545",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

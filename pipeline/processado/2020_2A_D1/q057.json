@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 57          \nNa primeira meditação, eu exponho as razões \npelas quais nós podemos duvidar de todas as coisas \ne, particularmente das coisas materiais, pelo menos \nenquanto não tivermos outros fundamentos nas \nciências além dos que tivemos até o presente. Na \nsegunda meditação, o espírito reconhece entretanto \nque é absolutamente impossível que ele mesmo, o \nespírito, não exista.\nDESCARTES, R. Meditações metafísicas. São Paulo: \nAbril Cultural, 1973 (adaptado).\nO instrumento intelectual empregado por Descartes \npara analisar os seus próprios pensamentos tem \ncomo objetivo\nA \tidentificar um ponto de partida para a consolidação \nde um conhecimento seguro.\nB \tobservar os eventos particulares para a formação \nde um entendimento universal.\nC \tanalisar \nas \nnecessidades \nhumanas \npara \na \nconstrução de um saber empírico.\nD \testabelecer uma base cognitiva para assegurar a \nvalorização da memória.\nE \tinvestigar totalidades estruturadas para dotá-las de \nsignificação.",
+  "processado_em": "2026-05-08T14:03:30.403714",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

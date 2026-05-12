@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\nO potencial brasileiro para transformar lixo em \nenergia permanece subutilizado — apenas pequena parte \ndos resíduos brasileiros é utilizada para gerar energia. \nContudo, bons exemplos são os aterros sanitários, \nque utilizam a principal fonte de energia ali produzida. \nAlguns aterros vendem créditos de carbono com base \nno Mecanismo de Desenvolvimento Limpo (MDL), do \nProtocolo de Kyoto.\nEssa fonte de energia subutilizada, citada no texto, é o\nA\t etanol, obtido a partir da decomposição da matéria \norgânica por bactérias.\nB\t gás \nnatural, \nformado \npela \nação \nde \nfungos \ndecompositores da matéria orgânica.\nC\t óleo de xisto, obtido pela decomposição da matéria \norgânica pelas bactérias anaeróbias.\nD\t gás metano, obtido pela atividade de bactérias \nanaeróbias na decomposição da matéria orgânica.\nE\t gás liquefeito de petróleo, obtido pela decomposição \nde vegetais presentes nos restos de comida",
+  "processado_em": "2026-05-08T14:00:30.201246",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

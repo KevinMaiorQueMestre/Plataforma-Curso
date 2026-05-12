@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 104\t\nAtualmente, uma série de dietas alimentares têm sido divulgadas com os mais diferentes propósitos: para \nemagrecer, para melhorar a produtividade no trabalho e até mesmo dietas que rejuvenescem o cérebro. No \nentanto, poucas têm embasamento científico, e o consenso dos nutricionistas é que deve ser priorizada uma dieta \nbalanceada, constituída de frutas e vegetais, uma fonte de carboidrato, uma de ácido graxo insaturado e uma de \nproteína. O quadro apresenta cinco dietas com supostas fontes de nutrientes.\nSupostas fontes de nutrientes de cinco dietas\nDieta\nCarboidrato\nÁcido graxo insaturado\nProteína\n1\nAzeite de oliva \nPeixes \nCarne de aves \n2\nCarne de aves \nMel \nNozes \n3\nNozes \nPeixes \nMel \n4\nMel \nAzeite de oliva \nCarne de aves \n5\nMel \nCarne de boi \nAzeite de oliva \nA dieta que relaciona adequadamente as fontes de carboidrato, ácido graxo insaturado e proteína é a\nA\t 1.\nB\t 2.\nC\t 3.\nD\t 4.\nE\t 5.",
+  "processado_em": "2026-05-11T23:27:08.538660",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 125                \nDAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015.\nPor qual motivo ocorre a eletrização ilustrada na tirinha?\nA \t Troca de átomos entre a calça e os pelos do gato.\nB \t Diminuição do número de prótons nos pelos do gato.\nC \t Criação de novas partículas eletrizadas nos pelos do gato.\nD \t Movimentação de elétrons entre a calça e os pelos do gato.\nE \t Repulsão entre partículas elétricas da calça e dos pelos do gato.",
+  "processado_em": "2026-05-11T23:28:14.988826",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

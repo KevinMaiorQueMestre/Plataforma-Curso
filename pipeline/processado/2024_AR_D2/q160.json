@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\t\nUma doceira vende e entrega, em seu bairro, porções \nde 100 g de docinhos de aniversário. Atualmente, a taxa \núnica de entrega é R$ 10,00, e o valor cobrado por uma \nporção é R$ 25,00. Por uma estratégia de vendas, a partir \nda próxima semana, a taxa única de entrega será R$ 15,00, \ne um novo valor será cobrado por uma porção, de maneira \nque o valor total a ser pago por um cliente na compra de \n5 porções permaneça o mesmo.\nA partir da próxima semana, qual será o novo valor \ncobrado, em real, por uma porção?\nA\t12,50\nB\t20,00\nC\t24,00\nD\t30,00\nE\t37,50",
+  "processado_em": "2026-05-08T14:06:20.686512",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nA soda cáustica pode ser usada no desentupimento \nde encanamentos domésticos e tem, em sua composição, \no hidróxido de sódio como principal componente, além de \nalgumas impurezas. A soda normalmente é comercializada \nna forma sólida, mas que apresenta aspecto “derretido” \nquando exposta ao ar por certo período.\nO fenômeno de “derretimento” decorre da\nA\t absorção da umidade presente no ar atmosférico.\nB\t fusão do hidróxido pela troca de calor com o ambiente.\nC\t reação das impurezas do produto com o oxigênio do ar.\nD\t adsorção de gases atmosféricos na superfície do \nsólido.\nE\t reação do hidróxido de sódio com o gás nitrogênio \npresente no ar.",
+  "processado_em": "2026-05-08T14:00:46.822886",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

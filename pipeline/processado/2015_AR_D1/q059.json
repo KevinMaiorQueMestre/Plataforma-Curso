@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 59\t\nUma forma de organização de um sistema biológico \né a presença de sinais diversos utilizados pelos \nindivíduos para se comunicarem. No caso das abelhas \nda espécie Apis mellifera, os sinais utilizados podem ser \nferomônios. Para saírem e voltarem de suas colmeias, \nusam um feromônio que indica a trilha percorrida por elas \n(Composto A). Quando pressentem o perigo, expelem um \nferomônio de alarme (Composto B), que serve de sinal \npara um combate coletivo. O que diferencia cada um \ndesses sinais utilizados pelas abelhas são as estruturas e \nfunções orgânicas dos feromônios.\nComposto A\nCH2OH\nComposto B\nCH3COO(CH2)CH\nCH3\nCH3\nQUADROS, A. L. Os feromônios e o ensino de química. \nQuímica Nova na Escola, n. 7, maio 1998 (adaptado).\nAs funções orgânicas que caracterizam os feromônios de \ntrilha e de alarme são, respectivamente,\nA\t álcool e éster.\nB\t aldeído e cetona.\nC\t éter e hidrocarboneto.\nD\t enol e ácido carboxílico.\nE\t ácido carboxílico e amida.",
+  "processado_em": "2026-05-08T14:00:47.576548",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

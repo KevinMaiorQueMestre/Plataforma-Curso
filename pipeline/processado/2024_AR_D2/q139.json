@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nUm hospital tem 7 médicos cardiologistas e 6 médicos \nneurologistas em seu quadro de funcionários. Para \nexecutar determinada atividade, a direção desse hospital \nformará uma equipe com 5 médicos, sendo, pelo menos, \n3 cardiologistas.\nA expressão numérica que representa o número máximo \nde maneiras distintas de formar essa equipe é\nA 7\n4\n6\n4\n!\n!\n!\n!\n×\nB \n7\n3\n4\n6\n2\n4\n!\n!\n!\n!\n!\n!\n×\n×\n×\nC \n7\n3\n4\n6\n2\n4\n5\n1\n4\n!\n!\n!\n!\n!\n!\n!\n!\n!\n\u001f\n\u001e\n\u001f\n\u001e\n\u001f\nD \n7\n3\n4\n6\n2\n4\n7\n4\n3\n6\n1\n5\n7\n5\n2\n6\n0\n6\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n\u001f\n\u001e\n\u001f\n\u001d\n\u001c\u001b\n\u001a\n\u0019\u0018 \u001f\n\u001f\n\u001e\n\u001f\n\u001d\n\u001c\u001b\n\u001a\n\u0019\u0018 \u001f\n\u001f\n\u001e\n\u001f !\n\u001d\n\u001c\u001b\n\u001a\n\u0019\u0018\nE\n7\n3\n4\n6\n2\n4\n7\n4\n3\n6\n1\n5\n7\n5\n2\n6\n0\n6\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n\u001f\n\u001f\n\u001f\n\u001e\n\u001d\u001c\n\u001b\n\u001a\u0019 \u0018\n\u001f\n\u001f\n\u001f\n\u001e\n\u001d\u001c\n\u001b\n\u001a\u0019 \u0018\n\u001f\n\u001f\n\u001f !\n\u001e\n\u001d\u001c\n\u001b\n\u001a\u0019",
+  "processado_em": "2026-05-08T14:06:19.532262",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

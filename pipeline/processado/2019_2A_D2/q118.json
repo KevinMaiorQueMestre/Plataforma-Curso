@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 118\t\nUma das formas de se obter energia elétrica é usar \numa lente convergente circular para concentrar os raios \nde sol em um único ponto, aquecendo um dispositivo \nlocalizado nesse ponto a uma temperatura elevada. Com \na transformação da energia luminosa em energia térmica, \npode ser criado vapor-d’água que moverá uma turbina e \ngerará energia elétrica. Para projetar um sistema de \ngeração de energia elétrica, a fim de alimentar um \nchuveiro elétrico de 2 000 W de potência, sabe-se que, \nneste local, a energia recebida do Sol é 1 000 W\nm2 . \nEsse sistema apresenta taxa de eficiência de \nconversão em energia elétrica de 50% da energia \nsolar incidente. Considere \u001f = 1,8.\nQual deve ser, em metro, o raio da lente para que esse \nsistema satisfaça aos requisitos do projeto?\nA\t 0,28\nB\t 0,32\nC\t 0,40\nD\t 0,80\nE\t 1,11",
+  "processado_em": "2026-05-11T23:27:09.885951",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

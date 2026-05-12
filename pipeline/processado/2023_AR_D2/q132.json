@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 132\t\nO ciclo do nitrogênio é composto por várias etapas, \nconforme a figura, sendo cada uma desempenhada por \num grupo específico de microrganismos.\nGás nitrogênio\nAmônia\nDetritos\nNitrito\nNitrato\n1\n2\n3\n4\n5\nSe o grupo dos microrganismos decompositores fosse \nexterminado, qual etapa não ocorreria?\nA\t\nA\t 1\nB\t\nB\t 2\nC\t\nC\t 3\nD\t\nD\t 4\nE\t\nE\t 5",
+  "processado_em": "2026-05-08T14:05:45.006458",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nUma empresa de alimentos oferece três valores \ndiferentes de remuneração a seus funcionários, de \nacordo com o grau de instrução necessário para cada \ncargo. No ano de 2013, a empresa teve uma receita \nde 10 milhões de reais por mês e um gasto mensal \ncom a folha salarial de R$ 400 000,00, distribuídos de \nacordo com o Gráfico 1. No ano seguinte, a empresa \nampliará o número de funcionários, mantendo o mesmo \nvalor salarial para cada categoria. Os demais custos da \nempresa permanecerão constantes de 2013 para 2014. \nO número de funcionários em 2013 e 2014, por grau de \ninstrução, está no Gráfico 2.\nDistribuição da folha salarial\nEnsino fundamental\nEnsino médio\nEnsino superior\nGráfico 1\n12,5%\n75%\n12,5%\n2013\n2014\nNúmero de funcionários por grau de instrução\nGráfico 2\nEnsino fundamental\nEnsino médio\nEnsino superior\n190\n180\n170\n160\n150\n140\n130\n120\n110\n100\n90\n80\n70\n60\n50\n40\n30\n20\n10\n0\nQual deve ser o aumento na receita da empresa para que \no lucro mensal em 2014 seja o mesmo de 2013?\nA\t R$ 114 285,00\nB\t R$ 130 000,00\nC\t R$ 160 000,00\nD\t R$ 210 000,00\nE R$ 213 333 00",
+  "processado_em": "2026-05-08T14:00:39.135377",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

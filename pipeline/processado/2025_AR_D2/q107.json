@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 107\t\nAs usinas termonucleares são aquelas que produzem energia\nreações nucleares. Normalmente, essas usinas funcionam por meio\npressurizador e bomba) e circuito secundário (gerador de vapor, tu\num sistema de água de refrigeração, formado por uma bomba lig\nDurante a operação da usina, se o sistema de água de refr\ntérmica, comprometendo a vida no ecossistema aquático.\nPara o ecossistema aquático, a ineficiência do sistema de água d\nA\tdiminuição do pH.\nB\tliberação de gases poluentes.\nC\tcontaminação por combustíveis.\nD\tliberação de elementos radioativos.\nE\tdiminuição da solubilidade do gás oxigênio.",
+  "processado_em": "2026-05-08T14:07:05.771052",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

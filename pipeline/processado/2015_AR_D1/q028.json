@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q028",
+  "imagem": "q028.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 28,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 28\t\nO que implica o sistema da pólis é uma \nextraordinária preeminência da palavra sobre todos \nos outros instrumentos do poder. A palavra constitui o \ndebate contraditório, a discussão, a argumentação e a \npolêmica. Torna-se a regra do jogo intelectual, assim \ncomo do jogo político.\nVERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand, 1992 (adaptado).\nNa configuração política da democracia grega, em \nespecial a ateniense, a ágora tinha por função\nA\t agregar os cidadãos em torno de reis que governavam \nem prol da cidade.\nB\t permitir aos homens livres o acesso às decisões do \nEstado expostas por seus magistrados.\nC\t constituir o lugar onde o corpo de cidadãos se reunia \npara deliberar sobre as questões da comunidade.\nD\t reunir os exércitos para decidir em assembleias \nfechadas os rumos a serem tomados em caso de \nguerra.\nE\t congregar a comunidade para eleger representantes \ncom direito a pronunciar-se em assembleias.",
+  "processado_em": "2026-05-08T14:00:44.538039",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

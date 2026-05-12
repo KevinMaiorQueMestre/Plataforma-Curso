@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 92\t\nA classificação biológica proposta por Whittaker \npermite distinguir cinco grandes linhas evolutivas \nutilizando, como critérios de classificação, a organização \ncelular e o modo de nutrição. Woese e seus colaboradores, \ncom base na comparação das sequências que codificam \no RNA ribossômico dos seres vivos, estabeleceram \nrelações de ancestralidade entre os grupos e concluíram \nque os procariontes do reino Monera não eram um grupo \ncoeso do ponto de vista evolutivo.\nWhittaker (1969)\nCinco reinos\nWoese (1990)\nTrês domínios\nMonera\nArchaea\nEubacteria\nProtista\nEukarya\nFungi\nPlantae\nAnimalia\nA diferença básica nas classificações citadas é que a \nmais recente se baseia fundamentalmente em\nA\t tipos de células.\nB\t aspectos ecológicos.\nC\t relações filogenéticas.\nD\t propriedades fisiológicas.\nE\t características morfológicas.",
+  "processado_em": "2026-05-11T23:25:48.393795",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

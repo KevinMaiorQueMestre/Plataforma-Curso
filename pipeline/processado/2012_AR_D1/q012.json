@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q012",
+  "imagem": "q012.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 12,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 12\t\nCartaz da Revolução Constitucionalista.\nDisponível em: http://veja.abril.com.br. Acesso em: 29 jun. 2012.\nElaborado \npelos \npartidários \nda \nRevolução \nConstitucionalista de 1932, o cartaz apresentado \npretendia mobilizar a população paulista contra o \ngoverno federal.\nEssa mobilização utilizou-se de uma referência histórica, \nassociando o processo revolucionário\nA\t à experiência francesa, expressa no chamado à luta \ncontra a ditadura.\nB\t aos ideais republicanos, indicados no destaque à \nbandeira paulista.\nC\t ao protagonismo das Forças Armadas, representadas \npelo militar que empunha a bandeira.\nD\t ao bandeirantismo, símbolo paulista apresentado em \nprimeiro plano.\nE\t ao papel figurativo de Vargas na política, enfatizado \npela pequenez de sua figura no cartaz.",
+  "processado_em": "2026-05-08T13:59:01.979487",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

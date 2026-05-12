@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nA insulina é utilizada no tratamento de pacientes \ncom diabetes para o controle glicêmico. Para facilitar sua \naplicação, foi desenvolvida uma “caneta” na qual pode ser \ninserido um refil contendo 3 mL de insulina, como mostra \na imagem.\nPara controle das aplicações, definiu-se a unidade \nde insulina como 0,01 mL. Antes de cada aplicação, é \nnecessário descartar 2 unidades de insulina, de forma a \nretirar possíveis bolhas de ar.\nA um paciente foram prescritas duas aplicações \ndiárias: 10 unidades de insulina pela manhã e 10 à noite. \nQual o número máximo de aplicações por refil que o \npaciente poderá utilizar com a dosagem prescrita?\nA\t 25\nB\t 15\nC\t 13\nD\t 12\nE 8",
+  "processado_em": "2026-05-08T14:00:57.082306",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

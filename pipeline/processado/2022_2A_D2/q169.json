@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nUm jovem, no trajeto que usa para ir para a escola, \nsempre passa por um grande relógio digital que há no \ncentro da sua cidade e compara a hora nele mostrada \ncom a hora que marca o seu relógio de pulso. Ao longo \nde 30 dias de observação, constata que o seu relógio \natrasa 2 minutos, a cada 15 dias, em relação ao do centro \nda cidade.\nApós 90 dias, sem nenhum dos dois relógios \nreceberem ajustes e mantida a mesma parcela de atraso \ndiário, ao ler as marcações de horário dos dois relógios, \nverificou que o do centro da cidade marcava exatamente \n7 horas.\nQual horário marcava seu relógio de pulso nesse \ninstante?\nA\t\nA\t 6 h e 48 min\nB\t\nB\t 6 h e 54 min\nC\t\nC\t 6 h e 58 min\nD\t\nD\t 7 h e 06 min\nE\t\nE\t 7 h e 12 min",
+  "processado_em": "2026-05-08T14:04:50.774556",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

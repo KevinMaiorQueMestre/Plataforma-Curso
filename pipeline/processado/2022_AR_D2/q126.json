@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nUm pai faz um balanço utilizando dois segmentos \nparalelos e iguais da mesma corda para fixar uma tábua a \numa barra horizontal. Por segurança, opta por um tipo de \ncorda cuja tensão de ruptura seja 25% superior à tensão \nmáxima calculada nas seguintes condições:\n•\t O ângulo máximo atingido pelo balanço em relação \nà vertical é igual a 90°;\n•\t Os filhos utilizarão o balanço até que tenham uma \nmassa de 24 kg.\nAlém disso, ele aproxima o movimento do balanço \npara o movimento circular uniforme, considera que a \naceleração da gravidade é igual a 10\n2\nm\ns\n e despreza \nforças dissipativas.\nQual é a tensão de ruptura da corda escolhida?\nA\t\nA\t 120 N\nB\t\nB\t 300 N\nC\t\nC\t 360 N\nD\t\nD\t 450 N\nE\t\nE\t 900 N",
+  "processado_em": "2026-05-08T14:05:10.718239",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

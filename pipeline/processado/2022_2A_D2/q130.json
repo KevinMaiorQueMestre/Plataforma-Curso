@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nNo circuito elétrico, estão associadas quatro \nlâmpadas elétricas idênticas A, B, C e D. Considere a \nfonte de tensão (V) ideal.\nA\nB\nC\nD\nV\n+\n−\nComparando-se o brilho das lâmpadas, se a lâmpada A \nqueimar, de modo que não possa conduzir corrente elétrica, \nobserva-se que\nA\t\nA\t as lâmpadas B e D apagam-se, e C permanece acesa \ncom o mesmo brilho.\nB\t\nB\t a lâmpada B apaga-se, a C permanece acesa com \nmesmo brilho e D permanece apagada.\nC\t\nC\t a lâmpada B apaga-se, a C permanece acesa com \nmaior brilho e D permanece acesa com o mesmo \nbrilho.\nD\t\nD\t a lâmpada B apaga-se, a C permanece acesa com \no mesmo brilho e D permanece acesa com maior \nbrilho.\nE\t\nE\t as lâmpadas C e D permanecem acesas com o \nmesmo brilho e B permanece acesa com maior \nbrilho.",
+  "processado_em": "2026-05-08T14:04:48.333271",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

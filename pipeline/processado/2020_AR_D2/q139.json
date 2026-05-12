@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A miniatura desse troféu deverá ser instalada \nno interior de uma caixa de vidro, em formato de \nparalelepípedo reto-retângulo, cujas dimensões internas \nde sua base estão indicadas na Figura 2, de modo que \na base do troféu seja colada na base da caixa e distante \ndas paredes laterais da caixa de vidro em pelo menos 1 cm. \nDeve ainda haver uma distância de exatos 2 cm entre o \ntopo da esfera e a tampa dessa caixa de vidro. Nessas \ncondições deseja-se fazer a maior miniatura possível.\nA medida da altura, em centímetro, dessa caixa de vidro \ndeverá ser igual a\nA  12.\nB  14.\nC  16.\nD  18.\nE  20.\nQuestão 139        \nUma casa de dois andares está sendo projetada. \nÉ necessário incluir no projeto a construção de uma \nescada para o acesso ao segundo andar. Para o cálculo \ndas dimensões dos degraus utilizam-se as regras:\n|2h + b − 63,5| ≤ 1,5 e 16 ≤ h ≤ 19,\nnas quais h é a altura do degrau (denominada espelho) \ne b é a profundidade da pisada, como mostra a fi gura. \nPor conveniência, escolheu-se a altura do degrau como \nsendo h = 16. As unidades de h e b estão em centímetro.",
+  "processado_em": "2026-05-11T23:28:16.228205",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

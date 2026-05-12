@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 69\t\n“Em uma região onde a taxa média de crianças com \ndesnutrição aguda normalmente fica perto do limite de alerta \nde 10%, qualquer fator que reduza ainda mais o acesso aos \nalimentos pode gerar uma crise de grandes proporções”, \ninformou o comunicado da ONG Médicos Sem Fronteiras.\nDisponível em: www.bbc.com. Acesso em: 14 jul. 2015 (adaptado).\nPara além dos fatores socioeconômicos, qual é a causa do \nproblema da fome na região demarcada?\nA\tA erosão do solo.\nB\tA poluição hídrica.\nC\tAs ondas de calor.\nD\tAs pragas de gafanhotos.\nE\tAs estiagens prolongadas.",
+  "processado_em": "2026-05-08T14:06:46.929093",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nA prefeitura de uma cidade planeja construir três postos \nde saúde. Esses postos devem ser construídos em locais \nequidistantes entre si e de forma que as distâncias desses \ntrês postos ao hospital dessa cidade sejam iguais. Foram \nconseguidos três locais para a construção dos postos de \nsaúde que apresentam as características desejadas, e \nque distam 10 km entre si, conforme o esquema, no qual o \nponto H representa o local onde está construído o hospital; \nos pontos P1, P2 e P3, os postos de saúde; e esses quatro \npontos estão em um mesmo plano.\nA distância, em quilômetro, entre o hospital e cada um dos \npostos de saúde, é um valor entre\nA\t2 e 3.\nB\t4 e 5.\nC\t5 e 6.\nD\t7 e 8.\nE\t8 e 9.",
+  "processado_em": "2026-05-08T14:06:19.868993",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 96\t\nOs pesticidas naturais vêm sendo utilizados no controle \nde pragas e doenças agrícolas como substituintes de \npesticidas sintéticos tradicionais, por serem menos nocivos \nao ambiente, biodegradáveis e minimizarem custos e riscos \nrelativos à lavoura. Por exemplo, os compostos 1 e 2 estão \nenvolvidos nas respostas de defesa das plantas. Os grupos \nfuncionais presentes nesses compostos são importantes \npara suas propriedades no controle de pragas.\nPINTO-ZEVALLOS, D. M.; ZARBIN, P. H. G. A química na agricultura: \nperspectivas para o desenvolvimento de tecnologias sustentáveis. \nQuímica Nova, n. 10, 2013 (adaptado).\nQual é a função orgânica correspondente ao grupo funcional \ncomum presente nesses dois compostos?\nA\tÁcido carboxílico.\nB\tCetona.\nC\tAlceno.\nD\tÁlcool.\nE\tFenol.",
+  "processado_em": "2026-05-08T14:06:16.682972",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

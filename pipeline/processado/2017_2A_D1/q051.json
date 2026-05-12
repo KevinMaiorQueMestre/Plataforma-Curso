@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\n,%*(\u0011\u0003&HQVR\u0003GHPRJUi¿FR\u0003\u0015\u0013\u0014\u0013\u0011\u00035LR\u0003GH\u0003-DQHLUR\u001d\u0003,%*(\u000f\u0003\u0015\u0013\u0014\u0015\u0003\u000bDGDSWDGR\f\u0011\n$\u0003HYROXomR\u0003QD\u0003HVWUXWXUD\u0003HWiULD\u0003DSUHVHQWDGD\u0003LQÀXHQFLRX\u0003R\u0003(VWDGR\u0003D\u0003IRUPXODU\u0003Do}HV\u0003SDUD\nA garantir a igualdade de gênero.\nB priorizar a construção de escolas.\nC reestruturar o sistema previdenciário.\nD investir no controle da natalidade.\nE ¿VFDOL]DU\u0003D\u0003HQWUDGD\u0003GH\u0003LPLJUDQWHV\u0011\nComposição da população residente total, por sexo e grupos de idade \nBrasil - 1991/2010\n85\n80\n75\n70\n65\n60\n55\n50\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0\n8,0\n7,0\nHOMENS\nMULHERES\n6,0\n5,0\n4,0\n3,0\n2,0\n1,0\n0,0\n1,0\n2,0\n3,0\n4,0\n5,0\n6,0\n7,0\n8,0\n1991\n2000\n2010\n(idade)\n(%)",
+  "processado_em": "2026-05-11T23:25:21.046930",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

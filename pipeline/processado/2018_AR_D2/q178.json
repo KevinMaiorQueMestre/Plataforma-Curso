@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\n3DUD\u0003 FULDU\u0003 XP\u0003 ORJRWLSR\u000f\u0003 XP\u0003 SUR¿VVLRQDO\u0003 GD\u0003 iUHD\u0003 GH\u0003\ndesign\u0003JUi¿FR\u0003GHVHMD\u0003FRQVWUXt\u0010OR\u0003XWLOL]DQGR\u0003R\u0003FRQMXQWR\u0003GH\u0003\npontos do plano na forma de um triângulo, exatamente \ncomo mostra a imagem.\n\u001015\n\u001010\n\u00105\n\u00105\n5\n10\n15\n0\n\u001010\n\u001015\n5\n15\n10\nx\ny\nPara construir tal imagem utilizando uma ferramenta \nJUi¿FD\u000f\u0003 VHUi\u0003 QHFHVViULR\u0003 HVFUHYHU\u0003 DOJHEULFDPHQWH\u0003 R\u0003\nFRQMXQWR\u0003TXH\u0003UHSUHVHQWD\u0003RV\u0003SRQWRV\u0003GHVVH\u0003JUi¿FR\u0011\nEsse conjunto é dado pelos pares ordenados (x ; y) \u0003`\u0001u\u0003`,\ntais que\nA 0 d x d y d 10\nB 0 d y d x d 10\nC 0 d x d 10, 0 d\u0003y\u0003d\u0003\u0014\u0013\nD 0 d x \u000e y d 10\nE 0 d x \u000e y d\u0003\u0015\u0013",
+  "processado_em": "2026-05-11T23:26:50.209952",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

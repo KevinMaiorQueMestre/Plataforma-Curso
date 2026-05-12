@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nUma casa de shows terá um evento cujo custo total \nde produção é de R$ 34 350,00, sendo que comporta \n500 pessoas. O preço do ingresso será de R$ 130,00 e, \nnormalmente, 60% das pessoas adquirem meia-entrada, \npagando R$ 65,00 pelo ingresso. Além do faturamento \nproveniente da venda de ingressos, a casa de shows \nvende, com 60% de lucro, bebidas e petiscos ao público \nno dia do evento.\nApós ter vendido todos os 500 ingressos, constatou-se \nque a quantidade de meias-entradas vendidas superou \nem 50% o que estava previsto, impactando o faturamento \nestimado com a venda de ingressos.\nNo dia do evento, decidiu-se manter o percentual \nde 60% de lucro sobre as bebidas e petiscos, pois todo \no público que comprou ingresso compareceu ao \nshow. Com isso, espera-se ter lucro de R$ 17 000,00 \nnesse evento.\nPara que se alcance o lucro esperado, o gasto médio por \npessoa com bebidas e petiscos, em real, deverá ser de\nA\t19,50.\nB\t28,80.\nC\t34,00.\nD\t52,00.\nE\t68,70.",
+  "processado_em": "2026-05-08T14:06:21.352463",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

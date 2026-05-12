@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nDesde que tenhamos compreendido o significado \nda palavra “Deus”, sabemos, de imediato, que Deus \nexiste. Com efeito, essa palavra designa uma coisa de \ntal ordem que não podemos conceber nada que lhe seja \nmaior. Ora, o que existe na realidade e no pensamento é \nmaior do que o que existe apenas no pensamento. Donde \nse segue que o objeto designado pela palavra “Deus”",
+  "processado_em": "2026-05-11T23:26:38.292867",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

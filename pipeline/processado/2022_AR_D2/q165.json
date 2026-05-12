@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nNa figura estão destacadas duas trajetórias sobre a \nsuperfície do globo terrestre, descritas ao se percorrer \nparte dos meridianos 1, 2 e da Linha do Equador, sendo \nque os meridianos 1 e 2 estão contidos em planos \nperpendiculares entre si. O plano α é paralelo ao que \ncontém a Linha do Equador.\nMeridiano 2\nMeridiano 1\nLinha do Equador\nα\nN\nS\nA vista superior da projeção ortogonal sobre o plano α \ndessas duas trajetórias é\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:05:12.738552",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

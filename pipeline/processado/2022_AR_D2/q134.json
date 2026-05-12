@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 134\t\nEm uma aula prática de bioquímica, para medir a ativ\nensaios independentes, nas mesmas condições, variando-\nde hidrogênio (H2O2), produzindo água e oxigênio. Os resu\nEnsaio\nTemperatura (°C)\n1\n10\n2\n15\n3\n20\n4\n25\n5\n30\n6\n35\nOs diferentes resultados dos ensaios justificam-se pelo(a)\nA\t\nA\t variação do pH do meio.\nB\t\nB\t aumento da energia de ativação.\nC\t\nC\t consumo da enzima durante o ensaio.\nD\t\nD\t diminuição da concentração do substrato.\nE\t\nE\t modificação da estrutura tridimensional da enzima.",
+  "processado_em": "2026-05-08T14:05:11.311252",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

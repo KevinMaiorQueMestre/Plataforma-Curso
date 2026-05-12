@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 49\t\nEm 1845, na França, os fabricantes expõem claramente seu \nponto de vista: “A perfeição do trabalho que se obtém com a \nnova máquina será um estímulo a se fazer melhor, e o operário \nfinalmente entenderá que, quando as máquinas substituem em \ntodos os sentidos o trabalho do homem, produzem melhor e mais \nbarato do que ele, a razão ordena-lhe obedecer às prescrições \ndo senhor, a fim de que faça o melhor possível, e ordena-lhe \ntambém renunciar a salários exagerados”.\nPERROT, M. Os excluídos da História. Rio de Janeiro: \nPaz e Terra, 1988 (adaptado).\nDe acordo com o texto, a perspectiva de crescimento da produção \nfabril residia no(a)\nA\tdemanda do mercado nacional.\nB\televação do custo de produção.\nC\tdisciplina do empregado na fábrica.\nD\taumento de encargos trabalhistas.\nE\tmelhoria da condição do operariado.",
+  "processado_em": "2026-05-08T14:06:46.123206",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 125\n\u0012\t\u0002%2\b\u0005\r\b\t\u0002\u0007\n\b2\u000eY\b\u0010\u0002P\u0004\r\u0004\t\tG\u0005\r\n\t\n\u0002%\n2\b\u0002\u001e\b%\r\f\u0007\b\u0002\u000f\u0004\u0002J?\t\n\t\u00042\b\u0007$\u0002%\u0007\u0004\u000f\fY\n\u0010\u0002\u0004\t\u0002\u001e\b\u0007!\u0004\u000e\u000f\u0007\b\r\u0004\t(\u0002\u0016\u0004\u0002\n\t\u000b\f\n\u0010\b\u0002\n\t\r?\u0002\b%\u0007\n\t\n\u0007\n%\u0007\n\t\n\u0005\r\b\u0010\u0002\u0004\t\u0002\u001e\u0004\n\u0006\u001e\u000e\n\u0005\r\n\t\u0002\n\t\r\n\u000b\f\u000e\u0004\u0010{\r\u0007\u000e\u001e\u0004\t\u0002\u000f\b\u0002\u0007\n\b'\u001d\u0004(\n\u0002\n\u0002\n\u0001\n\u0002\n\u0002\u0001\n\u0002\n\u0001\nx CO2\ny H2O\nLuz\n+\n\u0004\n\u0018\f\b\u000e\t\u0002\t\u001d\u0004\u0002\u0004\t\u0002#\b2\u0004\u0007\n\t\u0002\u000f\u0004\t\u0002\u001e\u0004\n\u0006\u001e\u000e\n\u0005\r\n\t\u0002x e y\u0002\u000f\b\u0002\n\u000b\f\b'\u001d\u0004\u0002!\b\nA  x \u0005 7n; y \u0005 20n\nB  x \u0005 10n; y \u0005 8n\nC  x \u0005 10n; y \u0005 14n\nD  x \u0005 12n; y \u0005 10n\nE  x \u0005 14n; y \u0005 6n",
+  "processado_em": "2026-05-08T14:04:14.848518",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

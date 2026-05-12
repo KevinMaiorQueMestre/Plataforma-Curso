@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nEm 20 de fevereiro de 2011 ocorreu a grande erupção \ndo vulcão Bulusan nas Filipinas. A sua localização \ngeográfica no globo terrestre é dada pelo GPS (sigla \nem inglês para Sistema de Posicionamento Global) com \nlongitude de 124° 3’ 0” a leste do Meridiano de Greenwich.\nDado: 1° equivale a 60’ e 1’ equivale a 60”.\nPAVARIN, G. Galileu, fev. 2012 (adaptado).\nA representação angular da localização do vulcão com \nrelação a sua longitude na forma decimal é\nA\t 124,02°.\nB\t 124,05°.\nC\t 124,20°.\nD\t 124,30°.\nE 124 50°",
+  "processado_em": "2026-05-08T13:59:16.097841",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

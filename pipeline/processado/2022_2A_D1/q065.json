@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 65\t\nDiversas regiões do atual estado de Minas Gerais, \nonde não foram encontrados metais preciosos em \nquantidade significativa, acabaram sendo ocupadas de \nforma mais lenta ao longo dos séculos XVIII e XIX. Esse \né o caso da Zona da Mata, que correspondia à porção \nsudeste da capitania, coberta por uma densa vegetação \nde Mata Atlântica então existente.\nSOARES, J. M. Cartografia e ocupação do território: a Zona da Mata mineira no século \nXVIII e início do século XIX. Disponível em: https://periodicos.ufmg.br. \nAcesso em: 6 out. 2021 (adaptado).",
+  "processado_em": "2026-05-08T14:04:41.687739",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

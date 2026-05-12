@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 76\t\nAlguns sistemas de segurança incluem detectores de \nmovimento. Nesses sensores, existe uma substância que \nse polariza na presença de radiação eletromagnética de \ncerta região de frequência, gerando uma tensão que pode \nser amplificada e empregada para efeito de controle. \nQuando uma pessoa se aproxima do sistema, a radiação \nemitida por seu corpo é detectada por esse tipo de sensor.\nWENDLING, M. Sensores. Disponível em: www2.feg.unesp.br.\nAcesso em: 7 maio 2014 (adaptado).\nA radiação captada por esse detector encontra-se na \nregião de frequência\nA\t da luz visível.\nB\t do ultravioleta.\t\nC\t do infravermelho.\t\nD\t das micro-ondas.\t\nE\t das ondas longas de rádio.",
+  "processado_em": "2026-05-08T14:00:31.606475",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

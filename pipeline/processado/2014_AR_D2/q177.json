@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nOs incas desenvolveram uma maneira de registrar \nquantidades e representar números utilizando um sistema \nde numeração decimal posicional: um conjunto de cordas \ncom nós denominado quipus. O quipus era feito de uma \ncorda matriz, ou principal (mais grossa que as demais), \nna qual eram penduradas outras cordas, mais finas, de \ndiferentes tamanhos e cores (cordas pendentes). De acordo \ncom a sua posição, os nós significavam unidades, dezenas, \ncentenas e milhares. Na Figura 1, o quipus representa o \nnúmero decimal 2 453. Para representar o “zero” em qualquer \nposição, não se coloca nenhum nó.\nCorda principal\nCorda \npendente\nMilhares\nCentenas\nDezenas\nUnidades\nQuipus\nFigura 1\nFigura 2\nDisponível em: www.culturaperuana.com.br. Acesso em: 13 dez. 2012.\nO número da representação do quipus da Figura 2, em \nbase decimal, é\nA\t 364.\nB\t 463.\nC\t 3 064.\nD\t 3 640.\nE\t 4 603.",
+  "processado_em": "2026-05-08T14:00:40.453256",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

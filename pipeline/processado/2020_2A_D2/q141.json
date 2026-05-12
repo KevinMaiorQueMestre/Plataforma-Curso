@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 141          \nUma dona de casa vai ao supermercado para comprar\nunidades de 0,6 litro. Lá chegando, verificou não existirem\nDecidiu, então, comprar os refrigerantes em unidades avu\na mesma quantidade de líquido desejada inicialmente, ga\nrespectivos preços existentes no supermercado são dados\nEmbalagem (L)\n3\nCusto (R$)\n4,39\nQual é a opção de embalagem, em litro, que proporcionará\nA\t 1,0\nB \t 1,5\nC\t 2,0\nD\t 2,5\nE\t 3,0",
+  "processado_em": "2026-05-08T14:03:38.131427",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

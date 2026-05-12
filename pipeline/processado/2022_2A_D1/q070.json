@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nEnquanto as tecnologias avançadas são desenvolvidas \nnos centros de poder, as reservas naturais estão localizadas \nnos países periféricos, ou em áreas não regulamentadas \njuridicamente. Esta é, pois, a base da disputa.\nHá três grandes eldorados naturais no mundo \ncontemporâneo: a Antártida, que é um espaço dividido entre \nas grandes potências; os fundos marinhos, riquíssimos em \nminerais e vegetais, que são espaços não regulamentados \njuridicamente; e a Amazônia, região que está sob a \nsoberania de estados nacionais, entre eles o Brasil.\nBECKER, B. K. Geopolítica da Amazônia. Estudos Avançados, n. 53, 2005.",
+  "processado_em": "2026-05-08T14:04:42.128503",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

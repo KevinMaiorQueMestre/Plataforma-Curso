@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 31\t\nTendo encarado a besta do passado olho no olho, \ntendo pedido e recebido perdão e tendo feito correções, \nviremos agora a página — não para esquecê-lo, \nmas para não deixá-lo aprisionar-nos para sempre. \nAvancemos em direção a um futuro glorioso de uma \nnova sociedade sul-africana, em que as pessoas valham \nnão em razão de irrelevâncias biológicas ou de outros \nestranhos atributos, mas porque são pessoas de valor \ninfinito criadas à imagem de Deus. \nDesmond Tutu, no encerramento da Comissão da Verdade na África do Sul. Disponível em: \nhttp://td.camara.leg.br. Acesso em: 17 dez. 2012 (adaptado).\nNo texto, relaciona-se a consolidação da democracia na \nÁfrica do Sul à superação de um legado\nA\t populista, \nque \nfavorecia \na \ncooptação \nde \ndissidentes políticos.\nB\t totalitarista, que bloqueava o diálogo com os \nmovimentos sociais.\nC\t segregacionista, que impedia a universalização \nda cidadania.\nD\t estagnacionista, que disseminava a pauperização \nsocial.\nE\t fundamentalista, que engendrava conflitos religiosos.",
+  "processado_em": "2026-05-08T14:00:10.743711",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

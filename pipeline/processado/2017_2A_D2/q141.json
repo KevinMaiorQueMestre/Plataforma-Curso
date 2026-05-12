@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\nOs \ncomputadores \noperam \ncom \ndados \nem \nIRUPDWR\u0003 ELQiULR\u0003 \u000bFRP\u0003 GRLV\u0003 YDORUHV\u0003 SRVVtYHLV\u0003 DSHQDV\u0003\npara cada dígito), utilizando potências de 2 para \nrepresentar quantidades. Assim, tem-se, por exemplo: \n\u0014\u0003N%\u0003 \u0003\u001510 Bytes, 1 MB = 210\u0003N%\u0003H\u0003\u0014\u0003*%\u0003 \u0003\u001510 MB, sendo \nque 210\u0003 \u0003\u0014\u0003\u0013\u0015\u0017\u0011\u00031HVVH\u0003FDVR\u000f\u0003WHP\u0010VH\u0003TXH\u0003N%\u0003VLJQLILFD\u0003\nquilobyte, MB significa megabyte\ne GB significa \ngigabyte. Entretanto, a maioria dos fabricantes \nde discos rígidos, pendrives ou similares adotam \npreferencialmente o significado usual desses prefixos, \nem base 10. Assim, nos produtos desses fabricantes, \n1GB = 103 MB = 106\u0003N%\u0003 \u0003\u0014\u00139 Bytes. Como a maioria \ndos programas de computadores utilizam as unidades \nbaseadas em potências de 2, um disco informado \npelo fabricante como sendo de 80 GB aparecerá aos \nusuários como possuindo, aproximadamente, 75 GB.\nUm disco rígido está sendo vendido como \npossuindo 500 gigabytes, considerando unidades em \npotências de 10. \nQual dos valores está mais próximo do valor informado \npor um programa que utilize medidas baseadas em \nSRWrQFLDV\u0003GH\u0003\u0015\"\nA 468 GB\nB 476 GB\nC 488 GB\nD 500 GB\nE 533 GB",
+  "processado_em": "2026-05-11T23:25:30.001133",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

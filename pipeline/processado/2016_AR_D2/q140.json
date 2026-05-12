@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\t\nUma cisterna de 6 000 L foi esvaziada em um período \nde 3 h. Na primeira hora foi utilizada apenas uma bomba, \nmas nas duas horas seguintes, a fim de reduzir o tempo \nde esvaziamento, outra bomba foi ligada junto com a \nprimeira. O gráfico, formado por dois segmentos de reta, \nmostra o volume de água presente na cisterna, em função \ndo tempo.\nA\nB\nC\n3\n6 000\n5 000\n1\n0\nTempo (h)\nVolume (L)\nQual é a vazão, em litro por hora, da bomba que foi ligada \nno início da segunda hora?\nA\t 1 000\nB\t 1 250\nC\t 1 500\nD\t 2 000\nE\t 2 500",
+  "processado_em": "2026-05-08T14:01:18.664305",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 22\t\nTEXTO I\nA Ilha do Ferro, situada a 18 km do município de Pão de \nAçúcar, não é uma ilha, como o nome indica. A história do \npovoado é semelhante à de inúmeros outros que encontramos \nàs margens do Rio São Francisco, entre Alagoas e Sergipe. O que \ntorna diferente o lugar é sua gente. Hoje, dezenas de artistas \npopulares povoam a Ilha do Ferro, trabalhando principalmente \ncom o entalhe em madeira. Onde pessoas comuns enxergariam \napenas troncos e galhos retorcidos, eles vislumbram bancos, \nbonecos, pássaros, cobras e bailarinas. “Às vezes, você passa \npor um pedaço de madeira uma vez e não vê nada, passa cinco \nvezes por ele e não vê nada”, conta um dos artistas, “mas, na \ndécima vez, você consegue enxergar alguma forma nesse pedaço \nde madeira e transformá-lo em arte”.\nDisponível em: www.imaterial.art.br. Acesso em: 5 fev. 2025 (adaptado).\nTEXTO II\nFARIAS, Y. Bailarino entalhado em gravetos de madeira. Artesanato \nem madeira, 20 × 13 × 51 cm. Ilha do Ferro (AL).\nDisponível em: www.nidelins.com.br. Acesso em: 5 fev. 2025.\nA originalidade do trabalho dos artistas da Ilha do Ferro se dá pela\nA\treutilização de materiais para redução do impacto ambiental.\nB\tressignificação da matéria-prima atribuindo-lhe nova função.\nC\treprodução em madeira de modelos artísticos canônicos.\nD\trepresentação de práticas corporais da comunidade.\nE\treplicação seriada para distribuição em larga escala.",
+  "processado_em": "2026-05-08T14:06:58.408120",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

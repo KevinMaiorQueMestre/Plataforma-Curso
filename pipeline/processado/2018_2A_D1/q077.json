@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nA elaboração da Lei n. 11.340/06 (Lei Maria da Penha) \npartiu, em grande medida, de uma perspectiva crítica aos \nresultados obtidos pela criação dos Juizados Especiais \nCriminais direcionada à banalização do conflito de \ngênero, observada na prática corriqueira da aplicação de \nmedidas alternativas correspondentes ao pagamento de \ncestas básicas pelos acusados.\nVASCONCELOS, F. B. Disponível em: www.cartacapital.com.br. \nAcesso em: 11 dez. 2012 (adaptado).\nNo contexto descrito, a lei citada pode alterar a situação \nda mulher ao proporcionar sua\nA\t atuação como provedora do lar.\nB\t inserção no mercado de trabalho.\nC\t presença em instituições policiais.\nD\t proteção contra ações de violência.\nE\t participação enquanto gestora pública.",
+  "processado_em": "2026-05-11T23:26:16.746763",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

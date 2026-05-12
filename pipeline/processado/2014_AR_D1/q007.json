@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 07\t\nMas plantar pra dividir\nNão faço mais isso, não.\nEu sou um pobre caboclo,\nGanho a vida na enxada.\nO que eu colho é dividido\nCom quem não planta nada.\nSe assim continuar\nvou deixar o meu sertão,\nmesmo os olhos cheios d’água\ne com dor no coração.\nVou pro Rio carregar massas\npros pedreiros em construção.\nDeus até está ajudando:\nestá chovendo no sertão!\nMas plantar pra dividir,\nNão faço mais isso, não.\nVALE, J.; AQUINO, J. B. Sina de caboclo. São Paulo: Polygram, 1994 (fragmento).\nNo trecho da canção, composta na década de 1960, \nretrata-se a insatisfação do trabalhador rural com\nA\t a distribuição desigual da produção.\nB\t os financiamentos feitos ao produtor rural.\nC\t a ausência de escolas técnicas no campo.\nD\t os empecilhos advindos das secas prolongadas.\nE\t a precariedade de insumos no trabalho do campo.",
+  "processado_em": "2026-05-08T14:00:27.312319",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

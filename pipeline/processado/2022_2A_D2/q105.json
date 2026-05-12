@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\t\nOs airbags de segurança dos automóveis são \nacionados com o impacto, que envia um sinal elétrico \npara o dispositivo e inicia a reação explosiva do trinitreto \nde sódio (NaN3), produzindo sódio metálico e nitrogênio \nmolecular, conforme a equação:\n2 NaN3 (s) → 2 Na (s) + 3 N2 (g)\nO gás produzido tem função de inflar o airbag. Esse tipo \nde dispositivo contém, aproximadamente, 100 g de NaN3.\nConsidere: PV = nRT; P = 1 atm; T = 25 °C; \nR = 0,0821 L atm\nK mol\n⋅\n⋅\n; 0 °C = 273 K \nMassas molares: NaN3 = 65 g\nmol\n; N2 = 28 g\nmol\n; Na = 23 g\nmol\nNesse dispositivo, o volume de gás produzido, em litro, é\nA\t\nA\t 4,7.\nB\t\nB\t 9,4.\nC\t\nC\t 18,8.\nD\t\nD\t 56,5.\nE\t\nE\t 113,0.",
+  "processado_em": "2026-05-08T14:04:47.078937",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

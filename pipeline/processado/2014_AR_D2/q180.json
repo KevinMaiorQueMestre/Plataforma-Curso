@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nOs vidros para veículos produzidos por certo fabricante \ntêm transparências entre 70% e 90%, dependendo do lote \nfabricado. Isso significa que, quando um feixe luminoso \nincide no vidro, uma parte entre 70% e 90% da luz \nconsegue atravessá-lo. Os veículos equipados com vidros \ndesse fabricante terão instaladas, nos vidros das portas, \npelículas protetoras cuja transparência, dependendo do \nlote fabricado, estará entre 50% e 70%. Considere que \numa porcentagem P da intensidade da luz, proveniente \nde uma fonte externa, atravessa o vidro e a película.\nDe acordo com as informações, o intervalo das \nporcentagens que representam a variação total possível \nde P é\nA\t [35 ; 63].\nB\t [40 ; 63].\nC\t [50 ; 70].\nD\t [50 ; 90].\nE\t [70 ; 90].",
+  "processado_em": "2026-05-08T14:00:40.567875",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

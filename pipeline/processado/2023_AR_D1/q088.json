@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nConcorrer e competir não são a mesma coisa. \nA concorrência pode até ser saudável sempre que a batalha \nentre agentes, para melhor empreender uma tarefa e obter \nmelhores resultados finais, exige o respeito a certas regras de \nconvivência preestabelecidas ou não. Já a competitividade \nse funda na invenção de novas armas de luta, num exercício \nem que a única regra é a conquista da melhor posição. \nA competitividade é uma espécie de guerra em que tudo \nvale e, desse modo, sua prática provoca um afrouxamento \ndos valores morais e um convite ao exercício da violência.\nSANTOS, M. Por uma outra globalização: do pensamento único \nà consciência universal. Rio de Janeiro: Record, 2006.\nDe acordo com a diferenciação feita pelo autor, que prática \neconômica é considerada moralmente condenável?\nA\t\nA\t Adoção do dumping comercial.\nB\t\nB\t Fusão da função administrativa.\nC\t\nC\t Criação de holding empresarial.\nD\t\nD\t Limitação do mercado monopolista.\nE\t\nE\t Modernização da produção industrial.",
+  "processado_em": "2026-05-08T14:05:39.838613",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

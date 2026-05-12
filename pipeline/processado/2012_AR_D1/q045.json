@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q045",
+  "imagem": "q045.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 45,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 45\t\nDisponível em: http://nutriteengv.blogspot.com.br.  Acesso em: 28 dez. 2011.\nNa charge faz-se referência a uma modificação produtiva \nocorrida na agricultura. Uma contradição presente no \nespaço rural brasileiro derivada dessa modificação \nprodutiva está presente em:\nA\t Expansão das terras agricultáveis, com manutenção \nde desigualdades sociais.\nB\t Modernização técnica do território, com redução do \nnível de emprego formal.\nC\t Valorização de atividades de subsistência, com \nredução da produtividade da terra.\nD\t Desenvolvimento de núcleos policultores, com \nampliação da concentração fundiária.\nE\t Melhora da qualidade dos produtos, com retração na \nexportação de produtos primários.",
+  "processado_em": "2026-05-08T13:59:02.018112",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

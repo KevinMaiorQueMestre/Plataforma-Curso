@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nO dono de dois cachorrinhos, um shitzu e um poodle, \nfez uma pesquisa na internet sobre preços de banho para \nseus cães em cinco lojas próximas à sua casa. Ele pretendia \nlevar os dois cachorrinhos a um mesmo petshop naquela \nsemana para tomar banho.\nPetshop\nShitzu\nPoodle\nPromoção da \nsemana\nI\nR$ 29,00 R$ 18,00\nBanho para cães da raça \npoodle: R$ 15,00\nII\nR$ 23,00 R$ 20,00\n10% de desconto no valor \ndo banho para cães da \nraça poodle\nIII\nR$ 25,00 R$ 20,00\nTraga dois cachorrinhos \npara tomar banho e ganhe \nR$ 5,00 de desconto no \nvalor total\nIV\nR$ 22,00 R$ 28,00\nTraga dois cachorrinhos \npara tomar banho e ganhe \n10% de desconto no \nvalor total\nV\nR$ 30,00 R$ 24,00\n20% de desconto no valor \ndo banho para cães da \nraça shitzu\nO local escolhido foi o que apresentou o menor preço \npara banho dos dois cachorrinhos.\nO petshop escolhido foi o\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+  "processado_em": "2026-05-08T14:06:05.916942",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

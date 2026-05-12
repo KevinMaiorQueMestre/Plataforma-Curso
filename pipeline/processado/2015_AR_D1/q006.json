@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q006",
+  "imagem": "q006.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 6,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 06\t\nA língua de que usam, por toda a costa, carece \nde três letras; convém a saber, não se acha nela F, \nnem L, nem R, coisa digna de espanto, porque assim \nnão têm Fé, nem Lei, nem Rei, e dessa maneira vivem \ndesordenadamente, sem terem além disto conta, nem \npeso, nem medida.\nGÂNDAVO, P. M. A primeira história do Brasil: história da província de Santa Cruz a que \nvulgarmente chamamos Brasil. Rio de Janeiro: Zahar, 2004 (adaptado).\nA observação do cronista português Pero de Magalhães \nde Gândavo, em 1576, sobre a ausência das letras F, L e \nR na língua mencionada, demonstra a\nA\t simplicidade da organização social das tribos \nbrasileiras.\nB\t dominação portuguesa imposta aos índios no início \nda colonização.\nC\t superioridade da sociedade europeia em relação à \nsociedade indígena.\nD\t incompreensão dos valores socioculturais indígenas \npelos portugueses.\nE\t dificuldade experimentada pelos portugueses no \naprendizado da língua nativa.",
+  "processado_em": "2026-05-08T14:00:42.565383",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

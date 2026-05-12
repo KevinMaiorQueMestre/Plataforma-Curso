@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 96\t\nO biodiesel é um biocombustível obtido a partir de \nfontes renováveis, que surgiu como alternativa ao uso do \ndiesel de petróleo para motores de combustão interna. \nEle pode ser obtido pela reação entre triglicerídeos, \npresentes em óleos vegetais e gorduras animais, entre \noutros, e álcoois de baixa massa molar, como o metanol \nou etanol, na presença de um catalisador, de acordo com \na equação química:\n3 CH3OH\nCH\nCH\nCH\nCH\nOH\nOH\nOH\nCH\nCH\nCH\nCH\nCH\n2\n2\n2\n3\n3\n2\n3\n+\n+\ncatalisador\nR1\nR1\nR2\nR2\nR3\nR3\nA função química presente no produto que representa o \nbiodiesel é\nA\t éter.\nB\t éster.\nC\t álcool.\nD\t cetona.\nE\t ácido carboxílico.",
+  "processado_em": "2026-05-11T23:25:48.651301",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

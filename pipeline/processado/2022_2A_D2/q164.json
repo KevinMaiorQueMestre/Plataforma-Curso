@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nUm engenheiro fará um projeto de uma casa cujo \nterreno tem o formato de um retângulo de 36 m de \ncomprimento por 9 m de largura. Para isso, ele fará um \ndesenho de um retângulo de 24 cm de comprimento por \n6 cm de largura.\nQual deve ser a escala utilizada pelo engenheiro?\nA\t\nA\t 150 : 1\nB\t\nB\t 225 : 1\nC\t\nC\t 600 : 1\nD\t\nD\t 2,25 : 1\nE\t\nE\t 1,5 : 1",
+  "processado_em": "2026-05-08T14:04:50.556461",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

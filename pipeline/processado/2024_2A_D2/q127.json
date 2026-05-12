@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 127\t\nQuando utilizadas na iluminação pública noturna, as lâm\ncujo brilho difuso dificulta a observação das estrelas, qu\nPor isso, esse tipo de iluminação pública pode ser cons\nque afeta a dinâmica de várias espécies.\nA cidade de Flagstaff, nos Estados Unidos, foi uma das p\npública seja feita com lâmpadas de LED brancas, a cidad\nestudos de uma equipe de cientistas australianos, com a \ndas frequências indesejadas, mantendo a intensidade tota\n•\t o espectro de emissão correspondente a uma lâmpa\n•\t o espectro de emissão correspondente a uma lâmpa\nDIMOVSKI, A. M.; R\nMitigate Phy\nNesse estudo, o material utilizado na cobertura\nA\treflete a luz azul.\nB\tdifrata a luz azul.\nC\tabsorve a luz azul e emite luz amarelo-alaranjada.\nD\tabsorve a luz azul e emite luz ultravioleta.\nE\tpolariza a luz azul transmitida.",
+  "processado_em": "2026-05-08T14:06:03.053242",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

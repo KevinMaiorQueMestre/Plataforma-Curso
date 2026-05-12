@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 133\t\nUm dos parâmetros de controle de qualidade de \npolpas de frutas destinadas ao consumo como bebida é \na acidez total expressa em ácido cítrico, que corresponde \nà massa dessa substância em 100 gramas de polpa \nde fruta. O ácido cítrico é uma molécula orgânica que \napresenta três hidrogênios ionizáveis (ácido triprótico) \ne massa molar 192 g mol−1. O quadro indica o valor \nmínimo desse parâmetro de qualidade para polpas \ncomerciais de algumas frutas.\nPolpa de fruta\nValor mínimo da acidez total \nexpressa em ácido cítrico \n(g/100 g)\nAcerola \n0,8 \nCaju \n0,3 \nCupuaçu \n1,5 \nGraviola \n0,6 \nMaracujá \n2,5 \nA acidez total expressa em ácido cítrico de uma \namostra comercial de polpa de fruta foi determinada. \nNo procedimento, adicionou-se água destilada a 2,2 g da \namostra e, após a solubilização do ácido cítrico, o sólido \nremanescente foi filtrado. A solução obtida foi titulada \ncom solução de hidróxido de sódio 0,01 mol L−1, em que \nse consumiram 24 mL da solução básica (titulante).\nBRASIL. Ministério da Agricultura e do Abastecimento. Instrução \nnormativa n. 1, de 7 de janeiro de 2000. Disponível em: \n www.agricultura.gov.br. Acesso em: 9 maio 2019 (adaptado).\nEntre as listadas, a amostra analisada pode ser de qual \npolpa de fruta?\nA\t Apenas caju.\nB\t Apenas maracujá.\nC\t Caju ou graviola.\nD\t Acerola ou cupuaçu.\nE\t Cupuaçu ou graviola.",
+  "processado_em": "2026-05-11T23:27:35.185812",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

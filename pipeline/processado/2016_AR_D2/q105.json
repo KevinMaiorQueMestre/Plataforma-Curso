@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LC - 2º dia | Caderno 5 - AMARELO - Página 8\nQUESTÃO 105\t\nQual é a segurança do sangue?\nPara que o sangue esteja disponível para aqueles \nque necessitam, os indivíduos saudáveis devem criar o \nhábito de doar sangue e encorajar amigos e familiares \nsaudáveis a praticarem o mesmo ato.\nA prática de selecionar criteriosamente os doadores, \nbem como as rígidas normas aplicadas para testar, \ntransportar, estocar e transfundir o sangue doado \nfizeram dele um produto muito mais seguro do que já foi \nanteriormente.\nApenas pessoas saudáveis e que não sejam de risco \npara adquirir doenças infecciosas transmissíveis pelo \nsangue, como hepatites B e C, HIV, sífilis e Chagas, \npodem doar sangue.\nSe você acha que sua saúde ou comportamento pode \ncolocar em risco a vida de quem for receber seu sangue, \nou tem a real intenção de apenas realizar o teste para o \nvírus HIV, NÃO DOE SANGUE.",
+  "processado_em": "2026-05-08T14:01:15.712547",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

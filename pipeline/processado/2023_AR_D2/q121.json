@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 121\t\nPara que uma molécula dê origem a um medicame\nfarmacológica, deve ser capaz de atingir o local de ação. Pa\n(onde o meio é fortemente ácido e há várias enzimas que rea\nas membranas celulares e ser solúvel no plasma sanguíne\nformadas por cadeias carbônicas longas contendo pelo meno\né sua conversão no cloridrato correspondente. Essa convers\nR3N + HCl \nO aumento da eficiência de circulação do fármaco no sang\nde seu(sua)\nA\t\nA\t basicidade.\nB\t\nB\t lipofilicidade.\nC\t\nC\t caráter iônico.\nD\t\nD\t cadeia carbônica.\nE\t\nE\t estado de oxidação.",
+  "processado_em": "2026-05-08T14:05:44.478398",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

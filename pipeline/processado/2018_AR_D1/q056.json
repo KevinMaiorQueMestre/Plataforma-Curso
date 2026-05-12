@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nAnamorfose é a transformação cartográfica espacial \nem que a forma dos objetos é distorcida, de forma a \nrealçar o tema. A área das unidades espaciais às quais \no tema se refere é alterada de forma proporcional ao \nrespectivo valor.\nGASPAR, A. J. Dicionário de ciências cartográficas. Lisboa: Lidel, 2004.\nA técnica descrita foi aplicada na seguinte forma de \nrepresentação do espaço:\nA\nB\n456\n416\n432\n440\n420\n400\n456\n440\n432\n416\n420\n400\n20m\n20m\nC\nCanadá\nEstados Unidos\nCuba\nMéxico\nRepública \nDominicana\nGuatemala\nVenezuela\nColômbia\nEquador\nPeru\nChile\nArgentina\nBrasil\nD\nE",
+  "processado_em": "2026-05-11T23:26:38.922924",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

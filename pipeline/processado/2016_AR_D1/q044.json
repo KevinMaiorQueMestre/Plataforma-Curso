@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44 \nParticipei de uma entrevista com o músico Rena\ndiferenças entre a música sertaneja antiga e a atual. A\nalguma. A música caipira sempre foi a mesma. É uma\nmúsica não mente. O que mudou não foi a música, ma\nde raiz exalava uma solidão, um certo distanciamento d\nhoje, num interior conectado, globalizado e rico como o\nmúsica reflete seu próprio tempo.\nBARCIN\nA questão cultural indicada no texto ressalta o seguinte as\nA Crescimento do sistema de produção extensiva.\nB Expansão de atividades das novas ruralidades.\nC Persistência de relações de trabalho compulsório.\nD Contenção da política de subsídios agrícolas.\nE Fortalecimento do modelo de organização cooperativa.",
+  "processado_em": "2026-05-08T14:01:07.446483",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

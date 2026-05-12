@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nA imagem apresentada na figura é uma cópia em preto \ne branco da tela quadrada intitulada O peixe, de Marcos \nPinto, que foi colocada em uma parede para exposição e \nfixada nos pontos A e B.\nPor um problema na fixação de um dos pontos, a tela \nse desprendeu, girando rente à parede. Após o giro, ela \nficou posicionada como ilustrado na figura, formando um \nângulo de 45° com a linha do horizonte.\nA\nB\nA\nB\n45º\nPara recolocar a tela na sua posição original, deve-se \ngirá-la, rente à parede, no menor ângulo possível inferior \na 360°. \nA forma de recolocar a tela na posição original, obedecendo \nao que foi estabelecido, é girando-a em um ângulo de\nA\t 90° no sentido horário.\nB\t 135° no sentido horário.\nC\t 180° no sentido anti-horário.\nD\t 270° no sentido anti-horário.\nE\t 315° no sentido horário.",
+  "processado_em": "2026-05-11T23:25:53.260515",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

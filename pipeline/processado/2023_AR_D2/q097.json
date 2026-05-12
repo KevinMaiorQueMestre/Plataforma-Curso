@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 97\t\nDe acordo com a Constituição Federal, é competência \ndos municípios o gerenciamento dos serviços de limpeza e \ncoleta dos resíduos urbanos (lixo). No entanto, há relatos \nde que parte desse lixo acaba sendo incinerado, liberando \nsubstâncias tóxicas para o ambiente e causando acidentes \npor explosões, principalmente quando ocorre a incineração \nde frascos de aerossóis (por exemplo: desodorantes, \ninseticidas e repelentes). A temperatura elevada provoca \na vaporização de todo o conteúdo dentro desse tipo de \nfrasco, aumentando a pressão em seu interior até culminar \nna explosão da embalagem.\nZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: \nwww.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).\nSuponha um frasco metálico de um aerossol de \ncapacidade igual a 100 mL, contendo 0,1 mol de produtos \ngasosos à temperatura de 650 °C, no momento da explosão.\nConsidere: R = 0,082 L atm\nmol K\n⋅\n⋅\nA pressão, em atm, dentro do frasco, no momento da \nexplosão, é mais próxima de\nA\t\nA\t 756.\nB\t\nB\t 533.\nC\t\nC\t 76.\nD\t\nD\t 53.\nE\t\nE\t 13.",
+  "processado_em": "2026-05-08T14:05:42.928863",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

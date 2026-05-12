@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 11\t\nNos estados, entretanto, se instalavam as oligarquias, \nde cujo perigo já nos advertia Saint-Hilaire, e sob o \ndisfarce do que se chamou “a política dos governadores”. \nEm círculos concêntricos esse sistema vem cumular no \npróprio poder central que é o sol do nosso sistema.\nPRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.\nA crítica presente no texto remete ao acordo que \nfundamentou o regime republicano brasileiro durante as \ntrês primeiras décadas do século XX e fortaleceu o(a)\nA\t poder militar, enquanto fiador da ordem econômica. \nB\t presidencialismo, com o objetivo de limitar o poder \ndos coronéis.\nC\t domínio de grupos regionais sobre a ordem federativa.\nD\t intervenção nos estados, autorizada pelas normas \nconstitucionais. \nE\t isonomia do governo federal no tratamento das \ndisputas locais.",
+  "processado_em": "2026-05-08T14:00:09.129881",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

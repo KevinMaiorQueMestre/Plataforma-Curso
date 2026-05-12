@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q045",
+  "imagem": "q045.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 45,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 45\t\nA questão ambiental, uma das principais pautas \ncontemporâneas, \npossibilitou \no \nsurgimento \nde \nconcepções políticas diversas, dentre as quais se destaca \na preservação ambiental, que sugere uma ideia de \nintocabilidade da natureza e impede o seu aproveitamento \neconômico sob qualquer justificativa.\nPORTO-GONÇALVES, C. W. A globalização da natureza e a natureza da \nglobalização. Rio de Janeiro: Civilização Brasileira, 2006 (adaptado).\nConsiderando as atuais concepções políticas sobre a \nquestão ambiental, a dinâmica caracterizada no texto \nquanto à proteção do meio ambiente está baseada na\nA\t prática econômica sustentável.\nB\t contenção de impactos ambientais.\nC\t utilização progressiva dos recursos naturais.\nD\t proibição permanente da exploração da natureza.\nE\t definição de áreas prioritárias para a exploração \neconômica.",
+  "processado_em": "2026-05-08T14:00:46.037025",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

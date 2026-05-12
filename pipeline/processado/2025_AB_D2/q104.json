@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 104\t\nExiste grande expectativa quanto ao emprego de \ncélulas-tronco na terapia contra muitas doenças, uma vez que \nessas células podem se diferenciar em diversos tipos celulares. \nUm pesquisador, interessado em estudar as fibras musculares \nestriadas cardíacas (cardiomiócitos) obtidas de células-tronco, \niniciou seu trabalho analisando a ação de cinco fatores de \ndiferenciação celular e obteve células com as características \napresentadas no quadro.\nFator de \ndiferenciação \ncelular\nNúmero de núcleos\nComponentes \nintracelulares \nmais abundantes\nI\nMononucleada\nREG e FA\nII\nMononucleada\nREG e REL\nIII\nMono ou binucleada\nMitocôndrias e REL\nIV\nMono ou binucleada\nMitocôndrias e FA\nV\nMultinucleada\nREL e FA\nREG (retículo endoplasmático granular/rugoso); \nREL (retículo endoplasmático liso); FA (filamentos de actina).\nCom qual fator de diferenciação o pesquisador deverá prosseguir \nem seu estudo?\nA\tI\nB\tII\nC\tIII\nD\tIV\nE V",
+  "processado_em": "2026-05-08T14:06:50.195749",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

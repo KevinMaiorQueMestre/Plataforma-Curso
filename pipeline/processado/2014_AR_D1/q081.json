@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 81\t\nOs parasitoides (misto de parasitas e predadores) são \ninsetos diminutos que têm hábitos muito peculiares: suas \nlarvas podem se desenvolver dentro do corpo de outros \norganismos, como mostra a figura. A forma adulta se \nalimenta de pólen e açúcares. Em geral, cada parasitoide \nataca hospedeiros de determinada espécie e, por isso, \nesses organismos vêm sendo amplamente usados para o \ncontrole biológico de pragas agrícolas. \nSANTO, M. M. E.; FARIA, M. L. Parasitoides: insetos benéficos e cruéis. \nCiência Hoje, v. 49, n. 291, abr. 2012 (adaptado).\nA forma larval do parasitoide assume qual papel nessa \ncadeia alimentar?\nA\t Consumidor primário, pois ataca diretamente uma \nespécie herbívora.\nB\t Consumidor secundário, pois se alimenta diretamente \ndos tecidos da lagarta.\nC\t Organismo heterótrofo de primeira ordem, pois se \nalimenta de pólen na fase adulta. \nD\t Organismo heterótrofo de segunda ordem, pois \napresenta o maior nível energético na cadeia.\nE\t Decompositor, pois se alimenta de tecidos do interior \ndo corpo da lagarta e a leva à morte.",
+  "processado_em": "2026-05-08T14:00:31.835315",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

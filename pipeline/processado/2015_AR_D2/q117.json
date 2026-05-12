@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 117\t\nAo se apossarem do novo território, os europeus \nignoraram um universo de antiga sabedoria, povoado \npor homens e bens unidos por um sistema integrado. \nA recusa em se inteirar dos valores culturais dos primeiros \nhabitantes levou-os a uma descrição simplista desses \ngrupos e à sua sucessiva destruição.\nNa verdade, não existe uma distinção entre a \nnossa arte e aquela produzida por povos tecnicamente \nmenos desenvolvidos. As duas manifestações devem \nser encaradas como expressões diferentes dos modos \nde sentir e pensar das várias sociedades, mas também \ncomo equivalentes, por resultarem de impulsos humanos \ncomuns.\nSCATAMACHIA, M. C. M. In: AGUILAR, N. (Org.). Mostra do redescobrimento: arqueologia. \nSão Paulo: Fundação Bienal de São Paulo – Associação Brasil 500 anos artes visuais, 2000.\nDe acordo com o texto, inexiste distinção entre as artes \nproduzidas pelos colonizadores e pelos colonizados, pois \nambas compartilham o(a)\nA\t suporte artístico.\nB\t nível tecnológico.\nC\t base antropológica.\nD\t concepção estética.\nE\t referencial temático.",
+  "processado_em": "2026-05-08T14:00:54.977686",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

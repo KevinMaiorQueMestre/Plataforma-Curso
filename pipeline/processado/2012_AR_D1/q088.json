@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 88\t\nNossa pele possui células que reagem à incidência \nde luz ultravioleta e produzem uma substância chamada \nmelanina, responsável pela pigmentação da pele. \nPensando em se bronzear, uma garota vestiu um biquíni, \nacendeu a luz de seu quarto e deitou-se exatamente \nabaixo da lâmpada incandescente. Após várias horas ela \npercebeu que não conseguiu resultado algum.\nO bronzeamente não ocorreu porque a luz emitida pela \nlâmpada incandescente é de\nA\t baixa intensidade.\nB\t baixa frequência.\nC\t um espectro contínuo.\nD\t amplitude inadequada.\nE\t curto comprimento de onda.",
+  "processado_em": "2026-05-08T13:59:02.526214",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

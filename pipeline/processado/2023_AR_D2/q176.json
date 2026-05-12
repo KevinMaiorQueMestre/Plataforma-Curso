@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nUma pessoa caminha por 30 minutos e utiliza um \naplicativo instalado em seu celular para monitorar a \nvariação da intensidade do sinal de internet recebido \npelo aparelho durante o deslocamento. Chegando ao seu \ndestino, o aplicativo forneceu este gráfico:\nIntensidade do sinal de internet\nTempo (min)\n0\n2\n4\n6\n8\n10 12 14\n16\n18 20\n22 24\n26 28 30\nPor quantos minutos, durante essa caminhada, o celular \ndessa pessoa ficou sem receber sinal de internet?\nA\t\nA\t 6\nB\t\nB\t 8\nC\t\nC\t 10\nD\t\nD\t 14\nE\t\nE\t 24",
+  "processado_em": "2026-05-08T14:05:47.334663",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 26          \nUm dos aspectos essenciais da mídia virtual é a \ncentralidade da escrita, pois a tecnologia digital depende \ntotalmente da escrita. Assim, nesta era eletrônica não se \npode mais postular como propriedade típica da escrita \na relação assíncrona, caracterizada pela defasagem \ntemporal entre produção e recepção, pois os bate-papos \nvirtuais são síncronos, ou seja, realizados em tempo real \ne essencialmente escritos. Assim, se com o telefonema \ntornou-se um dia impossível continuar postulando a \ncopresença física dos interlocutores como característica \nexclusiva da oralidade, já que era possível interagir \noralmente estando em espaços diversos, hoje se retira \ndela também a concomitância temporal.\nMARCUSCHI L A Disponível em: http://www progesp ufba br Acesso em: 9 jul 2012",
+  "processado_em": "2026-05-08T14:03:26.224457",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

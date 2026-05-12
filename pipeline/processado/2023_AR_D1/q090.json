@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 90\t\nNão tinha outra filosofia. Nem eu. Não digo que a Univer\nsó as fórmulas, o vocabulário, o esqueleto. Tratei-a com\nHorácio, uma dúzia de locuções morais e políticas, para as\ne a jurisprudência. Colhi de todas as cousas a fraseologia\nA descrição crítica do personagem de Machado de Assis \npelos filósofos gregos da Antiguidade, porque se mostra a\nA\t\nA\t elaboração conceitual de entendimentos.\nB\t\nB\t utilização persuasiva do discurso.\nC\t\nC\t narração alegórica dos rapsodos.\nD\t\nD\t investigação empírica da physis.\nE\t\nE\t expressão pictográfica da pólis.",
+  "processado_em": "2026-05-08T14:05:39.920025",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

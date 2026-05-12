@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 80\t\nA Revolta da Vacina (1904) mostrou claramente \no aspecto defensivo, desorganizado, fragmentado \nda ação popular. Não se negava o Estado, não se \nreivindicava \nparticipação \nnas \ndecisões \npolíticas; \ndefendiam-se valores e direitos considerados acima da \nintervenção do Estado.\nCARVALHO, J. M. Os bestializados: o Rio de Janeiro e a República \nque não foi. São Paulo: Cia. das Letras, 1987 (adaptado).\nA mobilização analisada representou um alerta, \nna medida em que a ação popular questionava\nA\t a alta de preços.\nB\t a política clientelista.\nC\t as reformas urbanas.\nD\t o arbítrio governamental.\nE\t as práticas eleitorais.",
+  "processado_em": "2026-05-11T23:27:27.124576",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

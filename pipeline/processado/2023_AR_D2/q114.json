@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\t\nO petróleo é uma matéria-prima muito valiosa \ne métodos geofísicos são úteis na sua prospecção. \nÉ possível identificar a composição de materiais \nestratificados medindo-se a velocidade de propagação \ndo som (onda mecânica) através deles. Considere que \numa camada de 450 m de um líquido se encontra presa \nno subsolo entre duas camadas rochosas, conforme o \nesquema. Um pulso acústico (que gera uma vibração \nmecânica) é emitido a partir da superfície do solo, onde \nsão posteriormente recebidas duas vibrações refletidas \n(ecos). A primeira corresponde à reflexão do pulso na \ninterface superior do líquido com a camada rochosa. \nA segunda vibração deve-se à reflexão do pulso na \ninterface inferior. O tempo entre a emissão do pulso e \na chegada do primeiro eco é de 0,5 s. O segundo eco \nchega 1,1 s após a emissão do pulso.\nEmissor e detector de pulsos\nRocha\nRocha\n450 m\nLíquido\nA velocidade do som na camada líquida, em metro por \nsegundo, é\nA\t\nA\t 270.\nB\t\nB\t 540.\nC\t\nC\t 818.\nD\t\nD\t 1 500.\nE\t\nE\t 1 800.",
+  "processado_em": "2026-05-08T14:05:44.176500",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

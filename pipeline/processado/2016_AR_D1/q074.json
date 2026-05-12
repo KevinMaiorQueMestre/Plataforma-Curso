@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 25\nQUESTÃO 74\t\nTrês lâmpadas idênticas foram ligadas no circuito \nesquematizado. A bateria apresenta resistência interna \ndesprezível, e os fios possuem resistência nula. \nUm técnico fez uma análise do circuito para prever a \ncorrente elétrica nos pontos: A, B, C, D e E; e rotulou \nessas correntes de IA, IB, IC, ID e IE, respectivamente.\n \nA\nB\nC\nE\nD\nV\nL1\nL2\nL3\nO técnico concluiu que as correntes que apresentam o \nmesmo valor são\nA\t IA = IE e IC = ID.\nB\t IA = IB = IE e IC = ID.\nC\t IA = IB, apenas.\nD\t IA = IB = IE, apenas.\nE\t IC = IB, apenas.",
+  "processado_em": "2026-05-08T14:01:10.742565",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\n'HVGH\u0003 \u0014\u001c\u001c\u001c\u0003 KRXYH\u0003 XPD\u0003 VLJQL¿FDWLYD\u0003 PXGDQoD\u0003\nnas placas dos carros particulares em todo o Brasil. \nAs placas, que antes eram formadas apenas por seis \ncaracteres alfanuméricos, foram acrescidas de uma \nletra, passando a ser formadas por sete caracteres, \nsendo que os três primeiros caracteres devem ser \nOHWUDV\u0003 \u000bGHQWUH\u0003 DV\u0003 \u0015\u0019\u0003 OHWUDV\u0003 GR\u0003 DOIDEHWR\f\u0003 H\u0003 RV\u0003 TXDWUR\u0003\n~OWLPRV\u0003GHYHP\u0003VHU\u0003DOJDULVPRV\u0003\u000bGH\u0003\u0013\u0003D\u0003\u001c\f\u0011\u0003(VVD\u0003PXGDQoD\u0003\nSRVVLELOLWRX\u0003D\u0003FULDomR\u0003GH\u0003XP\u0003FDGDVWUR\u0003QDFLRQDO\u0003XQL¿FDGR\u0003\nde todos os veículos licenciados e ainda aumentou \nVLJQL¿FDWLYDPHQWH\u0003\nD\u0003\nTXDQWLGDGH\u0003\nGH\u0003\nFRPELQDo}HV\u0003\nSRVVtYHLV\u0003GH\u0003SODFDV\u0011\u00031mR\u0003VmR\u0003XWLOL]DGDV\u0003SODFDV\u0003HP\u0003TXH\u0003\ntodos os algarismos sejam iguais a zero.\n'LVSRQtYHO\u0003HP\u001d\u0003KWWS\u001d\u0012\u0012J\u0014\u0011JORER\u0011FRP\u0011\u0003$FHVVR\u0003HP\u001d\u0003\u0014\u0017\u0003MDQ\u0011\u0003\u0015\u0013\u0014\u0015\u0003\u000bDGDSWDGR\f\u0011\nNessas condições, a quantidade de placas que podem \nser utilizadas é igual a\nA 263 + 94\nB 263\u0003î\u0003\u001c4\nC 263\u000b\u0014\u00134 \u0010 1)\nD \u000b\u0015\u00193 + 104) \u0010 1\nE \u000b\u0015\u00193\u0003î\u0003\u0014\u00134) \u0010 1",
+  "processado_em": "2026-05-11T23:25:31.626688",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

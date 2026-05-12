@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 96\t\nA troposfera consiste basicamente em N2 e O2 que, juntos, compreendem 99% da atmosfera da Terra. Outros \ngases, compreendidos como constituintes atmosféricos secundários, apesar de estarem presentes em concentrações \nmuito baixas, podem ter efeitos importantes ou danosos no meio ambiente. O quadro apresenta as principais fontes \ne concentrações típicas de alguns desses gases secundários.\nConstituinte secundário\nPrincipais fontes\nOzônio (O3)\nDescargas elétricas; difusão da \nestratosfera; névoa fotoquímica\nMetano (CH4)\nDecomposição de matéria orgânica; \nvazamento de gás natural\nDióxido de enxofre (SO2)\nGases vulcânicos; incêndios fl orestais; \nação de bactérias; queima de \ncombustíveis fósseis; processos industriais\nMonóxido de carbono (CO)\nDecomposição de matéria orgânica; \nprocessos industriais; queima de \ncombustíveis fósseis\nMonóxido de nitrogênio (NO)\nDescargas elétricas; combustão interna de \nmotores; combustão de matéria orgânica \nnitrogenada\n Pode-se reduzir as concentrações de um desses constituintes gasosos secundários na atmosfera pela passagem \ndos gases através de purificadores químicos contendo uma pasta de calcário, cujo principal constituinte é o CaCO3, \nsendo o gás removido por sua conversão em um sal (composto iônico sólido).\nSPIRO, T. G.; STIGLIANI, W. M. Química ambiental. São Paulo: Pearson Prentice Hall, 2009 (adaptado).\nBROWN, L.; LeMAY, H. E.; BURSTEN, B. E. Química: a ciência central. São Paulo: Pearson Prentice Hall, 2005 (adaptado).\nEntre os constituintes secundários apresentados, qual pode ser removido pela ação desse purificador químico?\nA\t\nA\t Ozônio.\nB\t\nB\t Metano.\nC\t\nC\t Dióxido de enxofre.\nD\t\nD\t Monóxido de carbono.\nE\t\nE\t Monóxido de nitrogênio.",
+  "processado_em": "2026-05-11T23:28:42.081767",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

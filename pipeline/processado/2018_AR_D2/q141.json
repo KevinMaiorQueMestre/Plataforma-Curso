@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\n8P\u0003PDSD\u0003p\u0003D\u0003UHSUHVHQWDomR\u0003UHGX]LGD\u0003H\u0003VLPSOL¿FDGD\u0003\nGH\u0003 XPD\u0003 ORFDOLGDGH\u0011\u0003 (VVD\u0003 UHGXomR\u000f\u0003 TXH\u0003 p\u0003 IHLWD\u0003 FRP\u0003 R\u0003\nXVR\u0003 GH\u0003 XPD\u0003 HVFDOD\u000f\u0003 PDQWpP\u0003 D\u0003 SURSRUomR\u0003 GR\u0003 HVSDoR\u0003\nUHSUHVHQWDGR\u0003HP\u0003UHODomR\u0003DR\u0003HVSDoR\u0003UHDO\u0011\nCerto mapa tem escala 1 : 58 000 000.\n'LVSRQtYHO\u0003HP\u001d\u0003KWWS\u001d\u0012\u0012REORJGHGD\\QDEULJWK\u0011EORJVSRW\u0011FRP\u0011EU\u0011\u0003$FHVVR\u0003HP\u001d\u0003\u001c\u0003DJR\u0011\u0003\u0015\u0013\u0014\u0015\u0011\nConsidere que, nesse mapa, o segmento de reta que \nOLJD\u0003R\u0003QDYLR\u0003j\u0003PDUFD\u0003GR\u0003WHVRXUR\u0003PHoD\u0003\u001a\u000f\u0019\u0003FP\u0011\nA medida real, em quilômetro, desse segmento de reta é\nA \u0017\u0003\u0017\u0013\u001b\u0011\nB \u001a\u0003\u0019\u0016\u0015\u0011\nC \u0017\u0017\u0003\u0013\u001b\u0013\u0011\nD \u001a\u0019\u0003\u0016\u0014\u0019\u0011\nE \u0017\u0017\u0013\u0003\u001b\u0013\u0013\u0011",
+  "processado_em": "2026-05-11T23:26:48.149357",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

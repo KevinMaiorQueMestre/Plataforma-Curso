@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 14\t\nNo tradicional concurso de miss, as candidatas \napresentaram dados de feminicídio, abuso sexual e \nestupro no país.\nNo lugar das medidas de altura, peso, busto, cintura \ne quadril, dados da violência contra as mulheres no Peru. \nFoi assim que as 23 candidatas ao Miss Peru 2017 \nprotestaram contra os altos índices de feminicídio e abuso \nsexual no país no tradicional desfile em trajes de banho.\nO tom político, porém, marcou a atração desde \no começo: logo no início, quando as peruanas se \napresentaram, uma a uma, denunciaram os abusos morais \ne físicos, a exploração sexual, o assédio, entre outros \ncrimes contra as mulheres.\nDisponível em: www.cartacapital.com.br. Acesso em: 29 nov. 2017.\nQuanto à materialização da linguagem, a apresentação \nde dados relativos à violência contra a mulher\nA\t configura uma discussão sobre os altos índices de \nabuso físico contra as peruanas.\nB\t propõe um novo formato no enredo dos concursos de \nbeleza feminina.\nC\t condena o rigor estético exigido pelos concursos \ntradicionais.\nD\t recupera informações sensacionalistas a respeito \ndesse tema.\nE\t subverte a função social da fala das candidatas a miss.",
+  "processado_em": "2026-05-11T23:26:29.399888",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

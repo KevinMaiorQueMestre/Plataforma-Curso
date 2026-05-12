@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nFarejador de Plágio: uma ferramenta contra a cópia ilegal\nNo \nmundo \nacadêmico \nou \nnos \nveículos \nde \ncomunicação, as cópias ilegais podem surgir de diversas \nmaneiras, sendo integrais, parciais ou paráfrases. Para \najudar a combater esse crime, o professor Maximiliano \nZambonatto \nPezzin, \nengenheiro \nde \ncomputação, \ndesenvolveu junto com os seus alunos o programa \nFarejador de Plágio.\nO programa é capaz de detectar: trechos contínuos \ne fragmentados, frases soltas, partes de textos \nreorganizadas, frases reescritas, mudanças na ordem \ndos períodos e erros fonéticos e sintáticos.\nMas \ncomo \no \nprograma \nrealmente \nfunciona? \nConsiderando o texto como uma sequência de palavras, \na ferramenta analisa e busca trecho por trecho nos sites \nde busca, assim como um professor desconfiado de um \naluno faria A diferença é que o programa permite que se",
+  "processado_em": "2026-05-11T23:26:36.919865",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

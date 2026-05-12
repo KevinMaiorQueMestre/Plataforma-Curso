@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 86 \n Grande quantidade dos maus odores do nosso dia \na dia está relacionada a compostos alcalinos. Assim, \nem vários desses casos, pode-se utilizar o vinagre, que \ncontém entre 3,5% e 5% de ácido acético, para diminuir \nou eliminar o mau cheiro. Por exemplo, lavar as mãos com \nvinagre e depois enxaguá-las com água elimina o odor \nde peixe, já que a molécula de piridina (C5H5N) é uma \ndas substâncias responsáveis pelo odor característico de \npeixe podre.\nSILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem... A química \ndo mau cheiro. Química Nova na Escola, v. 33, n. 1, fev. 2011 (adaptado).\nA efi ciência do uso do vinagre nesse caso se explica pela\nA sobreposição de odor, propiciada pelo cheiro \ncaracterístico do vinagre.\nB solubilidade da piridina, de caráter ácido, na solução \nácida empregada.\nC inibição da proliferação das bactérias presentes, \ndevido à ação do ácido acético.\nD degradação enzimática da molécula de piridina, \nacelerada pela presença de ácido acético.\nE reação de neutralização entre o ácido acético e a \npiridina, que resulta em compostos sem mau odor.",
+  "processado_em": "2026-05-08T14:00:32.292478",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

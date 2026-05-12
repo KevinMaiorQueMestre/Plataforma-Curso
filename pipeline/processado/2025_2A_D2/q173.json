@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 173 \nAs folhas de papel retangular de tamanho A0, A1, A2, A3 e A4\nduas folhas A1, que, por sua vez, corresponde a duas folhas A2, e\nrazão entre as medidas lineares, largura (medida menor) e altu\nConsidere k a razão entre a medida da altura da folha de tam\nQual é o valor de k?\nA 3 2\nB 2 2\nC 3\n2\nD 1\n2\nE \n1\n2 2",
+  "processado_em": "2026-05-08T14:06:38.458407",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

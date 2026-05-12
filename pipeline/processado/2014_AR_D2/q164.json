@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nUm professor, depois de corrigir as provas de sua \nturma, percebeu que várias questões estavam muito \ndifíceis. Para compensar, decidiu utilizar uma função \npolinomial f, de grau menor que 3, para alterar as notas x \nda prova para notas y = f(x), da seguinte maneira:\n• \nA nota zero permanece zero.\n• \nA nota 10 permanece 10.\n• \nA nota 5 passa a ser 6.\nA expressão da função y = f(x) a ser utilizada pelo \nprofessor é\nA\t y = −1\n25 x 2  + 7\n5 x\nB\t y = −1\n10 x 2  +  2x\nC\t y = 1\n24 x 2  + 7\n12 x\nD\t y = 4\n5 x  +  2\nE\t y = x",
+  "processado_em": "2026-05-08T14:00:39.940064",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

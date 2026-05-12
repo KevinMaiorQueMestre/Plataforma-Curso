@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 112\t\nOs dejetos de suínos têm alto poder poluidor devido à \nsua elevada carga orgânica e, muitas vezes, são lançados em \ncursos hídricos sem o tratamento adequado. Um biorreator \naeróbico de biogrânulos foi desenvolvido para o tratamento \ndesses dejetos em meio líquido. Os biogrânulos são estruturas \nesféricas compostas por aglomerados de diversas espécies de \nmicrorganismos do solo. Em um experimento, foram adicionados \ndejetos de suínos e monitoradas as formas de nitrogênio no \nefluente líquido do biorreator durante 40 horas. A tabela \napresenta os resultados desse experimento.\nComposição de nitrogênio total no efluente líquido\nForma de \nnitrogênio\nTempo\n0 h\n10 h\n20 h\n30 h\n40 h\nN-orgânico\n80%\n60%\n48%\n23%\n15%\nNH3\n20%\n30%\n32%\n35%\n37%\nNO2\n−\n0%\n6%\n12%\n20%\n23%\nNO3\n−\n0%\n4%\n8%\n22%\n25%\nN2\n0%\n0%\n0%\n0%\n0%\nNesse biorreator, a formação de amônia no efluente a partir \ndos dejetos suínos ocorre por\nA\tfixação.\nB\tnitratação.\nC\tnitrosação.\nD\tdesnitrificação.\nE\tdecomposição.",
+  "processado_em": "2026-05-08T14:06:50.650687",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

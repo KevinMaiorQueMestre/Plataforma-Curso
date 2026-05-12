@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 139\t\nA prefeitura de um município, dependendo do consumo \nmensal C de água, em litro, concederá ao consumidor um dos \ncinco tipos de desconto:\n•\ttipo I, se 29 000 ≤ C ≤ 30 000;\n•\ttipo II, se 27 500 ≤ C < 29 000;\n•\ttipo III, se 26 000 ≤ C < 27 500;\n•\ttipo IV, se 24 000 ≤ C < 26 000;\n•\ttipo V, se C < 24 000.\nO desconto será aplicado no valor da conta a ser paga, \ne não será concedido desconto para contas com consumo \nsuperior a 30 000 L.\nUm consumidor, no primeiro mês, não obteve desconto. \nSe consumisse 40% a menos de água, alcançaria o consumo \nmáximo estabelecido para conseguir o desconto do tipo I. \nNo segundo mês, seu consumo de água reduziu 20% em relação \nao consumo do primeiro mês; e no terceiro mês, seu consumo \nde água reduziu 30% em relação ao consumo do segundo mês.\nAssim, no terceiro mês, esse consumidor receberá desconto \ndo tipo\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE V",
+  "processado_em": "2026-05-08T14:06:52.200568",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

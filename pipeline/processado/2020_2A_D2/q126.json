@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 126          \nUm princípio importante na dissolução de solutos é \nque semelhante dissolve semelhante. Isso explica, por \nexemplo, o açúcar se dissolver em grandes quantidades \nna água, ao passo que o óleo não se dissolve.\nH\nH\nO\nÁgua\nAçúcar\nA dissolução na água, do soluto apresentado, ocorre \npredominantemente por meio da formação de\nA \t ligações iônicas.\nB \t ligações covalentes.\nC \t interações íon-dipolo.\nD \t ligações de hidrogênio.\nE \t interações hidrofóbicas.",
+  "processado_em": "2026-05-08T14:03:37.371406",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

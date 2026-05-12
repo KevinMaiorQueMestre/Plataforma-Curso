@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 90\t\nAs moléculas de nanoputians lembram figuras \nhumanas e foram criadas para estimular o interesse \nde jovens na compreensão da linguagem expressa em \nfórmulas estruturais, muito usadas em química orgânica. \nUm exemplo é o NanoKid, representado na figura:\nNanoKid\nCHANTEAU, S. H.; TOUR, J. M. The Journal of Organic Chemistry, \nv. 68, n. 23, 2003 (adaptado).\nEm que parte do corpo do NanoKid existe carbono \nquaternário?\nA\t Mãos.\nB\t Cabeça.\nC\t Tórax.\nD\t Abdômen.\nE\t Pés.",
+  "processado_em": "2026-05-08T14:00:14.588506",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

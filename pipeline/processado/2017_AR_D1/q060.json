@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 60\t\nProcuramos demonstrar que o desenvolvimento \npode ser visto como um processo de expansão das \nliberdades reais que as pessoas desfrutam. O enfoque \nnas liberdades humanas contrasta com visões mais \nrestritas de desenvolvimento, como as que identificam \ndesenvolvimento com crescimento do Produto Nacional \nBruto, ou industrialização. O crescimento do PNB pode \nser muito importante como um meio de expandir as \nliberdades. Mas as liberdades dependem também de \noutros determinantes, como os serviços de educação e \nsaúde e os direitos civis.\nSEN, A. Desenvolvimento como liberdade. São Paulo: Cia. das Letras, 2010.\nA concepção de desenvolvimento proposta no texto \nfundamenta-se no vínculo entre\nA\t \tincremento da indústria e atuação no mercado \nfinanceiro.\nB\t \tcriação de programas assistencialistas e controle de \npreços.\nC\t \televação da renda média e arrecadação de impostos.\nD\t \tgarantia da cidadania e ascensão econômica.\nE\t \tajuste de políticas econômicas e incentivos fiscais.",
+  "processado_em": "2026-05-11T23:25:41.695145",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

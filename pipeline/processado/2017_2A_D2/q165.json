@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\nO hábito cristalino é um termo utilizado por \nmineralogistas para descrever a aparência típica de \num cristal em termos de tamanho e forma. A granada \né um mineral cujo hábito cristalino é um poliedro com \n30 arestas e 20 vértices. Um mineralogista construiu um \nPRGHOR\u0003LOXVWUDWLYR\u0003GH\u0003XP\u0003FULVWDO\u0003GH\u0003JUDQDGD\u0003SHOD\u0003MXQomR\u0003\ndos polígonos correspondentes às faces.\nSupondo que o poliedro ilustrativo de um cristal de \nJUDQDGD\u0003p\u0003FRQYH[R\u000f\u0003HQWmR\u0003D\u0003TXDQWLGDGH\u0003GH\u0003IDFHV\u0003XWLOL]DGDV\u0003\nna montagem do modelo ilustrativo desse cristal é igual a\nA 10.\nB 12.\nC 25.\nD 42.\nE 50.",
+  "processado_em": "2026-05-11T23:25:30.961160",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

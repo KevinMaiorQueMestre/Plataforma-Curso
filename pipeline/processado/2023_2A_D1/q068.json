@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nNos governos de Vargas e Perón, o esporte começou \na ser visto como um importante elemento na relação entre \no regime e a sociedade. Tal fato não deve ser entendido \napenas como uma resposta à crescente popularidade \ndo esporte. Ainda que crescente em seus governos, a \nmassificação do esporte já havia ocorrido muito antes. \nTalvez a influência dos regimes de Mussolini e Hitler sobre \nos dois governantes latino-americanos possa apontar para \num melhor entendimento dessa nova visão política, uma \nvez que ambos tiveram uma estreita ligação com o esporte \ne a sua utilização como propaganda política.\nDRUMOND, M. Vargas, Perón e o esporte. Revista Estudos Históricos, \nn. 44, jul.-dez. 2009.\nDe acordo com o texto, o uso do esporte nos regimes \npolíticos mencionados foi explorado com o objetivo de\nA\t\nA\t construção de identidades nacionais.\nB\t\nB\t reprodução de poderes autocráticos.\nC\t\nC\t celebração de festividades cívicas.\nD\t\nD\t formação de cidadãos saudáveis.\nE\t\nE\t contestação de símbolos pátrios.",
+  "processado_em": "2026-05-08T14:05:20.418704",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

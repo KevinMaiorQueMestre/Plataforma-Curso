@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nOs anfíbios representam o primeiro grupo de \nvertebrados que, evolutivamente, conquistou o ambiente \nterrestre. Apesar disso, a sobrevivência do grupo ainda \npermanece restrita a ambientes úmidos ou aquáticos, \ndevido à manutenção de algumas características \nfisiológicas relacionadas à água.\nUma das características a que o texto se refere é a\nA\t reprodução por viviparidade.\nB\t respiração pulmonar nos adultos.\nC\t regulação térmica por endotermia.\nD\t cobertura corporal delgada e altamente permeável.\nE\t locomoção por membros anteriores e posteriores \ndesenvolvidos.",
+  "processado_em": "2026-05-08T14:00:48.669100",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\nDe quem é esta língua?\nUma pequena editora brasileira, a Urutau, acaba de \nlançar em Lisboa uma “antologia antirracista de poetas \nestrangeiros em Portugal”, com o título Volta para a tua terra.\nO livro denuncia as diversas formas de racismo a que \nos imigrantes estão sujeitos. Alguns dos poetas brasileiros \nantologiados queixam-se do desdém com que um grande \nnúmero de portugueses acolhe o português brasileiro. \nÉ uma queixa frequente.\n“Aqui em Portugal eles dizem / — eles dizem — / que \nnosso português é errado, que nós não falamos português”, \nescreve a poetisa paulista Maria Giulia Pinheiro, para \nconcluir: “Se a sua linguagem, a lusitana, / ainda conserva \na palavra da opressão / ela não é a mais bonita do mundo./ \nEla é uma das mais violentas”.\nAGUALUSA, J. E. Disponível em: https://oglobo.globo.com. \n Acesso em: 22 nov. 2021 (adaptado).\nO texto de Agualusa tematiza o preconceito em relação \nao português brasileiro. Com base no trecho citado pelo \nautor, infere-se que esse preconceito se deve\nA\t\nA\t à dificuldade de consolidação da literatura brasileira \nem outros países.\nB\t\nB\t aos diferentes graus de instrução formal entre os \nfalantes de língua portuguesa.\nC\t\nC\t à existência de uma língua ideal que alguns falantes \nlusitanos creem ser a falada em Portugal.\nD\t\nD\t ao intercâmbio cultural que ocorre entre os povos dos \ndiferentes países de língua portuguesa.\nE\t\nE\t à distância territorial entre os falantes do português \nque vivem em Portugal e no Brasil.",
+  "processado_em": "2026-05-08T14:05:34.373521",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 119\t\nPor \nterem \ncamada \nde \nvalência \ncompleta, \nalta energia de ionização e afinidade eletrônica \npraticamente nula, considerou-se por muito tempo que \nos gases nobres não formariam compostos químicos. \nPorém, em 1962, foi realizada com sucesso a reação \nentre o xenônio (camada de valência 5s25p6) e o \nhexafluoreto de platina e, desde então, mais compostos \nnovos de gases nobres vêm sendo sintetizados. \nTais compostos demonstram que não se pode aceitar \nacriticamente a regra do octeto, na qual se considera \nque, numa ligação química, os átomos tendem a adquirir \nestabilidade assumindo a configuração eletrônica de \ngás nobre. Dentre os compostos conhecidos, um dos \nmais estáveis é o difluoreto de xenônio, no qual dois \nátomos do halogênio flúor (camada de valência 2s22p5) \nse ligam covalentemente ao átomo de gás nobre para \nficarem com oito elétrons de valência.\nAo se escrever a fórmula de Lewis do composto de \nxenônio citado, quantos elétrons na camada de valência \nhaverá no átomo do gás nobre?\nA\t 6\nB\t 8\nC\t 10\nD\t 12\nE\t 14",
+  "processado_em": "2026-05-11T23:27:34.129097",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

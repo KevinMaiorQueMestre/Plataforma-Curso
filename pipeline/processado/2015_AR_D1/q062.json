@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 62\t\nEm um experimento, colocou-se água até a metade \nda capacidade de um frasco de vidro e, em seguida, \nadicionaram-se três gotas de solução alcoólica de \nfenolftaleína. \nAdicionou-se \nbicarbonato \nde \nsódio \ncomercial, em pequenas quantidades, até que a solução \nse tornasse rosa. Dentro do frasco, acendeu-se um \npalito de fósforo, o qual foi apagado assim que a \ncabeça terminou de queimar. Imediatamente, o frasco \nfoi tampado. Em seguida, agitou-se o frasco tampado e \nobservou-se o desaparecimento da cor rosa.\nMATEUS, A. L. Química na cabeça. Belo Horizonte: UFMG, 2001 (adaptado).\nA explicação para o desaparecimento da cor rosa é que, \ncom a combustão do palito de fósforo, ocorreu o(a)\nA\t formação de óxidos de caráter ácido.\nB\t evaporação do indicador fenolftaleína.\nC\t vaporização de parte da água do frasco.\nD\t vaporização dos gases de caráter alcalino.\nE\t aumento do pH da solução no interior do frasco.",
+  "processado_em": "2026-05-08T14:00:47.680737",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

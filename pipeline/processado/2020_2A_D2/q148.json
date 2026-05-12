@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 148          \nUm dos conceitos mais utilizados nos estudos \nsobre a dinâmica de populações é o de densidade \ndemográfica. Esta grandeza, para um local, é a razão \nentre o seu número de habitantes e a medida da área \ndo seu território. Quanto maior essa razão, expressa \nem habitante por quilometro quadrado, se diz que mais \ndensamente povoado é o local.\nQuerendo fazer uma visita de estudos ao local \nmais densamente povoado, entre um grupo de cinco \nescolhidos, um geógrafo coletou as informações sobre \npopulação e área territorial dos locais de seu interesse, \nobtendo os dados apresentados no quadro, referentes ao \nano de 2014.\nPopulação\n(Nº habitantes)\nÁrea\n(km2)\nMalta\n400 000\n300\nBrasil\n200 000 000\n9 000 000\nMéxico\n120 000 000\n2 000 000\nNamíbia\n2 000 000\n820 000\nIlha Norfolk\n1 841\n35\n Disponível em: www.indexmundi.com. Acesso em: 13 nov. 2015 (adaptado).\nPara cumprir seu objetivo de visita, qual dos locais \napresentados deverá ser o escolhido pelo geógrafo?\nA \t Malta.\nB \t Brasil.\nC \t México.\nD \t Namíbia.\nE \t Ilha Norfolk.",
+  "processado_em": "2026-05-08T14:03:38.653953",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

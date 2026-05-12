@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nA energia solar vai abastecer parte da demanda de energia \ndo campus de uma universidade brasileira. A instalação de \npainéis solares na área dos estacionamentos e na cobertura \ndo hospital pediátrico será aproveitada nas instalações \nuniversitárias e também ligada na rede da companhia elétrica \ndistribuidora de energia.\nO projeto inclui 100 m² de painéis solares que ficarão \ninstalados nos estacionamentos, produzindo energia elétrica \ne proporcionando sombra para os carros. Sobre o hospital \npediátrico serão colocados aproximadamente 300 m² de \npainéis, sendo 100 m² para gerar energia elétrica utilizada no \ncampus, e 200 m² para geração de energia térmica, produzindo \naquecimento de água utilizada nas caldeiras do hospital.\nSuponha que cada metro quadrado de painel solar \npara energia elétrica gere uma economia de 1 kWh por dia \ne cada metro quadrado produzindo energia térmica permita \neconomizar 0,7 kWh por dia para a universidade. Em \numa segunda fase do projeto, será aumentada em 75% \na área coberta pelos painéis solares que geram energia \nelétrica. Nessa fase também deverá ser ampliada a área \nde cobertura com painéis para geração de energia térmica.\nDisponível em: http://agenciabrasil.ebc.com.br. Acesso em: 30 out. 2013 (adaptado).\nPara se obter o dobro da quantidade de energia \neconomizada diariamente, em relação à primeira fase, \na área total dos painéis que geram energia térmica, em \nmetro quadrado, deverá ter o valor mais próximo de\nA\t 231.\nB\t 431.\nC\t 472.\nD\t 523.\nE\t 672.",
+  "processado_em": "2026-05-11T23:25:57.275745",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

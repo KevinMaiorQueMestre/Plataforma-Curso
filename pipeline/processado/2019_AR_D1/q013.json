@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 13\t\nHELOÍSA: Faz versos? \nPINOTE: Sendo preciso... Quadrinhas...  Acrósticos... \nSonetos... Reclames. \nHELOÍSA: Futuristas? \nPINOTE: Não senhora! Eu já fui futurista. \nCheguei a acreditar na independência... Mas foi \numa tragédia! Começaram a me tratar de maluco. \nA me olhar de esguelha. A não me receber mais. \nAs crianças choravam em casa. Tenho três filhos. \nNo jornal também não pagavam, devido à crise. \nPrecisei viver de bicos. Ah! Reneguei tudo. Arranjei \naquele instrumento (Mostra a faca) e fiquei passadista.\nANDRADE, O. O rei da vela. São Paulo: Globo, 2003.\nO fragmento da peça teatral de Oswald de Andrade \nironiza a reação da sociedade brasileira dos anos 1930 \ndiante de determinada vanguarda europeia. Nessa \nvisão, atribui-se ao público leitor uma postura\nA\t preconceituosa, \nao \nevitar \nformas \npoéticas \nsimplificadas.\nB\t conservadora, ao optar por modelos consagrados.\nC\t preciosista, ao preferir modelos literários eruditos.\nD\t nacionalista, ao negar modelos estrangeiros.\nE\t eclética, ao aceitar diversos estilos poéticos.",
+  "processado_em": "2026-05-11T23:27:20.465648",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

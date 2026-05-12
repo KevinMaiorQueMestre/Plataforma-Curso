@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nO homem disse, Está a chover, e depois, Quem é você, Não sou daqui, Anda à procura de comida, Sim, há quatro \ndias que não comemos, E como sabe que são quatro dias, É um cálculo, Está sozinha, Estou com o meu marido e uns \ncompanheiros, Quantos são, Ao todo, sete, Se estão a pensar em ficar conosco, tirem daí o sentido, já somos muitos, \nSó estamos de passagem, Donde vêm, Estivemos internados desde que a cegueira começou, Ah, sim, a quarentena, \nnão serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um incêndio e nesse momento percebemos que os \nsoldados que nos vigiavam tinham desaparecido, E saíram, Sim, Os vossos soldados devem ter sido dos últimos a \ncegar, toda a gente está cega, Toda a gente, a cidade toda, o país,\nSARAMAGO, J. Ensaio sobre a cegueira. São Paulo: Cia. das Letras, 1995.\nA cena retrata as experiências das personagens em um país atingido por uma epidemia. No diálogo, a violação de \ndeterminadas regras de pontuação\nA\t \trevela uma incompatibilidade entre o sistema de pontuação convencional e a produção do gênero romance.\nB\t \tprovoca uma leitura equivocada das frases interrogativas e prejudica a verossimilhança.\nC\t \tsingulariza o estilo do autor e auxilia na representação do ambiente caótico.\nD\t \trepresenta uma exceção às regras do sistema de pontuação canônica.\nE\t \tcolabora para a construção da identidade do narrador pouco escolarizado.",
+  "processado_em": "2026-05-11T23:25:40.255522",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

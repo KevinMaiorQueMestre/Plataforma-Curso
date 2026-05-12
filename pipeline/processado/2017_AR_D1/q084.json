@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 84\t\nO conceito de democracia, no pensamento de \nHabermas, é construído a partir de uma dimensão \nprocedimental, calcada no discurso e na deliberação. \nA legitimidade democrática exige que o processo de \ntomada de decisões políticas ocorra a partir de uma \nampla discussão pública, para somente então decidir. \nAssim, o caráter deliberativo corresponde a um \nprocesso coletivo de ponderação e análise, permeado \npelo discurso, que antecede a decisão.\nVITALE, D. Jürgen Habermas, modernidade e democracia deliberativa. \nCadernos do CRH (UFBA), v. 19, 2006 (adaptado).\nO conceito de democracia proposto por Jürgen Habermas \npode favorecer processos de inclusão social. De acordo \ncom o texto, é uma condição para que isso aconteça o(a)\nA\t \tparticipação direta periódica do cidadão.\nB\t \tdebate livre e racional entre cidadãos e Estado.\nC\t \tinterlocução entre os poderes governamentais.\nD\t \teleição de lideranças políticas com mandatos \ntemporários.\nE\t \tcontrole do poder político por cidadãos mais \nesclarecidos.",
+  "processado_em": "2026-05-11T23:25:43.186349",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

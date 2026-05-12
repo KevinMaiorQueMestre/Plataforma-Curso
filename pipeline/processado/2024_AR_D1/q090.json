@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 90\t\nUma fábrica na qual os operários fossem, efetiva e \nintegralmente, simples peças de máquinas executando \ncegamente as ordens da direção pararia em quinze minutos. \nO capitalismo só pode funcionar com a contribuição constante \nda atividade propriamente humana de seus subjugados que, \nao mesmo tempo, tenta reduzir e desumanizar o mais possível.\nCASTORIADIS, C. A instituição imaginária da sociedade. \nRio de Janeiro: Paz e Terra, 1982.\nO texto apresenta uma contradição interna do capitalismo \ncaracterizada pela\nA\tobsolescência associada ao uso da tecnologia.\nB\torientação voltada à administração de conflitos.\nC\talienação decorrente da organização do trabalho.\nD\tisonomia remanescente da geração de riquezas.\nE\tprodutividade vinculada ao fortalecimento da autonomia.",
+  "processado_em": "2026-05-08T14:06:14.726380",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

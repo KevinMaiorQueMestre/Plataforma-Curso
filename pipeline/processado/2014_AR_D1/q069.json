@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 69\t\nEm um laboratório de genética experimental, \nobservou-se que determinada bactéria continha um gene \nque conferia resistência a pragas específicas de plantas. \nEm vista disso, os pesquisadores procederam de acordo \ncom a figura.\n1 - Bactéria\n2 - Isolamento do\nDNA bacteriano\n3 - Clonagem\ndo DNA\n4 - Extração do\ngene de interesse\n5 - Fabricação\ndo gene\n6 - Inserção do gene nas \ncélulas do tecido da planta\n7 - Planta\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\nDo ponto de vista biotecnológico, como a planta \nrepresentada na figura é classificada?\nA\t Clone.\nB\t Híbrida.\nC\t Mutante.\nD\t Adaptada.\nE\t Transgênica.",
+  "processado_em": "2026-05-08T14:00:31.197054",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

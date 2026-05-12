@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 83 \nAs premissas do projeto geopolítico para a Amazônia na \ndécada de 1970 não foram determinadas pela geografia do país, \nnem se resumiram à apropriação física do espaço. O marco do \nprojeto foi a intencionalidade do comando do vetor científico \nmoderno para o controle do tempo e do espaço pelas Forças \nArmadas como condição para a constituição do Estado-Nação na \nnova era mundial, e para a modernização acelerada da sociedade \ne do espaço brasileiros necessária para alcançar crescimento \neconômico e projeção mundial.\nBECKER, B. K.; EGLER, C. A. Brasil: uma potência regional na economia-mundo. \nRio de Janeiro: Bertrand Brasil 2010 (adaptado)",
+  "processado_em": "2026-05-08T14:06:30.790354",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

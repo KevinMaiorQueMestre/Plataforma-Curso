@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 33\t\nDisponível em: www.imageforum-diffusion.afp.com. Acesso em: 6 jan. 2016.\nO regime do Apartheid adotado de 1948 a 1994 na \nÁfrica do Sul fundamentava-se em ações estatais de \nsegregacionismo racial. Na imagem, fuzileiros navais \nfazem valer a “lei do passe” que regulamentava o(a)\nA\t concentração fundiária, impedindo os negros de \ntomar posse legítima do uso da terra.\nB\t boicote econômico, proibindo os negros de consumir \nprodutos ingleses sem resistência armada.\nC\t sincretismo religioso, vetando os ritos sagrados dos \nnegros nas cerimônias oficiais do Estado.\nD\t controle sobre a movimentação, desautorizando \nos negros a transitar em determinadas áreas das \ncidades.\nE\t exclusão do mercado de trabalho, negando à \npopulação negra o acesso aos bens de consumo.",
+  "processado_em": "2026-05-08T14:01:05.860597",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

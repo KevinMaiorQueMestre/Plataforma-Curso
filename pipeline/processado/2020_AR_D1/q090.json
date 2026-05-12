@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 90          \nTEXTO I\nO aumento de casos suspeitos de febre amarela em \nMinas pode estar relacionado à tragédia de Mariana, \nem 2015, segundo a bióloga da Fiocruz Márcia Chame. \nA hipótese tem como ponto de partida a localização das \ncidades mineiras que identificaram até o momento casos \nde pacientes com sintomas da doença. Grande parte está \nna região próxima do Rio Doce, afetado pelo rompimento \nda Barragem de Fundão, em novembro de 2015.  \nFORMENTI, L. Para bióloga, surto de febre amarela pode ter relação com tragédia de \nMariana. O Estado de São Paulo, 14 jan. 2017.\nTEXTO II\nPor outro lado, Servio Ribeiro considera remota a \npossibilidade de influência da tragédia de Mariana (MG) \nneste surto de febre amarela em Minas Gerais. “A febre \namarela é uma doença de interior de floresta. O mosquito \nque a transmite põe ovos em cavidades de árvores e em \nbromélias. É um mosquito da estrutura da floresta. Ele \nnão se relaciona muito com grandes corpos-d’água e \ncom rios. As cidades afetadas pela doença estão em uma \nregião onde os rejeitos não chegaram com força para \nderrubar a floresta”, diz o biólogo.\nRODRIGUES, L. Especialistas investigam relação entre febre amarela e degradação \nambiental. Agência Brasil, 25 jan. 2017.\nSobre a tragédia de Mariana, os textos apresentam \ndivergência quanto ao(à)\nA \t poluição dos rios locais.\nB \t identificação da área afetada.\nC \t destruição da vegetação nativa.\nD \t aparecimento de enfermidade endêmica.\nE \t surgimento de comunidades desabrigadas.",
+  "processado_em": "2026-05-11T23:28:08.950727",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

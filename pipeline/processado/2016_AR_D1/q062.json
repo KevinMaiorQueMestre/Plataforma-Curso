@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 22\nQUESTÃO 62\t\nAo percorrer o trajeto de uma cadeia alimentar, o \ncarbono, elemento essencial e majoritário da matéria \norgânica que compõe os indivíduos, ora se encontra \nem sua forma inorgânica, ora se encontra em sua \nforma orgânica. Em uma cadeia alimentar composta por \nfitoplâncton, zooplâncton, moluscos, crustáceos e peixes \nocorre a transição desse elemento da forma inorgânica \npara a orgânica.\nEm qual grupo de organismos ocorre essa transição?\nA\t Fitoplâncton.\nB\t Zooplâncton.\nC\t Moluscos.\nD\t Crustáceos.\nE\t Peixes.",
+  "processado_em": "2026-05-08T14:01:09.275784",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

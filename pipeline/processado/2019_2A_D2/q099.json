@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 99\t\nObserve o esquema que ilustra duas situações no \nambiente marinho.\nDisponível em: www.teachoceanscience.net. \nAcesso em: 7 jul. 2015 (adaptado).\nQual é o processo responsável pela diminuição da \nconcentração de oxigênio no lado B do esquema?\nA\t Lixiviação.\nB\t Eutrofização.\nC\t Volatilização.\nD\t Fermentação.\nE\t Bioacumulação.",
+  "processado_em": "2026-05-11T23:27:08.021942",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

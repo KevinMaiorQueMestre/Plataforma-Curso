@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nNa hidrogenação parcial de óleos vegetais, efetuada pelas indústrias alimentícias, ocorrem processos paralelos \nque conduzem à conversão das gorduras cis em trans. Diversos estudos têm sugerido uma relação direta entre os \nácidos graxos trans e o aumento do risco de doenças vasculares.\nRIBEIRO, A. P. B. et al. Interesterificação química: alternativa para obtenção de gorduras zero e trans. Química Nova, n. 5, 2007 (adaptado).\nQual tipo de reação química a indústria alimentícia deve evitar para minimizar a obtenção desses subprodutos?\nA\t Adição.\nB\t Ácido-base.\nC\t Substituição.\nD\t Oxirredução.\nE\t Isomerização.",
+  "processado_em": "2026-05-11T23:26:21.389258",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

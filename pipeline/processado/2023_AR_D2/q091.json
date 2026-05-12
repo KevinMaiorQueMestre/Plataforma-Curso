@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 91\t\nNa tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas \ne um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do \nbarbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.\nSOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado).\nNa prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?\nA\t\nA\t Altura.\nB\t\nB\t Período.\nC\t\nC\t Amplitude.\nD\t\nD\t Velocidade.\nE\t\nE\t Comprimento de onda.",
+  "processado_em": "2026-05-11T23:29:15.928845",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

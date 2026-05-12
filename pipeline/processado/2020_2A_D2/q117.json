@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 117          \nAlgumas espécies de tubarões, como o tubarão-branco \ne o tubarão-martelo, são superpredadores da cadeia \nalimentar subaquática. Seus órgãos dos sentidos são \nespecialmente adaptados para a localização de presas \naté mesmo a quilômetros de distância. Pesquisadores \namericanos, trabalhando com tubarões do gênero Squalus, \nverificaram que a capacidade de detecção e captura de \npresas por esses indivíduos é diminuída quando eles \nse encontram expostos a campos magnéticos gerados \nartificialmente na água.\nSTONER, A. W.; KAIMMER, S. M. Fisheries Research, n. 92, 2008.\nConsiderando-se os órgãos dos sentidos típicos desses \nanimais, que tipo de receptor foi afetado no experimento?\nA \t Fotorreceptor.\nB \t Mecanorreceptor.\nC \t Eletrorreceptor.\nD \t Termorreceptor.\nE \t Quimiorreceptor.",
+  "processado_em": "2026-05-08T14:03:36.952634",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 171\t\nO quadro apresenta a relação dos jogadores que \nfizeram parte da seleção brasileira de voleibol masculino \nnas Olimpíadas de 2012, em Londres, e suas respectivas \nalturas, em metro.\nNome\nAltura (m)\nBruninho\n1,90\nDante\n2,01\nGiba\n1,92\nLeandro Vissoto\n2,11\nLucas\n2,09\nMurilo\n1,90\nRicardinho\n1,91\nRodrigão\n2,05\nSerginho\n1,84\nSidão\n2,03\nThiago Alves\n1,94\nWallace\n1,98\nDisponível em: www.cbv.com.br. Acesso em: 31 jul. 2012 (adaptado).\nA mediana das alturas, em metro, desses jogadores é\nA\t 1,90.\nB\t 1,91.\nC\t 1,96.\nD\t 1,97.\nE\t 1,98.",
+  "processado_em": "2026-05-11T23:27:13.595257",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 103\t\nEm junho de 1913, embarquei para a Europa a fim \nde me tratar num sanatório suíço. Escolhi o de Clavadel, \nperto de Davos-Platz, porque a respeito dele me falara \nJoão Luso, que ali passara um inverno com a senhora. \nMais tarde vim a saber que antes de existir no lugar um \nsanatório, lá estivera por algum tempo Antônio Nobre. “Ao \ncair das folhas”, um de seus mais belos sonetos, talvez o \nmeu predileto, está datado de “Clavadel, outubro, 1895”. \nFiquei na Suíça até outubro de 1914.\nBANDEIRA, M. Poesia completa e prosa. Rio de Janeiro: Nova Aguilar, 1985.\nNo relato de memórias do autor, entre os recursos usados\npara organizar a sequência dos eventos narrados, destaca-se a\nA\t construção de frases curtas a fim de conferir \ndinamicidade ao texto.\nB\t presença de advérbios de lugar para indicar a \nprogressão dos fatos.\nC\t alternância de tempos do pretérito para ordenar os \nacontecimentos.\nD\t inclusão de enunciados com comentários e avaliações \npessoais.\nE\t alusão a pessoas marcantes na trajetória de vida do \nescritor.",
+  "processado_em": "2026-05-08T14:00:52.500629",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

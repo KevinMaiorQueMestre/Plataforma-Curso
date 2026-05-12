@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 167\t\nNa avaliação de riscos em investimentos no setor financeiro\nde um período permite analisar riscos potenciais associados a um\ndas taxas de retorno e, consequentemente, maior o risco assoc\ninvestimento mais estável e previsível.\nUma classificação de risco de investimento que adota o des\n•\tmuito baixo: dp < 5%;\n•\tbaixo: 5% ≤ dp < 10%;\n•\tmoderado: 10% ≤ dp < 20%;\n•\talto: 20% ≤ dp < 30%;\n•\tmuito alto: dp ≥ 30%.\nUm investidor analisou, ao longo de cinco meses, as taxas\ne identificou, respectivamente, retornos mensais de 3%, 15%, \ninvestimento e adotará o desvio padrão como medida para aval\nA classificação do risco desse tipo de investimento é\nA\tmuito baixo.\nB\tbaixo.\nC\tmoderado.\nD\talto.\nE muito alto",
+  "processado_em": "2026-05-08T14:06:53.814373",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

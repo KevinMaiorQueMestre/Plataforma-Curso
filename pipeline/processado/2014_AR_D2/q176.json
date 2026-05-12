@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nUm executivo sempre viaja entre as cidades A e B, que \nestão localizadas em fusos horários distintos. O tempo de \nduração da viagem de avião entre as duas cidades é de \n6 horas. Ele sempre pega um voo que sai de A às 15h e \nchega à cidade B às 18h (respectivos horários locais). \nCerto dia, ao chegar à cidade B, soube que precisava \nestar de volta à cidade A, no máximo, até as 13h do dia \nseguinte (horário local de A).\nPara que o executivo chegue à cidade A no horário correto \ne admitindo que não haja atrasos, ele deve pegar um voo \nsaindo da cidade B, em horário local de B, no máximo à(s)\nA\t 16h.\nB\t 10h.\nC\t 7h.\nD\t 4h.\nE 1h",
+  "processado_em": "2026-05-08T14:00:40.398168",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

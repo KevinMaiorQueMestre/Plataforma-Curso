@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nA densidade demográfica de uma região é definida \ncomo sendo a razão entre o número de habitantes dessa \nregião e sua área, expressa na unidade habitantes por \nquilômetro quadrado.\nUma região R é subdividida em várias outras, sendo \numa delas a região Q. A área de Q é igual a três quartos da \nárea de R, e o número de habitantes de Q é igual à metade \ndo número de habitantes de R. As densidades demográficas \ncorrespondentes a essas regiões são denotadas por d(Q) \ne d(R).\nA expressão que relaciona d(Q) e d(R) é\nA d Q\nd R\n\u001f \u001e \u001d\n\u001f \u001e\n1\n4\nB d Q\nd R\n\u001f \u001e \u001d\n\u001f \u001e\n1\n2\nC d Q\nd R\n\u001f \u001e \u001d\n\u001f \u001e\n3\n4\nD d Q\nd R\n\u001f \u001e \u001d\n\u001f \u001e\n3\n2\nE\nd Q\nd R\n\u001f \u001e \u001d\n\u001f \u001e\n2\n3",
+  "processado_em": "2026-05-08T14:06:19.602683",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

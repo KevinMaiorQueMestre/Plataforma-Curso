@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nMuitas pessoas ainda se espantam com o fato de um \npassageiro sair ileso de um acidente de carro enquanto \no veículo onde estava teve perda total. Essas pessoas \ntalvez considerem, equivocadamente, que os carros mais \nseguros são os que têm as estruturas mais rígidas, ou seja, \nestruturas, que durante uma colisão, apresentam menor \ndeformação. Na verdade, o que ocorre é o contrário. Por isso, \na partir de 1958, passaram a ser produzidos carros com partes \nque se deformam facilmente.\nDAY, C. Crumple Zones. Disponível em: https://pubs.aip.org. \nAcesso em: 2 jul. 2024 (adaptado).\nAssim, além dos cintos de segurança e dos airbags, \nos carros modernos passaram a contar com o dispositivo \nde segurança conhecido como crumple zone (região \ndeformável, em inglês), conforme a figura.\nMomentum and Car safety. GCSE Physics Revision. \nDisponível em: www.shalom-education.com. \nAcesso em: 5 jul. 2024 (adaptado).\nConsiderando o carro, seus ocupantes e o muro da figura \ncomo um sistema isolado, o crumple zone aumenta a \nsegurança dos passageiros porque, durante uma colisão, \na deformação da estrutura do carro\nA\taciona os airbags do veículo.\nB\tabsorve a energia cinética do sistema.\nC\tconsome a quantidade de movimento do sistema.\nD\tcria uma barreira de proteção para seus ocupantes.\nE\tdiminui a velocidade do centro de massa do sistema.",
+  "processado_em": "2026-05-08T14:06:18.354478",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

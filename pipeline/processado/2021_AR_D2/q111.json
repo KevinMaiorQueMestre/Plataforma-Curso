@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 111\n\u0016\b\u0002 \u001e\u000e\u000f\b\u000f\n\u0002 \u000f\n\u0002 \u001a\u001d\u0004\u0002 \u001f\b\f2\u0004$\u0002 \b\t\u0002 \u000e2+\b\t\u0002 \u000f\n\u0002 \u001e\b2\u0004\u0007\u0002 \t\u001d\u0004\u0002\n\u0007\n\t%\u0004\u0005\t?#\n\u000e\t\u0002%\n2\b\u0002\b2\r\n\u0007\b'\u001d\u0004\u0002\u000f\b\u0002\u000f\u000e\u0007\n'\u001d\u0004\u0002\u000f\u0004\u0002\f@\u0004\u0002\u000f\b\u0002!\u0007\u000e\t\b\u0002\n\u0010\b\u0007G\r\u000e\u0010\b\u0002 \u000b\f\n\u0002 \u000f\n#\n\u0007\u000e\b\u0002 \b\r\u000e\u0005J\u000e\u0007\u0002 \b\u0002 \u0007\nJ\u000e\u001d\u0004\u0002 \u000f\n\u0002 \u0010\b\u0005\b\u0005\u001e\u000e\b\u000e\t(\u0002\nMas, ao cruzar a ilha de calor, a brisa marítima agora \n\n\u0005\u001e\u0004\u0005\r\u0007\b\u0002 \f\u0010\u0002 \f@\u0004\u0002 \u000f\n\u0002 \b\u0007\u0002 #\n\u0007\r\u000e\u001e\b2$\u0002 \u000b\f\n\u0002 \r\u0007\b\u0005\tP\n\u0007\n\u0002 %\b\u0007\b\u0002\nela energia térmica absorvida das superfícies quentes \n\u000f\b\u0002 \u001e\u000e\u000f\b\u000f\n$\u0002 \u000f\n\t2\u0004\u001e\b\u0005\u000f\u0004/\b\u0002 %\b\u0007\b\u0002 \b2\r\b\t\u0002 \b2\r\u000e\r\f\u000f\n\t(\u0002 \u0013\n\t\t\b\u0002\n\u0010\b\u0005\n\u000e\u0007\b$\u0002+?\u0002\u001e\u0004\u0005\u000f\n\u0005\t\b'\u001d\u0004\u0002\n\u0002\u001e+\f#\b\t\u0002P\u0004\u0007\r\n\t\u0002\u0005\u0004\u0002\u001e\n\u0005\r\u0007\u0004\u0002\u000f\b\u0002\n\u001e\u000e\u000f\b\u000f\n$\u0002\n\u0010\u0002#\n\u0002\u000f\n\u0002\u0005\b\u0002\u0007\nJ\u000e\u001d\u0004\u0002\u000f\n\u0002\u0010\b\u0005\b\u0005\u001e\u000e\b\u000e\t(\u0002\u0012\u0002\u000e\u0010\bJ\n\u0010\u0002\napresenta os três subsistemas que trocam energia \n\u0005\n\t\t\n\u0002P\n\u0005Y\u0010\n\u0005\u0004(\nSol\nBrisa\nmarítima\nIlha de calor\nNo processo de fortes chuvas no centro da cidade \n\u000f\n\u0002 \u001a\u001d\u0004\u0002 \u001f\b\f2\u0004$\u0002 +?\u0002 \u000f\u0004\u000e\t\u0002 \u0010\n\u001e\b\u0005\u000e\t\u0010\u0004\t\u0002 \u000f\u0004\u0010\u000e\u0005\b\u0005\r\n\t\u0002 \u000f\n\u0002\ntransferência de calor: entre o Sol e a ilha de calor, e entre \na ilha de calor e a brisa marítima.\nVIVEIROS, M. Ilhas de calor afastam chuvas de represas. \nDisponível em: www2.feis.unesp.br. Acesso em: 3 dez. 2019 (adaptado).\n\u0014\t\t\n\t\u0002\u0010\n\u001e\b\u0005\u000e\t\u0010\u0004\t\u0002\t\u001d\u0004$\u0002\u0007\n\t%\n\u001e\r\u000e#\b\u0010\n\u0005\r\n$",
+  "processado_em": "2026-05-08T14:04:29.327433",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

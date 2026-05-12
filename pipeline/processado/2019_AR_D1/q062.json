@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 62\t\nA maior parte das agressões e manifestações \ndiscriminatórias contra as religiões de matrizes africanas \nocorrem em locais públicos (57%). É na rua, na via pública, \nque tiveram lugar mais de 2/3 das agressões, geralmente \nem locais próximos às casas de culto dessas religiões. \nO transporte público também é apontado como um local \nem que os adeptos das religiões de matrizes africanas \nsão discriminados, geralmente quando se encontram \nparamentados por conta dos preceitos religiosos.\nREGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. \nCartografia social de terreiros no Rio de Janeiro. \nRio de Janeiro: PUC-Rio, 2014.\nAs práticas descritas no texto são incompatíveis com a \ndinâmica de uma sociedade laica e democrática porque\nA\t asseguram as expressões multiculturais.\nB\t promovem a diversidade de etnias.\nC\t falseiam os dogmas teológicos.\nD\t estimulam os rituais sincréticos.\nE\t restringem a liberdade de credo.",
+  "processado_em": "2026-05-11T23:27:25.698505",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

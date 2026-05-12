@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 154 \nO proprietário de um terreno retangular, de dimensões \n60 m × 70 m, pretende construir uma cerca de arame farpado \ndando cinco voltas de fio ao redor desse terreno. O arame a \nser utilizado é vendido em rolos de dois tipos, com preços e \nmetragens diferentes:\n• tipo I: R$ 300,00 por um rolo de 100 metros;\n• tipo II: R$ 440,00 por um rolo de 150 metros.\nEsse proprietário comprará a quantidade mínima de rolos \nde um mesmo tipo, de modo a obter o menor custo total com \narame farpado.\nPara isso, ele comprará rolos do tipo\nA I e o custo total será de R$ 2 100,00.\nB I e o custo total será de R$ 3 900,00.\nC II e o custo total será de R$ 2 200,00.\nD II e o custo total será de R$ 3 520,00.\nE II e o custo total será de R$ 3 960,00.",
+  "processado_em": "2026-05-08T14:06:37.513113",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

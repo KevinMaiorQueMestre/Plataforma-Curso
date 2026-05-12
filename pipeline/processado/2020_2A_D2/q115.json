@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 115          \nAs plantas, em sua fase de crescimento, necessitam \nde grande quantidade de carbono, sequestrado pela \nfotossíntese, para a produção de biomassa.\nO sequestro de carbono pelas plantas é aumentado\nA \t reciclando papel.\nB  mantendo intactas as florestas nativas.\nC \t fazendo o replantio das áreas degradadas.\nD  evitando a queima de madeira e de áreas de floresta.\nE \t substituindo a madeira de bens duráveis por materiais \nalternativos.",
+  "processado_em": "2026-05-08T14:03:36.872706",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

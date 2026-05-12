@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nCom o intuito de fazer bombons para vender, uma \ndoceira comprou uma barra de 2 kg de chocolate e 1 L de \ncreme de leite. De acordo com a receita, cada bombom \ndeverá ter exatamente 34 g de chocolate e 12 mL de \ncreme de leite.\nRespeitando \nos \ncritérios \nestabelecidos, \nquantos \nbombons a doceira poderá fazer utilizando o máximo \nque puder os ingredientes comprados?\nA\t\nA\t 5\nB\t\nB\t 8\nC\t\nC\t 58\nD\t\nD\t 71\nE\t\nE\t 83",
+  "processado_em": "2026-05-08T14:04:49.025374",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

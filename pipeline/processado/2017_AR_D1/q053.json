@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nMéxico, Colômbia, Peru e Chile decidiram seguir um \ncaminho mais curto para a integração regional. Os quatro \npaíses, em meados de 2012, criaram a Aliança do Pacífico \ne eliminaram, em 2013, as tarifas aduaneiras de 90% do \ntotal de produtos comercializados entre suas fronteiras.\nOLIVEIRA, E. Aliança do Pacífico se fortalece e Mercosul fica à sua sombra. \nO Globo, 24 fev. 2013 (adaptado).\nO acordo descrito no texto teve como objetivo econômico \npara os países-membros\nA\t promover a livre circulação de trabalhadores.\nB\t fomentar a competitividade no mercado externo.\nC\t restringir investimentos de empresas multinacionais.\nD\t adotar medidas cambiais para subsidiar o setor agrícola.\nE\t reduzir a fiscalização alfandegária para incentivar o \nconsumo.",
+  "processado_em": "2026-05-11T23:25:41.390080",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

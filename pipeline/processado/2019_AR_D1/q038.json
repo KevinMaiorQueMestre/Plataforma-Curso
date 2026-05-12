@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 38\t\n“O computador, dando prioridade à busca pela \nprópria felicidade, parou de trabalhar para os humanos”. \nÉ assim que termina o conto O dia em que um computador \nescreveu um conto, escrito por uma inteligência artificial \ncom a ajuda de cientistas humanos.\nOs cientistas selecionaram palavras e frases que \nseriam usadas na narrativa, e definiram um roteiro geral \nda história, que serviria como guia para a inteligência \nartificial. A partir daí, o computador criou o texto \ncombinando as frases e seguindo as diretrizes que \nos cientistas impuseram. Os juízes não sabem quais \ntextos são escritos por humanos e quais são feitos por \ncomputadores, o que mostra que o conto estava bem \nit\nO di\nó\nã\nó i\nt",
+  "processado_em": "2026-05-11T23:27:23.795301",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

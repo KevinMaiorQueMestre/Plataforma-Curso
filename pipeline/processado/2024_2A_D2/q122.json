@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nA utilização de fusíveis em equipamentos eletrônicos \né fundamental para a sua preservação. De forma \nsimplificada, esse dispositivo é composto de terminais \nmetálicos, conectados por um fio condutor envolvido por \num corpo de vidro, como ilustrado na figura. A passagem de \ncorrente elétrica gera calor por efeito Joule, o que provoca \num aumento local na temperatura. Considere que são \nnecessários, em média, 4 A de corrente para a elevação \nda temperatura em 1 °C. As temperaturas de fusão de \ndiferentes materiais são apresentadas a seguir.\nPara um equipamento que deve operar com uma \ncorrente menor que 1 000 A, o material adequado para \no fusível é o(a)\nA\testanho.\nB\tfrâncio.\nC\tprata.\nD\tsilício.\nE\tzinco.",
+  "processado_em": "2026-05-08T14:06:02.672531",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

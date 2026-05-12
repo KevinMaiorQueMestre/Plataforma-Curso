@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 46\t\nA pegada ecológica gigante que estamos a deixar \nno planeta está a transformá-lo de tal forma que os \nespecialistas consideram que já entramos numa \nnova época geológica, o Antropoceno. E muitos \ndefendem que, se não travarmos a crise ambiental, mais \nrapidamente transformaremos a Terra em Vênus do que \niremos a Marte. A expressão “Antropoceno” é atribuída \nao químico e prêmio Nobel Paul Crutzen, que a propôs \ndurante uma conferência em 2000, ao mesmo tempo \nque anunciou o fim do Holoceno — a época geológica \nem que os seres humanos se encontram há cerca de \n12 mil anos, segundo a União Internacional das Ciências \nGeológicas (UICG), a entidade que define as unidades \nde tempo geológicas.\nSILVA, R. D. Antropoceno: e se formos os últimos seres vivos \na alterar a Terra? Disponível em: www.publico.pt. \nAcesso em: 5 dez. 2017 (adaptado).\nA concepção apresentada considera a existência de uma \nnova época geológica concebida a partir da capacidade \nde influência humana nos processos\nA\t eruptivos.\nB\t exógenos.\nC\t tectônicos.\nD\t magmáticos.\nE\t metamórficos.",
+  "processado_em": "2026-05-11T23:27:24.586899",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

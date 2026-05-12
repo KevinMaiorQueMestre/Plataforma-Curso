@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 93 \nA destruição de florestas prejudica o equilíbrio climático e hídrico, podendo levar à extinção de espécies e causar outros \nefeitos imprevisíveis, como o reaparecimento de patógenos. Vírus que permaneciam latentes nas florestas podem aparecer \ne causar as viroses do tipo emergente. Ecologicamente, essa relação desarmônica entre os vírus e o homem pode causar enorme \nprejuízo para a saúde humana.\nGROSETH, A.; FELDMANN, H.; STRONG, J. E. Trends in Microbiology, v. 15, 2007 (adaptado).\nO enorme prejuízo ao hospedeiro nesse tipo de virose está associado com o(a)\nA baixa imunidade do hospedeiro.\nB alta capacidade de mutação dos vírus.\nC pouco tempo de relação entre o vírus e o hospedeiro.\nD acúmulo de substâncias tóxicas nos vírus emergentes.\nE grau elevado de especificidade dos vírus com o hospedeiro.",
+  "processado_em": "2026-05-11T23:29:39.929294",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

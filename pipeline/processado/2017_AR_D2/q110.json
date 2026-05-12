@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nO fenômeno da piracema (subida do rio) é um \nimportante mecanismo que influencia a reprodução \nde algumas espécies de peixes, pois induz o processo \nque estimula a queima de gordura e ativa mecanismos \nhormonais complexos, preparando-os para a reprodução. \nIntervenções antrópicas nos ambientes aquáticos, como \na construção de barragens, interferem na reprodução \ndesses animais.\nMALTA, P. Impacto ambiental das barragens hidrelétricas. \nDisponível em: http://futurambiental.com. \nAcesso em: 10 maio 2013 (adaptado).\nEssa intervenção antrópica prejudica a piracema porque \nreduz o(a)\nA\t percurso da migração.\nB\t longevidade dos indivíduos.\nC\t disponibilidade de alimentos.\nD\t período de migração da espécie.\nE\t número de espécies de peixes no local.",
+  "processado_em": "2026-05-11T23:25:50.266531",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 140          \nO valor cobrado por uma corrida de táxi é calculado s\nqualquer corrida, a um valor variável que depende da distâ\nUma empresa de táxi cobra pela bandeirada o valor \nsomente a bandeirada, e para corridas superiores a 200\nadicional percorrido.\nPara analisar o valor cobrado, em real, em função da\ngráfi co, com uma simulação para uma distância de 600 me\nO gráfi co que representa o valor da corrida, em real, em fu\nA\nR$\nm\n600\n4,50\n12,50\n0\nD\nB\n16,50\nm\n600\n4,50\n0\nR$\nE\nC\n8,00\n200\nR$\nm\n600\n4,50\n0",
+  "processado_em": "2026-05-08T14:03:38.094683",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

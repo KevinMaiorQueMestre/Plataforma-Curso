@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 01\t\nBRASIL. Ministério do Meio Ambiente/IBGE. Biomas. 2004 (adaptado).\nNo mapa estão representados os biomas brasileiros que, \nem função de suas características físicas e do modo de \nocupação do território, apresentam problemas ambientais \ndistintos. Nesse sentido, o problema ambiental destacado \nno mapa indica\nA\t desertificação das áreas afetadas.\nB\t poluição dos rios temporários.\nC\t queimadas dos remanescentes vegetais.\nD\t desmatamento das matas ciliares.\nE contaminação das águas subterrâneas.",
+  "processado_em": "2026-05-08T14:00:41.981806",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

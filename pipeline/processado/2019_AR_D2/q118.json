@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 118\t\nNa piscicultura, costumam-se usar larvas de \nArtemia (crustáceo) para alimentar larvas de peixes. \nOvos de Artemia são colocados em garrafas com água \nsalgada e, sob condições ótimas de temperatura, luz e \noxigênio, eles eclodem, liberando suas larvas, também \nconhecidas como náuplios. Para recolher os náuplios, \ncoloca-se uma lâmpada branca fluorescente na boca da \ngarrafa e estes começam a subir em direção ao gargalo.\nEsse comportamento das artêmias é chamado de\nA\t geotropismo positivo.\nB\t fototropismo positivo.\nC\t hidrotropismo negativo.\nD\t termotropismo negativo.\nE\t quimiotropismo negativo.",
+  "processado_em": "2026-05-11T23:27:34.065692",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

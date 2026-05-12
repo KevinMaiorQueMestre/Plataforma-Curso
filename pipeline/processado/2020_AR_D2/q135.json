@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E  20\nQuestão 135        \nA Torre Eiﬀ el, com seus 324 metros de altura, feita \ncom treliças de ferro, pesava 7 300 toneladas quando \nterminou de ser construída em 1889. Um arquiteto \nresolve construir um protótipo dessa torre em escala \n1:100, usando os mesmos materiais (cada dimensão \nlinear em escala de 1:100 do monumento real). \nConsidere que a torre real tenha uma massa Mtorre\ne exerça na fundação sobre a qual foi erguida uma \npressão Ptorre. O modelo construído pelo arquiteto terá \numa massa Mmodelo e exercerá uma pressão Pmodelo.\nComo a pressão exercida pela torre se compara  com a \npressão exercida pelo protótipo? Ou seja, qual é a razão \nentre as pressões (Ptorre)/(Pmodelo) ?\nA  100\nB  101\nC  102\nD  104\nE  106",
+  "processado_em": "2026-05-11T23:28:15.712868",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

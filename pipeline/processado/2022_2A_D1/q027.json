@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\t\nPreconceito: do latim prae, antes, e conceptus, conceito, \nesse termo pode ser definido como o conjunto de crenças \ne valores aprendidos, que levam um indivíduo ou um \ngrupo a nutrir opiniões a favor ou contra os membros de \ndeterminados grupos, antes de uma efetiva experiência \ncom eles. Tecnicamente, portanto, existe um preconceito \npositivo e um negativo, embora, nas relações raciais e \nétnicas, o termo costume se referir ao aspecto negativo \nde um grupo herdar ou gerar visões hostis a respeito de \num outro, distinguível com base em generalizações.\nEssas generalizações derivam invariavelmente da \ninformação incorreta ou incompleta a respeito do \noutro grupo.\nCASHMORE, E. Dicionário de relações étnicas e raciais. \nSão Paulo: Selo Negro, 2000 (adaptado).",
+  "processado_em": "2026-05-08T14:04:38.812042",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

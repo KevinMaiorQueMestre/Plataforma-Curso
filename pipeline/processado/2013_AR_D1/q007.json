@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 07\t\nTaxa de fecundidade total – Brasil – 1940-2010\n1930\n1940\n1950\n1960\n1970\n1980\n1990\n2000\n2010\n2020\n6,16\n6,21\n6,28\n5,76\n4,35\n2,85\n2,38\n1,90\nIBGE. Censo demográfico 2010: resultados gerais da amostra.\nDisponível em: ftp://ftp.ibge.gov.br. Acesso em: 12 mar. 2013.\nO processo registrado no gráfico gerou a seguinte \nconsequência demográfica:\nA\t Decréscimo da população absoluta.\nB\t Redução do crescimento vegetativo.\nC\t Diminuição da proporção de adultos.\nD\t Expansão de políticas de controle da natalidade.\nE\t Aumento \nda \nrenovação \nda \npopulação \neconomicamente ativa.",
+  "processado_em": "2026-05-08T14:00:08.588162",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

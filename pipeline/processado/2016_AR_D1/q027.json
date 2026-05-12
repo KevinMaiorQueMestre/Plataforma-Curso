@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\t\nEm 1935, o governo brasileiro começou a negar vistos \na judeus. Posteriormente, durante o Estado Novo, uma \ncircular secreta proibiu a concessão de vistos a “pessoas \nde origem semita”, inclusive turistas e negociantes, o que \ncausou uma queda de 75% da imigração judaica ao longo \ndaquele ano. Entretanto, mesmo com as imposições da \nlei, muitos judeus continuaram entrando ilegalmente no \npaís durante a guerra e as ameaças de deportação em \nmassa nunca foram concretizadas, apesar da extradição \nde alguns indivíduos por sua militância política.\nGRIMBERG, K. Nova língua interior: 500 anos de história dos judeus no Brasil. In: IBGE. \nBrasil: 500 anos de povoamento. Rio de Janeiro: IBGE, 2000 (adaptado).\nUma razão para a adoção da política de imigração \nmencionada no texto foi o(a)\nA\t receio do controle sionista sobre a economia nacional.\nB\t reserva de postos de trabalho para a mão de obra \nlocal.\nC\t oposição do clero católico à expansão de novas \nreligiões.\nD\t apoio da diplomacia varguista às opiniões dos \nlíderes árabes.\nE\t simpatia de membros da burocracia pelo projeto \ntotalitário alemão.",
+  "processado_em": "2026-05-08T14:01:05.342363",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 85\t\nEntão disse: “Este é o local onde construirei. Tudo \npode chegar aqui pelo Eufrates, o Tigre e uma rede de \ncanais. Só um lugar como este sustentará o exército e a \npopulação geral”. Assim ele traçou e destinou as verbas \npara a sua construção, e deitou o primeiro tijolo com sua \nprópria mão, dizendo: “Em nome de Deus, e em louvor \na Ele. Construí, e que Deus vos abençoe”.\nAL-TABARI, M. Uma história dos povos árabes. \nSão Paulo: Cia. das Letras, 1995 (adaptado).\nA decisão do califa Al-Mansur (754-775) de construir \nBagdá nesse local orientou-se pela\nA\t disponibilidade de rotas e terras férteis como base da \ndominação política.\nB\t proximidade de áreas populosas como afirmação da \nsuperioridade bélica.\nC\t submissão à hierarquia e à lei islâmica como controle \ndo poder real.\nD\t fuga da península arábica como afastamento dos \nconflitos sucessórios.\nE\t ocupação de região fronteiriça como contenção do \navanço mongol.",
+  "processado_em": "2026-05-11T23:26:41.547670",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 25\t\nA partir dos anos 1970, a diversidade étnica e cultural \nganha maior reconhecimento com movimentos culturais, tais \ncomo o “Tropicalismo”, os “Afrobahianos”, as inserções \nde referências religiosas afro-brasileiras na Bossa Nova \ne o “Teatro do Oprimido”. Tudo isso  foi antecipado pelo \nMovimento de Cultura Popular, fundado por Paulo Freire \nnos anos de 1960.\nMEDEIROS, B. T. F. Quilombos, políticas patrimoniais e negociações. In: BARRIO, A. E.; \nMOTTA, A.; GOMES, M. H. (Org.). Inovação cultural, patrimônio e educação.\nDisponível em: http://campus.usal.es. Acesso em: 4 set. 2017 (adaptado).\nEssa ideia nacionalista surgiu dos sonhos de Mário de \nAndrade e da Semana de Arte Moderna de 1922, que \nvisava o(a)\nA\t\nA\t incorporação ao patrimônio nacional das culturas \nnegra e portuguesa.\nB\t\nB\t representação das realidades social e econômica do \ninício do século.\nC\t\nC\t reflexo da igualdade mestiça nos processos de \npatrimonialização.\nD\t\nD\t ideal da diversidade cultural como categoria identitária \nnacional.\nE\t\nE\t constituição da materialidade e da multiplicidade \nsocioculturais.",
+  "processado_em": "2026-05-08T14:04:38.487553",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

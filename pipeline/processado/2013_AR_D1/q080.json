@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nEstudos de fluxo de energia em ecossistemas \ndemonstram que a alta produtividade nos manguezais \nestá diretamente relacionada às taxas de produção \nprimária líquida e à rápida reciclagem dos nutrientes. \nComo exemplo de seres vivos encontrados nesse \nambiente, temos: aves, caranguejos, insetos, peixes \ne algas.\nDos grupos de seres vivos citados, os que contribuem \ndiretamente para a manutenção dessa produtividade \nno referido ecossistema são\nA\t aves.\nB\t algas.\nC\t peixes.\nD\t insetos.\nE\t caranguejos.",
+  "processado_em": "2026-05-08T14:00:14.128046",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

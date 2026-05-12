@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 144\t\nA figura é um mosaico desenhado sobre uma malha \nquadriculada, obtido pela justaposição de um quadrilátero, \nquatro triângulos e quatro hexágonos. O quadrilátero de cor \namarela é um quadrado.\nQuantos polígonos regulares contornados por linhas contínuas \npodem ser identificados nesse desenho?\nA\t2\nB\t3\nC\t4\nD\t6\nE\t7",
+  "processado_em": "2026-05-08T14:06:52.502297",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

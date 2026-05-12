@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\t\nO trombone de Quincke é um dispositivo experimental \nutilizado para demonstrar o fenômeno da interferência \nde ondas sonoras. Uma fonte emite ondas sonoras de \ndeterminada frequência na entrada do dispositivo. Essas \nondas se dividem pelos dois caminhos (ADC e AEC) e se \nencontram no ponto C, a saída do dispositivo, onde se \nposiciona um detector. O trajeto ADC pode ser aumentado \npelo deslocamento dessa parte do dispositivo. Com o \ntrajeto ADC igual ao AEC, capta-se um som muito intenso \nna saída. Entretanto, aumentando-se gradativamente o \ntrajeto ADC, até que ele fique como mostrado na figura, a \nintensidade do som na saída fica praticamente nula. Desta \nforma, conhecida a velocidade do som no interior do tubo \n(320 m/s), é possível determinar o valor da frequência do \nsom produzido pela fonte.\nA\nC\nFonte sonora\nEntrada do som\nE\n40 cm\nD\nSaída do som\nDetector\n30 cm\n \nO valor da frequência, em hertz, do som produzido pela \nfonte sonora é\nA\t 3 200.\nB\t 1 600.\nC\t 800.\nD\t 640.\nE\t 400.",
+  "processado_em": "2026-05-11T23:25:50.390430",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

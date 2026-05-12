@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nConforme regulamento da Agência Nacional de \nAviação Civil (Anac), o passageiro que embarcar em voo \ndoméstico poderá transportar bagagem de mão, contudo \na soma das dimensões da bagagem (altura + comprimento \n+ largura) não pode ser superior a 115 cm.\nA figura mostra a planificação de uma caixa que tem a \nforma de um paralelepípedo retângulo.\n90 cm\n24 cm\nx\nO maior valor possível para x, em centímetros, para que \na caixa permaneça dentro dos padrões permitidos pela \nAnac é\nA\t 25.\nB\t 33.\nC\t 42.\nD\t 45.\nE 49",
+  "processado_em": "2026-05-08T14:00:38.988091",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

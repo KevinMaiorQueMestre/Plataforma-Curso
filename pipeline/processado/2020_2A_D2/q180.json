@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 180          \nUma pesquisa de mercado sobre produtos de higiene \ne B. Esses produtos são concentrados e, para sua utilizaç\nO quadro apresenta a comparação em relação ao \ncada produto em litro.\nProdutos\nPreço\nMarca A\nSabão líquido concentrado (1 L)\nR$ 6,00\nAlvejante concentrado (1 L)\nR$ 4,50\nAmaciante concentrado (1 L)\nR$ 4,50\nDetergente concentrado (1 L)\nR$ 1,60\nUm consumidor pretende comprar um litro de cada pro\nrelação ao rendimento.\nNessas condições, as marcas dos quatro produtos adquirid\nA \t A, A, A, B.\nB \t A, B, A, A.\nC\t B, B, B, A.\nD \t B, B, B, B.\nE B B A A",
+  "processado_em": "2026-05-08T14:03:40.556376",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

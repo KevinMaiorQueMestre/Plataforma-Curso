@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 103\t\nO curling é um dos esportes de inverno mais antigos e tradicionais. No jogo, dois times com quatro pessoas \ntêm de deslizar pedras de granito sobre uma área marcada de gelo e tentar colocá-las o mais próximo possível \ndo centro. A pista de curling é feita para ser o mais nivelada possível, para não interferir no decorrer do jogo. Após \no lançamento, membros da equipe varrem (com vassouras especiais) o gelo imediatamente à frente da pedra, \nporém sem tocá-la. Isso é fundamental para o decorrer da partida, pois influi diretamente na distância percorrida \ne na direção do movimento da pedra. Em um lançamento retilíneo, sem a interferência dos varredores, \nverifica-se que o módulo da desaceleração da pedra é superior se comparado à desaceleração da mesma pedra \nlançada com a ação dos varredores.\nDisponível em: http://cbdg.org.br. Acesso em: 29 mar. 2016 (adaptado).\nA menor desaceleração da pedra de granito ocorre porque a ação dos varredores diminui o módulo da\nA\t força motriz sobre a pedra.\nB\t força de atrito cinético sobre a pedra.\nC\t força peso paralela ao movimento da pedra.\nD\t força de arrasto do ar que atua sobre a pedra.\nE\t força de reação normal que a superfície exerce sobre a pedra.",
+  "processado_em": "2026-05-11T23:27:08.485386",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

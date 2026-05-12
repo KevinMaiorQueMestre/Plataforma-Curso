@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 101\t\nA icterícia é uma doença que acomete recém-nascidos e \npode ser tratada com um método de fototerapia conhecido como \nbanho de luz, que consiste na exposição do recém-nascido a uma \nfonte luminosa equipada com LEDs azuis. Para o monitoramento \nda dosagem dessa radiação, é utilizada a resposta óptica de um \nsensor constituído de materiais orgânicos que luminescem quando \nexpostos à luz azul. Com o passar do tempo, essa radiação oxida os \nmateriais do sensor, alterando sua coloração de vermelho-laranja \npara verde, o que indica o final do tratamento.\nO gráfico apresenta o espectro de fotoluminescência do sensor \nem função do comprimento de onda da luz emitida no início do \ntratamento, quando o sensor, colado na fralda do bebê (Figura 1), \nluminesce na região do vermelho-laranja (∼600 nm). A Figura 2 \napresenta a evolução da coloração do sensor, mostrando que a \nfrequência da luz emitida por ele aumenta em função do tempo de \nexposição à luz azul.\nSILVA, M. M. et al. Fabricação de sensor orgânico flexível para aplicação \nem terapia com luz azul. Tecnol. Metal. Mater. Miner., \nn. 3, jul.-set. 2011 (adaptado).",
+  "processado_em": "2026-05-08T14:07:05.182270",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

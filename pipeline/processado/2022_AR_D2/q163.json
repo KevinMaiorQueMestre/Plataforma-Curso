@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nO professor de artes orientou seus estudantes a realiz\n•\t Dobrar uma folha de papel em formato quadrado d\nconforme ilustrado nas figuras 1 e 2, para obter o pa\nFigura 1\nF\n\n•\t Em seguida, no papel dobrado da Figura 3, consid\nmédio do lado do quadrado original, de modo qu\nmedindo 1\n2 OM com centro no ponto R, obtendo a\nde circunferência e excluir a parte que contém o s\nR\nO\nM\nFigura 4\nApós desdobrado o papel que restou na Figura 5, a figura \nA\nB\nD\nE",
+  "processado_em": "2026-05-08T14:05:12.577888",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

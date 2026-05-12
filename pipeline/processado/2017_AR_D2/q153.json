@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nNum dia de tempestade, a alteração na profundidade \nde um rio, num determinado local, foi registrada durante \num período de 4 horas. Os resultados estão indicados no \ngráfico de linhas. Nele, a profundidade h, registrada às \n13 horas, não foi anotada e, a partir de h, cada unidade \nsobre o eixo vertical representa um metro.\nHora\n0\nProfundidade (m)\nRegistro de profundidade\n13\n14\n15\n16\n17\nFoi informado que entre 15 horas e 16 horas, a \nprofundidade do rio diminuiu em 10%.\nÀs 16 horas, qual é a profundidade do rio, em metro, no \nlocal onde foram feitos os registros?\nA\t 18\nB\t 20\nC\t 24\nD\t 36\nE\t 40",
+  "processado_em": "2026-05-11T23:25:53.528358",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

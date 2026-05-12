@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 24\t\nBlues da piedade\nVamos pedir piedade \nSenhor, piedade \nPra essa gente careta e covarde \nVamos pedir piedade \nSenhor, piedade \nLhes dê grandeza e um pouco de coragem\nCAZUZA. Cazuza: o poeta não morreu. Rio de Janeiro: \nUniversal Music, 2000 (fragmento).\nTodo gênero apresenta elementos constitutivos que \ncondicionam seu uso em sociedade. A letra de canção \nidentifica-se com o gênero ladainha, essencialmente, \npela utilização da sequência textual\nA\t expositiva, por discorrer sobre um dado tema.\nB\t narrativa, por apresentar uma cadeia de ações.\nC\t injuntiva, por chamar o interlocutor à participação.\nD\t descritiva, \npor \nenumerar \ncaracterísticas \nde \num personagem.\nE\t argumentativa, por incitar o leitor a uma tomada \nde atitude.",
+  "processado_em": "2026-05-11T23:27:22.310129",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nHidrocarbonetos podem ser obtidos em laboratório \npor \ndescarboxilação \noxidativa \nanódica, \nprocesso \nconhecido como eletrossíntese de Kolbe. Essa reação \né utilizada na síntese de hidrocarbonetos diversos, a \npartir de óleos vegetais, os quais podem ser empregados \ncomo fontes alternativas de energia, em substituição \naos \nhidrocarbonetos \nfósseis. \nO \nesquema \nilustra \nsimplificadamente esse processo.\n2\nO\nOH\n+\n2  CO2\neletrólise\nKOH\nmetanol\nAZEVEDO, D. C.; GOULART, M. O. F. Estereosseletividade em reações eletródicas. \nQuímica Nova, n. 2, 1997 (adaptado).\nCom base nesse processo, o hidrocarboneto produzido \nna eletrólise do ácido 3,3-dimetil-butanoico é o\nA\t 2,2,7,7-tetrametil-octano.\nB\t 3,3,4,4-tetrametil-hexano.\nC\t 2,2,5,5-tetrametil-hexano.\nD\t 3,3,6,6-tetrametil-octano.\nE\t 2,2,4,4-tetrametil-hexano.",
+  "processado_em": "2026-05-08T14:00:48.393296",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

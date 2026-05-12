@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\nO cidadão norte-americano desperta num leito \nconstruído segundo padrão originário do Oriente Próximo, \nmas modificado na Europa Setentrional antes de ser \ntransmitido à América. Sai debaixo de cobertas feitas \nde algodão cuja planta se tornou doméstica na Índia. \nNo restaurante, toda uma série de elementos tomada de \nempréstimo o espera. O prato é feito de uma espécie de \ncerâmica inventada na China. A faca é de aço, liga feita \npela primeira vez na Índia do Sul; o garfo é inventado \nna Itália medieval; a colher vem de um original romano. \nLê notícias do dia impressas em caracteres inventados \npelos antigos semitas, em material inventado na China e \npor um processo inventado na Alemanha.\nLINTON, R. O homem: uma introdução à antropologia. São Paulo: Martins, 1959 (adaptado).\nA situação descrita é um exemplo de como os costumes \nresultam da\nA\t assimilação de valores de povos exóticos.\nB\t experimentação de hábitos sociais variados.\nC\t recuperação de heranças da Antiguidade Clássica.\nD\t fusão de elementos de tradições culturais diferentes.\nE\t valorização \nde \ncomportamento \nde \ngrupos \npri ilegiados",
+  "processado_em": "2026-05-08T14:00:27.347897",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

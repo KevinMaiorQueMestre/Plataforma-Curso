@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\t\nUma torneira do tipo 1\n4  de volta é mais econômica, já \nque seu registro abre e fecha bem mais rapidamente do \nque o de uma torneira comum. A figura de uma torneira",
+  "processado_em": "2026-05-11T23:26:22.821579",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

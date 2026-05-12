@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nO mito de Sísifo explora a noção de “o absurdo”, que \nCamus descreve alternativamente como sendo a condição \nhumana e, ao mesmo tempo, uma difusa sensibilidade \ndo nosso tempo. Sísifo, condenado pelos deuses a uma \ninfindável e fútil tarefa de rolar uma pedra montanha acima \n(donde ela haveria de rolar montanha abaixo pelo seu próprio \npeso), torna-se, assim, um exemplar da condição humana, \nlutando desesperada e impotentemente para alcançar algo.\nSOLOMON, R. C. In: AUDI, R. Dicionário de filosofia de Cambridge. \nSão Paulo: Paulus, 2006 (adaptado).\nO absurdo da condição humana, representado pela \nalegoria contida no texto, fundamenta-se na\nA\tconfrontação da irracionalidade do real.\nB\tnegação da materialidade do mundo.\nC\trejeição da ideia de responsabilidade.\nD\tinsuficiência da teoria da transcendência.\nE impossibilidade da existência de intersubjetividade",
+  "processado_em": "2026-05-08T14:05:57.588960",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

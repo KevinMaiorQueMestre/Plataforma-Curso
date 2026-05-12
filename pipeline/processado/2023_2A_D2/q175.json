@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nA tartaruga ou tachão de trânsito é um dispositivo de \nsinalização horizontal utilizado para canalizar o tráfego \nou garantir o afastamento do fluxo de veículos de zonas \nperigosas ou com grande risco de acidentes. A Figura 1 \napresenta alguns deles já instalados.\nFigura 1\nDisponível em: www.alfasinalizacao.com.br. Acesso em: 28 nov. 2021 (adaptado).\nO modelo geométrico de um tachão está representado \nna Figura 2. Ele é formado por duas faces retangulares \nparalelas e quatro faces trapezoidais. Suas arestas \nlaterais, se prolongadas, concorrem em um mesmo ponto.\nFigura 2\nQual é o sólido representado pelo modelo geométrico \ndo tachão?\nA\t\nA\t Paralelepípedo reto.\nB\t\nB\t Paralelepípedo oblíquo.\nC\t\nC\t Pirâmide quadrangular.\nD\t\nD\t Tronco de pirâmide hexagonal.\nE\t\nE\t Tronco de pirâmide quadrangular.",
+  "processado_em": "2026-05-08T14:05:28.932818",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

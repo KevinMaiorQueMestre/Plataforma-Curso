@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 142\t\nUma pessoa necessita armazenar uma quantidade V de \nlíquido e possui um recipiente no formato de cilindro circular reto, \ncom raio da base medindo r, o qual comporta apenas 4\n9  dessa \nquantidade. Essa pessoa comprou, então, um novo recipiente \nno mesmo formato, com raio da base medindo R, mantendo \na mesma medida da área lateral do primeiro recipiente, e que \ncomporta exatamente a quantidade V de líquido.\nA razão R\nr  entre os raios dos dois recipientes é\nA\t 4\n9\nB\t 5\n9\nC\t 5\n4\nD\t 3\n2\nE\t 9\n4",
+  "processado_em": "2026-05-08T14:06:52.352719",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

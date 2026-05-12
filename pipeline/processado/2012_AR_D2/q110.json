@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 110\t\nE como manejava bem os cordéis de seus títeres, \nou ele mesmo, títere voluntário e consciente, como \nentregava o braço, as pernas, a cabeça, o tronco, como \nse desfazia de suas articulações e de seus reflexos \nquando achava nisso conveniência. Também ele soubera \napoderar-se dessa arte, mais artifício, toda feita de \nsutilezas e grosserias, de expectativa e oportunidade, \nde insolência e submissão, de silêncios e rompantes, \nde anulação e prepotência. Conhecia a palavra exata \npara o momento preciso, a frase picante ou obscena no \nambiente adequado, o tom humilde diante do superior \nútil, o grosseiro diante do inferior, o arrogante quando \no poderoso em nada o podia prejudicar. Sabia desfazer \nsituações equívocas, e armar intrigas das quais se saía \nsempre bem, e sabia, por experiência própria, que a \nfortuna se ganha com uma frase, num dado momento, \nque este momento único, irrecuperável, irreversível, exige \num estado de alerta para a sua apropriação.",
+  "processado_em": "2026-05-08T13:59:29.176507",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

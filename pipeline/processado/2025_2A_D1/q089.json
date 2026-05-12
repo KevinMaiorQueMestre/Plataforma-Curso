@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 89 \nA arquitetura global de conectividade, construída nos \núltimos 60 anos, ainda deixa diversas regiões do planeta sem \ncobertura de fibra ótica e internet fixa. É o caso de alguns países \nafricanos e muitas periferias brasileiras. Ademais, pode-se \ninferir que a atual provisão de infraestrutura de Tecnologias \nde Informação e Comunicação (TICs) obedece a padrões de \ndesigualdades socioespaciais históricas: regiões de maior renda \nper capita são mais bem atendidas por provedores e operadoras. \nFinalmente, a grande densidade de cabos submarinos atendendo \nEstados Unidos da América, Europa e Sudeste Asiático denota \na predominância econômica desses locais.\nGIRARD, L. A transformação digital das cidades e a visão do urbanismo. \nDisponível em: www.cest.poli.usp.br. Acesso em: 14 out. 2021 (adaptado).\nConforme o texto, a internet insere-se no mundo globalizado \ncomo um sistema de\nA práticas culturais.\nB interação cotidiana.\nC fluxos assimétricos.\nD formação profissional.\nE transações comerciais.",
+  "processado_em": "2026-05-08T14:06:31.065197",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

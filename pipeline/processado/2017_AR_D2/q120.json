@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nDiversos produtos naturais podem ser obtidos de \nplantas por processo de extração. O lapachol é da classe \ndas naftoquinonas. Sua estrutura apresenta uma hidroxila \nenólica (pKa = 6,0) que permite que este composto seja \nisolado da serragem dos ipês por extração com solução \nadequada, seguida de filtração simples. Considere que \npKa = −log Ka, em que Ka é a constante ácida da reação \nde ionização do lapachol.\nOH\nO\nO\nLapachol\nCOSTA, P. R. R. et al. Ácidos e bases em química orgânica. \nPorto Alegre: Bookman, 2005 (adaptado).\nQual solução deve ser usada para extração do lapachol \nda serragem do ipê com maior eficiência?\nA\t Solução de Na2CO3 para formar um sal de lapachol.\nB\t Solução-tampão ácido acético/acetato de sódio \n(pH = 4,5).\nC\t Solução de NaCl a fim de aumentar a força iônica \ndo meio.\nD\t Solução de Na2SO4 para formar um par iônico com \nlapachol.\nE\t Solução de HCl a fim de extraí-lo por meio de reação \nácido-base.",
+  "processado_em": "2026-05-11T23:25:50.859556",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

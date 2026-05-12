@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 74 \nAtos de revolta marcaram os primeiros dias do ano de 1880 no \nRio de Janeiro. Esses dias de verão foram dias confusos e incertos. \nComícios públicos, destinados a protestar contra o imposto de \num vintém sobre as passagens de bondes urbanos, acabaram em \nviolência nas ruas. O confronto armado entre os manifestantes e as \nautoridades persistiu por umas poucas horas somente, mas, assim \nmesmo, o Motim do Vintém marcou profunda e duradouramente \na vida política, tanto da cidade quanto do Império.\nGRAHAM, S. O Motim do Vintém e a cultura política no Rio de Janeiro - 1880. \nRevista Brasileira de História n 20 mar-ago 1991",
+  "processado_em": "2026-05-08T14:06:30.340623",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

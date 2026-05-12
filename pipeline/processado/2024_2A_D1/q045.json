@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q045",
+  "imagem": "q045.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 45,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 45\t\nDisponível em: https://revistareacao.com.br. \nAcesso em: 11 jan. 2024 (adaptado).\nNesse cartaz, a articulação do texto verbal com imagens de \npeças de quebra-cabeça corrobora a ideia de que é preciso\nA\trespeitar as singularidades de cada criança para evitar \npreconceitos.\nB\trestringir brincadeiras para resguardar a criança de riscos.\nC\tassegurar proteção às crianças contra os perigos da vida.\nD\tobservar os comportamentos desafiadores das crianças.\nE\tenfrentar os desafios da educação das crianças.",
+  "processado_em": "2026-05-08T14:05:54.353465",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

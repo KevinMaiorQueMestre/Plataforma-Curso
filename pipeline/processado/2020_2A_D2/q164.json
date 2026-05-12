@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 164          \nUm motorista fez uma viagem de 100 km partindo \nda cidade A até a cidade B. Nos primeiros 30 km, a \nvelocidade média na qual esse motorista viajou foi de \n90 km/h. No segundo trecho, de 40 km, a velocidade \nmédia foi de 80 km/h. Suponha que a viagem foi realizada \nem 1 h 30 min.\nA velocidade média do motorista, em quilômetro por hora, \nno último trecho da viagem foi de\nA \t 45.\nB \t 67.\nC \t 77.\nD \t 85.\nE \t 113.",
+  "processado_em": "2026-05-08T14:03:39.420378",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

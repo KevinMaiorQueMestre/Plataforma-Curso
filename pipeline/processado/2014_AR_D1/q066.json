@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nA elevação da temperatura das águas de rios, lagos \ne mares diminui a solubilidade do oxigênio, pondo em \nrisco as diversas formas de vida aquática que dependem \ndesse gás. Se essa elevação de temperatura acontece \npor meios artificiais, dizemos que existe poluição térmica. \nAs usinas nucleares, pela própria natureza do processo de \ngeração de energia, podem causar esse tipo de poluição.\nQue parte do ciclo de geração de energia das usinas \nnucleares está associada a esse tipo de poluição?\nA\t Fissão do material radioativo.\nB\t Condensação do vapor-d’água no final do processo.\nC\t Conversão de energia das turbinas pelos geradores.\nD\t Aquecimento da água líquida para gerar vapor-d’água.\nE\t Lançamento do vapor-d’água sobre as pás das \nturbinas.",
+  "processado_em": "2026-05-08T14:00:31.037663",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

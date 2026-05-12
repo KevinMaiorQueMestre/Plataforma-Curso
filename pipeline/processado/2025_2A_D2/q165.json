@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 165 \nUm empresário pretende construir uma piscina no seu hot\ncinco possíveis modelos de piscinas, todos com 2 m de profun\n• I: prisma triangular, com medidas das arestas da base igu\n• II: prisma triangular regular, com medida da aresta da ba\n• III: prisma quadrangular regular, com medida da aresta d\n• IV: prisma hexagonal regular, com medida da aresta da b\n• V: cilindro circular reto, com medida do raio da base igua\nO empresário escolherá o modelo de menor volume.\nUse 1,7 como valor aproximado para \n3  e 3 como valor a\nO modelo a ser escolhido pelo empresário será o\nA I.\nB II.\nC III.\nD IV.\nE V.",
+  "processado_em": "2026-05-08T14:06:38.075907",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

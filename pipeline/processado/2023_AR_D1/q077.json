@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nHavia já muito tempo que a Europa desfrutava os \nbenefícios da vacina e arrancava à morte milhares de \ninocentes, condenados a serem vítimas do terrível flagelo \ndas bexigas, e o governo de Portugal nunca se lembrara de \ntransmitir ao Brasil a mais útil das descobertas humanas, \nquando aliás nenhum país mais do que ele carecia deste \nsalutar invento ou se atendesse às vantagens da população \nou ao perdimento de imensas somas na mortandade \ncontínua de escravos, que este flagelo devorava. O certo \né que mais ocupado de seu ouro que de seus habitantes, \nPortugal, como em outros muitos casos, esperou que o \nBrasil por seu próprio impulso remediasse a este mal.\nPEREIRA, J. C. 12 jan. 1828 apud LOPES, M. B.; POLITO, R. Para uma história \nda vacina no Brasil: um manuscrito inédito de Norberto e Macedo. História, \nCiências, Saúde — Manguinhos, n. 2, abr.-jun. 2007 (adaptado).\nEscrito em 1828, o texto expressa a seguinte ideia de \norigem iluminista:\nA\t\nA\t As leis observáveis regem o mundo material.\nB\t\nB\t O monarca racional promove a sociedade justa.\nC\t\nC\t O direito natural justifica a liberdade dos homens.\nD\t\nD\t A produção da terra garante a riqueza das nações.\nE\t\nE\t A responsabilidade dos governantes assegura a saúde \ndos povos.",
+  "processado_em": "2026-05-08T14:05:39.313780",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

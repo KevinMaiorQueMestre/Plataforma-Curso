@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 168          \nUma formiga move-se sobre um castiçal de vidro trans\ncircular BCD, sendo C localizado na parte da frente do cas\nB\nA\nC\nE\nOs pontos A, B, D e E estão sobre um mesmo plano p\n A projeção ortogonal, sobre o plano da mesa, do trajeto p\nrepresentada por\nA \nA\nB\nC\nD\nE\nB \nA\nB\nC\nD\nE\nC \nA\nB\nC\nD\nE\nD \nA\nB\nC\nD\nE\nE \nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:03:39.840699",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

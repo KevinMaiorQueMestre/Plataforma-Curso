@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 86\t\nEmpédocles estabelece quatro elementos corporais \n— fogo, ar, água e terra —, que são eternos e que mudam \naumentando e diminuindo mediante mistura e separação; \nmas os princípios propriamente ditos, pelos quais aqueles \nsão movidos, são o Amor e o Ódio. Pois é preciso que os \nelementos permaneçam alternadamente em movimento, \nsendo ora misturados pelo Amor, ora separados pelo Ódio. \nSIMPLÍCIO. Física, 25, 21. In: Os pré-socráticos. São Paulo: Nova Cultural, 1996.\nO texto propõe uma reflexão sobre o entendimento de \nEmpédocles acerca da arché, uma preocupação típica do \npensamento pré-socrático, porque\nA\t\nA\t exalta a investigação filosófica.\nB\t\nB\t transcende ao mundo sensível.\nC\t\nC\t evoca a discussão cosmogônica.\nD\t\nD\t fundamenta as paixões humanas.\nE\t\nE\t corresponde à explicação mitológica.",
+  "processado_em": "2026-05-08T14:05:05.859182",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

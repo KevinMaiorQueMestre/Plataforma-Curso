@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\t\nUm biólogo foi convidado para realizar um estudo do possível crescimento de populações de roedores em cinco \ndiferentes regiões impactadas pelo desmatamento para ocupação humana, o que poderia estar prejudicando a \nprodução e armazenagem local de grãos. Para cada uma das cinco populações analisadas (I a V), identificou as \ntaxas de natalidade (n), mortalidade (m), emigração (e) e imigração (i), em número de indivíduos, conforme ilustrado \nno quadro.\nn\nm\ne\ni\nI\n65\n40\n23\n5\nII\n27\n8\n18\n2\nIII\n54\n28\n15\n16\nIV\n52\n25\n12\n40\nV\n12\n9\n6\n4\nEm longo prazo, se essas taxas permanecerem constantes, qual dessas regiões deverá apresentar maiores prejuízos \nna produção/armazenagem de grãos?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-11T23:26:19.745390",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

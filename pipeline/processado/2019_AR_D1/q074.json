@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 74\t\nPenso que não há um sujeito soberano, fundador, \numa forma universal de sujeito que poderíamos \nencontrar em todos os lugares. Penso, pelo contrário, \nque o sujeito se constitui através das práticas de \nsujeição ou, de maneira mais autônoma, através de práticas \nde liberação, de liberdade, como na Antiguidade — a partir, \nobviamente, de um certo número de regras, de estilos, \nque podemos encontrar no meio cultural.\nFOUCAULT, M. Ditos e escritos V: ética, sexualidade, política. \nRio de Janeiro: Forense Universitária, 2004.\nO texto aponta que a subjetivação se efetiva numa dimensão\nA\t legal, pautada em preceitos jurídicos.\nB\t racional, baseada em pressupostos lógicos.\nC\t contingencial, processada em interações sociais.\nD\t transcendental, efetivada em princípios religiosos.\nE\t essencial, \nfundamentada \nem \nparâmetros \nsubstancialistas.",
+  "processado_em": "2026-05-11T23:27:26.257555",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

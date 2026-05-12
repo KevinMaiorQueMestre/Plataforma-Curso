@@ -20,6 +20,7 @@ import { ptBR } from "date-fns/locale/pt-BR";
 import { createClient } from "@/utils/supabase/client";
 import { motion, AnimatePresence } from "framer-motion";
 import { toast } from "sonner";
+import { useGlobalPresence } from "@/components/GlobalPresenceProvider";
 
 // --- CUSTOM DROPDOWN ---
 function CustomDropdown({
@@ -124,7 +125,7 @@ export default function HomePage() {
   const [wallPosts, setWallPosts] = useState<any[]>([]);
   const [newPostText, setNewPostText] = useState("");
   const [isPosting, setIsPosting] = useState(false);
-  const [onlineUsers, setOnlineUsers] = useState<any[]>([]);
+  const { onlineUsers } = useGlobalPresence();
   const [selectedEventId, setSelectedEventId] = useState<string | null>(() => {
     if (typeof window !== 'undefined') {
       return localStorage.getItem('home_selectedEventId') || null;
@@ -180,7 +181,7 @@ export default function HomePage() {
     setIsLoaded(true);
   }, []);
 
-  // 3. Sistema de Realtime (Presença e Mural)
+  // 3. Sistema de Realtime (Mural)
   useEffect(() => {
     if (!userId) return;
 
@@ -194,44 +195,9 @@ export default function HomePage() {
       })
       .subscribe();
 
-    // Presence Channel
-    const presenceChannel = supabase.channel('online-hub', {
-      config: {
-        presence: { key: userId },
-      },
-    });
-
-    presenceChannel
-      .on('presence', { event: 'sync' }, () => {
-        if (!mounted) return;
-        const newState = presenceChannel.presenceState();
-        const users = Object.values(newState).flat().map((p: any) => ({
-          id: p.user_id,
-          nome: p.nome,
-          avatar_url: p.avatar_url,
-          last_seen: new Date().toISOString()
-        }));
-        const uniqueUsers = Array.from(new Map(users.map(u => [u.id, u])).values());
-        setOnlineUsers(uniqueUsers);
-      })
-      .subscribe(async (status) => {
-        if (status === 'SUBSCRIBED' && mounted) {
-          const { data: profile } = await supabase.from('profiles').select('nome, avatar_url').eq('id', userId).single();
-          if (mounted) {
-            await presenceChannel.track({
-              user_id: userId,
-              nome: profile?.nome || 'Estudante',
-              avatar_url: profile?.avatar_url,
-              online_at: new Date().toISOString(),
-            });
-          }
-        }
-      });
-
     return () => {
       mounted = false;
       supabase.removeChannel(muralChannel);
-      supabase.removeChannel(presenceChannel);
     };
   }, [userId]);
 
@@ -756,7 +722,7 @@ export default function HomePage() {
                 </p>
                 <div className="flex -space-x-3 overflow-hidden">
                    {onlineUsers.slice(0, 5).map((user, idx) => (
-                     <div key={user.id || idx} className="w-10 h-10 rounded-full bg-slate-100 dark:bg-[#2C2C2E] border-4 border-white dark:border-[#1C1C1E] flex items-center justify-center text-xs font-black text-slate-400 overflow-hidden" title={user.nome}>
+                     <div key={user.user_id || idx} className="w-10 h-10 rounded-full bg-slate-100 dark:bg-[#2C2C2E] border-4 border-white dark:border-[#1C1C1E] flex items-center justify-center text-xs font-black text-slate-400 overflow-hidden" title={user.nome}>
                         {user.avatar_url ? (
                           <img src={user.avatar_url} className="w-full h-full object-cover" />
                         ) : (

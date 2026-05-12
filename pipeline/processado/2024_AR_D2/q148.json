@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nUm aeroporto disponibiliza o serviço de transporte gratu\npartem simultaneamente, de hora em hora, de terminais d\ne o percurso total dos ônibus, de um terminal ao outro, é \ndiferentes partes do trecho, conforme o esquema.\nO alcance de cada uma das cinco câmeras é:\n•\t câmera I: 1\n5\n do percurso;\n•\t câmera II: 3\n10  do percurso;\n•\t câmera III: 1\n10\n do percurso;\n•\t câmera IV: 1\n10  do percurso;\n•\t câmera V: 3\n10\n do percurso.\nEm determinado horário, o ônibus A parte do termina\n250 m/min; enquanto o ônibus B, que parte do terminal 2, rea\nQual câmera registra o momento em que os ônibus A e B \nA\tI\nB\tII\nC\tIII\nD\tIV\nE\tV",
+  "processado_em": "2026-05-08T14:06:20.038212",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

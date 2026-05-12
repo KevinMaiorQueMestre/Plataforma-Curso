@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 103                \nA obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro.\nEtapa\nSubetapa\nO que ocorre\nPreparação da \nmatéria-prima\nSeleção dos grãos\nSeparação das sujidades mais grossas\nDescascamento\nSeparação de polpa e casca\nTrituração\nRompimento dos tecidos e das paredes das células\nCozimento\nAumento da permeabilidade das membranas celulares\nExtração do \nóleo bruto\nPrensagem\nRemoção parcial do óleo\nExtração\nObtenção do óleo bruto com hexano\nDestilação\nSeparação do óleo e do solvente\n \nQual das subetapas do processo é realizada em função apenas da polaridade das substâncias?\nA \t Trituração.\nB \t Cozimento.\nC \t Prensagem.\nD \t Extração.\nE \t Destilação.",
+  "processado_em": "2026-05-11T23:28:13.429759",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

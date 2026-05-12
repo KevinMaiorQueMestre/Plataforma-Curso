@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 25\t\nA promessa da tecnologia moderna se converteu \nem uma ameaça, ou esta se associou àquela de forma \nindissolúvel. Ela vai além da constatação da ameaça \nfísica. Concebida para a felicidade humana, a submissão \nda natureza, na sobremedida de seu sucesso, que agora \nse estende à própria natureza do homem, conduziu \nao maior desafio já posto ao ser humano pela sua \nprópria ação. O novo continente da práxis coletiva que \nadentramos com a alta tecnologia ainda constitui, para a \nteoria ética, uma terra de ninguém.\nJONAS, H. O princípio da responsabilidade. Rio de Janeiro: \nContraponto; Editora PUC-Rio, 2011 (adaptado).\nAs implicações éticas da articulação apresentada no texto \nimpulsionam a necessidade de construção de um novo \npadrão de comportamento, cujo objetivo consiste em \ngarantir o(a)\nA\t pragmatismo da escolha individual.\nB\t sobrevivência de gerações futuras.\nC\t fortalecimento de políticas liberais.\nD\t valorização de múltiplas etnias.\nE\t promoção da inclusão social.",
+  "processado_em": "2026-05-08T14:01:04.866546",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

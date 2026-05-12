@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 54\t\nO uso de embalagens plásticas descartáveis \nvem crescendo em todo o mundo, juntamente com \no problema ambiental gerado por seu descarte \ninapropriado. O politereftalato de etileno (PET), \ncuja estrutura é mostrada, tem sido muito utilizado \nna indústria de refrigerantes e pode ser reciclado \ne reutilizado. Uma das opções possíveis envolve a \nprodução de matérias-primas, como o etilenoglicol \n(1,2-etanodiol), a partir de objetos compostos de PET \npós-consumo.\nHO\nC\nC O CH2 CH2 O\nH\nn\nO\nO\nDisponível em: www.abipet.org.br. Acesso em: 27 fev. 2012 (adaptado).\nCom base nas informações do texto, uma alternativa para \na obtenção de etilenoglicol a partir do PET é a\nA\t solubilização dos objetos.\nB\t combustão dos objetos.\nC\t trituração dos objetos.\nD\t hidrólise dos objetos.\nE f\nã\nd\nbj",
+  "processado_em": "2026-05-08T14:00:12.756270",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

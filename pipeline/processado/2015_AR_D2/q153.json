@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nAs exportações de soja do Brasil totalizaram \n4,129 milhões de toneladas no mês de julho de 2012, \ne registraram um aumento em relação ao mês de julho \nde 2011, embora tenha havido uma baixa em relação \nao mês de maio de 2012.\nDisponível em: www.noticiasagricolas.com.br. Acesso em: 2 ago. 2012.\nA quantidade, em quilogramas, de soja exportada pelo \nBrasil no mês de julho de 2012 foi de\nA\t 4,129 × 103\nB\t 4,129 × 106\nC\t 4,129 × 109\nD\t 4,129 × 1012\nE\t 4,129 × 1015",
+  "processado_em": "2026-05-08T14:00:57.328288",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

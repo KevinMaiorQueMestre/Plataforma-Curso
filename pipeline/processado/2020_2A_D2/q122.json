@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 122          \nO propranolol é um fármaco pouco solúvel em água util\nQuando essa substância é tratada com uma quantidade est\nde maior basicidade reage com o próton levando à formaç\nPro\nO\nGONSALVES, A. A. et al. Contextualizando reações ácido-base de \nO ácido de Brönsted-Lowry reage com\nA \t a hidroxila alcoólica.\nB \t os anéis aromáticos.\nC \t as metilas terminais.\nD \t o grupamento amina.\nE o oxigênio do grupamento éter",
+  "processado_em": "2026-05-08T14:03:37.187494",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

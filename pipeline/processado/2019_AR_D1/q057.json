@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 57\t\nRegiões áridas e semiáridas do mundo\n30° N\nTrópico \nde Câncer\n0° Equador\nTrópico \nde Capricórnio\n30° S\nSEMIÁRIDA\nÁRIDA (DESERTO)\nSALGADO-LABOURIAL, M. L. História ecológica da Terra. \nSão Paulo: Edgard Blucher, 1994 (adaptado).\nNo Hemisfério Sul, a sequência latitudinal dos desertos \nrepresentada na imagem sofre uma interrupção no Brasil \ndevido à seguinte razão:\nA\t Existência de superfícies de intensa refletividade.\nB\t Preponderância de altas pressões atmosféricas.\nC\t Influência de umidade das áreas florestais.\nD\t Predomínio de correntes marinhas frias.\nE Ausência de massas de ar continentais.",
+  "processado_em": "2026-05-11T23:27:25.366141",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

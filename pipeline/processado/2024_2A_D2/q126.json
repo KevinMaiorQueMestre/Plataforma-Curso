@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nTendo em vista a necessidade de economia de ene\nalternativa econômica. Esses dispositivos utilizam a evap\nesquematizado na figura.\nO ar externo (quente) é aspirado para o interior do p\ntemperatura diminuída. Umidificado e mais frio, o ar é em\né a redução de temperatura produzida pelo climatizador, \nde temperatura produzida por um desses aparelhos, em f\nrelativa (UR) percentual; enquanto a Tabela 2 apresenta o\nar de cinco cidades brasileiras, no mês de setembro.\nTab\nTemperatura de entrada do ar (°C)\n25,5\n26,0\nUmidade relativa do ar (%)\n30 a 39\n8,6\n8,7\n40 a 49\n7,1\n7,2\n50 a 59\n5,6\n5,7\n60 a 69\n4,5\n4,6\n70 a 80\n2,5\n2,5\nTab\nCidade\nT (\nBarbalha (CE)\n26\nBelém (PA)\n27\nCáceres (MT)\n28\nCorumbá (MS)\n27\nJanaúba (MG)\n25\nDisponível em: https://pt.climat\nConsiderando os dados apresentados para o mês de s\nmais eficiente?\nA\tBarbalha.\nB\tBelém.\nC\tCáceres.\nD\tCorumbá.\nE Janaúba",
+  "processado_em": "2026-05-08T14:06:02.945172",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

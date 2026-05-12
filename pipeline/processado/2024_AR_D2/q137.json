@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\t\nA umidade relativa do ar é um dos indicadores utilizados \nna meteorologia para fazer previsões sobre o clima. \nO quadro apresenta as médias mensais, em porcentagem, \nda umidade relativa do ar em um período de seis meses \nconsecutivos em uma cidade.\nMeses\nMaio Jun.\nJul.\nAgo.\nSet.\nOut.\nMédia mensal da \numidade relativa \ndo ar (%)\n66\n64\n54\n46\n60\n64\nNessa cidade, a mediana desses dados, em porcentagem, \nda umidade relativa do ar no período considerado foi\nA\t56.\nB\t58.\nC\t59.\nD\t60.\nE\t62.",
+  "processado_em": "2026-05-08T14:06:19.463253",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

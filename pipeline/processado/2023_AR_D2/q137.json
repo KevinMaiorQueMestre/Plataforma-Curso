@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\t\nO mastro de uma bandeira foi instalado \nperpendicularmente ao solo em uma região plana. \nDevido aos fortes ventos, três cabos de aço, de mesmo \ncomprimento, serão instalados para dar sustentação ao \nmastro. Cada cabo de aço ficará perfeitamente esticado, \ncom uma extremidade num ponto P do mastro, a uma \naltura h do solo, e a outra extremidade, num ponto no \nchão, como mostra a figura.\nh\nP\nα\nα\nα\nOs cabos de aço formam um ângulo a com o plano \ndo chão.\nPor medida de segurança, há apenas três opções de \ninstalação:\n•\t opção I: h = 11 m e a = 30°\n•\t opção II: h = 12 m e a = 45°\n•\t opção III: h = 18 m e a = 60°",
+  "processado_em": "2026-05-08T14:05:45.253382",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

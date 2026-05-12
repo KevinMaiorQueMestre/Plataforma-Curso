@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 78\t\nOs movimentos da agricultura urbana no Rio de \nJaneiro vêm crescendo nos últimos vinte anos, tanto \npor meio de reproduções de modelos de vida antigos, \nvinculados ao resgate dos próprios costumes, como — e \ncada vez mais — são revelados hábitos inventivos nos \nquais moradores urbanos de diferentes classes sociais, \nsem nenhuma referência anterior com o campo, passam a \nse dedicar a essas atividades. Ao possibilitar o acesso ao \nplantio e, consequentemente, à alimentação, permite-se \numa nova relação com o que se come, reduzindo o \npercurso da cadeia produtiva e aproximando produtores \nde consumidores, pois ambos se confundem nas \nexperiências de agricultura urbana.\nPORTILHO, M.; RODRIGUES, C. G. O.; FERNANDEZ, A. C. F. Cultivando relações no \narranjo local da Penha: a mobilização de mulheres a partir das práticas de agricultura \nurbana na favela. Cidades, Comunidades e Territórios, n. 42, jun. 2021.\nA prática agrícola destacada no texto apresenta como \nvantagem no espaço urbano a\nA\t\nA\t ocupação de lugares ociosos.\nB\t\nB\t densificação da área central.\nC\t\nC\t valorização do mercado externo.\nD\t\nD\t priorização de insumos químicos.\nE\t\nE\t mecanização de técnicas de cultivo.",
+  "processado_em": "2026-05-08T14:05:39.352825",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

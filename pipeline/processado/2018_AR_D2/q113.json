@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\nCélulas solares à base de TiO\u0015\u0003VHQVLELOL]DGDV\u0003SRU\u0003FRUDQWHV\u0003\u000b6\f\u0003VmR\u0003SURPLVVRUDV\u0003H\u0003SRGHUmR\u0003YLU\u0003D\u0003VXEVWLWXLU\u0003DV\u0003FpOXODV\u0003GH\u0003\nsilício. Nessas células, o corante adsorvido sobre o TiO\u0015 é responsável por absorver a energia luminosa (hȞ), e o corante \nexcitado (S*) é capaz de transferir elétrons para o TiO\u0015\u0011\u00038P\u0003HVTXHPD\u0003GHVVD\u0003FpOXOD\u0003H\u0003RV\u0003SURFHVVRV\u0003HQYROYLGRV\u0003HVWmR\u0003\nLOXVWUDGRV\u0003QD\u0003¿JXUD\u0011\u0003$\u0003FRQYHUVmR\u0003GH\u0003HQHUJLD\u0003VRODU\u0003HP\u0003HOpWULFD\u0003RFRUUH\u0003SRU\u0003PHLR\u0003GD\u0003VHTXrQFLD\u0003GH\u0003UHDo}HV\u0003DSUHVHQWDGDV\u0011\nCorante\nEletrodo de Pt\nEletrodo de TiO2\ncom corante\nMediador de\n carga\neí\neí\nhv\nS/S+\nS*\nIí\nI3\ní\neí\neí\neí\nTiO2|S + hȞ ĺ TiO2|S*\n(1)\n(2)\n(3)\n(4)\nTiO2|S* ĺ TiO2|S+ + eí\n1\n2 I3\ní + eí ĺ    Ií\n3\n2\nTiO2|S+ +    Ií ĺ TiO2|S +    I3\ní\n3\n2\n1\n2\n/21*2\u000f\u0003&\u0011\u001e\u0003'(\u00033$2/,\u000f\u00030\u0011\u0010$\u0011\u0003'\\H\u00106HQVLWL]HG\u00036RODU\u0003&HOOV\u001d\u0003$\u00036XFFHVVIXO\u0003&RPELQDWLRQ\u0003RI\u00030DWHULDOV\u0011\u0003Journal of the Brazilian Chemical Society\u000f\u0003Q\u0011\u0003\u0019\u000f\u0003\u0015\u0013\u0013\u0016\u0003\u000bDGDSWDGR\f\u0011\n$\u0003UHDomR\u0003\u0016\u0003p\u0003IXQGDPHQWDO\u0003SDUD\u0003R\u0003FRQWtQXR\u0003IXQFLRQDPHQWR\u0003GD\u0003FpOXOD\u0003VRODU\u000f\u0003SRLV\nA UHGX]\u0003tRQV\u0003,í\u0003D\u0003,3\ní.\nB regenera o corante.\nC JDUDQWH\u0003TXH\u0003D\u0003UHDomR\u0003\u0017\u0003RFRUUD\u0011\nD SURPRYH\u0003D\u0003R[LGDomR\u0003GR\u0003FRUDQWH\u0011\nE transfere elétrons para o eletrodo de TiO\u0015.",
+  "processado_em": "2026-05-11T23:26:46.760466",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

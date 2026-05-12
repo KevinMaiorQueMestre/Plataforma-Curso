@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nA migração tem sido objeto de um intenso debate\nnos últimos anos. Ao analisar o impacto econôm\nmigração nos países anfitriões, é constatado que, d\ngeral, a migração aumenta o crescimento econôm\nprodutividade nesses países. Nas economias ava\nos imigrantes aumentam a produção e a produt\ntanto no curto como no médio prazo. Um aume\n1 ponto percentual no fluxo imigratório em relação\ndo emprego aumenta a produção em quase 1%.\nENGLER, P. et al. A migração para economias avançadas pode acelerar o c\nDisponível em: www.imf.org. Acesso em: 10 nov. 2021\nConforme o texto, os imigrantes contribuem e\naspecto nos países mencionados?\nA\t\nA\t Integração da cultura da nação.\nB\t\nB\t Ampliação da tolerância religiosa.\nC\t\nC\t Desenvolvimento de serviços manuais.\nD\t\nD\t Fomento de auxílios governamentais.\nE\t\nE\t Dinamização do mercado de trabalho.",
+  "processado_em": "2026-05-08T14:05:20.995436",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 246.0
+  }
+}

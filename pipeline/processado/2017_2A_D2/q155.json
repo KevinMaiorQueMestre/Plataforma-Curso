@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\n8PD\u0003 UHSDUWLomR\u0003 S~EOLFD\u0003 SRVVXL\u0003 XP\u0003 VLVWHPD\u0003 TXH\u0003\narmazena em seu banco de dados todos os ofícios, \nmemorandos e cartas enviados ao longo dos anos. Para \nRUJDQL]DU\u0003WRGR\u0003HVVH\u0003PDWHULDO\u0003H\u0003IDFLOLWDU\u0003D\u0003ORFDOL]DomR\u0003QR\u0003\nVLVWHPD\u000f\u0003 R\u0003 FRPSXWDGRU\u0003 XWLOL]DGR\u0003 SHOD\u0003 UHSDUWLomR\u0003 JHUD\u0003\num código para cada documento, de forma que os oito \nprimeiros dígitos indicam a data em que o documento foi \nHPLWLGR\u0003\u000b''00$$$$\f\u000f\u0003RV\u0003GRLV\u0003GtJLWRV\u0003VHJXLQWHV\u0003LQGLFDP\u0003R\u0003\nWLSR\u0003GH\u0003GRFXPHQWR\u0003\u000bRItFLR\u001d\u0003\u0013\u0014\u000f\u0003PHPRUDQGR\u001d\u0003\u0013\u0015\u0003H\u0003FDUWD\u001d\u0003\u0013\u0016\f\u0003\ne os três últimos dígitos indicam a ordem do documento. \nPor exemplo, o código 0703201201003 indica um ofício \nemitido no dia 7 de março de 2012, cuja ordem é 003. \n1R\u0003 GLD\u0003 \u0015\u001a\u0003 GH\u0003 MDQHLUR\u0003 GH\u0003 \u0015\u0013\u0013\u0014\u000f\u0003 HVVD\u0003 UHSDUWLomR\u0003 S~EOLFD\u0003\nemitiu o memorando de ordem 012 e o enviou aos seus \nfuncionários.\nO código gerado para esse memorando foi\nA 0122701200102.\nB 0201227012001.\nC 0227012001012.\nD 2701200101202.\nE 2701200102012.",
+  "processado_em": "2026-05-11T23:25:30.561219",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

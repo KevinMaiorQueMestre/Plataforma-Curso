@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\nEm algumas regiões brasileiras, é comum se \nencontrar um animal com odor característico, o zorrilho. \n(VVH\u0003RGRU\u0003VHUYH\u0003SDUD\u0003D\u0003SURWHomR\u0003GHVVH\u0003DQLPDO\u000f\u0003DIDVWDQGR\u0003\nVHXV\u0003SUHGDGRUHV\u0011\u00038P\u0003GRV\u0003IHURP{QLRV\u0003UHVSRQViYHLV\u0003SRU\u0003\nesse odor é uma substância que apresenta isomeria trans\ne um grupo tiol ligado à sua cadeia.\n$\u0003HVWUXWXUD\u0003GHVVH\u0003IHURP{QLR\u000f\u0003TXH\u0003DMXGD\u0003QD\u0003SURWHomR\u0003GR\u0003\nzorrilho, é\nA\nH\nC\nC\nH\nCH3\nCH2\nSH\nB\nH3C\nC\nC\nH\nH\nCH2\nSH\nC\nH\nC\nC\nH3C\nH\nCH2\nSH\nD\nH\nC\nC\nH\nCH3\nS\nCH3\nE\nH\nC\nC\nH3C\nH\nS\nCH3",
+  "processado_em": "2026-05-11T23:25:28.856894",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

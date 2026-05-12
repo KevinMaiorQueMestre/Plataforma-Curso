@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 105\t\nA tirinha ilustra um processo físico em que uma onda sonora, \nproduzida pela Mônica, causa a quebra das taças de cristal. \nO fenômeno ondulatório que provoca a quebra das taças só é \npossível em razão de uma característica da voz produzida pela \nMônica naquele momento, que, diferentemente do que sugere \na tirinha, não está relacionada à sua intensidade.\nDisponível em: https://artedafisicapibid.blogspot.com. \nAcesso em: 23 nov. 2021 (adaptado).\nEsse fenômeno e a característica associada à voz da Mônica \nsão, respectivamente,\nA\treflexão e comprimento de onda.\nB\tressonância e frequência.\nC\tinterferência e velocidade.\nD\tressonância e timbre.\nE\treflexão e amplitude.",
+  "processado_em": "2026-05-08T14:07:05.644675",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

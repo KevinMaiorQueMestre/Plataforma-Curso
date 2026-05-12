@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 26\t\nRevista Língua Portuguesa, n. 31, maio 2008 (adaptado).\nEsse texto, que apresenta um prato da culinária brasileira, \nevidencia\nA\tvalor afetivo nas nomenclaturas.\nB\tvariedade linguística entre regiões.\nC\tdisputa regional pelo melhor prato.\nD\tmodos de preparo de um mesmo alimento.\nE\tpaladares diversificados entre diferentes estados.",
+  "processado_em": "2026-05-08T14:06:58.836244",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

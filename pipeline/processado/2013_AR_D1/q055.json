@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 55\t\nA pílula anticoncepcional é um dos métodos \ncontraceptivos de maior segurança, sendo constituída \nbasicamente de dois hormônios sintéticos semelhantes \naos hormônios produzidos pelo organismo feminino, o \nestrogênio (E) e a progesterona (P). Em um experimento \nmédico, foi analisado o sangue de uma mulher que ingeriu \nininterruptamente um comprimido desse medicamento \npor dia durante seis meses.\nQual gráfico representa a concentração sanguínea \ndesses hormônios durante o período do experimento?\nA \nE\nP\nTempo\nConcentração sanguínea\nB\nE\nP\nTempo\nConcentração sanguínea\nC\nE\nP\nTempo\nConcentração sanguínea\nD\nE\nP\nTempo\nConcentração sanguínea\nE\nE\nP\nTempo\nConcentração sanguínea",
+  "processado_em": "2026-05-08T14:00:12.819259",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

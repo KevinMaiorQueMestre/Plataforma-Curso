@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 103 \nO efeito do escurecimento observado em uma salada de \nfrutas à base de banana, maçã e outras frutas consiste na reação \ncatalisada por enzimas que oxidam compostos fenólicos em pH \npróximo da neutralidade.\nEsse efeito é geralmente minimizado pela adição de\nA água potável.\nB suco de limão.\nC mel de abelha.\nD sal de cozinha.\nE açúcar refinado.",
+  "processado_em": "2026-05-08T14:06:34.953431",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

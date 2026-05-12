@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 115        \nPesquisadores coletaram amostras de água de um \nrio em pontos diferentes, distantes alguns quilômetros \num do outro. Ao longo do rio, há locais de águas limpas, \ncomo também locais que recebem descarga de esgoto \nde área urbana, e locais onde há decomposição ativa \ncom ausência de peixes. Os pesquisadores analisaram \ndois parâmetros: oxigênio dissolvido (OD) e demanda \nbioquímica de oxigênio (DBO) em cada ponto de coleta \nde água, obtendo o gráfico:\nOD e DBO (mg L−1)\nOD\nDBO\nOD ≥ 5 mg L−1  e  DBO ≤ 5 mg L−1.\nLegenda:\n∗\n+\nValores limites permitidos para águas doces destinadas ao abastecimento\npara o consumo humano após tratamento convencional, segundo Resolução \nConama n. 357/2005:\n14 \n12\n10\n4\n8\n6\n2\n1\n2\n3\n4\n5\n∗\n∗\n∗\n∗\n∗\n+\n+\n+\n+\n+\nPontos de amostragem\nO OD é proveniente da atmosfera e da fotossíntese \nque ocorre no curso-d’água e sua concentração é \nfunção das variáveis físicas, químicas e bioquímicas \nlocais. A DBO é a quantidade de oxigênio consumido \npor microrganismos em condições aeróbicas para \ndegradar uma determinada quantidade de matéria \norgânica, durante um período de tempo, numa \ntemperatura de incubação específica.\nDisponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado).\nQual ponto de amostragem da água do rio está mais \npróximo ao local em que o rio recebe despejo de esgoto?",
+  "processado_em": "2026-05-11T23:28:14.101661",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

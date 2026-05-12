@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nO Morro do Vidigal é um clássico do Rio de Janeiro. \nA vista dá para Ipanema e a favela é pequena e \nrelativamente segura. Aos poucos, casas de um padrão \nmais alto estão sendo construídas. Artistas plásticos e \ngringos compraram imóveis ali. Os moradores recebem \npropostas atraentes e se mudam. Não são propostas \nmilionárias. Apenas o suficiente para se transferirem \npara um lugar mais longe e um pouco melhor. Os novos \nhabitantes, aos poucos, impõem uma nova rotina e uma \nnova cara.\nNOGUEIRA, K. O que é gentrificação e por que ela está gerando tanto barulho no Brasil. \nDisponível em: www.diariodocentrodomundo.com.br. \nAcesso em: 7 jul. 2015 (adaptado).\nO texto discute um processo em curso em várias cidades \nbrasileiras. Uma consequência socioespacial desse \nprocesso é a\nA\t expansão horizontal da área local.\nB\t expulsão velada da população pobre.\nC\t alocação imprópria de recursos públicos.\nD\t privatização indevida do território urbano.\nE\t remoção forçada de residências irregulares.",
+  "processado_em": "2026-05-11T23:26:12.917153",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

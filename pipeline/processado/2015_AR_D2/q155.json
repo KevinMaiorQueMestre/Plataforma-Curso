@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nSegundo dados apurados no Censo 2010, para uma \npopulação de 101,8 milhões de brasileiros com 10 anos \nou mais de idade e que teve algum tipo de rendimento em \n2010, a renda média mensal apurada foi de R$ 1 202,00. \nA soma dos rendimentos mensais dos 10% mais pobres \ncorrespondeu a apenas 1,1% do total de rendimentos \ndessa população considerada, enquanto que a soma dos \nrendimentos mensais dos 10% mais ricos correspondeu a \n44,5% desse total.\nDisponível em: www.estadao.com.br. Acesso em: 16 nov. 2011(adaptado).\nQual foi a diferença, em reais, entre a renda média mensal \nde um brasileiro que estava na faixa dos 10% mais ricos e \nde um brasileiro que estava na faixa dos 10% mais pobres?\nA\t 240,40\nB\t 548,11\nC\t 1 723,67\nD\t 4 026,70\nE\t 5 216,68",
+  "processado_em": "2026-05-08T14:00:57.393172",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

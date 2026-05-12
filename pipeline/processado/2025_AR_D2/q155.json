@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 155\t\nEm uma escola, todos os estudantes do ensino médio \npraticam uma das três modalidades esportivas oferecidas \ncomo atividade física, e cada um deles pratica somente uma \ndessas atividades. Os gráficos trazem alguns dados relativos aos \nquantitativos de estudantes que praticam essas modalidades \nesportivas nessa escola, apesar de algumas quantidades não \nterem sido informadas.\nQual é a quantidade de estudantes no ensino médio dessa escola?\nA\t720\nB\t360\nC\t320\nD\t288\nE\t240",
+  "processado_em": "2026-05-08T14:07:09.461576",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

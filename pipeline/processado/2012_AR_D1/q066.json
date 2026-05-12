@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 66\t\nO benzeno é um hidrocarboneto aromático presente \nno petróleo, no carvão e em condensados de gás natural. \nSeus metabólitos são altamente tóxicos e se depositam \nna medula óssea e nos tecidos gordurosos. O limite de \nexposição pode causar anemia, câncer (leucemia) e \ndistúrbios do comportamento. Em termos de reatividade \nquímica, quando um eletrófilo se liga ao benzeno, ocorre \na formação de um intermediário, o carbocátion. Por fim, \nocorre a adição ou substituição eletrofílica.\n Disponível em: www.sindipetro.org.br. Acesso em: 1 mar. 2012 (adaptado).\nEnergia Livre\ncarbocátion (I)\nproduto (II)\nproduto (III)\nBr2\ncatalisador\n+\n+\nProgresso da Reação\nDisponível em: www.qmc.ufsc.br. Acesso em: 1 mar. 2012 (adaptado).\nCom base no texto e no gráfico do progresso da reação \napresentada, as estruturas químicas encontradas em \nI, II e III são, respectivamente:\nA \nBr\nBr\nBr\nBr\nH\nH\n+\n;\n;\nB \nBr\nBr\nBr\nBr\nH\nH\n+\n;\n;\nC\nBr\nBr\nBr\nBr\nH\nH\n+\n;\n;\nD\nBr\nBr\nBr\nBr\nH\nH\n+\n;\n;\nE\nBr\nBr\nBr\nBr\nH\nH\n+\n;\n;",
+  "processado_em": "2026-05-08T13:59:02.498178",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

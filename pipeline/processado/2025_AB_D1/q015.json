@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 15\t\nLA\nNessa tirinha, a crítica ao uso da Inteligência Artificial na elabora\nA\tdiminuição do trabalho criativo.\nB\tausência de fontes de consultas.\nC\timposição do registro em suporte digital.\nD\tmudança das características formais desse gênero.\nE simplificação do texto gerado pelas novas tecnologias",
+  "processado_em": "2026-05-08T14:06:42.555595",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

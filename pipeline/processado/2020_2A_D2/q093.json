@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "estão 93          \nA água sofre transições de fase sem que ocorra variação da pressão externa. A figura representa a ocorrência \nsas transições em um laboratório.\nVapor de água\nÁgua líquida\n1\n2\nGelo\n3\n4\ndo como base as transições de fase representadas (1 a 4), a quantidade de energia absorvida na etapa 2 é igual \nuantidade de energia\nliberada na etapa 4.\nabsorvida na etapa 3.\nliberada na etapa 3.\nabsorvida na etapa 1.\nliberada na etapa 1.",
+  "processado_em": "2026-05-11T23:27:50.053638",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

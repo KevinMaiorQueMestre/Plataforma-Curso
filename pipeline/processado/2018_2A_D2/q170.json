@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nA figura mostra uma anticlepsidra, que é um sólido \ngeométrico obtido ao se retirar dois cones opostos pelos \nvértices de um cilindro equilátero, cujas bases coincidam \ncom as bases desse cilindro. A anticlepsidra pode ser \nconsiderada, também, como o sólido resultante da \nrotação de uma figura plana em torno de um eixo.\nDisponível em: www.klickeducacao.com.br. Acesso em: 12 dez. 2012 (adaptado).\nA figura plana cuja rotação em torno do eixo indicado gera \numa anticlepsidra como a da figura acima é\nA\t  \nD\nB\t  \nE",
+  "processado_em": "2026-05-11T23:26:24.255721",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

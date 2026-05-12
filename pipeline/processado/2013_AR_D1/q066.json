@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nPara serrar ossos e carnes congeladas, um \naçougueiro utiliza uma serra de fita que possui três polias \ne um motor. O equipamento pode ser montado de duas \nformas diferentes, P e Q. Por questão de segurança, é \nnecessário que a serra possua menor velocidade linear.\nSerra\nde fita\nMontagem P\nPolia 3\nPolia 2\nCorreia\nMotor\nSerra\nde fita\nMontagem Q\nPolia 3\nPolia 2\nCorreia\nMotor\nPolia 1\nPolia 1\nPor qual montagem o açougueiro deve optar e qual a \njustificativa desta opção?\nA\t Q, pois as polias 1 e 3 giram com velocidades lineares \niguais em pontos periféricos e a que tiver maior raio \nterá menor frequência.\nB\t Q, pois as polias 1 e 3 giram com frequências iguais e \na que tiver maior raio terá menor velocidade linear em \num ponto periférico.\nC\t P, pois as polias 2 e 3 giram com frequências diferentes \ne a que tiver maior raio terá menor velocidade linear \nem um ponto periférico.\nD\t P, pois as polias 1 e 2 giram com diferentes velocidades \nlineares em pontos periféricos e a que tiver menor \nraio terá maior frequência.\nE\t Q, pois as polias 2 e 3 giram com diferentes \nvelocidades lineares em pontos periféricos e a que \ntiver maior raio terá menor frequência.",
+  "processado_em": "2026-05-08T14:00:13.460890",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

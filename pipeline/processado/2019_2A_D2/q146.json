@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 146\t\nA conta de telefone de uma loja foi, nesse mês, de \nR$ 200,00. O valor da assinatura mensal, já incluso \nna conta, é de R$ 40,00, o qual dá direito a realizar \numa quantidade ilimitada de ligações locais para \ntelefones fixos. As ligações para celulares são tarifadas \nseparadamente. Nessa loja, são feitas somente ligações \nlocais, tanto para telefones fixos quanto para celulares. \nPara reduzir os custos, o gerente planeja, para o próximo \nmês, uma conta de telefone com valor de R$ 80,00.\nPara que esse planejamento se cumpra, a redução \npercentual com gastos em ligações para celulares nessa \nloja deverá ser de\nA\t 25%\nB\t 40%\nC\t 50%\nD\t 60%\nE\t 75%",
+  "processado_em": "2026-05-11T23:27:12.084059",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

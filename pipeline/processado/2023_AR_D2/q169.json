@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nUm tipo de semente necessita de bastante água nos \ndois primeiros meses após o plantio. Um produtor pretende \nestabelecer o melhor momento para o plantio desse tipo de \nsemente, nos meses de outubro a março. Após consultar \na previsão do índice mensal de precipitação de chuva \n(ImPC) da região onde ocorrerá o plantio, para o período \nchuvoso de 2020 - 2021, ele obteve os seguintes dados:\n•\t outubro/2020: ImPC = 250 mm;\n•\t novembro/2020: ImPC = 150 mm;\n•\t dezembro/2020: ImPC = 200 mm;\n•\t janeiro/2021: ImPC = 450 mm;\n•\t fevereiro/2021: ImPC = 100 mm;\n•\t março/2021: ImPC = 200 mm.\nCom base nessas previsões, ele precisa escolher \ndois meses consecutivos em que a média mensal de \nprecipitação seja a maior possível.\nNo início de qual desses meses o produtor deverá plantar \nesse tipo de semente?\nA\t\nA\t Outubro.\nB\t\nB\t Novembro.\nC\t\nC\t Dezembro.\nD\t\nD\t Janeiro.\nE\t\nE\t Fevereiro.",
+  "processado_em": "2026-05-08T14:05:47.037357",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

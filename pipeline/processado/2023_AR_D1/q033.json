@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 33\t\nTEXTO I\nSEGALL, L. Eternos caminhantes. Óleo sobre tela, 138 x 184 cm.\nMuseu Lasar Segall, IbramMinc, São Paulo, 1919.\nTEXTO II\nEm 1933, a obra Eternos caminhantes ingressou \nem uma das primeiras edições das exposições de Arte \nDegenerada, promovida por membros do partido nazista \nalemão. Nos anos seguintes, ela voltaria a ser exibida na \nmostra denominada Exposição da Vergonha, promovida \npor pequenos grupos abastados. Em 1937, essa obra foi \nconfiscada pelo Ministério da Propaganda daquele país, na \ngrande ação nacional-socialista contra a “Arte Degenerada”.\nSCHWARTZ, J. Perseguição à Arte Moderna em tempos de \nguerra. São Paulo: Museu Lasar Segall, 2018 (adaptado).",
+  "processado_em": "2026-05-08T14:05:35.934695",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

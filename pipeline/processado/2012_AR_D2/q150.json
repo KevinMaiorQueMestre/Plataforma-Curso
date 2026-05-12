@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 150\t\nArthur deseja comprar um terreno de Cléber, que lhe \noferece as seguintes possibilidades de pagamento:\n•\t\nOpção 1: Pagar à vista, por R$ 55 000,00;\n•\t\nOpção 2: Pagar a prazo, dando uma entrada de \nR$ 30 000,00, e mais uma prestação de R$ 26 000,00 \npara dali a 6 meses.\n•\t\nOpção 3: Pagar a prazo, dando uma entrada de \nR$ 20 000,00, mais uma prestação de R$ 20 000,00, \npara dali a 6 meses e outra de R$ 18 000,00 para dali \na 12 meses da data da compra.\n•\t\nOpção 4: Pagar a prazo dando uma entrada de \nR$ 15 000,00 e o restante em 1 ano da data da \ncompra, pagando R$ 39 000,00.\n•\t\nOpção 5: pagar a prazo, dali a um ano, o valor de \nR$ 60 000,00.\nArthur tem o dinheiro para pagar à vista, mas avalia se \nnão seria melhor aplicar o dinheiro do valor à vista (ou até \num valor menor) em um investimento, com rentabilidade \nde 10% ao semestre, resgatando os valores à medida que \nas prestações da opção escolhida fossem vencendo.\nApós avaliar a situação do ponto de vista financeiro e das \ncondições apresentadas, Arthur concluiu que era mais \nvantajoso financeiramente escolher a opção\nA\t 1.\nB\t 2.\nC\t 3.\nD\t 4.\nE\t 5.",
+  "processado_em": "2026-05-08T13:59:50.810867",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

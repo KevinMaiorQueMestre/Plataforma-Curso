@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 55\t\nO frevo é uma forma de expressão musical, \ncoreográfica e poética, enraizada no Recife e em Olinda, \nno estado de Pernambuco. O frevo é formado pela \ngrande mescla de gêneros musicais, danças, capoeira \ne artesanato. É uma das mais ricas expressões da \ninventividade e capacidade de realização popular na \ncultura brasileira. Possui a capacidade de promover a \ncriatividade humana e também o respeito à diversidade \ncultural. No ano de 2012, a Unesco proclamou o frevo \ncomo Patrimônio Imaterial da Humanidade.\nPORTAL BRASIL. Disponível em: www.brasil.gov.br. \nAcesso em: 10 fev. 2013.\nA característica da manifestação cultural descrita que \njustifica a sua condição de Patrimônio Imaterial da \nHumanidade é a\nA\t conversão dos festejos em produto da elite.\nB\t expressão de sentidos construídos coletivamente.\nC\t dominação ideológica de um grupo étnico sobre outros.\nD\t disseminação turística internacional dos eventos festivos.\nE\t identificação \nde \nsimbologias \npresentes \nnos \nmonumentos artísticos.",
+  "processado_em": "2026-05-11T23:27:00.194951",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

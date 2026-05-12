@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 116\t\nA incapacidade de perceber certas cores é \ndenominada daltonismo. Um tipo raro é classificado \nde tritanomalia e corresponde a um defeito nos cones \nsensíveis à cor azul. O gene responsável pela herança \nsitua-se no cromossomo 7, permitindo que homens e \nmulheres sejam igualmente afetados. Além disso, casais \nsem tritanomalia podem ter crianças com a herança.\nO padrão dessa herança rara é\nA\t\nA\t ligado ao X e recessivo.\nB\t\nB\t ligado ao Y e recessivo.\nC\t\nC\t ligado ao X e dominante.\nD\t\nD\t autossômico e recessivo.\nE\t\nE\t autossômico e dominante.",
+  "processado_em": "2026-05-08T14:05:25.456156",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

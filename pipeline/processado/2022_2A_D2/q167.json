@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nUma \nfamília \ndecidiu \ncomprar \num \naparelho \ncondicionador de ar usando como critério de escolha \nseu consumo mensal de energia. Suponha que o valor \nde 1 kWh da conta de energia elétrica dessa família \ncuste R$ 0,58 (impostos incluídos) e que há bandeira \ntarifária vermelha correspondendo a R$ 0,045 para cada \n1 kWh consumido. \nO uso desse aparelho deve representar um \nacréscimo mensal na conta de energia elétrica da \nfamília de R$ 150,00.\nO consumo de energia elétrica mensal mais próximo, \nem quilowatt-hora, que o aparelho deve ter é igual a\nA\t\nA\t 286.\nB\t\nB\t 280.\nC\t\nC\t 259.\nD\t\nD\t 240.\nE\t\nE\t 146.",
+  "processado_em": "2026-05-08T14:04:50.692165",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

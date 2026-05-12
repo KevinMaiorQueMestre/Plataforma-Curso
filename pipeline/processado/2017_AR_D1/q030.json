@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 30\t\nContranarciso\nem mim \neu vejo o outro\ne outro\ne outro\nenfim dezenas\ntrens passando\nvagões cheios de gente\ncentenas\no outro\nque há em mim\né você\nvocê\ne você\nassim como\neu estou em você\neu estou nele\nem nós\ne só quando\nestamos em nós\nestamos em paz\nmesmo que estejamos a sós\nLEMINSKI, P. Toda poesia. São Paulo: Cia. das Letras, 2013.\nA busca pela identidade constitui uma faceta da tradição \nliterária, redimensionada pelo olhar contemporâneo. \nNo poema, essa nova dimensão revela a\nA\t \tausência de traços identitários.\nB\t \tangústia com a solidão em público.\nC\t \tvalorização da descoberta do “eu” autêntico.\nD\t \tpercepção \nda \nempatia \ncomo \nfator \nde \nautoconhecimento.\nE\t \timpossibilidade \nde \nvivenciar \nexperiências \nde \npertencimento.",
+  "processado_em": "2026-05-11T23:25:37.736295",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

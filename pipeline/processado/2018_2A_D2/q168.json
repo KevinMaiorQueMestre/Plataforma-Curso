@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nEm um jogo de tabuleiro, a pontuação é marcada \ncom fichas coloridas. Cada ficha vermelha vale um ponto. \nTrês fichas vermelhas podem ser trocadas por uma azul, \ntrês fichas azuis podem ser trocadas por uma branca, e \ntrês fichas brancas podem ser trocadas por uma verde. \nAo final do jogo, os jogadores A, B e C terminaram, cada \num, com as quantidades de fichas, conforme a tabela \nseguinte:\nFichas \nverdes\nFichas \nbrancas\nFichas \nazuis\nFichas \nvermelhas\nJogador A\n3\n1\n1\n4\nJogador B\n2\n4\n0\n9\nJogador C\n1\n5\n8\n2\nDe acordo com essa tabela, as classificações em primeiro, \nsegundo e terceiro lugares ficaram, respectivamente, \npara os jogadores\nA\t A, B e C.\nB\t B, A e C.\nC\t C, B e A.\nD\t B, C e A.\nE\t C, A e B.",
+  "processado_em": "2026-05-11T23:26:24.042865",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

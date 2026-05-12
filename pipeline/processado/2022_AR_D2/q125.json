@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\t\nOs riscos apresentados pelos produtos dependem de \nsuas propriedades e da reatividade quando em contato \ncom outras substâncias. Para prevenir os riscos devido \nà natureza química dos produtos, devemos conhecer \na lista de substâncias incompatíveis e de uso cotidiano \nem fábricas, hospitais e laboratórios, a fim de observar \ncuidados na estocagem, manipulação e descarte. \nO quadro elenca algumas dessas incompatibilidades, que \npodem levar à ocorrência de acidentes.\nSubstância\nIncompatibilidade\nRiscos \nassociados\nÁcidos \nminerais \nfortes \nconcentrados\nBases fortes\nCianetos\nHipoclorito de sódio\nReação enérgica, \nexplosão, \nprodução de \noxidante forte e \nproduto tóxico\nÁcido nítrico \nconcentrado\nMatéria orgânica\nReação enérgica, \nexplosão e \nproduto tóxico\nConsidere que houve o descarte indevido de dois \nconjuntos de substâncias:\n(1) ácido clorídrico concentrado com cianeto de potássio;\n(2) ácido nítrico concentrado com sacarose.\nDisponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado).\nO \ndescarte \ndos \nconjuntos \n(1) \ne \n(2) \nresultará, \nrespectivamente, em\nA\t\nA\t liberação de gás tóxico e reação oxidativa forte.\nB\t\nB\t reação oxidativa forte e liberação de gás tóxico.\nC\t\nC\t formação de sais tóxicos e reação oxidativa forte.\nD\t\nD\t liberação de gás tóxico e liberação de gás oxidante.\nE\t\nE\t formação de sais tóxicos e liberação de gás oxidante.",
+  "processado_em": "2026-05-08T14:05:10.684104",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

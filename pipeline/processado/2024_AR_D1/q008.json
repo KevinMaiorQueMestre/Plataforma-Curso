@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\nÉ fundamentalmente no Minho, norte de Portugal, que o \ncavaquinho aparece como instrumento tipicamente popular, \nligado às formas essenciais da música característica dessa \nprovíncia. O cavaquinho minhoto tem escala rasa com o \ntampo, o que facilita a prática do “rasqueado”. O cavaquinho \nchega ao Brasil diretamente de Portugal, e o modelo \nbrasileiro é maior do que a sua versão portuguesa, com \numa caixa de ressonância mais funda. Semelhante ao \ncavaquinho minhoto, o machete, ou machetinho madeirense, \né um pequeno cordófono de corda dedilhada, que faz \nparte da grande e diversificada família das violas de mão \nportuguesas. O ukulele tem a sua origem no século XIX, \ntendo como ancestrais o braguinha (ou machete) e o rajão, \ninstrumentos levados pelos madeirenses quando eles \nemigraram para o Havaí.\nOLIVEIRA, E. V. Cavaquinhos e família. Disponível em: \nhttps://casadaguitarra.pt. Acesso em: 18 nov. 2021 (adaptado).\nO conjunto dessas práticas musicais demonstra que os \ninstrumentos mencionados no texto\nA\trefletem a dependência da utilização de matéria-prima \neuropeia.\nB\tadaptam suas características a cada cultura, assumindo \nnova identidade.\nC\tcomprovam a hegemonia portuguesa na invenção de \ncordófonos dedilhados.\nD\tilustram processos de dominação cultural, evidenciando \nsituações de choque cultural.\nE\tmantêm nomenclatura própria para garantir a fidelidade \nàs formas originais de confecção",
+  "processado_em": "2026-05-08T14:06:09.083591",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

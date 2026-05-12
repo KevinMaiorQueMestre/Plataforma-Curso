@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 115\n2V\u0003 SROtPHURV\u0003 VmR\u0003 PDWHULDLV\u0003 DPSODPHQWH\u0003 XWLOL]DGRV\u0003 QD\u0003 VRFLHGDGH\u0003 PRGHUQD\u000f\u0003 DOJXQV\u0003 GHOHV\u0003 QD\u0003 IDEULFDomR\u0003 GH\u0003\nHPEDODJHQV\u0003H\u0003¿OPHV\u0003SOiVWLFRV\u000f\u0003SRU\u0003H[HPSOR\u0011\u00031D\u0003¿JXUD\u0003HVWmR\u0003UHODFLRQDGDV\u0003DV\u0003HVWUXWXUDV\u0003GH\u0003DOJXQV\u0003PRQ{PHURV\u0003XVDGRV\u0003\nQD\u0003SURGXomR\u0003GH\u0003SROtPHURV\u0003GH\u0003DGLomR\u0003FRPXQV\u0011\n'HQWUH\u0003RV\u0003KRPRSROtPHURV\u0003IRUPDGRV\u0003D\u0003SDUWLU\u0003GRV\u0003PRQ{PHURV\u0003GD\u0003¿JXUD\u000f\u0003DTXHOH\u0003TXH\u0003DSUHVHQWD\u0003VROXELOLGDGH\u0003HP\u0003iJXD\u0003p\nA polietileno.\nB poliestireno.\nC polipropileno.\nD poliacrilamida.\nE policloreto de vinila.\nAcrilamida\nCloreto de vinila\n(cloropropeno)\nEstireno\nEtileno (eteno)\nPropileno (propeno)\nH C\nH C\nH C\nH C\nCI\nCH\nCH\nCH\nH N\nO\n2\n2\n2\n3\n2\n2\n2\n2",
+  "processado_em": "2026-05-11T23:25:28.559200",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

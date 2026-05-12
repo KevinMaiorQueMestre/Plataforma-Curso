@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 58\t\nA própolis é um produto natural conhecido por suas \npropriedades anti-inflamatórias e cicatrizantes. Esse \nmaterial contém mais de 200 compostos identificados até \no momento. Dentre eles, alguns são de estrutura simples, \ncomo é o caso do C6H5CO2CH2CH3, cuja estrutura está \nmostrada a seguir.\nC O\nO\nCH2CH3\nO ácido carboxílico e o álcool capazes de produzir o \néster em apreço por meio da reação de esterificação são, \nrespectivamente,\nA\t ácido benzoico e etanol.\nB\t ácido propanoico e hexanol.\nC\t ácido fenilacético e metanol.\nD\t ácido propiônico e cicloexanol.\nE\t ácido acético e álcool benzílico.",
+  "processado_em": "2026-05-08T13:59:02.485857",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

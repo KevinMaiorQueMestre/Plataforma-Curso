@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 62\t\nA velha potência de morte em que se simbolizava \no poder soberano é agora, cuidadosamente, recoberta \npela administração dos corpos. Aparecimento, também, \nnos terrenos das práticas políticas e observações \neconômicas, dos problemas de natalidade, longevidade, \nsaúde pública, habitação e migração.\nFOUCAULT, M. História da sexualidade I: a vontade de saber. \nRio de Janeiro: Graal, 1988 (adaptado).\nO texto aponta para a emergência, a partir de meados \ndo século XIX, de um novo tipo de gestão da sociedade \nocidental, centrado na\nA\t\nA\t ordenação calculista das vidas.\nB\t\nB\t exposição ostensiva das punições.\nC\t\nC\t distribuição igualitária das riquezas.\nD\t\nD\t supressão estratégica das fronteiras.\nE\t\nE\t espacialização controlada das classes.",
+  "processado_em": "2026-05-08T14:04:41.502804",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

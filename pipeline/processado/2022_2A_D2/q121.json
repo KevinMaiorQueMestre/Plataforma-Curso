@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 121\t\nOs combustíveis são materiais utilizados na produção \nde energia que, dependendo da sua composição, podem \nproduzir diferentes substâncias. Por exemplo, numa \nqueima completa, o hidrogênio se transforma em H2O; e \no carbono, em CO2.\nO quadro apresenta as entalpias de combustão de \nalguns combustíveis nas condições padrão.\nCombustível\nFórmula\nEntalpia padrão de \ncombustão \nkJ\nmol\n\u001f\n\u001e\u001d\n\u001c\n\u001b\u001a\nCarbono\nC\n-394\nEtino\nC2H2\n-1 300\nPropano\nC3H8\n-2 220\nButano\nC4H10\n-2 878\nOctano\nC8H18\n-5 471\nATKINS, P.; JONES, L.; LAVERMAN, L. Princípios de química: questionando a vida \nmoderna e o meio ambiente. São Paulo: Bookman, 2018 (adaptado).\nVisando a redução do impacto ambiental, qual dos \ncombustíveis listados libera maior quantidade de energia \ncom menor produção de CO2?\nA\t\nA\t Carbono.\nB\t\nB\t Etino.\nC\t\nC\t Propano.\nD\t\nD\t Butano.\nE\t\nE\t Octano.",
+  "processado_em": "2026-05-08T14:04:47.830074",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

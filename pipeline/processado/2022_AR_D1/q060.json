@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 60\t\nUm experimento denominado FunFit foi desenvolvido \ncom o objetivo de fazer com que os membros de uma \ncomunidade local se tornassem mais ativos fisicamente. \nTodos os participantes do estudo foram vinculados a \ndois outros membros da comunidade que receberiam \npequenos incentivos em dinheiro para serem estimulados \na aumentar a sua atividade física, que era medida por \nacelerômetros nos celulares fornecidos pelo estado. \nAssim, se a pessoa andasse mais do que o habitual, seus \nconhecidos receberiam o dinheiro. Os resultados foram \nassombrosos: o esquema mostrou-se de quatro a oito \nvezes mais eficaz do que o método de oferecer incentivos \nindividuais.\nMOROZOV, E. Big Tech: a ascensão dos dados e a morte da política. \nSão Paulo: Ubu, 2018 (adaptado).\nContrariando a visão prevalente sobre o impacto \ntecnológico nas relações humanas, o texto revela que os \ncelulares podem desempenhar uma função\nA\t\nA\t recreativa, promovendo o lazer em redes integradas.\nB\t\nB\t social, estimulando a reciprocidade por meios digitais.\nC\t\nC\t laboral, convertendo o desenvolvedor em usuário final.\nD\t\nD\t comercial, direcionando a escolha por produtos \nindustrializados.\nE\t\nE\t cognitiva, \nfavorecendo \na \naprendizagem \npelas \nferramentas virtuais.",
+  "processado_em": "2026-05-08T14:05:04.091399",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

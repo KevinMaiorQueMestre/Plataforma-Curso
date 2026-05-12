@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questões de 01 a 05 (opção espanhol)\nQuestão 01     \n \nPablo Pueblo\nRegresa un hombre en silencio\nDe su trabajo cansado\nSu paso no lleva prisa\nSu sombra nunca lo alcanza\nLo espera el barrio de siempre\nCon el farol en la esquina \nCon la basura allá en frente\nY el ruido de la cantina\nPablo Pueblo\nllega hasta el zaguán oscuro\nY vuelve a ver las paredes \nCon las viejas papeletas\nQue prometían futuros\nen lides politiqueras\nY en su cara se dibuja \nla decepción de la espera.\nBLADES, R. Disponível em: http://rubenblades.com. Acesso em: 26 jun. 2012 (fragmento).\nRubén Blades é um compositor panamenho de canções \nsocialmente engajadas. O título Pablo Pueblo, associado ao \nconteúdo da letra da canção, revela uma crítica social ao\nA \tcontrapor a individualidade de um sujeito a uma \nestrutura social marcada pela decepção na atuação \npolítica.\nB \tdemonstrar que o problema sofrido pelo indivíduo \natinge toda a comunidade.\nC \trelativizar a importância que se dá ao sofrimento \nindividual em uma estrutura social baseada na \nexploração.\nD \t descrever a vida de um sujeito que nunca resolve \nsuas inquietações e, por isso, mantém-se silencioso.\nE \t usar um apelido jocoso para designar a atuação de \num indivíduo em seu próprio bairro.",
+  "processado_em": "2026-05-11T23:27:57.050753",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

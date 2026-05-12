@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "B",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 46\t\nPara diminuir o acúmulo de lixo e o desperdício \nde materiais de valor econômico e, assim, reduzir a \nexploração de recursos naturais, adotou-se, em escala \ninternacional, a política dos três erres: Redução, \nReutilização e Reciclagem.\nUm exemplo de reciclagem é a utilização de\nA\t garrafas de vidro retornáveis para cerveja ou \nrefrigerante.\nB\t latas de alumínio como material para fabricação de \nlingotes.\nC\t sacos \nplásticos \nde \nsupermercado \ncomo \nacondicionantes de lixo caseiro.\nD\t embalagens \nplásticas \nvazias \ne \nlimpas \npara \nacondicionar outros alimentos.\nE\t garrafas PET recortadas em tiras para fabricação de \ncerdas de vassouras.",
+  "processado_em": "2026-05-08T13:59:02.019119",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

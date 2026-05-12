@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 155          \nUma pessoa chega ao hotel no qual fez uma \npré-reserva com diária no valor de R$ 210,00. Como \na confirmação da reserva não foi feita, quando chegou \nao hotel não havia quarto disponível. Dessa forma, \no recepcionista apresentou-lhe algumas opções de \nhotéis com diárias mais baratas, mas localizados a \ncerta distância desse hotel, conforme apresentado.\n•\t H1: diária de R$ 180,00 e distância de 7 km;\n•\t H2: diária de R$ 200,00 e distância de 1,6 km;\n•\t H3: diária de R$ 199,00 e distância de 4,5 km;\n•\t H4: diária de R$ 190,00 e distância de 1,5 km;\n•\t H5: diária de R$ 205,00 e distância de 1,2 km.\nPara se locomover até um outro hotel, essa pessoa \nutiliza um táxi que cobra R$ 2,50 por quilômetro rodado \nmais taxa fixa de R$ 6,00.\nSua escolha será em função do menor custo, \ncomposto pelo valor da diária mais a locomoção de táxi.\nO hotel escolhido foi o\nA \t H1.\nB\t H2.\nC \t H3.\nD \t H4.\nE \t H5.",
+  "processado_em": "2026-05-08T14:03:38.980454",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

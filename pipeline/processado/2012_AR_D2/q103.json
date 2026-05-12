@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 103\t\nNós, brasileiros, estamos acostumados a ver juras de \namor, feitas diante de Deus, serem quebradas por traição, \ninteresses financeiros e sexuais. Casais se separam \ncomo inimigos, quando poderiam ser bons amigos, sem \ntraumas. Bastante interessante a reportagem sobre \nseparação. Mas acho que os advogados consultados, \npor sua competência, estão acostumados a tratar de \ngrandes separações. Será que a maioria dos leitores da \nrevista tem obras de arte que precisam ser fotografadas \nantes da separação? Não seria mais útil dar conselhos \nmais básicos? Não seria interessante mostrar que a \nseparação amigável não interfere no modo de partilha \ndos bens? Que, seja qual for o tipo de separação, ela não \nvai prejudicar o direito à pensão dos filhos? Que acordo \namigável deve ser assinado com atenção, pois é bastante \ncomplicado mudar suas cláusulas? Acho que essas são \ndicas que podem interessar ao leitor médio.\nDisponível em: http://revistaepoca.globo.com. Acesso em: 26 fev. 2012 (adaptado).\nO texto foi publicado em uma revista de grande circulação \nna seção de carta do leitor. Nele, um dos leitores manifesta-\nse acerca de uma reportagem publicada na edição anterior. \nAo fazer sua argumentação, o autor do texto",
+  "processado_em": "2026-05-08T13:59:24.214572",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nDirigir após ingerir bebidas alcoólicas é uma atitude \nextremamente perigosa, uma vez que, a partir da primeira \ndose, a pessoa já começa a ter perda de sensibilidade \nde movimentos e de reflexos. Apesar de a eliminação e \nabsorção do álcool depender de cada pessoa e de como \no organismo consegue metabolizar a substância, ao final \nda primeira hora após a ingestão, a concentração de álcool \n(C) no sangue corresponde a aproximadamente 90% da \nquantidade (q) de álcool ingerida, e a eliminação total \ndessa concentração pode demorar até 12 horas.\nDisponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).\nNessas condições, ao final da primeira hora após a ingestão \nda quantidade q de álcool, a concentração C dessa \nsubstância no sangue é expressa algebricamente por\nA\t\nA\t C = 0,9q\nB\t\nB\t C = 0,1q\nC\t\nC\t C = 1 − 0,1q\nD\t\nD\t C = 1 − 0,9q\nE\t\nE\t C = q − 10",
+  "processado_em": "2026-05-08T14:05:46.515981",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

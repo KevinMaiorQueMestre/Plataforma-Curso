@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nDescargas \natmosféricas, \nobjetos \nestranhos \ne \nquedas de árvores, entre outros motivos, podem gerar \ninterrupções na rede elétrica. Em certo município, um \nlevantamento realizado pela companhia de fornecimento \nde energia relacionou, durante 30 dias, o número de \ninterrupções na rede elétrica com o número de dias em \nque elas ocorreram.\nNúmero de interrupções\nNúmero de dias\n0\n5\n1\n6\n2\n6\n3\n10\n4\n3\nTotal\n30\nA moda e a média diária do número de interrupções são, \nrespectivamente, iguais a\nA\t\nA\t 3 e 2,0.\nB\t\nB\t 3 e 2,4.\nC\t\nC\t 3 e 6,0.\nD\t\nD\t 10 e 2,0.\nE\t\nE\t 10 e 2,4.",
+  "processado_em": "2026-05-08T14:04:49.199511",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

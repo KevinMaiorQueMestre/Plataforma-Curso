@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 151        \nOs gráficos representam a produção de peças em \numa indústria e as horas trabalhadas dos funcionários \nno período de cinco dias. Em cada dia, o gerente \nde produção aplica uma metodologia diferente de \ntrabalho. Seu objetivo é avaliar a metodologia mais \neficiente para utilizá-la como modelo nos próximos \nperíodos. Sabe-se que, neste caso, quanto maior \nfor a razão entre o número de peças produzidas e o \nnúmero de horas trabalhadas, maior será a eficiência \nda metodologia.\nEm qual dia foi aplicada a metodologia mais eficiente?\nA\t 1\nB \t 2\nC \t 3\nD \t 4\nE \t 5",
+  "processado_em": "2026-05-11T23:28:18.933665",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

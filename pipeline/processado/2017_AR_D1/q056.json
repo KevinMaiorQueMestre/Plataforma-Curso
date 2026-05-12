@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nOs maiores consumidores da infraestrutura logística \npara exportação no Brasil são os produtos a granel, \ndentre os quais se destacam o minério de ferro, petróleo \ne seus derivados e a soja, que, por possuírem baixo \nvalor agregado, e por serem movimentados em grandes \nvolumes, necessitam de uma infraestrutura de grande \nporte e baixos custos. No caso da soja, a infraestrutura \ndeixa muito a desejar, resultando em enormes filas de \nnavios, caminhões e trens, que, por ficarem grande parte \ndo tempo ociosos nas filas, têm seu custo majorado, \nonerando fortemente o exportador, afetando sua \nmargem de lucro e ameaçando nossa competitividade \ninternacional.\nFLEURY, P. F. A infraestrutura e os desafios logísticos das exportações brasileiras. \nRio de Janeiro: CEL; Coppead; UFRJ, 2005 (adaptado).\nNo contexto do início do século XXI, uma ação para \nsolucionar os problemas logísticos da soja apresentados \nno texto seria a\nA\t isenção de impostos de transportes.\nB\t construção de terminais atracadouros.\nC\t diversificação dos parceiros comerciais.\nD\t contratação de trabalhadores portuários.\nE\t intensificação do policiamento das rodovias.",
+  "processado_em": "2026-05-11T23:25:41.513695",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

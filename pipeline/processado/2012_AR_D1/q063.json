@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 63\t\nHá milhares de anos o homem faz uso da \nbiotecnologia para a produção de alimentos como \npães, cervejas e vinhos. Na fabricação de pães, por \nexemplo, são usados fungos unicelulares, chamados \nde leveduras, que são comercializados como fermento \nbiológico. Eles são usados para promover o crescimento \nda massa, deixando-a leve e macia.\nO crescimento da massa do pão pelo processo citado é \nresultante da \nA\t liberação de gás carbônico.\nB\t formação de ácido lático.\nC\t formação de água.\nD\t produção de ATP.\nE\t liberação de calor.",
+  "processado_em": "2026-05-08T13:59:02.493970",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

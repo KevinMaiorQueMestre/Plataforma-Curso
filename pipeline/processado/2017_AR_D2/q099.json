@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\t\nA figura mostra como é a emissão de radiação \neletromagnética para cinco tipos de lâmpada: haleto \nmetálico, tungstênio, mercúrio, xênon e LED (diodo \nemissor de luz). As áreas marcadas em cinza são \nproporcionais à intensidade da energia liberada pela \nlâmpada. As linhas pontilhadas mostram a sensibilidade \ndo olho humano aos diferentes comprimentos de onda. \nUV e IV são as regiões do ultravioleta e do infravermelho, \nrespectivamente.\nUm arquiteto deseja iluminar uma sala usando uma \nlâmpada que produza boa iluminação, mas que não \naqueça o ambiente.\nHaleto metálico\nTungstênio\nMercúrio\nXênon\nIntensidade emitida\nLED\n300\n200\n900\n800\n700\n600\n500\n400\nUV\nIV\nVisível\nComprimento de onda (nm)\n \nDisponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 (adaptado).\nQual tipo de lâmpada melhor atende ao desejo do arquiteto?\nA\t Haleto metálico.\nB\t Tungstênio.\nC\t Mercúrio.\nD\t Xênon.\nE\t LED.",
+  "processado_em": "2026-05-11T23:25:48.854115",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

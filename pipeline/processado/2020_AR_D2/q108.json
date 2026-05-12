@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 108        \nNos desenhos animados, com frequência se vê um \npersonagem correndo na direção de um abismo, mas, ao \ninvés de cair, ele continua andando no vazio e só quando \npercebe que não há nada sob seus pés é que ele para \nde andar e cai verticalmente. No entanto, para observar \numa trajetória de queda num experimento real, pode-se \nlançar uma bolinha, com velocidade constante (V0), sobre \na superfície de uma mesa e verificar o seu movimento de \nqueda até o chão. \nQual figura melhor representa a trajetória de queda da bolinha?\nA\nMesa\nSolo\nV0\nB\nMesa\nSolo\nV0\nC\nMesa\nSolo\nV0\nD\nMesa\nSolo\nV0\nE\nMesa\nV0",
+  "processado_em": "2026-05-11T23:28:13.785215",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

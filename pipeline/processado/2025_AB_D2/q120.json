@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 120\t\nA seleção natural pode alterar a distribuição da frequên\nacontece a partir dos fenótipos e, consequentemente, genótip\ntipos de seleção, há um tipo cujos critérios ambientais levam à \npreservando os fenótipos intermediários em casos de herança\nO efeito dessa seleção nessa população implicará o(a)\nA\tpermanência de fenótipos recessivos.\nB\tescolha de fenótipos aleatoriamente.\nC\tpredominância de genótipos heterozigotos.\nD\taumento de indivíduos com genótipos homozigotos domina\nE\tcrescimento da frequência de genótipos homozigotos reces",
+  "processado_em": "2026-05-08T14:06:51.176311",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

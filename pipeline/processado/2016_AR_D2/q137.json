@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\t\nPara a construção de isolamento acústico numa \nparede cuja área mede 9 m², sabe-se que, se a fonte \nsonora estiver a 3 m do plano da parede, o custo é \nde R$ 500,00. Nesse tipo de isolamento, a espessura \ndo material que reveste a parede é inversamente \nproporcional ao quadrado da distância até a fonte \nsonora, e o custo é diretamente proporcional ao volume \ndo material do revestimento.\nUma expressão que fornece o custo para revestir \numa parede de área A (em metro quadrado), situada \na D metros da fonte sonora, é\nA\n500 . 81\nA . D2\nB\n500 . A\nD2\nC\n500 . D2\nA\nD\n500 . A . D2\n81\nE\n500 . 3 . D2\nA",
+  "processado_em": "2026-05-08T14:01:18.012706",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

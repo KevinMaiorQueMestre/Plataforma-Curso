@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 106\t\nEm uma aula prática de química orgânica, um professor \nidentificou os frascos de várias substâncias apenas por suas \nfórmulas moleculares. Em seguida, apresentou a representação \ntridimensional da molécula do borneol, um álcool secundário, \nconforme a figura. Ele explicou que, quando oxidado, o borneol \ndá origem à cânfora, uma cetona usada desde a Antiguidade \ncomo incenso e no preparo de medicamentos. Finalmente, o \nprofessor solicitou que os alunos identificassem o frasco contendo \na substância cânfora.\nBorneol\nSANTOS, A. P. B. et al. Oxidação do borneol à cânfora com água sanitária: \num experimento simples de baixo custo e limpo. \nQuímica Nova, n. 6, 2009 (adaptado).\nO frasco contendo cânfora apresenta a fórmula molecular:\nA\tC9H16O\nB\tC9H17O\nC\tC10H16O\nD\tC10H16O2\nE\tC10H18O2",
+  "processado_em": "2026-05-08T14:07:05.693679",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

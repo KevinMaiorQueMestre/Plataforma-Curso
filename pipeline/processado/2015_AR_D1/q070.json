@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nUm garoto foi à loja comprar um estilingue e \nencontrou dois modelos: um com borracha mais “dura” \ne outro com borracha mais “mole”. O garoto concluiu \nque o mais adequado seria o que proporcionasse maior \nalcance horizontal, D, para as mesmas condições de \narremesso, quando submetidos à mesma força aplicada. \nSabe-se que a constante elástica kd (do estilingue mais \n“duro”) é o dobro da constante elástica km (do estilingue \nmais “mole”).\nA razão entre os alcances Dd\nDm\n, referentes aos estilingues \ncom borrachas “dura” e “mole”, respectivamente, é igual a\nA\t\n1\n4\n.\nB\t\n1\n2\n.\nC\t\n1.\nD\t\n2.\nE\t\n4.",
+  "processado_em": "2026-05-08T14:00:48.104419",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

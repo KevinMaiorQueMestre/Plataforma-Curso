@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nPara os Impérios Coloniais, o problema das \ndoenças que atingiam os escravos era algo com que \ncotidianamente deparavam os senhores. Em vista \ndisso, uma série de obras dedicadas à administração \nde escravos foi publicada com vista a implementar \numa moderna gestão da mão de obra escravista em \nconvergência com o Iluminismo. Nesse contexto, \no saber médico adquiria um papel extremamente \nrelevante. Este era encarado como um instrumento \nfundamental ao desenvolvimento colonial, dada a \npercepção do impacto que as doenças tropicais \ncausavam na população branca e nos povos \nescravizados.\nABREU, J. L. N. A Colônia enferma e a saúde dos povos: a medicina das “luzes” e as \ninformações sobre as enfermidades da América portuguesa. História, Ciências, \nSaúde – Manguinhos, n. 3, jul.-set. 2007 (adaptado).\nDe acordo com o texto, a importância da medicina se \njustifica no âmbito dos objetivos \nA\t\nA\t econômicos das elites.\nB\t\nB\t naturalistas dos viajantes.\nC\t\nC\t abolicionistas dos letrados.\nD\t\nD\t tradicionalistas dos nativos.\nE\t\nE\t emancipadores das metrópoles.",
+  "processado_em": "2026-05-08T14:05:05.110051",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

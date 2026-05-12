@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\t\nA dublagem é o novo campo a ser explorado pela \ninteligência artificial, e há empresas dedicadas a fazer \ncom que as vozes originais de atores sejam transpostas \npara outros idiomas. A novidade reforça a tendência da \nautomação de postos de trabalho nas mais diversas áreas. \nTem potencial para facilitar a vida de estúdios e produtoras \ne, ao mesmo tempo, tornar mais escassas as oportunidades \npara dubladores e atores que trabalham com isso.\nGAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.\nA consequência da mudança tecnológica apresentada no \ntexto é a\nA\t\nA\t proteção da economia nacional.\nB\t\nB\t valorização da cultura tradicional.\nC\t\nC\t diminuição da formação acadêmica.\nD\t\nD\t estagnação da manifestação artística.\nE\t\nE\t ampliação do desemprego estrutural.",
+  "processado_em": "2026-05-08T14:05:04.127145",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 65\t\nOs portos sempre foram respostas ao comércio \npraticado em grande volume, que se dá via marítima, \nlacustre \ne \nfluvial, \ne \nsofreram \nadaptações, \nou \nmodernizações, de acordo com um conjunto de fatores \nque vão desde a sua localização privilegiada frente a \nextensas hinterlândias, passando por sua conectividade \ncom modernas redes de transportes que garantam \nacessibilidade, associados, no atual momento, à \ntecnologia, que os transformam em pontas de lança de \numa economia globalizada que comprime o tempo em \nnome da produtividade e da competitividade.\nROCHA NETO, J. M.; CRAVIDÃO, F. D. Portos no contexto do meio técnico. \n Mercator, n. 2, maio-ago. 2014 (adaptado).\nUma mudança que permitiu aos portos adequarem-se \nàs novas necessidades comerciais apontadas no \ntexto foi a\nA\t intensificação do uso de contêineres.\nB\t compactação das áreas de estocagem.\nC\t burocratização dos serviços de alfândega.\nD\t redução da profundidade dos atracadouros.\nE\t superação da especialização dos cargueiros.",
+  "processado_em": "2026-05-11T23:26:39.665894",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

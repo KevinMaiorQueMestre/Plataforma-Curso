@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nIniciou-se em 1903 a introdução de obras de arte \ncom representações de bandeirantes no acervo do \nMuseu Paulista, mediante a aquisição de uma tela que \nhomenageava o sertanista que comandara a destruição \ndo Quilombo de Palmares. Essa aquisição, viabilizada \npor verba estadual, foi simultânea à emergência de uma \ninterpretação histórica que apontava o fenômeno do \nsertanismo paulista como o elo decisivo entre a trajetória \nterritorial do Brasil e de São Paulo, concepção essa que \nse consolidaria entre os historiadores ligados ao Instituto \nHistórico e Geográfico de São Paulo ao longo das três \nprimeiras décadas do século XX. \nMARINS, P. C. G. Nas matas com pose de reis: a representação de bandeirantes e a \ntradição da retratística monárquica europeia. Revista do LEB, n. 44, fev. 2007.\nA prática governamental descrita no texto, com a escolha \ndos temas das obras, tinha como propósito a construção \nde uma memória que\nA\t afirmava a centralidade de um estado na política \ndo país.\nB\t resgatava a importância da resistência escrava \nna história brasileira.\nC\t evidenciava a importância da produção artística no \ncontexto regional.\nD\t valorizava a saga histórica do povo na afirmação de \numa memória social.\nE\t destacava a presença do indígena no desbravamento \ndo território colonial.",
+  "processado_em": "2026-05-08T14:00:42.752619",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

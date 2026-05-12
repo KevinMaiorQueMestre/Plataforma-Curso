@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 78\t\nA contaminação pelo vírus da rubéola é especialmente \npreocupante em grávidas, devido à síndrome da rubéola \ncongênita (SRC), que pode levar ao risco de aborto \ne malformações congênitas. Devido a campanhas de \nvacinação específicas, nas últimas décadas houve uma \ngrande diminuição de casos de rubéola entre as mulheres, \ne, a partir de 2008, as campanhas se intensificaram e têm \ndado maior enfoque à vacinação de homens jovens.\nBRASIL. Brasil livre da rubéola: campanha nacional de vacinação para eliminação da \nrubéola. Brasília: Ministério da Saúde, 2009 (adaptado).\nConsiderando a preocupação com a ocorrência da SRC, \nas campanhas passaram a dar enfoque à vacinação dos \nhomens, porque eles\nA\t ficam mais expostos a esse vírus.\nB\t transmitem o vírus a mulheres gestantes.\nC\t passam a infecção diretamente para o feto.\nD\t transferem imunidade às parceiras grávidas.\nE\t são mais sucetíveis a esse vírus que as mulheres.",
+  "processado_em": "2026-05-08T14:00:14.044592",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

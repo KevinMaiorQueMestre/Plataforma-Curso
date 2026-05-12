@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nÉ vantajoso que as crianças possam entender \no funcionamento por trás da tecnologia que está \npresente em diversos aspectos da vida cotidiana, \naproveitando a curiosidade infantil como impulso inicial. \nA computação ajuda a desenvolver o raciocínio, a melhorar \na comunicação e a trabalhar a capacidade de resolver \nproblemas. Os computadores executam tarefas por meio \nde comandos dados em uma programação. Essa, por sua \nvez, é feita com linguagens próprias, que funcionam como \numa espécie de “idioma”, por meio do qual o programador \nse comunica com as máquinas.\nPorém, mais do que dominar essas linguagens, \no programador precisa empregar a lógica computacional. \nO programador precisa expressar em seu código as \ncondições e seus efeitos, como “se acontecer A, faça \nB, a não ser que haja X, então faça C”. A escrita de um \nalgoritmo é repleta de condições interconectadas, do tipo \n“se”, “então”, “senão”, “ou”, “até que”, “enquanto” etc. Por \nisso, para programar, é necessário compreender esse \ntipo de raciocínio. Para as crianças, isso é tarefa fácil; \nafinal elas têm uma capacidade incrível de assimilar \ninformações novas.\nDisponível em: https://catracalivre.com.br. Acesso em: 25 nov. 2021.\nEsse texto promove uma reflexão sobre o ensino de \nprogramação na infância. A defesa da proposta está \nancorada na caracterização da programação com base \nna sua\nA\t\nA\t conexão com aspectos lúdicos da infância.\nB\t\nB\t autonomia em relação ao raciocínio lógico.\nC\t\nC\t presença crescente no dia a dia das pessoas.\nD\t\nD\t similaridade com o funcionamento das línguas.\nE\t\nE\t capacidade de inovação na resolução de tarefas.",
+  "processado_em": "2026-05-08T14:05:16.468356",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

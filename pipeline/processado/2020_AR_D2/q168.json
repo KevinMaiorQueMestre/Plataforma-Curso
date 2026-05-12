@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 168        \nUma loja de materiais de construção vende dois tipos de \ncaixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e \npossuem o mesmo volume, e a altura da caixa-d’água do \ntipo B é igual a 25% da altura da caixa-d’água do tipo A.\nSe R denota o raio da caixa-d’água do tipo A, então o raio \nda caixa-d’água do tipo B é\nA  R\n2\nB   2 R\nC  4 R\nD  5 R\nE 16 R",
+  "processado_em": "2026-05-11T23:28:19.932217",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

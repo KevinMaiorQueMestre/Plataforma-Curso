@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 137                \nEm um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até \nalcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo \nconvenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, \nformando assim um sólido rígido, como ilustrado na figura.\nPara facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três \nplanos quadriculados perpendiculares entre si, durante sua descida.\nA figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três \nplanos citados, durante sua descida é\nA\nD\nB\nE",
+  "processado_em": "2026-05-11T23:28:16.127427",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

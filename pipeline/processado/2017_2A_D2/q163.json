@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\nUma escola organizou uma corrida de revezamento \n\u0017\u0003 î\u0003 \u0017\u0013\u0013\u0003 PHWURV\u000f\u0003 TXH\u0003 FRQVLVWH\u0003 HP\u0003 XPD\u0003 SURYD\u0003 HVSRUWLYD\u0003\nna qual os atletas correm 400 metros cada um deles, \nVHJXUDQGR\u0003XP\u0003EDVWmR\u000f\u0003UHSDVVDQGR\u0010R\u0003GH\u0003XP\u0003DWOHWD\u0003SDUD\u0003\noutro da mesma equipe, realizando três trocas ao longo \ndo percurso, até o quarto atleta, que cruzará a linha de \nFKHJDGD\u0003 FRP\u0003 R\u0003 EDVWmR\u0011\u0003$\u0003 HTXLSH\u0003 JDQKDGRUD\u0003 UHDOL]RX\u0003 D\u0003\nprova em um tempo total de 325 segundos.\nO segundo corredor da equipe ganhadora correu seus \n400 metros 15 segundos mais rápido do que o primeiro; \njá o terceiro realizou seus 400 metros 5 segundos mais \nrápido que o segundo corredor, e o último realizou\nseu percurso em 3\n4\n do tempo realizado pelo primeiro.\nQual foi o tempo, em segundo, em que o último atleta da \nHTXLSH\u0003JDQKDGRUD\u0003UHDOL]RX\u0003VHX\u0003SHUFXUVR\u0003GH\u0003\u0017\u0013\u0013\u0003PHWURV\"\nA 58\nB 61\nC 69\nD 72\nE 96",
+  "processado_em": "2026-05-11T23:25:30.911696",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 67\t\nTEXTO I\nConsidero apropriado deter-me algum tempo na \ncontemplação deste Deus todo perfeito, ponderar \ntotalmente à vontade seus maravilhosos atributos, \nconsiderar, admirar e adorar a incomparável beleza \ndessa imensa luz.\nDESCARTES, R. Meditações. São Paulo: Abril Cultural, 1980.\nTEXTO II\nQual será a forma mais razoável de entender como é \no mundo? Existirá alguma boa razão para acreditar que \no mundo foi criado por uma divindade todo-poderosa? \nNão podemos dizer que a crença em Deus é “apenas” \numa questão de fé.\nRACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.\nOs textos abordam um questionamento da construção \nda modernidade que defende um modelo\nA\t centrado na razão humana.\nB\t baseado na explicação mitológica.\nC\t fundamentado na ordenação imanentista.\nD\t focado na legitimação contratualista.\nE\t configurado na percepção etnocêntrica.",
+  "processado_em": "2026-05-11T23:27:25.925119",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

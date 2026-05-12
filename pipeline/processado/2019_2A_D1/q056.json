@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 56\t\nA ciência ativa rompe com a separação antiga entre a \nciência (episteme), o saber teórico, e a técnica (techne), \no saber aplicado, integrando ciência e técnica. Do ponto \nde vista da ideia de ciência, a valorização da observação \ne do método experimental opõe a ciência ativa à ciência \ncontemplativa dos antigos; assim também, a utilização \nda matemática como linguagem da física, proposta por \nGalileu sob inspiração platônica e pitagórica, e contrária à \nconcepção aristotélica",
+  "processado_em": "2026-05-11T23:27:00.220996",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

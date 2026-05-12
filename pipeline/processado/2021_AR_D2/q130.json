@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 130\nA sequência de nucleotídeos do RNA mensageiro \npresentes em um gene de um fungo, constituída de sete \ncódons, está escrita a seguir.\n1\n2\n3\n4\n5\n6\n7\nAUG\nUUU\nGUU\nCAA\nUGU\nAGU\nUAG\nPesquisadores submeteram a sequência a mutações \n\u000e\u0005\u000f\n%\n\u0005\u000f\n\u0005\r\n\t(\u0002\u001a\b!\n/\t\n\u0002\u000b\f\n\u0002\u0004\t\u0002\u001eB\u000f\u0004\u0005\t\u0002UAG e UAA\u0002\t\u001d\u0004\u0002\n\r\n\u0007\u0010\u000e\u0005\b\u000e\t$\u0002\u0004\f\u0002\t\n\"\b$\u0002\u000e\u0005\u000f\u000e\u001e\b\u0010\u0002\b\u0002\u000e\u0005\r\n\u0007\u0007\f%'\u001d\u0004\u0002\u000f\b\u0002\r\u0007\b\u000f\f'\u001d\u0004(\n\u0018\f\b2\u0002\u0010\f\r\b'\u001d\u0004\u0002%\u0007\u0004\u000f\f\u000e\u0007?\u0002\b\u0002\u0010\n\u0005\u0004\u0007\u0002%\u0007\u0004\r\nG\u0005\b\nA \u0013\n2\n'\u001d\u0004\u0002\u000f\n\u0002\u0002\u0005\u0004\u0002\u001eB\u000f\u0004\u0005\u0002(\nB \u001a\f!\t\r\u000e\r\f\u000e'\u001d\u0004\u0002\u000f\n\u0002\u0003\u0002%\u0004\u0007\u0002\u0019\u0002\u0005\u0004\u0002\u001eB\u000f\u0004\u0005\u0002(\nC \u001a\f!\t\r\u000e\r\f\u000e'\u001d\u0004\u0002\u000f\n\u0002\u0002%\u0004\u0007\u0002\u0003\u0002\u0005\u0004\u0002\u001eB\u000f\u0004\u0005\u0002¹(\nD \u001a\f!\t\r\u000e\r\f\u000e'\u001d\u0004\u0002\u000f\n\u0002\u0012\u0002%\u0004\u0007\u0002\u0002\u0005\u0004\u0002\u001eB\u000f\u0004\u0005\u0002¼(\nE \u0013\n2\n'\u001d\u0004\u0002\u000f\u0004\t\u0002\u000f\u0004\u000e\t\u0002%\u0007\u000e\u0010\n\u000e\u0007\u0004\t\u0002\u0005\f\u001e2\n\u0004\rG\u000f\n\u0004\t\u0002\u0005\u0004\u0002\u001eB\u000f\u0004\u0005\u0002&(",
+  "processado_em": "2026-05-08T14:04:30.205634",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

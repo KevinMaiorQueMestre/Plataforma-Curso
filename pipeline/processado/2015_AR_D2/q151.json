@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\t\nUma empresa de telefonia celular possui duas antenas \nque serão\n por uma nova, mais potente. \nAs áreas de cobertura das antenas que serão substituídas \nsão círculos de raio 2 km, cujas circunferências se \ntangenciam no ponto O, como mostra a figura.\nÁrea de cobertura\nAntena 1\nÁrea de cobertura\nAntena 2\nÁrea de cobertura\nNova antena\nO\nO ponto O indica a posição da nova antena, e sua \nregião de cobertura será um círculo cuja circunferência \ntangenciará externamente as circunferências das áreas \nde cobertura menores.\nCom a instalação da nova antena, a medida da área de \ncobertura, em quilômetros quadrados, foi ampliada em\nA\t 8π.\nB\t 12π.\nC\t 16π.\nD\t 32π.\nE\t 64π.\n substituídas",
+  "processado_em": "2026-05-08T14:00:57.273880",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

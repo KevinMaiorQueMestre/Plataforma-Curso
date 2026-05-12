@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 84\t\nA Declaração Universal dos Direitos Humanos, \nadotada e proclamada pela Assembleia Geral da ONU \nna Resolução 217-A, de 10 de dezembro de 1948, \nfoi um acontecimento histórico de grande relevância. \nAo afirmar, pela primeira vez em escala planetária, o \npapel dos direitos humanos na convivência coletiva, \npode ser considerada um evento inaugural de uma nova \nconcepção de vida internacional.\nLAFER, C. Declaração Universal dos Direitos Humanos (1948). \nIn: MAGNOLI, D. (Org.). História da paz. São Paulo: Contexto, 2008.\nA declaração citada no texto introduziu uma nova \nconcepção nas relações internacionais ao possibilitar a\nA\t superação da soberania estatal.\nB\t defesa dos grupos vulneráveis.\nC\t redução da truculência belicista.\nD\t impunidade dos atos criminosos.\nE\t inibição dos choques civilizacionais.",
+  "processado_em": "2026-05-11T23:27:27.750936",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

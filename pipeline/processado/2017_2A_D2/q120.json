@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\n8PD\u0003OkPSDGD\u0003p\u0003FRQHFWDGD\u0003D\u0003GXDV\u0003SLOKDV\u0003GH\u0003WHQVmR\u0003\nnominal 1,5 V, ligadas em série. Um voltímetro, utilizado \npara medir a diferença de potencial na lâmpada, fornece \numa leitura de 2,78 V e um amperímetro indica que a \ncorrente no circuito é de 94,2 mA.\nO valor da resistência interna das pilhas é mais próximo de\nA \u0013\u000f\u0013\u0015\u0014\u0003\u0011\nB \u0013\u000f\u0015\u0015\u0003\u0011\nC \u0013\u000f\u0015\u0019\u0003\u0011\nD \u0015\u000f\u0016\u0003\u0011\nE \u0015\u001c\u0003\u0011",
+  "processado_em": "2026-05-11T23:25:28.893017",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

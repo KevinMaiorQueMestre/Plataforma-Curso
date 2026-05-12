@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 103\t\nO sucesso adaptativo dos répteis relaciona-se, \ndentre outros fatores, ao surgimento de um revestimento \nepidérmico de queratina para economia de água \nmetabólica.\nEssa característica seria prejudicial em anfíbios, pois \nacarretaria problemas\nA\t circulatórios, em razão da limitação na força contrátil \ndo coração tricavitário.\nB\t excretórios, em razão de incapacidade renal de \nprocessar níveis elevados de urina.\nC\t digestivos, em razão da limitação do intestino em \nabsorver alimentos muito diluídos.\nD\t locomotores, em razão de incapacidade óssea de \nsustentar um animal mais pesado.\nE\t respiratórios, em razão da pequena capacidade dos \npulmões de realizar trocas gasosas.",
+  "processado_em": "2026-05-11T23:26:20.556412",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

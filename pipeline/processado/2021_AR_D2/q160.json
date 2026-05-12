@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 160\n\u0019\u0010\u0002\b\r2\n\r\b\u0002%\u0007\u0004\u000f\f\u0002\t\f\b\u0002%\u0007B%\u0007\u000e\b\u0002\u0007\nP\n\u000e'\u001d\u0004\u0002\u001e\u0004\u0010\u0002\u001e\f\t\r\u0004\u0002\u0006@\u0004\u0002\u000f\n!\b\r\b\r\b/\u000f\u0004\u001e\n\u0002\n\u0002\f\u0010\b\u0002+\u0004\u0007\r\b2\u000e'\b(\u0002\u0012\r\f\b2\u0010\n\u0005\r\n$\u0002\u0004\t\u0002%\u0007\n'\u0004\t\u0002\u000f\u0004\t\u0002%\u0007\nRefeição\nFrango (kg)\n\u0015½\u0002{~$&}\n\u0014\u0010\u0002\u0007\n2\b'\u001d\u0004\u0002\b\u0002\n\t\t\n\t\u0002%\u0007\n'\u0004\t$\u0002+\b#\n\u0007?\u0002\f\u0010\u0002\b\f\u0010\n\u0005\r\u0004\u0002\u000f\n\u0002\n%\u0007\n'\u0004\t\u0002\u0005\u001d\u0004\u0002\t\n\u0007\u001d\u0004\u0002\b2\r\n\u0007\b\u000f\u0004\t(\u0002\u0017\u0002\b\r2\n\r\b\u0002\u000f\n\t\n\"\b\u0002\u0010\b\u0005\r\n\u0007\u0002\u0004\u0002\u001e\f\t\nPortanto, terá que reduzir a quantidade de frango.\n\u0018\f\b2\u0002\u000f\n#\n\u0002\t\n\u0007\u0002\b\u0002\u0007\n\u000f\f'\u001d\u0004\u0002%\n\u0007\u001e\n\u0005\r\f\b2\u0002\u000f\b\u0002\u000b\f\b\u0005\r\u000e\u000f\b\u000f\n\u0002\u000f\n\u0002P\u0007\b\nA  12,5\nB  28,0\nC  30,0\nD  50,0\nE  70,0",
+  "processado_em": "2026-05-08T14:04:31.610449",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

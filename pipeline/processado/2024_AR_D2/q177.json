@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nUm fazendeiro pretende construir um galinheiro \nocupando uma região plana de formato retangular, com \nlados de comprimentos L metro e C metro. Os lados serão \ncercados por telas de tipos diferentes. Nos lados de \ncomprimento L metro, será utilizada uma tela cujo metro \nlinear custa R$ 20,00, enquanto, nos outros dois lados, \numa que custa R$ 15,00. O fazendeiro quer gastar, no \nmáximo, R$ 6 000,00 na compra de toda a tela necessária \npara o galinheiro, e deseja que o galinheiro tenha a maior \nárea possível.\nQual será a medida, em metro, do maior lado do galinheiro?\nA\t85\nB\t100\nC\t175\nD\t200\nE\t350",
+  "processado_em": "2026-05-08T14:06:21.669308",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

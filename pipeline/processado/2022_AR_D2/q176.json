@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nAo analisar os dados de uma epidemia em uma cidade\npessoas infectadas a cada mês, ao longo de um ano. O m\nnatural, variando de 1 a 12, que representa os meses do a\nano. Para tentar diminuir o número de infectados no próxim\na propaganda oficial sobre os cuidados com a epidemia\ncom diferentes períodos de intensificação das propaganda\n•\t I: 1 ≤ t ≤ 2;\n•\t II: 3 ≤ t ≤ 4;\n•\t III: 5 ≤ t ≤ 6;\n•\t IV: 7 ≤ t ≤ 9; \n•\t V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a propost\nmês em que, segundo o modelo, há a maior quantidade de\nA proposta escolhida foi a",
+  "processado_em": "2026-05-08T14:05:13.193632",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

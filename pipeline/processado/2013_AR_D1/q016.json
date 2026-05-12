@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q016",
+  "imagem": "q016.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 16,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 16\t\nUm trabalhador em tempo flexível controla o \nlocal do trabalho, mas não adquire maior controle \nsobre o processo em si. A essa altura, vários estudos \nsugerem que a supervisão do trabalho é muitas vezes \nmaior para os ausentes do escritório do que para os \npresentes. O trabalho é fisicamente descentralizado e \no poder sobre o trabalhador, mais direto.\nSENNETT, R. A corrosão do caráter: consequências pessoais do novo capitalismo. \nRio de Janeiro: Record, 1999 (adaptado).\nComparada à organização do trabalho característica do \ntaylorismo e do fordismo, a concepção de tempo analisada \nno texto pressupõe que\nA\t as tecnologias de informação sejam usadas para \ndemocratizar as relações laborais.\nB\t as estruturas burocráticas sejam transferidas da \nempresa para o espaço doméstico.\nC\t os procedimentos de terceirização sejam aprimorados \npela qualificação profissional.\nD\t as organizações sindicais sejam fortalecidas com a \nvalorização da especialização funcional.\nE\t os mecanismos de controle sejam deslocados dos \nprocessos para os resultados do trabalho",
+  "processado_em": "2026-05-08T14:00:09.407417",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 115\t\nEm experimento realizado com células de raízes de cebola \ncomum (Allium cepa), após tratamento com águas de esgoto, \nfoi encontrada uma frequência elevada de cromossomos \nmetafásicos característicos, não alinhados, no plano equatorial \ndas células. Pela análise dos dados, verificou-se que essas águas \npodem provocar alterações celulares, com implicações para a \nsobrevivência dos diversos organismos expostos a elas.\nEm um ciclo celular normal, as alterações observadas demonstram \nque essas águas interferiram na\nA\treplicação do DNA.\nB\tocorrência da citocinese.\nC\tatividade do fuso mitótico.\nD\tcondensação cromossômica.\nE\tfragmentação do envoltório nuclear.",
+  "processado_em": "2026-05-08T14:06:50.986581",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 58\t\nMuitos países se caracterizam por terem populações \nmultiétnicas. Com frequência, evoluíram desse modo \nao longo de séculos. Outras sociedades se tornaram \nmultiétnicas mais rapidamente, como resultado de \npolíticas incentivando a migração, ou por conta de legados \ncoloniais e imperiais. \nGIDDENS, A. Sociologia. Porto Alegre: Penso, 2012 (adaptado).\nDo ponto de vista do funcionamento das democracias \ncontemporâneas, o modelo de sociedade descrito \ndemanda, simultaneamente,\nA\t defesa do patriotismo e rejeição ao hibridismo.\nB\t universalização de direitos e respeito à diversidade.\nC\t segregação do território e estímulo ao autogoverno.\nD\t políticas de compensação e homogeneização do idioma. \nE\t padronização \nda \ncultura \ne \nrepressão \naos \nparticularismos.",
+  "processado_em": "2026-05-11T23:25:41.587348",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

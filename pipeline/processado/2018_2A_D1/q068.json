@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nOs níveis de desigualdade construídos historicamente \nnão se referem apenas a uma questão de mérito individual, \nmas à falta de condições iguais de oportunidades de \nacesso a educação, trabalho, saúde, moradia e lazer. \nAs pesquisas mostram que há um grande abismo racial \nno Brasil, e as estatísticas, ao apontarem as condições \nde vida, emprego e escolaridade entre negros e brancos, \ncomprovam que essa desigualdade é fruto da estrutura \nracista, somada à exclusão social e à desigualdade \nsocioeconômica, que atinge toda a população brasileira \ne, de modo particular, os negros.\nMUNANGA, K.; GOMES, N. L. Para entender o negro no Brasil de hoje: história, realidades, \nproblemas e caminhos. São Paulo: Global; Ação Educativa, 2004 (adaptado).\nO conjunto de ações adotado pelo Estado brasileiro, a \npartir da última década do século XX, para enfrentar os \nproblemas sociais descritos no texto resultaram na\nA\t ampliação de planos viários de urbanização.\nB\t democratização da instrução escolar pública.\nC\t manutenção da rede hospitalar universitária.\nD\t preservação de espaços de entretenimento locais.\nE\t descentralização do sistema nacional de habitação.",
+  "processado_em": "2026-05-11T23:26:15.088286",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

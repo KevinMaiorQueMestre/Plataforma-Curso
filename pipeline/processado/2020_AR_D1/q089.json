@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 89          \nAdão, ainda que supuséssemos que suas faculdades \nracionais fossem inteiramente perfeitas desde o início, \nnão poderia ter inferido da fluidez e transparência da \nágua que ela o sufocaria, nem da luminosidade e calor \ndo fogo que este poderia consumi-lo. Nenhum objeto \njamais revela, pelas qualidades que aparecem aos \nsentidos, nem as causas que o produziram, nem os \nefeitos que dele provirão; e tampouco nossa razão é \ncapaz de extrair, sem auxílio da experiência, qualquer",
+  "processado_em": "2026-05-11T23:28:08.010098",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

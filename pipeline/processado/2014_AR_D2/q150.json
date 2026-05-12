@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\t\nAo final de uma competição de ciências em uma \nescola, restaram apenas três candidatos. De acordo \ncom as regras, o vencedor será o candidato que obtiver \na maior média ponderada entre as notas das provas \nfinais nas disciplinas química e física, considerando, \nrespectivamente, os pesos 4 e 6 para elas. As notas \nsão sempre números inteiros. Por questões médicas, o \ncandidato II ainda não fez a prova final de química. No dia \nem que sua avaliação for aplicada, as notas dos outros \ndois candidatos, em ambas as disciplinas, já terão sido \ndivulgadas.\nO quadro apresenta as notas obtidas pelos finalistas \nnas provas finais.\nCandidato\nQuímica\nFísica\nI\n20\n23\nII\nX\n25\nIII\n21\n18\nA menor nota que o candidato II deverá obter na prova \nfinal de química para vencer a competição é\nA\t 18.\nB\t 19.\nC\t 22.\nD\t 25.\nE 26",
+  "processado_em": "2026-05-08T14:00:39.224562",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

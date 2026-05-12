@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 69\t\nA difusão pelos cônegos do ideal apostólico, bem como \na influência dos eremitas e dos pregadores errantes que na \nsua esteira propagavam temas evangélicos, contribuíram para \nfazer nascer, entre os fiéis, o desejo de se erguerem ao nível \nespiritual do clero e de obterem a sua salvação, sem que para \nisso tivessem de renunciar ao seu estado. Pela primeira vez, \na Igreja entreabria as portas da graça em benefício da totalidade \ndos fiéis, colocando, como única condição, a sua partida para \no Oriente, a fim de aí lutarem contra os inimigos de Cristo.\nVAUCHEZ, A. A espiritualidade da Idade Média Ocidental, \nséc. VIII-XIII. Lisboa: Estampa, 1995.\nConforme o texto, no imaginário dos fiéis cristãos do período \nmedieval, a salvação era alcançada por meio das\nA\tpalavras escritas.\nB\tpráticas litúrgicas.\nC\tações voluntárias.\nD\tideias messiânicas.\nE celebrações coletivas",
+  "processado_em": "2026-05-08T14:07:02.080959",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

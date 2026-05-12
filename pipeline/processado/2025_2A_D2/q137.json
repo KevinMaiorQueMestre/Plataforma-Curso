@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 137 \nUma empresa foi contratada para realizar a instalação de\n14 dias. Essa empresa iniciou a instalação com 4 funcionários de\ndiárias. Ao finalizar o 10º dia de trabalho, apenas 2\n5  da instala\nPreocupado com o cumprimento do prazo estipulado, o\nrendimento igual ao dos já contratados, e que todos deveriam\nPara concluir a instalação no prazo estipulado, o número mínim\nA 1.\nB 2.\nC 5.\nD 8.\nE 9.",
+  "processado_em": "2026-05-08T14:06:36.595514",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

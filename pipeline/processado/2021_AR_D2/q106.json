@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 106  \nO emprego de células de combustível a hidrogênio pod\nO quadro apresenta características de cinco tecnologias m\nTipo de célula de \ncombustível\nTemperatura \noperacional (°C)\nAFC\n}\u0002/\u0002{}}\nHidró\nMSFC\n600\u0002/\u00021 000\nCa\ne/\nPEM\n60\u0002/\u0002100\n%\u00042\u000e%\nPAFC\n175\u0002/\u0002200\nÁ\nSOFC\n600\u0002/\u00021 000\n£@\u000e",
+  "processado_em": "2026-05-08T14:04:29.090449",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

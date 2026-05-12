@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 38\t\nA identificação simbólica que existe na cultura \nesportiva pode ser um fator determinante nas ações \npotencialmente \nagressivas \ndos \nespectadores \ne \ntorcedores de futebol. Essa identificação em indivíduos \nque não têm uma identidade própria pode levá-los a não \nperceber os limites entre a sua vida e a sua equipe, ou \nentre a sua vida e a vida de um ídolo (jogador), e, dessa \nforma, passar a viver suas emoções basicamente por \nmeio de acontecimentos esportivos, do sucesso e da \nderrota de seu clube predileto. Alguns dos torcedores \norganizados dedicam a vida à sua torcida. Vivem para \nela e, por ela, chegam a perder qualquer outra referência, \npois é essa experiência compensatória que lhes dá \nidentidade. A probabilidade de um indivíduo se tornar um \ntorcedor fanático está diretamente relacionada com a \nconstrução da sua identidade. Por isso, é imprescindível \no desenvolvimento de relações e valores próprios que o \najudarão a delinear o limite entre ele e a sua equipe, ou \nentre ele e um jogador de futebol.\nREIS, H. H. B. Futebol e violência. Campinas: Armazém do Ipê; \nAutores Associados, 2006 (adaptado).",
+  "processado_em": "2026-05-11T23:26:57.934515",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 77          \nA pirâmide de formato triangular da década de 1970 \nfoi dando lugar a uma pirâmide mais retangular de base \nmais estreita e topo mais largo. Em 1991, a população de \n0 a 14 anos correspondia a 34,7% da população brasileira, \ntendo passado para 24,1% em 2010. A população em \nidade ativa, entre 15 e 59 anos, por sua vez, passou de \n58,0% a 65,1% no mesmo período. \nIBGE. Brasil em números. Rio de Janeiro: IBGE, 2014.\nAs alterações no perfil demográfico brasileiro, descritas no \ntexto, trouxeram como consequência socioeconômica o(a)\nA \t aumento da mortalidade infantil.\nB \t crescimento das desigualdades regionais.\nC \t redução dos gastos na educação superior.\nD \t restrição no atendimento público hospitalar.\nE \t expansão na demanda por ocupações laborais.",
+  "processado_em": "2026-05-08T14:03:31.852607",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

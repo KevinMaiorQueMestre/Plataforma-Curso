@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nEm uma sala de cinema, para garantir que os especta\ndas poltronas deve obedecer à norma técnica da Assoc\nseguintes indicações:\n•\t Distância mínima (Dmín) entre a tela de projeção e o\nmenos, 60% da largura (L) da tela.\n•\t Distância máxima (Dmáx) entre a tela de projeção e o\nlargura (L) da tela, sendo aceitável uma distância de\nPara o espaçamento entre as fileiras de poltronas, é \npoltronas em duas fileiras consecutivas.\nUma sala de cinema, cuja largura da tela mede 12 m, e\ntem suas dimensões especificadas na figura.\nD\n2L\n=\nmáx\nL\nTela\nÁrea de instalação\nde novas poltronas\nD\n0,6L\nmín=\nD\n2,9L\naceitável=\nPretende-se ampliar essa sala, mantendo-se na me\nampliando-se ao máximo a sala para os fundos (área d\naceitável da norma da ABNT. A intenção é aumentar, ao \nnovas unidades, iguais às já instaladas.\nQuantas fileiras de poltronas a sala comportará após essa\nA\t\nA\t 26\nB\t\nB\t 27\nC\t\nC\t 28\nD\t\nD\t 29\nE\t\nE\t 35",
+  "processado_em": "2026-05-08T14:05:12.969681",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

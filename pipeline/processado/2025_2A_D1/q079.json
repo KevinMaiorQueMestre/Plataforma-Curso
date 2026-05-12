@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 79 \nCom o objetivo de promover o empoderamento de \nlideranças indígenas e entidades indigenistas nos debates \nsobre as mudanças climáticas e como ferramenta potencial \npara o desenvolvimento de planos de adaptação indígena, \nfoi desenvolvido o Sistema de Observação e Monitoramento \nda Amazônia Indígena (Somai). O Somai é uma plataforma da \nweb na qual estão disponibilizados dados científicos sobre \nalterações climáticas e ambientais para a Amazônia brasileira \ne suas Terras Indígenas.\nDOURADO, M. F. A gestão ambiental e territorial de Terras Indígenas. \nDisponível em: https://tidsskrift.dk/bras. \nAcesso em: 6 out. 2021 (adaptado).\nQual é o objetivo do sistema mencionado no texto?\nA Fiscalizar fronteiras nacionais.\nB Proteger biomas florestais.\nC Divulgar práticas culturais.\nD Criar tecnologias locais.\nE Transpor cursos fluviais.",
+  "processado_em": "2026-05-08T14:06:30.566197",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

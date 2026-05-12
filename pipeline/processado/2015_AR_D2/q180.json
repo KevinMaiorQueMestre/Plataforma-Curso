@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nEm uma central de atendimento, cem pessoas \nreceberam senhas numeradas de 1 até 100. Uma das \nsenhas é sorteada ao acaso.\nQual é a probabilidade de a senha sorteada ser um \nnúmero de 1 a 20?\nA\n1\n100\nB\n19\n100\nC\n20\n100\nD\n21\n100\nE\n80\n100",
+  "processado_em": "2026-05-08T14:00:59.516417",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

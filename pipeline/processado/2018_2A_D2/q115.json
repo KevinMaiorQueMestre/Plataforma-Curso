@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 115\t\nA ricina, substância tóxica extraída da mamona, \nliga-se ao açúcar galactose presente na membrana \nplasmática \nde \nmuitas \ncélulas \ndo \nnosso \ncorpo. \nApós serem endocitadas, penetram no citoplasma da \ncélula, onde destroem os ribossomos, matando a célula \nem poucos minutos.\nSADAVA, D. et al. Vida: a ciência da biologia. Porto Alegre: Artmed, 2009 (adaptado).\nO uso dessa substância pode ocasionar a morte de uma \npessoa ao inibir, diretamente, a síntese de\nA\t RNA.\nB\t DNA.\nC\t lipídios.\nD\t proteínas.\nE\t carboidratos.",
+  "processado_em": "2026-05-11T23:26:20.981857",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nO gráfico apresenta a taxa de desemprego (em %) \npara o período de março de 2008 a abril de 2009, \nobtida com base nos dados observados nas regiões \nmetropolitanas de Recife, Salvador, Belo Horizonte, \nRio de Janeiro, São Paulo e Porto Alegre.\nTaxa de desemprego (%)\n8,6\n8,5\n8,1\n7,7\n7,6\n7,9\n7,9\n7,6\n7,5\n6,8\n8,2\n8,5\n8,9\n9,0\n03/08\n04\n05\n06\n07\n08\n09\n10\n11\n12\n01/09\n02\n03\n04\nIBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. \nAcesso em: 30 jul. 2012 (adaptado).\nA mediana dessa taxa de desemprego, no período de \nmarço de 2008 a abril de 2009, foi de\nA\t 8,1%\nB\t 8,0%\nC\t 7,9%\nD\t 7,7%\nE\t 7,6%",
+  "processado_em": "2026-05-11T23:25:57.164790",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

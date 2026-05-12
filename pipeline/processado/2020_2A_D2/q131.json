@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 131          \nUm agricultor deseja utilizar um motor para bombear \nágua (ρ água = 1 kg L−1) de um rio até um reservatório \nonde existe um desnível de 30 m de altura entre o rio e o \nreservatório, como representado na figura. Ele necessita \nde uma vazão constante de 3 600 litros de água por hora. \nConsidere a aceleração da gravidade igual a 10 m s−2.\nMotor\nReservatório\nTubo\nTubo\nRio\nConsiderando a situação apresentada e desprezando \nefeitos de perdas mecânicas e elétricas, qual deve ser a \npotência mínima do motor para realizar a operação?\nA \t 1,0 × 101 W\nB \t 5,0 × 101 W\nC \t 3,0 × 102 W\nD \t 3,6 × 104 W\nE \t 1,1 × 106 W",
+  "processado_em": "2026-05-08T14:03:37.608032",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

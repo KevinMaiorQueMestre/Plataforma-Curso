@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 101\t\nA febre maculosa brasileira é uma doença infecciosa febril \naguda e com elevada taxa de letalidade. A transmissão se dá \npela picada do carrapato do gênero Amblyomma infectado pela \nbactéria Rickettsia rickettsii. As capivaras e os cavalos assumem \ngrande importância na cadeia epidemiológica da doença, pois \nsão os principais reservatórios dos carrapatos transmissores.\nDisponível em: http://portalsaude.saude.gov.br. \nAcesso em: 27 jun. 2015 (adaptado).\nQue medida preventiva é importante para prevenir a transmissão \ndessa doença?\nA\tTratar os doentes.\nB\tUtilizar telas em portas domiciliares.\nC\tRetirar sobras de alimento dos quintais.\nD\tFazer o controle biológico do vetor.\nE\tManter fechados os reservatórios de água.",
+  "processado_em": "2026-05-08T14:06:49.997290",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

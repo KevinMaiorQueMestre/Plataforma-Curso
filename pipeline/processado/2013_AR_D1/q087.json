@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87\t\nEm um dia sem vento, ao saltar de um avião, um paraqued\nem que o paraquedas é aberto (instante TA), ocorre a diminuiç\ndo paraquedas, ele passa a ter velocidade de queda constante\nQue gráfico representa a força resultante sobre o paraque\nA \nForça \nresultante\nTempo\n0\nTA\nB\nForça \nresultante\nTempo\n0\nTA\nC\nForça \nresultante\nTempo\n0\nTA",
+  "processado_em": "2026-05-08T14:00:14.453597",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\nUma pessoa comprou um ingresso para o cinema em\nbidimensional do posicionamento das poltronas, conforme\na subir uma das escadas e parou na posição indicada pela\ne observou que, para encontrar sua poltrona, deveria pa\ndireção norte por mais quatro fileiras e olhar à sua direita,\nFileiras\nEscada\nTe\nEntrada\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\n2\n1\n3\n4\n5\n6\nNesse cinema, as poltronas são identificadas por um\nposição da poltrona na fileira, respectivamente.\nA poltrona dessa pessoa é a identificada por\nA\t\nA\t A6.\nB\t\nB\t H1.\nC\t\nC\t H6.\nD\t\nD\t I1.\nE\t\nE\t I6.",
+  "processado_em": "2026-05-08T14:05:47.498034",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

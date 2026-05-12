@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\t\nEm uma loja, o preço promocional de uma geladeira \né de R$ 1 000,00 para pagamento somente em dinheiro. \nSeu preço normal, fora da promoção, é 10% maior. Para \npagamento feito com o cartão de crédito da loja, é dado \num desconto de 2% sobre o preço normal.\nUma cliente decidiu comprar essa geladeira, optando \npelo pagamento com o cartão de crédito da loja. Ela \ncalculou que o valor a ser pago seria o preço promocional \nacrescido de 8%. Ao ser informada pela loja do valor a \npagar, segundo sua opção, percebeu uma diferença entre \nseu cálculo e o valor que lhe foi apresentado.\nO valor apresentado pela loja, comparado ao valor \ncalculado pela cliente, foi\nA\t\nA\t R$ 2,00 menor.\nB\t\nB\t R$ 100,00 menor.\nC\t\nC\t R$ 200,00 menor.\nD\t\nD\t R$ 42,00 maior.\nE\t\nE\t R$ 80,00 maior.",
+  "processado_em": "2026-05-08T14:05:11.510848",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

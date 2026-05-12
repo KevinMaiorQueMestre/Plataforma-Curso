@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 65                \nO conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos \nterritórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as \nescalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território \nde fixos diversos, bem como de uma regulação específica.\nLIMA, R. C.; PENNA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). Confins, n. 26, fev. 2016.\nO mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)\nA \t alteração da matriz econômica.\nB \t substituição do modal hidroviário.\nC \t retração do contingente demográfico.\nD projeção do escoamento produtivo.",
+  "processado_em": "2026-05-11T23:28:05.488436",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nUm tanque de armazenamento de líquidos tem o \nformato de uma pirâmide reta de base quadrada, cujo \nplano que contém essa base é paralelo a um solo plano \ne horizontal. Esse tanque tem capacidade de 240 litros e \naltura de 2 metros. Inicialmente vazio, nele é despejado \num líquido à vazão constante de 0,015 m3/s.\nSabe-se que 1 L = 1 dm3 = 0,001 m3.\nQual expressão fornece a altura, em metro, da coluna de \nlíquido dentro desse tanque em função do tempo t, em \nsegundo?\nA\t\nt\n2\n3\nB\t\nt\n3\n2\nC\t 1\n10\n2\n3 t\nD\t 1\n10\n8\n3 t\nE\t 3\n10\n2\n3 t",
+  "processado_em": "2026-05-08T14:06:05.974744",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

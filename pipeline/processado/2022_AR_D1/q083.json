@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nNascidas no Líbano, as duas irmãs não puderam \nser registradas no país, porque lá é exigido que os \nnascidos sejam filhos de pais e mães libaneses. Seus \npais, de nacionalidade síria, também não puderam \nregistrá-las no país de origem. Na Síria, crianças só \nsão registradas por pais oficialmente casados, o que \nnão era o caso deles.\nDisponível em: https://agenciabrasil.ebc.com.br. Acesso em: 7 nov. 2021.\nEm situações como a apresentada no texto, as pessoas ao \nnascerem já se encontram na condição sociopolítica de\nA\t\nA\t exiladas.\nB\t\nB\t apátridas.\nC\t\nC\t foragidas.\nD\t\nD\t refugiadas.\nE\t\nE\t clandestinas.",
+  "processado_em": "2026-05-08T14:05:05.463025",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

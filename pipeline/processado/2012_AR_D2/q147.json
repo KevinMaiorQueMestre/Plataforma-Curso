@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 147\t\nAlguns objetos, durante a sua fabricação, necessitam \npassar por um processo de resfriamento. Para que isso \nocorra, uma fábrica utiliza um tanque de resfriamento, \ncomo mostrado na figura.\n5 cm\n25 cm\n30 cm\n40 cm\nO que aconteceria com o nível da água se colocássemos \nno tanque um objeto cujo volume fosse de 2 400 cm3?\nA\t O nível subiria 0,2 cm, fazendo a água ficar com \n20,2 cm de altura.\nB\t O nível subiria 1 cm, fazendo a água ficar com \n21 cm de altura.\nC\t O nível subiria 2 cm, fazendo a água ficar com \n22 cm de altura.\nD\t O nível subiria 8 cm, fazendo a água transbordar.\nE\t O nível subiria 20 cm, fazendo a água transbordar.",
+  "processado_em": "2026-05-08T13:59:49.305014",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

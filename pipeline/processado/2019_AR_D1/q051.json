@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 51\t\nEm sentido geral e fundamental, Direito é a técnica \nda coexistência humana, isto é, a técnica voltada a \ntornar possível a coexistência dos homens. Como \ntécnica, o Direito se concretiza em um conjunto de regras \n(que, nesse caso, são leis ou normas); e tais regras \ntêm por objeto o comportamento intersubjetivo, isto é, \no comportamento recíproco dos homens entre si.\nABBAGNANO, N. Dicionário de Filosofia. \nSão Paulo: Martins Fontes, 2007.\nO sentido geral e fundamental do Direito, conforme foi \ndestacado, refere-se à\nA\t aplicação de códigos legais.\nB\t regulação do convívio social.\nC\t legitimação de decisões políticas.\nD\t mediação de conflitos econômicos.\nE\t representação da autoridade constituída.",
+  "processado_em": "2026-05-11T23:27:25.094199",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

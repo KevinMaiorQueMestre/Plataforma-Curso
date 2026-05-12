@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 32\t\nEmagrecer sem exercício?\nHormônio aumenta a esperança de perder gordura  \nsem sair do sofá. A solução viria em cápsulas.\nO sonho dos sedentários ganhou novo aliado. \nUm estudo publicado na revista científica Nature, em \njaneiro, sugere que é possível modificar a gordura corporal \nsem fazer exercício. Pesquisadores do Dana-Farber \nCancer Institute e da Escola de Medicina de Harvard, \nnos EUA, isolaram em laboratório a irisina, hormônio \nnaturalmente produzido pelas células musculares \ndurante os exercícios aeróbicos, como caminhada, \ncorrida ou pedalada. A substância foi aplicada em ratos \ne agiu como se eles tivessem se exercitado, inclusive \ncom efeito protetor contra o diabetes.\nO segredo foi a conversão de gordura branca — \naquela que estoca energia inerte e estraga nossa silhueta \n— em marrom. Mais comum em bebês, e praticamente \ninexistente em adultos, esse tipo de gordura serve para \nnos aquecer E nesse processo gasta uma energia",
+  "processado_em": "2026-05-11T23:27:23.175350",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

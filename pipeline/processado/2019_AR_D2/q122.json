@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 122\t\nO objetivo de recipientes isolantes térmicos é \nminimizar as trocas de calor com o ambiente externo. \nEssa troca de calor é proporcional à condutividade \ntérmica k e à área interna das faces do recipiente, \nbem como à diferença de temperatura entre o \nambiente externo e o interior do recipiente, além de ser \ninversamente proporcional à espessura das faces.\nA fim de avaliar a qualidade de dois recipientes \nA (40 cm × 40 cm × 40 cm) e B (60 cm × 40 cm × 40 cm), \nde faces de mesma espessura, uma estudante compara \nsuas condutividades térmicas kA e kB. Para isso suspende, \ndentro de cada recipiente, blocos idênticos de gelo a \n0 °C, de modo que suas superfícies estejam em contato \napenas com o ar. Após um intervalo de tempo, ela abre \nos recipientes enquanto ambos ainda contêm um pouco \nde gelo e verifica que a massa de gelo que se fundiu no \nrecipiente B foi o dobro da que se fundiu no recipiente A.\nA razão kA\nkB\n é mais próxima de\nA\t 0,50.\nB\t 0,67.\nC\t 0,75.\nD\t 1,33.\nE\t 2,00.",
+  "processado_em": "2026-05-11T23:27:34.341774",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

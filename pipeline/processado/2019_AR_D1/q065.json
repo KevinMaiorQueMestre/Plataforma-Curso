@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 65\t\nPara Maquiavel, quando um homem decide dizer \na verdade pondo em risco a própria integridade física, \ntal resolução diz respeito apenas a sua pessoa. Mas se \nesse mesmo homem é um chefe de Estado, os critérios \npessoais não são mais adequados para decidir sobre \nações cujas consequências se tornam tão amplas, \njá que o prejuízo não será apenas individual, \nmas coletivo. Nesse caso, conforme as circunstâncias e \nos fins a serem atingidos, pode-se decidir que o melhor \npara o bem comum seja mentir.\nARANHA, M. L. Maquiavel: a lógica da força. \nSão Paulo: Moderna, 2006 (adaptado).\nO texto aponta uma inovação na teoria política na época \nmoderna expressa na distinção entre\nA\t idealidade e efetividade da moral.\nB\t nulidade e preservabilidade da liberdade.\nC\t ilegalidade e legitimidade do governante.\nD\t verificabilidade e possibilidade da verdade.\nE\t objetividade e subjetividade do conhecimento.",
+  "processado_em": "2026-05-11T23:27:25.833741",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

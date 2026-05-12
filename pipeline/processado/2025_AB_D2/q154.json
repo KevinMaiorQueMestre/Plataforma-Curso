@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 154\t\nUm rapaz decidiu comprar um automóvel, esperando \nrevendê-lo em um ano. Baseou sua decisão de compra na \ndespesa que teria com o automóvel nesse período, em custos \ntanto com manutenção quanto com combustível, prevendo que \nrodaria 60 000 km com o automóvel em um ano e considerando \nque a média do preço do litro da gasolina nesse período seria \nde R$ 5,00. Pesquisou em diversas revendedoras e restringiu \nsua escolha a cinco dos automóveis que havia visto. Optou por \ncomprar o que lhe desse a menor despesa, de acordo com os \ndados que obteve, apresentados no quadro.\nAutomóvel\nMédia de \nrendimento (km/L)\nPrevisão do custo anual \ncom manutenção (R$)\nI\n10\n22 000,00\nII\n12\n16 000,00\nIII\n15\n18 000,00\nIV\n15\n19 000,00\nV\n20\n24 500,00\nO rapaz comprou o automóvel\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+  "processado_em": "2026-05-08T14:06:53.246913",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

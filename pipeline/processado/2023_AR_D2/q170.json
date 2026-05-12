@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nUma loja vende seus produtos de duas formas: \nà vista ou financiado em três parcelas mensais iguais. \nPara definir o valor dessas parcelas nas vendas \nfinanciadas, a loja aumenta em 20% o valor do produto \nà vista e divide esse novo valor por 3. A primeira parcela \ndeve ser paga no ato da compra, e as duas últimas, \nem 30 e 60 dias após a compra.\nUm cliente da loja decidiu comprar, de forma financiada, \num produto cujo valor à vista é R$ 1 500,00.\nUtilize 5,29 como aproximação para \n28.\nA taxa mensal de juros compostos praticada nesse \nfinanciamento é de\nA\t\nA\t 6,7%\nB\t\nB\t 10%\nC\t\nC\t 20%\nD\t\nD\t 21,5%\nE\t\nE\t 23,3%",
+  "processado_em": "2026-05-08T14:05:47.078730",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

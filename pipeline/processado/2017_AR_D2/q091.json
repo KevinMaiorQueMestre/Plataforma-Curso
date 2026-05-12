@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 91\t\nUm fato corriqueiro ao se cozinhar arroz é o \nderramamento de parte da água de cozimento sobre a \nchama azul do fogo, mudando-a para uma chama amarela. \nEssa mudança de cor pode suscitar interpretações \ndiversas, relacionadas às substâncias presentes na água \nde cozimento. Além do sal de cozinha (NaCl), nela se \nencontram carboidratos, proteínas e sais minerais.\nCientificamente, sabe-se que essa mudança de cor da \nchama ocorre pela\nA\t reação do gás de cozinha com o sal, volatilizando \ngás cloro.\nB\t emissão de fótons pelo sódio, excitado por causa da \nchama.\nC\t produção de derivado amarelo, pela reação com o \ncarboidrato.\nD\t reação do gás de cozinha com a água, formando gás \nhidrogênio.\nE\t excitação das moléculas de proteínas, com formação \nde luz amarela.",
+  "processado_em": "2026-05-11T23:25:48.350197",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

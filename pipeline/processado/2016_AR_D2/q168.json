@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nDensidade absoluta (d) é a razão entre a massa de um \ncorpo e o volume por ele ocupado. Um professor propôs à \nsua turma que os alunos analisassem a densidade de três \ncorpos: dA, dB, dC. Os alunos verificaram que o corpo A \npossuía 1,5 vez a massa do corpo B e esse, por sua vez, \ntinha 3\n4\n da massa do corpo C. Observaram, ainda, que o \nvolume do corpo A era o mesmo do corpo B e 20% maior \ndo que o volume do corpo C.\nApós a análise, os alunos ordenaram corretamente as \ndensidades desses corpos da seguinte maneira\nA\t dB < dA < dC\nB\t dB = dA < dC\nC\t dC < dB = dA\nD\t dB < dC < dA\nE\t dC < dB < dA",
+  "processado_em": "2026-05-08T14:01:23.919471",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

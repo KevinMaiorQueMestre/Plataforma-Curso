@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\n2\u0003FDUUR\u0003ÀH[\u0003p\u0003XPD\u0003UHDOLGDGH\u0003QR\u0003%UDVLO\u0011\u0003(VWHV\u0003YHtFXORV\u0003HVWmR\u0003HTXLSDGRV\u0003FRP\u0003PRWRU\u0003TXH\u0003WHP\u0003D\u0003FDSDFLGDGH\u0003GH\u0003\nfuncionar com mais de um tipo de combustível. No entanto, as pessoas que têm esse tipo de veículo, na hora \ndo abastecimento, têm sempre a dúvida: álcool ou gasolina? Para avaliar o consumo desses combustíveis, \nUHDOL]RX\u0010VH\u0003XP\u0003SHUFXUVR\u0003FRP\u0003XP\u0003YHtFXOR\u0003ÀH[\u000f\u0003FRQVXPLQGR\u0003\u0017\u0013\u0003OLWURV\u0003GH\u0003JDVROLQD\u0003H\u0003QR\u0003SHUFXUVR\u0003GH\u0003YROWD\u0003XWLOL]RX\u0010VH\u0003HWDQRO\u0011\u0003\n)RL\u0003FRQVLGHUDGR\u0003R\u0003PHVPR\u0003FRQVXPR\u0003GH\u0003HQHUJLD\u0003WDQWR\u0003QR\u0003SHUFXUVR\u0003GH\u0003LGD\u0003TXDQWR\u0003QR\u0003GH\u0003YROWD\u0011\nO quadro resume alguns dados aproximados sobre esses combustíveis.\nCombustível\nDensidade (g mLí1)\nCalor de combustão (kcal gí1)\nEtanol\n0,8\ní\u0019\nGasolina\n\u0013\u000f\u001a\ní\u0014\u0013\nO volume de etanol combustível, em litro, consumido no percurso de volta é mais próximo de\nA \u0015\u001a\u0011\nB \u0016\u0015\u0011\nC \u0016\u001a\u0011\nD 58.\nE \u0019\u001a\u0011",
+  "processado_em": "2026-05-11T23:26:45.045800",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 322.7
+  }
+}

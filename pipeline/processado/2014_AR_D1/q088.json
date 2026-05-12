@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nGrandes fontes de emissão do gás dióxido de \nenxofre são as indústrias de extração de cobre e níquel, \nem decorrência da oxidação dos minérios sulfurados. \nPara evitar a liberação desses óxidos na atmosfera e a \nconsequente formação da chuva ácida, o gás pode ser \nlavado, em um processo conhecido como dessulfurização, \nconforme mostrado na equação (1).\nCaCO3 (s) + SO2 (g) → CaSO3 (s) + CO2 (g)\n(1)\nPor sua vez, o sulfito de cálcio formado pode ser \noxidado, com o auxílio do ar atmosférico, para a obtenção \ndo sulfato de cálcio, como mostrado na equação (2). \nEssa etapa é de grande interesse porque o produto da \nreação, popularmente conhecido como gesso, é utilizado \npara fins agrícolas.\n2 CaSO3 (s) + O2 (g) → 2 CaSO4 (s)\n(2)\nAs massas molares dos elementos carbono, oxigênio, \nenxofre e cálcio são iguais a 12 g/mol, 16 g/mol, 32 g/mol \ne 40 g/mol, respectivamente.\nBAIRD, C. Química ambiental. Porto Alegre: Bookman, 2002 (adaptado).\nConsiderando um rendimento de 90% no processo, a \nmassa de gesso obtida, em gramas, por mol de gás retido \né mais próxima de\nA\t 64.\nB\t 108.\nC\t 122.\nD\t 136.\nE\t 245.",
+  "processado_em": "2026-05-08T14:00:32.382845",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 127          \nUma lagarta ao comer as folhas do milho, induz no \nvegetal a produção de óleos voláteis cujas estruturas \nestão mostradas a seguir:\nA volatilidade desses óleos é decorrência do(a)\nA \t elevado caráter covalente.\nB \t alta miscibilidade em água.\nC \t baixa estabilidade química.\nD \t grande superfície de contato.\nE \t fraca interação intermolecular.",
+  "processado_em": "2026-05-08T14:03:37.414235",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

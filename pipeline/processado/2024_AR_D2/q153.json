@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nUm tanque, em formato de paralelepípedo reto retângu\nsua base e em duas paredes opostas, sendo perpendicula\nEsses anteparos, de espessuras desprezíveis, estão \nretângulos congruentes, tendo suas alturas iguais à metade\npor uma entrada situada no teto, através de um duto que \n12 horas para finalizar o seu enchimento.\nO gráfico que descreve, em cada instante, a maior altura d\nao longo do enchimento do tanque, é\nA\t\nB\t\nC",
+  "processado_em": "2026-05-08T14:06:20.370057",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

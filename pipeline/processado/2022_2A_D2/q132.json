@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 132\t\nSolos ácidos apresentam baixo valor de pH, e o \nplantio de culturas nesse meio acarreta baixa produção \nagrícola. Entretanto, esse problema pode ser contornado \nadicionando-se substâncias que, ao entrarem em contato \ncom a água, liberam íons OH−, que neutralizam os íons \nH3O+ presentes no solo e elevam o seu pH. Para esse \nobjetivo, um agricultor tem comercialmente à disposição \nas espécies químicas enumeradas:\nI – KCl     II – MgO     III – NH4Br     IV – AlCl3     V – P2O5\nPara a correção do pH desse solo, o agricultor deverá \nutilizar a espécie química indicada pelo número\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:04:48.674617",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nO esquema representa, de maneira simplificada, o \nprocesso de produção de etanol utilizando milho como \nmatéria-prima.\nLevedura\nMilho\nCO2\nEtanol\nÁgua\nHidrólise\nFermentação\nA etapa de hidrólise na produção de etanol a partir do \nmilho é fundamental para que\nA\t a glicose seja convertida em sacarose.\nB\t as enzimas dessa planta sejam ativadas.\nC\t a maceração favoreça a solubilização em água.\nD\t o amido seja transformado em substratos utilizáveis \npela levedura.\nE\t os grãos com diferentes composições químicas \nsejam padronizados.",
+  "processado_em": "2026-05-08T14:01:08.648260",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

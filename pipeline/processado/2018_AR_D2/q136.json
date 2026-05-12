@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\nNuma atividade de treinamento realizada no Exército \nde um determinado país, três equipes – Alpha, Beta \ne Gama – foram designadas a percorrer diferentes \ncaminhos, todos com os mesmos pontos de partida e de \nchegada.\n\u0003 A equipe Alpha realizou seu percurso em 90 minutos \ncom uma velocidade média de 6,0 km/h.\n\u0003 A equipe Beta também percorreu sua trajetória \nem 90 minutos, mas sua velocidade média foi \nde 5,0 km/h.\n\u0003 Com uma velocidade média de 6,5 km/h, a equipe \nGama concluiu seu caminho em 60 minutos.\nCom base nesses dados, foram comparadas as \ndistâncias dBeta; dAlphae dGama percorridas pelas três equipes.\nA ordem das distâncias percorridas pelas equipes Alpha, \nBeta e Gama é\nA\nB\nC\nD\nE\nd\nd\nd\nGama\nBeta\nAlpha\n\u001f\n\u001f\nd\nd\nd\nAlpha\nBeta\nGama\n=\n<\nd\nd\nd\nGama\nBeta\nAlpha\n<\n=\nd\nd\nd\nBeta\nAlpha\nGama\n\u001f\n\u001f\nd\nd\nd\nGama\nAlpha\nBeta",
+  "processado_em": "2026-05-11T23:26:47.919920",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

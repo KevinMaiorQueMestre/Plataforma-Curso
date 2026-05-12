@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nUma empresa tem cinco setores, cada um com quatro \nfuncionários, sendo que cada funcionário de um setor tem \num cargo diferente. O quadro apresenta os salários, em \nreal, dos funcionários de cada um desses setores, por \ncargo.\nSetor\nSalário \npara o \ncargo 1\n(R$)\nSalário \npara o \ncargo 2\n(R$)\nSalário \npara o \ncargo 3\n(R$)\nSalário \npara o \ncargo 4\n(R$)\nI\n1 550,00\n1 140,00\n1 140,00\n1 150,00\nII\n1 100,00\n1 100,00\n1 520,00\n1 200,00\nIII\n1 050,00\n1 050,00\n1 600,00\n2 000,00\nIV\n1 300,00\n1 160,00\n1 280,00\n1 280,00\nV\n1 250,00\n1 300,00\n1 300,00\n1 150,00\nA empresa pretende incentivar a qualificação \nprofissional, oferecendo cursos gratuitos para os \nfuncionários de todos os cinco setores. Entretanto, o \nprimeiro curso será oferecido aos funcionários do setor \nque apresenta a menor média salarial por cargo.\nO primeiro curso será oferecido aos funcionários do \nsetor\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:04:50.662535",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

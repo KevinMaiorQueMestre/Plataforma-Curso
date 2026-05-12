@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nEm um blog de variedades, músicas, mantras \ne informações diversas, foram postados “Contos de \nHalloween”. Após a leitura, os visitantes poderiam opinar, \nassinalando suas reações em: “Divertido”, “Assustador” \nou “Chato”. Ao final de uma semana, o blog registrou que \n500 visitantes distintos acessaram esta postagem.\nO gráfico a seguir apresenta o resultado da enquete.\nCONTOS DE HALLOWEEN\nopinião dos visitantes\nDIVERTIDO\nASSUSTADOR\nCHATO\nNÃO OPINARAM\n15%\n52%\n12%\n21%\n0%\n10%\n20%\n30%\n40%\n50%\n60%\nO administrador do blog irá sortear um livro entre os visitantes \nque opinaram na postagem “Contos de Halloween”.\nSabendo que nenhum visitante votou mais de uma vez, \na probabilidade de uma pessoa escolhida ao acaso entre \nas que opinaram ter assinalado que o conto “Contos de \nHalloween” é “Chato” é mais aproximada por\nA\t 0,09.\nB\t 0,12.\nC\t 0,14.\nD\t 0,15.\nE 0 18",
+  "processado_em": "2026-05-08T13:59:15.107599",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

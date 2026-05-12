@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 77\t\nO smartphone não é uma coisa. Eu o caracterizo como \num infômata (coisa informatizada) que produz e processa \ninformações. As informações são o contrário dos apoios que \ndão tranquilidade à vida. Vivem do estímulo da surpresa. Elas nos \nsubmergem em um turbilhão de atualidade.\nHAN, B.-C. apud FANJUL, S. Entrevista com o filósofo Byung-Chul Han. \nDisponível em: https://brasil.elpais.com. \nAcesso em: 21 out. 2021 (adaptado).\nO texto sustenta que a ampliação das experiências de \nconectividade promovem\nA\tpolarização e divisão social.\nB\tautonomia e liberdade funcional.\nC\torganização e controle temporal.\nD\tdispersão e desorientação pessoal.\nE\tprodutividade e criatividade laboral.",
+  "processado_em": "2026-05-08T14:06:47.204627",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

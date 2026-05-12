@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 152\t\nNo \ndesenvolvimento \nde \num \nnovo \nremédio, \npesquisadores monitoram a quantidade Q de uma \nsubstância circulando na corrente sanguínea de um \npaciente, ao longo do tempo t. Esses pesquisadores \ncontrolam o processo, observando que Q é uma função \nquadrática de t. Os dados coletados nas duas primeiras \nhoras foram:\nt (hora)\n0\n1\n2\nQ (miligrama)\n1\n4\n6\nPara decidir se devem interromper o processo, \nevitando riscos ao paciente, os pesquisadores querem \nsaber, antecipadamente, a quantidade da substância \nque estará circulando na corrente sanguínea desse \npaciente após uma hora do último dado coletado.\nNas condições expostas, essa quantidade (em miligrama) \nserá igual a\nA\t 4.\nB\t 7.\nC\t 8.\nD\t 9.\nE\t 10.",
+  "processado_em": "2026-05-11T23:27:12.391796",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

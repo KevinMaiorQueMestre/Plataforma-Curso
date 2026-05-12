@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nVisando minimizar impactos ambientais, a legislação \nbrasileira determina que resíduos químicos lançados \ndiretamente no corpo receptor tenham pH entre 5,0 e 9,0. \nUm resíduo líquido aquoso gerado em um processo \nindustrial tem concentração de íons hidroxila igual a \n1,0 × 10−10 mol/L. Para atender a legislação, um químico \nseparou as seguintes substâncias, disponibilizadas no \nalmoxarifado da empresa: CH3COOH, Na2SO4, CH3OH, \nK2CO3 e NH4Cl.\nPara que o resíduo possa ser lançado diretamente no \ncorpo receptor, qual substância poderia ser empregada \nno ajuste do pH?\nA\t CH3COOH\nB\t Na2SO4\nC\t CH3OH\nD\t K2CO3\nE\t NH4Cl",
+  "processado_em": "2026-05-08T14:00:31.254847",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

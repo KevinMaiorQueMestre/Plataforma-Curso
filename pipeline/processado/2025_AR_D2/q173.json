@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 173\t\nEm um país, a primeira etapa para obtenção da carteira de \n•\tpacote com 20 aulas teóricas;\n•\tpacote com 10 aulas práticas;\n•\taluguel do veículo para realização das aulas práticas.\nUma pessoa que pretende obter a carteira de motorista pe\nteórica e de cada aula prática em três autoescolas. O quadro ap\nAutoescola\nValor de cada aula teórica (R$)\nValor\nI\n10\nII\n30\nIII\n20\nEla contratará os três produtos numa mesma autoescola de m\nA autoescola que será contratada é a\nA\tI, com o custo total de R$ 1 400,00.\nB\tII, com o custo total de R$ 280,00.\nC\tII, com o custo total de R$ 1 300,00.\nD\tIII, com o custo total de R$ 460,00.\nE III com o custo total de R$ 1 200 00",
+  "processado_em": "2026-05-08T14:07:10.384180",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

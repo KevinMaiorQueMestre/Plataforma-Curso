@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nNum certo momento de um jogo digital, a tela \napresenta a imagem representada na figura. O ponto Q1 \nrepresenta a posição de um jogador que está com a bola, \nos pontos Q2, Q3, Q4, Q5 e Q6 também indicam posições \nde jogadores da mesma equipe, e os pontos A e B indicam \nos dois pés da trave mais próxima deles. No momento da \npartida retratado, o jogador Q1 tem a posse da bola, que \nserá passada para um dos outros jogadores das posições \nQn, n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQ B\nn\n tenha a mesma \nmedida do ângulo \nAQ B\n1 .",
+  "processado_em": "2026-05-08T14:05:45.836182",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

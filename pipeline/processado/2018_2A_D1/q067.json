@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nO parlamento britânico aprovou uma lei, em 1835, \ncujo objetivo era regular o tráfego crescente nas \nprincipais vias no interior da Inglaterra, uma espécie \nde “código rodoviário”. A lei de 1835 estabeleceu a \nvelocidade máxima de 4 milhas por hora para veículos \nautopropulsionados. As regras foram revistas pelo \nparlamento em 1896, quando foi aumentada a velocidade \nmáxima para 10 milhas. Em 1903, novamente elevou-se \no limite de velocidade para 20 milhas por hora. Em 1930, \naboliu-se o limite de velocidade para carros e motos.\nELIAS, N. Tecnização e civilização. In: ELIAS, N. Escritos e ensaios. \nRio de Janeiro: Zahar, 2006 (adaptado).\nO processo descrito alude à necessidade de atualização \nda legislação conforme\nA\t as transformações tecnológicas.\nB\t a renovação do congresso.\nC\t os interesses políticos.\nD\t o modo de produção.\nE\t a opinião pública.",
+  "processado_em": "2026-05-11T23:26:14.979889",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

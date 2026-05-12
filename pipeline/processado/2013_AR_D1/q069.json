@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 69\t\nA formação frequente de grandes volumes de pirita \n(FeS2) em uma variedade de depósitos minerais favorece \na formação de soluções ácidas ferruginosas, conhecidas \ncomo “drenagem ácida de minas”. Esse fenômeno tem \nsido bastante pesquisado pelos cientistas e representa \numa grande preocupação entre os impactos da mineração \nno ambiente. Em contato com oxigênio, a 25 °C, a pirita \nsofre reação, de acordo com a equação química:\n4 FeS2 (s) + 15 O2 (g) + 2 H2O (l) → 2 Fe2(SO4)3 (aq) + 2 H2SO4 (aq)\nFIGUEIREDO, B. R. Minérios e ambiente. Campinas: Unicamp, 2000.\nPara corrigir os problemas ambientais causados por \nessa drenagem, a substância mais recomendada a ser \nadicionada ao meio é o\nA\t sulfeto de sódio.\nB\t cloreto de amônio.\nC\t dióxido de enxofre.\nD\t dióxido de carbono.\nE\t carbonato de cálcio.",
+  "processado_em": "2026-05-08T14:00:13.614267",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

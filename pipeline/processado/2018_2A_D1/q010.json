@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nQuantos há que os telhados têm vidrosos\nE deixam de atirar sua pedrada,\nDe sua mesma telha receiosos.",
+  "processado_em": "2026-05-11T23:26:08.737094",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

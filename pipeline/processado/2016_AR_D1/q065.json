@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 65\t\nA formação de coágulos sanguíneos em veias e \nartérias é um dos fatores responsáveis pela ocorrência \nde doenças cardiovasculares, como varizes, infarto \ne acidentes vasculares cerebrais. A prevenção e o \ntratamento dessas doenças podem ser feitos com drogas \nanticoagulantes. A indústria farmacêutica estimula a \npesquisa de toxinas animais com essa propriedade.\nConsiderando as adaptações relacionadas aos hábitos \nalimentares, os animais adequados ao propósito dessas \npesquisas são os(as)\nA\t moluscos fitófagos.\nB\t moscas saprófagas.\nC\t pássaros carnívoros.\nD\t morcegos frugívoros.\nE\t mosquitos hematófagos.",
+  "processado_em": "2026-05-08T14:01:09.414636",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 154\t\nA expressão “Fórmula de Young” é utilizada para \ncalcular a dose infantil de um medicamento, dada a dose \ndo adulto: \ndose de criança =(\nidade da criança (em anos) ) · dose do adulto\nidade da criança (em anos) + 12\nUma enfermeira deve administrar um medicamento \nX a uma criança inconsciente, cuja dosagem de adulto \né de 60 mg. A enfermeira não consegue descobrir onde \nestá registrada a idade da criança no prontuário, mas \nidentifica que, algumas horas antes, foi administrada a ela \numa dose de 14 mg de um medicamento Y, cuja dosagem \nde adulto é 42 mg. Sabe-se que a dose da medicação Y \nadministrada à criança estava correta. \nEntão, a enfermeira deverá ministrar uma dosagem do \nmedicamento X, em miligramas, igual a\nA\t 15.\nB\t 20.\nC\t 30.\nD\t 36.\nE\t 40.",
+  "processado_em": "2026-05-08T14:00:57.360417",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

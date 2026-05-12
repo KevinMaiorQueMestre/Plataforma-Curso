@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nA meta de uma concessionária de automóveis é \nvender, pelo menos, 104 carros por mês. Sabe-se \nque, em média, em dias em que não são oferecidos \ndescontos, são vendidos 3 carros por dia; em dias em \nque há o desconto mínimo, são vendidos 4 carros por dia; \ne, em dias em que há o desconto máximo, são vendidos \n5 carros por dia.\nNo mês atual, até o fim do expediente do sexto dia \nem que a concessionária abriu, não foram oferecidos \ndescontos, tendo sido vendidos 18 carros, conforme \nindicava a média. Ela ainda abrirá por mais 20 dias neste \nmês.\nA menor quantidade de dias em que será necessário \noferecer o desconto máximo, de modo que ainda seja \npossível a concessionária alcançar sua meta de vendas \npara o mês, é\nA\t\nA\t 6.\nB\t\nB\t 10.\nC\t\nC\t 11.\nD\t\nD\t 13.\nE\t\nE\t 18.",
+  "processado_em": "2026-05-08T14:04:51.170417",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 34\t\nA filosofia grega parece começar com uma ideia \nabsurda, com a proposição: a água é a origem e a matriz \nde todas as coisas. Será mesmo necessário deter-nos \nnela e levá-la a sério? Sim, e por três razões: em primeiro \nlugar, porque essa proposição enuncia algo sobre a \norigem das coisas; em segundo lugar, porque o faz sem \nimagem e fabulação; e enfim, em terceiro lugar, porque \nnela, embora apenas em estado de crisálida, está contido \no pensamento: Tudo é um.\nNIETZSCHE, F. Crítica moderna. In: Os pré-socráticos. São Paulo: Nova Cultural, 1999.\nO que, de acordo com Nietzsche, caracteriza o surgimento \nda filosofia entre os gregos?\nA\t O impulso para transformar, mediante justificativas, \nos elementos sensíveis em verdades racionais.\nB\t O desejo de explicar, usando metáforas, a origem dos \nseres e das coisas.\nC\t A necessidade de buscar, de forma racional, a causa \nprimeira das coisas existentes.\nD\t A ambição de expor, de maneira metódica, as \ndiferenças entre as coisas.\nE\t A tentativa de justificar, a partir de elementos \nempíricos, o que existe no real.",
+  "processado_em": "2026-05-08T14:00:44.997240",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

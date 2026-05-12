@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 18\t\nDisponível em: www.gov.br/saude. Acesso em: 16 jan. 2025 (adaptado).\nOs recursos verbais e visuais da campanha veiculada no cartaz \ntêm o objetivo de\nA\tpersuadir os doadores a envolver suas famílias em prol de sua \nvontade.\nB\tdivulgar o número de pessoas em fila de espera para doação \nde órgãos.\nC\tevidenciar os efeitos positivos da doação de órgãos na vida \ndas famílias.\nD\torientar os familiares de pessoas doentes a autorizarem a \ndoação de órgãos.\nE\tindicar a possíveis doadores e seus familiares quais órgãos \npodem ser doados",
+  "processado_em": "2026-05-08T14:06:42.836025",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

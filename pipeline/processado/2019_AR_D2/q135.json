@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 135\t\nA agricultura de precisão reúne técnicas agrícolas \nque consideram particularidades locais do solo ou lavoura \na fim de otimizar o uso de recursos. Uma das formas \nde adquirir informações sobre essas particularidades \né a fotografia aérea de baixa altitude realizada por um \nveículo aéreo não tripulado (vant). Na fase de aquisição \né importante determinar o nível de sobreposição entre \nas fotografias. A figura ilustra como uma sequência de \nimagens é coletada por um vant e como são formadas \nas sobreposições frontais.\n20% de \nsobreposição\nfrontal\nVant com câmera fotográfica\n1\n1\n2\n3\n2\n3\n∆S\nSolo\nH\nImagens\ncoletadas\n1, 2 e 3\n45°\n45°\nO operador do vant recebe uma encomenda na \nqual as imagens devem ter uma sobreposição frontal de \n20% em um terreno plano. Para realizar a aquisição das \nimagens, seleciona uma altitude H fixa de voo de 1 000 m, \na uma velocidade constante de 50 m s−1. A abertura da \ncâmera fotográfica do vant é de 90°. Considere tg(45°) = 1.\nNatural Resources Canada. Concepts of Aerial Photography. \nDisponível em: www.nrcan.gc.ca. Acesso em: 26 abr. 2019 (adaptado). \nCom que intervalo de tempo o operador deve adquirir \nduas imagens consecutivas?\nA\t 40 segundos.\nB\t 32 segundos.\nC\t 28 segundos.\nD\t 16 segundos.\nE\t 8 segundos.",
+  "processado_em": "2026-05-11T23:27:35.273181",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

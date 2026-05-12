@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q037",
+  "imagem": "q037.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 37,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 37\t\nKANDINSKY, W. Sem título (desenho para o Diagrama 17). \nNanquim sobre papel, 28,4 cm x 36 cm. Museu de Arte Mount \nHolyoke College, South Hadley, 1925.\nDisponível em: https://artmuseum.mtholyoke.edu/object/untitled-drawing-diagram-17.\nO artista Wassily Kandinsky apresenta, em sua \nprodução, aspectos formais relacionados aos elementos \nfundamentais da linguagem visual, que comprovam que \na linha é criada a partir do(a)\nA\t\nA\t movimento do ponto.\nB\t\nB\t criação da textura sobre o plano.\nC\t\nC\t cor aplicada sobre a superfície.\nD\t\nD\t mancha na relação formal.\nE\t\nE\t plano visual sobre o volume.",
+  "processado_em": "2026-05-08T14:05:19.067638",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

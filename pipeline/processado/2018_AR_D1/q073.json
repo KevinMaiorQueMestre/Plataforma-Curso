@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 73\t\nTEXTO I\nQuando um exército atravessa montanhas, florestas, \nzonas de precipícios, ou marcha ao longo de desfiladeiros, \nalagadiços ou pântanos, ou qualquer outro terreno onde \na deslocação é árdua, está em terreno difícil. O terreno \nonde é apertado e a sua saída é tortuosa e onde uma \npequena força inimiga pode atacar a minha, embora \nmaior, é cercado.\nTZU, S. A arte da guerra. São Paulo: Martin Claret, 2001.\nTEXTO II\nO objetivo principal era encontrar e matar Osama Bin \nLaden. Onde ele se esconde? Não podemos esquecer a \ndificuldade de ocupação do país, que possui um relevo \nmontanhoso, cheio de cavernas, onde fica fácil, para \nquem está acostumado com esse relevo, esconder-se.\nOLIVEIRA, M. G.; SANTOS, M. S. Ásia: uma visão histórica, política e econômica do \ncontinente. Rio de Janeiro: E-Papers, 2009 (adaptado).\nAs situações apresentadas atestam a importância da \nrelação entre a topografia e o(a)\nA\t construção de vias terrestres.\nB\t preservação do meio ambiente.\nC\t emprego de armamentos sofisticados.\nD\t intimidação contínua da população local.\nE\t domínio cognitivo da configuração espacial.",
+  "processado_em": "2026-05-11T23:26:40.562170",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

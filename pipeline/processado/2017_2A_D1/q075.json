@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\nProjeção cartográfica é uma transformação que faz corresponder, a cada ponto da superfície terrestre, \num ponto no plano.\n*$63$5\u000f\u0003-\u0011\u0003$\u0011\u0003Cartas e projeçõeV\u0003FDUWRJUi¿FDV. Lisboa: Lidel, 2005.\n$V\u0003UHODo}HV\u0003GR\u0003SODQR\u0003GH\u0003SURMHomR\u0003j\u0003VXSHUItFLH\u0003SURMHWDGD\u0003PRVWUDGDV\u0003QDV\u0003¿JXUDV\u0003VmR\u0003LGHQWL¿FDGDV\u000f\u0003UHVSHFWLYDPHQWH\u000f\u0003HP\u001d\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-11T23:25:23.135589",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

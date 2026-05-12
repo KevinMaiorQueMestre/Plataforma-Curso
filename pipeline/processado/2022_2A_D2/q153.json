@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nA classificação de um país no quadro de medalhas \nolímpicas deve-se primeiro ao número de medalhas de \nouro que o país conquistou. Em caso de empate no \nnúmero de medalhas de ouro, passa a ser considerado \no número de medalhas de prata e, por fim, o de \nmedalhas de bronze. O quadro de medalhas a seguir \napresenta os países classificados do 9º ao 11º lugar \nnas Olimpíadas de Londres, realizadas em 2012.\nOuro\nPrata\nBronze\n9º Hungria\n8\n4\n5\n10º Austrália\n7\n16\n12\n11º Japão\n7\n14\n17\nNessa olimpíada, o Brasil obteve 3 medalhas de ouro, \n5 de prata e 9 de bronze, classificando-se em 22º lugar \nno quadro geral de medalhas.\nDisponível em: http://olimpiadas.uol.com.br. Acesso em: 28 fev. 2013 (adaptado).\nSupondo que o número de medalhas dos demais \npaíses permaneça inalterado, qual o número mínimo de \nmedalhas que o Brasil deveria ter ganhado a mais nas \nOlimpíadas de Londres a fim de ficar exatamente na \n10ª posição?\nA\t\nA\t 22\nB\t\nB\t 19\nC\t\nC\t 17\nD\t\nD\t 16\nE\t\nE\t 14",
+  "processado_em": "2026-05-08T14:04:50.089323",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nO chuveiro elétrico é um dispositivo capaz de \ntransformar energia elétrica em energia térmica, o \nque possibilita a elevação da temperatura da água. \nUm chuveiro projetado para funcionar em 110 V pode \nser adaptado para funcionar em 220 V, de modo a \nmanter inalterada sua potência.\nUma das maneiras de fazer essa adaptação é trocar \na resistência do chuveiro por outra, de mesmo \nmaterial e com o(a)\nA\t dobro do comprimento do fio.\nB\t metade do comprimento do fio.\nC\t metade da área da seção reta do fio.\nD\t quádruplo da área da seção reta do fio.\nE\t quarta parte da área da seção reta do fio.",
+  "processado_em": "2026-05-08T14:00:13.938251",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

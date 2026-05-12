@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 117\t\nUma equipe de pesquisadores interessados em estudar \na concentração de ozônio em uma região da atmosfera \nplaneja enviar um balão para captar dados meteorológicos \na 20 000 m de altitude. Para recuperar os dados captados \npelo dispositivo de medida, o balão precisa estourar quando \natingir a altitude desejada e retornar ao solo, o que ocorrerá \nquando seu volume atingir o valor limite a partir do qual não \nhá mais expansão. As figuras mostram a forma do balão e \ncomo a temperatura e a pressão atmosférica variam com \na altitude em relação ao nível do mar.\nPara essa situação, considera-se o gás dentro do balão \ne os gases atmosféricos como gases ideais. Assume-se \ntambém que a pressão interna ao balão depende somente \nda pressão atmosférica.\nQuantas vezes o raio do balão deve aumentar para captar \nos dados meteorológicos desejados?\nA\t10,00\nB\t8,00\nC\t2,83\nD\t2,00\nE\t1,25",
+  "processado_em": "2026-05-08T14:06:02.414108",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

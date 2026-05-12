@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 01\t\nEl carpintero\nOrlando Goicoechea reconoce las maderas por el \nolor, de qué árboles vienen, qué edad tienen, y oliéndolas \nsabe si fueron cortadas a tiempo o a destiempo y les \nadivina los posibles contratiempos.\nAl cabo de tantos años de trabajo, Orlando se ha dado \nel lujo de comprarse un video, y ve una película tras otra.\nNo sabía que eras loco por cine le dice el vecino.\nY Orlando le explica que no, que a él ni le va ni le \nviene, pero gracias al video puede detener las películas \npara estudiar los muebles.\nGALEANO, E. Disponível em: http://elcajondesastre.blogcindarrio.com. \n Acesso em: 18 abr. 2012.\nNo conto de Galeano, a expressão ni le va ni le viene \nencerra uma opinião a respeito de cinema que\nA\t \tdesconstrói a ideia central do conto sobre a \nimportância das atividades de lazer.\nB\t \tcontradiz a percepção que o narrador tem em relação \nà profissão exercida por Orlando.\nC\t \trevela o descaso do narrador com relação ao ofício \ndesempenhado por Orlando.\nD\t \treforça a impressão do vizinho de que Orlando \ngostava de filmes.\nE\t \tevidencia a extrema devoção do carpinteiro ao \nseu ofício.",
+  "processado_em": "2026-05-11T23:25:35.455619",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

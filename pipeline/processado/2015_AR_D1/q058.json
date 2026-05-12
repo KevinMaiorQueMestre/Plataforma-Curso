@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 58\t\nAlimentos \nem \nconserva \nsão \nfrequentemente \narmazenados em latas metálicas seladas, fabricadas com \num material chamado folha de flandres, que consiste de \numa chapa de aço revestida com uma fina camada de \nestanho, metal brilhante e de difícil oxidação. É comum \nque a superfície interna seja ainda revestida por uma \ncamada de verniz à base de epóxi, embora também \nexistam latas sem esse revestimento, apresentando uma \ncamada de estanho mais espessa.\nSANTANA, V. M. S. A leitura e a química das substâncias. Cadernos PDE. Ivaiporã: \nSecretaria de Estado da Educação do Paraná (SEED);  Universidade \nEstadual de Londrina, 2010 (adaptado).\nComprar \numa \nlata \nde \nconserva \namassada \nno \nsupermercado é desaconselhável porque o amassado \npode\nA\t alterar a pressão no interior da lata, promovendo a \ndegradação acelerada do alimento.\nB\t romper a camada de estanho, permitindo a corrosão \ndo ferro e alterações do alimento.\nC\t prejudicar o apelo visual da embalagem, apesar de \nnão afetar as propriedades do alimento.\nD\t romper a camada de verniz, fazendo com que o metal \ntóxico estanho contamine o alimento.\nE\t desprender camadas de verniz, que se dissolverão no \nmeio aquoso contaminando o alimento",
+  "processado_em": "2026-05-08T14:00:47.518739",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

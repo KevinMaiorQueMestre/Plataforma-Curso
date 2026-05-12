@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nTEXTO I\nUma única árvore joga entre 300 e 1 000 litros de água \npor dia para a atmosfera. Considerando a demanda mínima \nque uma pessoa consome de água, ou seja, 120 litros por \ndia, uma única árvore pode ser capaz de produzir água \npara até oito pessoas.\nMAGNO, C. Estudiosos explicam o motivo de chover tanto \n em Belém. Disponível em: www.diarioonline.com.br. \nAcesso em: 6 nov. 2021.\nTEXTO II\nA Amazônia perdeu diariamente uma área de floresta \nmaior do que 4 mil campos de futebol apenas em setembro \nde 2021. Em todo o mês, foram devastados 1 224 km², \no que corresponde ao tamanho da cidade do Rio de Janeiro \ne é a pior marca para setembro em 10 anos. Os dados \nsão do Sistema de Alerta de Desmatamento (SAD) do \nInstituto do Homem e Meio Ambiente da Amazônia (Imazon), \nque monitora a floresta por meio de imagens de satélites.\nFREITAS, A. Desmatamento na Amazônia em setembro foi o maior \npara o período em 10 anos. Disponível em: www.cnnbrasil.com.br. \nAcesso em: 6 nov. 2021.\nPara a região amazônica, a relação entre as informações \ndos textos indica uma redução do(a)\nA\tcirculação de ventos alísios.\nB\taquecimento dos solos locais.\nC\tmédia de temperatura oceânica.\nD\tíndice de refletividade superficial.\nE\tintensidade de chuvas convectivas.",
+  "processado_em": "2026-05-08T14:06:13.562357",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

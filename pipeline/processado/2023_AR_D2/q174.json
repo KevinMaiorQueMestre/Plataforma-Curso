@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\t\nAs figuras pintadas no quadro da sala de estar de \numa residência representam as silhuetas de parte das \ntorres de um castelo e, ao fundo, a de uma lua cheia. \nA lua foi pintada na forma de um círculo, e o telhado da \ntorre mais alta, na forma de triângulo equilátero, foi pintado \nsobrepondo parte da lua. O centro da lua coincide com um \ndos vértices do telhado da torre mais alta.\nNesse quadro, a parte da lua escondida atrás da torre \nmais alta do castelo pode ser representada por um\nA\t\nA\t cone.\nB\t\nB\t setor circular.\nC\t\nC\t segmento circular.\nD\t\nD\t triângulo isósceles.\nE\t\nE\t arco de circunferência.",
+  "processado_em": "2026-05-08T14:05:47.249067",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

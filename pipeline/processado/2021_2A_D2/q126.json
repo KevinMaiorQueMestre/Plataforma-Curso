@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 126\n\u0012\u0002%\u0007\n\t\n\u0005'\b\u0002\u000f\n\u0002\t\f!\t\r\u0005\u001e\u000e\b\t\u0002\u0007\u000e\u001e\b\t\u0002\n\u0010\u0002\n\u0005@\u0004P\u0007\n\u0002\n\u0010\u0002?\u0007\n\b\t\u0002\nUm exemplo dessas substâncias é a pirita (FeS2), que, em\n\t\u00042\f'\u001d\u0004\u0002\b\u000b\f\u0004\t\b\u0002P\n\u0007\u0007\fJ\u000e\u0005\u0004\t\b$\u0002\u001e\u0004\u0005+\n\u001e\u000e\u000f\b\u0002\u001e\u0004\u0010\u0004\u0002\u000f\u0007\n\u0005\bJ\n\u0010\u0002?\n4 FeS2 (s) + 15 O2 (g) + 2 H2O (l) —\n\u0014\u0010\u0002\t\u000e\r\f\b'\u0011\n\t\u0002\u001e\u0007G\r\u000e\u001e\b\t$\u0002\u0005\b\t\u0002\u000b\f\b\u000e\t\u0002\b\u0002\u001e\u0004\u0005\u001e\n\u0005\r\u0007\b'\u001d\u0004\u0002\u000f\u0004\u0002?\u001e\n\u000b\f\n\u0002$(\u0002\u0019\u0010\b\u0002P\u0004\u0007\u0010\b\u0002\u000f\n\u0002\u0007\n\u000f\fY\u000e\u0007\u0002\u0004\u0002\u000e\u0010%\b\u001e\r\u0004\u0002\u000f\b\u0002\u000f\u0007\n\u0005\bJ\n\u0010\u0002?\u001e\u000e\u000f\n\f\u0010\b\u0002\b\u0010\u0004\t\r\u0007\b\u0002\u001e\u0004\u0010\n\u0007\u001e\u000e\b2\u0002\u000f\n\u0002\u001e\b2\u001e?\u0007\u000e\u0004$\u0002\u001e\u0004\u0010\u0002%\f\u0007\nY\b\u0002\u000eJ\f\b2\u0002\b\u0002&\nQual é a massa de calcário, em gramas, necessária pa\n\t\n\f\u0002\n\t\r\b\u000f\u0004\u0002\u001e\u0007G\r\u000e\u001e\u0004$\u0002\t\b!\n\u0005\u000f\u0004/\t\n\u0002\u000b\f\n\u0002\b\t\u0002\u0010\b\t\t\b\t\u0002\u0010\u00042\b\u0007\n\t\u0002\u000f\nrespectivamente?\nA  0,2\nB  5,0\nC  10,0\nD  20,0\nE  200,0",
+  "processado_em": "2026-05-08T14:04:14.878825",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

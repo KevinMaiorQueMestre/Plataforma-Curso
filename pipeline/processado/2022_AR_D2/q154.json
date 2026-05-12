@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 154\t\nO pacote básico de um jogo para smartphone, que \né vendido a R$ 50,00, contém 2 000 gemas e 100 000 \nmoedas de ouro, que são itens utilizáveis nesse jogo.\nA empresa que comercializa esse jogo decidiu criar \num pacote especial que será vendido a R$ 100,00 e que \nse diferenciará do pacote básico por apresentar maiores \nquantidades de gemas e moedas de ouro. Para estimular \nas vendas desse novo pacote, a empresa decidiu inserir \nnele 6 000 gemas a mais, em relação ao que o cliente \nteria caso optasse por comprar, com a mesma quantia, \ndois pacotes básicos.\nA quantidade de moedas de ouro que a empresa deverá \ninserir ao pacote especial, para que seja mantida a mesma \nproporção existente entre as quantidades de gemas e de \nmoedas de ouro contidas no pacote básico, é\nA\t\nA\t 50 000.\nB\t\nB\t 100 000.\nC\t\nC\t 200 000.\nD\t\nD\t 300 000.\nE\t\nE\t 400 000.",
+  "processado_em": "2026-05-08T14:05:12.142680",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

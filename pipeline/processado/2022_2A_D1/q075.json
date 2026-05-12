@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nDisponível em: http://apublica.org. Acesso em: 20 set. 2012.\nA intencionalidade geopolítica agregada ao símbolo da \nOrganização das Nações Unidas ocorre porque a imagem\nA\t\nA\t inverte a localização dos países no globo.\nB\t\nB\t centraliza a posição dos países do norte.\nC\t\nC\t reduz a escala no traçado dos países periféricos.\nD\t\nD\t ignora a existência de continentes meridionais.\nE\t\nE\t apresenta uma continuidade entre as porções \ncontinentais.",
+  "processado_em": "2026-05-08T14:04:42.586734",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

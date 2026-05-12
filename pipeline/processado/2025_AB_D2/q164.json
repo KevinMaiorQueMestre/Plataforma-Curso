@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 164\t\nUma fábrica de refrigerantes criou um novo tipo de bebid\nde um refrigerante que já tem em sua fórmula 15% desse xarop\ntipo de bebida é formada por esse xarope.\nQual quantidade desse xarope, em litro, foi adicionada aos 10 \nA\t1\nB\t 4\n3\nC\t2\nD\t 5\n2\nE\t4",
+  "processado_em": "2026-05-08T14:06:53.712962",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

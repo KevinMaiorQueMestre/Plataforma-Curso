@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 97        \nPesquisadores dos Estados Unidos desenvolveram \numa nova técnica, que utiliza raios de luz infravermelha \n(invisíveis a olho nu) para destruir tumores. Primeiramente, \no paciente recebe uma injeção com versões modificadas \nde anticorpos que têm a capacidade de “grudar” apenas \nnas células cancerosas. Sozinhos, eles não fazem nada \ncontra o tumor. Entretanto, esses anticorpos estão ligados \na uma molécula, denominada IR700, que funcionará como \numa “microbomba”, que irá destruir o câncer. Em seguida, o \npaciente recebe raios infravermelhos. Esses raios penetram \nno corpo e chegam até a molécula IR700, que é ativada e \nlibera uma substância que ataca a célula cancerosa. \nDisponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012 (adaptado).\nCom base nas etapas de desenvolvimento, o nome \napropriado para a técnica descrita é:\nA \t Radioterapia.\nB \t Cromoterapia.\nC \t Quimioterapia.\nD \t Fotoimunoterapia.\nE \t Terapia magnética.",
+  "processado_em": "2026-05-11T23:28:13.157925",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

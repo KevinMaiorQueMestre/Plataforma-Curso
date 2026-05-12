@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "%\n2\u0004\u0002\u001e\b\u0005+\u001d\u0004\u0002B\u0002\b\r\u000e\u0005J\u000e\u0007\u0002\u0004\u0002\u001e\b\u0005+\u001d\u0004\u0002A\nA 30 m/s.\nB 35 m/s.\nC 40 m/s.\nD 45 m/s.\nE 50 m/s.\nQuestão 129\nOs pesticidas organoclorados foram amplamente \n\n\u0010%\u0007\nJ\b\u000f\u0004\t\u0002\u0005\b\u0002\bJ\u0007\u000e\u001e\f2\r\f\u0007\b$\u0002\u001e\u0004\u0005\r\f\u000f\u0004$\u0002\n\u0010\u0002\u0007\b\u001d\u0004\u0002\u000f\b\t\u0002\t\f\b\t\u0002\nelevadas toxicidades e persistências no meio ambiente, \n\n2\n\t\u0002P\u0004\u0007\b\u0010\u0002!\b\u0005\u000e\u000f\u0004\t(\u0002\u0003\u0004\u0005\t\u000e\u000f\n\u0007\n\u0002\b\u0002\b%2\u000e\u001e\b'\u001d\u0004\u0002\u000f\n\u0002&}}\u0002J\u0002\u000f\n\u0002\num pesticida organoclorado em uma cultura e que, em \n\u001e\n\u0007\r\b\t\u0002\u001e\u0004\u0005\u000f\u000e'\u0011\n\t$\u0002\u0004\u0002\r\n\u0010%\u0004\u0002\u000f\n\u0002\u0010\n\u000e\b/#\u000e\u000f\b\u0002\u000f\u0004\u0002%\n\t\r\u000e\u001e\u000e\u000f\b\u0002\u0005\u0004\u0002\nsolo seja de 5 anos.\nA massa do pesticida no decorrer de 35 anos será mais \npróxima de\nA 3,9 g.\nB 31,2 g.\nC 62,5 g.\nD 125,0 g.\nE 250,0 g.",
+  "processado_em": "2026-05-08T14:04:30.172696",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 50\t\nNenhum dos quatro blocos de petróleo perto do Parque \nAmbiental de Abrolhos disponibilizados para leilão atraiu o \ninteresse de empresas. A abertura para a exploração da área, \nque possui a maior biodiversidade do Atlântico Sul, é contestada \nna Justiça. Também é alvo de críticas de ambientalistas, \nque fizeram um protesto em frente ao local do certame. \nOs blocos não arrematados são incluídos agora na área de \noferta permanente da Agência Nacional do Petróleo, Gás Natural \ne Biocombustíveis (ANP) e, caso alguma empresa manifeste \ninteresse, um novo leilão é realizado.\nDisponível em: https://brasil.elpais.com. \nAcesso em: 14 out. 2019 (adaptado).\nO protesto sobre a exploração de petróleo na área descrita no \ntexto se justifica pela\nA\tvulnerabilidade do turismo.\nB\tfragilidade do ecossistema.\nC\tindiferença dos cidadãos.\nD\tnegligência dos magistrados.\nE\tredução do emprego.",
+  "processado_em": "2026-05-08T14:06:46.157234",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

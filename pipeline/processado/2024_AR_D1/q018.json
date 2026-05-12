@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 18\t\nUm estudo norte-americano analisou os efeitos \nda pandemia da covid-19 sobre a saúde mental e a \nmanutenção da atividade física, revelando que um fator \nestá diretamente ligado ao outro. De acordo com os dados, \nfamílias de baixa renda foram mais impactadas pelo \nciclo vicioso de falta de motivação e pelo sedentarismo. \nDiante da necessidade de distanciamento social e do \ninício da quarentena, as opções de espaços seguros \npara exercícios físicos diminuíram, o que dificultou que as \npessoas mantivessem seus níveis de atividade. Os dados \nevidenciaram que as pessoas mais ativas tinham melhor \nestado de saúde mental. As pessoas com menor renda \ntiveram mais dificuldade para manter os níveis de atividade \nfísica durante a pandemia, sendo aproximadamente \nduas vezes menos propensas a continuarem no mesmo \nritmo de exercícios de antes da pandemia. Habitantes \nde áreas urbanas mostraram maior probabilidade de \nnão conseguirem manter os níveis de atividade física \nsemelhantes aos de pessoas que vivem em zonas rurais, \nonde há mais oportunidades de sair para espaços abertos.\nDisponível em: https://revistagalileu.globo.com. \nAcesso em: 6 dez. 2021 (adaptado).\nO texto evidencia a perspectiva ampliada de saúde ao \nabordar criticamente a pandemia da covid-19 a partir do(a)\nA\tbusca por espaços para a prática de exercícios físicos.\nB\tnecessidade de se manter ativo para ter equilíbrio \nemocional.\nC\tdistanciamento social e sua vinculação com a prática \nde atividades físicas.\nD\trelação entre os determinantes socioeconômicos e a \nprática de exercícios.\nE\tbenefício de morar em áreas rurais para preservar a \nestabilidade psicológica.",
+  "processado_em": "2026-05-08T14:06:09.643705",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

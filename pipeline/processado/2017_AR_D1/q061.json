@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\t\nA primeira Guerra do Golfo, genuinamente apoiada \npelas Nações Unidas e pela comunidade internacional, \nassim como a reação imediata ao Onze de Setembro, \ndemonstravam a força da posição dos Estados Unidos na \nera pós-soviética.\nHOBSBAWM, E. Globalização, democracia e terrorismo. São Paulo: Cia. das Letras, 2007.\nUm aspecto que explica a força dos Estados Unidos, \napontada pelo texto, reside no(a)\nA\t \tpoder de suas bases militares espalhadas ao redor do \nmundo.\nB\t \talinhamento geopolítico da Rússia em relação aos EUA.\nC\t \tpolítica de expansionismo territorial exercida sobre Cuba.\nD\t \taliança estratégica com países produtores de \npetróleo, como Kuwait e Irã.\nE\t \tincorporação da China à Organização do Tratado \ndo Atlântico Norte (Otan).",
+  "processado_em": "2026-05-11T23:25:41.742559",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

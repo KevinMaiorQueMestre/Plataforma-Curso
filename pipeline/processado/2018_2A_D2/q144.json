@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nPara pintar um automóvel, cuja cor é personalizada, \na oficina encarregada de fazer o serviço terá de, por meio \nde uma mistura adequada de tintas, compor tons de azul \ne de branco. O tom azul representa 40% dessa mistura. \nSabe-se, ainda, que a oficina deverá adquirir somente a \ntinta de tom azul, pois já possui, em seus estoques, 6 litros \nda tinta de tom branco, que serão totalmente utilizados na \nreferida composição.\nA quantidade, em litro, de tinta de tom azul que a oficina \ndeverá adquirir para compor essa mistura, sem que haja \nsobras, é\nA\t 2,4.\nB\t 3,6.\nC\t 4,0.\nD\t 9,0.\nE\t 10,0.",
+  "processado_em": "2026-05-11T23:26:22.979010",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

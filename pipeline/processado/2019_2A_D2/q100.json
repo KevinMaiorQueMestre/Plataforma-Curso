@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 100\t\nUm estudante leu em um site da internet que os \npovos antigos determinavam a duração das estações \ndo ano observando a variação do tamanho da sombra \nde uma haste vertical projetada no solo. Isso ocorria \nporque, se registrarmos o tamanho da menor sombra \nao longo de um dia (ao meio-dia solar), esse valor \nvaria ao longo do ano, o que permitiu aos antigos usar \nesse instrumento rudimentar como um calendário solar \nprimitivo. O estudante também leu que, ao longo de um \nano (sempre ao meio-dia solar): (I) a sombra é máxima \nno solstício de inverno; e (II) a sombra é mínima no \nsolstício de verão.\nO estudante, que morava em Macapá (na Linha \ndo Equador), ficou intrigado com essas afirmações e \nresolveu verificar se elas eram verdadeiras em diferentes \nregiões do mundo. Contactou seus amigos virtuais \nem Salvador (Região Tropical) e Porto Alegre (Região \nTemperada) e pediu que eles registrassem o tamanho \nda menor sombra de uma haste vertical padronizada, \nao longo do dia, durante um ano. Os resultados \nencontrados estão mostrados esquematicamente no \ngráfico (SV: Solstício de Verão; SI: Solstício de Inverno; \nE: Equinócio):\nInverno\nPrimavera\nVerão\nOutono\nPorto Alegre\nSalvador\nMacapá\nTempo\nSI\nE\nSV\nE\nSI\nTamanho da sombra\nQual(is) cidade(s) indicada(s) no texto e no gráfico \ncontradiz(em) a afirmação II?\nA\t Salvador.\nB\t Porto Alegre.\nC\t Macapá e Salvador.\nD\t Macapá e Porto Alegre.\nE\t Porto Alegre e Salvador.",
+  "processado_em": "2026-05-11T23:27:08.109616",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

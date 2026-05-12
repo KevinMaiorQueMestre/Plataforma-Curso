@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nBertrand Russell conta a história de um peru que \ndescobrira, em sua primeira manhã na fazenda de perus, \nque fora alimentado às 9 da manhã. Contudo, ele não tirou \nconclusões apressadas. Esperou até recolher um grande \nnúmero de observações do fato de que era alimentado \nàs 9 da manhã e fez essas observações sob uma ampla \nvariedade de circunstâncias, às quartas e quintas-feiras, \nem dias quentes e dias frios, em dias chuvosos e dias \nsecos. A cada dia acrescentava uma outra proposição \nde observação à sua lista. Finalmente, sua consciência \nficou satisfeita e ele concluiu. “Eu sou alimentado sempre \nàs 9 da manhã”.\nCHALMERS, A. O que é ciência, afinal? \nSão Paulo: Brasiliense, 1993 (adaptado).\nQual tipo de raciocínio corresponde ao padrão de pensamento \nexibido pelo personagem do texto?\nA\tPrático, porque recolhe evidências e recomenda ações.\nB\tAbsoluto, porque busca confirmações e bloqueia refutações.\nC\tIndutivo, porque observa eventos particulares e infere \nleis universais.\nD\tDemonstrativo, porque encadeia premissas e extrai \nconclusões indubitáveis.\nE\tAnalógico, porque compara diferentes situações e detecta \nelementos semelhantes.",
+  "processado_em": "2026-05-08T14:06:14.210006",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

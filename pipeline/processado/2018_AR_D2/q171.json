@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\n&RP\u0003 R\u0003 DYDQoR\u0003 HP\u0003 FLrQFLD\u0003 GD\u0003 FRPSXWDomR\u000f\u0003 HVWDPRV\u0003\npróximos do momento em que o número de transistores no \nprocessador de um computador pessoal será da mesma \nordem de grandeza que o número de neurônios em um \ncérebro humano, que é da ordem de 100 bilhões.\nUma das grandezas determinantes para o desempenho \nde um processador é a densidade de transistores, que \né o número de transistores por centímetro quadrado. \nEm 1986, uma empresa fabricava um processador \ncontendo 100 \u0013\u0013\u0013\u0003 WUDQVLVWRUHV\u0003 GLVWULEXtGRV\u0003 HP\u0003 \u0013\u000f\u0015\u0018\u0003 FP\u0015\nGH\u0003 iUHD\u0011\u0003 'HVGH\u0003 HQWmR\u000f\u0003 R\u0003 Q~PHUR\u0003 GH\u0003 WUDQVLVWRUHV\u0003 SRU\u0003\ncentímetro quadrado que se pode colocar em um \nSURFHVVDGRU\u0003GREUD\u0003D\u0003FDGD\u0003GRLV\u0003DQRV\u0003\u000b/HL\u0003GH\u00030RRUH\f\u0011\n'LVSRQtYHO\u0003HP\u001d\u0003ZZZ\u0011SRFNHW\u0010OLQW\u0011FRP\u0011\u0003$FHVVR\u0003HP\u001d\u0003\u0014\u0003GH]\u0011\u0003\u0015\u0013\u0014\u001a\u0003\u000bDGDSWDGR\f\u0011\n&RQVLGHUH\u0003\u0013\u000f\u0016\u0013\u0003FRPR\u0003DSUR[LPDomR\u0003SDUD\u0003ORJ10\u0015\u0011\nEm que ano a empresa atingiu ou atingirá a densidade de \n100 bilhões de transistores?\nA 1999\nB \u0015\u0013\u0013\u0015\nC \u0015\u0013\u0015\u0015\nD \u0015\u0013\u0015\u0019\nE \u0015\u0014\u0017\u0019",
+  "processado_em": "2026-05-11T23:26:49.815029",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

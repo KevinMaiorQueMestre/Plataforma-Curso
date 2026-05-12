@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nDisponível em: http://memorialdademocracia.com.br. Acesso em: 9 dez. 2018.\nA capa do jornal A Vóz da Raça, da década de 1930, \napresenta que o objetivo da Frente Negra Brasileira era:\nA\t\nA\t Restringir as religiosidades.\nB\t\nB\t Padronizar as manifestações.\nC\t\nC\t Ressignificar o socialismo.\nD\t\nD\t Combater as discriminações.\nE\t\nE\t Publicizar o totalitarismo.",
+  "processado_em": "2026-05-08T14:04:41.846784",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

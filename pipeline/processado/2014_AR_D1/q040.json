@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q040",
+  "imagem": "q040.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 40,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 40\t\nA Estrada de Ferro Noroeste do Brasil, que começa \na ser construída apenas em 1905, foi criada, ao contrário \ndas outras grandes ferrovias paulistas, para ser uma \nferrovia de penetração, buscando novas áreas para a \nagricultura e povoamento. Até 1890, o café era quem \nditava o traçado das ferrovias, que eram vistas apenas \ncomo auxiliadoras da produção cafeeira.\nCARVALHO, D. F. Café, ferrovias e crescimento populacional: o florescimento da região \nnoroeste paulista. Disponível em: www.historica.arquivoestado.sp.gov.br. \nAcesso em: 2 ago. 2012.\nEssa nova orientação dada à expansão ferroviária, \ndurante a Primeira República, tinha como objetivo a\nA\t articulação de polos produtores para exportação.\nB\t criação de infraestrutura para atividade industrial.\nC\t integração de pequenas propriedades policultoras.\nD\t valorização de regiões de baixa densidade demográfica.\nE\t promoção de fluxos migratórios do campo para a \ncidade.",
+  "processado_em": "2026-05-08T14:00:29.685564",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

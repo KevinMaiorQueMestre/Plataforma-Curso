@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t diálogo que a letra da canção estabelece com \ndiferentes tradições da cultura nacional.\nB \t singularidade com que o compositor converte \nreferências eruditas em populares.\nC \t caráter inovador com que o compositor concebe o \nprocesso de criação artística. \nD \t relativização que a letra da canção promove na \nconcepção tradicional de originalidade. \nE \t resgate que a letra da canção promove de obras \npouco conhecidas pelo público no país.\nQuestão 13          \nDeu vontade de jogar, mas não sabe como reunir \nos amigos...\nMuitas vezes é difícil encontrar grupos para bater \numa bola. Em função disso, estão sendo disponibilizados \naplicativos que reúnem times e reservam espaços para \nos adeptos da paixão nacional. Num exemplo dessas \niniciativas, é possível organizar uma partida de futebol, \nse inscrever para participar de um jogo, alugar campos e \nquadras, convidar jogadores. O aplicativo tem dois tipos \nde usuários: um que o usa como ferramenta de gestão \ndo grupo, convidando amigos para jogar, vendo quem \nconfirmou e avaliando os jogos. Outro usuário é o que \nbusca partidas perto de onde ele está, caso de pessoas \ntã\nd\nid d",
+  "processado_em": "2026-05-11T23:27:59.141420",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

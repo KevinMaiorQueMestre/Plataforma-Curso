@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 97\t\nCom o texto eletrônico, enfim, parece estar ao \nalcance de nossos olhos e de nossas mãos um sonho \nmuito antigo da humanidade, que se poderia resumir em \nduas palavras, universalidade e interatividade.\nAs luzes, que pensavam que Gutenberg tinha \npropiciado aos homens uma promessa universal, \ncultivavam um modo de utopia. Elas imaginavam poder, \na partir das práticas privadas de cada um, construir um \nespaço de intercâmbio crítico das ideias e opiniões. O \nsonho de Kant era que cada um fosse ao mesmo tempo \nleitor e autor, que emitisse juízos sobre as instituições de \nseu tempo, quaisquer que elas fossem e que, ao mesmo \ntempo, pudesse refletir sobre o juízo emitido pelos outros. \nAquilo que outrora só era permitido pela comunicação \nmanuscrita ou a circulação dos impressos encontra hoje \num suporte poderoso com o texto eletrônico.\nCHARTIER, R. A aventura do livro: do leitor ao navegador. São Paulo:",
+  "processado_em": "2026-05-08T13:59:21.195660",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

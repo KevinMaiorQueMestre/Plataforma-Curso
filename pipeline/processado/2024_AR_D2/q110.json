@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nUma caixa decorativa utiliza duas pequenas lâmpadas, \nL1 (6 V – 9 W) e L2 (12 V – 18 W), ligadas em série a \numa bateria de tensão VQR. Um fio resistivo QR, de \n48 centímetros, está ligado em paralelo à bateria. Cinco \npontos, A, B, C, D e E, dividem o fio QR em seis segmentos \nde comprimentos iguais. O circuito também tem um \namperímetro com dois terminais. Um dos terminais (P) está \nligado ao fio entre as duas lâmpadas. O outro terminal (S) \nestá livre e será ligado ao fio QR. Dependendo do ponto em \nque esse terminal livre for conectado, ocorrerá a mudança \nna tensão à qual as lâmpadas são submetidas. Os demais \nfios do circuito têm resistências elétricas desprezíveis. \nA figura ilustra esse circuito.\nEm qual desses pontos o amperímetro deve ser conectado \npara que as lâmpadas acendam exatamente segundo as \nespecificações de tensão e potência elétricas fornecidas?\nA\tA\nB\tB\nC\tC\nD\tD\nE\tE",
+  "processado_em": "2026-05-08T14:06:17.797846",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

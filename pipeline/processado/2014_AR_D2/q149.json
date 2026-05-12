@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nBoliche é um jogo em que se arremessa uma bola \nsobre uma pista para atingir dez pinos, dispostos em uma \nformação de base triangular, buscando derrubar o maior \nnúmero de pinos. A razão entre o total de vezes em que \no jogador derruba todos os pinos e o número de jogadas \ndetermina seu desempenho. \nEm uma disputa entre cinco jogadores, foram \nobtidos os seguintes resultados:\nJogador I – Derrubou todos os pinos 50 vezes em \n85 jogadas.\nJogador II – Derrubou todos os pinos 40 vezes em \n65 jogadas.\nJogador III – Derrubou todos os pinos 20 vezes em \n65 jogadas.\nJogador IV – Derrubou todos os pinos 30 vezes em \n40 jogadas.\nJogador V – Derrubou todos os pinos 48 vezes em \n90 jogadas.\nQual desses jogadores apresentou maior desempenho?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-08T14:00:39.176125",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

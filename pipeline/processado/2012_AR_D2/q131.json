@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 131\t\nBARDI, P. M. Em torno da escultura no Brasil. São Paulo: Banco Sudameris Brasil, 1989.\nCom contornos assimétricos, riqueza de detalhes nas \nvestes e nas feições, a escultura barroca no Brasil tem \nforte influência do rococó europeu e está representada \naqui por um dos profetas do pátio do Santuário do Bom \nJesus de Matosinho, em Congonhas (MG), esculpido em \npedra-sabão por Aleijadinho. Profundamente religiosa, \nsua obra revela\nA\t liberdade, representando a vida de mineiros à \nprocura da salvação.\nB\t credibilidade, atendendo a encomendas dos nobres \nde Minas Gerais.\nC\t simplicidade, demonstrando compromisso com a \ncontemplação do divino.\nD\t personalidade, modelando uma imagem sacra com \nfeições populares.\nE\t singularidade, esculpindo personalidades do reinado \nb\ndi i",
+  "processado_em": "2026-05-08T13:59:41.122557",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t 12.\nQuestão 99          \nAs leis brasileiras de regulamentação das atividades \npesqueiras destacam a importância da preservação de \nvegetais hidróbios pertencentes ao fitoplâncton. Esses \norganismos raramente são citados quando o assunto é \na preservação da biodiversidade, mas desempenham \npapel ecológico fundamental.\nICMBIO. Disponível em: www.icmbio.gov.br. \nAcesso em: 19 out. 2015 (adaptado).\nEsses organismos devem ser preservados porque\nA \t transferem O2 do ar para a água.\nB \t mantêm a temperatura da água estável.\nC \t competem com algas que são tóxicas para os peixes.\nD \t aceleram a decomposição de matéria orgânica na \nágua.",
+  "processado_em": "2026-05-08T14:03:36.038342",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

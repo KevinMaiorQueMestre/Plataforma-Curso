@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 47\t\nA indústria têxtil utiliza grande quantidade de corantes \nno processo de tingimento dos tecidos. O escurecimento \ndas águas dos rios causado pelo despejo desses \ncorantes pode desencadear uma série de problemas no \necossistema aquático. \nConsiderando esse escurecimento das águas, o impacto \nnegativo inicial que ocorre é o(a)\nA\t eutrofização.\nB\t proliferação de algas.\nC\t inibição da fotossíntese.\nD\t fotodegradação da matéria orgânica. \nE\t aumento da quantidade de gases dissolvidos.",
+  "processado_em": "2026-05-08T14:00:46.149822",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

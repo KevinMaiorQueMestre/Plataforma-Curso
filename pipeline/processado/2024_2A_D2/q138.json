@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nUma pessoa planeja fazer um intercâmbio com duração \nde dois meses consecutivos a serem escolhidos dentre os \nseguintes meses: abril, maio, junho e julho.\nA tabela apresenta as cinco cidades possíveis para \no intercâmbio de seu interesse (X, Y, Z, W e K), com as \nrespectivas temperaturas máximas mensais registradas \nno mesmo período do ano anterior.\nTemperaturas máximas (°C)\nCidade\nAbril\nMaio\nJunho\nJulho\nX\n17\n27\n20\n25\nY\n24\n22\n21\n25\nZ\n20\n20\n28\n20\nW\n23\n24\n20\n19\nK\n19\n25\n26\n19\nSeu médico recomendou que, com base nos dados \nfornecidos na tabela, ela escolhesse a cidade que \napresentasse, em dois meses consecutivos, a maior média \nde temperatura máxima mensal e fizesse o intercâmbio \nnesse período.\nQual cidade a pessoa deve escolher para satisfazer \nadequadamente a recomendação médica?",
+  "processado_em": "2026-05-08T14:06:03.677304",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 145\t\nA reportagem de uma revista abordou o uso de redes sociai\nreportagem estão apresentados no infográfico.\nPerfil dos brasileiro\nDispo\nSegundo os dados do infográfico, ao se escolher aleatoriamente um\na probabilidade de ele ser um homem que acessa alguma rede s\nA\t 30\n90\nB\t 36\n100\nC\t 40\n100\nD\t 40\n90\nE\t 46\n90",
+  "processado_em": "2026-05-08T14:07:08.834125",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

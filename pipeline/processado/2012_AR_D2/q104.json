@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "A\t faz uma síntese do que foi abordado na reportagem.\nB\t discute problemas conjugais que conduzem à separação.\nC\t aborda a importância dos advogados em processos \nde separação.\nD\t oferece dicas para orientar as pessoas em processos \nde separação.\nE\t rebate o enfoque dado ao tema pela reportagem, \nlançando novas ideias.\nQUESTÃO 104\t\nE-mail com hora programada\nRedação INFO, 28 de agosto de 2007.\nAgende o envio de e-mails no Thunderbird com a \nextensão SendLater\nNem sempre é interessante mandar um e-mail na \nhora. Há situações em que agendar o envio de uma \nmensagem é útil, como em datas comemorativas ou \nquando o e-mail serve para lembrar o destinatário de \nalgum evento futuro. O Thunderbird, o ótimo cliente de \ne-mail do grupo Mozilla, conta com uma extensão para \nesse fim. Trata-se do SendLater. Depois de instalado, \nele cria um item no menu de criação de mensagens \nque permite marcar o dia e a hora exatos para o envio \ndo e-mail. Só há um ponto negativo: para garantir que a \nmensagem seja enviada na hora, o Thunderbird deverá \nestar em execução. Senão, ele mandará o e-mail somente \nna próxima vez que for rodado.\nDisponível em: http://info.abril.com.br. Acesso em: 18 fev. 2012 (adaptado).\nConsiderando-se a função do SendLater, o objetivo do \nautor do texto E-mail com hora programada é\nA\t eliminar os entraves no envio de mensagens via e-mail.\nB\t viabilizar a aquisição de conhecimento especializado \npelo usuário.\nC\t permitir a seleção dos destinatários dos textos enviados.\nD\t controlar a quantidade de informações constantes do \ncorpo do texto.\nE\t divulgar um produto ampliador da funcionalidade de \num recurso comunicativo",
+  "processado_em": "2026-05-08T13:59:24.716064",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

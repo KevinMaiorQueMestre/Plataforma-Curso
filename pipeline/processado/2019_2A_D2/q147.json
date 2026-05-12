@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 147\t\nUma equipe de cientistas decidiu iniciar uma cultura \ncom exemplares de uma bactéria, em uma lâmina, a fim \nde determinar o comportamento dessa população. Após \nalguns dias, os cientistas verificaram os seguintes fatos:\n•\t a cultura cresceu e ocupou uma área com o \nformato de um círculo;\n•\t o raio do círculo formado pela cultura de bactérias \naumentou 10% a cada dia;\n•\t a concentração na cultura era de 1 000 bactérias \npor \nmilímetro \nquadrado \ne \nnão \nmudou \nsignificativamente com o tempo.\nConsidere que r representa o raio do círculo no \nprimeiro dia, Q a quantidade de bactérias nessa cultura \nno decorrer do tempo e d o número de dias transcorridos.\nQual é a expressão que representa Q em função de r e d ?\nA\nQ\nr\nd\n\u001f\n\u001e\n\u001d\n\u001e\n\u001d\n\u001c\n10\n1 1\n3\n1\n2\n,\n\u001b\nB\nQ\nr\nd\n\u001f\n\u001e\n\u001d\n\u001e\n\u001d\n\u001c\n10\n1 1\n3\n1\n2\n,\n\u001b\nC\nQ\nd\nr\n\u001f\n\u001e\n\u001d \u001c\n\u001e\n\u001c\n10\n1 1\n1\n3\n2\n,\n\u001b\nD\nQ\nr\nd\n\u001f\n\u001e\n\u001d\n\u001c\n\u001b\n2 10\n1 1\n3\n1\n,\n\u001a\nE\nQ\nd\nr\n\u001f\n\u001e\n\u001d\n\u001c\n\u001d\n\u001b \u001b\n2 10\n1 1\n1\n3\n,\n\u001a",
+  "processado_em": "2026-05-11T23:27:12.144200",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

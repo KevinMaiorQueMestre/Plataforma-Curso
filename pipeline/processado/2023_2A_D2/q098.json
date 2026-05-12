@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nLâmpadas incandescentes são constituídas de um \nfilamento de tungstênio dentro de um bulbo de vidro \ncom um gás a baixa pressão. Essas lâmpadas podem \napresentar diferentes potências quando submetidas à \nmesma tensão elétrica.\nUm estudante precisa selecionar uma lâmpada que \nforneça o maior brilho, para isso deverá selecionar \naquela que possui o filamento mais\nA\t\nA\t curto, pois terá a menor resistência.\nB\t\nB\t comprido, pois terá a maior resistência.\nC\t\nC\t curto, pois terá a menor resistividade.\nD\t\nD\t curto, pois terá a menor corrente elétrica.\nE\t\nE\t comprido, pois terá a menor resistividade.",
+  "processado_em": "2026-05-08T14:05:24.365479",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

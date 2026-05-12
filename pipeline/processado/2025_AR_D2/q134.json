@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 134\t\nOs funcionários de um zoológico observaram um aumento \nna taxa de mortalidade de aves aquáticas por afogamento. \nUm grupo de biólogos analisou o comportamento das aves por \nvárias semanas e observou que elas apresentavam dificuldade \nde flutuação, por causa do encharcamento das penas com água.\nO aumento na taxa de mortalidade dessas aves estava associado \na uma redução na\nA\tdilatação do papo.\nB\treposição de penas das asas.\nC\tsecreção da glândula uropigial.\nD\tformação da membrana natatória.\nE\tlargura das cavidades de ossos pneumáticos.",
+  "processado_em": "2026-05-08T14:07:08.160908",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\t\nPara Carr, internet atua no comércio da distração\nAutor de “A Geração Superficial” analisa a influência \nda tecnologia na mente\nO jornalista americano Nicholas Carr acredita que a \ninternet não estimula a inteligência de ninguém. O autor \nexplica descobertas científicas sobre o funcionamento do \ncérebro humano e teoriza sobre a influência da internet \nem nossa forma de pensar.\nPara ele, a rede torna o raciocínio de quem navega \nmais raso, além de fragmentar a atenção de seus usuários.\nMais: Carr afirma que há empresas obtendo lucro \ncom a recente fragilidade de nossa atenção. “Quanto \nmais tempo passamos on-line e quanto mais rápido \npassamos de uma informação para a outra, mais dinheiro \nas empresas de internet fazem”, avalia.\n“Essas empresas estão no comércio da distração e \nsão experts em nos manter cada vez mais famintos por \ninformação fragmentada em partes pequenas. É claro \nque elas têm interesse em nos estimular e tirar vantagem \nda nossa compulsão por tecnologia.”\nROXO, E. Folha de S. Paulo, 18 fev. 2012 (adaptado).\nA crítica do jornalista norte-americano que justifica o título \ndo texto é a de que a internet\nA\t mantém os usuários cada vez menos preocupados \ncom a qualidade da informação.\nB\t torna o raciocínio de quem navega mais raso, além de \nfragmentar a atenção de seus usuários.\nC\t desestimula \na \ninteligência, \nde \nacordo \ncom \ndescobertas científicas sobre o cérebro.\nD\t influencia \nnossa \nforma \nde \npensar \ncom \na \nsuperficialidade dos meios eletrônicos.\nE\t garante a empresas a obtenção de mais lucro com a \nt\nf\nilid d\nd\nt\nã",
+  "processado_em": "2026-05-08T14:00:21.746152",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

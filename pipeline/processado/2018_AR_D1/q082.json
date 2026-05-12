@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nTEXTO I\nHá mais de duas décadas, os cientistas e ambientalistas têm alertado para o fato de a água doce ser um recurso \nescasso em nosso planeta. Desde o começo de 2014, o Sudeste do Brasil adquiriu uma clara percepção dessa \nrealidade em função da seca.\nTEXTO II\nDinâmicas atmosféricas no Brasil\nElementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis \n(JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência \ndo Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A” representa o centro da anomalia de \nalta pressão atmosférica.\nSolo úmido\nZCAS\nJBN\n0°\n20° S\n40° S\n60° W\nVerão normal\nFF\nFluxo do\nOceano Atlântico\nSolo\nseco\nJBN\n0°\n20° S\n40° S\n60° W\nVerão de 2014\nFF\nFluxo do\nOceano Atlântico\nA\nAmazônia\nAmazônia\nMARENGO, J. A. et al. A seca e a crise hídrica de 2014-2015 em São Paulo. Revista USP, n. 106, 2015 (adaptado).\nDe acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a)\nA\t constituição de frentes quentes barrando as chuvas convectivas.\nB\t formação de anticiclone impedindo a entrada de umidade.\nC\t presença de nebulosidade na região de cordilheira.\nD\t avanço de massas polares para o continente.\nE\t baixa pressão atmosférica no litoral.",
+  "processado_em": "2026-05-11T23:26:41.356313",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

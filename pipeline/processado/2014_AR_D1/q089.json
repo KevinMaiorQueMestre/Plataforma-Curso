@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nNa década de 1990, células do cordão umbilical de \nrecém-nascidos humanos começaram a ser guardadas \npor criopreservação, uma vez que apresentam alto \npotencial \nterapêutico \nem \nconsequência \nde \nsuas \ncaracterísticas peculiares.\nO poder terapêutico dessas células baseia-se em sua \ncapacidade de\nA\t multiplicação lenta.\nB\t comunicação entre células.\nC\t adesão a diferentes tecidos.\nD\t diferenciação em células especializadas.\nE\t reconhecimento de células semelhantes.",
+  "processado_em": "2026-05-08T14:00:32.410529",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

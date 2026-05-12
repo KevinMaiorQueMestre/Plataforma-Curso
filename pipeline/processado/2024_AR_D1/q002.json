@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q002",
+  "imagem": "q002.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 2,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS\nQuestões de 01 a 45 \nQuestões de 01 a 05 (opção inglês)\nQUESTÃO 02\t\nHoly War\nNEM2024ENEM2024ENEM2024ENEM2024",
+  "processado_em": "2026-05-11T23:29:29.186160",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 284.3
+  }
+}

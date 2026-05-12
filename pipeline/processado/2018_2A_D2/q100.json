@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nO aproveitamento integral e racional das matérias-primas lignocelulósicas poderá revolucionar uma série \nde segmentos industriais, tais como o de combustíveis, mediante a produção de bioetanol de segunda geração. \nEste processo requer um tratamento prévio da biomassa, destacando-se o uso de ácidos minerais diluídos. \nNo pré-tratamento de material lignocelulósico por via ácida, empregou-se uma solução de ácido sulfúrico, que foi \npreparada diluindo-se 2 000 vezes uma solução de ácido sulfúrico, de concentração igual a 98 g\nL, ocorrendo dissociação \ntotal do ácido na solução diluída. O quadro apresenta os valores aproximados de logaritmos decimais.\nNúmero\n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \nlog\n0,3 \n0,5 \n0,6 \n0,7 \n0,8 \n0,85 \n0,9 \n0,95 \n1 \nDisponível em: www.cgee.org.br. Acesso em: 3 ago. 2012 (adaptado).\nSabendo-se que as massas molares, em g\nmol, dos elementos H, O e S são, respectivamente, iguais a 1, 16 e 32, \nqual é o pH da solução diluída de ácido sulfúrico preparada conforme descrito?\nA\t 2,6\nB\t 3,0\nC\t 3,2\nD\t 3,3\nE\t 3,6",
+  "processado_em": "2026-05-11T23:26:20.450511",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

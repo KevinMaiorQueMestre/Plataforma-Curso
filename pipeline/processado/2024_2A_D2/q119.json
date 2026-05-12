@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nUm experimento foi montado com o intuito de determinar \no tempo de queda livre de corpos com tamanhos e massas \ndistintas. Para isso, utilizou-se uma prateleira a 50,0 cm do \nchão, onde foram colocadas três frutas, conforme a figura. \nEm um determinado instante, a prateleira foi removida, \nliberando todas as frutas simultaneamente.\nConsidere o tempo de queda da melancia como t1, \ndo melão como t2 e da maçã como t3.\nDesprezando-se as forças dissipativas, a relação entre \nos tempos de queda das frutas é\nA\tt1 = t2 = t3.\nB\tt1 > t2 > t3.\nC\tt1 < t2 < t3.\nD\tt1 > t2 < t3.\nE t < t > t",
+  "processado_em": "2026-05-08T14:06:02.506219",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

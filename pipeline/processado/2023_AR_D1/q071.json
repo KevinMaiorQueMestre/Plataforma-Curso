@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nAlternativas logísticas estão servindo de instrumentos \nque ativam os mercados especuladores de terras \nnas diferentes regiões da Amazônia e constituem em \nindicadores utilizados por diferentes atores para defender \nou denunciar o avanço da cultura da soja na região e, \ncom ela, a retomada do desmatamento. É evidente que \no crescimento do desmatamento tem a ver também com \na expansão da soja, porém atribuir a ela o fator principal \nparece não totalmente correto. Parto da compreensão \ncentral de que a lógica que gera o desmatamento está \narticulada pelo tripé grileiros, madeireiros e pecuaristas.\nOLIVEIRA, A. U. A Amazônia e a nova geografia da produção da soja. \nTerra Livre, n. 26, jan.-jun. 2006 (adaptado).\nNa visão do autor, o problema central da situação descrita \né desencadeado pela \nA\t\nA\t apropriação de áreas devolutas.\nB\t\nB\t sonegação de impostos federais.\nC\t\nC\t incorporação de exportação ilegal.\nD\t\nD\t desoneração de setores produtivos.\nE\t\nE\t flexibilização de legislação ambiental.",
+  "processado_em": "2026-05-08T14:05:38.386722",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

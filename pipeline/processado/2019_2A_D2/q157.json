@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 157\t\nUma pessoa fez um depósito inicial de R$ 200,00 \nem um Fundo de Investimentos que possui rendimento \nconstante sob juros compostos de 5% ao mês. \nEsse Fundo possui cinco planos de carência (tempo \nmínimo necessário de rendimento do Fundo sem \nmovimentação do cliente). Os planos são: \n•\t Plano A: carência de 10 meses; \n•\t Plano B: carência de 15 meses; \n•\t Plano C: carência de 20 meses; \n•\t Plano D: carência de 28 meses; \n•\t Plano E: carência de 40 meses. \nO objetivo dessa pessoa é deixar essa aplicação \nrendendo até que o valor inicialmente aplicado duplique, \nquando somado aos juros do Fundo. Considere as \naproximações: log 2 = 0,30 e log 1,05 = 0,02.\nPara que essa pessoa atinja seu objetivo apenas \nno período de carência, mas com a menor carência \npossível, deverá optar pelo plano\nA\t A.\nB\t B.\nC\t C.\nD\t D.\nE\t E.",
+  "processado_em": "2026-05-11T23:27:12.680505",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 26\nQUESTÃO 76\t\nNucleófilos (Nu−) são bases de Lewis que reagem co\nsubstituição nucleofílica (SN), como mostrado no esquema\nR–X + Nu− → R\nA reação de SN entre metóxido de sódio (Nu− = CH3O−) e bro\nà função\nA\t éter.\nB\t éster.\nC\t álcool.\nD\t haleto.\nE\t hidrocarboneto.",
+  "processado_em": "2026-05-08T14:01:11.015911",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

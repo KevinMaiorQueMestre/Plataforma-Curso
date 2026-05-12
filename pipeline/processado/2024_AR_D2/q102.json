@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 102\t\nUm estudante comprou uma cafeteira elétrica de 700 W \nde potência e com capacidade de 0,5 L de água (500 g). \nEnquanto o café estava em preparação na capacidade \nmáxima da cafeteira, ele marcou que demorou 3 minutos \npara a cafeteira ferver toda a água (100 °C) a partir da \ntemperatura ambiente de 20 °C. Em seguida, para avaliar a \neficiência da cafeteira, ele calculou esse tempo desprezando \nquaisquer perdas energéticas. É necessária 1 cal (4,2 J) \npara elevar em 1 °C a temperatura de 1 grama de água.\nQual a eficiência energética calculada pelo estudante?\nA\t100%\nB\t75%\nC\t60%\nD\t7,5%\nE 5 1%",
+  "processado_em": "2026-05-08T14:06:17.061408",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

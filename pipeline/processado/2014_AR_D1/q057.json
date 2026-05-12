@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 57\t\nUm sistema de iluminação foi construído com \num circuito de três lâmpadas iguais conectadas a um \ngerador (G) de tensão constante. Esse gerador possui \numa chave que pode ser ligada nas posições A ou B.\n+\n–\n1\n2\n3\nA\nB\nG\nX\nX\nX\nConsiderando o funcionamento do circuito dado, a \nlâmpada 1 brilhará mais quando a chave estiver na \nposição\nA\t B, pois a corrente será maior nesse caso.\nB\t B, pois a potência total será maior nesse caso.\nC\t A, pois a resistência equivalente será menor nesse \ncaso.\nD\t B, pois o gerador fornecerá uma maior tensão nesse \ncaso.\nE\t A, pois a potência dissipada pelo gerador será menor \nnesse caso.",
+  "processado_em": "2026-05-08T14:00:30.612176",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

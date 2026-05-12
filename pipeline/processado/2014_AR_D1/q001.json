@@ -1,0 +1,28 @@
+{
+  "questao_id": "2014_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 01\t\nFon-Fon!, ano IV, n. 36, 3 set. 1910. Disponível em: objdigital.bn.br. Acesso em: 4 abr. 2014.\nA charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta\nA\t permitiria aos índios se apropriarem da telefonia móvel.\nB\t ampliaria o contato entre a diversidade de povos indígenas.\nC\t faria a comunicação sem ruídos entre grupos sociais distintos.\nD\t restringiria a sua área de atendimento aos estados do norte do país.\nE\t possibilitaria a integração das diferentes regiões do território nacional.",
+  "processado_em": "2026-05-11T23:36:59.153064",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

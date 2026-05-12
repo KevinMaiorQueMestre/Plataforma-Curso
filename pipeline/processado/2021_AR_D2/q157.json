@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 157\nPara realizar um voo entre duas cidades que distam \n2 000 km uma da outra, uma companhia aérea utilizava \num modelo de aeronave A, capaz de transportar até \n200 passageiros. Quando uma dessas aeronaves está \nlotada de passageiros, o consumo de combustível \nZ\u0002\u000f\n\u0002}$}~\u00022\u000e\r\u0007\u0004\u0002%\u0004\u0007\u0002\u000b\f\u000e2Y\u0010\n\r\u0007\u0004\u0002\n\u0002%\u0004\u0007\u0002%\b\t\t\bJ\n\u000e\u0007\u0004(\u0002\u0014\t\t\b\u0002\ncompanhia resolveu trocar o modelo de aeronave A \npelo modelo de aeronave B, que é capaz de transportar \n10% de passageiros a mais do que o modelo A, mas \n\u001e\u0004\u0005\t\f\u0010\u000e\u0005\u000f\u0004\u0002{}\u0002\u0010\n\u0005\u0004\t\u0002\u001e\u0004\u0010!\f\t\rG#\n2\u0002%\u0004\u0007\u0002\u000b\f\u000e2Y\u0010\n\r\u0007\u0004\u0002\n\u0002\npor passageiro.\nA quantidade de combustível consumida pelo modelo \n\u000f\n\u0002\b\n\u0007\u0004\u0005\b#\n\u0002¦$\u0002\n\u0010\u0002\u0007\n2\b'\u001d\u0004\u0002*\u0002\u000f\u0004\u0002\u0010\u0004\u000f\n2\u0004\u0002\u000f\n\u0002\b\n\u0007\u0004\u0005\b#\n\u0002\u0012$\u0002\nem um voo lotado entre as duas cidades, é\nA  10% menor.\nB  1% menor.\nC  igual.\nD  1% maior.\nE 11% maior",
+  "processado_em": "2026-05-08T14:04:31.497448",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

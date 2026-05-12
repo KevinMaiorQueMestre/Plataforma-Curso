@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 104          \nOs impactos ambientais das usinas hidrelétricas \nsão \nmotivo \nde \npolêmica \nnas \ndiscussões \nsobre \ndesenvolvimento \nsustentável. \nEmbora \nusualmente \nrelacionadas ao conceito de “energia limpa” ou associadas \nà ideia de “sustentabilidade”, essas usinas podem causar \nvários problemas ambientais. Destaca-se a proliferação \nde determinadas espécies aquáticas em relação a outras, \nocasionando a perda de diversidade das comunidades de \npeixes (ictiofauna) do local.\n Disponível em: http://ciencia.hsw.com.br. Acesso em: 25 mar. 2013 (adaptado).\nEm um primeiro momento, as mudanças na composição \ndessas comunidades devem-se\nA \t às alterações nos hábitats causadas pela construção \ndas barragens.\nB \t à poluição das águas por substâncias liberadas no \nfuncionamento da usina.\nC \t ao aumento da concentração de CO2 na água \nproduzido pelo represamento do rio.\nD \t às emissões de gases de efeito estufa pela \ndecomposição da matéria orgânica submersa.\nE \t aos impactos nas margens da barragem em função \nda pressão exercida pela água represada",
+  "processado_em": "2026-05-08T14:03:36.294549",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

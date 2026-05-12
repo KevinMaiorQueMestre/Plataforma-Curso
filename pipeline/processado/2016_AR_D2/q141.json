@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nO procedimento de perda rápida de “peso” é comum \nentre os atletas dos esportes de combate. Para participar \nde um torneio, quatro atletas da categoria até 66 kg, \nPeso-Pena, foram submetidos a dietas balanceadas e \natividades físicas. Realizaram três “pesagens” antes do \ninício do torneio. Pelo regulamento do torneio, a primeira \nluta deverá ocorrer entre o atleta mais regular e o menos \nregular quanto aos “pesos”. As informações com base \nnas pesagens dos atletas estão no quadro.\nAtleta\n1ª \npesagem \n(kg)\n2ª \npesagem \n(kg)\n3ª \npesagem \n(kg)\nMédia\nMediana\nDesvio \npadrão\nI\n78\n72\n66\n72\n72\n4,90\nII\n83\n65\n65\n71\n65\n8,49\nIII\n75\n70\n65\n70\n70\n4,08\nIV\n80\n77\n62\n73\n77\n7,87\nApós as três “pesagens”, os organizadores do torneio \ninformaram aos atletas quais deles se enfrentariam na \nprimeira luta.\nA primeira luta foi entre os atletas\nA\t I e III.\nB\t I e IV.\nC\t II e III.\nD\t II e IV.\nE\t III e IV.",
+  "processado_em": "2026-05-08T14:01:18.737375",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

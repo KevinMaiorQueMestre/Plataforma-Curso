@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q005",
+  "imagem": "q005.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 5,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 05\t\nA casa de Deus, que acreditam una, está, portanto, \ndividida em três: uns oram, outros combatem, outros, \nenfim, trabalham. Essas três partes que coexistem não \nsuportam ser separadas; os serviços prestados por uma \nsão a condição das obras das outras duas; cada uma por \nsua vez encarrega-se de aliviar o conjunto... Assim a lei \npode triunfar e o mundo gozar da paz.\nALDALBERON DE LAON. In: SPINOSA, F. Antologia de textos históricos \nmedievais. Lisboa: Sá da Costa, 1981.\nA ideologia apresentada por Aldalberon de Laon foi \nproduzida durante a Idade Média. Um objetivo de \ntal ideologia e um processo que a ela se opôs estão \nindicados, respectivamente, em:\nA\t Justificar a dominação estamental / revoltas camponesas.\nB\t Subverter a hierarquia social / centralização monárquica.\nC\t Impedir a igualdade jurídica / revoluções burguesas.\nD\t Controlar a exploração econômica / unificação monetária.\nE\t Questionar a ordem divina / Reforma Católica.",
+  "processado_em": "2026-05-08T14:00:42.531103",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

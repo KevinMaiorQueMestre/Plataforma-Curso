@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nEm radiometria, a potência radiante emitida por \numa fonte de radiação é diretamente proporcional à \nquantidade de energia, em joule (J), irradiada pela fonte, \ne inversamente proporcional ao intervalo de tempo, \nem segundo (s), que a fonte necessita para emitir essa \nenergia. Por meio de sensores adequados, localizados \nem diferentes distâncias da fonte, medidas em metro (m), \né possível medir a potência radiante por unidade de área \nque chega àquela posição.\nA expressão que representa a unidade de medida para a \ngrandeza potência radiante por unidade de área é\nA\t\nA\t  J ⋅ s ⋅ m2\nB\t\nB\t  J ⋅ s ⋅ m\nC\t\nC\t  -\nV P\n\u001f\nD\t\nD\t  J\ns m2\n⋅\nE\t\nE\t  \n-\nV P\u0015",
+  "processado_em": "2026-05-08T14:05:26.788203",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

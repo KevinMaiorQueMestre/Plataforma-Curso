@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nSegundo regras da Fifa, em um campo de futebol, a áre\nfigura, cujo lado AB mede, aproximadamente, 16 m. O pont\n11 m do lado AD. O arco de circunferência, exterior à região p\nA\nD\nC\nF\nE\nP\nB\nDe acordo com as medidas especificadas no texto e na\ncírculo é\nA\t\nA\t inferior a 7 m.\nB\t\nB\t superior a 7 m e inferior a 14 m.\nC\t\nC\t superior a 14 m e inferior a 19 m.\nD\t\nD\t superior a 19 m e inferior a 23 m.\nE\t\nE\t superior a 23 m.",
+  "processado_em": "2026-05-08T14:05:28.507894",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

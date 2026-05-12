@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nDiante da hipótese do comprometimento da qualidade \nda água retirada do volume morto de alguns sistemas \nhídricos, os técnicos de um laboratório decidiram testar \ncinco tipos de filtros de água.\nDentre esses, os quatro com melhor desempenho \nserão escolhidos para futura comercialização. \nNos testes, foram medidas as massas de agentes \ncontaminantes, em miligrama, que não são capturados por \ncada filtro em diferentes períodos, em dia, como segue:\n•\t Filtro 1 (F1): 18 mg em 6 dias;\n•\t Filtro 2 (F2): 15 mg em 3 dias;\n•\t Filtro 3 (F3): 18 mg em 4 dias;\n•\t Filtro 4 (F4): 6 mg em 3 dias;\n•\t Filtro 5 (F5): 3 mg em 2 dias.\nAo final, descarta-se o filtro com a maior razão entre \na medida da massa de contaminantes não capturados \ne o número de dias, o que corresponde ao de pior \ndesempenho.\nDisponível em: www.redebrasilatual.com.br. Acesso em: 12 jul. 2015 (adaptado).\nO filtro descartado é o\nA\t F1.\nB\t F2.\nC\t F3.\nD\t F4.\nE\t F5.",
+  "processado_em": "2026-05-08T14:01:24.319092",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

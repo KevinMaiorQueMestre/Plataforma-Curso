@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nO aquecimento de um material por irradiação com \nmicro-ondas ocorre por causa da interação da onda \neletromagnética com o dipolo elétrico da molécula. \nUm importante atributo do aquecimento por micro-ondas \né a absorção direta da energia pelo material a ser \naquecido. Assim, esse aquecimento é seletivo e \ndependerá, principalmente, da constante dielétrica e da \nfrequência de relaxação do material. O gráfico mostra a \ntaxa de aquecimento de cinco solventes sob irradiação \nde micro-ondas.\nÁgua\nMetanol\nEtanol\nPropanol\nn-Hexano\n0          10         20         30        40         50         60         70         80\n100\n80\n60\n40\n20\nTemperatura (°C)\nTempo (s)\nBARBOZA, A. C. R. N. et al. Aquecimento em forno de micro-ondas. Desenvolvimento de \nalguns conceitos fundamentais. Química Nova, n. 6, 2001 (adaptado).\nNo gráfico, qual solvente apresenta taxa média de \naquecimento mais próxima de zero, no intervalo de \n0 s a 40 s?\nA\t H2O\nB\t CH3OH\nC\t CH3CH2OH\nD\t CH3CH2CH2OH\nE\t CH3CH2CH2CH2CH2CH3",
+  "processado_em": "2026-05-08T14:01:11.958763",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

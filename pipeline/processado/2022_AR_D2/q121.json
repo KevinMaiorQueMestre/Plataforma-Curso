@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 121\t\nA Agência Nacional de Vigilância Sanitária (Anvisa) \naprovou um produto de terapia gênica no país, indicado \npara o tratamento da distrofia hereditária da retina. O \nprocedimento é recomendado para crianças acima de \n12 meses e adultos com perda de visão causada pela \nmutação do gene humano RPE65. O produto, elaborado \npor engenharia genética, é composto por um vírus, no qual \nfoi inserida uma cópia do gene normal humano RPE65 \npara corrigir o funcionamento das células da retina.\nANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).\nO sucesso dessa terapia advém do fato de que o produto \nfavorecerá a\nA\t\nA\t correção do código genético para a tradução da \nproteína.\nB\t\nB\t alteração do RNA ribossômico ligado à síntese da \nproteína.\nC\t\nC\t produção de mutações benéficas para a correção do \nproblema.\nD\t\nD\t liberação imediata da proteína normal na região \nocular humana.\nE\t\nE\t expressão do gene responsável pela produção da \nenzima normal.",
+  "processado_em": "2026-05-08T14:05:10.378308",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

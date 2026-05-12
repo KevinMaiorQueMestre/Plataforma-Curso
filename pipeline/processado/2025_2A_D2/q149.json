@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 149 \nO gráfico apresenta a distribuição da quantidade de salários \nmínimos pagos por uma empresa a seus funcionários.\nA média de salários mínimos pagos por funcionário dessa \nempresa é\nA 2,7.\nB 3,8.\nC 4,0.\nD 4,5.\nE 5,0.",
+  "processado_em": "2026-05-08T14:06:37.184340",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

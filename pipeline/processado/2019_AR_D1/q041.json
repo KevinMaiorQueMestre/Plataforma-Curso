@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q041",
+  "imagem": "q041.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 41,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 41\t\nEla nasceu lesma, vivia no meio das lesmas, mas \nnão estava satisfeita com sua condição. Não passamos \nde criaturas desprezadas, queixava-se. Só somos \nconhecidas por nossa lentidão. O rastro que deixaremos \nna História será tão desprezível quanto a gosma que \nmarca nossa passagem pelos pavimentos.\nA esta frustração correspondia um sonho: a lesma \nqueria ser como aquele parente distante, o escargot. \nO simples nome já a deixava fascinada: um termo \nfrancês, elegante, sofisticado, um termo que as pessoas \npronunciavam com respeito e até com admiração. \nMas, lembravam as outras lesmas, os escargots são \ncomidos, enquanto nós pelo menos temos chance de \nsobreviver. Este argumento não convencia a insatisfeita \nlesma, ao contrário: preferiria exatamente terminar sua \nvida desta maneira, numa mesa de toalha adamascada, \nentre talheres de prata e cálices de cristal. Assim como \no mar é o único túmulo digno de um almirante batavo, \nrespondia a travessa de porcelana é a única lápide",
+  "processado_em": "2026-05-11T23:27:23.929032",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

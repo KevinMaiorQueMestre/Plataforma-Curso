@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nA transformação entre os tipos de energia cinética \n(Ec) e energia potencial (Ep), em sistemas conservativos, \né regida pela lei que afirma que a energia mecânica, dada \npela soma Ec + Ep, é constante ao longo do tempo. Assuma \nque, em um sistema conservativo, a energia mecânica é de \n12 kJ (quilojoule), sendo observado que a energia cinética \nEc (em quilojoule), dada em função do tempo t (em hora), \napresentou o comportamento descrito no gráfico.\nPretende-se avaliar, no período de 0 a 8 horas, qual é o \nmaior valor possível de ser atingido pela energia potencial \nEp nesse sistema conservativo.\nO valor máximo da energia potencial, em quilojoule, é \nigual a\nA\t12.\nB\t9.\nC\t5.\nD\t3.\nE\t1.",
+  "processado_em": "2026-05-08T14:06:04.020093",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

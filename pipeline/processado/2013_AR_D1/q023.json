@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 23\t\nQuando ninguém duvida da existência de um outro \nmundo, a morte é uma passagem que deve ser celebrada \nentre parentes e vizinhos. O homem da Idade Média tem a \nconvicção de não desaparecer completamente, esperando \na ressurreição. Pois nada se detém e tudo continua \nna eternidade. A perda contemporânea do sentimento \nreligioso fez da morte uma provação aterrorizante, um \ntrampolim para as trevas e o desconhecido.\nDUBY, G. Ano 1000 ano 2000 na pista dos nossos medos. \nSão Paulo: Unesp, 1998 (adaptado).\nAo comparar as maneiras com que as sociedades têm \nlidado com a morte, o autor considera que houve um \nprocesso de\nA\t mercantilização das crenças religiosas.\nB\t transformação das representações sociais.\nC\t disseminação do ateísmo nos países de maioria cristã.\nD\t diminuição da distância entre saber científico e \neclesiástico.\nE\t amadurecimento \nda \nconsciência \nligada \nà \ncivilização moderna.",
+  "processado_em": "2026-05-08T14:00:09.761264",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

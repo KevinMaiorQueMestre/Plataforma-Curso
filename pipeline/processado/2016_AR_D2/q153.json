@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nPara cadastrar-se em um site, uma pessoa precisa \nescolher uma senha composta por quatro caracteres, \nsendo dois algarismos e duas letras (maiúsculas ou \nminúsculas). As letras e os algarismos podem estar em \nqualquer posição. Essa pessoa sabe que o alfabeto é \ncomposto por vinte e seis letras e que uma letra maiúscula \ndifere da minúscula em uma senha.\nDisponível em: www.infowester.com. Acesso em: 14 dez. 2012.\nO número total de senhas possíveis para o cadastramento \nnesse site é dado por\nA 102 . 262\nB 102 . 522\nC 102 . 522 . 4! \n2!\nD 102 . 262 .\n4! \n2! . 2!\nE 102 . 522 .\n4! \n2! . 2!",
+  "processado_em": "2026-05-08T14:01:22.430078",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

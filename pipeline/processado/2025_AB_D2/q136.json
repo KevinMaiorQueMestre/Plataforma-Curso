@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 136\t\nUm site publicou este gráfico, que apresenta a evolução d\n2021. Por exemplo, o Produto 1 atingiu o valor recorde de 304\nEm qual(is) período(s) os preços de ambos os produtos tiveram\nA\tDe 17 de janeiro a 2 de maio.\nB\tDe 17 de janeiro a 16 de maio.\nC\tDe 17 de janeiro a 4 de julho.\nD\tDe 17 de janeiro a 2 de fevereiro e de 14 de fevereiro a 2 de\nE\tDe 17 de janeiro a 2 de fevereiro e de 14 de fevereiro a 16 d",
+  "processado_em": "2026-05-08T14:06:52.069693",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

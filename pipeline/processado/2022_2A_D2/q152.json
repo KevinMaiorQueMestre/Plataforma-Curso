@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nUm cortador de grama elétrico tem o cabo plugado \nem uma tomada fixa rente ao solo plano de um gramado. \nO cabo de energia mede 5 metros, e o cortador tem uma \nlâmina que corta 1 metro de largura. Atualmente ele corta, \nportanto, uma região no formato de círculo de raio 6 m, \ncomo ilustra a figura. Pretende-se usar adicionalmente \num cabo extensor, de modo que seja possível cortar uma \nregião com o dobro da área que corta atualmente.\nCortador de\ngrama\nCabo\nTomada\n1 m\n5 m\nQual a medida aproximada, em metro, do comprimento \ndo cabo extensor?\nA\t\nA\t 12,0\nB\t\nB\t 8,5\nC\t\nC\t 6,0\nD\t\nD\t 3,0\nE\t\nE\t 2,5",
+  "processado_em": "2026-05-08T14:04:50.045433",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

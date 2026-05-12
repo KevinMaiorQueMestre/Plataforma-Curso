@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 08\t\nNesse texto, o que caracteriza a escrita “de próprio punho” é a letra manuscrita, enquanto a escrita digital é ilustrada pelo(a)\nA\tutilização de tecnologias diversificadas.\nB\tdesenvolvimento de novos recursos de escrita.\nC\tpossibilidade de interações mediadas por telas.\nD\tdiversidade de fontes tipográficas que estão disponíveis.\nE\tdelimitação dos espaços onde a produção textual ocorre.",
+  "processado_em": "2026-05-11T23:29:50.075585",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

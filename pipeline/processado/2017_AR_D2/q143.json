@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nÀs 17 h 15 min começa uma forte chuva, que cai \ncom intensidade constante. Uma piscina em forma \nde um paralelepípedo retângulo, que se encontrava \ninicialmente vazia, começa a acumular a água da chuva \ne, às 18 horas, o nível da água em seu interior alcança \n20 cm de altura. Nesse instante, é aberto o registro que \nlibera o escoamento da água por um ralo localizado no \nfundo dessa piscina, cuja vazão é constante. Às 18 h 40 min \na chuva cessa e, nesse exato instante, o nível da água na \npiscina baixou para 15 cm. \nO instante em que a água dessa piscina terminar de \nescoar completamente está compreendido entre\nA\t 19 h 30 min e 20 h 10 min.\nB\t 19 h 20 min e 19 h 30 min.\nC\t 19 h 10 min e 19 h 20 min.\nD\t 19 h e 19 h 10 min.\nE\t 18 h 40 min e 19 h.",
+  "processado_em": "2026-05-11T23:25:52.983397",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

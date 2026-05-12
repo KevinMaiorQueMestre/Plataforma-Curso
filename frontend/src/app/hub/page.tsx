@@ -1,21 +1,13 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect, useCallback } from "react";
+import { useState } from "react";
 import { motion } from "framer-motion";
-import { PlayCircle, Target, ArrowLeft, Lock, Loader2, Link2, ArrowRight, Users, LogOut } from "lucide-react";
+import { PlayCircle, Target, Lock, Loader2, Link2, ArrowRight, Users, LogOut } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { ThemeSwitcher } from "@/components/ThemeSwitcher";
 import { createClient } from "@/utils/supabase/client";
-import type { RealtimeChannel } from "@supabase/supabase-js";
-
-type PresenceUser = {
-  user_id: string;
-  nome: string;
-  avatar_url?: string | null;
-  online_at: string;
-};
-
+import { useGlobalPresence } from "@/components/GlobalPresenceProvider";
 export default function HubPage() {
   const router = useRouter();
   const supabase = createClient();
@@ -23,79 +15,8 @@ export default function HubPage() {
   const [isLoadingAulas,    setIsLoadingAulas]    = useState(false);
   const [isLoadingMentoria, setIsLoadingMentoria] = useState(false);
   const [isLoggingOut,      setIsLoggingOut]      = useState(false);
-  const [onlineUsers,       setOnlineUsers]       = useState<PresenceUser[]>([]);
-  const [currentUser,       setCurrentUser]       = useState<{ id: string; nome: string; avatar_url?: string | null } | null>(null);
-
-  // ──────────────────────────────────────────────────────────
-  // Carrega perfil do aluno logado e inicializa Presence
-  // ──────────────────────────────────────────────────────────
-  useEffect(() => {
-    let mounted = true;
-    let channel: RealtimeChannel | null = null;
-
-    async function setup() {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user || !mounted) return;
-
-      // Busca nome e avatar do profile
-      const { data: profile } = await supabase
-        .from("profiles")
-        .select("nome, avatar_url")
-        .eq("id", user.id)
-        .single();
-
-      if (!mounted) return;
-
-      const me: PresenceUser = {
-        user_id: user.id,
-        nome: profile?.nome ?? user.email?.split("@")[0] ?? "Aluno",
-        avatar_url: profile?.avatar_url ?? null,
-        online_at: new Date().toISOString(),
-      };
-
-      setCurrentUser({ id: user.id, nome: me.nome, avatar_url: me.avatar_url });
-
-      // Cria o canal de presença (Supabase Realtime)
-      channel = supabase.channel("hub_presence", {
-        config: { presence: { key: user.id } },
-      });
-
-      channel
-        .on("presence", { event: "sync" }, () => {
-          if (!mounted || !channel) return;
-          const state = channel.presenceState<PresenceUser>();
-          const users = (Object.values(state).flat() as unknown) as PresenceUser[];
-          setOnlineUsers(users);
-        })
-        .on("presence", { event: "join" }, ({ newPresences }) => {
-          if (!mounted) return;
-          setOnlineUsers((prev) => {
-            const ids = new Set(prev.map((u) => u.user_id));
-            const novos = ((newPresences as unknown) as PresenceUser[]).filter((u) => !ids.has(u.user_id));
-            return [...prev, ...novos];
-          });
-        })
-        .on("presence", { event: "leave" }, ({ leftPresences }) => {
-          if (!mounted) return;
-          const leftIds = new Set(((leftPresences as unknown) as PresenceUser[]).map((u) => u.user_id));
-          setOnlineUsers((prev) => prev.filter((u) => !leftIds.has(u.user_id)));
-        })
-        .subscribe(async (status) => {
-          if (status === "SUBSCRIBED" && mounted && channel) {
-            await channel.track(me);
-          }
-        });
-    }
-
-    setup();
-
-    return () => {
-      mounted = false;
-      if (channel) {
-        supabase.removeChannel(channel);
-      }
-    };
-  }, []);
+  
+  const { onlineUsers, currentUser } = useGlobalPresence();
 
   const handleAcessoMentoria = () => {
     setIsLoadingMentoria(true);

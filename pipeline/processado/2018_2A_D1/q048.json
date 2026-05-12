@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 48\t\nO ponto de partida para o nascimento de uma \ncozinha brasileira foi o livro de receitas Cozinheiro \nImperial, de 1840. Estimulava a nobreza e os ricos a \nacrescentarem ingredientes e pratos locais em suas \nfestas. A princesa Isabel comemorou as bodas de \nprata com um banquete no qual foram servidos bolo de \nmandioca e canja à brasileira.\nRIBEIRO, M. Fome imperial: Dom Pedro II não era um gourmet, mas ajudou a dar forma à \ngastronomia brasileira. Aventuras na História, mar. 2014 (adaptado).\nO uso da culinária popular brasileira, no contexto \napresentado, colaborou para\nA\t enfraquecer as elites agrárias.\nB\t romper os laços coloniais.\nC\t reforçar a religião católica.\nD\t construir a identidade nacional.\nE\t humanizar o regime escravocrata.",
+  "processado_em": "2026-05-11T23:26:12.662244",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

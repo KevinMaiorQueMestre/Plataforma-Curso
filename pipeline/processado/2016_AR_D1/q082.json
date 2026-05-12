@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nUma invenção que significou um grande avanço \ntecnológico na Antiguidade, a polia composta ou a associação \nde polias, é atribuída a Arquimedes (287 a.C. a 212 a.C.). \nO aparato consiste em associar uma série de polias \nmóveis a uma polia fixa. A figura exemplifica um arranjo \npossível para esse aparato. É relatado que Arquimedes \nteria demonstrado para o rei Hierão um outro arranjo \ndesse aparato, movendo sozinho, sobre a areia da praia, \num navio repleto de passageiros e cargas, algo que \nseria impossível sem a participação de muitos homens. \nSuponha que a massa do navio era de 3 000 kg, que o \ncoeficiente de atrito estático entre o navio e a areia era \nde 0,8 e que Arquimedes tenha puxado o navio com uma\nforça F\n→\n, paralela à direção do movimento e de módulo \nigual a 400 N. Considere os fios e as polias ideais, a \naceleração da gravidade igual a 10 m/s2 e que a superfície \nda praia é perfeitamente horizontal.\nF\nDisponível em: www.histedbr.fae.unicamp.br. Acesso em: 28 fev. 2013 (adaptado).\nO número mínimo de polias móveis usadas, nessa \nsituação, por Arquimedes foi\nA\t 3.\nB\t 6.\nC\t 7.\nD\t 8.\nE\t 10.",
+  "processado_em": "2026-05-08T14:01:11.575933",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

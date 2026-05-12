@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nO Marabaixo é uma expressão artístico-cultural \nformada nas tradições e na identificação cultural entre as \ncomunidades negras do Amapá. O nome remonta às mortes \nde escravizados em navios negreiros que eram jogados na \nágua. Em sua homenagem, hinos de lamento eram cantados \nmar abaixo, mar acima. Posteriormente, o Marabaixo se \nintegrou à vivência das comunidades negras em um ciclo \nde danças, cantorias com tambores e festas religiosas, \nrecebendo, em 2018, o título de Patrimônio Cultural do Brasil.\nDisponível em: http://portal.iphan.gov.br. Acesso em: 15 nov. 2021 (adaptado).\nA manifestação do Marabaixo se constituiu em expressão \nde arte e cultura, exercendo função de\nA\t\nA\t ressignificar episódios dramáticos em novas práticas \nculturais.\nB\t\nB\t adaptar coreografias como imitação dos movimentos \ndo mar.\nC\t\nC\t lembrar dos mortos no passado escravista como forma \nde lamento.\nD\t\nD\t perpetuar uma narrativa de apagamento dos fatos \nhistóricos traumáticos.\nE\t\nE\t ritualizar a passagem de atos fúnebres nas produções \ncoletivas com espírito festivo.",
+  "processado_em": "2026-05-08T14:05:36.125964",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

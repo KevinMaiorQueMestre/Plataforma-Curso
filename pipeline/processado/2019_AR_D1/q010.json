@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 10\t\nDisponível em: www.essl.pt. Acesso em: 9 maio 2019 (adaptado).\nEssa campanha se destaca pela maneira como utiliza a linguagem para conscientizar a sociedade da necessidade \nde se acabar com o bullying. Tal estratégia está centrada no(a)\nA\t chamamento de diferentes atores sociais pelo uso recorrente de estruturas injuntivas.\nB\t variedade linguística caracterizadora do português europeu.\nC\t restrição a um grupo específico de vítimas ao apresentar marcas gráficas de identificação de gênero como “o(a)”.\nD\t combinação do significado de palavras escritas em línguas inglesa e portuguesa.\nE\t enunciado de cunho esperançoso “passe à história” no título do cartaz.",
+  "processado_em": "2026-05-11T23:27:19.238127",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

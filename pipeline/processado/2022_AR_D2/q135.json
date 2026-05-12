@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 135\t\nAntimicrobianos são substâncias naturais ou sintéticas\nmicrorganismos. A tabela apresenta uma lista de antimicro\no metabolismo microbiano.\nAntimicrobiano\nAção\n1\nUne-se aos ribossomos\n2\nUne-se aos microtúbulos\n3\nUne-se aos fosfolipídeos da membrana pla\n4\nInterfere na síntese de timina\n5\nInterfere na síntese de uracila\nQual dos antimicrobianos deve ser utilizado para curar um\nda microbiota normal do organismo?\nA\t\nA\t 1\nB\t\nB\t 2\nC\t\nC\t 3\nD\t\nD\t 4\nE\t\nE\t 5",
+  "processado_em": "2026-05-08T14:05:11.337298",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

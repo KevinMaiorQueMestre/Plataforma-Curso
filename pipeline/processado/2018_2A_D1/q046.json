@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 46\t\nDemócrito julga que a natureza das coisas eternas \nsão pequenas substâncias infinitas, em grande número. \nE julga que as substâncias são tão pequenas que fogem \nàs nossas percepções. E lhes são inerentes formas de \ntoda espécie, figuras de toda espécie e diferenças em \ngrandeza. Destas, então, engendram-se e combinam-se \ntodos os volumes visíveis e perceptíveis.\nSIMPLÍCIO. Do Céu (DK 68 a 37). In: Os pré-socráticos. São Paulo: \nNova Cultural, 1996 (adaptado).\nA Demócrito atribui-se a origem do conceito de\nA\t porção mínima da matéria, o átomo.\nB\t princípio móvel do universo, a arché.\nC\t qualidade única dos seres, a essência.\nD\t quantidade variante da massa, o corpus.\nE\t substrato constitutivo dos elementos, a physis.",
+  "processado_em": "2026-05-11T23:26:12.599514",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

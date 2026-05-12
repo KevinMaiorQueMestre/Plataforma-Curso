@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\n8P\u0003HGLItFLR\u0003WHP\u0003D\u0003QXPHUDomR\u0003GRV\u0003DQGDUHV\u0003LQLFLDQGR\u0003\nno térreo (T ), e continuando com primeiro, segundo, \nterceiro, ..., até o último andar. Uma criança entrou no \nelevador e, tocando no painel, seguiu uma sequência \nde andares, parando, abrindo e fechando a porta em \ndiversos andares. A partir de onde entrou a criança, o \nelevador subiu sete andares, em seguida desceu dez, \ndesceu mais treze, subiu nove, desceu quatro e parou no \nTXLQWR\u0003DQGDU\u000f\u0003¿QDOL]DQGR\u0003D\u0003VHTXrQFLD\u0011\u0003&RQVLGHUH\u0003TXH\u000f\u0003QR\u0003\ntrajeto seguido pela criança, o elevador parou uma vez no \núltimo andar do edifício.\nDe acordo com as informações dadas, o último andar do \nedifício é o\nA 16o\nB \u0015\u0015o\nC \u0015\u0016o\nD \u0015\u0018o\nE \u0016\u0015o",
+  "processado_em": "2026-05-11T23:26:49.186462",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

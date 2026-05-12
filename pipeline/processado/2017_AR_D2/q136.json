@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\t\nOs congestionamentos de trânsito constituem um \nproblema que aflige, todos os dias, milhares de motoristas \nbrasileiros. O gráfico ilustra a situação, representando, ao \nlongo de um intervalo definido de tempo, a variação da \nvelocidade de um veículo durante um congestionamento.\nVelocidade\nTempo (min)\n0\n2\n4\n6\n8\n10\nQuantos minutos o veículo permaneceu imóvel ao longo \ndo intervalo de tempo total analisado?\nA\t 4\nB\t 3\nC\t 2\nD\t 1\nE\t 0",
+  "processado_em": "2026-05-11T23:25:52.347697",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

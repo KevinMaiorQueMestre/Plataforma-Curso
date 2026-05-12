@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 98\t\nEnergia solar fotovoltaica\nA energia solar fotovoltaica é renovável e limpa, associada à radiação emitida pelo Sol para gerar eletricidade. Baseia-se no \ndenominado efeito fotoelétrico, por meio do qual determinados materiais são capazes de absorver fótons e liberar elétrons, \ngerando corrente elétrica. Para isso, utilizam-se placas com dispositivos semicondutores denominados células solares, ou \nfotovoltaicas, que podem ser feitos, por exemplo, de silício monocristalino, policristalino ou amorfo.\nDisponível em: www.ecycle.com.br. Acesso em: 2 dez. 2021 (adaptado).\nO principal impacto ambiental gerado pelo descarte desses dispositivos está associado ao(à)\nA\tcontaminação do solo.\nB\temissão de radioatividade.\nC\temissão de radiação ultravioleta.\nD\taumento da temperatura do solo.\nE\tprodução de gases de efeito estufa.",
+  "processado_em": "2026-05-11T23:29:46.798645",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 154\n$\u0003 &RPLVVmR\u0003 ,QWHUQD\u0003 GH\u0003 3UHYHQomR\u0003 GH\u0003 $FLGHQWHV\u0003\n\u000b&,3$\f\u0003 GH\u0003 XPD\u0003 HPSUHVD\u000f\u0003 REVHUYDQGR\u0003 RV\u0003 DOWRV\u0003 FXVWRV\u0003\ncom os frequentes acidentes de trabalho ocorridos, fez, a \npedido da diretoria, uma pesquisa do número de acidentes \nsofridos por funcionários. Essa pesquisa, realizada com \numa amostra de 100 funcionários, norteará as ações da \nempresa na política de segurança no trabalho.\n2V\u0003UHVXOWDGRV\u0003REWLGRV\u0003HVWmR\u0003QR\u0003TXDGUR\u0011\nNúmero de \nacidentes sofridos\nNúmero de \ntrabalhadores\n0\n50\n1\n\u0014\u001a\u0003\n\u0015\u0003\n15\n3\n10\n\u0017\u0003\n6\n5\n\u0015\u0003\nA média do número de acidentes por funcionário na \nDPRVWUD\u0003TXH\u0003D\u0003&,3$\u0003DSUHVHQWDUi\u0003j\u0003GLUHWRULD\u0003GD\u0003HPSUHVD\u0003p\nA 0,15.\nB 0,30.\nC 0,50.\nD 1,11.\nE \u0015\u000f\u0015\u0015\u0011",
+  "processado_em": "2026-05-11T23:26:48.713596",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 92\t\nO 2,4-dinitrofenol (DNP) é conhecido como \ndesacoplador da cadeia de elétrons na mitocôndria e \napresenta um efeito emagrecedor. Contudo, por ser \nperigoso e pela ocorrência de casos letais, seu uso \ncomo medicamento é proibido em diversos países, \ninclusive no Brasil. Na mitocôndria, essa substância \ncaptura, no espaço intermembranas, prótons (H+) \nprovenientes da atividade das proteínas da cadeia \nrespiratória, \nretornando-os \nà \nmatriz \nmitocondrial. \nAssim, esses prótons não passam pelo transporte \nenzimático na membrana interna.\nGRUNDLINGH, J. et al. 2,4-Dinitrophenol (DNP): a Weight \nLoss Agent with Significant Acute Toxicity and Risk of Death. \n Journal of Medical Toxicology, v. 7, 2011 (adaptado).\nO efeito emagrecedor desse composto está relacionado \nao(à)\nA\t obstrução da cadeia respiratória, resultando em \nmaior consumo celular de ácidos graxos.\nB\t bloqueio das reações do ciclo de Krebs, resultando \nem maior gasto celular de energia.\nC\t diminuição da produção de acetil CoA, resultando \nem maior gasto celular de piruvato.\nD\t inibição da glicólise, resultando em maior absorção \ncelular da glicose sanguínea.\nE\t redução da produção de ATP, resultando em maior \ngasto celular de nutrientes.",
+  "processado_em": "2026-05-11T23:27:32.297926",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

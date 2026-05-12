@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nA partir de um exame clínico, ficou constatado que \numa pessoa encontrava-se com uma grave deficiência \nde vitaminas X e Y. Ela foi orientada a fazer 100% de \nreposição diária de cada vitamina. Devido à sua condição \nsocioeconômica, ela só dispõe dos alimentos Z e W para \nsuprir essa deficiência. Os alimentos Z e W custam, \nrespectivamente, R$ 3,00 e R$ 8,00 por quilo. Segue um \nquadro com a porcentagem que cada 100 g desses dois \nalimentos fornece de cada vitamina.\nVitamina\nAlimento Z\n(% por 100 g)\nAlimento W\n(% por 100 g)\nX\n25\n8\nY\n0\n16\nO valor mínimo diário, em real, que a pessoa gastará para \nsuprir suas necessidades de vitaminas X e Y, consumindo \nos alimentos Z e W, é\nA\t5,00.\nB\t5,60.\nC\t6,10.\nD\t6,20.\nE\t10,00.",
+  "processado_em": "2026-05-08T14:06:04.136556",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nComo não são adeptos da prática de esportes, um \ngrupo de amigos resolveu fazer um torneio de futebol \nutilizando videogame. Decidiram que cada jogador joga \numa única vez com cada um dos outros jogadores. \nO campeão será aquele que conseguir o maior número de \npontos. Observaram que o número de partidas jogadas \ndepende do número de jogadores, como mostra o quadro: \nQuantidade de \njogadores\n2\n3\n4\n5\n6\n7\nNúmero de \npartidas\n1\n3\n6\n10\n15\n21\nSe a quantidade de jogadores for 8, quantas partidas \nserão realizadas?\nA\t 64\nB\t 56\nC\t 49\nD\t 36\nE\t 28",
+  "processado_em": "2026-05-11T23:25:52.847566",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

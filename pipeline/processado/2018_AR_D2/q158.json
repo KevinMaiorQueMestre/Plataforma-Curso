@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\n8P\u0003 DUWHVmR\u0003 SRVVXL\u0003 SRWHV\u0003 FLOtQGULFRV\u0003 GH\u0003 WLQWD\u0003 FXMDV\u0003\nPHGLGDV\u0003 H[WHUQDV\u0003 VmR\u0003 \u0017\u0003 FP\u0003 GH\u0003 GLkPHWUR\u0003 H\u0003 \u0019\u0003 FP\u0003 GH\u0003\naltura. Ele pretende adquirir caixas organizadoras para \narmazenar seus potes de tinta, empilhados verticalmente \ncom tampas voltadas para cima, de forma que as caixas \npossam ser fechadas.\nNo mercado, existem cinco opções de caixas \norganizadoras, com tampa, em formato de paralelepípedo \nreto retângulo, vendidas pelo mesmo preço, possuindo as \nseguintes dimensões internas:\nModelo\nComprimento\n(cm)\nLargura\n(cm)\nAltura\n(cm)\n,\n8\n8\n\u0017\u0013\n,,\n8\n\u0015\u0013\n\u0014\u0017\n,,,\n18\n5\n35\n,9\n\u0015\u0013\n\u0014\u0015\n\u0014\u0015\nV\n\u0015\u0017\n8\n\u0014\u0017\n4XDO\u0003 GHVVHV\u0003 PRGHORV\u0003 R\u0003 DUWHVmR\u0003 GHYH\u0003 DGTXLULU\u0003 SDUD\u0003\nconseguir armazenar o maior número de potes por caixa?\nA ,\nB ,,\nC ,,,\nD ,9\nE V",
+  "processado_em": "2026-05-11T23:26:49.122452",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

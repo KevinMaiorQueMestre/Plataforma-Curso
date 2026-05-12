@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nARIONAURO. Disponível em: www.arionaurocartuns.com.br. \nAcesso em: 10 out. 2019.\nO direito social do cidadão representado na charge \ndemanda a adoção de qual medida?\nA\tExpansão da jornada laboral.\nB\tValorização do trabalho informal.\nC\tAmpliação do acesso à habitação.\nD\tConstrução de alojamentos públicos.\nE\tEdificação de condomínios elitizados.",
+  "processado_em": "2026-05-08T14:05:54.694243",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

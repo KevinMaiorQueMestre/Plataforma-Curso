@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q028",
+  "imagem": "q028.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 28,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 28\t\nTexto I\nAnaxímenes de Mileto disse que o ar é o elemento \noriginário de tudo o que existe, existiu e existirá, e \nque outras coisas provêm de sua descendência. \nQuando o ar se dilata, transforma-se em fogo, ao \npasso que os ventos são ar condensado. As nuvens \nformam-se a partir do ar por feltragem e, ainda mais \ncondensadas, transformam-se em água. A água, \nquando mais condensada, transforma-se em terra, e \nquando condensada ao máximo possível, transforma-\nse em pedras.\nBURNET, J. A aurora da filosofia grega. Rio de Janeiro: PUC-Rio, 2006 (adaptado).\nTexto II\nBasílio Magno, filósofo medieval, escreveu: \n“Deus, como criador de todas as coisas, está no \nprincípio do mundo e dos tempos. Quão parcas \nde conteúdo se nos apresentam, em face desta \nconcepção, \nas \nespeculações \ncontraditórias \ndos \nfilósofos, para os quais o mundo se origina, ou de \nalgum dos quatro elementos, como ensinam os Jônios, \nou dos átomos, como julga Demócrito. Na verdade, \ndão a impressão de quererem ancorar o mundo numa \nteia de aranha.”\nGILSON, E.; BOEHNER, P. História da Filosofia Cristã. \nSão Paulo: Vozes, 1991 (adaptado).\nFilósofos dos diversos tempos históricos desenvolveram \nteses para explicar a origem do universo, a partir de uma \nexplicação racional. As teses de Anaxímenes, filósofo \ngrego antigo, e de Basílio, filósofo medieval, têm em \ncomum na sua fundamentação teorias que\nA\t eram baseadas nas ciências da natureza.\nB\t refutavam as teorias de filósofos da religião.\nC\t tinham origem nos mitos das civilizações antigas.\nD\t postulavam um princípio originário para o mundo.\nE\t defendiam que Deus é o princípio de todas as coisas.",
+  "processado_em": "2026-05-08T13:59:01.998913",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

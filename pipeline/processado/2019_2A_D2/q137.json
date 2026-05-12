@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 137\t\nAs coordenadas usualmente utilizadas na localização \nde um ponto sobre a superfície terrestre são a latitude \ne a longitude. Para tal, considera-se que a Terra tem a \nforma de uma esfera.\nUm meridiano é uma circunferência sobre a \nsuperfície da Terra que passa pelos polos Norte e Sul, \nrepresentados na figura por PN e PS. O comprimento \nda semicircunferência que une os pontos PN e PS tem \ncomprimento igual a 20 016 km. A linha do Equador \ntambém é uma circunferência sobre a superfície da \nTerra, com raio igual ao da Terra, sendo que o plano \nque a contém é perpendicular ao que contém qualquer \nmeridiano.\nSeja P um ponto na superfície da Terra, C o centro \nda Terra e o segmento PC  um raio, conforme mostra a \nfigura. Seja ϕ  o ângulo que o segmento PC  faz com \no plano que contém a linha do Equador. A medida em \ngraus de ϕ  é a medida da latitude de P.\nMeridiano\nEquador\nPN\nP\nC\nPS\nSuponha que a partir da linha do Equador um navio \nviaja subindo em direção ao Polo Norte, percorrendo um \nmeridiano, até um ponto P com 30 graus de latitude.\nQuantos quilômetros são percorridos pelo navio?\nA\t 1 668\nB\t 3 336\nC\t 5 004\nD\t 6 672\nE\t 10 008",
+  "processado_em": "2026-05-11T23:27:11.668552",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

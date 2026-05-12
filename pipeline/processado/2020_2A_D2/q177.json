@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 177          \nSe a tartaruga, a lesma e o caramujo apostassem um\ncolocado seria o caramujo e a primeira seria a tartaruga\nvelocidade “recorde” já registrada em pesquisas, por uma \nPara uma reportagem, dispondo das velocidades rec\nse faz necessário saber o fator de conversão da velocidad\numa comparação.\nCom base nas informações, o fator de conversão da veloc\nA  10\n× 60−2\n−2\n\t  \nB  10\n× 60−1\n−2\n\t  \nC  10\n× 60\n−2\n\t\n \nD  10\n× 60−1\n−3\n\t  \nE 10\n× 60\n−3",
+  "processado_em": "2026-05-08T14:03:40.435927",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

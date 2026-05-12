@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161 \n Um marceneiro recebeu a encomenda de uma \npassarela de 14,935 m sobre um pequeno lago, conforme \na Figura I. A obra será executada com tábuas de 10 cm de \nODUJXUD\u000f\u0003TXH\u0003Mi\u0003HVWmR\u0003FRP\u0003R\u0003FRPSULPHQWR\u0003QHFHVViULR\u0003SDUD\u0003\nLQVWDODomR\u000f\u0003GHL[DQGR\u0010VH\u0003XP\u0003HVSDoDPHQWR\u0003GH\u0003\u0014\u0018\u0003PP\u0003HQWUH\u0003\ntábuas consecutivas, de acordo com a planta do projeto \nna Figura II.\n Desconsiderando-se eventuais perdas com cortes durante \nD\u0003 H[HFXomR\u0003 GR\u0003 SURMHWR\u000f\u0003 TXDQWDV\u0003 WiEXDV\u000f\u0003 QR\u0003 PtQLPR\u000f\u0003 R\u0003\nPDUFHQHLUR\u0003QHFHVVLWDUi\u0003SDUD\u0003D\u0003H[HFXomR\u0003GD\u0003HQFRPHQGD\"\nA  60\nB  100\nC  130\nD  150\nE  598\n15 mm\n10 cm\n14,935 m\nFigura II\nFigura I",
+  "processado_em": "2026-05-11T23:25:30.829260",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

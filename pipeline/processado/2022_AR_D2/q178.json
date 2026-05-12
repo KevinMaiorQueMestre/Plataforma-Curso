@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nUm robô, que tem um ímã em sua base, se desloca \nsobre a superfície externa de um cubo metálico, ao longo de \nsegmentos de reta cujas extremidades são pontos médios de \narestas e centros de faces. Ele inicia seu deslocamento no \nponto P, centro da face superior do cubo, segue para o centro \nda próxima face, converte à esquerda e segue para o centro da \nface seguinte, converte à direita e continua sua movimentação, \nsempre alternando entre conversões à esquerda e à direita \nquando alcança o centro de uma face. O robô só termina sua \nmovimentação quando retorna ao ponto P. A figura apresenta \nos deslocamentos iniciais desse robô.\nP\nA projeção ortogonal do trajeto descrito por esse robô \nsobre o plano da base, após terminada sua movimentação, \nvisualizada da posição em que se está enxergando esse \ncubo, é\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:05:13.306741",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

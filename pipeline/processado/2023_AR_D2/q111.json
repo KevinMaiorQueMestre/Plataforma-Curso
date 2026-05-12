@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nBarbatimão é o nome popular de uma árvore cuja \ncasca é utilizada para fins medicinais. Essa casca é \nconstituída principalmente de dois tecidos vegetais: \nperiderme e floema. A extração da casca tem levado à \nmorte muitos indivíduos dessa espécie, quando o corte \nretira um anel completo ao longo da circunferência do \ntronco. Aqueles que têm parte da casca retirada sem \ncompletar essa circunferência podem sobreviver.\nA morte desses indivíduos, decorrente da retirada do anel \ncompleto da casca, é provocada pela interrupção da\nA\t\nA\t fotossíntese.\nB\t\nB\t transpiração.\nC\t\nC\t troca de gases.\nD\t\nD\t formação de brotos.\nE\t\nE\t nutrição das raízes.",
+  "processado_em": "2026-05-08T14:05:43.974204",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 89\t\nAntigamente, existiam duas maneiras de governar: ou a \nsociedade era comandada pelo rei (monarquia), ou era dirigida \npor um pequeno grupo de homens ricos (aristocracia). Mas, \nem algumas cidades da Grécia, foi experimentada outra forma \nde governo na qual os cidadãos decidiam os rumos da sociedade.\nKONDER, L. Além das urnas. In: PLANTEL, E. A democracia pode ser assim. \nSão Paulo: Boitatá, 2015 (adaptado).\nO texto faz referência a um modelo de governo sustentado \npor um(a)\nA\tmandato coletivo.\nB\tautocracia religiosa.\nC\tditadura personalista.\nD\tabsolutismo teocrático.\nE\tparticipação popular.",
+  "processado_em": "2026-05-08T14:06:47.843239",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

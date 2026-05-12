@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 18\t\nTodo homem de bom juízo, depois que tiver realizado \nsua viagem, reconhecerá que é um milagre manifesto ter \npodido escapar de todos os perigos que se apresentam \nem sua peregrinação; tanto mais que há tantos outros \nacidentes que diariamente podem aí ocorrer que seria \ncoisa pavorosa àqueles que aí navegam querer pô-los \ntodos diante dos olhos quando querem empreender \nsuas viagens.\nJ. P. T. Histoire de plusieurs voyages aventureux. 1600. In: DELUMEAU, J. História do \nmedo no Ocidente: 1300-1800. São Paulo: Cia. das Letras, 2009 (adaptado).\nEsse relato, associado ao imaginário das viagens \nmarítimas da época moderna, expressa um sentimento de\nA\t gosto pela aventura.\nB\t fascínio pelo fantástico.\nC\t temor do desconhecido.\nD\t interesse pela natureza.\nE\t purgação dos pecados.",
+  "processado_em": "2026-05-08T14:00:27.925473",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 93\t\nUma pessoa pretende avaliar qual é a potência real de uma placa fotovoltaica nas condições operacionais de instalação. \nEla constata que a máxima temperatura atingida pela placa é de 65 °C. O manual de instruções desse modelo de placa informa que, \na 25 °C, sua potência nominal é de 250 W. Já a potência real muda com a variação da temperatura da placa, a uma taxa de −0,4% da \npotência nominal a cada grau Celsius.\nA menor potência real gerada, em watt, é\nA\t230 W.\nB\t210 W.\nC\t190 W.\nD\t150 W.\nE\t100 W.",
+  "processado_em": "2026-05-11T23:29:46.552033",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

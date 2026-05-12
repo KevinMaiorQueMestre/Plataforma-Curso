@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nTrês alunos, X, Y e Z, estão matriculados em um curso \nde inglês. Para avaliar esses alunos, o professor optou por \nfazer cinco provas. Para que seja aprovado nesse curso, \no aluno deverá ter a média aritmética das notas das cinco \nprovas maior ou igual a 6. Na tabela, estão dispostas as \nnotas que cada aluno tirou em cada prova.\nAluno\n1ª \nProva\n2ª \nProva\n3ª \nProva\n4ª \nProva\n5ª \nProva\nX\n5\n5\n5\n10\n6\nY\n4\n9\n3\n9\n5\nZ\n5\n5\n8\n5\n6\nCom base nos dados da tabela e nas informações dadas, \nficará(ão) reprovado(s)\nA\t apenas o aluno Y.\nB\t apenas o aluno Z.\nC\t apenas os alunos X e Y.\nD\t apenas os alunos X e Z.\nE\t os alunos X, Y e Z.",
+  "processado_em": "2026-05-11T23:25:56.165634",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

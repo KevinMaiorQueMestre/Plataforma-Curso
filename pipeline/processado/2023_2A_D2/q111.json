@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nUm grupo de pesquisadores interessados no estudo \ndo efeito da paisagem na diversidade genética em \npopulações de marsupiais Caluromys philander considerou \nduas paisagens distintas: uma contínua (Pontos 1 e 2) \ne outra fragmentada (Fragmentos 1 e 2), que foi desmatada \npara o plantio de soja. Coletaram amostras de tecidos de \ndez indivíduos em cada paisagem e extraíram o DNA, \nverificando a variabilidade genética, como apresentado \nno quadro.\nIndivíduo\nContínua\nFragmentada\nPonto 1\nPonto 2 Fragmento 1\nFragmento 2\n1\nA2A3\nA2A2\nA1A1\nA3A3\n2\nA2A3\nA2A2\nA2A1\nA3A3\n3\nA3A3\nA3A3\nA1A1\nA3A3\n4\nA1A2\nA2A3\nA1A1\nA3A3\n5\nA3A3\nA2A3\nA2A2\nA3A3\n6\nA2A3\nA3A3\nA1A1\nA2A2\n7\nA2A3\nA2A4\nA1A1\nA3A3\n8\nA2A2\nA2A3\nA1A1\nA3A3\n9\nA2A2\nA2A4\nA1A1\nA3A3\n10\nA1A2\nA2A2\nA1A1\nA3A3\nGenótipo de um lócus gênico de \nindivíduos de Caluromys philander\nLIMA, J. S.; OPREA, M.; COLLEVATI, R. G. Efeito da paisagem na diversidade e diferenciação \ngenética das populações. Genética na Escola, n. 1, 2015 (adaptado).\nCom base nos resultados, qual é a estratégia eficiente no \nmanejo e na conservação dessa espécie?\nA\t\nA\t Realização da fragmentação do hábitat.\nB\t\nB\t Criação de barreiras de redução do fluxo gênico.\nC\t\nC\t Manutenção da conectividade entre os fragmentos.\nD\t\nD\t Diminuição da dispersão de indivíduos entre diferentes \npopulações.\nE\t\nE\t Manutenção do acasalamento entre indivíduos \naparentados dentro das populações.",
+  "processado_em": "2026-05-08T14:05:25.161023",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

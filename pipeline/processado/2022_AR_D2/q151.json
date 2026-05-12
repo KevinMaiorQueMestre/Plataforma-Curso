@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\t\nUma máquina em operação tem sua temperatura \nT monitorada por meio de um registro gráfico, ao longo do \ntempo t. Essa máquina possui um pistão cuja velocidade \nV  varia com a temperatura  T da máquina, de acordo \ncom a expressão V = T 2 − 4. Após a máquina funcionar \ndurante o intervalo de tempo de 10 horas, o seu operador \nanalisa o registro gráfico, apresentado na figura, para \navaliar a necessidade de eventuais ajustes, sabendo que \na máquina apresenta falhas de funcionamento quando a \nvelocidade do pistão se anula.\n4\nT (ºC)\n2\n0\n−2\n10\nt (h)\nQuantas vezes a velocidade do pistão se anulou durante \nas 10 horas de funcionamento?\nA\t\nA\t 1\nB\t\nB\t 2\nC\t\nC\t 3\nD\t\nD\t 4\nE\t\nE\t 5",
+  "processado_em": "2026-05-08T14:05:12.023951",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

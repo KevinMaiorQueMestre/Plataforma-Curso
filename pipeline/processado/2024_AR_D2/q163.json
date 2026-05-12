@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nO tamanho mínimo que a visão humana é capaz de \nvisualizar sem o uso de equipamento auxiliar é equivalente \na 100 micrômetros (1 micrômetro = 10-3 milímetros). \nUma estudante pretende visualizar e analisar hemácias \ndo sangue humano, que medem 0,007 mm de diâmetro. \nEla adquiriu um microscópio óptico que tem uma lente \nocular que amplia em 10 vezes a imagem do objeto em \nobservação, e um conjunto de lentes objetivas com estas \ncapacidades de ampliação:\n•\t lente I: 2 vezes;\n•\t lente II: 10 vezes;\n•\t lente III: 15 vezes;\n•\t lente IV: 1,1 vez;\n•\t lente V: 1,4 vez.\nO funcionamento desse microscópio permite o uso da \nlente ocular sozinha ou a combinação dela com uma \nde suas lentes objetivas, proporcionando, nesse caso, \num aumento de sua capacidade de ampliação final, que é \ndada pelo produto entre as capacidades de ampliação da \nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de \nmenor capacidade de ampliação que permita, na combinação \ncom a ocular, visualizar hemácias do sangue humano.\nA lente objetiva a ser selecionada pela estudante é a\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+  "processado_em": "2026-05-08T14:06:21.002862",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

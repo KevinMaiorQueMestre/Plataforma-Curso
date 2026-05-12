@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 46  \n \nEm sua formulação, o spray de pimenta contém \nporcentagens variadas de oleorresina de Capsicum, \ncujo princípio ativo é a capsaicina, e um solvente\n(um álcool como etanol ou isopropanol). Em contato \ncom os olhos, pele ou vias respiratórias, a capsaicina \ncausa um efeito infl amatório que gera uma sensação de \ndor e ardor, levando à cegueira temporária. O processo \né desencadeado pela liberação de neuropeptídios das \nterminações nervosas.\nComo funciona o gás de pimenta. Disponível em: http://pessoas.hsw.uol.com.br.\n Acesso em: 1 mar. 2012 (adaptado).\nQuando uma pessoa é atingida com o spray de pimenta \nnos olhos ou na pele, a lavagem da região atingida com \nágua é ineﬁ caz porque a\nA reação entre etanol e água libera calor, intensiﬁ cando \no ardor.\nB solubilidade do princípio ativo em água é muito baixa, \ndiﬁ cultando a sua remoção.\nC permeabilidade da água na pele é muito alta, não \npermitindo a remoção do princípio ativo.\nD solubilização do óleo em água causa um maior \nespalhamento além das áreas atingidas.\nE ardência faz evaporar rapidamente a água, não \npermitindo que haja contato entre o óleo e o solvente.",
+  "processado_em": "2026-05-08T14:01:07.705453",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

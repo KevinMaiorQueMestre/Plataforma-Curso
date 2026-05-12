@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\n$\u0003URVD\u0003GRV\u0003YHQWRV\u0003p\u0003XPD\u0003¿JXUD\u0003TXH\u0003UHSUHVHQWD\u0003RLWR\u0003\nsentidos, que dividem o círculo em partes iguais.\nUma\u0003FkPHUD\u0003GH\u0003YLJLOkQFLD\u0003HVWi\u0003¿[DGD\u0003QR\u0003WHWR\u0003GH\u0003XP\u0003\nshopping e sua lente pode ser direcionada remotamente, \natravés de um controlador, para qualquer sentido. A lente \nda câmera está apontada inicialmente no sentido Oeste \ne o seu controlador efetua três mudanças consecutivas, \na saber:\n\u0003 1a\u0003PXGDQoD\u001d\u0003\u0014\u0016\u0018\u0003QR\u0003VHQWLGR\u0003DQWL\u0010KRUiULR\u001e\n\u0003 \u0015a\u0003PXGDQoD\u001d\u0003\u0019\u0013\u0003QR\u0003VHQWLGR\u0003KRUiULR\u001e\n\u0003 3a\u0003PXGDQoD\u001d\u0003\u0017\u0018\u0003QR\u0003VHQWLGR\u0003DQWL\u0010KRUiULR\u0011\nApós a 3a mudança, ele é orientado a reposicionar \na câmera, com a menor amplitude possível, no sentido \nNoroeste (NO) devido a um movimento suspeito de \num cliente.\nQual mudança de sentido o controlador deve efetuar para \nreposicionar a câmera?\nA \u001a\u0018\u0003QR\u0003VHQWLGR\u0003KRUiULR\u0011\nB \u0014\u0013\u0018\u0003QR\u0003VHQWLGR\u0003DQWL\u0010KRUiULR\u0011\nC \u0014\u0015\u0013\u0003QR\u0003VHQWLGR\u0003DQWL\u0010KRUiULR\u0011\nD \u0014\u0016\u0018\u0003QR\u0003VHQWLGR\u0003DQWL\u0010KRUiULR\u0011\nE \u0014\u0019\u0018\u0003QR\u0003VHQWLGR\u0003KRUiULR\u0011",
+  "processado_em": "2026-05-11T23:26:48.816930",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

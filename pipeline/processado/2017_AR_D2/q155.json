@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nA figura ilustra uma partida de Campo Minado, o jogo \npresente em praticamente todo computador pessoal. \nQuatro quadrados em um tabuleiro 16 × 16 foram abertos, \ne os números em suas faces indicam quantos dos seus \n8 vizinhos contêm minas (a serem evitadas). O número \n40 no canto inferior direito é o número total de minas no \ntabuleiro, cujas posições foram escolhidas ao acaso, de \nforma uniforme, antes de se abrir qualquer quadrado.\nEm sua próxima jogada, o jogador deve escolher \ndentre os quadrados marcados com as letras P, Q, R, S \ne T um para abrir, sendo que deve escolher aquele com a \nmenor probabilidade de conter uma mina.\nO jogador deverá abrir o quadrado marcado com a letra\nA\t P.\nB\t Q.\nC\t R.\nD\t S.\nE\t T.",
+  "processado_em": "2026-05-11T23:25:54.283464",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

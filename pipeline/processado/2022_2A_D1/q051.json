@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 51\t\nNações se comprometeram a reduzir as emissões \nde carbono para reduzir o aquecimento global na 3ª \nConferência das Partes da Convenção das Nações Unidas \nsobre Mudanças Climáticas (COP-3), realizada em 1997, \nem Kyoto, Japão. Na ocasião, foi assinado o Protocolo de \nKyoto, que criou a possibilidade de um país compensar suas \nemissões comprando créditos de outras nações. Esses \ncréditos são gerados por ações que reduzem a quantidade \nde gases causadores do efeito estufa na atmosfera, como a \nrecuperação de áreas degradadas de floresta.\nUma empresa ou uma organização não governamental \nque recupera determinada área pode calcular a \nquantidade de CO2 que ela retirou da atmosfera e vender \nesse crédito a empresário da pecuária que precisa \ncompensar emissões. O mesmo vale para um país que \nmede o conjunto de suas emissões e as balanceia com \ncaptura de CO2 ou compra de créditos.\nO que é carbono neutro e por que você deve se preocupar com isso.\nDisponível em: www.cnnbrasil.com.br. Acesso em: 8 nov. 2021 (adaptado).\nPara os mecanismos de uso do espaço geográfico, o \nsistema compensatório descrito representa um processo \neconômico que proporciona a\nA\t\nA\t formação de cartéis.\nB\t\nB\t criação de monopólio.\nC\t\nC\t supressão da poluição.\nD\t\nD\t legalização de territórios.\nE\t\nE\t mercantilização da natureza.",
+  "processado_em": "2026-05-08T14:04:40.945713",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 123\t\nEstudos mostram o desenvolvimento de biochips \nutilizados para auxiliar o diagnóstico de diabetes melito, \ndoença evidenciada pelo excesso de glicose no organismo. \nO teste é simples e consiste em duas reações sequenciais \nna superfície do biochip, entre a amostra de soro sanguíneo \ndo paciente, enzimas específicas e reagente (iodeto de \npotássio, KI), conforme mostrado na imagem.\nEnzimas\nKI\nCor\nSoro\nFluxo\n(i) Biochip antes da adição de soro\n(ii) Biochip após a adição de soro\nApós a adição de soro sanguíneo, o fluxo desloca-\n-se espontaneamente da esquerda para a direita (ii) \npromovendo \nreações \nsequenciais, \nconforme \nas \nequações 1 e 2. Na primeira, há conversão de glicose \ndo sangue em ácido glucônico, gerando peróxido de \nhidrogênio:\nEquação 1\nC6H12O6 (aq) + O2 (g) + H2O (l) Enzimas\n C6H12O7 (aq) + H2O2 (aq)\nNa segunda, o peróxido de hidrogênio reage com \níons iodeto gerando o íon tri-iodeto, água e oxigênio.\nEquação 2\n2 H2O2 (aq) + 3 l− (aq) \n  I3\n− (aq) + 2 H2O (I) + O2 (g) \nGARCIA, P. T. et al. A Handheld Stamping Process to Fabricate \nMicrofluidic Paper-Based Analytical Devices with Chemically \nModified Surface for Clinical Assays. RSC Advances, \nv. 4, 13 ago. 2014 (adaptado).\nO tipo de reação que ocorre na superfície do biochip, \nnas duas reações do processo, é\nA\t análise.\nB\t síntese.\nC\t oxirredução.\nD\t complexação.\nE\t ácido-base.",
+  "processado_em": "2026-05-11T23:27:34.501431",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

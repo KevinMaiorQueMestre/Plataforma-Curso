@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q012",
+  "imagem": "q012.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 12,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 12\t\nEm suas produções, nem o olho nem o ouvido \nsão capazes de encontrar um ponto fixo no qual se \nconcentrarem. O espectador das peças de Foreman é \nbombardeado por uma multiplicidade de eventos visuais \ne auditivos. No nível visual, há contínuas mudanças \nda forma geométrica do palco, mesmo dentro de um \nato. A iluminação também muda continuamente; suas \ntransformações podem ocorrer com lentidão ou rapidez \ne podem afetar o palco e a plateia: os espectadores \npodem de súbito se ver banhados de luz quando os \ncanhões são voltados para eles sem aviso. Quanto \nao som, tudo é gravado: buzinas de carros, sirenes, \napitos, trechos de jazz, bem como o próprio diálogo. \nO roteiro é fragmentado, composto de frases curtas, \naforísticas, desconectadas.\nDURAND, R. In: CONNOR, S. Cultura pós-moderna: introdução às \nteorias do contemporâneo. São Paulo: Loyola, 1992 (adaptado).\nA descrição, que referencia o Teatro Ontológico- \n-Histérico do dramaturgo estadunidense Richard Foreman, \nrepresenta uma forma de fazer teatro marcada pela\nA\t subversão aos elementos tradicionais da narrativa \nteatral.\nB\t visão idealizada do mundo na construção de uma \nnarrativa onírica.\nC\t representação da vida real, aproximando-se de uma \nverdade histórica.\nD\t adaptação \naos \nnovos \nvalores \nda \nburguesia \nfrequentadora de espaços teatrais.\nE\t valorização espetacular do ideal humano, retomando \no princípio do Classicismo grego.",
+  "processado_em": "2026-05-11T23:26:54.650328",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

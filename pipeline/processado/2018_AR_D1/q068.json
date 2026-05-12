@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nO encontro entre o Velho e o Novo Mundo, que a \ndescoberta de Colombo tornou possível, é de um tipo \nmuito particular: é uma guerra – ou a Conquista –, como \nse dizia então. E um mistério continua: o resultado do \ncombate. Por que a vitória fulgurante, se os habitantes da \nAmérica eram tão superiores em número aos adversários \ne lutaram no próprio solo? Se nos limitarmos à conquista \ndo México – a mais espetacular, já que a civilização \nmexicana é a mais brilhante do mundo pré-colombiano \n– como explicar que Cortez, liderando centenas de \nhomens, tenha conseguido tomar o reino de Montezuma, \nque dispunha de centenas de milhares de guerreiros?\nTODOROV, T. A conquista da América. São Paulo: Martins Fontes, 1991 (adaptado).\nNo contexto da conquista, conforme análise apresentada \nno texto, uma estratégia para superar as disparidades \nlevantadas foi\nA\t implantar as missões cristãs entre as comunidades \nsubmetidas.\nB\t utilizar a superioridade física dos mercenários \nafricanos.\nC\t explorar as rivalidades existentes entre os povos \nnativos.\nD\t introduzir vetores para a disseminação de doenças \nepidêmicas.\nE\t comprar terras para o enfraquecimento das teocracias \nautóctones.",
+  "processado_em": "2026-05-11T23:26:39.782286",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

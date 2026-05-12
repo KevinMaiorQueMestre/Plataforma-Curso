@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 20\t\nA singularidade da questão da terra na África \nColonial é a expropriação por parte do colonizador e \nas desigualdades raciais no acesso à terra. Após a \nindependência, as populações de colonos brancos \ntenderam a diminuir, apesar de a proporção de \nterra em posse da minoria branca não ter diminuído \nproporcionalmente.\nMOYO, S. A terra africana e as questões agrárias: o caso das lutas pela terra no Zimbábue. \nIn: FERNANDES, B. M.; MARQUES, M. I. M.; SUZUKI, J. C. (Org.). Geografia agrária: \nteoria e poder. São Paulo: Expressão Popular, 2007.\nCom base no texto, uma característica socioespacial e um \nconsequente desdobramento que marcou o processo de \nocupação do espaço rural na África subsaariana foram:\nA\t Exploração do campesinato pela elite proprietária – \nDomínio das instituições fundiárias pelo poder público.\nB\t Adoção de práticas discriminatórias de acesso à \nterra – Controle do uso especulativo da propriedade \nfundiária.\nC\t Desorganização da economia rural de subsistência \n– Crescimento do consumo interno de alimentos \npelas famílias camponesas.\nD\t Crescimento dos assentamentos rurais com mão de \nobra familiar – Avanço crescente das áreas rurais \nsobre as regiões urbanas.\nE\t Concentração das áreas cultiváveis no setor \nagroexportador – Aumento da ocupação da população \npobre em territórios agrícolas marginais.",
+  "processado_em": "2026-05-08T13:59:01.988892",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

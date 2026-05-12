@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 179\t\nUm pai comprou oito presentes diferentes (dentre os \nquais, uma bicicleta e um celular) para dar a seus três filhos. \nEle pretende distribuir os presentes de modo que o filho \nmais velho e o mais novo recebam três presentes cada um, \ne o do meio receba os dois presentes restantes. O mais velho \nganhará, entre seus presentes, ou uma bicicleta ou um celular, \nmas não ambos.\nDe quantas maneiras distintas a distribuição dos presentes \npode ser feita?\nA\t36\nB\t53\nC\t300\nD\t360\nE\t560",
+  "processado_em": "2026-05-08T14:07:10.744860",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

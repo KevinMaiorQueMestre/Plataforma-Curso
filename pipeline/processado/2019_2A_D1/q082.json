@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 82\t\nTomemos o exemplo de Sócrates: é precisamente \nele quem interpela as pessoas na rua, os jovens no \nginásio, perguntando: “Tu te ocupas de ti?” O deus o \nencarregou disso, é sua missão, e ele não a abandonará, \nmesmo no momento em que for ameaçado de morte. \nEle é certamente o homem que cuida do cuidado dos \noutros: esta é a posição particular do filósofo.\nFOUCAULT, M. Ditos e escritos. Rio de Janeiro: \nForense Universitária, 2004.\nO fragmento evoca o seguinte princípio moral da filosofia \nsocrática, presente em sua ação dialógica:\nA\t Examinar a própria vida.\nB\t Ironizar o seu oponente.\nC\t Sofismar com a verdade.\nD\t Debater visando a aporia.\nE\t Desprezar a virtude alheia.",
+  "processado_em": "2026-05-11T23:27:02.640004",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

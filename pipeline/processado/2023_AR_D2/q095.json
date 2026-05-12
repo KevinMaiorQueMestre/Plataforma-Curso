@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "3\nCN\n2º DIA\nCADERNO 5\nAMARELO\nQUESTÃO 95\t\nEm uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada \npara vapor de água a 120 °C  e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte \noca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o \ninterior do tacho, resultando na evaporação de água e consequente concentração do produto.\nNo processo de concentração do produto, é utilizada energia proveniente\nA\t\nA\t somente do calor latente de vaporização.\nB\t\nB\t somente do calor latente de condensação.\nC\t\nC\t do calor sensível e do calor latente de vaporização.\nD\t\nD\t do calor sensível e do calor latente de condensação.\nE\t\nE\t do calor latente de condensação e do calor latente de vaporização.",
+  "processado_em": "2026-05-11T23:29:16.423148",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

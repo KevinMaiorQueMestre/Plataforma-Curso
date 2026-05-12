@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\t\nPara melhorar o fluxo de ônibus em uma avenida que \ntem dois semáforos, a prefeitura reduzirá o tempo em \nque cada sinal ficará vermelho, que atualmente é de 15 \nsegundos a cada 60 segundos. Admita que o instante de \nchegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a \nprobabilidade de um ônibus encontrar cada um deles \nvermelho, obtendo 15\n60\n. A partir daí, estabeleceu uma \nmesma redução na quantidade do tempo, em segundo, \nem que cada sinal ficará vermelho, de maneira que \na probabilidade de um ônibus encontrar ambos os \nsinais vermelhos numa mesma viagem seja igual a \n4\n100 , \nconsiderando os eventos independentes.\nPara isso, a redução do tempo em que o sinal ficará \nvermelho, em segundo, estabelecida pelo engenheiro foi de\nA\t1,35.\nB\t3,00.\nC\t9,00.\nD\t12,60.\nE\t13,80.",
+  "processado_em": "2026-05-08T14:06:19.565553",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

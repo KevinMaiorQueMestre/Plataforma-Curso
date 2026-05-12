@@ -1,0 +1,28 @@
+{
+  "questao_id": "2014_AR_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Os dois principais rios que alimentavam o Mar de \nAral, Amurdarya e Sydarya, mantiveram o nível e o \nvolume do mar por muitos séculos. Entretanto, o projeto \nde estabelecer e expandir a produção de algodão \nirrigado aumentou a dependência de várias repúblicas \nda Ásia Central da irrigação e monocultura. O aumento \nda demanda resultou no desvio crescente de água para \na irrigação, acarretando redução drástica do volume de \ntributários do Mar de Aral. Foi criado na Ásia Central um \nnovo deserto, com mais de 5 milhões de hectares, como \nresultado da redução em volume. \nTUNDISI, J. G. Água no século XXI: enfrentando a escassez. São Carlos: Rima, 2003.\nA intensa interferência humana na região descrita \nprovocou o surgimento de uma área desértica em \ndecorrência da\nA\t erosão.\nB\t salinização.\nC\t laterização. \nD\t compactação.\nE\t sedimentação.",
+  "processado_em": "2026-05-11T23:36:59.306464",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

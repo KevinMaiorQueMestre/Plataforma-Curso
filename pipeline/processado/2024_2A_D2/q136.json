@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\t\nApós um período de seca e baixa nos níveis dos \nreservatórios de água, pesquisadores registraram, num \ncerto período, os seguintes volumes de chuva e quantidades \nde dias de precipitação em cinco reservatórios:\n•\t I: 350 mm em 29 dias;\n•\t II: 382 mm em 30 dias;\n•\t III: 390 mm em 31 dias;\n•\t IV: 389 mm em 33 dias;\n•\t V: 338 mm em 29 dias.\nUm dos parâmetros utilizados nessa pesquisa é a razão \nentre o volume de chuva, em milímetro, e a quantidade de \ndias de precipitação em cada reservatório, nessa ordem.\nA maior razão se verifica com os dados do reservatório",
+  "processado_em": "2026-05-08T14:06:03.549164",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

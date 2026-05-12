@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 159\t\nUma escola realizou uma pesquisa entre todos os \nseus estudantes e constatou que três em cada dez deles \nestão matriculados em algum curso extracurricular de \nlíngua estrangeira.\nEm relação ao número total de estudantes dessa escola, \nqual porcentagem representa o número de alunos \nmatriculados em algum curso extracurricular de língua \nestrangeira?\nA\t\nA\t 0,3%\nB\t\nB\t 0,33%\nC\t\nC\t 3%\nD\t\nD\t 30%\nE\t\nE\t 33%",
+  "processado_em": "2026-05-08T14:04:50.326771",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\t\nO número de abelhas encontra-se em declínio em \nvárias regiões do mundo, inclusive no Brasil, sendo \nque vários fatores contribuem para o colapso de suas \ncolmeias. Nos Estados Unidos, bombas de sementes \nde espécies vegetais nativas têm sido utilizadas para \ncombater o desaparecimento desses insetos. Elas são \npequenas bolinhas recheadas com sementes, adubo e \nargila. Quando são arremessadas e ficam expostas ao \nsol e à chuva, germinam até mesmo em solo pouco fértil.\nDARAYA, V. Disponível em: http://planetasustentavel.abril.com.br. \nAcesso em: 2 fev. 2015 (adaptado).\nEsse método contribui para a preservação das abelhas \nporque\nA\t\nA\t reduz sua predação.\nB\t\nB\t reduz o uso de pesticidas.\nC\t\nC\t reduz a competição por abrigo.\nD\t\nD\t aumenta a oferta de alimento.\nE\t\nE\t aumenta os locais de reprodução.",
+  "processado_em": "2026-05-08T14:05:44.558017",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

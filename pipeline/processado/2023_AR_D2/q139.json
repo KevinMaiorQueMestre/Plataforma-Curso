@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nUma pessoa pratica quatro atividades físicas — camin\nde seu programa de emagrecimento. Essas atividades sã\napresenta o número de horas diárias por atividade.\nDias da semana\nCaminhar Correr\nSegunda-feira\n1,0\n0,5\nTerça-feira\n0,5\n1,0\nQuarta-feira\n0,0\n1,5\nQuinta-feira\n0,0\n2,0\nSexta-feira\n0,0\n0,5\nEla deseja comemorar seu aniversário e escolhe o d\nfísicas praticadas for o maior. Para tanto, considera que os \nsão os seguintes:\nAtividade física\nCaminhar \nCo\nGasto calórico (cal/h)\n248\n76\nO dia da semana em que será comemorado o aniversário\nA\t\nA\t segunda-feira.\nB\t\nB\t terça-feira.\nC\t\nC\t quarta-feira.\nD\t\nD\t quinta-feira.\nE\t\nE\t sexta-feira.",
+  "processado_em": "2026-05-08T14:05:45.364199",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

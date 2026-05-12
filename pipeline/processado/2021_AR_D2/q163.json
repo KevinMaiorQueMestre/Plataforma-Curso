@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 163\nUm parque temático brasileiro construiu uma réplica em \nminiatura do castelo de Liechtenstein. O castelo original, \nrepresentado na imagem, está situado na Alemanha e foi \nreconstruído entre os anos de 1840 e 1842, após duas \ndestruições causadas por guerras.",
+  "processado_em": "2026-05-08T14:04:32.040801",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

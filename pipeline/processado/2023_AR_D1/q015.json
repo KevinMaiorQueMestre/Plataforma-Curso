@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 15\t\nAs cinzas do Museu Nacional, no Rio de Janeiro, \nconsumido pelas chamas no mês de setembro de 2018, \nsão mais do que restos de fósseis, cerâmicas e espécimes \nraros. O museu abrigava, entre mais de 20 milhões de \npeças, os esqueletos com as respostas para perguntas \nque ainda não haviam sido respondidas — ou sequer \nfeitas — por pesquisadores brasileiros. E o incêndio \npode ter calado para sempre palavras e cantos indígenas \nancestrais, de línguas que não existem mais no mundo.\nO acervo do local continha gravações de conversas, \ncantos e rituais de dezenas de sociedades indígenas, \nmuitas feitas durante a década de 1960 com antigos \ngravadores de rolo e que ainda não haviam sido \ndigitalizadas. Alguns dos registros abordavam línguas já \nextintas, sem falantes originais ainda vivos. “A esperança \né que outras instituições tenham registros dessas línguas”, \ndiz a linguista Marilia Facó Soares. A pesquisadora, que \ntrabalha com os índios Tikuna, o maior grupo da Amazônia \nbrasileira, crê ter perdido parte de seu material. “Terei \nque fazer novas viagens de campo para recompor meus \narquivos. Mas obviamente não dá para recuperar a fala de \nnativos já falecidos, geralmente os mais idosos”, lamenta.\nDisponível em: https://brasil.elpais.com. Acesso em: 10 dez. 2018 (adaptado).\nA perda dos registros linguísticos no incêndio do Museu \nNacional tem impacto potencializado, uma vez que\nA\t\nA\t exige a retomada das pesquisas por especialistas de \ndiferentes áreas.\nB\t\nB\t representa danos irreparáveis à memória e à identidade \nnacionais.\nC\t\nC\t impossibilita o surgimento de novas pesquisas na área.\nD\t\nD\t resulta na extinção da cultura de povos originários.\nE\t\nE\t inviabiliza o estudo da língua do povo Tikuna.",
+  "processado_em": "2026-05-08T14:05:34.841208",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

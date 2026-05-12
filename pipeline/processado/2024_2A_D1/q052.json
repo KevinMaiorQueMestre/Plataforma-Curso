@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nQuando se pensa que há três décadas a obtenção \nde uma posição geográfica em qualquer lugar do mundo \nestava nas mãos de profissionais especializados, \nengenheiros e geógrafos, que precisavam de equipamentos \nsofisticados para realizarem medições que levavam dias \ne meses, sem contar com o tempo dedicado ao cálculo \ndas coordenadas, é surpreendente a constatação de que \nqualquer um de nós com um simples smartphone obtém \nhoje essa posição em poucos segundos.\nCOSTA, S. M. A.; FORTES, L. P. S. A evolução da geodésia: \nda observação às estrelas aos satélites. Revista Brasileira \nde Geografia, n. 1, jan.-jun. 2019.\nA consequência na oferta de serviços, resultante da \nmudança tecnológica mencionada no texto, é a\nA\tpropagação da indústria da beleza.\nB\tconcentração de atividades de lazer.\nC\tcentralização da estrutura de segurança.\nD\tpopularização de aplicativos de mobilidade.\nE\tdistribuição de produtos de entretenimento.",
+  "processado_em": "2026-05-08T14:05:54.734940",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

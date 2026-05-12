@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 59          \nMapa da Alemanha em 1945\nRODRIGUES, R. C. A.; SANTANA, F. T. M.; ERTHAL, L. Aprendendo com filmes. \nRio de Janeiro: Faperj; Lamparina, 2012 (adaptado).\nA divisão representada do território alemão refletia um \ncontexto geoestratégico de busca por\nA \t espólio de guerra.\nB \t áreas de influência.\nC \t rotas de navegação.\nD \t controle do petróleo.\nE \t monopólio do comércio.",
+  "processado_em": "2026-05-08T14:03:30.721421",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

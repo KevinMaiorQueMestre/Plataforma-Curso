@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 125\t\nLaboratórios de química geram como subprodutos \nsubstâncias ou misturas que, quando não têm mais \nutilidade nesses locais, são consideradas resíduos \nquímicos. Para o descarte na rede de esgoto, o resíduo \ndeve ser neutro, livre de solventes inflamáveis e \nelementos tóxicos como Pb, Cr e Hg. Uma possibilidade \né fazer uma mistura de dois resíduos para obter um \nmaterial que apresente as características necessárias \npara o descarte. Considere que um laboratório disponha \nde frascos de volumes iguais cheios dos resíduos, \nlistados no quadro.\nTipos de resíduos\nI - Solução de H2CrO4 0,1 mol\nL  \nII - Solução de NaOH 0,2 mol\nL  \nIII - Solução de HCl 0,1 mol\nL  \nIV - Solução de H2SO4 0,1 mol\nL  \nV - Solução de CH3COOH 0,2 mol\nL  \nVI - Solução de NaHCO3 0,1 mol\nL  \nQual combinação de resíduos poderá ser descartada na \nrede de esgotos?\nA\t I e II\nB\t II e III\nC\t II e IV\nD\t V e VI\nE\t IV e VI",
+  "processado_em": "2026-05-11T23:27:10.209303",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

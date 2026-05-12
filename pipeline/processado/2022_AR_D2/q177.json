@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.\nQUESTÃO 177\t\nUm atleta iniciou seu treinamento visando as competiçõ\ndiferentes de treinos: treino T1, treino T2, treino T3, treino T4 e trei\nA letra R significa repouso. Após completar a sequência\npartir do treino T1 e segue a ordem descrita. Após 24 semanas\nA sequência de treinamentos que o atleta realizará na 24ª\nA\t\nA\t T3  R  T4  R  R  T5  R.\nB\t\nB\t R  T3  R  T4  R  R  T5.\nC\t\nC\t R  T4  R  R  T5  R  T1.\nD\t\nD\t R  R  T5  R  T1  R  R.\nE\t\nE\t R  T5  R  T1  R  R  T2.",
+  "processado_em": "2026-05-08T14:05:13.226206",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

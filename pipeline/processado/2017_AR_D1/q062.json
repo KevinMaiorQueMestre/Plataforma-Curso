@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 62\t\nO New Deal visa restabelecer o equilíbrio entre o \ncusto de produção e o preço, entre a cidade e o campo, \nentre os preços agrícolas e os preços industriais, reativar \no mercado interno — o único que é importante —, pelo \ncontrole de preços e da produção, pela revalorização \ndos salários e do poder aquisitivo das massas, isto é, \ndos lavradores e operários, e pela regulamentação das \ncondições de emprego.\nCROUZET, M. Os Estados perante a crise. In: História geral das civilizações. \nSão Paulo: Difel, 1977 (adaptado).\nTendo como referência os condicionantes históricos do \nentreguerras, as medidas governamentais descritas \nobjetivavam\nA\t \tflexibilizar as regras do mercado financeiro.\nB\t \tfortalecer o sistema de tributação regressiva.\nC\t \tintroduzir os dispositivos de contenção creditícia.\nD\t \tracionalizar os custos da automação industrial \nmediante negociação sindical.\nE\t \trecompor os mecanismos de acumulação econômica \npor meio da intervenção estatal.",
+  "processado_em": "2026-05-11T23:25:41.784564",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

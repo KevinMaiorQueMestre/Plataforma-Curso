@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nEm 1960, a primeira pílula anticoncepcional foi \ncomercializada nos EUA, e, em poucos anos, o método \ncontraceptivo se difundiu pelo mundo, inclusive no Brasil. \nEm nosso país, a chegada das pílulas anticoncepcionais foi \nsimultânea às discussões neomalthusianas sobre a crise \ndemográfica, à aceleração dos processos de modernização \ne ao boom da indústria farmacêutica multinacional.\nDIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas \nanticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, \nCiências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado).\nQual foi o efeito social resultante do avanço tecnológico \nmencionado no texto?\nA\tO afastamento da autoridade médica na regulação da \nfecundidade.\nB\tA superação do discurso da moralidade pela ação da \nmídia estatal.\nC\tA ampliação do debate público sobre o planejamento \nfamiliar.\nD\tA centralização da pesquisa científica pelo sistema \nprivado de saúde.\nE\tO enrijecimento das doutrinas religiosas sobre a \norganização da vida doméstica.",
+  "processado_em": "2026-05-08T14:06:13.448571",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

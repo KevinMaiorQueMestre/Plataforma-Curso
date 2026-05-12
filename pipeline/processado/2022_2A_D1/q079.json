@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 79\t\nAs inovações no preparo do solo e na engenharia \ngenética (variedades adaptadas ao clima do Cerrado) \npermitiram incorporar o pacote técnico herdado da \nRevolução Verde a um ambiente até então considerado \nhostil para a atividade. Dessa forma, o Cerrado apenas \nfoi incorporado à dinâmica do agronegócio na medida em \nque os processos produtivos existentes não precisavam \npassar por modificações substanciais para serem \nreproduzidos nesse novo ambiente.\nOLIVEIRA, V. L.; BÜHLER, È. A. Técnica e natureza no desenvolvimento do “agronegócio”. \nCaderno CRH, n. 77, maio-ago. 2016.",
+  "processado_em": "2026-05-08T14:04:42.755724",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

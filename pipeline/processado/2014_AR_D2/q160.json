@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\t\nO condomínio de um edifício permite que cada \nproprietário de apartamento construa um armário em \nsua vaga de garagem. O projeto da garagem, na escala \n1 : 100, foi disponibilizado aos interessados já com as \nespecificações das dimensões do armário, que deveria \nter o formato de um paralelepípedo retângulo reto, com \ndimensões, no projeto, iguais a 3 cm, 1 cm  e 2 cm.\nO volume real do armário, em centímetros cúbicos, será\nA\t 6.\nB\t 600.\nC\t 6 000.\nD\t 60 000.\nE\t 6 000 000.",
+  "processado_em": "2026-05-08T14:00:39.755318",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

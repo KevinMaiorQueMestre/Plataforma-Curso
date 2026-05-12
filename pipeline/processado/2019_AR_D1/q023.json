@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 23\t\nDisponível em: www.acnur.org. Acesso em: 11 dez. 2018.\nNesse cartaz, o uso da imagem do calçado aliada ao \ntexto verbal tem o objetivo de\nA\t criticar as difíceis condições de vida dos refugiados.\nB\t revelar a longa trajetória percorrida pelos refugiados.\nC\t incentivar \na \ncampanha \nde \ndoações \npara \nos refugiados.\nD\t denunciar \na \nsituação \nde \ncarência \nvivida \npelos refugiados.\nE\t simbolizar a necessidade de adesão à causa \ndos refugiados.",
+  "processado_em": "2026-05-11T23:27:22.243172",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

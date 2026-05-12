@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 22\nQUESTÃO 151\t\nO censo demográfico é um levantamento estatístico que\nos dados obtidos pelo censo demográfico brasileiro nos ano\ntotal, na capital e no interior, nas cinco grandes regiões.\nPopulação residente, na capital e interior\nGrandes \nregiões\nPo\nTotal\n1940\n2000\n19\nNorte\n1 632 917\n12 900 704\n36\nNordeste\n14 434 080\n47 741 711\n1 27\nSudeste\n18 278 837\n72 412 411\n3 34\nSul\n5 735 305\n25 107 616\n45\nCentro-Oeste\n1 088 182\n11 636 728\n15\nO valor mais próximo do percentual que descreve o aumen\nA\t 125%\nB\t 231%\nC\t 331%\nD\t 700%\nE\t 800%",
+  "processado_em": "2026-05-08T14:01:22.358441",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

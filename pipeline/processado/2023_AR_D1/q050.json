@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nSuperar a história da escravidão como principal marca \nda trajetória do negro no país tem sido uma tônica daqueles \nque se dedicam a pesquisar as heranças de origem afro \nà cultura brasileira. A esse esforço de reconstrução \nda própria história do país, alia-se agora a criação da \nplataforma digital Ancestralidades. “A história do negro \nno Brasil vai continuar sendo contada, e cada passo que \na gente dá para trás é um passo que a gente avança”, diz \nMárcio Black, idealizador da plataforma, sobre o estudo \nde figuras ainda encobertas pela perspectiva histórica \nimposta pelos colonizadores da América.\nFIORATI, G. Projeto joga luz sobre negros e revê perspectiva histórica. \nDisponível em: www1.folha.uol.com.br. Acesso em: 10 nov. 2021 (adaptado).\nEm relação ao conhecimento sobre a formação cultural \nbrasileira, iniciativas como a descrita no texto favorecem o(a)\nA\t\nA\t recuperação do tradicionalismo.\nB\t\nB\t estímulo ao antropocentrismo.\nC\t\nC\t reforço do etnocentrismo.\nD\t\nD\t resgate do teocentrismo.\nE\t\nE\t crítica ao eurocentrismo.",
+  "processado_em": "2026-05-08T14:05:36.919634",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 13\t\nTrasímaco estava impaciente porque Sócrates e os \nseus amigos presumiam que a justiça era algo real e \nimportante. Trasímaco negava isso. Em seu entender, \nas pessoas acreditavam no certo e no errado apenas \npor terem sido ensinadas a obedecer às regras da sua \nsociedade. No entanto, essas regras não passavam de \ninvenções humanas.\nRACHELS, J. Problemas da filosofia. Lisboa: Gradiva, 2009.\nO sofista Trasímaco, personagem imortalizado no diálogo \nA República, de Platão, sustentava que a correlação entre \njustiça e ética é resultado de\nA\t determinações biológicas impregnadas na natureza \nhumana.\nB\t verdades objetivas com fundamento anterior aos \ninteresses sociais.\nC\t mandamentos divinos inquestionáveis legados das \ntradições antigas.\nD\t convenções \nsociais \nresultantes \nde \ninteresses \nhumanos contingentes.\nE\t sentimentos experimentados diante de determinadas \natitudes humanas.",
+  "processado_em": "2026-05-08T14:00:43.316603",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

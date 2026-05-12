@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 20\t\nNo princípio era o verbo. A frase que abre o primeiro \ncapítulo do Evangelho de João e remete à criação do \nmundo, assim como também faz o Gênesis, é a mais \nfamosa da Bíblia. A ideia de que o mundo é criado pela \npalavra, porém, é tão estruturante que está presente \nem outras religiões, para muito além das fundadas no \ncristianismo. Como humanos, a linguagem é o mundo que \nhabitamos. Basta tentar imaginar um mundo em que não \npodemos usar palavras para dizer de nós e dos outros \npara compreender o que isso significa. Ou um mundo \nem que aquilo que você diz não é entendido pelo outro, \ne o que o outro diz não é entendido por você.",
+  "processado_em": "2026-05-08T14:05:35.116534",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

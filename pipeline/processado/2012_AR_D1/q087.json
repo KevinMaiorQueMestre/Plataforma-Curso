@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 87\t\nA doença de Chagas afeta mais de oito milhões de \nbrasileiros, sendo comum em áreas rurais. É uma doença \ncausada pelo protozoário Trypanosoma cruzi e transmitida \npor insetos conhecidos como barbeiros ou chupanças.\nUma ação do homem sobre o meio ambiente que tem \ncontribuído para o aumento dessa doença é\nA\t o consumo de carnes de animais silvestres que são \nhospedeiros do vetor da doença.\nB\t a utilização de adubos químicos na agricultura que \naceleram o ciclo reprodutivo do barbeiro.\nC\t a ausência de saneamento básico que favorece a \nproliferação do protozoário em regiões habitadas por \nhumanos.\nD\t a poluição dos rios e lagos com pesticidas que \nexterminam o predador das larvas do inseto \ntransmissor da doença.\nE\t o desmatamento que provoca a migração ou o \ndesaparecimento dos animais silvestres dos quais o \nbarbeiro se alimenta.",
+  "processado_em": "2026-05-08T13:59:02.523928",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

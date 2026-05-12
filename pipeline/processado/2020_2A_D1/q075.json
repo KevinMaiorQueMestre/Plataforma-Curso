@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 75          \nA ironia expressa na tirinha representa uma crítica à segui\nA \t Perseguição étnica indígena.\nB \t Crescimento econômico predatório.\nC \t Modificação de práticas colonizadoras.\nD \t Comprometimento de jazidas minerais.\nE Desenvolvimento de reservas extrativistas",
+  "processado_em": "2026-05-08T14:03:31.756866",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

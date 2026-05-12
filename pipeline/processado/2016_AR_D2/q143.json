@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nUm dos grandes desafios do Brasil é o gerenciamento \ndos seus recursos naturais, sobretudo os recursos \nhídricos. Existe uma demanda crescente por água e o \nrisco de racionamento não pode ser descartado. O nível \nde água de um reservatório foi monitorado por um período, \nsendo o resultado mostrado no gráfico. Suponha que essa \ntendência linear observada no monitoramento se prolongue \npelos próximos meses.\nNível do reservatório\n35%\n30%\n25%\n20%\n15%\n10%\n5%\n1\n2\n3\nMês\n4\n5\n6\nPorcentagem com relação \nà capacidade máxima\nNas condições dadas, qual o tempo mínimo, após o sexto \nmês, para que o reservatório atinja o nível zero de sua \ncapacidade? \nA\t 2 meses e meio.\nB\t 3 meses e meio.\nC\t 1 mês e meio.\nD\t 4 meses.\nE\t 1 mês.",
+  "processado_em": "2026-05-08T14:01:21.886596",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

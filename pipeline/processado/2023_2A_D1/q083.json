@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nNas Antilhas, o jovem negro que, na escola, não para \nde repetir “nossos pais, os gauleses”, identifica-se com \no explorador, com o civilizador, com o branco que traz \na verdade aos selvagens, uma verdade toda branca. \nHá identificação, isto é, o jovem negro adota subjetivamente \numa atitude de branco. Ele carrega o herói, que é branco, \ncom toda a sua agressividade — a qual, nessa idade, \nassemelha-se estreitamente a uma dádiva: uma dádiva \ncarregada de sadismo.\nFANON, F. Pele negra, máscaras brancas. Salvador: Edufba, 2008.",
+  "processado_em": "2026-05-08T14:05:21.319014",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

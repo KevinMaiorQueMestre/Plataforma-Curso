@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nO urânio é empregado como fonte de energia em \nreatores nucleares. Para tanto, o seu mineral deve \nser refinado, convertido a hexafluoreto de urânio e \nposteriormente enriquecido, para aumentar de 0,7% a 3% \na abundância de um isótopo específico — o urânio-235. \nUma das formas de enriquecimento utiliza a pequena \ndiferença de massa entre os hexafluoretos de urânio-235 e \nde urânio-238 para separá-los por efusão, precedida pela \nvaporização. Esses vapores devem efundir repetidamente \nmilhares de vezes através de barreiras porosas formadas por \ntelas com grande número de pequenos orifícios. No entanto, \ndevido à complexidade e à grande quantidade de energia \nenvolvida, cientistas e engenheiros continuam a pesquisar \nprocedimentos alternativos de enriquecimento.\nATKINS, P.; JONES, L. Princípios de química: questionando a vida moderna e \no meio ambiente. Porto Alegre: Bookman, 2006 (adaptado).\nConsiderando a diferença de massa mencionada entre os \ndois isótopos, que tipo de procedimento alternativo ao da \nefusão pode ser empregado para tal finalidade?\nA\t\nA\t Peneiração.\nB\t\nB\t Centrifugação.\nC\t\nC\t Extração por solvente.\nD\t\nD\t Destilação fracionada.\nE\t\nE\t Separação magnética.",
+  "processado_em": "2026-05-08T14:05:10.341014",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 179\t\n“Quanto é mil trilhões \nVezes infinito?”\nTOLLER, P. Oito anos. In: Paula Toller. Rio de Janeiro: Warner Music Brasil, 1998.\nO trecho da canção Oito anos, de Paula Toller, foi \napresentado por um professor de matemática a um grupo \nde cinco alunos. Em seguida, o professor solicitou que \ncada aluno apresentasse uma expressão matemática \nque traduzisse os versos citados. Cinco respostas diferentes \nforam dadas:\nResposta 1: 109 × ∞\nResposta 2: 1012 × ∅\nResposta 3: 1012 × ∞\nResposta 4: 1015 × ∅\nResposta 5: 1015 × ∞\nA resposta que representa matematicamente o trecho da \ncanção é a\nA\t\nA\t 1.\nB\t\nB\t 2.\nC\t\nC\t 3.\nD\t\nD\t 4.\nE\t\nE\t 5.",
+  "processado_em": "2026-05-08T14:05:29.106184",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

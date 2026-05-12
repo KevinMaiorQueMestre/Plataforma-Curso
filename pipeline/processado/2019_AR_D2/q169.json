@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 169\t\nUm mestre de obras deseja fazer uma laje com \nespessura de 5 cm utilizando concreto usinado, \nconforme as dimensões do projeto dadas na figura. \nO concreto para fazer a laje será fornecido por uma \nusina que utiliza caminhões com capacidades máximas \nde 2 m3, 5 m3 e 10 m3 de concreto.\n8 m\n1 m\n3 m\n2 m\n3 m\n5 m\n14 m\nQual a menor quantidade de caminhões, utilizando suas \ncapacidades máximas, que o mestre de obras deverá \npedir à usina de concreto para fazer a laje?\nA\t Dez caminhões com capacidade máxima de 10 m3.\nB\t Cinco caminhões com capacidade máxima de 10 m3.\nC\t Um caminhão com capacidade máxima de 5 m3.\nD\t Dez caminhões com capacidade máxima de 2 m3.\nE\t Um caminhão com capacidade máxima de 2 m3.",
+  "processado_em": "2026-05-11T23:27:37.864550",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

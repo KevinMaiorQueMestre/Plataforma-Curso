@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "habilidades na competência diretiva.\nQuestão 49          \nA propriedade compreende, em seu conteúdo e alcance, \nalém do tradicional direito de uso, gozo e disposição por \nparte de seu titular, a obrigatoriedade do atendimento de \nsua função social, cuja definição é inseparável do requisito \nobrigatório do uso racional da propriedade e dos recursos \nambientais que lhe são integrantes. O proprietário, como \nmembro integrante da comunidade, se sujeita a obrigações \ncrescentes que, ultrapassando os limites do direito de \nvizinhança, no âmbito do direito privado, abrangem o campo \ndos direitos da coletividade, visando  o bem-estar geral, no \nâmbito do direito público.\nJELINEK, R. O princípio da função social da propriedade e sua repercussão sobre o \nsistema do Código Civil. Disponível em: www.mp.rs.gov.br. Acesso em: 20 fev. 2013.\nOs movimentos em prol da reforma agrária, que \natuam com base no conceito de direito à propriedade \napresentado no texto, propõem-se a\nA \t reverter o processo de privatização fundiária.\nB \t ressaltar a inviabilidade da produção latifundiária.\nC \t defender a desapropriação dos espaços improdutivos.\nD \t impedir a produção exportadora nas terras agricultáveis.\nE \t coibir o funcionamento de empresas agroindustriais \nno campo.",
+  "processado_em": "2026-05-11T23:28:04.227096",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

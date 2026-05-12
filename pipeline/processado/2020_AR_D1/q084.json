@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "forçada das famílias escravas.\nQuestão 84          \nA colisão entre uma placa continental e uma oceânica \nprovocará a subducção desta última sob a placa \ncontinental, que, a exemplo dos arcos e ilhas, produzirá \num arco magmático na borda do continente, composto \npor rochas vulcânicas acompanhado de deformações e \nmetamorfismo tanto de rochas preexistentes como de \nparte das rochas formadas no processo.\nTEIXEIRA, W. et al. (Org.). Decifrando a Terra. São Paulo: Oficina de Textos, 2000. \nQual feição fisiográfica é gerada pelo processo tectônico \napresentado?\nA \t Planícies abissais.\nB \t Planaltos cristalinos.\nC \t Depressões absolutas.\nD \t Bacias sedimentares.\nE \t Dobramentos modernos.",
+  "processado_em": "2026-05-11T23:28:06.654121",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

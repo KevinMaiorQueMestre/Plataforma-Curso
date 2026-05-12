@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A  X, Y e Z na Farmácia 1.\nB  X e Y na Farmácia 1, e Z na Farmácia 3.\nC  X e Y na Farmácia 2, e Z na Farmácia 3.\nD  X na Farmácia 2, e Y e Z na Farmácia 3.\nE  X, Y e Z na Farmácia 3.\nQuestão 144\n\f\u000e\r\u0004\t\u0002\n!\u0007\u000e\u0005\u000b\f\n\u000f\u0004\t\u0002\n\u000b\f\n\u0002\nP\u0007\n\u000b\f\n\u0005\r\n\u0010\n\u0005\r\n\u0002\n\t\u001d\u0004\u0002\nencontrados em praças e parques públicos apresentam \nP\u0004\u0007\u0010\b\r\u0004\t\u0002 \u000f\n\u0002 \u0006J\f\u0007\b\t\u0002 J\n\u0004\u0010Z\r\u0007\u000e\u001e\b\t\u0002 !\u000e\u000f\u000e\u0010\n\u0005\t\u000e\u0004\u0005\b\u000e\t\u0002 \n\u0002\ntridimensionais. Uma empresa foi contratada para \ndesenvolver uma nova forma de brinquedo. A proposta \napresentada pela empresa foi de uma estrutura formada \napenas por hastes metálicas, conectadas umas às \n\u0004\f\r\u0007\b\t$\u0002\u001e\u0004\u0010\u0004\u0002\b%\u0007\n\t\n\u0005\r\b\u000f\u0004\u0002\u0005\b\u0002\u0006J\f\u0007\b(\u0002\u0012\t\u0002+\b\t\r\n\t\u0002\u000f\n\u0002\u0010\n\t\u0010\b\u0002\n\r\u0004\u0005\b2\u000e\u000f\b\u000f\n\u0002\n\u0002\n\t%\n\t\t\f\u0007\b\u0002\t\u001d\u0004\u0002\u001e\u0004\u0005J\u0007\f\n\u0005\r\n\t(\n\u0003\u0004\u0010\u0002 !\b\t\n\u0002 \u0005\b\u0002 %\u0007\u0004%\u0004\t\r\b\u0002 \b%\u0007\n\t\n\u0005\r\b\u000f\b$\u0002 \u000b\f\b\u0005\r\b\t\u0002 \u0006J\f\u0007\b\t\u0002\nJ\n\u0004\u0010Z\r\u0007\u000e\u001e\b\t\u0002 %2\b\u0005\b\t\u0002 \u000f\n\u0002 \u001e\b\u000f\b\u0002 \r\u000e%\u0004\u0002 \t\u001d\u0004\u0002 P\u0004\u0007\u0010\b\u000f\b\t\u0002 %\n2\b\u0002\n\f\u0005\u000e\u001d\u0004\u0002\u000f\b\t\u0002+\b\t\r\n\t\nA  12 trapézios isósceles e 12 quadrados.\nB  24 trapézios isósceles e 12 quadrados.\nC  12 paralelogramos e 12 quadrados.\nD  8 trapézios isósceles e 12 quadrados.\nE 12 trapézios escalenos e 12 retângulos",
+  "processado_em": "2026-05-08T14:04:30.879244",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

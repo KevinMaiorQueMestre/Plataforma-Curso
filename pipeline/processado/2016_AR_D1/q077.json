@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nO trilho de ar é um dispositivo utilizado em laboratórios \n(carrinhos) podem se mover com atrito desprezível. A figur\nque se realiza um experimento para obter a massa do carr\npassa a se mover com velocidade escalar constante, o car\nse choca com o carrinho 2, ambos passam a se movimen\neletrônicos distribuídos ao longo do trilho determinam as po\ncada carrinho, gerando os dados do quadro.\nsensor 1\nsensor 2\ncarrinho 1\nCarrinho 1\nPosição (cm)\nInstante (s)\n15,0\n0,0\n30,0\n1,0\n75,0\n8,0\n90,0\n11,0\nCom base nos dados experimentais, o valor da massa do \nA\t 50,0 g.\nB\t 250,0 g.\nC\t 300,0 g.\nD\t 450,0 g.\nE\t 600,0 g.",
+  "processado_em": "2026-05-08T14:01:11.072204",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

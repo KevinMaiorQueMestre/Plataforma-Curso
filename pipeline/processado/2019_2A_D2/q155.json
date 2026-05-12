@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 155\t\nEm um laboratório, cientistas observaram o \ncrescimento de uma população de bactérias submetida \na uma dieta magra em fósforo, com generosas porções \nde arsênico. Descobriu-se que o número de bactérias \ndessa população, após t horas de observação, poderia \nser modelado pela função exponencial N(t) = N0ekt, em \nque N0 é o número de bactérias no instante do início \nda observação (t = 0) e representa uma constante real \nmaior que 1, e k é uma constante real positiva.\nSabe-se que, após uma hora de observação, o \nnúmero de bactérias foi triplicado.\nCinco horas após o início da observação, o número de \nbactérias, em relação ao número inicial dessa cultura, foi\nA\t 3N0\nB\t 15N0\nC\t 243N0\nD\t 360N0\nE\t 729N0",
+  "processado_em": "2026-05-11T23:27:12.578333",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

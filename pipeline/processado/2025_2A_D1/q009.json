@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 09 \nOHTAKE, T. Escultura em homenagem aos 100 anos da  \nimigração japonesa. Aço-carbono, 15 × 20 m. Parque Municipal \nRoberto Mário Santini, Santos, 2008.\nDisponível em: https://casacor.abril.com.br. Acesso em: 26 dez. 2024.\nTomie Ohtake é uma artista nipo-brasileira reconhecida por suas \nesculturas monumentais. Essa obra, exposta na orla de Santos, \nem São Paulo, caracteriza-se pela\nA recuperação da função original de espaços museológicos.\nB sobreposição ao conjunto arquitetônico da cidade de Santos.\nC representação de aspectos da vida marinha de forma figurativa.\nD retomada da estética concretista para retratar a paisagem natural.\nE democratização da arte por meio de sua integração com \no espaço urbano.",
+  "processado_em": "2026-05-08T14:06:25.596931",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

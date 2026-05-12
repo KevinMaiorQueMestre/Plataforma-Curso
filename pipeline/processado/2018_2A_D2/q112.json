@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nO ácido acetilsalicílico é um analgésico que pode ser \nobtido pela reação de esterificação do ácido salicílico. \nQuando armazenado em condições de elevadas \ntemperaturas e umidade, ocorrem mudanças físicas \ne químicas em sua estrutura, gerando um odor \ncaracterístico. A figura representa a fórmula estrutural do \nácido acetilsalicílico.\nO\nO\nO\nOH\nÁcido acetilsalicílico\nEsse odor é provocado pela liberação de\nA\t etanol.\nB\t etanal.\nC\t ácido etanoico.\nD\t etanoato de etila.\nE\t benzoato de etila.",
+  "processado_em": "2026-05-11T23:26:20.868330",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

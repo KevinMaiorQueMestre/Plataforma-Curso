@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q134",
+  "imagem": "q134.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 134,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 134\t\nO fitato, presente em diversos cereais, apresenta a propriedade de associar-se a alguns minerais, proteínas e \ncarboidratos, formando complexos insolúveis e incapazes de serem digeridos por animais monogástricos. Por esse \nmotivo, muitas rações ricas em cereais contêm, na sua formulação final, a enzima fitase como aditivo. O esquema de \nação dessa enzima sobre o fitato está representado na figura.\nFitase\nCa\nProteína\nFitase\nFitase\nAmido\nO4P\nPO4\nPO4\nPO4\nO4P\nCa\nPO4\nROMANO, F.; RUSSO, A. Biocatalysis Research Progress. Hauppauge (NY): Nova Science Publishers, 2008 (adaptado).\nA adição de fitase nessas rações acarretará um aumento da\nA\t eliminação de produtos nitrogenados.\nB\t disponibilidade de nutrientes.\nC\t desnaturação de proteínas.\nD\t assimilação de fitato.\nE\t absorção de amido.",
+  "processado_em": "2026-05-11T23:26:22.532397",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

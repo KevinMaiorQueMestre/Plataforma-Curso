@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 18\t\nTEXTO I\nAlegria, alegria\nO sol nas bancas de revista\nMe enche de alegria e preguiça\nQuem lê tanta notícia\nEu vou\nPor entre fotos e nomes\nOs olhos cheios de cores\nO peito cheio de amores vãos\nEu vou\nPor que não, por que não?\nVELOSO, C. Alegria, alegria. Rio de Janeiro: Polygram, 1990 (fragmento).\nTEXTO II\nAnjos tronchos\nUns anjos tronchos do Vale do Silício\nDesses que vivem no escuro em plena luz\nDisseram vai ser virtuoso no vício\nDas telas dos azuis mais do que azuis\nAgora a minha história é um denso algoritmo\nQue vende venda a vendedores reais\nNeurônios meus ganharam novo outro ritmo\nE mais, e mais, e mais, e mais, e mais\nVELOSO, C. Meu coco. Rio de Janeiro: Sony, 2021 (fragmento).\nEmbora oriundas de momentos históricos diferentes, \nessas letras de canção têm em comum a\nA\t\nA\t referência às cores como elemento de crítica a hábitos \ncontemporâneos.\nB\t\nB\t percepção da profusão de informações gerada pela \ntecnologia.\nC\t\nC\t contraposição entre os vícios e as virtudes da vida \nmoderna.\nD\t\nD\t busca constante pela liberdade de expressão individual.\nE\t\nE\t crítica à finalidade comercial das notícias.",
+  "processado_em": "2026-05-08T14:05:35.015282",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

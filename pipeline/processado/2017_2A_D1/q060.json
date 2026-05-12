@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 60\nO garfo muito grande, com dois dentes, que era \nusado para servir as carnes aos convidados, é antigo, \nmas não o garfo individual. Este data mais ou menos do \nséculo XVI e difundiu-se a partir de Veneza e da Itália em \ngeral, mas com lentidão. O uso só se generalizaria por \nvolta de 1750.\nBRAUDEL, F. Civilização material, economia e capitalismo: séculos XV-XVIII;\nas estruturas do cotidiano. São Paulo: Martins Fontes, 1977 (adaptado).\nNo processo de transição para a modernidade, o uso do \nobjeto descrito relaciona-se à\nA construção de hábitos sociais.\nB introdução de medidas sanitárias.\nC ampliação das refeições familiares.\nD valorização da cultura renascentista.\nE incorporação do comportamento laico.",
+  "processado_em": "2026-05-11T23:25:21.448678",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

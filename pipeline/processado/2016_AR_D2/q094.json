@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 94\t\nACCIÓN POÉTICA LIMA. Disponível em: https://twitter.com. Acesso em: 30 maio 2016.\nNesse grafite, realizado por um grupo que faz intervenções \nartísticas na cidade de Lima, há um jogo de palavras com \no verbo “poner”. Na primeira ocorrência, o verbo equivale \na “vestir uma roupa”, já na segunda, indica\nA\t início de ação.\nB\t mudança de estado.\nC\t conclusão de ideia.\nD\t simultaneidade de fatos.\nE\t continuidade de processo.",
+  "processado_em": "2026-05-08T14:01:14.703379",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

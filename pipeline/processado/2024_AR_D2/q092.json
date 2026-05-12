@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 92\t\nO magnésio metálico utilizado em ligas leves é \nproduzido em um processo que envolve várias etapas e \nutiliza água do mar como matéria-prima. A primeira etapa \ndesse processo consiste na reação entre o íon Mg2+ e \nhidróxido de cálcio, Ca(OH)2, obtendo uma mistura que \ncontém hidróxido de magnésio, pouco solúvel, e íons Ca2+, \nde acordo com a equação química:\nMg2+ (aq) + Ca(OH)2 (aq) → Mg(OH)2 (s) + Ca2+ (aq)\nO método adequado para separar o Mg(OH)2 dessa \nmistura é a\nA\tfiltração.\nB\tcatação.\nC\tdestilação.\nD\tdissolução.\nE evaporação",
+  "processado_em": "2026-05-08T14:06:16.409880",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

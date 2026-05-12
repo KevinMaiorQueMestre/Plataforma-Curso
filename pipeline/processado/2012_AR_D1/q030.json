@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 30\t\nTexto I\nExperimentei algumas vezes que os sentidos eram \nenganosos, e é de prudência nunca se fiar inteiramente \nem quem já nos enganou uma vez.\nDESCARTES, R. Meditações Metafísicas. São Paulo: Abril Cultural, 1979.\nTexto II\nSempre que alimentarmos alguma suspeita de \nque uma ideia esteja sendo empregada sem nenhum \nsignificado, precisaremos apenas indagar: de que \nimpressão deriva esta suposta ideia? E se for impossível \natribuir-lhe qualquer impressão sensorial, isso servirá \npara confirmar nossa suspeita.\nHUME, D. Uma investigação sobre o entendimento. São Paulo: Unesp, 2004 (adaptado).\nNos textos, ambos os autores se posicionam sobre a \nnatureza do conhecimento humano. A comparação dos \nexcertos permite assumir que Descartes e Hume\nA\t defendem os sentidos como critério originário para \nconsiderar um conhecimento legítimo.\nB\t entendem que é desnecessário suspeitar do significado \nde uma ideia na reflexão filosófica e crítica.\nC\t são legítimos representantes do criticismo quanto à \ngênese do conhecimento.\nD\t concordam que conhecimento humano é impossível \nem relação às ideias e aos sentidos.\nE\t atribuem diferentes lugares ao papel dos sentidos no \nprocesso de obtenção do conhecimento.",
+  "processado_em": "2026-05-08T13:59:02.000962",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

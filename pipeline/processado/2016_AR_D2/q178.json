@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nOs alunos de uma escola utilizaram cadeiras iguais às \nda figura para uma aula ao ar livre. A professora, ao final \nda aula, solicitou que os alunos fechassem as cadeiras \npara guardá-las. Depois de guardadas, os alunos fizeram \num esboço da vista lateral da cadeira fechada.\nQual é o esboço obtido pelos alunos?\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:01:25.448518",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

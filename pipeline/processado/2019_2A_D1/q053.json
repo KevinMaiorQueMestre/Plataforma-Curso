@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 53\t\nTEXTO I\nEu queria movimento e não um curso calmo da \nexistência. Queria excitação e perigo e a oportunidade \nde sacrificar-me por meu amor. Sentia em mim uma \nsuperabundância de energia que não encontrava \nescoadouro em nossa vida.\nTOLSTÓI, L. Felicidade familiar. Apud KRAKAUER, J. \nNa natureza selvagem. São Paulo: Cia. das Letras, 1998.\nTEXTO II\nMeu lema me obrigava, mais que a qualquer outro \nhomem, a um enunciado mais exato da verdade; não \nsendo suficiente que eu lhe sacrificasse em tudo o \nmeu interesse e as minhas simpatias, era preciso \nsacrificar-lhe também minha fraqueza e minha \nnatureza tímida. Era preciso ter a coragem e a força \nde ser sempre verdadeiro em todas as ocasiões.\nROUSSEAU, J.-J. Os devaneios do caminhante solitário. \nPorto Alegre: L&PM, 2009.\nOs textos de Tolstói e Rousseau retratam ideais da \nexistência humana e defendem uma experiência\nA\t lógico-racional, focada na objetividade, clareza e \nimparcialidade.\nB\t místico-religiosa, ligada à sacralidade, elevação e \nespiritualidade.\nC\t sociopolítica, \nconstituída \npor \nintegração, \nsolidariedade e organização.\nD\t naturalista-científica, marcada pela experimentação, \nanálise e explicação.\nE\t estético-romântica, caracterizada por sinceridade, \nvitalidade e impulsividade.",
+  "processado_em": "2026-05-11T23:27:00.085877",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

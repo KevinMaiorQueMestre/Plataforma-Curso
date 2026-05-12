@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "A\t 12 000.\nB\t 12 600.\nC\t 13 200.\nD\t 13 800.\nE\t 15 000. \nQUESTÃO 153\t\nA resistência mecânica S de uma viga de madeira, \nem forma de um paralelepípedo retângulo, é diretamente \nproporcional à sua largura (b) e ao quadrado de sua altura \n(d) e inversamente proporcional ao quadrado da distância \nentre os suportes da viga, que coincide com o seu \ncomprimento (x), conforme ilustra a figura. A constante de \nproporcionalidade k é chamada de resistência da viga.\nBUSHAW, D. et al. Aplicações da matemática escolar. São Paulo: Atual, 1997.\nA expressão que traduz a resistência S dessa viga de \nmadeira é\nA\ns = k.b.d2\nx2\nB\ns = k.b.d\nx2\nC\ns = k.b.d2\nx\nD\ns = k.b2.d\nx\nE\ns = k.b.2d\n2x",
+  "processado_em": "2026-05-08T13:59:52.316330",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q045",
+  "imagem": "q045.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 45,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 45\t\nDe volta do Paraguai\nCheio de glória, coberto de louros, depois de \nter derramado seu sangue em defesa da pátria e \nlibertado um povo da escravidão, o voluntário volta \nao seu país natal para ver sua mãe amarrada a um \ntronco horrível de realidade!...\nAGOSTINI. A vida fluminense, ano 3, n. 128, 11 jun. 1870. In: LEMOS, R. (Org.). \nUma história do Brasil através da caricatura (1840-2001). Rio de Janeiro: \nLetras & Expressões, 2001 (adaptado).  \nNa charge, identifica-se uma contradição no retorno de \nparte dos “Voluntários da Pátria” que lutaram na Guerra \ndo Paraguai (1864-1870), evidenciada na\nA\t negação da cidadania aos familiares cativos.\nB\t concessão de alforrias aos militares escravos.\nC\t perseguição dos escravistas aos soldados negros.\nD\t punição dos feitores aos recrutados compulsoriamente.\nE\t suspensão das indenizações aos proprietários \nprejudicados.",
+  "processado_em": "2026-05-08T14:00:30.044272",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

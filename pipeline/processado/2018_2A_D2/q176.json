@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nUm vaso decorativo quebrou e os donos vão encomendar outro para ser pintado com as mesmas características. \nEles enviam uma foto do vaso na escala 1 : 5 (em relação ao objeto original) para um artista. Para ver melhor os \ndetalhes do vaso o artista solicita uma cópia impressa da foto com dimensões triplicadas em relação às dimensões da \nfoto original. Na cópia impressa, o vaso quebrado tem uma altura de 30 centímetros.\nQual é a altura real, em centímetros, do vaso quebrado?\nA\t 2\nB\t 18\nC\t 50\nD\t 60\nE\t 90",
+  "processado_em": "2026-05-11T23:26:24.526409",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

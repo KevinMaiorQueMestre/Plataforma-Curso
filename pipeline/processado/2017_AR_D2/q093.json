@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q093",
+  "imagem": "q093.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 93,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 93\t\nEm uma colisão frontal entre dois automóveis, a \nforça que o cinto de segurança exerce sobre o tórax e \nabdômen do motorista pode causar lesões graves nos \nórgãos internos. Pensando na segurança do seu produto, \num fabricante de automóveis realizou testes em cinco \nmodelos diferentes de cinto. Os testes simularam uma \ncolisão de 0,30 segundo de duração, e os bonecos que \nrepresentavam os ocupantes foram equipados com \nacelerômetros. Esse equipamento registra o módulo \nda desaceleração do boneco em função do tempo. \nOs parâmetros como massa dos bonecos, dimensões dos \ncintos e velocidade imediatamente antes e após o impacto \nforam os mesmos para todos os testes. O resultado final \nobtido está no gráfico de aceleração por tempo.\n200\n160\n120\n80\n40\n0\nAceleração (m/s2)\n0,00\n0,05\n0,10\n0,15\nTempo (s)\n0,20\n0,25\n0,30\nCinto 1\nCinto 2\nCinto 3\nCinto 4\nCinto 5\nQual modelo de cinto oferece menor risco de lesão interna \nao motorista?\nA\t 1\nB\t 2\nC\t 3\nD\t 4\nE\t 5",
+  "processado_em": "2026-05-11T23:25:48.447867",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

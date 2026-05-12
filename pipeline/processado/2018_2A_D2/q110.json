@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nVárias características e propriedades de moléculas \norgânicas podem ser inferidas analisando sua fórmula \nestrutural. Na natureza, alguns compostos apresentam \na mesma fórmula molecular e diferentes fórmulas \nestruturais. São os chamados isômeros, como ilustrado \nnas estruturas.\nOH\nOH\nO\nOH\nOH\nO\nEntre as moléculas apresentadas, observa-se a \nocorrência de isomeria\nA\t ótica.\nB\t de função.\nC\t de cadeia.\nD\t geométrica.\nE\t de compensação.",
+  "processado_em": "2026-05-11T23:26:20.813868",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

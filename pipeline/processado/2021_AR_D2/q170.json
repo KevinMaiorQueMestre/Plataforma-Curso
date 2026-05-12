@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 170\n\u0017\u0002J\u0007?\u0006\u001e\u0004\u0002\b%\u0007\n\t\n\u0005\r\b\u0002\u0004\u0002\u0005G#\n2\u0002\u000f\n\u0002\u0004\u001e\f%\b'\u001d\u0004\u0002\u000f\u0004\t\u0002\u001e\u000e\u0005\u001e\u0004\u0002\nreservatórios de água que abasteciam uma cidade em \n2 de fevereiro de 2015.\nI\nII\nIII\nIV\nV\n 100\n 90\n 80\n 70\n 60\n 50\n  40\n 30\n 20\n 10\n 0\nNível dos reservatórios em 2 fev. 2015\nReservatório\n\u0016G#\n2\u0002\u000f\n\u0002\u0004\u001e\f%\b'\u001d\u0004\u0002_k \nCapacidade (bilhão de litros)\n105\n100\n20\n80\n40\nNessa data, o reservatório com o maior volume de água \nera o\nA  I.\nB  II.\nC  III.\nD  IV.\nE  V.",
+  "processado_em": "2026-05-08T14:04:32.847545",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q002",
+  "imagem": "q002.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 2,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 02\t\nDominar a luz implica tanto um avanço tecnológico \nquanto uma certa liberação dos ritmos cíclicos \nda natureza, com a passagem das estações e as \nalternâncias de dia e noite. Com a iluminação noturna, a \nescuridão vai cedendo lugar à claridade, e a percepção \ntemporal começa a se pautar pela marcação do relógio. \nSe a luz invade a noite, perde sentido a separação \ntradicional entre trabalho e descanso — todas as partes \ndo dia podem ser aproveitadas produtivamente.\nSILVA FILHO, A. L. M. Fortaleza: imagens da cidade. Fortaleza: \nMuseu do Ceará; Secult-CE, 2001 (adaptado).\nEm relação ao mundo do trabalho, a transformação \napontada no texto teve como consequência a\nA\t melhoria da qualidade da produção industrial.\nB\t redução da oferta de emprego nas zonas rurais.\nC\t permissão ao trabalhador para controlar seus próprios \nhorários.\nD\t diminuição das exigências de esforço no trabalho \ncom máquinas.\nE\t ampliação do período disponível para a jornada",
+  "processado_em": "2026-05-08T14:00:42.013207",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

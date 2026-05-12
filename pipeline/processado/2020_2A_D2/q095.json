@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 95          \nAlguns modelos mais modernos de fones de ouvido \ntêm um recurso, denominado “cancelador de ruídos \nativo”, constituído de um circuito eletrônico que gera um \nsinal sonoro semelhante ao sinal externo (ruído), exceto \npela sua fase oposta.\nQual fenômeno físico é responsável pela diminuição do \nruído nesses fones de ouvido?\nA \t Difração.\nB  Reflexão.\nC \t Refração.\nD \t Interferência.\nE \t Efeito Doppler.",
+  "processado_em": "2026-05-08T14:03:35.570741",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

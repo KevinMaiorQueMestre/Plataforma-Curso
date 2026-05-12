@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87\t\nTônico para a saúde da mulher. Disponível em: www.propagandashistoricas.com.br. \nAcesso em: 28 nov. 2017.\nO anúncio publicitário da década de 1940 reforça os \nseguintes estereótipos atribuídos historicamente a uma \nsuposta natureza feminina:\nA\t Pudor inato e instinto maternal.\nB\t Fragilidade física e necessidade de aceitação.\nC\t Isolamento social e procura de autoconhecimento.\nD\t Dependência econômica e desejo de ostentação.\nE\t Mentalidade fútil e conduta hedonista.",
+  "processado_em": "2026-05-11T23:26:42.372849",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 80          \nOs seringueiros amazônicos eram invisíveis no \ncenário nacional nos anos 1970. Começaram a se \narticular como um movimento agrário no início dos anos \n1980, e na década seguinte conseguiram reconhecimento \nnacional, obtendo a implantação das primeiras reservas \nextrativas após o assassinato de Chico Mendes. Assim, \nem vinte anos, os camponeses da floresta passaram da \ninvisibilidade à posição de paradigma de desenvolvimento \nsustentável com participação popular.\nALMEIDA, M. W. B. Direitos à floresta e ambientalismo: seringueiros e suas lutas. \nRevista Brasileira de Ciências Sociais, n. 55, 2004.\nDe acordo com o texto, a visibilidade dos seringueiros \namazônicos foi estabelecida pela relação entre",
+  "processado_em": "2026-05-11T23:28:06.474866",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

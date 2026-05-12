@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nO globo da morte é uma atração muito usada em \ncircos. Ele consiste em uma espécie de jaula em forma \nde uma superfície esférica feita de aço, onde motoqueiros \nandam com suas motos por dentro. A seguir, tem-se, na \nFigura 1, uma foto de um globo da morte e, na Figura 2, \numa esfera que ilustra um globo da morte.\nB\nA\nFigura 1\nFigura 2\nNa Figura 2, o ponto A está no plano do chão onde \nestá colocado o globo da morte e o segmento AB passa \npelo centro da esfera e é perpendicular ao plano do chão. \nSuponha que há um foco de luz direcionado para o chão \ncolocado no ponto B e que um motoqueiro faça um trajeto \ndentro da esfera, percorrendo uma circunferência que \npassa pelos pontos A e B.\nDi\ní\nl\nb i\nki\nb A\n29 f\n2012",
+  "processado_em": "2026-05-08T13:59:15.239223",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

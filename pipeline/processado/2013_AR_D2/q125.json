@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\t\nCURY, C. Disponível em: http://tirasnacionais.blogspot.com. Acesso em: 13 nov. 2011.\nA tirinha denota a postura assumida por seu produtor \nfrente ao uso social da tecnologia para fins de interação e \nde informação. Tal posicionamento é expresso, de forma \nargumentativa, por meio de uma atitude\nA\t crítica, expressa pelas ironias.\nB\t resignada, expressa pelas enumerações.\nC\t indignada, expressa pelos discursos diretos.\nD\t agressiva, expressa pela contra-argumentação.\nE\t alienada, expressa pela negação da realidade.",
+  "processado_em": "2026-05-08T14:00:21.891452",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

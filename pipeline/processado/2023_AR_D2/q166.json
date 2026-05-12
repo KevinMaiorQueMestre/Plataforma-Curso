@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nVisando atrair mais clientes, o gerente de uma loja \nanunciou uma promoção em que cada cliente que realizar \numa compra pode ganhar um voucher para ser usado \nem sua próxima compra. Para ganhar seu voucher, \no cliente precisa retirar, ao acaso, uma bolinha de dentro \nde cada uma das duas urnas A e B disponibilizadas pelo \ngerente, nas quais há apenas bolinhas pretas e brancas. \nAtualmente, a probabilidade de se escolher, ao acaso, \numa bolinha preta na urna A é igual a 20% e a probabilidade \nde se escolher uma bolinha preta na urna B é 25%. \nGanha o voucher o cliente que retirar duas bolinhas pretas, \numa de cada urna.\nCom o passar dos dias, o gerente percebeu que, para a \npromoção ser viável aos negócios, era preciso alterar \na probabilidade de acerto do cliente sem alterar a regra \nda promoção. Para isso, resolveu alterar a quantidade de \nbolinhas brancas na urna B de forma que a probabilidade \nde um cliente ganhar o voucher passasse a ser menor ou \nigual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e \nque, em ambas as urnas, todas as bolinhas têm a mesma \nprobabilidade de serem retiradas.\nQual é o número mínimo de bolinhas brancas que o \ngerente deve adicionar à urna B?\nA\t\nA\t 20\nB\t\nB\t 60\nC\t\nC\t 64\nD\t\nD\t 68\nE\t\nE\t 80",
+  "processado_em": "2026-05-08T14:05:46.793538",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

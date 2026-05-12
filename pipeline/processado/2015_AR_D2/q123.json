@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\t\nÀ garrafa\nContigo adquiro a astúcia\nde conter e de conter-me.\nTeu estreito gargalo\né uma lição de angústia.\nPor translúcida pões\no dentro fora e o fora dentro\npara que a forma se cumpra\ne o espaço ressoe.\nAté que, farta da constante\nprisão da forma, saltes\nda mão para o chão\ne te estilhaces, suicida,\nnuma explosão\nde diamantes.\nPAES, J. P. Prosas seguidas de odes mínimas. São Paulo: Cia. das Letras, 1992.\nA reflexão acerca do fazer poético é um dos mais marcantes \natributos da produção literária contemporânea, que, no \npoema de José Paulo Paes, se expressa por um(a)\nA\t reconhecimento, pelo eu lírico, de suas limitações \nno processo criativo, manifesto na expressão “Por \ntranslúcida pões”.\nB\t subserviência aos princípios do rigor formal e dos \ncuidados com a precisão metafórica, como se \nobserva em “prisão da forma”. \nC\t visão progressivamente pessimista, em face da \nimpossibilidade \nda \ncriação \npoética, \nconforme \nexpressa o verso “e te estilhaces, suicida”.\nD\t processo \nde \ncontenção, \namadurecimento \ne \ntransformação da palavra, representado pelos versos \n“numa explosão / de diamantes”.\nE\t necessidade premente de libertação da prisão \nrepresentada pela poesia, simbolicamente comparada \nà “garrafa” a ser “estilhaçada”.",
+  "processado_em": "2026-05-08T14:00:55.237449",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

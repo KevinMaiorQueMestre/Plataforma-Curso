@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 48\t\nA credulidade dos ouvintes aumenta o descaramento do \nA eloquência, quando levada a seu patamar mais alto, deixa p\nà imaginação e aos afetos, cativa os ouvintes condescendente\nHUME, D. Uma investigação sobre o e\nNo contexto do século XVIII, o autor propõe uma reflexão radic\nA\tsistema de crenças, conforme a proposta kantiana de objet\nB\tcampo dos absolutos, semelhante ao entendimento mediev\nC\tdomínio da lógica, consoante a compreensão aristotélica n\nD\tparadigma da racionalidade, alinhado ao modelo cartesiano\nE âmbito da persuasão análogo às críticas platônicas aos sofist",
+  "processado_em": "2026-05-08T14:07:00.263696",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nVez por outra, indo devolver um filme na locadora ou \nalmoçar no árabe da rua de baixo, dobro uma esquina e \ntomo um susto. Ué, cadê o quarteirão que estava aqui? \nOnde na véspera havia casinhas geminadas, roseiras \ncuidadas por velhotas e janelas de adolescentes, cheias \nde adesivos, há apenas uma imensa cratera, cercada de \ntapumes. [...]\nEm breve, do buraco brotará um prédio, com grandes \ngaragens e minúsculas varandas, e será batizado de \nArizona Hills, ou Maison Lacroix, ou Plaza de Marbella, \ne isso me entristece. Não só porque ficará mais feio meu \ncaminho até a locadora, ou até o árabe na rua de baixo, \nmas porque é meu bairro que morre\ndevagarinho",
+  "processado_em": "2026-05-11T23:26:11.977384",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 107          \nUma atividade que vem crescendo e tem se \ntornado uma fonte de renda para muitas pessoas é o \nrecolhimento das embalagens feitas com alumínio. No \nBrasil, atualmente, mais de 95% dessas embalagens \nsão recicladas para fabricação de outras novas.\nDisponível em: http://abal.org.br. Acesso em: 11 mar. 2013.\nO interesse das fábricas de embalagens no uso desse \nmaterial reciclável ocorre porque o(a)\nA \t reciclagem resolve o problema de desemprego da \npopulação local.\nB \t produção de embalagens a partir de outras já usadas \né mais fácil e rápida.\nC \t alumínio das embalagens feitas de material reciclado \né de melhor qualidade.\nD \t compra de matéria-prima para confecção de \nembalagens de alumínio não será mais necessária.\nE \t custo com a compra de matéria-prima para a produção \nde embalagens de alumínio é reduzido.",
+  "processado_em": "2026-05-08T14:03:36.425418",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

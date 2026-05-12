@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 26\t\nApesar de muitas crianças e adolescentes terem a \nBarbie como um exemplo de beleza, um infográfico feito \npelo site Rehabs.com comprovou que, caso uma mulher \ntivesse as medidas da boneca de plástico, ela nem \nestaria viva.\nNão é exatamente uma novidade que as proporções \nda boneca mais famosa do mundo são absurdas para o \nmundo real. Ativistas que lutam pela construção de uma \nautoimagem mais saudável, pesquisadores de distúrbios \nalimentares e pessoas que se preocupam com o impacto \nda indústria cultural na psique humana apontam, há anos, \na influência de modelos como a Barbie na distorção do",
+  "processado_em": "2026-05-11T23:25:37.215487",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

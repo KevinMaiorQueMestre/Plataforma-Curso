@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nUm cientista trabalha com as espécies I e II de \nbactérias em um ambiente de cultura. Inicialmente, \nexistem 350 bactérias da espécie I e 1 250 bactérias \nda espécie II. O gráfico representa as quantidades de \nbactérias de cada espécie, em função do dia, durante \numa semana.\nBactérias das espécies I e II\nSeg.\nTer.\nQua.\nQui.\nSex.\nSáb.\nDom.\nQuantidade de bactérias\nEm dias\n1 600\n1 400\n1 200\n1 000\n800\n600\n400\n200\n0\nBactérias I\nBactérias II\n350\n800\n1 100\n1 250\n1 450\n1 400\n1 350\n1 000\n850\n650\n300\n290\n0\n300\nEm que dia dessa semana a quantidade total de bactérias \nnesse ambiente de cultura foi máxima?\nA\t Terça-feira.\nB\t Quarta-feira.\nC\t Quinta-feira.\nD\t Sexta-feira.\nE\t Domingo.",
+  "processado_em": "2026-05-08T14:00:40.278147",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 97\t\nO esquema representa alguns passos de uma série \nde reações metabólicas transformando o aminoácido \nfenilalanina em quatro possíveis substâncias. Essas \nreações enzimáticas são resultado da expressão de \nalelos dominantes A, B, C e D.\nFENILALANINA\nTIROSINA\nADRENALINA\nMELANINA\nTIROXINA\nAlelo C → enzima E3\nAlelo B → enzima E2\nAlelo A → enzima E1\nAlelo D → enzima E4\nQual o resultado metabólico de uma criança recessiva \npara o par de alelos B?\nA\t\nA\t Taquicardia.\nB\t\nB\t Retardo mental.\nC\t\nC\t Redução de peso.\nD\t\nD\t Ausência de pigmentação na pele.\nE\t\nE\t Disfunção dos processos metabólicos.",
+  "processado_em": "2026-05-08T14:04:46.656892",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q128",
+  "imagem": "q128.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 128,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 128\t\nTEXTO I\nDitado popular é uma frase sentenciosa, concisa, de \nverdade comprovada, baseada na secular experiência do \npovo, exposta de forma poética, contendo uma norma de \nconduta ou qualquer outro ensinamento.\nWEITZEL, A. H. Folclore literário e linguístico. Juiz de Fora: Esdeva, 1984 (fragmento). \nTEXTO II\nRindo brincalhona, dando-lhe tapinhas nas costas, \nprima Constança disse isto, dorme no assunto, ouça o \ntravesseiro, não tem melhor conselheiro.\nEnquanto prima Biela dormia no assunto, toda a casa \nse alvoroçava.\n[Prima Constança] ia rezar, pedir a Deus para \niluminar prima Biela. Mas ia também tomar suas \nprovidências. Casamento e mortalha, no céu se talha. \nDeus escreve direito por linhas tortas. O que for soará. \nDizia os ditados todos, procurando interpretar os \ndesígnios de Deus, transformar os seus desejos nos \ndesígnios de Deus. Se achava um instrumento de Deus.\nDOURADO, A. Uma vida em segredo. Rio de Janeiro: Francisco Alves, 1990 (fragmento). \nO uso que prima Constança faz dos ditados populares, no \nTexto II, constitui uma maneira de utilizar o tipo de saber \ndefinido no Texto I, porque \nA\t cita-os pela força do hábito.\nB\t aceita-os como verdade absoluta. \nC\t aciona-os para justificar suas ações. \nD\t toma-os para solucionar um problema.\nE\t considera-os como uma orientação divina.",
+  "processado_em": "2026-05-08T14:00:38.083571",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nÁVILA, A. Discurso da difamação do poeta. São Paulo: Summus, 1978.\nO contexto histórico e literário do período barroco-\nárcade fundamenta o poema Casa dos Contos, de 1975. \nA restauração de elementos daquele contexto por uma \npoética contemporânea revela que\nA\t a disposição visual do poema reflete sua dimensão \nplástica, que prevalece sobre a observação da \nrealidade social.\nB\t a reflexão do eu lírico privilegia a memória e resgata, em \nfragmentos, fatos e personalidades da Inconfidência \nMineira.\nC\t a palavra “esconso” (escondido) demonstra o desencanto \ndo poeta com a utopia e sua opção por uma linguagem \nerudita.\nD\t o eu lírico pretende revitalizar os contrastes barrocos, \ngerando uma continuidade de procedimentos estéticos \ne literários.\nE\t o eu lírico recria, em seu momento histórico, numa \nlinguagem de ruptura, o ambiente de opressão vivido \npelos inconfidentes.",
+  "processado_em": "2026-05-08T14:00:54.426187",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

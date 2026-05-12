@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 88\t\nA magnetohipertermia é um procedimento terapêutico \nque se baseia na elevação da temperatura das células \nde uma região específica do corpo que estejam afetadas \npor um tumor. Nesse tipo de tratamento, nanopartículas \nmagnéticas são fagocitadas pelas células tumorais, e \num campo magnético alternado externo é utilizado para \npromover a agitação das nanopartículas e consequente \naquecimento da célula.\nA elevação de temperatura descrita ocorre porque\nA\t o campo magnético gerado pela oscilação das \nnanopartículas é absorvido pelo tumor.\nB\t o campo magnético alternado faz as nanopartículas \ngirarem, transferindo calor por atrito.\nC\t as nanopartículas interagem magneticamente com as \ncélulas do corpo, transferindo calor.\nD\t o campo magnético alternado fornece calor para as \nnanopartículas que o transfere às células do corpo.\nE\t as nanopartículas são aceleradas em um único sentido \nem razão da interação com o campo magnético, \nfazendo-as colidir com as células e transferir calor.",
+  "processado_em": "2026-05-08T14:01:11.884660",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q063",
+  "imagem": "q063.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 63,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 63 \nViolência contra a mulher\nCrime que se confunde com paixão\nChamar de “passional” a violência física contra as mulheres \nimpetrada por homens com os quais elas se relacionavam, por \nexemplo, já ajudou a aceitar agressões por décadas. Segundo o \ndocumento Panorama da Violência contra as Mulheres no Brasil, \npublicado em 2018 pelo Senado Federal, até a década de 1970, \nesse tipo de ofensiva era considerado aceitável pela população, na \nmedida em que fazia parte apenas da esfera privada. É a expressão \ndo dito popular que reitera que “em briga de marido e mulher, \nnão se mete a colher”. “Ah, mas se mete sim” — começaram a \ndizer os movimentos feministas que ganharam força naquele \nperíodo. Essas vozes foram ainda por muito tempo ignoradas pelo \nEstado, que, assim, permitiu a vitimização de muitas mulheres.\nDisponível em: www.almg.gov.br. Acesso em: 2 out. 2019 (adaptado).\nDe acordo com o texto, qual posicionamento foi contestado \npelos movimentos sociais mencionados?\nA Idealização das tarefas diárias no espaço doméstico.\nB Naturalização da intimidade familiar no modelo patriarcal.\nC Divulgação dos assuntos particulares no ambiente coletivo.\nD Valorização dos sentimentos amorosos na vida matrimonial.\nE Promoção da igualdade política nas esferas governamentais.",
+  "processado_em": "2026-05-08T14:06:29.747289",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

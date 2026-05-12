@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 137\t\nA amplitude é uma medida estatística que detecta \na variabilidade dos dados de uma amostra. Ela pode \nser utilizada como critério de qualidade da produção na \nindústria de peças, indicando, por exemplo, a necessidade \ndo descarte de um lote defeituoso.\nUma fábrica analisou cinco unidades de cada um \ndos cinco lotes da produção de um tipo de peça que, por \nprojeto, devem ter comprimento igual a 10 cm. As medidas, \nem centímetro, dessas unidades estão distribuídas \na seguir:\n•\t lote I: 9,80; 10,30; 10,30; 10,30 e 10,30;\n•\t lote II: 10,55; 10,58; 10,58; 10,60 e 10,60;\n•\t lote III: 9,80; 9,80; 10,00; 10,00 e 10,20;\n•\t lote IV: 9,90; 9,90; 9,90; 10,20 e 10,20;\n•\t lote V: 9,30; 9,30; 9,50; 9,50 e 9,50.\nFoi determinado o descarte do lote que apresentasse \na maior amplitude.\nDe acordo com o critério adotado, a fábrica descartará \no lote\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:26.607914",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

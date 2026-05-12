@@ -1,0 +1,28 @@
+{
+  "questao_id": "2012_AR_D1_q005",
+  "imagem": "q005.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 5,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Torna-se claro que quem descobriu a África no \nBrasil, muito antes dos europeus, foram os próprios \nafricanos trazidos como escravos. E esta descoberta \nnão se restringia apenas ao reino linguístico, estendia-se \ntambém a outras áreas culturais, inclusive à da religião. \nHá razões para pensar que os africanos, quando \nmisturados e transportados ao Brasil, não demoraram \nem perceber a existência entre si de elos culturais \nmais profundos.\nSLENES, R. Malungu, ngoma vem! África coberta e descoberta do Brasil. \nRevista USP, n. 12, dez./jan./fev. 1991-92 (adaptado).\nCom base no texto, ao favorecer o contato de indivíduos \nde diferentes partes da África, a experiência da escravidão \nno Brasil tornou possível a\nA\t formação de uma identidade cultural afro-brasileira.\nB\t superação de aspectos culturais africanos por antigas \ntradições europeias.\nC\t reprodução de conflitos entre grupos étnicos africanos.\nD\t manutenção das características culturais específicas \nde cada etnia.\nE\t resistência à incorporação de elementos culturais \nindígenas.",
+  "processado_em": "2026-05-11T23:37:35.861604",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 107\t\nOs medicamentos são rotineiramente utilizados pelo \nser humano com o intuito de diminuir ou, por muitas vezes, \ncurar possíveis transtornos de saúde. Os antibióticos são \ngrupos de fármacos inseridos no tratamento de doenças \ncausadas por bactérias.\nNa terapêutica das doenças mencionadas, alguns desses \nfármacos atuam \nA\t ativando o sistema imunológico do hospedeiro.\nB\t interferindo na cascata bioquímica da inflamação.\nC\t removendo as toxinas sintetizadas pelas bactérias.\nD\t combatendo as células hospedeiras das bactérias. \nE\t danificando estruturas específicas da célula bacteriana.",
+  "processado_em": "2026-05-11T23:25:50.152263",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

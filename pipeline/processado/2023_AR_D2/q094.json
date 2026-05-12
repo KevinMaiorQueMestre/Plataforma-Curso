@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 94\t\nOs solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. \nContudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica \nde preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente \nde uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de \nossos e esterco, capaz de manter um solo fértil por anos.\nAdmite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos \norgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO−). Esses grupos atraem íons \npositivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), \nalém de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, \nconforme ilustra a figura, em que Mn+ representa os cátions metálicos. De acordo com a escala de Pauling, a \neletronegatividade do elemento oxigênio é igual a 3,44.\nMn+\nO\nO–\nO\nO– Mn+\nSolo com biocarvão\nSolo fertilizado\nO quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\nElemento metálico\nEletronegatividade\nK\n0,82\nCa\n1,00\nMg\n1,31\nZn\n1,65\nFe\n1,83\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).\nO cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente \ndo elemento \nA\t\nA\t potássio.\nB\t\nB\t cálcio.\nC\t\nC\t magnésio.\nD\t\nD\t zinco.\nE\t\nE\t ferro.",
+  "processado_em": "2026-05-11T23:29:16.371831",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

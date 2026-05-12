@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 135\t\nCensura moralista\nHá tempos que a leitura está em pauta. E, diz-se, em \ncrise. Comenta-se esta crise, por exemplo, apontando a \nprecariedade das práticas de leitura, lamentando a falta \nde familiaridade dos jovens com livros, reclamando da \nfalta de bibliotecas em tantos municípios, do preço dos \nlivros em livrarias, num nunca acabar de problemas \ne de carências. Mas, de um tempo para cá, pesquisas \nacadêmicas vêm dizendo que talvez não seja exatamente \nassim, que brasileiros leem, sim, só que leem livros que \nas pesquisas tradicionais não levam em conta. E, também \nde um tempo para cá, políticas educacionais têm tomado \na peito investir em livros e em leitura. \nLAJOLO, M. Disponível em: www.estadao.com.br. Acesso em: 2 dez. 2013 (fragmento).\nOs falantes, nos textos que produzem, sejam orais ou \nescritos, posicionam-se frente a assuntos que geram \nconsenso ou despertam polêmica. No texto, a autora\nA\t ressalta a importância de os professores incentivarem \nos jovens às práticas de leitura.\nB\t critica pesquisas tradicionais que atribuem a falta de \nleitura à precariedade de bibliotecas.\nC\t rebate a ideia de que as políticas educacionais são \neficazes no combate à crise de leitura.\nD\t questiona a existência de uma crise de leitura com \nbase nos dados de pesquisas acadêmicas.\nE\t atribui a crise da leitura à falta de incentivos e ao \ndesinteresse dos jovens por livros de qualidade.",
+  "processado_em": "2026-05-08T14:00:38.491543",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

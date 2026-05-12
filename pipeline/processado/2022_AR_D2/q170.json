@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nUm médico faz o acompanhamento clínico de um grup\nEle observou que a perda média de massa dessas pessoa\nque a massa de 1 L de água é de 1 kg, ele recomendou q\natividade, uma quantidade total de água correspondente a\npara evitar desidratação.\nSeguindo a recomendação médica, uma dessas pes\nterminar seus exercícios físicos.\nPara que a recomendação médica tenha efetivamente sido r\nA\t\nA\t 30 minutos ou menos.\nB\t\nB\t mais de 35 e menos de 45 minutos.\nC\t\nC\t mais de 45 e menos de 55 minutos.\nD\t\nD\t mais de 60 e menos de 70 minutos.\nE\t\nE\t 70 minutos ou mais.",
+  "processado_em": "2026-05-08T14:05:12.914920",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

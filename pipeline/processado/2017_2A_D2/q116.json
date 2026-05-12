@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 116\n2\u0003 TXDGUR\u0003 p\u0003 XP\u0003 HVTXHPD\u0003 GD\u0003 YLD\u0003 GH\u0003 SURGXomR\u0003 GH\u0003\nbiocombustível com base no cultivo de uma cianobactéria \nJHQHWLFDPHQWH\u0003 PRGL¿FDGD\u0003 FRP\u0003 D\u0003 LQVHUomR\u0003 GR\u0003 JHQH\u0003\n'*$7\u0011\u0003$OpP\u0003GD\u0003LQWURGXomR\u0003GHVVH\u0003JHQH\u000f\u0003RV\u0003SHVTXLVDGRUHV\u0003\ninterromperam as vias de síntese de outros compostos \nRUJkQLFRV\u000f\u0003YLVDQGR\u0003DXPHQWDU\u0003D\u0003H¿FLrQFLD\u0003QD\u0003SURGXomR\u0003GR\u0003\nELRFRPEXVWtYHO\u0003\u000bWULDFLOJOLFHURO\f\u0011\nFotossíntese\nTriose-P\nPiruvato\nUDP-glicose\nSPS\nSacarose\nGlicose-1-P\nAcetil-CoA\nÁcido graxo\nDiacilglicerol\nAGPase\nGlicogênio\nDGAT\nTriacilglicerol\nCO2\nO2\nH2O\nPhaA\nPoli-E-hidroxibutarato\n1DWLRQDO\u00035HQHZDEOH\u0003(QHUJ\\\u0003/DERUDWRU\\\u0011\u0003NREL creates new pathways for producing biofuels \nand acids from cyanobacteria. Disponível em: www.nrel.gov. \n$FHVVR\u0003HP\u001d\u0003\u0014\u0019\u0003PDLR\u0003\u0015\u0013\u0014\u0016\u0003\u000bDGDSWDGR\f\u0011\nConsiderando as vias mostradas, uma fonte de matéria-prima \nSULPiULD\u0003GHVVH\u0003ELRFRPEXVWtYHO\u0003p\u0003R\u000bD\f\nA ácido graxo, produzido a partir da sacarose.\nB JiV\u0003FDUE{QLFR\u000f\u0003DGTXLULGR\u0003YLD\u0003IRWRVVtQWHVH\u0011\nC sacarose, um dissacarídeo rico em energia.\nD gene DGAT, introduzido por engenharia genética.\nE glicogênio, reserva energética das cianobactérias.",
+  "processado_em": "2026-05-11T23:25:28.676080",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q003",
+  "imagem": "q003.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 3,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 03\t\nDZWONIK, C. Disponível em: www.tarinja.net. \nAcesso em: 12 ago. 2013.\nA palavra clave, repetida diversas vezes na tirinha de \nGaturro, leva o leitor a uma reflexão sobre o(a)\nA\t uso exaustivo das tecnologias na vida moderna.\nB\t qualidade de vida alcançada com os avanços \ntecnológicos.\nC\t praticidade da utilização dos códigos tecnológicos e \nsociais.\nD\t necessidade de aprender a utilizar as novas \ntecnologias.\nE\t quantidade de informações necessárias para \nresolver problemas.",
+  "processado_em": "2026-05-11T23:26:53.806614",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

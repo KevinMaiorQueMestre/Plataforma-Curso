@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nA Organização Internacional para as Migrações (OIM) \nfoi criada em 1951 e tem 173 Estados-membros. Desde 2019, \na OIM coordena e é secretariado executivo da Rede da \nOrganização das Nações Unidas (ONU) para migração. \nA OIM está comprometida com o princípio de que a migração \nordenada beneficia a todos.\nObjetivos:\n•\t Promover a migração regular;\n•\t Reduzir a migração forçada e irregular;\n•\t Proteger os direitos de todos os migrantes.\nDisponível em: https://brazil.iom.int. \nAcesso em: 6 out. 2021 (adaptado).\nA relação da OIM com uma organização mais abrangente, \ncomo apresentada no texto, resulta do(a)\nA\tausência de agências sobre deslocamentos humanos.\nB\treconhecimento de novos desafios populacionais.\nC\tfortalecimento de políticas de combate à fome.\nD\talinhamento de ações contra o analfabetismo.\nE\timinência de diferentes conflitos militares.",
+  "processado_em": "2026-05-08T14:05:55.033392",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

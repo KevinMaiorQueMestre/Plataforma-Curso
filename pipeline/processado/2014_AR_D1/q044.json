@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nRespeitar a diversidade de circunstâncias entre \nas pequenas sociedades locais que constituem uma \nmesma nacionalidade, tal deve ser a regra suprema das \nleis internas de cada Estado. As leis municipais seriam \nas cartas de cada povoação doadas pela assembleia \nprovincial, alargadas conforme o seu desenvolvimento, \nalteradas segundo os conselhos da experiência. Então, \nadministrar-se-ia de perto, governar-se-ia de longe, alvo \na que jamais se atingirá de outra sorte.\nBASTOS, T. A província (1870). São Paulo: Cia. Editora Nacional, 1937 (adaptado).\nO discurso do autor, no período do Segundo Reinado no \nBrasil, tinha como meta a implantação do\nA\t regime monárquico representativo.\nB\t sistema educacional democrático.\nC\t modelo territorial federalista.\nD\t padrão político autoritário.\nE\t poder oligárquico regional.",
+  "processado_em": "2026-05-08T14:00:29.867016",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

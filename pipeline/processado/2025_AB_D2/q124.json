@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 124\t\nUm termostato é um dispositivo sensível a variações de t\nferros de passar roupas. Um desses dispositivos é constituído\nelétrico. Quando a lâmina atinge uma determinada temperatu\nA deflexão dessa lâmina ocorre porque o latão, em relação ao \nA\tmenor coeficiente de dilatação térmica.\nB\tmaior coeficiente de dilatação térmica.\nC\tmenor condutividade térmica.\nD\tmaior condutividade térmica.\nE\tmenor calor específico.",
+  "processado_em": "2026-05-08T14:06:51.334256",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

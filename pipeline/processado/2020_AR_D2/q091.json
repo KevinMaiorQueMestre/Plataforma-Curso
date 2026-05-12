@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS\nQuestões de 91 a 135\nQuestão 91        \nNa indústria farmacêutica, é muito comum o emprego \nde substâncias de revestimento em medicamentos de uso \noral, pois trazem uma série de benefícios como alteração de \nsabor em medicamentos que tenham gosto ruim, melhoria \nda assimilação do composto, entre outras ações. Alguns \ncompostos poliméricos à base do polissacarídeo celulose \nsão utilizados para garantir que o fármaco somente seja \nliberado quando em contato com soluções aquosas cujo pH \nse encontre próximo da faixa da neutralidade.\nBORTOLINI, K. et al. Análise de perfil de dissolução de cápsulas gastrorresistentes \nutilizando polímeros industriais com aplicação em farmácias magistrais. \nRevista da Unifebe, n. 12, 2013 (adaptado). \nQual é a finalidade do uso desse revestimento à base de \ncelulose?",
+  "processado_em": "2026-05-11T23:28:12.863387",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

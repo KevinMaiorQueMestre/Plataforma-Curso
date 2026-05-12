@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nCada objeto é, em si mesmo, um sistema funcionando \nsistemicamente. Um grande supermercado ou shopping \ncenter seria incapaz de existir se não fossem servidos por \nvias rápidas, estacionamentos adequados e acessíveis, \nsistemas de transportes públicos com horários regulares \ne conhecidos e se, no seu próprio interior, as atividades \nnão estivessem subordinadas a uma coordenação. Esse é \no caso dos armazéns, dos silos etc. Os portos, a rede \nrodoviária de um país e, sobretudo, a rede ferroviária são \nexemplos de objetos complexos e sistêmicos.\nSANTOS, M. A natureza do espaço: técnica, tempo, razão e emoção. \nSão Paulo: Hucitec, 1996 (adaptado).\nDe acordo com o texto, o território torna-se cada vez mais \ndotado de objetos com a finalidade de intensificar a\nA\tdesindustrialização da economia.\nB\tdesregulamentação do mercado.\nC\tconcentração da produção.\nD\tdistribuição de renda.\nE\tdinamização dos fluxos.",
+  "processado_em": "2026-05-08T14:06:13.637479",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

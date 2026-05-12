@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 22\t\nBasquiat representa uma das classes da sociedade \namericana às quais as barreiras sociais impedem, \ngeralmente, o acesso à arte. Os seus quadros, objetos \npictóricos e desenhos apresentam-se cheios de sinais, \ntranscrições de textos e elementos figurativos, encadeados \nem ritmos pictóricos de uma precisão empolgante — um \nmisto de pintura gráfica, símbolos populares americanos, \ngírias de rua e alusões a obras de arte famosas.\nHONNEF, K. Arte contemporânea. São Paulo: 1994 (adaptado).\nAs características pictóricas das obras de Basquiat \napresentadas \nno \ntexto \naproximam-se \ndas \nque \nencontramos no Brasil no\nA\t\nA\t conjunto de azulejos da arte barroca.\nB\t\nB\t óleo sobre tela A Batalha do Riachuelo, do artista \nVictor Meirelles.\nC\t\nC\t painel de pastilhas do mural de rua Imprensa, do \nartista modernista Di Cavalcanti, localizado na cidade \nde São Paulo.\nD\t\nD\t óleo sobre tela intitulado Abaporu, da artista modernista \nTarsila do Amaral, em São Paulo.\nE\t\nE\t óleo sobre tela do artista modernista Alfredo Volpi.",
+  "processado_em": "2026-05-08T14:05:17.895044",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

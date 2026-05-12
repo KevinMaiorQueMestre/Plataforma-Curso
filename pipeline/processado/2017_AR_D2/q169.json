@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nPara uma temporada das corridas de Fórmula 1, \na capacidade do tanque de combustível de cada carro \npassou a ser de 100 kg de gasolina. Uma equipe \noptou por utilizar uma gasolina com densidade de \n750 gramas por litro, iniciando a corrida com o tanque cheio. \nNa primeira parada de reabastecimento, um carro dessa \nequipe apresentou um registro em seu computador de \nbordo acusando o consumo de quatro décimos da gasolina \noriginalmente existente no tanque. Para minimizar o peso \ndesse carro e garantir o término da corrida, a equipe de \napoio reabasteceu o carro com a terça parte do que restou \nno tanque na chegada ao reabastecimento.\nDisponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).\nA quantidade de gasolina utilizada, em litro, no \nreabastecimento foi\nA\n20\n0 075\n,\nB\n20\n0 75\n,\nC\n20\n7 5\n,\nD\n20\n0 075\n× ,\nE\n20\n0 75\n× ,",
+  "processado_em": "2026-05-11T23:25:57.118615",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

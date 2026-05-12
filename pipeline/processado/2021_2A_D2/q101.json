@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 101\n\u001f\b\u0007\b\u0002\u000f\n\u0010\u0004\u0005\t\r\u0007\b\u0007\u0002\u0004\t\u0002%\u0007\u0004\u001e\n\t\t\u0004\t\u0002PG\t\u000e\u001e\u0004\t\u0002\u000f\n\u0002\t\n%\b\u0007\b'\u001d\u0004\u0002\nde componentes em misturas complexas, um professor \nde química apresentou para seus alunos uma mistura de \nlimalha de ferro, areia, cloreto de sódio, bolinhas de isopor \n\n\u0002J\u0007\u001d\u0004\t\u0002\u000f\n\u0002P\n\u000e\"\u001d\u0004(\u0002\u0017\t\u0002\u001e\u0004\u0010%\u0004\u0005\n\u0005\r\n\t\u0002P\u0004\u0007\b\u0010\u0002\t\n%\b\u0007\b\u000f\u0004\t\u0002\n\u0010\u0002\netapas, na seguinte ordem:\nEtapa\nMaterial separado\n\f\r\u000e\u000f\u0010\u000f\b\u0010\u0004\b\u0002\u0004\u0003\t\u0011\t\n\u0012\u000f\n1\n_\u0007\u001d\u0004\t\u0002\u000f\n\u0002P\n\u000e\"\u001d\u0004\n\u0003\b\r\b'\u001d\u0004\n2\nLimalha de ferro\n^\u0010\b\u0005\r\b'\u001d\u0004\n3\nBolinhas de isopor\n42\u0004\r\b'\u001d\u0004\n4\nAreia\n4\u000e2\r\u0007\b'\u001d\u0004\n5\nCloreto de sódio\n\u0014#\b%\u0004\u0007\b'\u001d\u0004\nEm qual etapa foi necessário adicionar água para dar \nsequência às separações?\nA  1\nB  2\nC  3\nD  4\nE 5",
+  "processado_em": "2026-05-08T14:04:13.705248",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

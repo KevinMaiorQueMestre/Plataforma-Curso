@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 146\t\nUm rolo de papel higiênico tradicional é representado \npor um cilindro circular reto retirando-se outro cilindro \ncircular reto interior, de mesmo eixo de simetria, mesma \naltura e diâmetro menor, conforme a figura.\nDiâmetro externo\nDiâmetro \ninterno\nAltura\nConsidere um rolo de papel higiênico com 12 cm de \ndiâmetro externo, 4 cm de diâmetro interno e 10 cm \nde altura.\nO volume, em centímetro cúbico, desse rolo é\nA\t\nA\t 80π.\nB\t\nB\t 160π.\nC\t\nC\t 320π.\nD\t\nD\t 640π.\nE\t\nE\t 1 280π.",
+  "processado_em": "2026-05-08T14:05:27.136892",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 94\t\nObservam-se, na figura, peixes nadando na superfície \nde um lago em estágio muito avançado de eutrofização. \nEsse fenômeno pode ser causado pelo aporte externo \nde nutrientes na água, principalmente em razão da ação \nantrópica. Os corpos-d’água adquirem uma coloração \nturva, o que bloqueia a penetração de luz e impede a \nfotossíntese. O problema se agrava quando as algas \ncomeçam a morrer e uma grande quantidade de nutrientes \nprovenientes delas ficam disponíveis aos decompositores, \nque proliferam.\nDisponível em: www.pea.org.br. Acesso em: 15 out. 2015 (adaptado).\nO comportamento do animal no ambiente mencionado \nse deve ao(à)\nA\t\nA\t proliferação de microrganismos patogênicos, o que \npromove sua fuga para a superfície.\nB\t\nB\t aumento da quantidade de nutrientes, o que facilita a \nsua alimentação.\nC\t\nC\t elevação da densidade da água, o que dificulta o \ndeslocamento vertical.\nD\t\nD\t restrição de oxigênio, o que os obriga a buscar o gás \nna interface.\nE\t\nE\t redução da luminosidade, o que os impede de enxergar.",
+  "processado_em": "2026-05-08T14:05:24.146591",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

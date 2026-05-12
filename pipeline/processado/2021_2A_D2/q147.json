@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 147\nUm ciclista faz um treino para uma prova, em um \ncircuito oval, cujo percurso é de 800 m. Nesse treino, \nrealiza 20 voltas. Ele divide seu treino em 3 etapas. \n\u0016\b\u0002 %\u0007\u000e\u0010\n\u000e\u0007\b\u0002 \n\r\b%\b$\u0002 \u000e\u0005\u000e\u001e\u000e\b2\u000eY\b\u0002 \t\n\f\u0002 \u001e\u0007\u0004\u0005Z\u0010\n\r\u0007\u0004\u0002 \n\u0002 \u0007\n\b2\u000eY\b\u0002\nas cinco primeiras voltas com velocidade média de \n4 m/s. Na segunda etapa, faz mais cinco voltas, mas com \n#\n2\u0004\u001e\u000e\u000f\b\u000f\n\u0002 \u0010{\u000f\u000e\b\u0002 }&«\u0002 \u0010\b\u000e\u0004\u0007\u0002 \u000b\f\n\u0002 \b\u0002 \u000f\b\u0002 \n\r\b%\b\u0002 \b\u0005\r\n\u0007\u000e\u0004\u0007(\u0002\n\u0016\b\u0002K2\r\u000e\u0010\b\u0002\n\r\b%\b$\u0002\u0006\u0005\b2\u000eY\b\u0002\u0004\u0002\r\u0007\n\u000e\u0005\u0004\u0002\u0010\b\u0005\r\n\u0005\u000f\u0004\u0002\b\u0002#\n2\u0004\u001e\u000e\u000f\b\u000f\n\u0002\nmédia da primeira etapa.\n\u0012\u0004\u0002 \u0006\u0005\b2\u0002 \u000f\u0004\u0002 \r\u0007\n\u000e\u0005\u0004$\u0002 \u0004\u0002 \u001e\u0007\u0004\u0005Z\u0010\n\r\u0007\u0004\u0002 \n\t\r\b\u0007?\u0002 \u0010\b\u0007\u001e\b\u0005\u000f\u0004$\u0002 \n\u0010\u0002\nsegundo,\nA  2 600.\nB  2 800.\nC  3 000.\nD  3 800.\nE  4 000.",
+  "processado_em": "2026-05-08T14:04:15.932292",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

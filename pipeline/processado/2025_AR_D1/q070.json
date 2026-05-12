@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 70\t\nNos Estados Unidos, um hotel perto de um parque foi engolido \npor uma enorme cratera. E não é a primeira vez que esse tipo \nde incidente acontece na Flórida. Em minutos, uma ala inteira \ndo hotel era engolida pela cratera de 30 metros de diâmetro e \ncinco de profundidade. O diretor do resort em Clermont, perto \ndos parques temáticos da Flórida, diz que o prédio tinha 15 anos, \ne que até então o solo nunca havia apresentado problemas. \nOs afundamentos são um fenômeno comum na Flórida por \ncausa das formações de calcário e argila no subsolo, mas às vezes \nchuvas fortes, ou a drenagem do solo para construção, acabam \ncontribuindo para o surgimento desses buracos.\nDisponível em: http://g1.globo.com. Acesso em: 10 dez. 2024 (adaptado).\nA situação de desmoronamento do solo descrita no texto origina-se da\nA\tcristalização da estrutura geológica.\nB\tação do intemperismo químico.\nC\trecomposição da mata ciliar.\nD\tacumulação de sedimentos orgânicos.\nE\timpermeabilização da superfície ocupada.",
+  "processado_em": "2026-05-08T14:07:02.125024",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

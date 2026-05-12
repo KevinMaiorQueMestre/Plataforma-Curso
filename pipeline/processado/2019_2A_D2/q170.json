@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Sábado \n186 \nO dono da padaria decidiu que, na semana \nseguinte, a produção diária desse tipo de pão seria \nigual ao número de pães vendidos no dia da semana \nem que tal quantidade foi a mais próxima da média das \nquantidades vendidas na semana.\nO dia da semana utilizado como referência para a \nquantidade de pães a serem produzidos diariamente foi\nA\t domingo.\nB\t segunda-feira.\nC\t terça-feira.\nD\t quarta-feira.\nE\t sábado.\nQuestão 170\t\nUma pista circular delimitada por duas circunferências \nconcêntricas foi construída. Na circunferência interna dessa \npista, de raio 0,3 km, serão colocados aparelhos de ginástica \nlocalizados nos pontos P, Q e R, conforme a figura.\nR\nQ\nP\nO segmento RP é um diâmetro dessa circunferência \ninterna, e o ângulo PRQ\n\n tem medida igual a π\n5  radianos.\nPara uma pessoa ir do ponto P ao ponto Q andando \npela circunferência interna no sentido anti-horário, ela \npercorrerá uma distância, em quilômetro, igual a\nA\t 0,009π\nB\t 0,03π\nC\t 0,06π\nD\t 0,12π\nE\t 0,18π",
+  "processado_em": "2026-05-11T23:27:13.553144",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

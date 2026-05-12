@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\t\nO polímero de PET (Politereftalato de Etileno) é um \ndos plásticos mais reciclados em todo o mundo devido \nà sua extensa gama de aplicações, entre elas, fibras \ntêxteis, tapetes, embalagens, filmes e cordas. Os gráficos \nmostram o destino do PET reciclado no Brasil, sendo que, \nno ano de 2010, o total de PET reciclado foi de 282 kton \n(quilotoneladas).\nPET RECICLADO - 2010\nUsos Finais Têxteis\nUsos Finais\nTêxteis\n37,8%\nFitas de Arquear\n6,8%\nLaminados \ne chapas\n7,9%\nResinas Insaturadas \ne Alquídicas\n18,9%\nTubos\n3,8%\nOutros\n7,6%\nEmb. Alimentos \ne não alimentos\n17,2%\nNão tecidos\n43%\nTecidos e Malhas\n30%\nCerdas / Cordas /\nMonofilamentos\n27%\nDisponível em: www.abipet.org.br. Acesso em: 12 jul. 2012 (adaptado).\nDe acordo com os gráficos, a quantidade de embalagens \nPET recicladas destinadas à produção de tecidos e \nmalhas, em kton, é mais aproximada de\nA\t 16,0.\nB\t 22,9.\nC\t 32,0.\nD\t 84,6.\nE\t 106,6.",
+  "processado_em": "2026-05-08T14:00:57.217473",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

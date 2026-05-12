@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\t\nAlguns estudos comprovam que os carboidratos \nfornecem energia ao corpo, preservam as proteínas \nestruturais dos músculos durante a prática de atividade \nfísica e ainda dão força para o cérebro coordenar os \nmovimentos, o que de fato tem impacto positivo no \ndesenvolvimento do praticante. O ideal é consumir 1 grama \nde carboidrato para cada minuto de caminhada.\nCIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o \ndesempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).\nUm casal realizará diariamente 30 minutos de caminhada, \ningerindo, antes dessa atividade, a quantidade ideal de \ncarboidratos recomendada. Para ter o consumo ideal apenas \npor meio do consumo de pão de fôrma integral, o casal planeja \ngarantir o suprimento de pães para um período de 30 dias \nininterruptos. Sabe-se que cada pacote desse pão vem com 18 \nfatias, e que cada uma delas tem 15 gramas de carboidratos.\nA quantidade mínima de pacotes de pão de fôrma \nnecessários para prover o suprimento a esse casal é \nA\t\nA\t 1.\nB\t\nB\t 4.\nC\t\nC\t 6.\nD\t\nD\t 7.\nE\t\nE\t 8.",
+  "processado_em": "2026-05-08T14:05:45.209048",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 42\t\nTRADUZINDO\n“Denego a liminar pleiteada na exordial, inobstante \napós a oitiva da parte adversa e da dilação probatória \npossa lograr alcançar um outro epílogo para o deslinde \nda quaestio sub examine.”\nTRADUÇãO\nNão atendo, por ora, a liminar requerida na petição \ninicial, ainda que possa chegar a uma outra conclusão \napós ouvir a outra parte e avaliar as  provas produzidas.\nNesse texto, contribui para a construção da ironia a tradução d\nA\tpadrão, que alcança o público em geral.\nB\thistórica, que registra a evolução das leis.\nC\tcoloquial, que reproduz as relações sociais cotidianas.\nD\terudita, que resgata a origem latina da língua portuguesa.\nE técnica que facilita a circulação de informações no sistema",
+  "processado_em": "2026-05-08T14:06:59.892907",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

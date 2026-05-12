@@ -1,0 +1,28 @@
+{
+  "questao_id": "2012_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\nDisponível em: www.gandhiserve.org. Acesso em: 21 nov. 2011.\nO cartum, publicado em 1932, ironiza as consequências \nsociais das constantes prisões de Mahatma Gandhi pelas \nautoridades britânicas, na Índia, demonstrando\nA\t a ineficiência do sistema judiciário inglês no \nterritório indiano.\nB\t o apoio da população hindu à prisão de Gandhi.\nC\t o caráter violento das manifestações hindus frente à \nação inglesa.\nD\t a impossibilidade de deter o movimento liderado \npor Gandhi. \nE\t a indiferença das autoridades britânicas frente ao \napelo popular hindu.",
+  "processado_em": "2026-05-11T23:37:36.352581",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

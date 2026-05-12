@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 96\t\nA gasolina é uma mistura de hidrocarbonetos de \ncadeias saturadas contendo de 8 a 12 átomos de carbono. \nAlém disso, a gasolina de alto desempenho deve conter \nelevados teores de hidrocarbonetos de cadeias ramificadas, \nde forma a resistir à compressão e entrar em ignição apenas \nquando a vela aciona uma centelha elétrica no motor. \nNo quadro, estão apresentados compostos que podem \nser utilizados como combustíveis.\nComposto\nNomenclatura\nI\nn-decano\nII\nn-heptano\nIII\n2,2,4-trimetilpentano\nIV\n3-etil-4-metilex-1-eno\nV\n3-etil-2-metilpentan-1-ol\nEntre esses compostos, aquele que conferirá maior \ndesempenho como combustível é o\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:42.877571",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

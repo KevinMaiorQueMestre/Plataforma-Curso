@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 58\t\nA capacidade de limpeza e a eficiência de um \nsabão dependem de sua propriedade de formar micelas \nestáveis, que arrastam com facilidade as moléculas \nimpregnadas no material a ser limpo. Tais micelas têm em \nsua estrutura partes capazes de interagir com substâncias \npolares, como a água, e partes que podem interagir com \nsubstâncias apolares, como as gorduras e os óleos.\nSANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. \nSão Paulo: Nova Geração, 2005 (adaptado).\nA substância capaz de formar as estruturas mencionadas é\nA\t C18H36.\nB\t C17H33COONa.\nC\t CH3CH2COONa.\nD\t CH3CH2CH2COOH.\nE\t CH3CH2CH2CH2OCH2CH2CH2CH3.",
+  "processado_em": "2026-05-08T14:00:30.641491",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

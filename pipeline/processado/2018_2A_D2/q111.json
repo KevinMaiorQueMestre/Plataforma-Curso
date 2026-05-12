@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nEm uma manhã ensolarada, uma jovem vai \naté um parque para acampar e ler. Ela monta sua \nbarraca próxima de seu carro, de uma árvore e de um \nquiosque de madeira. Durante sua leitura, a jovem \nnão percebe a aproximação de uma tempestade com \nmuitos relâmpagos.\nA melhor maneira de essa jovem se proteger dos \nrelâmpagos é\nA\t entrar no carro.\nB\t entrar na barraca.\nC\t entrar no quiosque.\nD\t abrir um guarda-chuva.\nE\t ficar embaixo da árvore.",
+  "processado_em": "2026-05-11T23:26:20.833964",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

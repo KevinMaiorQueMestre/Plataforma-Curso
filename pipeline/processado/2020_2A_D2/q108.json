@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 108          \nO descarte inadequado do lixo é um problema que \nnecessita ser solucionado urgentemente. Segundo o \nMinistério do Meio Ambiente, apenas 25% dos municípios \nbrasileiros dispõem adequadamente seus resíduos. Para \nregulamentar essa questão, o Projeto de Lei 4 162/2019, \nque institui o marco regulatório do saneamento básico, \nestabeleceu um prazo até agosto de 2024 para que todos \nos lixões existentes no Brasil sejam transformados em \naterros sanitários, entre outras providências.\nDisponível em: www.gov.br/casacivil.  Acesso em: 5 out. 2020 (adaptado).\nA medida apontada no texto é necessária porque\nA \t a poluição causada pelos aterros sanitários é reduzida \npela impermeabilização do solo e tratamento do chorume.\nB \t a criação dos aterros sanitários viabilizará o reaproveitamento \nda matéria orgânica descartada no lixo.\nC \t a construção dos lixões envolve um custo mais \nelevado do que a manutenção dos aterros sanitários.\nD \t nos lixões não há a possibilidade de separação de \nmaterial para reaproveitamento e reciclagem.\nE \t as áreas dos lixões desativados poderão ser \nimediatamente usadas para plantação.",
+  "processado_em": "2026-05-08T14:03:36.475245",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

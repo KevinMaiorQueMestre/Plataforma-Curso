@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 122 \nPretende-se utilizar um aquecedor d’água, mas a rede elétr\nfuncionamento. A solução criativa adotada foi associar em série, a\no tempo que leva para ferver determinado volume de água é t.\nQuanto tempo levaria para ferver o mesmo volume de água, se a\nA 4t\nB 2t\nC t\nD t\n2\nE t\n4",
+  "processado_em": "2026-05-08T14:06:35.876875",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

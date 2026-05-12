@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nSerá que uma miragem ajudou a afundar o Titanic? \nO fenômeno ótico conhecido como Fata Morgana \npode fazer com que uma falsa parede de água \napareça sobre o horizonte molhado. Quando as \ncondições são favoráveis, a luz refletida pela água fria \npode ser desviada por uma camada incomum de ar \nquente acima, chegando até o observador, vinda de \nmuitos ângulos diferentes. De acordo com estudos de \npesquisadores da Universidade de San Diego, uma Fata \nMorgana pode ter obscurecido os icebergs da visão da \ntripulação que estava a bordo do Titanic. Dessa forma, a \ncerta distância, o horizonte verdadeiro fica encoberto por \numa névoa escurecida, que se parece muito com águas \ncalmas no escuro.\nDisponível em: http://apod.nasa.gov. Acesso em: 6 set. 2012 (adaptado).\nO fenômeno ótico que, segundo os pesquisadores, \nprovoca a Fata Morgana é a\nA\t ressonância.\nB\t refração.\nC\t difração.\nD\t reflexão.\nE\t difusão.",
+  "processado_em": "2026-05-08T14:00:48.303879",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

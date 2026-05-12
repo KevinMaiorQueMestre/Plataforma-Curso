@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 15\t\nQUANTO CUSTOU?\nProposta obriga órgão público a divulgar gasto\ncom anúncio na própria peça publicitária.\nQual sua opinião?\nDisponível em: www.facebook.com/senadofederal. Acesso em: 9 dez. 2017.\nConsiderando-se a função social dos posts, essa imagem \nevidencia a apropriação de outro gênero com o objetivo de\nA\t\nA\t promover o uso adequado de campanhas publicitárias \ndo governo.\nB\t\nB\t divulgar \no \nprojeto \nsobre \ntransparência \nda \nadministração pública.\nC\t\nC\t responsabilizar o cidadão pelo controle dos gastos \npúblicos.\nD\t\nD\t delegar a gestão de projetos de lei ao contribuinte.\nE\t\nE\t assegurar a fiscalização dos gastos públicos.",
+  "processado_em": "2026-05-08T14:04:58.704354",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

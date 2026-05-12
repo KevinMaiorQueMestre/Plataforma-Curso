@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 136 \nUma empresa de brinquedos pretende lançar uma coleção d\nesqueletos. O lançamento inicial será o Megalossauro, um dino\n900 cm de comprimento. Para isso, a empresa pretende faze\nmedidas reais. A imagem ilustra como ficará o brinquedo e o \ndo brinquedo deverão seguir a mesma proporção utilizada pa\nEATON, T. Infográficos univers\nA escala da miniatura desse brinquedo é\nA 1 : 25.\nB 1 : 36.\nC 1 : 864.\nD 1 : 900.\nE 1 : 936.",
+  "processado_em": "2026-05-08T14:06:36.567065",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

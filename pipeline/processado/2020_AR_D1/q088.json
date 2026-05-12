@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q088",
+  "imagem": "q088.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 88,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 88          \nTEXTO I \nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\nTEXTO II\nO Rio Tietê está morto. Ao menos uma parte \ndele: 137 quilômetros, para ser mais preciso. Uma \npesquisa da Fundação SOS Mata Atlântica mostra \nque, em 2016, o trecho do rio com qualidade de \nágua classificada como ruim ou péssima começa \nem Itaquaquecetuba, passa por toda a Região \nMetropolitana de São Paulo e chega até Cabreúva, \njá no interior de São Paulo. Nesse trecho, a água não \ntem oxigênio suficiente para abrigar vida.\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).\nConsiderando a análise dos textos, a condição atual \ndesse rio tem como origem a \nA \t valorização do sítio urbano.\nB \t extinção da vegetação nativa. \nC \t recepção de densa carga de dejetos.\nD \t captação desordenada do regime pluvial.\nE \t expansão do uso de defensivos químicos.",
+  "processado_em": "2026-05-11T23:28:07.093072",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

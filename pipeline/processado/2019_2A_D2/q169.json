@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 169\t\nO quadro apresenta a quantidade de um tipo de pão \nvendido em uma semana em uma padaria.\nDia da semana\nNúmero de pães vendidos\nDomingo \n250 \nSegunda-feira \n208 \nTerça-feira \n215 \nQuarta-feira \n251 \nQuinta-feira \n187 \nSexta-feira\n187",
+  "processado_em": "2026-05-11T23:27:13.485626",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

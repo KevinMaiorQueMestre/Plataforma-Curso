@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 95\t\nA tirinha ilustra esquimós dentro de um iglu, habitação \nde formato hemisférico construída durante o inverno a partir de \nneve ou blocos de gelo. Essa estrutura de construção se justifica \npelo fato de esse povo habitar as regiões mais setentrionais \nda Groenlândia, Canadá e Alasca.\nLAERTE. Disponível em: https://artedafisicapibid.blogspot.com. \nAcesso em: 4 dez. 2021 (adaptado).\nNa tirinha, a geladeira é necessária para fazer gelo porque\nA\ta temperatura interna do iglu é maior que a de \nsolidificação da água.\nB\ta umidade dentro do iglu dificulta o processo de \nmudança de fase da água.\nC\to ar dentro do iglu é isolante térmico, dificultando a \nperda de calor pela água.\nD\ta temperatura uniforme no interior do iglu impede as \ncorrentes de convecção.\nE\ta pressão do ar no interior do iglu é baixa, dificultando \na solidificação da água",
+  "processado_em": "2026-05-08T14:06:16.633706",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q159",
+  "imagem": "q159.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 159,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 159\t\nNa área da computação, bit é a unidade de medida básica \nque deu origem ao byte, formado por 8 bits. Essas unidades \nderam origem a outras duas unidades de medida de taxa de \ntransferência de informações, sendo estas o megabit por \nsegundo (Mbps) e o megabyte por segundo (MB/s), em que \n1 MB/s representa 8 Mbps. Um consumidor, sabendo que as \nempresas de acesso à internet divulgam seus serviços usando \nessas taxas, pretende contratar a empresa com maior taxa de \ntransferência de informações ao custo mais baixo, encontrando \nna sua pesquisa dois anúncios:\n•\tEmpresa X: internet de 50 megabits (50 Mbps) por apenas \nR$ 50,00;\n•\tEmpresa Y: internet de 50 megabytes (50 MB/s) por apenas \nR$ 100,00.\nPara o consumidor obter o que pretende, deve escolher a \nempresa\nA\tX, pois a taxa de transferência de informações é 8 vezes a da \nempresa Y, e o custo por MB/s é 1/16 do custo da concorrente.\nB\tX, pois a taxa de transferência de informações é 8 vezes a \nda empresa Y, e o custo por MB/s é a metade do custo da \nconcorrente.\nC\tX, pois as taxas de transferência de informações são iguais \ne esta empresa é a que apresenta o menor custo por Mbps.\nD\tY, pois a taxa de transferência de informações é 8 vezes a da \nempresa X, e o custo por Mbps é 1/4 do custo da concorrente.\nE\tY, pois a taxa de transferência de informações é 8 vezes a da \nempresa X, e o custo por Mbps é 1/8 do custo da concorrente.",
+  "processado_em": "2026-05-08T14:06:53.507828",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

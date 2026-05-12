@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nNa Idade Média, as notícias se propagavam com \nsurpreendente eficácia. Segundo uma emérita professora de \nSorbonne, um cavalo era capaz de percorrer 30 quilômetros \npor dia, mas o tempo podia se acelerar dependendo do \ninteresse da notícia. As ordens mendicantes tinham um papel \nimportante na disseminação de informações, assim como \nos jograis, os peregrinos e os vagabundos, porque todos \neles percorriam grandes distâncias. As cidades também \ntinham correios organizados e selos para lacrar mensagens \ne tentar certificar a veracidade das correspondências. \nGraças a tudo isso, a circulação de boatos era intensa \ne politicamente relevante. Um exemplo clássico de fake \nnews da era medieval é a história do rei que desaparece \nna batalha e reaparece muito depois, idoso e transformado.\nDisponível em: www.elpais.com.br. Acesso em: 18 jun. 2018 (adaptado).\nA propagação sistemática de informações é um \nfenômeno recorrente na história e no desenvolvimento \ndas sociedades. No texto, a eficácia dessa propagação \nestá diretamente relacionada ao(à)\nA\t\nA\t velocidade de circulação das notícias.\nB\t\nB\t nível de letramento da população marginalizada.\nC\t\nC\t poder de censura por parte dos serviços públicos.\nD\t\nD\t legitimidade da voz dos representantes da nobreza.\nE\t\nE\t diversidade dos meios disponíveis em uma época \nhistórica.",
+  "processado_em": "2026-05-08T14:05:34.431132",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

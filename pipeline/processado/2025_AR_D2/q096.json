@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 96\t\nExiste um processo de purificação de água em que são \nremovidos os sais dissolvidos. A água que passa por esse processo \né muito utilizada em laboratórios de química, em indústrias \n(como solvente), em baterias de carros etc. Entretanto, esse \ntipo de água não é adequado para ingestão, pois pode causar \nproblemas de saúde, como carência iônica e diarreia.\nEssa água é chamada de\nA\tdura.\nB\tpesada.\nC\tsanitária.\nD\tdestilada.\nE\toxigenada.",
+  "processado_em": "2026-05-08T14:07:04.818082",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

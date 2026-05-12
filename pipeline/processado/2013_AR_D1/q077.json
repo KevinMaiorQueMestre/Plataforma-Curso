@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nA produção de aço envolve o aquecimento do minério \nde ferro, junto com carvão (carbono) e ar atmosférico \nem uma série de reações de oxirredução. O produto é \nchamado de ferro-gusa e contém cerca de 3,3% de \ncarbono. Uma forma de eliminar o excesso de carbono \né a oxidação a partir do aquecimento do ferro-gusa \ncom gás oxigênio puro. Os dois principais produtos \nformados são aço doce (liga de ferro com teor de 0,3% \nde carbono restante) e gás carbônico. As massas molares \naproximadas dos elementos carbono e oxigênio são, \nrespectivamente, 12 g/mol e 16 g/mol.\nLEE, J. D. Química Inorgânica não tão concisa. São Paulo: Edgard Blucher, 1999 (adaptado). \nConsiderando que um forno foi alimentado com 2,5 \ntoneladas de ferro-gusa, a massa de gás carbônico \nformada, em quilogramas, na produção de aço doce, é \nmais próxima de\nA\t 28.\nB\t 75.\nC\t 175.\nD\t 275.\nE\t 303.",
+  "processado_em": "2026-05-08T14:00:14.007862",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

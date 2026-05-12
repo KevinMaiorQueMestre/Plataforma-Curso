@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\nUma lagartixa está no interior de um quarto e começa \na se deslocar. Esse quarto, apresentando o formato de \nXP\u0003SDUDOHOHStSHGR\u0003UHWDQJXODU\u000f\u0003p\u0003UHSUHVHQWDGR\u0003SHOD\u0003¿JXUD\u0011\nA lagartixa parte do ponto B e vai até o ponto A.\nA seguir, de A ela se desloca, pela parede, até o ponto M,\nque é o ponto médio do segmento EF. Finalmente, pelo \nteto, ela vai do ponto M até o ponto H. Considere que \ntodos esses deslocamentos foram feitos pelo caminho de \nmenor distância entre os respectivos pontos envolvidos.\n$\u0003SURMHomR\u0003RUWRJRQDO\u0003GHVVHV\u0003GHVORFDPHQWRV\u0003QR\u0003SODQR\u0003TXH\u0003\nFRQWpP\u0003R\u0003FKmR\u0003GR\u0003TXDUWR\u0003p\u0003GDGR\u0003SRU\u001d\nA\nB\nC\nD\nE\nH\nF\nE\nG\nA\nM\nD\nB\nC\nPorta\nChão\nTeto",
+  "processado_em": "2026-05-11T23:25:31.439501",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

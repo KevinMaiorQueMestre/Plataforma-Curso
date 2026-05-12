@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\t\nPara oferecer acessibilidade aos portadores de \ndificuldades de locomoção, é utilizado, em ônibus e \nautomóveis, o elevador hidráulico. Nesse dispositivo \né usada uma bomba elétrica, para forçar um fluido a \npassar de uma tubulação estreita para outra mais larga, \ne dessa forma acionar um pistão que movimenta a \nplataforma. Considere um elevador hidráulico cuja área \nda cabeça do pistão seja cinco vezes maior do que a \nárea da tubulação que sai da bomba. Desprezando o \natrito e considerando uma aceleração gravitacional de \n10 m/s2, deseja-se elevar uma pessoa de 65 kg em uma \ncadeira de rodas de 15 kg sobre a plataforma de 20 kg.\nQual deve ser a força exercida pelo motor da bomba \nsobre o fluido, para que o cadeirante seja elevado com \nvelocidade constante?\nA\t 20 N\nB\t 100 N\nC\t 200 N\nD\t 1 000 N\nE\t 5 000 N",
+  "processado_em": "2026-05-08T14:00:13.213558",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

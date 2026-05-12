@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\t\nUm grupo de pesquisadores realizou um experimento \npara identificar condições ideais para o crescimento de \nervilhas. Utilizaram um solo rico em nutrientes e minerais \n(nitrogênio orgânico, fosfato, cálcio, potássio). Em um lote, \no solo foi esterilizado por calor; em outro, não. Após o \ncultivo, em condições ideais de luminosidade e umidade, \nas plantas cultivadas em solo esterilizado tiveram um \ndesenvolvimento inferior.\nA esterilização reduziu, para as ervilhas, a disponibilidade de\nA\tágua.\nB\tcálcio.\nC\tfosfato.\nD\tpotássio.\nE nitrogênio",
+  "processado_em": "2026-05-08T14:06:01.959711",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

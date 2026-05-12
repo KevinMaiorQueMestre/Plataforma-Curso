@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nUm parque tem dois circuitos de tamanhos \ndiferentes para corridas. Um corredor treina nesse \nparque e, no primeiro dia, inicia seu treino percorrendo \n3 voltas em torno do circuito maior e 2 voltas em torno \ndo menor, perfazendo um total de 1 800 m. Em seguida, \ndando continuidade a seu treino, corre mais 2 voltas \nem torno do circuito maior e 1 volta em torno do menor, \npercorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos \ncircuitos do parque, fazendo um número inteiro de voltas \nem torno deles e de modo que o número de voltas seja o \nmaior possível.\nA soma do número de voltas em torno dos dois circuitos, \nno segundo dia, será\nA\t\nA\t 10.\nB\t\nB\t 13.\nC\t\nC\t 14.\nD\t\nD\t 15.\nE\t\nE\t 16.",
+  "processado_em": "2026-05-08T14:05:12.193824",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

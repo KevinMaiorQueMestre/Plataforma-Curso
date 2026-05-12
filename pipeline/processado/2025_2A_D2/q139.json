@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 139 \nA prefeitura de uma cidade lançou um edital convidando em\nrelacionados a obras em uma rodovia. Cinco empresas se inscrev\nmodalidades: maquinário, recursos humanos e manta asfáltica. \n• lances apresentados são conhecidos por todos e não pode\n• para a prestação de serviço em cada modalidade, os lance\n• para cada modalidade haverá um período de 10 minutos p\nA empresa cuja soma dos valores dos lances for menor que a\nvence a licitação a empresa que tiver oferecido o lance de meno\nempatadas forem iguais nessa modalidade, elas compartilharão\nNo dia do pregão, o dono da Empresa 2 organizou um quadro\nfaltava apenas seu lance para manta asfáltica.\nMaquinário (R$)\nNota 1\nRecu\nHuman\nEmpresa 1\n10 000,00\n10\n5 50\nEmpresa 2\n11 000,00\n9\n7 00\nEmpresa 3\n11 500,00\n7\n6 00\nEmpresa 4\n12 000,00\n6\n5 00\nEmpresa 5\n11 000,00\n8\n5 00\nEle pretende que seu lance seja do maior valor possível, ma\nprocesso licitatório.\nO valor do lance a ser feito pelo dono da Empresa 2 deverá ser, e\nA 4 500,00.\nB 6 500,00.\nC 9 000,00.\nD 9 500,00.\nE 10 500,00.",
+  "processado_em": "2026-05-08T14:06:36.678168",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

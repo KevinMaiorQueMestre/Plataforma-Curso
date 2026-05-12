@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q090",
+  "imagem": "q090.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 90,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 90\t\nA química verde permite o desenvolvimento tecnológico\nlimpas tem sido um grande desafio. Considere duas rotas \ninsumo muito importante para a indústria têxtil e de plastifi\nRota tradicional (marrom)\nRota verde\nO\nOH\nO\nO\nOOH\nCo\n180 °C\n75-90 °C\nC\nlavagem\nNa2WO4, 4 H2O2\nLENARDÃO, E. J. et al. Green chemistry – os 12 princípios da química ve\nQue fator contribui positivamente para que a segunda rota\nA\t Etapa única na síntese.\nB\t Obtenção do produto puro.\nC\t Ausência de reagentes oxidantes.\nD\t Ausência de elementos metálicos no processo.\nE\t Gasto de energia nulo na separação do produto.",
+  "processado_em": "2026-05-08T14:00:49.161104",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

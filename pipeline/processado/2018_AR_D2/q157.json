@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\n6REUH\u0003 XP\u0003 VLVWHPD\u0003 FDUWHVLDQR\u0003 FRQVLGHUD\u0010VH\u0003 XPD\u0003\nmalha formada por circunferências de raios com medidas \nGDGDV\u0003 SRU\u0003 Q~PHURV\u0003 QDWXUDLV\u0003 H\u0003 SRU\u0003 \u0014\u0015\u0003 VHPLUUHWDV\u0003 FRP\u0003\nextremidades na origem, separadas por ângulos de π\n6\nrad, \nFRQIRUPH\u0003D\u0003¿JXUD\u0011\nA\nB\n\u00106\n\u00105\n\u00104\n\u00103\n\u00102\n\u00101\n\u00105\n\u00106\n\u00104\n\u00103\n\u00102\n\u00101\n0\n1\n1\n2\n3\n4\n5\n6\n2\n3\n4\n5\n6\nx\ny\nSuponha que os objetos se desloquem apenas pelas \nVHPLUUHWDV\u0003 H\u0003 SHODV\u0003 FLUFXQIHUrQFLDV\u0003 GHVVD\u0003 PDOKD\u000f\u0003 QmR\u0003\npodendo passar pela origem (0 ; 0).\nConsidere o valor de S\u0003 FRP\u0003 DSUR[LPDomR\u0003 GH\u000f\u0003 SHOR\u0003\nmenos, uma casa decimal.\nPara realizar o percurso mais curto possível ao longo da \nmalha, do ponto B até o ponto A, um objeto deve percorrer \numa distância igual a\nA\n2\n1\n3\n8\n⋅\n⋅+\nπ\nB\n2\n2\n3\n6\n⋅\n⋅\n+\nπ\nC\n2\n3\n3\n4\n⋅\n⋅\n+\nπ\nD\n2\n4\n3\n2\n⋅\n⋅\n+\nπ\nE\n2\n5\n3\n2\n⋅\n⋅\n+\nπ",
+  "processado_em": "2026-05-11T23:26:49.072293",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

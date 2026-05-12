@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nSCHWARCZ, L. M. As barbas do \nEssas imagens de D. Pedro II foram feitas no início dos a\nMaioridade. Considerando o contexto histórico em que fora\nimagens representavam um\nA\t jovem imaturo que agiria de forma irresponsável.\nB\t imperador adulto que governaria segundo as leis.\nC\t líder guerreiro que comandaria as vitórias militares.\nD\t soberano religioso que acataria a autoridade papal.\nE\t monarca absolutista que exerceria seu autoritarismo.",
+  "processado_em": "2026-05-08T14:00:45.653748",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

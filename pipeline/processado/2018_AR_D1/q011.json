@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 11\t\nTEXTO I\nALMEIDA, H. Dentro de mim, 2000. Fotografia p/b. 132 cm x 88 cm. \nFaculdade de Belas-Artes da Universidade de Lisboa.",
+  "processado_em": "2026-05-11T23:26:28.866903",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

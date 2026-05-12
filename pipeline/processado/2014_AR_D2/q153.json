@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nA Companhia de Engenharia de Tráfego (CET) de \nSão Paulo testou em 2013 novos radares que permitem o \ncálculo da velocidade média desenvolvida por um veículo \nem um trecho da via.\nO sistema mede o tempo\ndecorrido entre um radar\ne outro e calcula a \nvelocidade média.\nNo teste feito pela CET,\nos dois radares ficavam\na uma distância de 2,1 km\num do outro.\nAs medições de velocidade deixariam de ocorrer de \nmaneira instantânea, ao se passar pelo radar, e seriam feitas \na partir da velocidade média no trecho, considerando o tempo \ngasto no percurso entre um radar e outro. Sabe-se que a \nvelocidade média é calculada como sendo a razão entre a \ndistância percorrida e o tempo gasto para percorrê-la. \nO teste realizado mostrou que o tempo que permite uma \ncondução segura de deslocamento no percurso entre os dois \nradares deveria ser de, no mínimo, 1 minuto e 24 segundos. \nCom isso, a CET precisa instalar uma placa antes do primeiro \nradar informando a velocidade média máxima permitida \nnesse trecho da via. O valor a ser exibido na placa deve ser \no maior possível, entre os que atendem às condições de \ncondução segura observadas.\nDisponível em: www1.folha.uol.com.br. Acesso em: 11 jan. 2014 (adaptado).\nA placa de sinalização que informa a velocidade que \natende a essas condições é\nA\n25\nkm/h\nB\n69\nkm/h\nC\n90\nkm/h\nD 102\nkm/h\nE 110\nkm/h",
+  "processado_em": "2026-05-08T14:00:39.415121",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nSobre a diluição do ácido sulfúrico em água, o químico \ne escritor Primo Levi afirma que, “está escrito em todos \nos tratados, é preciso operar às avessas, quer dizer, \nverter o ácido na água e não o contrário, senão aquele \nlíquido oleoso de aspecto tão inócuo está sujeito a iras \nfuribundas: sabem-no até os meninos do ginásio”.\n(furibundo: adj. furioso)\nLEVI, P. A tabela periódica. Rio de Janeiro: Relume-Dumará, 1994 (adaptado).\nO alerta dado por Levi justifica-se porque a\nA\t diluição do ácido libera muito calor.\nB\t mistura de água e ácido é explosiva.\nC\t água provoca a neutralização do ácido.\nD\t mistura final de água e ácido separa-se em fases.\nE\t água inibe a liberação dos vapores provenientes \ndo ácido.",
+  "processado_em": "2026-05-11T23:26:21.573007",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

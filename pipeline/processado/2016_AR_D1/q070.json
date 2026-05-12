@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nPesquisadores recuperaram DNA de ossos de \nmamute (Mammuthus primigenius) encontrados na \nSibéria, que tiveram sua idade de cerca de 28 mil anos \nconfirmada pela técnica do carbono-14.\nFAPESP. DNA de mamute é revelado. Disponível em: http://agencia.fapesp.br. \nAcesso em: 13 ago. 2012 (adaptado).\nA técnica de datação apresentada no texto só é possível \ndevido à\nA\t proporção conhecida entre carbono-14 e carbono-12 \nna atmosfera ao longo dos anos. \nB\t decomposição de todo o carbono-12 presente no \norganismo após a morte. \nC\t fixação maior do carbono-14 nos tecidos de \norganismos após a morte.\nD\t emissão de carbono-12 pelos tecidos de organismos \napós a morte.\nE\t transformação do carbono-12 em carbono-14 ao \nlongo dos anos.",
+  "processado_em": "2026-05-08T14:01:09.747596",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

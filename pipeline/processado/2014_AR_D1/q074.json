@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 74\t\nNo \nheredograma, \nos \nsímbolos \npreenchidos \nrepresentam pessoas portadoras de um tipo raro de \ndoença genética. Os homens são representados pelos \nquadrados e as mulheres, pelos círculos.\nQual é o padrão de herança observado para essa doença?\nA\t Dominante autossômico, pois a doença aparece em \nambos os sexos.\nB\t Recessivo ligado ao sexo, pois não ocorre a \ntransmissão do pai para os filhos.\nC\t Recessivo ligado ao Y, pois a doença é transmitida \ndos pais heterozigotos para os filhos.\nD\t Dominante ligado ao sexo, pois todas as filhas de \nhomens afetados também apresentam a doença.\nE\t Codominante autossômico, pois a doença é herdada \npelos filhos de ambos os sexos, tanto do pai quanto \nda mãe.",
+  "processado_em": "2026-05-08T14:00:31.539175",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

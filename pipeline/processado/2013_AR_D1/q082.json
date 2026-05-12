@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nEm um piano, o Dó central e a próxima nota Dó (Dó \nmaior) apresentam sons parecidos, mas não idênticos. \nÉ possível utilizar programas computacionais para \nexpressar o formato dessas ondas sonoras em cada \numa das situações como apresentado nas figuras, em \nque estão indicados intervalos de tempo idênticos (T).\nT\nDó central\nDó maior\nT\nA razão entre as frequências do Dó central e do Dó \nmaior é de:\nA 1\n2\nB   2\nC   1\nD\n1\n4\nE   4",
+  "processado_em": "2026-05-08T14:00:14.192710",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

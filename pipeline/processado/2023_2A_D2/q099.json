@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\t\nO odor desagradável de peixe deve-se principalmente \na compostos orgânicos que contêm um grupo amino \n(R―NH2), em que R representa um grupo alquil. Um chefe \nde cozinha experimental dispõe, em seu laboratório, de \ncinco soluções aquosas, dentre as quais deve escolher uma \npara eliminar o odor de peixe, por meio da neutralização \ndo grupo amino. Suponha que a molécula responsável \npelo odor é a metilamina (CH3NH2, Kb = 5,5 × 10−4). \nO quadro apresenta dados de acidez/basicidade de \nalgumas espécies químicas.\nConsidere:   K\nK\n e  \nH B\n2\n \nSolução aquosa\nEspécie \nquímica\nDados de acidez/\nbasicidade\nHipoclorito de sódio \n(NaClO)\nClO−\nKb = 2,5 × 10−7\nHidrogenocarbonato \nde sódio (NaHCO3)\nHCO3\n−\nKb = 2,8 × 10−8\nÁcido etanoico\nCH3COOH\nKa = 1,8 × 10−5\nCloreto de sódio \n(NaCl)\nNa+\nKa = 1,6 × 10−15\nEtanol\nCH3CH2OH\nKa = 1,3 × 10−16\nQual substância deve ser escolhida pelo chefe de cozinha?\nA\t\nA\t NaClO\nB\t\nB\t NaHCO3\nC\t\nC\t CH3COOH\nD\t\nD\t NaCl\nE\t\nE\t CH3CH2OH",
+  "processado_em": "2026-05-08T14:05:24.424097",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

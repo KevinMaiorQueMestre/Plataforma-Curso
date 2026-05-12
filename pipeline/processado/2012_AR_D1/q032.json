@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 32\t\nA interface clima/sociedade pode ser considerada em \ntermos de ajustamento à extensão e aos modos como as \nsociedades funcionam em uma relação harmônica com \nseu clima. O homem e suas sociedades são vulneráveis \nàs variações climáticas. A vulnerabilidade é a medida \npela qual uma sociedade é suscetível de sofrer por \ncausas climáticas.\nAYOADE, J. O. Introdução a climatologia para os trópicos. \nRio de Janeiro: Bertrand Brasil, 2010 (adaptado).\nConsiderando o tipo de relação entre ser humano e \ncondição climática apresentado no texto, uma sociedade \ntorna-se mais vulnerável quando\nA\t concentra suas atividades no setor primário.\nB\t apresenta estoques elevados de alimentos.\nC\t possui um sistema de transportes articulado.\nD\t diversifica a matriz de geração de energia.\nE\t introduz tecnologias à produção agrícola.",
+  "processado_em": "2026-05-08T13:59:02.002964",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

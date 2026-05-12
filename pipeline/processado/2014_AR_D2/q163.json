@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nUma pessoa possui um espaço retangular de lados \n11,5 m e 14 m no quintal de sua casa e pretende fazer \num pomar doméstico de maçãs. Ao pesquisar sobre o \nplantio dessa fruta, descobriu que as mudas de maçã \ndevem ser plantadas em covas com uma única muda e \ncom espaçamento mínimo de 3 metros entre elas e entre \nelas e as laterais do terreno. Ela sabe que conseguirá \nplantar um número maior de mudas em seu pomar se \ndispuser as covas em filas alinhadas paralelamente ao \nlado de maior extensão.\nO número máximo de mudas que essa pessoa poderá \nplantar no espaço disponível é\nA\t 4.\nB\t 8.\nC\t 9.\nD\t 12.\nE 20",
+  "processado_em": "2026-05-08T14:00:39.905186",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

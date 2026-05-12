@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nHá, em virtude da demanda crescente de economia \nde água, equipamentos e utensílios como, por exemplo, \nas bacias sanitárias ecológicas, que utilizam 6 litros de \nágua por descarga em vez dos 15 litros utilizados por \nbacias sanitárias não ecológicas, conforme dados da \nAssociação Brasileira de Normas Técnicas (ABNT).\nQual será a economia diária de água obtida por meio da \nsubstituição de uma bacia sanitária não ecológica, que \ngasta cerca de 60 litros por dia com a descarga, por uma \nbacia sanitária ecológica?\nA\t 24 litros\nB\t 36 litros\nC\t 40 litros\nD\t 42 litros\nE",
+  "processado_em": "2026-05-08T13:59:15.463210",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

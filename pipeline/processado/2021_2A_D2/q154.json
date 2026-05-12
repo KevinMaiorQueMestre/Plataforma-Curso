@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 154\nNo rótulo de uma lata com 350 mL de um refrigerante, \né possível descobrir que o valor energético é de \n85 kcal (quilocalorias) a cada 200 mL de refrigerante. \n\u001f\u0004\u0007\u0002 \u0007\n\u001e\u0004\u0010\n\u0005\u000f\b'\u001d\u0004\u0002 \u000f\n\u0002 \f\u0010\u0002 \u0005\f\r\u0007\u000e\u001e\u000e\u0004\u0005\u000e\t\r\b$\u0002 \f\u0010\u0002 %\b\u001e\u000e\n\u0005\r\n\u0002\nque consumia em sua dieta 2 800 kcal por dia mudou \no hábito de consumir o conteúdo de 2 latas desse \nrefrigerante por dia para consumir 2 latas de suco, cujo \nrótulo indicava um valor energético de 25 kcal por lata.\n\u0014\u0010\u0002\u0007\n2\b'\u001d\u0004\u0002*\u0002\t\f\b\u0002\u000f\u000e\n\r\b\u0002\u0004\u0007\u000eJ\u000e\u0005\b2$\u0002\u0004\u0002\u001e\u0004\u0005\t\f\u0010\u0004\u0002\n\u0005\n\u0007J{\r\u000e\u001e\u0004\u0002\ndiário do paciente diminuiu, em porcentagem, o valor \nmais próximo de\nA  2,1\nB  4,2\nC  4,4\nD  8,8\nE  10,6",
+  "processado_em": "2026-05-08T14:04:16.958669",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

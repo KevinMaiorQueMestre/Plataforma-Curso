@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nUm funcionário de uma loja de computadores \nmisturou, por descuido, três computadores defeituosos \ncom sete computadores perfeitos que estavam no estoque. \nUma pequena empresa fez a compra de cinco \ncomputadores nessa loja, escolhendo-os aleatoriamente \ndentre os dez que estavam no estoque.\nQual é a probabilidade de essa empresa ter levado, em \nsua compra, todos os três computadores defeituosos?\nA\t\nA\t  1\n72\nB\t\nB\t  1\n12\nC\t\nC\t  1\n4\nD\t\nD\t  3\n10\nE\t\nE\t  3\n7",
+  "processado_em": "2026-05-08T14:05:29.028854",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 97\t\nEm regiões desérticas, a obtenção de água potável \nnão pode depender apenas da precipitação. Nesse \nsentido, portanto, sistemas para dessalinização da água \ndo mar têm sido uma solução. Alguns desses sistemas \nconsistem basicamente de duas câmaras (uma contendo \nágua doce e outra contendo água salgada) separadas \npor uma membrana semipermeável. Aplicando-se \npressão na câmara com água salgada, a água pura é \nforçada a passar através da membrana para a câmara \ncontendo água doce.\nO processo descrito para a purificação da água \né denominado\nA\t filtração.\nB\t adsorção.\nC\t destilação.\nD\t troca iônica.\nE\t osmose reversa.",
+  "processado_em": "2026-05-11T23:27:07.610407",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

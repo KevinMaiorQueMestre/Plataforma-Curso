@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q065",
+  "imagem": "q065.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 65,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 65          \nA sociedade burguesa moderna, que brotou das \nruínas da sociedade feudal, não aboliu os antagonismos \nde classes. Não fez senão substituir velhas classes, \nvelhas condições de opressão, velhas formas de luta \npor outras novas. Entretanto, a nossa época, a época \nda burguesia, caracteriza-se por ter simplificado os \nantagonismos de classes. \nMARX, K.; ENGELS, F. O manifesto comunista. São Paulo: Paz e Terra, 1998. \nNa perspectiva dos autores, os antagonismos entre as \nclasses sociais no capitalismo decorrem da separação entre \naqueles que detêm os meios de produção e aqueles que\nA \t vendem a força de trabalho.\nB \t exercem a atividade comercial. \nC \t possuem os títulos de nobreza.\nD \t controlam a propriedade da terra.\nE \t monopolizam o mercado financeiro.",
+  "processado_em": "2026-05-08T14:03:31.028089",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

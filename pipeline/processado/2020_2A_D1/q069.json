@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 69          \nO horário brasileiro de verão consiste em adiantar em \numa hora a hora legal (oficial) de determinados estados. \nEle é adotado por iniciativa do Poder Executivo com \nvistas a limitar a máxima carga a que o sistema fica sujeito \nno período do ano de maior consumo, aumentando, \nassim, sua confiabilidade, constituída pelas linhas de \ntransmissão e pelas usinas que atendem as regiões Sul, \nSudeste, Centro-Oeste e parte da Região Norte.\nDisponível em: www12.senado.gov.br. Acesso em: 29 jun. 2015 (adaptado).\nA ação governamental descrita é possibilitada por meio \nda seguinte estratégia:\nA \t Redução do valor das contas de luz.\nB \t Estímulo à geração de energia limpa.\nC \t Diminuição de produção da matriz hidrelétrica.\nD \t Distribuição da eletricidade de modo equitativo.\nE \t Aproveitamento do fotoperíodo de forma estendida.",
+  "processado_em": "2026-05-08T14:03:31.262878",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

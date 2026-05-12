@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 43          \nQuando quis agilizar o processo de seleção de \nnovos alunos, a tradicional faculdade britânica de \nmedicina St. George usou um software para definir \nquem deveria ser entrevistado. Ao reproduzir a forma \ncomo os funcionários faziam essa escolha, o programa \neliminou, de cara, 60 de 2 000 candidatos. Só por causa \ndo sexo ou da origem racial, numa dedução baseada \nem sobrenome e local de nascimento. Um estudo sobre \no caso foi publicado em 1988, mas, 25 anos depois, \noutra pesquisa apontou que esse tipo de discriminação \nsegue firme. O exemplo recente envolve o buscador \ndo Google: ao digitar nomes comuns entre negros dos \nEUA, a chance de os anúncios automáticos oferecerem \nchecagem de antecedentes criminais pode aumentar \n25%. E pode piorar com a pergunta “detido?” logo após a \npalavra procurada.\nDisponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado).\nO texto permite o desnudamento da sociedade ao \nrelacionar as tecnologias de informação e comunicação \ncom o(a)\nA \t agilidade dos softwares.\nB \t passar dos anos.\nC \t linguagem.\nD \t preconceito.\nE \t educação.",
+  "processado_em": "2026-05-11T23:28:03.712579",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

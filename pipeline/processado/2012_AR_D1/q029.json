@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "A",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 29\t\nDe repente, sente-se uma vibração que aumenta \nrapidamente; lustres balançam, objetos se movem \nsozinhos e somos invadidos pela estranha sensação de \nmedo do imprevisto. Segundos parecem horas, poucos \nminutos são uma eternidade. Estamos sentindo os efeitos \nde um terremoto, um tipo de abalo sísmico.\nASSAD, L. Os (não tão) imperceptíveis movimentos da Terra. ComCiência: \nRevista Eletrônica de Jornalismo Científico, n. 117, abr. 2010. \nDisponível em: http://comciencia.br. Acesso em: 2 mar. 2012.\nO fenômeno físico descrito no texto afeta intensamente as \npopulações que ocupam espaços próximos às áreas de\nA\t alívio da tensão geológica.\nB\t desgaste da erosão superficial.\nC\t atuação do intemperismo químico.\nD\t formação de aquíferos profundos.\nE\nú\nl\nd\nd\nó it\ndi\nt",
+  "processado_em": "2026-05-08T13:59:01.999875",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

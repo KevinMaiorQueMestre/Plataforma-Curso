@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 162          \nUm \ndeterminado \ncampeonato \nde \nfutebol, \ncomposto por 20 times, é disputado no sistema de \npontos corridos. Nesse sistema, cada time joga \ncontra todos os demais times em dois turnos, isto \né, cada time joga duas partidas com cada um dos \noutros times, sendo que cada jogo pode terminar \nempatado ou haver um vencedor.\nSabendo-se que, nesse campeonato, ocorreram \n126 empates, o número de jogos em que houve \nganhador é igual a\nA \t 64.\nB \t 74.\nC \t 254.\nD \t 274.\nE \t 634.",
+  "processado_em": "2026-05-08T14:03:39.330526",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

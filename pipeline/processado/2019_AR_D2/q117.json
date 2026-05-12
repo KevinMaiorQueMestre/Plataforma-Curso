@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 117\t\nSlackline é um esporte no qual o atleta deve se \nequilibrar e executar manobras estando sobre uma fita \nesticada. Para a prática do esporte, as duas extremidades \nda fita são fixadas de forma que ela fique a alguns \ncentímetros do solo. Quando uma atleta de massa \nigual a 80 kg está exatamente no meio da fita, essa se \ndesloca verticalmente, formando um ângulo de 10° com a \nhorizontal, como esquematizado na figura. Sabe-se que a \naceleração da gravidade é igual a 10 m s−2, cos(10°) = 0,98 \ne sen(10°) = 0,17.\nQual é a força que a fita exerce em cada uma das \nárvores por causa da presença da atleta?\nA\t 4,0 × 102 N\nB\t 4,1 × 102 N\nC\t 8,0 × 102 N\nD\t 2,4 × 103 N\nE\t 4,7 × 103 N",
+  "processado_em": "2026-05-11T23:27:34.010089",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

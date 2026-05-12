@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nTobias Kuemmerle, acadêmico da Humboldt-Universität \nde Berlim na Alemanha, fez uma pesquisa de campo no \nChaco, área de mata nativa na fronteira da Argentina \ncom Paraguai e Bolívia. “Estudamos qual é a mudança \nocorrida na região e seu efeito nas emissões de CO2 \ne na diversidade”, diz o pesquisador. “E (o impacto) se \ndeve sobretudo a grandes companhias internacionais \nque compram áreas para desmatar. Tudo está claramente \nligado ao consumo de carne na Europa e à importação de \nsoja. A Europa protege muito sua agricultura, mas compra \ncada vez mais de regiões onde o impacto ambiental é \nmuito grande.”.\nORGAZ, C. Como a elogiada “agricultura verde” da Europa pode estar prejudicando \no meio ambiente no Brasil. Disponível em: www.bbc.com. Acesso em: 17 out. 2021.\nO texto apresenta uma ação da Europa na América Latina \nque ocorre pela combinação dos seguintes elementos:\nA\t\nA\t Garimpos organizados regionalmente e apoio político.\nB\t\nB\t Vegetações convertidas em pastos e foco na \nexportação.\nC\t\nC\t Maquinários utilizados ilicitamente e base no \nextrativismo.\nD\t\nD\t Terras transformadas em laboratórios e ênfase na \nciência.\nE\t\nE\t Trabalhadores contratados ilegalmente e financiamento \nestatal.",
+  "processado_em": "2026-05-08T14:05:19.630773",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

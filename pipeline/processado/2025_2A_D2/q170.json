@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 170 \nCom o intuito de revestir o piso de uma sala retangular, com\na uma loja de revestimentos. Ao chegar à loja, constatou que\ncaso fossem comprados em caixas fechadas, sem fracioname\npromoção, como tamanho das peças, preço por caixa e quant\nTipo\nTamanho das peças (cm)\nPreço \n1\n40 × 40\n2\n80 × 80\nO construtor pretende adquirir o tipo de porcelanato que \nPara garantir o menor custo, o construtor deve comprar o porc\nA 1, pois apresenta valor unitário por peça menor do que o ti\nB 2, pois utilizará 10 caixas, enquanto seriam necessárias 100\nC 1, pois gastará R$ 600,00, enquanto com as peças do tipo 2\nD 2, pois serão necessárias 50 peças, enquanto seriam necess\nE 2, pois a quantidade de peças por caixa e o tamanho das pe",
+  "processado_em": "2026-05-08T14:06:38.304927",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

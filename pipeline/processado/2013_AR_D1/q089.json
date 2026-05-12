@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 89\t\nAquecedores solares usados em residências têm \no objetivo de elevar a temperatura da água até 70 °C. \nNo entanto, a temperatura ideal da água para um banho é \nde 30 °C. Por isso, deve-se misturar a água aquecida com \na água à temperatura ambiente de um outro reservatório, \nque se encontra a 25 °C.\nQual a razão entre a massa de água quente e a massa de \nágua fria na mistura para um banho à temperatura ideal?\nA\t 0,111.\nB\t 0,125.\nC\t 0,357.\nD\t 0,428.\nE\t 0,833.",
+  "processado_em": "2026-05-08T14:00:14.525366",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

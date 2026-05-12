@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q146",
+  "imagem": "q146.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 146,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 146\t\nEm um condomínio, uma área pavimentada, que \ntem a forma de um círculo com diâmetro medindo 6 m, \né cercada por grama. A administração do condomínio \ndeseja ampliar essa área, mantendo seu formato \ncircular, e aumentando, em 8 m, o diâmetro dessa \nregião, mantendo o revestimento da parte já existente. \nO condomínio dispõe, em estoque, de material \nsuficiente para pavimentar mais 100 m2 de área. \nO síndico do condomínio irá avaliar se esse material \ndisponível será suficiente para pavimentar a região a \nser ampliada.\nUtilize 3 como aproximação para π.\nA conclusão correta a que o síndico deverá chegar, \nconsiderando a nova área a ser pavimentada, é a de \nque o material disponível em estoque\nA\t será suficiente, pois a área da nova região a ser \npavimentada mede 21 m2.\nB\t será suficiente, pois a área da nova região a ser \npavimentada mede 24 m2.\nC\t será suficiente, pois a área da nova região a ser \npavimentada mede 48 m2.\nD\t não será suficiente, pois a área da nova região a ser \npavimentada mede 108 m2.\nE\t não será suficiente, pois a área da nova região a ser \npavimentada mede 120 m2.",
+  "processado_em": "2026-05-11T23:27:35.920635",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

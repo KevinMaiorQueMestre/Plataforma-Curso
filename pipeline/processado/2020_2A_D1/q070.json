@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 70          \nAo longo de uma evolução iniciada nos meados do \nséculo XIV, o tráfico lusitano se desenvolve na periferia \nda economia metropolitana e das trocas africanas. Em \nseguida, o negócio se apresenta como uma fonte de \nreceita para a Coroa e responde à demanda escravista \nde outras regiões europeias. Por fim, os africanos são \nusados para consolidar a produção ultramarina.\nALENCASTRO, L. F. O trato dos viventes. São Paulo: Cia. das Letras, 2000 (adaptado).\nA atividade econômica destacada no texto é um dos \nelementos do processo que levou o reino português a\nA \t utilizar o clero jesuíta para garantir a manutenção da \nemancipação indígena.\nB \t dinamizar o setor fabril para absorver os lucros dos \ninvestimentos senhoriais.\nC \t aceitar a tutela papal para reivindicar a exclusividade \ndas rotas transoceânicas.\nD \t fortalecer os estabelecimentos bancários para \nfinanciar a expansão da exploração mineradora.\nE \t implementar a agromanufatura açucareira para \nviabilizar a continuidade da empreitada colonial.",
+  "processado_em": "2026-05-08T14:03:31.321399",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

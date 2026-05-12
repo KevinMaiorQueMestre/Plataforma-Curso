@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 164\nPara um evento que acontecerá no centro de uma \n\u001e\u000e\u000f\b\u000f\n$\u0002+?\u0002\b\u0002\u0004%'\u001d\u0004\u0002\u000f\n\u0002\r\u0007>\t\u0002\n\t\r\b\u001e\u000e\u0004\u0005\b\u0010\n\u0005\r\u0004\t$\u0002\u000b\f\n\u0002\u001e\u0004!\u0007\b\u0010\u0002\nda seguinte maneira:\nEstacionamento \nX\nEstacionamento \nY\nEstacionamento\nZ\n\u0015·\u0002$\u0002%\n2\b\u0002\u0002\nhora ou \nP\u0007\b'\u001d\u0004\u0002\u000f\n\u0002+\u0004\u0007\b\nR$ 3,70 por hora \nou\nP\u0007\b'\u001d\u0004\u0002\u000f\n\u0002+\u0004\u0007\b\n\u0015·\u0002&$\u0002%\n2\b\u0002\u0002\nhora ou \nP\u0007\b'\u001d\u0004\u0002\u000f\n\u0002+\u0004\u0007\b\nR$ 2,50 por \ncada hora \nsubsequente ou \nP\u0007\b'\u001d\u0004\u0002\u000f\n\u0002+\u0004\u0007\b\nR$ 2,00 por \ncada hora \nsubsequente ou \nP\u0007\b'\u001d\u0004\u0002\u000f\n\u0002+\u0004\u0007\b\n\u0013\f\b\t\u0002%\n\t\t\u0004\b\t\u0002\u000b\f\n\u0002%\b\u0007\r\u000e\u001e\u000e%\b\u0007\u001d\u0004\u0002\u000f\u0004\u0002\n#\n\u0005\r\u0004\u0002%\u0007\n\u001e\u000e\t\b\u0010\u0002\nestacionar seus carros, uma delas pelo período de \n1 hora e 50 minutos e a outra pelo período de 4 horas, \npretendendo cada uma pagar o menor preço total pelo \nuso do estacionamento. \n\u0014\t\t\b\t\u0002 %\n\t\t\u0004\b\t\u0002 \u000f\n#\n\u0007\u001d\u0004\u0002 \u0004%\r\b\u0007$\u0002 \u0007\n\t%\n\u001e\r\u000e#\b\u0010\n\u0005\r\n$\u0002 %\n2\u0004\t\u0002\nestacionamentos\nA  X e Z.\nB  Y e Y.\nC  Y e Z.\nD  Z e X.\nE  Z e Z.",
+  "processado_em": "2026-05-08T14:04:17.412176",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

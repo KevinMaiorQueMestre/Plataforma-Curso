@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nUm empréstimo foi feito à taxa mensal de i%, usando \njuros compostos, em oito parcelas fixas e iguais a P.\nO devedor tem a possibilidade de quitar a dívida \nantecipadamente \na \nqualquer \nmomento, \npagando \npara isso o valor atual das parcelas ainda a pagar. \nApós pagar a 5ª parcela, resolve quitar a dívida no ato \nde pagar a 6ª parcela.\nA expressão que corresponde ao valor total pago pela \nquitação do empréstimo é\nA P\ni\ni\n1\n1\n1\n100\n1\n1\n100\n2\n+\n+\n+\n+\n\n\n\n\n\n\n\n\n\n\n\n\n(\n)\n(\n)\nB P\ni\ni\n1\n1\n1\n100\n1\n1\n2\n100\n+\n+\n+\n+\n\n\n\n\n\n\n\n\n\n\n\n\n(\n)\n(\n)\nC\n2\n2\nP\ni\ni\n1\n1\n1\n100\n1\n1\n100\n+\n+\n+\n+\n\n\n\n\n\n\n\n\n\n\n\n\n(\n)\n(\n)\nD P\ni\ni\ni\n1\n1\n100\n1\n1\n2\n100\n1\n1\n3\n100\n+\n+\n+\n+\n+\n\n\n\n\n\n\n\n\n\n\n\n\n(\n)\n(\n)\n(\n)\nE\n2\n3\nP\ni\ni\ni\n1\n1\n100\n1\n1\n100\n1\n1\n100\n+\n+\n+\n+\n+\n\n\n\n\n\n\n\n\n\n\n\n\n(\n)\n(\n)\n(\n)",
+  "processado_em": "2026-05-11T23:25:53.066318",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

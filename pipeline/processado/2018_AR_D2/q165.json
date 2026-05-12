@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\nUm contrato de empréstimo prevê que quando uma \nSDUFHOD\u0003p\u0003SDJD\u0003GH\u0003IRUPD\u0003DQWHFLSDGD\u000f\u0003FRQFHGHU\u0010VH\u0010i\u0003XPD\u0003\nUHGXomR\u0003GH\u0003MXURV\u0003GH\u0003DFRUGR\u0003FRP\u0003R\u0003SHUtRGR\u0003GH\u0003DQWHFLSDomR\u0011\u0003\n1HVVH\u0003 FDVR\u000f\u0003 SDJD\u0010VH\u0003 R\u0003 YDORU\u0003 SUHVHQWH\u000f\u0003 TXH\u0003 p\u0003 R\u0003 YDORU\u000f\u0003\nnaquele momento, de uma quantia que deveria ser paga \nem uma data futura. Um valor presente P submetido a \njuros compostos com taxa i, por um período de tempo n,\nproduz um valor futuro V determinado pela fórmula\nV\nP\ni n\n=\n⋅\n+\n1\nEm um contrato de empréstimo com sessenta \nSDUFHODV\u0003 ¿[DV\u0003 PHQVDLV\u000f\u0003 GH\u0003 5\u0007\u0003 \u001b\u0015\u0013\u000f\u0013\u0013\u000f\u0003 D\u0003 XPD\u0003 WD[D\u0003 GH\u0003\nMXURV\u0003 GH\u0003 \u0014\u000f\u0016\u0015\b\u0003 DR\u0003 PrV\u000f\u0003 MXQWR\u0003 FRP\u0003 D\u0003 WULJpVLPD\u0003 SDUFHOD\u0003\nserá paga antecipadamente uma outra parcela, desde \nTXH\u0003R\u0003GHVFRQWR\u0003VHMD\u0003VXSHULRU\u0003D\u0003\u0015\u0018\b\u0003GR\u0003YDORU\u0003GD\u0003SDUFHOD\u0011\n8WLOL]H\u0003 \u0013\u000f\u0015\u001b\u001a\u001a\u0003 FRPR\u0003 DSUR[LPDomR\u0003 SDUD\u0003 ,Q\u0003\n4\n3\n e \n\u0013\u000f\u0013\u0014\u0016\u0014\u0003FRPR\u0003DSUR[LPDomR\u0003SDUD\u0003,Q\u0003\u000b\u0014\u000f\u0013\u0014\u0016\u0015\f\u0011\nA primeira das parcelas que poderá ser antecipada junto \ncom a 30a é a\nA 56a\nB 55a\nC \u0018\u0015a\nD 51a\nE \u0017\u0018a",
+  "processado_em": "2026-05-11T23:26:49.564014",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.3
+  }
+}

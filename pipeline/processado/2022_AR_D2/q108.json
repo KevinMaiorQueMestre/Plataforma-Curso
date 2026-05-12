@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 108\t\nTribologia é o estudo da interação entre duas \nsuperfícies em contato, como desgaste e atrito, sendo \nde extrema importância na avaliação de diferentes \nprodutos e de bens de consumo em geral. Para testar \na conformidade de uma muleta, realiza-se um ensaio \ntribológico, pressionando-a verticalmente contra o piso \ncom uma força \n\nF, conforme ilustra a imagem, em que CM \nrepresenta o centro de massa da muleta.\nCM\n\nF\nMantendo-se a força \n\nF paralela à muleta, varia-se \nlentamente o ângulo entre a muleta e a vertical, até o máximo \nângulo imediatamente anterior ao de escorregamento, \ndenominado ângulo crítico. Esse ângulo também pode ser \ncalculado a partir da identificação dos pontos de aplicação, \nda direção e do sentido das forças peso \n\nP\u001f \u001e, normal \nN\n\u001f \u001e e \nde atrito estático \n\u001fe\n\u001e\n\u001d.\nO esquema que representa corretamente todas as forças \nque atuam sobre a muleta quando ela atinge o ângulo \ncrítico é:\nA\nCM\n\nF\n\nP\n\nf e\n\nN",
+  "processado_em": "2026-05-08T14:05:09.658868",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 81\t\nA importância do conhecimento está em seu \nuso, em nosso domínio ativo sobre ele, quero dizer, \nreside na sabedoria. É convencional falar em mero \nconhecimento, separado da sabedoria, como capaz \nde incutir uma dignidade peculiar a seu possuidor. \nNão compartilho dessa reverência pelo conhecimento \ncomo tal. Tudo depende de quem possui o \nconhecimento e do uso que faz dele.\nWHITHEHEAD, A. N. Os fins da educação e outros ensaios. \nSão Paulo: Edusp, 1969.\nNo trecho, o autor considera que o conhecimento traz \npossibilidades de progresso material e moral quando\nA\t prioriza o rigor conceitual.\nB\t valoriza os seus dogmas.\nC\t avalia a sua aplicabilidade.\nD\t busca a inovação tecnológica.\nE\t instaura uma perspectiva científica.",
+  "processado_em": "2026-05-11T23:27:02.606062",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

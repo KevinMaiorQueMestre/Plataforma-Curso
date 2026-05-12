@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q017",
+  "imagem": "q017.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 17,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 17\t\nPALAVRA – As gramáticas classificam as palavras \nem substantivo, adjetivo, verbo, advérbio, conjunção, \npronome, numeral, artigo e preposição. Os poetas \nclassificam as palavras pela alma porque gostam de \nbrincar com elas, e para brincar com elas é preciso ter \nintimidade primeiro. É a alma da palavra que define, \nexplica, ofende ou elogia, se coloca entre o significante \ne o significado para dizer o que quer, dar sentimento às \ncoisas, fazer sentido. A palavra nuvem chove. A palavra \ntriste chora. A palavra sono dorme. A palavra tempo \npassa. A palavra fogo queima. A palavra faca corta. \nA palavra carro corre. A palavra “palavra” diz. O que quer.",
+  "processado_em": "2026-05-08T14:04:58.783402",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

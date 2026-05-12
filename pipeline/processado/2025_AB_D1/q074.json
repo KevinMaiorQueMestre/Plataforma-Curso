@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 74\t\nO que define a polis é que, contrariamente à tribo ou às \ngrandes monarquias, contrariamente à comunidade familiar, \nali ninguém possui apriori o poder. Não se trata do objeto de um \n“ter” reservado, mas o lugar de uma luta pelo reconhecimento \npúblico, principalmente quando a polis é democrática, como \nfoi o caso de Atenas.\nWOLFF, F. Aristóteles e a política. São Paulo: Discurso Editorial, \n1999 (adaptado).\nA organização política apresentada no texto alcança o \nmodelo de deliberação pública das sociedades democráticas \ncontemporâneas nas quais\nA\tpatriarcas regionais preenchem os espaços de poder.\nB\tparlamentares atuam conforme interesses setorizados.\nC\trepresentantes eleitos estão legitimados pela vontade \npopular.\nD\taristocratas ocupam a classe média na estratificação social.\nE\tgovernos hereditários dispensam a necessidade de eleições.",
+  "processado_em": "2026-05-08T14:06:47.107672",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

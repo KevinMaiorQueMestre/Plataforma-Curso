@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 62\t\nLei n. 601, de 18 de setembro de 1850\nD. Pedro II, por Graça de Deus e Unânime \nAclamação dos Povos, Imperador Constitucional e \nDefensor Perpétuo do Brasil: Fazemos saber, a todos os \nnossos súditos, que a Assembleia Geral decretou, e nós \nqueremos a Lei seguinte: \nArt. 1º Ficam proibidas as aquisições de terras \ndevolutas por outro título que não seja o de compra.\nDisponível em: www.planalto.gov.br. Acesso em: 8 ago. 2014 (adaptado).\nConsiderando a conjuntura histórica, o ordenamento \njurídico abordado resultou na\nA\t mercantilização do trabalho livre.\nB\t retração das fronteiras agrícolas.\nC\t demarcação dos territórios indígenas.\nD\t concentração da propriedade fundiária.\nE\t expropriação das comunidades quilombolas.",
+  "processado_em": "2026-05-11T23:27:01.790970",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

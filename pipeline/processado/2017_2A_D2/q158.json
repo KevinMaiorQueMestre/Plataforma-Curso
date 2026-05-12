@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\nAs empresas que possuem Serviço de Atendimento \nDR\u0003 &OLHQWH\u0003 \u000b6$&\f\u000f\u0003 HP\u0003 JHUDO\u000f\u0003 LQIRUPDP\u0003 DR\u0003 FOLHQWH\u0003 TXH\u0003\nutiliza o serviço um número de protocolo de atendimento.\nEsse número resguarda o cliente para eventuais \nreclamações e é gerado, consecutivamente, de acordo \ncom os atendimentos executados. Ao término do mês \nde janeiro de 2012, uma empresa registrou como último \nnúmero de protocolo do SAC o 390 978 467. Do início do \nPrV\u0003GH\u0003IHYHUHLUR\u0003DWp\u0003R\u0003¿P\u0003GR\u0003PrV\u0003GH\u0003GH]HPEUR\u0003GH\u0003\u0015\u0013\u0014\u0015\u000f\u0003\nforam abertos 22 580 novos números de protocolos.\n2\u0003 DOJDULVPR\u0003 TXH\u0003 DSDUHFH\u0003 QD\u0003 SRVLomR\u0003 GD\u0003 GH]HQD\u0003 GH\u0003\nmilhar do último número de protocolo de atendimento \nregistrado em 2012 pela empresa é\nA 0.\nB 2.\nC 4.\nD 6.\nE 8.",
+  "processado_em": "2026-05-11T23:25:30.682356",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

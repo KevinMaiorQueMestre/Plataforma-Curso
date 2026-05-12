@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q051",
+  "imagem": "q051.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 51,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 51          \nPor força da industrialização da cultura, desde o \ncomeço do filme já se sabe como ele termina, quem é \nrecompensado e, ao escutar a música, o ouvido treinado \né perfeitamente capaz, desde os primeiros compassos, \nde adivinhar o desenvolvimento do tema e sente-se feliz \nquando ele tem lugar como previsto.\nADORNO, T. W.; HORKHEIMER, M. Dialética do esclarecimento: \nfragmentos filosóficos. Rio de Janeiro: Jorge Zahar, 2009.\nA crítica ao tipo de criação mencionada no texto teve \ncomo alvo, no campo da arte, a \nA \t burocratização do processo de difusão.\nB \t valorização da representação abstrata.\nC \t padronização das técnicas de composição.\nD \t sofisticação dos equipamentos disponíveis.\nE \t ampliação dos campos de experimentação.",
+  "processado_em": "2026-05-08T14:03:30.081539",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

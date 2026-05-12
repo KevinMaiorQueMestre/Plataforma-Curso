@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 85          \nO movimento sedicioso ocorrido na capitania \nde Pernambuco, no ano 1817, foi analisado de \nformas diferentes por dois meios de comunicação \ndaquela época. O Correio Braziliense apontou para \no fato de ser “a comoção no Brasil motivada por um \ndescontentamento geral, e não por maquinações de \nalguns indivíduos”. Já a Gazeta do Rio de Janeiro \nconsiderou o movimento como um “pontual desvio \nde norma, apenas uma ‘mancha’ nas ‘páginas da \nHistória Portuguesa’, tão distinta pelos testemunhos \nde amor e respeito que os vassalos desta nação \nconsagram ao seu soberano”.\nJANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem Incompleta:\na experiência brasileira (1500-2000). São Paulo: Senac, 2000 (adaptado).\nOs fragmentos das matérias jornalísticas sobre o \nacontecimento, embora com percepções diversas, \nrelacionam-se a um aspecto do processo de \nindependência da colônia luso-americana expresso \nem dissensões entre\nA \t quadros dirigentes em torno da abolição da ordem \nescravocrata.\nB \t grupos regionais acerca da configuração político-\n-territorial.\nC \t intelectuais laicos acerca da revogação do domínio \neclesiástico.\nD \t homens livres em torno da extensão do direito de voto.\nE \t elites locais acerca da ordenação do monopólio \nfundiário.",
+  "processado_em": "2026-05-11T23:28:06.706829",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nEm uma de suas viagens, um turista comprou uma \nlembrança de um dos monumentos que visitou. Na base \ndo objeto há informações dizendo que se trata de uma \npeça em escala 1 : 400, e que seu volume é de 25 cm3.\nO volume do monumento original, em metro cúbico, é de\nA\t 100.\nB\t 400.\nC\t 1 600.\nD\t 6 250.\nE\t 10 000.",
+  "processado_em": "2026-05-11T23:25:56.758721",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

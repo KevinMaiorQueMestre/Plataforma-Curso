@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 23\t\nTEXTO I\nFragmento B91: Não se pode banhar duas vezes no \nmesmo rio, nem substância mortal alcançar duas vezes \na mesma condição; mas pela intensidade e rapidez da \nmudança, dispersa e de novo reúne.\nHERÁCLITO. Fragmentos (Sobre a natureza). São Paulo: Abril Cultural, 1996 (adaptado).\nTEXTO II\nFragmento B8: São muitos os sinais de que o ser \né ingênito e indestrutível, pois é compacto, inabalável \ne sem fim; não foi nem será, pois é agora um todo \nhomogêneo, uno, contínuo. Como poderia o que é \nperecer? Como poderia gerar-se?\nPARMÊNIDES. Da natureza. São Paulo: Loyola, 2002 (adaptado).\nOs fragmentos do pensamento pré-socrático expõem \numa oposição que se insere no campo das\nA\t investigações do pensamento sistemático.\nB\t preocupações do período mitológico.\nC\t discussões de base ontológica.\nD\t habilidades da retórica sofística.\nE\t verdades do mundo sensível.",
+  "processado_em": "2026-05-08T14:01:04.780261",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

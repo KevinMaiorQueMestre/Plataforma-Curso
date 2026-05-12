@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 149          \nPara identificar visualmente uma loja de pet shop, \num empresário criou uma logomarca que se assemelha \na uma marca deixada pela pegada de um gato, como na \nfigura. O maior círculo tem medida de raio igual a 6 cm. \nO empresário pretende reproduzir o desenho em \numa das paredes retangulares da loja. Para isso, fará a \nampliação da logomarca utilizando a escala de 1 : 25.",
+  "processado_em": "2026-05-08T14:03:38.694150",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

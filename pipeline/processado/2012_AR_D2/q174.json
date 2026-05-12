@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\t\nJosé, Paulo e Antônio estão jogando dados não viciados, \nnos quais, em cada uma das seis faces, há um número de 1 a 6. \nCada um deles jogará dois dados simultaneamente. José \nacredita que, após jogar seus dados, os números das faces \nvoltadas para cima lhe darão uma soma igual a 7. Já Paulo \nacredita que sua soma será igual a 4 e Antônio acredita \nque sua soma será igual a 8.\nCom essa escolha, quem tem a maior probabilidade de \nacertar sua respectiva soma é\nA\t Antônio, já que sua soma é a maior de todas as \nescolhidas.\nB\t José e Antônio, já que há 6 possibilidades tanto para a \nescolha de José quanto para a escolha de Antônio, e \nhá apenas 4 possibilidades para a escolha de Paulo.\nC\t José e Antônio, já que há 3 possibilidades tanto para a \nescolha de José quanto para a escolha de Antônio, e \nhá apenas 2 possibilidades para a escolha de Paulo.\nD\t José, já que há 6 possibilidades para formar sua soma, \n5 possibilidades para formar a soma de Antônio e \napenas 3 possibilidades para formar a soma de Paulo.\nE Paulo já que sua soma é a menor de todas",
+  "processado_em": "2026-05-08T13:59:15.708479",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

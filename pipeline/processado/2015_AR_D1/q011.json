@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 11\t\nCalendário med\n \nOs calendários são fontes históricas importantes, na medida\nEssas imagens compõem um calendário medieval (1460-\ndezembro. Com base na análise do calendário, apreende-\nA\t cíclica, marcada pelo mito arcaico do eterno retorno.\nB\t humanista, identificada pelo controle das horas de ativ\nC\t escatológica, associada a uma visão religiosa sobre o \nD\t natural, expressa pelo trabalho realizado de acordo co\nE\t romântica, definida por uma visão bucólica da socieda",
+  "processado_em": "2026-05-08T14:00:43.258669",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

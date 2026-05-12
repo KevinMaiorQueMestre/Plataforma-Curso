@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\t\nSegundo o Instituto Brasileiro de Geografia e \nEstatística (IBGE), produtos sazonais são aqueles que \napresentam ciclos bem definidos de produção, consumo \ne preço. Resumidamente, existem épocas do ano em \nque a sua disponibilidade nos mercados varejistas ora \né escassa, com preços elevados, ora é abundante, com \npreços mais baixos, o que ocorre no mês de produção \nmáxima da safra.\nA partir de uma série histórica, observou-se que o preço \nP, em reais, do quilograma de um certo produto sazonal \npode ser descrito pela função P(x) = 8 + 5cos (\npx - p)\n6\n, \nonde x representa o mês do ano, sendo x = 1 associado \nao mês de janeiro, x = 2 ao mês de fevereiro, e assim \nsucessivamente, até x = 12 associado ao mês de \ndezembro.\nDisponível em: www.ibge.gov.br. Acesso em: 2 ago. 2012 (adaptado).\nNa safra, o mês de produção máxima desse produto é\nA\t janeiro.\nB\t abril.\nC\t junho.\nD\t julho.\nE\t outubro.",
+  "processado_em": "2026-05-08T14:00:59.369918",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

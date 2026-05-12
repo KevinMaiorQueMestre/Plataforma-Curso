@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 102          \nDevido à sua ampla incidência e aos seus efeitos \ndebilitantes, a malária é a doença que mais contribui \npara o sofrimento da população humana da Região \nAmazônica. Além de reduzir os esforços das pessoas \npara \ndesenvolverem \nseus \nrecursos \neconômicos, \ncapacidade produtiva e melhorarem suas condições de \nvida, prejudica a saúde da população e o desenvolvimento \nsocioeconômico da região.\nRENAULT, C. S. et al. Epidemiologia da malária no município de Belém – Pará.\nRevista Paraense de Medicina, n. 3, jul.-set. 2007 (adaptado).\nEssa doença constitui um sério problema socioeconômico \npara a região citada porque provoca\nA \t alterações neurológicas, que causam crises epilépticas, \ntornando o doente incapacitado para o trabalho.\nB \t diarreias agudas e explosivas, que fazem com que o \ndoente fique vários dias impossibilitado de trabalhar.\nC \t febres constantes e intermitentes associadas à fadiga \ne dores de cabeça, que afastam o doente de suas \natividades.\nD \t imunossupressão, que impossibilita o doente de \nentrar em contato com outras pessoas sem o uso de \nmáscaras e luvas.\nE \t infecção viral contagiosa, que faz com que o doente \nprecise de isolamento para evitar transmissão para \noutras pessoas.",
+  "processado_em": "2026-05-08T14:03:36.187598",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

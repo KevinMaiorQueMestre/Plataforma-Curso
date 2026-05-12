@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 42\t\nSe todos fossem iguais a você \nSe todos fossem iguais a você \nQue maravilha viver \nUma canção pelo ar \nUma mulher a cantar \nUma cidade a cantar \nA sorrir, a cantar, a pedir \nA beleza de amar\nMORAES, V.; TOM JOBIM. Disponível em: http://letras.terra.com.br.\nAcesso em: 16 set. 2011 (fragmento).\nO locutor da letra da canção exalta as características de \numa pessoa ideal. O uso da palavra “se” contribui para \nessa idealização, pois ela introduz no texto a\nA\t\nA\t junção de dois perfis femininos.\nB\t\nB\t explicação para um romance feliz.\nC\t\nC\t consequência de uma vida feliz a dois.\nD\t\nD\t superação da mulher amada pelas demais.\nE\t\nE\t hipótese para a existência de um mundo prazeroso.",
+  "processado_em": "2026-05-08T14:05:19.289472",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

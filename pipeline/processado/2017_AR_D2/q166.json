@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nUma bicicleta do tipo mountain bike tem uma coroa \ncom 3 engrenagens e uma catraca com 6 engrenagens, \nque, combinadas entre si, determinam 18 marchas \n(número de engrenagens da coroa vezes o número de \nengrenagens da catraca).\nOs números de dentes das engrenagens das coroas \ne das catracas dessa bicicleta estão listados no quadro.\nEngrenagens\n1ª\n2ª\n3ª\n4ª\n5ª\n6ª\nNº de dentes da \ncoroa\n46\n36\n26\n-\n-\n-\nNº de dentes da \ncatraca\n24\n22\n20\n18\n16\n14\nSabe-se que o número de voltas efetuadas pela \nroda traseira a cada pedalada é calculado dividindo-se a \nquantidade de dentes da coroa pela quantidade de dentes \nda catraca.\nDurante um passeio em uma bicicleta desse tipo, \ndeseja-se fazer um percurso o mais devagar possível, \nescolhendo, para isso, uma das seguintes combinações \nde engrenagens (coroa x catraca):\nI\nII\nIII\nIV\nV\n1ª × 1ª\n1ª × 6ª\n2ª × 4ª\n3ª × 1ª\n3ª × 6ª\nA combinação escolhida para realizar esse passeio da \nforma desejada é\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-11T23:25:56.954307",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

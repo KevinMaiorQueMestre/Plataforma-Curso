@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E  P = d\rn + L + s\nQuestão 177\n\u0017\u0002\u0004\u0007J\b\u0005\u000e\b\u000f\u0004\u0007\u0002\u000f\n\u0002\f\u0010\b\u0002\u001e\u0004\u0010%\n\r\u000e'\u001d\u0004\u0002\u000f\n\u00022\b\u0005'\b\u0010\n\u0005\r\u0004\u0002\u000f\n\u0002\ndardos pretende tornar o campeonato mais competitivo. \n\u001f\n2\b\t\u0002 \u0007\nJ\u0007\b\t\u0002 \b\r\f\b\u000e\t\u0002 \u000f\b\u0002 \u001e\u0004\u0010%\n\r\u000e'\u001d\u0004$\u0002 \u0005\f\u0010\b\u0002 \u0007\u0004\u000f\b\u000f\b$\u0002 \u0004\u0002\njogador lança 3 dardos e pontua caso acerte pelo menos \num deles no alvo. O organizador considera que, em \nmédia, os jogadores têm, em cada lançamento, 1\n2 de \nprobabilidade de acertar um dardo no alvo.\n\u0012\u0002\u0006\u0010\u0002\u000f\n\u0002\r\u0004\u0007\u0005\b\u0007\u0002\u0004\u0002\"\u0004J\u0004\u0002\u0010\b\u000e\t\u0002\b\r\u0007\b\r\u000e#\u0004$\u0002%2\b\u0005\n\"\b\u0002\u0010\u0004\u000f\u000e\u0006\u001e\b\u0007\u0002\nas regras de modo que a probabilidade de um jogador \npontuar em uma rodada seja igual ou superior a 9\n10. Para \nisso, decide aumentar a quantidade de dardos a serem \nlançados em cada rodada.\nCom base nos valores considerados pelo organizador da \n\u001e\u0004\u0010%\n\r\u000e'\u001d\u0004$\u0002\b\u0002\u000b\f\b\u0005\r\u000e\u000f\b\u000f\n\u0002\u0010G\u0005\u000e\u0010\b\u0002\u000f\n\u0002\u000f\b\u0007\u000f\u0004\t\u0002\u000b\f\n\u0002\u000f\n#\n\u0010\u0002\nser disponibilizados em uma rodada para tornar o jogo \nmais atrativo é\nA  2.\nB  4.\nC  6.\nD  9.\nE 10",
+  "processado_em": "2026-05-08T14:04:33.126834",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

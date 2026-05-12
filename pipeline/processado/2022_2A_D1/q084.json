@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 84\t\nEm primeiro lugar, é preciso libertar-se do preconceito \nsegundo o qual a filosofia é apenas uma disciplina \nparticular, apenas o trabalho de um círculo restrito de \npessoas que dedicam sua atividade a refletir e a indagar \nsobre certos tipos de problemas. A filosofia é isso \ntambém, mas não só. Deve haver uma filosofia como ato \nexistencial, que faz do homem um ente que pergunta, \nduvida, teme e age para dominar o futuro.\nABBAGNANO, N. Introdução ao existencialismo.\nSão Paulo: Martins Fontes, 2001 (adaptado).\nDe acordo com a corrente de pensamento do século XX da \nqual o texto trata, o tema fundamental da filosofia é o(a)\nA\t\nA\t realidade humana, seu sentido e possibilidades.\nB\t\nB\t mundo físico, sua essência e leis reguladoras.\nC\t\nC\t lógica, suas inferências e estudos de validade.\nD\t\nD\t imaginação, seus objetos e contribuições.\nE\t\nE\t conhecimento, sua natureza e condições.",
+  "processado_em": "2026-05-08T14:04:43.077984",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

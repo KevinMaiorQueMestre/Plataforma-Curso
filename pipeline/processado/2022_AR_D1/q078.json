@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 78\t\nPossível trajeto do voo MH370 da Malaysia Airlines \nantes da queda, em 2014\nMADAGASCAR\n2 500 km\nOCEANO\nÍNDICO\nAUSTRÁLIA\nPerth\nPossível trajeto antes da queda\nLocal onde os destroços\n foram avistados\nINDONÉSIA\nMALÁSIA\nKuala Lumpur\nÚltimo contato\nDisponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado).\nConsiderando-se que a distância entre o local onde os \ndestroços do avião foram avistados e a cidade de Perth \né de 2 cm, a escala aproximada dessa representação \ncartográfica é:\nA\t\nA\t 1 : 12 500.\nB\t\nB\t 1 : 125 000.\nC\t\nC\t 1 : 1 250 000.\nD\t\nD\t 1 : 12 500 000.\nE\t\nE\t 1 : 125 000 000.",
+  "processado_em": "2026-05-08T14:05:05.178618",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

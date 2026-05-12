@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nJamais deixou de haver sangue, martírio e sacrifício, \nquando o homem sentiu a necessidade de criar em si \numa memória; os mais horrendos sacrifícios e penhores, \nas mais repugnantes mutilações (as castrações, por \nexemplo), os mais cruéis rituais, tudo isto tem origem \nnaquele instinto que divisou na dor o mais poderoso \nauxiliar da memória.\nNIETZSCHE, F. Genealogia da moral. São Paulo: Cia. das Letras, 1999.\nO fragmento evoca uma reflexão sobre a condição \nhumana e a elaboração de um mecanismo distintivo \nentre homens e animais, marcado pelo(a)\nA\t racionalidade científica.\nB\t determinismo biológico.\nC\t degradação da natureza.\nD\t domínio da contingência.\nE\t consciência da existência.",
+  "processado_em": "2026-05-11T23:26:17.070522",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

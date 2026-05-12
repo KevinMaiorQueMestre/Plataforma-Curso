@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 15\t\nO índio era o único elemento então disponível para \najudar o colonizador como agricultor, pescador, guia, \nconhecedor da natureza tropical e, para tudo isso, \ndeveria ser tratado como gente, ter reconhecidas sua \ninocência e alma na medida do possível. A discussão \nreligiosa e jurídica em torno dos limites da liberdade \ndos índios se confundiu com uma disputa entre \njesuítas e colonos. Os padres se apresentavam \ncomo defensores da liberdade, enfrentando a cobiça \ndesenfreada dos colonos.\nCALDEIRA, J. A nação mercantilista. São Paulo: Editora 34, 1999 (adaptado).\nEntre os séculos XVI e XVIII, os jesuítas buscaram \na conversão dos indígenas ao catolicismo. Essa \naproximação dos jesuítas em relação ao mundo indígena \nfoi mediada pela\nA\t demarcação do território indígena.\nB\t manutenção da organização familiar.\nC\t valorização dos líderes religiosos indígenas.\nD\t preservação do costume das moradias coletivas.\nE comunicação pela língua geral baseada no tupi.",
+  "processado_em": "2026-05-08T14:00:27.625848",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

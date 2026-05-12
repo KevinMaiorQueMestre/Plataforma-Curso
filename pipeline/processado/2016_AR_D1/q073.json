@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 73\t\nOs ecossistemas degradados por intensa atividade \nagrícola apresentam, geralmente, diminuição de sua \ndiversidade e perda de sua estabilidade. Nesse contexto, \no uso integrado de árvores aos sistemas agrícolas \n(sistemas agroflorestais) pode cumprir um papel inovador \nao buscar a aceleração do processo sucessional e, ao \nmesmo tempo, uma produção escalonada e diversificada.\nDisponível em: saf.cnpgc.embrapa.br. Acesso em: 21 jan. 2012 (adaptado).\nEssa é uma estratégia de conciliação entre recuperação \nambiental e produção agrícola, pois\nA\t substitui gradativamente as espécies cultiváveis por \nespécies arbóreas.\nB\t intensifica a fertilização do solo com o uso de técnicas \napropriadas e biocidas.\nC\t promove maior diversidade de vida no solo com o \naumento da matéria orgânica.\nD\t favorece a dispersão das sementes cultivadas pela \nfauna residente nas áreas florestais.\nE\t cria condições para o estabelecimento de espécies \npioneiras com a diminuição da insolação sobre o solo.",
+  "processado_em": "2026-05-08T14:01:10.542004",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

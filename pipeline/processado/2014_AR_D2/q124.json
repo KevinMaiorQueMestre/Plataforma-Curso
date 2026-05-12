@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nScientific American Brasil, ano 11, n. 134, jul. 2013 (adaptado).\nPara atingir o objetivo de recrutar talentos, esse texto \npublicitário\nA\t afirma, com a frase “Queremos seu talento exatamente \ncomo ele é”, que qualquer pessoa com talento pode \nfazer parte da equipe.\nB\t apresenta como estratégia a formação de um perfil \npor meio de perguntas direcionadas, o que dinamiza \na interação texto-leitor.\nC\t utiliza a descrição da empresa como argumento \nprincipal, pois atinge diretamente os interessados em \ninformática.\nD\t usa estereótipo negativo de uma figura conhecida, o \nnerd, pessoa introspectiva e que gosta de informática.\nE\t recorre a imagens tecnológicas ligadas em rede, para \nsimbolizar como a tecnologia é interligada.",
+  "processado_em": "2026-05-08T14:00:36.856181",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

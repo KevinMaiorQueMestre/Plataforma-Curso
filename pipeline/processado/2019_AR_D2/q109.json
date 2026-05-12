@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 109\t\nO espectrômetro de massa de tempo de voo é \num dispositivo utilizado para medir a massa de íons. \nNele, um íon de carga elétrica q é lançado em uma região \nde campo magnético constante B, descrevendo uma \ntrajetória helicoidal, conforme a figura. Essa trajetória \né formada pela composição de um movimento circular \nuniforme no plano yz e uma translação ao longo do eixo x. \nA vantagem desse dispositivo é que a velocidade angular \ndo movimento helicoidal do íon é independente de sua \nvelocidade inicial. O dispositivo então mede o tempo t de \nvoo para N voltas do íon. Logo, com base nos valores \nq, B, N e t, pode-se determinar a massa do íon.\ny\nz\nx\nB\nA massa do íon medida por esse dispositivo será\nA\nqBt\nN\n2\u001f\nB\nqBt\nN\n\u001f\nC\n2qBt\nN\n\u001f\nD\nqBt\nN\nE\n2qBt\nN",
+  "processado_em": "2026-05-11T23:27:33.572147",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

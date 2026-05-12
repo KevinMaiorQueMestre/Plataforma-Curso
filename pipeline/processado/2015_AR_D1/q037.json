@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q037",
+  "imagem": "q037.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 37,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 37\t\nNo início foram as cidades. O intelectual da Idade \ndesenvolvimento urbano ligado às funções comercial e i\napareceu, como um desses homens de ofício que se instala\nUm homem cujo ofício é escrever ou ensinar, e de prefe\nprofissionalmente, tem uma atividade de professor e erudit\ncom as cidades.\nO surgimento da categoria mencionada no período em des\nA\t apoio dado pela Igreja ao trabalho abstrato.\nB\t relação entre desenvolvimento urbano e divisão do tra\nC\t importância organizacional das corporações de ofício.\nD\t progressiva expansão da educação escolar.\nE\t acúmulo de trabalho dos professores e eruditos.",
+  "processado_em": "2026-05-08T14:00:45.694755",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

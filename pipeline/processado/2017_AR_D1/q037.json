@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q037",
+  "imagem": "q037.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 37,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 37\t\nERNESTO NETO. Dengo. 2010. MAM-SP, 2010.\nDisponível em: http://espacohumus.com. Acesso em: 25 abr. 2017.\nA instalação Dengo transformou a sala do MAM-SP \nem um ambiente singular, explorando como principal \ncaracterística artística a\nA\t \tparticipação do público na interação lúdica com a obra.\nB\t \tdistribuição de obstáculos no espaço da exposição.\nC\t \trepresentação simbólica de objetos oníricos.\nD\t \tinterpretação subjetiva da lei da gravidade.\nE valorização de técnicas de artesanato.",
+  "processado_em": "2026-05-11T23:25:39.414995",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

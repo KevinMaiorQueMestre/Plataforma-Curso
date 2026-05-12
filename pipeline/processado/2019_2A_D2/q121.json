@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 121\t\nA principal explicação para a grande variedade \nde espécies na Amazônia é a teoria do refúgio. \nNos últimos 100 000 anos, o planeta sofreu vários \nperíodos de glaciação, em que as florestas enfrentaram \nfases de seca. Dessa forma, as matas expandiram-se e \ndepois reduziram-se. Nos períodos de seca prolongados, \ncada núcleo de floresta ficava isolado do outro. Então, \nos grupos de animais dessas áreas isoladas passaram \npor processos de diferenciação genética, muitas vezes \nse transformando em espécies ou subespécies diferentes \ndas originais e das que ficaram em outros refúgios.\nDisponível em: http://ambientes.ambientebrasil.com.br. \nAcesso em: 22 abr. 2015.\nO principal processo evolutivo relacionado ao texto é a\nA\t anagênese.\nB\t coevolução.\nC\t evolução alopátrica.\nD\t evolução simpátrica.\nE\t convergência adaptativa.",
+  "processado_em": "2026-05-11T23:27:10.025098",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

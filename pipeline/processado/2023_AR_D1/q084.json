@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 84\t\nA partir da década de 1930, começam a ser discutidos \nno Brasil os princípios de racionalização do trabalho. \nAs preocupações com a cozinha e o trabalho doméstico \nforam introduzidas com a medicina sanitária e a oferta \nde gás e eletricidade para uso doméstico no início do \nséculo XX. A organização da cozinha visava atingir \numa simplificação das tarefas, com a economia de \nmovimentos, e o barateamento dos equipamentos, a \npartir da produção em grande escala. A padronização e \nracionalização da habitação e seus componentes visava \numa radical transformação da casa, em especial da \ncozinha, e apoiava-se tanto no desenvolvimento de novos \nequipamentos quanto nos estudos de racionalização \ndo trabalho doméstico. A principal preocupação era \no desenvolvimento de um novo tipo de habitação, que \ndeveria induzir um novo comportamento social.\nSILVA, J. L. M. Transformações no espaço doméstico: o fogão a gás e a cozinha \npaulistana, 1870-1930. Anais do Museu Paulista, n. 2, jul.-dez. 2007 (adaptado).\nNo contexto descrito, as mudanças mencionadas \nproporcionavam às mulheres o(a)\nA\t\nA\t controle do orçamento familiar.\nB\t\nB\t libertação das tradições religiosas.\nC\t\nC\t exercício da representatividade política.\nD\t\nD\t ampliação dos momentos de socialização.\nE\t\nE\t afastamento das atividades especializadas.",
+  "processado_em": "2026-05-08T14:05:39.625129",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

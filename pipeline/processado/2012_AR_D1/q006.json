@@ -1,0 +1,28 @@
+{
+  "questao_id": "2012_AR_D1_q006",
+  "imagem": "q006.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 6,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 06\t\nNós nos recusamos a acreditar que o banco da \njustiça é falível. Nós nos recusamos a acreditar que há \ncapitais insuficientes de oportunidade nesta nação. Assim \nnós viemos trocar este cheque, um cheque que nos \ndará o direito de reclamar as riquezas de liberdade e a \nsegurança da justiça.\nKING Jr., M. L. Eu tenho um sonho, 28 ago. 1963. \nDisponível em: www.palmares.gov.br. Acesso em: 30 nov. 2011 (adaptado).\nO cenário vivenciado pela população negra, no sul dos \nEstados Unidos nos anos 1950, conduziu à mobilização \nsocial. Nessa época, surgiram reivindicações que tinham \ncomo expoente Martin Luther King e objetivavam\nA\t a conquista de direitos civis para a população negra.\nB\t o apoio aos atos violentos patrocinados pelos negros \nem espaço urbano.\nC\t a supremacia das instituições religiosas em meio à \ncomunidade negra sulista.\nD\t a incorporação dos negros no mercado de trabalho.\nE\t a aceitação da cultura negra como representante do \nmodo de vida americano.",
+  "processado_em": "2026-05-11T23:37:35.919064",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

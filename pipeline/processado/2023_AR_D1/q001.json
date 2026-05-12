@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q001",
+  "imagem": "q001.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 1,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 01\t\nThe average american tosses 300 pounds of food\neach year, making food the number one contributor to \nAmerica’s landfills. Eat your leftovers and keep your \nperishables in the fridge – the Earth is counting on it.\nDisponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).\nEsse cartaz de campanha sugere que\nA\t\nA\t os lixões precisam de ampliação. \nB\t\nB\t o desperdício degrada o ambiente.\nC\t\nC\t os mercados doam alimentos perecíveis. \nD\t\nD\t a desnutrição compromete o raciocínio. \nE\t\nE\t as residências carecem de refrigeradores.\nWe carry tears in our eyes: good-bye father, good-bye\n[mother\nWe carry soil in small bags: may home never fade in our\n[hearts\nWe carry carnage of mining, droughts, floods, genocides\nWe carry dust of our families and neighbors incinerated\n[in mushroom clouds\nWe carry our islands sinking under the sea\nWe carry our hands, feet, bones, hearts and best minds \n[for a new life\nWe carry diplomas: medicine, engineer, nurse,\n[education, math, poetry, even if they mean \n[nothing to the other shore\nWe carry railroads, plantations, laundromats,\n[bodegas, taco trucks, farms, factories, nursing \n[homes, hospitals, schools, temples... built on \n[our ancestors’ backs\nWe carry old homes along the spine, new dreams in our\n[chests\nWe carry yesterday, today and tomorrow\nWe’re orphans of the wars forced upon us\nWe’re refugees of the sea rising from industrial wastes\nAnd we carry our mother tongues\n[...]\nAs we drift... in our rubber boats... from shore... to shore...",
+  "processado_em": "2026-05-11T23:29:11.753566",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 282.0
+  }
+}

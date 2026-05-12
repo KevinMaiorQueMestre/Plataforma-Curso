@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\nO salto ornamental é um esporte em que cada \ncompetidor realiza seis saltos. A nota em cada salto é \ncalculada pela soma das notas dos juízes, multiplicada \nSHOD\u0003QRWD\u0003GH\u0003SDUWLGD\u0003\u000bR\u0003JUDX\u0003GH\u0003GL¿FXOGDGH\u0003GH\u0003FDGD\u0003VDOWR\f\u0011\u0003\n)LFD\u0003HP\u0003SULPHLUR\u0003OXJDU\u0003R\u0003DWOHWD\u0003TXH\u0003REWLYHU\u0003D\u0003PDLRU\u0003VRPD\u0003\ndas seis notas recebidas.\n2\u0003 DWOHWD\u0003 \u0014\u0013\u0003 LUi\u0003 UHDOL]DU\u0003 R\u0003 ~OWLPR\u0003 VDOWR\u0003 GD\u0003 ¿QDO\u0011\u0003\nEle observa no Quadro 1, antes de executar o salto, \no recorte do quadro parcial de notas com a sua \nFODVVL¿FDomR\u0003 H\u0003 D\u0003 GRV\u0003 WUrV\u0003 SULPHLURV\u0003 OXJDUHV\u0003 DWp\u0003 DTXHOH\u0003\nmomento.\nQuadro 1\n&ODVVL¿FDomR\nAtleta\n6o Salto\nTotal\n1o\n3\n135,0\n\u001b\u0015\u001c\u000f\u0013\n\u0015o\n\u0017\n\u0014\u0017\u0013\u000f\u0013\n\u001b\u0015\u0018\u000f\u0015\n3o\n8\n\u0014\u0017\u0013\u000f\u0017\n\u001b\u0015\u0017\u000f\u0015\n6o\n10\n\u0019\u001b\u001a\u000f\u0018\nEle precisa decidir com seu treinador qual salto \ndeverá realizar. Os dados dos possíveis tipos de salto \nHVWmR\u0003QR\u00034XDGUR\u0003\u0015\u0011\nQuadro 2\nTipo\nde\nsalto\nNota\nde\npartida\nEstimativa da \nsoma das notas \ndos  juízes\nProbabilidade\nde obter a \nnota\nT1\n\u0015\u000f\u0015\n\u0018\u001a\n\u001b\u001c\u000f\u001a\u0019\b\n7\u0015\n\u0015\u000f\u0017\n58\n\u001c\u0016\u000f\u001a\u0017\b\nT3\n\u0015\u000f\u0019\n55\n\u001c\u0014\u000f\u001b\u001b\b\n7\u0017\n\u0015\u000f\u001b\n50\n\u001c\u0018\u000f\u0016\u001b\b\nT5\n3,0\n53\n\u001b\u001a\u000f\u0016\u0017\b\nO atleta optará pelo salto com a maior probabilidade \nde obter a nota estimada, de maneira que lhe permita \nalcançar o primeiro lugar.\nConsiderando essas condições, o salto que o atleta \ndeverá escolher é o de tipo\nA T1.\nB 7\u0015\u0011\nC T3.\nD 7\u0017\u0011\nE T5.",
+  "processado_em": "2026-05-11T23:26:49.910447",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

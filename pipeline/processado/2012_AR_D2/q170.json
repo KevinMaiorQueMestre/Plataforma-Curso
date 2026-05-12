@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nA tabela a seguir mostra a evolução da receita bruta \nanual nos três últimos anos de cinco microempresas (ME) \nque se encontram à venda.\nME\n2009\n(em milhares \nde reais)\n2010\n(em milhares \nde reais)\n2011\n(em milhares \nde reais)\nAlfinetes V\n200\n220\n240\nBalas W\n200\n230\n200\nChocolates X\n250\n210\n215\nPizzaria Y\n230\n230\n230\nTecelagem Z\n160\n210\n245\nUm investidor deseja comprar duas das empresas listadas \nna tabela. Para tal, ele calcula a média da receita bruta \nanual dos últimos três anos (de 2009 até 2011) e escolhe \nas duas empresas de maior média anual.\nAs empresas que este investidor escolhe comprar são\nA\t Balas W e Pizzaria Y.\nB\t Chocolates X e Tecelagem Z.\nC\t Pizzaria Y e Alfinetes V.\nD\t Pizzaria Y e Chocolates X.\nE\t Tecelagem Z e Alfinetes V.",
+  "processado_em": "2026-05-08T13:59:15.501179",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

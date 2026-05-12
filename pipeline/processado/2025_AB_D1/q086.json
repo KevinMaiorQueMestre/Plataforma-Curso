@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 86\t\nDe 1967 a 1973, a economia brasileira alcançou taxas \nmédias de crescimento muito elevadas e sem precedentes, \nque decorreram, em parte, da política econômica então \nimplementada, principalmente sob a direção do ministro da \nFazenda Antônio Delfim Neto, mas também de uma conjuntura \neconômica externa muito favorável, que somou forças para \num crescimento acelerado, acompanhado de uma inflação \ndeclinante e relativamente baixa para os padrões brasileiros, \nalém de superávits no balanço de pagamentos. Esse período \n(e por vezes de forma mais restrita os anos 1968-1973) passou \na ser conhecido como o do “milagre econômico brasileiro”, \numa terminologia anteriormente aplicada a fases de rápido \ncrescimento econômico, como ocorreu no Japão.\nLAGO, L. A. C. Milagre econômico brasileiro. Disponível em: www.fgv.br. \nAcesso em: 10 nov. 2021 (adaptado).\nQual foi o fator determinante para o crescimento econômico \napresentado no texto?\nA\tAmpliação da entrada de capital estrangeiro no país.\nB\tMelhoria na distribuição da riqueza gerada na nação.\nC\tTransferência de tecnologias de ponta para a indústria local.\nD\tAumento das taxas de juros para os empréstimos \ninternacionais.\nE\tRedução das barreiras protecionistas das potências \ndesenvolvidas",
+  "processado_em": "2026-05-08T14:06:47.721883",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

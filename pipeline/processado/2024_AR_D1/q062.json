@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 62\t\nTEXTO I\nO empirismo moderno foi, em grande parte, \ncondicionado por dois dogmas. Um deles é a crença em \ncerta divisão fundamental entre verdades analíticas, ou \nfundadas em significados independentemente de questões \nde fato, e verdades sintéticas, ou fundadas em fatos. O outro \ndogma é o reducionismo: a crença de que todo enunciado \nsignificativo é equivalente a algum construto lógico sobre \ntermos que se referem à experiência imediata.\nQUINE, W. V. O. Dois dogmas do empirismo. In: RYLE, G. et al. \nEnsaios. São Paulo: Abril Cultural, 1975.\nTEXTO II\nTeses: 1. Somente os enunciados que possuem conteúdo \nfactual são teoricamente significativos; enunciados que não \npodem, em princípio, estar fundamentados pela experiência \nsão carentes de significado. 2. As ciências empíricas usam \nsomente o conteúdo empírico da realidade. 3. A filosofia usa \num conceito não empírico da realidade.\nCARNAP, R. Pseudoproblemas na filosofia. In: SCHLICK, M.; \nCARNAP, R.; POPPER, K. Coletânea de textos. \nSão Paulo: Abril Cultural, 1975.\nAo comparar os textos, conclui-se que eles apresentam \nposicionamentos filosóficos divergentes com relação ao\nA\testatuto epistemológico da linguagem.\nB\talicerce estruturante da moralidade.\nC\tconteúdo essencial da metafísica.\nD\tprincípio constitutivo da ontologia.\nE\tdomínio reflexivo da estética.",
+  "processado_em": "2026-05-08T14:06:13.289623",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

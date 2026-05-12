@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 148 \nNa bolsa de Paula, há uma cédula de R$ 2,00, duas de \nR$ 5,00, duas de R$ 10,00, uma de R$ 20,00, duas de R$ 50,00 \ne quatro moedas: uma de R$ 0,10, uma de R$ 0,25, uma de \nR$ 0,50 e uma de R$ 1,00.\nPaula deseja pagar uma despesa de R$ 10,75 e, para isso, retira \nde sua bolsa, sem olhar, uma cédula juntamente com duas moedas.\nQual é a probabilidade de Paula retirar exatamente o valor de \nsua despesa?\nA 1\n48\nB 1\n24\nC 1\n16\nD 5\n12\nE 1\n4",
+  "processado_em": "2026-05-08T14:06:37.125596",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

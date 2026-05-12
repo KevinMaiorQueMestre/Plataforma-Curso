@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q019",
+  "imagem": "q019.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 19,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 19\t\nBRANCO, A. Disponível em: www.oesquema.com.br. Acesso em: 30 jun. 2015 (adaptado).\nA internet proporcionou o surgimento de novos paradigmas sociais e impulsionou a modificação de outros já \nestabelecidos nas esferas da comunicação e da informação. A principal consequência criticada na tirinha sobre esse \nprocesso é a\nA\t criação de memes.\nB\t ampliação da blogosfera.\nC\t supremacia das ideias cibernéticas.\nD\t comercialização de pontos de vista.\nE\t banalização do comércio eletrônico.",
+  "processado_em": "2026-05-11T23:26:30.001969",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

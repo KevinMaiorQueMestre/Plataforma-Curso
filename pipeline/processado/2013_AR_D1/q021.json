@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 21\t\nUm gigante da indústria da internet, em gesto \nsimbólico, mudou o tratamento que conferia à sua \npágina palestina. O site de buscas alterou sua página \nquando acessada da Cisjordânia. Em vez de “territórios \npalestinos”, a empresa escreve agora “Palestina” logo \nabaixo do logotipo.\nBERCITO, D. Google muda tratamento de territórios palestinos. \nFolha de S. Paulo, 4 maio 2013 (adaptado).\nO gesto simbólico sinalizado pela mudança no status dos \nterritórios palestinos significa o\nA\t surgimento de um país binacional.\nB\t fortalecimento de movimentos antissemitas.\nC\t esvaziamento de assentamentos judaicos.\nD\t reconhecimento de uma autoridade jurídica.\nE\t estabelecimento de fronteiras nacionais.",
+  "processado_em": "2026-05-08T14:00:09.670654",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nUm artesão de joias tem à sua disposição pedras \nbrasileiras de três cores: vermelhas, azuis e verdes. \nEle pretende produzir joias constituídas por uma liga \nmetálica, a partir de um molde no formato de um losango \nnão quadrado com pedras nos seus vértices, de modo \nque dois vértices consecutivos tenham sempre pedras de \ncores diferentes.\nA figura ilustra uma joia, produzida por esse artesão, \ncujos vértices A, B, C e D correspondem às posições \nocupadas pelas pedras.  \nA\nB\nC\nD\nCom base nas informações fornecidas, quantas joias \ndiferentes, nesse formato, o artesão poderá obter?\nA\t 6\nB\t 12\nC\t 18\nD\t 24\nE\t 36",
+  "processado_em": "2026-05-08T14:00:23.898657",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

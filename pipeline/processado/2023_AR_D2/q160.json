@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 160\t\nAnalisando as vendas de uma empresa, o gerente \nconcluiu que o montante diário arrecadado, em milhar de real, \npoderia ser calculado pela expressão V x\nx\nx\n\u001f \u001e \u001d\n\u001c\n\u001b\n2\n4\n10\n105, \nem que os valores de x representam os dias do mês, \nvariando de 1 a 30.\nUm dos fatores para avaliar o desempenho mensal \nda empresa é verificar qual é o menor montante diário V0 \narrecadado ao longo do mês e classificar o desempenho \nconforme as categorias apresentadas a seguir, em que as \nquantidades estão expressas em milhar de real.\n•\t Ótimo: V0 ≥ 24\n•\t Bom: 20 ≤ V0 < 24\n•\t Normal: 10 ≤ V0 < 20\n•\t Ruim: 4 ≤ V0 < 10\n•\t Péssimo: V0 < 4\nNo caso analisado, qual seria a classificação do \ndesempenho da empresa?\nA\t\nA\t Ótimo.\nB\t\nB\t Bom.\nC\t\nC\t Normal.\nD\t\nD\t Ruim.\nE\t\nE\t Péssimo.",
+  "processado_em": "2026-05-08T14:05:46.475428",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

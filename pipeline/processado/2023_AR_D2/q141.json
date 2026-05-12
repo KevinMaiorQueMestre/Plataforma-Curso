@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 141\t\nO calendário maia apresenta duas contagens \nsimultâneas de anos, o chamado ano Tzolkim, composto \npor 260 dias e que determinava o calendário religioso, \ne o ano Haab, composto por 365 dias e que determinava o \ncalendário agrícola. Um historiador encontrou evidências \nde que gerações de uma mesma família governaram certa \ncomunidade maia pelo período de 20 ciclos, sendo cada \nciclo formado por 52 anos Haab.\nDisponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.\nDe acordo com as informações fornecidas, durante \nquantos anos Tzolkim aquela comunidade maia foi \ngovernada por tal família?\nA\t\nA\t 741\nB\t\nB\t 1 040\nC\t\nC\t 1 460\nD\t\nD\t 2 100\nE\t\nE\t 5 200",
+  "processado_em": "2026-05-08T14:05:45.440601",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

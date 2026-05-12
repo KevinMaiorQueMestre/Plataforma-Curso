@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q018",
+  "imagem": "q018.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 18,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 18\t\nA Justiça Eleitoral foi criada em 1932, como parte de \numa ampla reforma no processo eleitoral incentivada pela \nRevolução de 1930. Sua criação foi um grande avanço \ninstitucional, garantindo que as eleições tivessem o \naval de um órgão teoricamente imune à influência dos \nmandatários.\nTAYLOR, M. Justiça Eleitoral. In: AVRITZER, L.; ANASTASIA, F. Reforma política no Brasil. \nBelo Horizonte: UFMG, 2006 (adaptado).\nEm relação ao regime democrático no país, a instituição \nanalisada teve o seguinte papel:\nA\t Implementou o voto direto para presidente.\nB\t Combateu as fraudes sistemáticas nas apurações.\nC\t Alterou as regras para as candidaturas na ditadura.\nD\t Impulsionou as denúncias de corrupção administrativa.\nE\t Expandiu a participação com o fim do critério censitário.",
+  "processado_em": "2026-05-08T14:00:43.535588",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

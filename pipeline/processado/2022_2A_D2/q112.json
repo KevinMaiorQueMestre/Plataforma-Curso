@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nEscrito em 1897, pelo britânico H. G. Wells (1866-\n1946), O homem invisível é um livro que narra a história \nde um cientista que teria desenvolvido uma forma de \ntornar todos os tecidos do seu corpo transparentes à luz, \nao fazer o índice de refração absoluto do corpo humano \ncorresponder ao do ar. Contudo, Wells não explorou no \nlivro o fato de que esse efeito comprometeria a visão de \nseu protagonista.\nNesse caso, qual seria a deficiência visual provocada?\nA\t\nA\t Miopia.\nB\t\nB\t Cegueira.\nC\t\nC\t Daltonismo.\nD\t\nD\t Astigmatismo.\nE\t\nE\t Hipermetropia.",
+  "processado_em": "2026-05-08T14:04:47.454505",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CN - 1º dia | Caderno 1 - AZUL - Página 20\nQUESTÃO 57\t\nO morcego emite pulsos de curta duração de ondas \nultrassônicas, os quais voltam na forma de ecos após \natingirem objetos no ambiente, trazendo informações a \nrespeito das suas dimensões, suas localizações e dos \nseus possíveis movimentos. Isso se dá em razão da \nsensibilidade do morcego em detectar o tempo gasto para \nos ecos voltarem, bem como das pequenas variações nas \nfrequências e nas intensidades dos pulsos ultrassônicos. \nEssas características lhe permitem caçar pequenas \npresas mesmo quando estão em movimento em relação \na si. Considere uma situação unidimensional em que uma \nmariposa se afasta, em movimento retilíneo e uniforme, \nde um morcego em repouso.\nA distância e velocidade da mariposa, na situação descrita, \nseriam detectadas pelo sistema de um morcego por quais \nalterações nas características dos pulsos ultrassônicos?\nA\t Intensidade diminuída, o tempo de retorno aumentado \ne a frequência percebida diminuída.\nB\t Intensidade aumentada, o tempo de retorno diminuído \ne a frequência percebida diminuída.\nC\t Intensidade diminuída, o tempo de retorno diminuído \ne a frequência percebida aumentada.\nD\t Intensidade diminuída, o tempo de retorno aumentado \ne a frequência percebida aumentada.\nE\t Intensidade \naumentada, \no \ntempo \nde \nretorno \naumentado e a frequência percebida aumentada.",
+  "processado_em": "2026-05-08T14:01:09.032726",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

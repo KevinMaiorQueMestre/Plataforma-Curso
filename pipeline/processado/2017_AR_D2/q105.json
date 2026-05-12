@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\t\nUma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra, \nos governos haviam se deparado com um enorme excedente de nitrato de amônio, ingrediente usado na fabricação \nde explosivos. A partir daí as fábricas de munição foram adaptadas para começar a produzir fertilizantes tendo como \ncomponente principal os nitratos.\nSOUZA, F. A. Agricultura natural/orgânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL. \nDisponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado).\nNo ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na \netapa de\nA\t nitratação.\nB\t nitrosação.\nC\t amonificação.\nD\t desnitrificação.\nE\t fixação biológica do N2.",
+  "processado_em": "2026-05-11T23:25:50.069229",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

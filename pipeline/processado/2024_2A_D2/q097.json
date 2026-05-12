@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 97\t\nO uso excessivo de embalagens plásticas ocasionou \num aumento na quantidade de resíduos plásticos \ndescartados no meio ambiente. Para minimizar o impacto \ncausado pelo acúmulo desses resíduos, pode-se empregar \nalguns procedimentos:\nI.\t\nIncineração;\nII.\t Reciclagem;\nIII.\t Acondicionamento em aterros sanitários;\nIV.\t Substituição por plásticos biodegradáveis;\nV.\t Substituição por plásticos oxibiodegradáveis.\nDo ponto de vista ambiental, o procedimento adequado \npara solucionar o problema de acúmulo desses materiais é\nA\tincinerar, pois isso reduz a quantidade de resíduos sólidos, \ne os gases liberados nesse processo não são poluentes.\nB\treciclar, pois o plástico descartado é utilizado para a \nprodução de novos objetos, e isso evita a síntese de \nmaior quantidade de matéria-prima.\nC\tutilizar plásticos biodegradáveis, uma vez que a \nmatéria-prima é de fonte renovável e a produção desses \nmateriais é simples e de baixo custo.\nD\tdispensar em aterros sanitários, já que esses locais são \ndimensionados para receber uma grande quantidade de \nresíduos e sua capacidade não se esgota rapidamente.\nE\tsubstituir por plásticos oxibiodegradáveis, visto que, \nao serem descartados, são rapidamente assimilados pelos \nmicrorganismos e não se acumulam no meio ambiente.",
+  "processado_em": "2026-05-08T14:05:59.470084",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 176\t\nEm um determinado ano, os computadores da receita federal de um país identificaram como inconsistentes \n20% das declarações de imposto de renda que lhe foram encaminhadas. Uma declaração é classificada como \ninconsistente quando apresenta algum tipo de erro ou conflito nas informações prestadas. Essas declarações \nconsideradas inconsistentes foram analisadas pelos auditores, que constataram que 25% delas eram fraudulentas. \nConstatou-se ainda que, dentre as declarações que não apresentaram inconsistências, 6,25% eram fraudulentas.\nQual é a probabilidade de, nesse ano, a declaração de um contribuinte ser considerada inconsistente, dado que \nela era fraudulenta?\nA\t 0,0500\nB\t 0,1000\nC\t 0,1125\nD\t 0,3125\nE\t 0,5000",
+  "processado_em": "2026-05-11T23:27:38.301946",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

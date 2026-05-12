@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 96\t\nLer não é decifrar, como num jogo de adivinhações, \no sentido de um texto. É, a partir do texto, ser capaz de \natribuir-lhe significado, conseguir relacioná-lo a todos os \noutros textos significativos para cada um, reconhecer \nnele o tipo de leitura que o seu autor pretendia e, dono da \nprópria vontade, entregar-se a essa leitura, ou rebelar-se \ncontra ela, propondo uma outra não prevista.\nLAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993.\nNesse texto, a autora apresenta reflexões sobre o processo \nde produção de sentidos, valendo-se da metalinguagem. \nEssa função da linguagem torna-se evidente pelo fato de \no texto\nA\t ressaltar a importância da intertextualidade.\nB\t propor leituras diferentes das previsíveis.\nC\t apresentar o ponto de vista da autora.\nD\t discorrer sobre o ato de leitura.\nE\t focar a participação do leitor.",
+  "processado_em": "2026-05-08T14:01:14.789646",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

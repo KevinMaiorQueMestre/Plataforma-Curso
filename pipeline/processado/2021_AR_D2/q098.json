@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 98\nCom o objetivo de proporcionar aroma e sabor a \ndiversos alimentos, a indústria alimentícia se utiliza de \n\b#\u0004\u0007\u000e\b\u0005\r\n\t(\u0002\u0014\u0010\u0002J\n\u0007\b2$\u0002\n\t\t\b\t\u0002\t\f!\t\r\u0005\u001e\u000e\b\t\u0002\t\u001d\u0004\u0002Z\t\r\n\u0007\n\t$\u0002\ncomo as apresentadas no quadro.\nNome\nFórmula\nAroma\nBenzoato de \nmetila\nC6H5CO2CH3\nKiwi\nAcetato de \nisoamila\nCH3CO2(CH2)2CH(CH3)2\nBanana\nAcetato de \nbenzila\nCH3CO2CH2C6H5\nPêssego\nPropanoato de \nisobutila\nCH3CH2CO2CH2CH(CH3)2\nRum\nAntranilato de \nmetila\nC6H4NH2CO2CH3\nUva\n\u0017\u0002\b\u0007\u0004\u0010\b\u0002\u000f\u0004\u0002\b#\u0004\u0007\u000e\b\u0005\r\n\u0002\u000f\n\u0007\u000e#\b\u000f\u0004\u0002\u000f\u0004\u0002?\u001e\u000e\u000f\u0004\u0002\n\r\b\u0005\u0004\u000e\u001e\u0004\u0002\n\u0002\u000b\f\n\u0002\n\b%\u0007\n\t\n\u0005\r\b\u0002\u001e\b\u000f\n\u000e\b\u0002\u001e\b\u0007!Y\u0005\u000e\u001e\b\u0002\t\b\r\f\u0007\b\u000f\b\u0002Z\u0002\u000f\nA kiwi.\nB banana.\nC pêssego.\nD rum.\nE uva.",
+  "processado_em": "2026-05-08T14:04:28.695042",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

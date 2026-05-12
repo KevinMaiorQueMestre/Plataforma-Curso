@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 47\t\nNa década de 1940, na Região Centro-Oeste, \nprodutores rurais, cujos bois, porcos, aves e cabras \nestavam morrendo por uma peste desconhecida, fizeram \numa promessa, que consistiu em não comer carne e \nderivados até que a peste fosse debelada. Assim, durante \ntrês meses, arroz, feijão, verduras e legumes formaram o \nprato principal desses produtores. \nO Hoje, 15 out. 2011 (adaptado).\nPara suprir o déficit nutricional a que os produtores rurais \nse submeteram durante o período da promessa, foi \nimportante eles terem consumido alimentos ricos em\nA\t vitaminas A e E.\nB\t frutose e sacarose.\nC\t aminoácidos naturais.\nD\t aminoácidos essenciais.\nE\t ácidos graxos saturados.",
+  "processado_em": "2026-05-08T14:00:30.119266",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

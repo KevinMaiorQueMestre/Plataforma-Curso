@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 09\t\nO trecho dessa crônica que reproduz uma marca linguística reco\nA\t“Eu o chamo de ‘velho pai’”. (l. 1)\nB\t“e te escrevi pra não esquecer”. (l. 11)\nC\t“a razão de ele e tantos outros estarmos desmemoriados”. (l.\nD\t“uma proposta bem razoável para minorá-lo”. (l. 20-21)\nE\t“assistir a todas as séries, ler todos os livros”. (l. 23-24)",
+  "processado_em": "2026-05-08T14:06:42.034830",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

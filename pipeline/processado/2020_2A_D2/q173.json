@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 173          \nUm vidraceiro precisa construir tampos de vidro com \nPara isso, pede a um amigo que o ajude a determinar um\ncircular com área equivalente à de um tampo de vidro qua\nR\nA fórmula correta é\nA R\nL\nB R\nL\n2\nC R\nL2\n2\nD R\nL\n2\nE R\nL\n2",
+  "processado_em": "2026-05-08T14:03:40.076071",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

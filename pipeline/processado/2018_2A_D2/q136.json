@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\t\nDe acordo com a Organização Mundial da Saúde \n(OMS), o limite de ruído suportável para o ouvido humano \né de 65 decibéis. Ruídos com intensidade superior a este \nvalor começam a incomodar e causar danos ao ouvido. \nEm razão disto, toda vez que os ruídos oriundos do \nprocesso de fabricação de peças em uma fábrica \nultrapassam este valor, é disparado um alarme sonoro, \nindicando que os funcionários devem colocar proteção \nnos ouvidos. O gráfico fornece a intensidade sonora \nregistrada no último turno de trabalho dessa fábrica. Nele, \na variável t indica o tempo (medido em hora), e I indica a \nintensidade sonora (medida em decibel).\n95\nI (decibel)\n65\nt1\nt3\nt4\nt5\nt6\nt7\nt (hora)\nt2\nDisponível em: www.crmariocovas.sp.gov.br. Acesso em: 24 abr. 2015 (adaptado).\nDe acordo com o gráfico, quantas vezes foi necessário \ncolocar a proteção de ouvidos no último turno de trabalho?\nA\t 7\nB\t 6\nC\t 4\nD\t 3\nE\t 2",
+  "processado_em": "2026-05-11T23:26:22.666540",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\t\nO timol é encontrado em óleos essenciais de ervas \naromáticas, como o tomilho e o orégano. Apesar de \npouco solúvel em água, o timol é solúvel em uma solução \nde hidróxido de sódio.\nOH\nTimol\nA dissolução desse composto em uma solução de \nhidróxido de sódio se deve ao(à) \nA\t\nA\t formação de um sal orgânico.\nB\t\nB\t ataque dos íons hidróxido ao anel aromático.\nC\t\nC\t complexação dos elétrons pi do anel aromático com \no íon sódio.\nD\t\nD\t formação de ligações de hidrogênio entre a hidroxila \nfenólica do timol e os íons hidróxido.\nE\t\nE\t aumento da polaridade do solvente mediante a \ndissolução do hidróxido de sódio na água.",
+  "processado_em": "2026-05-08T14:04:47.358932",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

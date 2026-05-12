@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q133",
+  "imagem": "q133.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 133,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 133\t\nLavar a seco significa lavar por meio de fluido ou \nsolvente não aquoso, isto é, trata-se de um processo que \nlimpa sem utilizar a água. Dessa forma, apesar de o nome \nser lavagem a seco, o processo deixa o que está sendo \nlavado molhado pelo solvente utilizado, o qual poderá ser \nfacilmente evaporado ao final do processo. Entre 1850 \ne 1940, foram empregados na lavagem a seco alguns \nhidrocarbonetos e organoclorados líquidos, como os que \nestão representados a seguir, entre os quais apenas um \nse mostrou seguro por não ser inflamável, em função \nda sua menor quantidade de ligações C―H.\nCanfeno\nBenzeno\nTricloroetileno\nCl\nCl\nCl\nHexano\nIso-octano\nBORGES, L. D.; MACHADO, P. F. L. Lavagem a seco. \nQuímica Nova na Escola, n. 1, fev. 2013 (adaptado).\nPela análise das estruturas químicas, o solvente que se \nmostrou seguro é o\nA\t\nA\t hexano.\nB\t\nB\t canfeno.\nC\t\nC\t benzeno.\nD\t\nD\t iso-octano.\nE\t\nE\t tricloroetileno.",
+  "processado_em": "2026-05-08T14:05:26.437198",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

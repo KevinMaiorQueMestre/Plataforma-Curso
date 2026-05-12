@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nO que ocorreu na Bahia de 1798, ao contrário das \noutras situações de contestação política na América \nportuguesa, é que o projeto que lhe era subjacente \nnão tocou somente na condição, ou no instrumento, da \nintegração subordinada das colônias no império luso. \nDessa feita, ao contrário do que se deu nas Minas Gerais \n(1789), a sedição avançou sobre a sua decorrência.\nJANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem incompleta: \na experiência brasileira (1500-2000). São Paulo: Senac, 2000.\nA diferença entre as sedições abordadas no texto \nencontrava-se na pretensão de\nA\t eliminar a hierarquia militar.\nB\t abolir a escravidão africana. \nC\t anular o domínio metropolitano.\nD\t suprimir a propriedade fundiária.\nE\t extinguir o absolutismo monárquico.",
+  "processado_em": "2026-05-08T14:01:02.867780",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

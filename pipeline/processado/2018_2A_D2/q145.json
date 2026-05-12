@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 145\t\nUma pessoa possui um terreno em forma de um \npentágono, como ilustrado na figura.\nA\nE\nB\nC\nD\nSabe-se que a diagonal AD mede 50 m e é paralela \nao lado BC, que mede 29 m. A distância do ponto B a AD \né de 8 m e a distância do ponto E a AD é de 20 m.\nA área, em metro quadrado, deste terreno é igual a\nA\t 658.\nB\t 700.\nC\t 816.\nD\t 1 132.\nE\t 1 632.",
+  "processado_em": "2026-05-11T23:26:23.017957",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

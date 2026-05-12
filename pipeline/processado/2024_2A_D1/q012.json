@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q012",
+  "imagem": "q012.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 12,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 12\t\nA partir de 1980, as academias de ginástica, com \nas suas diferentes modalidades de exercícios e a visão \nda aptidão física, passam a ser amplamente divulgadas \nno Brasil como essenciais à saúde, numa perspectiva \nmédica, individual e de consumo, sem se questionar a \nrelação dominante entre elas. Entretanto, essa análise \ncarece de um olhar ampliado. O modelo de valorização da \natividade física como fator de promoção da saúde (em sua \nperspectiva do controle de riscos), provocando o melhor \najuste do ser humano à sociedade capitalista por meio de \numa boa aptidão física, é limitado. As reflexões em busca das \npráticas do movimento humano voltadas à saúde, em sentido \ncomplexo e multidimensional, tal como exigem os desafios \ncontemporâneos, precisam considerar a natureza abrangente \nde relações entre a educação, o trabalho, o lazer e as práticas \ncorporais, voltados para a melhoria das condições de vida \npara a saúde da população em sua totalidade.\nNOGUEIRA, J. A. D. ; BOSI, M. L. M. Saúde Coletiva e \nEducação Física: distanciamentos e interfaces. \nCiência & Saúde Coletiva, v. 22, 2017 (adaptado).\nNa sociedade atual, a relação entre o exercício físico e a \nsaúde resulta no(a)\nA\tentendimento vinculado à prevenção de doenças.\nB\tassimilação do estilo de vida ativo adaptado ao \ncapitalismo.\nC\tpercepção da causalidade atribuída à melhoria da \naptidão física.\nD\tcompreensão sobre a importância das academias e \nsuas inovações.\nE\treflexão sobre os múltiplos fatores necessários para \ncondições sociais mais justas",
+  "processado_em": "2026-05-08T14:05:52.053533",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

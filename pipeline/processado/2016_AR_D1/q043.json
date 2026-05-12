@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 43\t\nUma scena franco-brazileira: “franco” — pelo local e os \npersonagens, o local que é Paris e os personagens que \nsão pessôas do povo da grande capital; “brazileira” pelo \nque ahi se está bebendo: café do Brazil. O Lettreiro diz \na verdade apregoando que esse é o melhor de todos os \ncafés. (Essa página foi desenhada especialmente para \nA Illustração Brazileira pelo Sr. Tofani, desenhista do \nJe Sais Tout.)\nA Illustração Brazileira, n. 2, 15 jun. 1909 (adaptado).\nA página do periódico do início do século XX documenta \num importante elemento da cultura francesa, que é \nrevelador do papel do Brasil na economia mundial, \nindicado no seguinte aspecto:\nA\t Prestador de serviços gerais.\nB\t Exportador de bens industriais.\nC\t Importador de padrões estéticos.\nD\t Fornecedor de produtos agrícolas.\nE\t Formador de padrões de consumo.",
+  "processado_em": "2026-05-08T14:01:07.370555",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "questao_id": "2014_AR_D1_q002",
+  "imagem": "q002.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 2,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 02\t\nSou uma pobre e velha mulher,\nMuito ignorante, que nem sabe ler.\nMostraram-me na igreja da minha terra\nUm Paraíso com harpas pintado\nE o Inferno onde fervem almas danadas,\nUm enche-me de júbilo, o outro me aterra.\nVILLON, F. In: GOMBRICH, E. História da arte. Lisboa: LTC, 1999.\nOs versos do poeta francês François Villon fazem referência às imagens presentes nos templos católicos medievais. \nNesse contexto, as imagens eram usadas com o objetivo de\nA\t refinar o gosto dos cristãos.\nB\t incorporar ideais heréticos.\nC\t educar os fiéis através do olhar.\nD\t divulgar a genialidade dos artistas católicos.\nE\t valorizar esteticamente os templos religiosos.",
+  "processado_em": "2026-05-11T23:36:59.247129",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 08\t\nMeu caro Sherlock Holmes, algo horrível aconteceu \nàs três da manhã no Jardim Lauriston. Nosso homem \nque estava na vigia viu uma luz às duas da manhã \nsaindo de uma casa vazia. Quando se aproximou, \nencontrou a porta aberta e, na sala da frente, o corpo \nde um cavalheiro bem vestido. Os cartões que estavam \nem seu bolso tinham o nome de Enoch J. Drebber, \nCleveland, Ohio, EUA. Não houve assalto e nosso \nhomem não conseguiu encontrar algo que indicasse \ncomo ele morreu. Não havia marcas de sangue, nem \nferidas nele. Não sabemos como ele entrou na casa \nvazia. Na verdade, todo assunto é um quebra-cabeça \nsem fim. Se puder vir até a casa seria ótimo, se não, \neu lhe conto os detalhes e gostaria muito de saber sua \nopinião. Atenciosamente, Tobias Gregson.\nDOYLE, A. C. Um estudo em vermelho. Cotia: Pé de Letra, 2017.\nConsiderando o objetivo da carta de Tobias Gregson, \na sequência de enunciados negativos presente nesse \ntexto tem a função de\nA\t restringir \na \ninvestigação, \ndeixando-a \nsob \na \nresponsabilidade do autor da carta.\nB\t refutar possíveis causas da morte do cavalheiro, \nauxiliando na investigação.\nC\t identificar o local da cena do crime, localizando-o no \nJardim Lauriston.\nD\t introduzir o destinatário da carta, caracterizando sua \npersonalidade.\nE\t apresentar o vigia, incluindo-o entre os suspeitos do \nassassinato.",
+  "processado_em": "2026-05-11T23:27:18.790116",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

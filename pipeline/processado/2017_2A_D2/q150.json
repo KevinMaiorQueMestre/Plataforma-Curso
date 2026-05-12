@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\n'XDV\u0003DPLJDV\u0003LUmR\u0003ID]HU\u0003XP\u0003FXUVR\u0003QR\u0003H[WHULRU\u0003GXUDQWH\u0003\n\u0019\u0013\u0003GLDV\u0003H\u0003XVDUmR\u0003D\u0003PHVPD\u0003PDUFD\u0003GH\u0003[DPSX\u0011\u00038PD\u0003GHODV\u0003\ngasta um frasco desse xampu em 10 dias enquanto que \na outra leva 20 dias para gastar um frasco com o mesmo \nvolume. Elas combinam de usar, conjuntamente, cada \nfrasco de xampu que levarem.\n2\u0003Q~PHUR\u0003PtQLPR\u0003GH\u0003IUDVFRV\u0003GH\u0003[DPSX\u0003TXH\u0003GHYHUmR\u0003OHYDU\u0003\nnessa viagem é\nA 2.\nB 4.\nC 6.\nD 8.\nE 9.",
+  "processado_em": "2026-05-11T23:25:30.368265",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

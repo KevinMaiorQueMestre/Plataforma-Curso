@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 172          \nPara um docente estrangeiro trabalhar no Brasil, ele\nEducação. Num determinado ano, somente para estrange\nPaulo e Rio de Janeiro, foram validados os diplomas de 4\ndistribuição desses docentes estrangeiros, por países de o\nArgentina\nEspanha\nCuba\nSão Paulo\n112\n60\n28\nRio de Janeiro\n29\n40\n46\nTotal\n141\n100\n74\nA probabilidade de se escolher, aleatoriamente, um do\nuniversidade do estado de São Paulo é\nA \n60\n402\nB 60\n239\nC 60\n100\nD \n100\n239\nE 279\n402",
+  "processado_em": "2026-05-08T14:03:40.029696",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\n&RQVLGHUH\u000f\u0003HP\u0003XP\u0003IUDJPHQWR\u0003DPELHQWDO\u000f\u0003XPD\u0003iUYRUH\u0003PDWUL]\u0003FRP\u0003IUXWRV\u0003\u000b0\f\u0003H\u0003RXWUDV\u0003FLQFR\u0003TXH\u0003SURGX]LUDP\u0003ÀRUHV\u0003\nH\u0003VmR\u0003DSHQDV\u0003GRDGRUDV\u0003GH\u0003SyOHQ\u0003\u000b'3\u0014\u000f\u0003'3\u0015\u000f\u0003'3\u0016\u000f\u0003'3\u0017\u0003H\u0003'3\u0018\f\u0011\u0003)RL\u0003H[FOXtGD\u0003D\u0003FDSDFLGDGH\u0003GH\u0003DXWRSROLQL]DomR\u0003GDV\u0003\nárvores. Os genótipos da matriz, da semente (S1) e das prováveis fontes de pólen foram obtidos pela análise de dois \nORFRV\u0003\u000bORFR\u0003$\u0003H\u0003ORFR\u0003%\f\u0003GH\u0003PDUFDGRUHV\u0003GH\u0003'1$\u000f\u0003FRQIRUPH\u0003D\u0003¿JXUD\u0011\nEsquema\ndo Gel 1\nM\nS1\nDP1\n'3\u0015\nDP3\n'3\u0017\nDP5\nalelo 1\nloco A\nDOHOR\u0003\u0015\nalelo 3\nDOHOR\u0003\u0017\nEsquema\nGR\u0003*HO\u0003\u0015\nM\nS1\nDP1\n'3\u0015\nDP3\n'3\u0017\nDP5\nalelo 1\nloco B\nDOHOR\u0003\u0015\nalelo 3\nDOHOR\u0003\u0017\nalelo 5\n&2//(9$77,\u000f\u00035\u0011\u0003*\u0011\u001e\u00037(//(6\u000f\u00030\u0011\u00033\u0011\u001e\u000362$5(6\u000f\u00037\u0011\u00031\u0011\u0003'LVSHUVmR\u0003GR\u0003SyOHQ\u0003HQWUH\u0003SHTXL]HLURV\u001d\u0003XPD\u0003DWLYLGDGH\u0003SDUD\u0003D\u0003JHQpWLFD\u0003GR\u0003HQVLQR\u0003VXSHULRU\u0011\u0003Genética na Escola\u000f\u0003Q\u0011\u0003\u0014\u000f\u0003\u0015\u0013\u0014\u0016\u0003\u000bDGDSWDGR\f\u0011\nA progênie S1 recebeu o pólen de qual doadora?\nA DP1\nB '3\u0015\nC DP3\nD '3\u0017\nE DP5",
+  "processado_em": "2026-05-11T23:26:47.663107",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

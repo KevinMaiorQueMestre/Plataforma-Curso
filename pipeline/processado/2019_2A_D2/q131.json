@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 131\t\nNos municípios onde foi detectada a resistência do \nAedes aegypti, o larvicida tradicional será substituído \npor outro com concentração de 10% (v/v) de um novo \nprincípio ativo. A vantagem desse segundo larvicida é \nque uma pequena quantidade da emulsão apresenta \nalta capacidade de atuação, o que permitirá a condução \nde baixo volume de larvicida pelo agente de combate às \nendemias. Para evitar erros de manipulação, esse novo \nlarvicida será fornecido em frascos plásticos e, para uso \nem campo, todo o seu conteúdo deve ser diluído em água \naté o volume final de um litro. O objetivo é obter uma \nconcentração final de 2% em volume do princípio ativo.\nQue volume de larvicida deve conter o frasco plástico?\nA\t 10 mL\nB\t 50 mL\nC\t 100 mL\nD\t 200 mL\nE\t 500 mL",
+  "processado_em": "2026-05-11T23:27:10.464719",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

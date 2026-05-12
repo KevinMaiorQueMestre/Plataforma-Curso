@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 129 \nComo funcionam os relógios de quartzo\nNa grande maioria dos relógios produzidos atualmente, \na contagem do tempo é medida pelas vibrações de um \nminúsculo cristal de quartzo. Esse cristal gera pulsos elétricos \nquando submetido a uma pressão mecânica e vibra quando \natravessado por uma corrente elétrica. Essa propriedade \nsingular, chamada de piezoeletricidade, possibilita que a \nvibração seja captada por eletrodos (condutores metálicos \nde eletricidade). O cristal instalado em determinado modelo \nde relógio vibra exatas 32 768 vezes por segundo. Esses pulsos \nsão interpretados por um circuito eletrônico para formar os \nnúmeros do mostrador digital.\nDisponível em: https://super.abril.com.br/mundo-estranho. \nAcesso em: 3 dez. 2021 (adaptado).\nA propriedade que possibilitou o desenvolvimento desses \nrelógios também está associada ao funcionamento de um(a)\nA bateria de telefone celular.\nB forno de micro-ondas.\nC lâmpada de LED.\nD microfone.\nE ventilador.",
+  "processado_em": "2026-05-08T14:06:36.238581",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 123\t\nAs algas são uma opção sustentável na produção \nde biocombustível, pois possuem estrutura simples e se \nreproduzem mais rapidamente que os vegetais, além da \ngrande capacidade de absorverem dióxido de carbono. \nEsses organismos não são constituídos por tecidos \nheterogêneos, entretanto, assim como os vegetais, \npossuem parede celular.\nAlgas podem substituir metade do petróleo e inaugurar \nquímica verde (Agência Fapesp, 16/08/2010). \nDisponível em: www.inovacaotecnologica.com.br. \nAcesso em: 1 ago. 2012 (adaptado).\nPara obtenção de biocombustível a partir de algas e \nvegetais, é necessário utilizar no processo a enzima\nA\t amilase.\nB\t maltase.\nC\t celulase.\nD\t fosfatase.\nE\t quitinase.",
+  "processado_em": "2026-05-11T23:27:10.127324",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

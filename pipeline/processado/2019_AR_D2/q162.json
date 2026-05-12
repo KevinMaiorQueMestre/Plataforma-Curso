@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 162\t\nComum em lançamentos de empreendimentos \nimobiliários, as maquetes de condomínios funcionam \ncomo uma ótima ferramenta de marketing para as \nconstrutoras, pois, além de encantar clientes, auxiliam \nde maneira significativa os corretores na negociação e \nvenda de imóveis.\nUm condomínio está sendo lançado em um novo \nbairro de uma cidade. Na maquete projetada pela \nconstrutora, em escala de 1 : 200, existe um reservatório \nde água com capacidade de 45 cm3.\nQuando todas as famílias estiverem residindo \nno condomínio, a estimativa é que, por dia, sejam \nconsumidos 30 000 litros de água.\nEm uma eventual falta de água, o reservatório cheio \nserá suficiente para abastecer o condomínio por \nquantos dias?\nA\t 30\nB\t 15\nC\t 12\nD\t 6\nE\t 3",
+  "processado_em": "2026-05-11T23:27:37.508665",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

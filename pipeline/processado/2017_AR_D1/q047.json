@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 47\t\nApós a Declaração Universal dos Direitos Humanos \npela ONU, em 1948, a Unesco publicou estudos de \ncientistas de todo o mundo que desqualificaram as \ndoutrinas racistas e demonstraram a unidade do gênero \nhumano. Desde então, a maioria dos próprios cientistas \neuropeus passou a reconhecer o caráter discriminatório \nda pretensa superioridade racial do homem branco e a \ncondenar as aberrações cometidas em seu nome.\nSILVEIRA, R. Os selvagens e a massa: papel do racismo científico na montagem da \nhegemonia ocidental. Afro-Ásia, n. 23, 1999 (adaptado).\nA posição assumida pela Unesco, a partir de 1948, foi \nmotivada por acontecimentos então recentes, dentre os \nquais se destacava o(a)\nA\t \tataque feito pelos japoneses à base militar americana \nde Pearl Harbor.  \nB\t \tdesencadeamento da Guerra Fria e de novas \nrivalidades entre nações.\nC\t \tmorte de milhões de soldados nos combates da \nSegunda Guerra Mundial. \nD\t \texecução de judeus e eslavos presos em guetos e \ncampos de concentração nazistas.\nE\t \tlançamento de bombas atômicas em Hiroshima e \nNagasaki pelas forças norte-americanas.",
+  "processado_em": "2026-05-11T23:25:40.540136",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

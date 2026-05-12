@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 97\t\nAs centrífugas são equipamentos utilizados em \nlaboratórios, clínicas e indústrias. Seu funcionamento faz \nuso da aceleração centrífuga obtida pela rotação de um \nrecipiente e que serve para a separação de sólidos em \nsuspensão em líquidos ou de líquidos misturados entre si.\nRODITI, I. Dicionário Houaiss de física. Rio de Janeiro: Objetiva, 2005 (adaptado).\nNesse aparelho, a separação das substâncias ocorre \nem função\nA\t das diferentes densidades.\nB\t dos diferentes raios de rotação.\nC\t das diferentes velocidades angulares.\nD\t das diferentes quantidades de cada substância.\nE\t da diferente coesão molecular de cada substância.",
+  "processado_em": "2026-05-11T23:25:48.692841",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

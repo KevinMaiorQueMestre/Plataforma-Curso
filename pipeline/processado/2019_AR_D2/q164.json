@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 164\t\nO dono de um restaurante situado às margens de \numa rodovia percebeu que, ao colocar uma placa de \npropaganda de seu restaurante ao longo da rodovia, as \nvendas aumentaram. Pesquisou junto aos seus clientes \ne concluiu que a probabilidade de um motorista perceber \numa placa de anúncio é 1\n2\n. Com isso, após autorização \ndo órgão competente, decidiu instalar novas placas com \nanúncios de seu restaurante ao longo dessa rodovia, de \nmaneira que a probabilidade de um motorista perceber \npelo menos uma das placas instaladas fosse superior \na 99\n100\n.\nA quantidade mínima de novas placas de propaganda a \nserem instaladas é\nA\t 99.\nB\t 51.\nC\t 50.\nD\t 6.\nE\t 1.",
+  "processado_em": "2026-05-11T23:27:37.661142",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nDisponível em: www.telescopionaescola.pro.br. Acesso em: 3 abr. 2014 (adaptado).\nA partir da análise da imagem, o aparecimento da Dorsal \nMesoatlântica está associada ao(à)\nA\t separação da Pangeia a partir do período Permiano.\nB\t deslocamento de fraturas no período Triássico.\nC\t afastamento da Europa no período Jurássico.\nD\t formação do Atlântico Sul no período Cretáceo.\nE\t constituição de orogêneses no período Quaternário.",
+  "processado_em": "2026-05-08T14:00:29.417017",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

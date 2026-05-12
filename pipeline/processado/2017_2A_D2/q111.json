@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 111\n$OJXQV\u0003 SUR¿VVLRQDLV\u0003 EXUODP\u0003 D\u0003 ¿VFDOL]DomR\u0003 TXDQGR\u0003 DGLFLRQDP\u0003 TXDQWLGDGHV\u0003 FRQWURODGDV\u0003 GH\u0003 VROXomR\u0003 DTXRVD\u0003 GH\u0003\nhidróxido de sódio a tambores de leite de validade vencida. Assim que o teor de acidez, em termos de ácido lático, \nHQFRQWUD\u0010VH\u0003QD\u0003IDL[D\u0003SHUPLWLGD\u0003SHOD\u0003OHJLVODomR\u000f\u0003R\u0003OHLWH\u0003DGXOWHUDGR\u0003SDVVD\u0003D\u0003VHU\u0003FRPHUFLDOL]DGR\u0011\u0003$\u0003UHDomR\u0003HQWUH\u0003R\u0003KLGUy[LGR\u0003\nGH\u0003VyGLR\u0003H\u0003R\u0003iFLGR\u0003OiWLFR\u0003SRGH\u0003VHU\u0003UHSUHVHQWDGD\u0003SHOD\u0003HTXDomR\u0003TXtPLFD\u001d\nCH3&+\u000b2+\f&22+\u0003\u000bDT\f\u0003\u000e\u00031D2+\u0003\u000bDT\f\u0003ĺ\u0003CH3&+\u000b2+\f&221D\u0003\u000bDT\f\u0003\u000e\u0003+22\u0003\u000bO\f\n$\u0003FRQVHTXrQFLD\u0003GHVVD\u0003DGXOWHUDomR\u0003p\u0003R\u000bD\f\nA aumento do pH do leite.\nB GLOXLomR\u0003VLJQL¿FDWLYD\u0003GR\u0003OHLWH\u0011\nC SUHFLSLWDomR\u0003GR\u0003ODFWDWR\u0003GH\u0003VyGLR\u0011\nD GLPLQXLomR\u0003GD\u0003FRQFHQWUDomR\u0003GH\u0003VDLV\u0011\nE DXPHQWR\u0003GD\u0003FRQFHQWUDomR\u0003GRV\u0003tRQV\u0003++.",
+  "processado_em": "2026-05-11T23:25:27.017457",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

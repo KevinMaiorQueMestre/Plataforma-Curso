@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 150        \nA caixa-d’água de um edifício terá a forma de um \nparalelepípedo retângulo reto com volume igual a \n28 080 litros. Em uma maquete que representa o edifício, \na caixa-d’água tem dimensões 2 cm × 3,51 cm × 4 cm.\nDado: 1 dm³ = 1 L.\nA escala usada pelo arquiteto foi\nA\t 1 : 10\nB \t 1 : 100\nC\t 1 : 1 000\nD \t 1 : 10 000\nE \t 1 : 100 000",
+  "processado_em": "2026-05-11T23:28:17.991750",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

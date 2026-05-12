@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 13\t\nDisponível em: www.pedal.com.br. Acesso em: 3 jul. 2014 (adaptado).\nNo texto, o uso da linguagem verbal e não verbal atende \nà finalidade de\nA\t chamar a atenção para o respeito aos sinais de \ntrânsito.\nB\t informar os motoristas sobre a segurança dos \nusuários de ciclovias.\nC\t alertar sobre os perigos presentes nas vias urbanas \nbrasileiras.\nD\t divulgar a distância permitida entre carros e veículos \nmenores.\nE\t propor mudanças de postura por parte de motoristas \nno trânsito.",
+  "processado_em": "2026-05-11T23:26:09.327423",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

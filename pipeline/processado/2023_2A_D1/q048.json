@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Para solucionar o problema apresentado no texto, qual \nmedida governamental é necessária?\nA\t\nA\t Ampliação do número de terras devolutas. \nB\t\nB\t Proibição do extrativismo local sustentável.\nC\t\nC\t Regulação de pesquisas de origem estrangeira.\nD\t\nD\t Contenção do tráfego das embarcações fluviais.\nE\t\nE\t Fiscalização da exploração dos recursos naturais.\nQUESTÃO 48\t\nEstudiosos do Instituto de Antropologia Evolucionária \nde Leipzig, na Alemanha, colocaram um chimpanzé em \num quarto com a visão de suculentos pedaços de comida \ntrancados dentro de um armário. A um segundo chimpanzé \nera dada, então, a oportunidade de liberar a comida, \nporém, sem usufruir dela. Em aproximadamente 80% das \nvezes, eles tomaram a decisão mais caridosa e liberaram \no alimento para o outro chimpanzé.\nEstudos mostram caridade no mundo animal. Disponível em: \nhttp://revistagalileu.globo.com. Acesso em: 17 out. 2021.\nConsiderando nossa relação com outros, o experimento \nenvolvendo os chimpanzés ilustra qual tipo de \ncomportamento moral humano?\nA\t\nA\t Hedonista, anseia o prazer pessoal.\nB\t\nB\t Altruísta, promove o bem-estar imparcial.\nC\t\nC\t Retributivo, busca um retorno equivalente.\nD\t\nD\t Deontológico, cumpre uma obrigação formal.\nE\t\nE\t Meritocrático, valoriza o merecimento individual.",
+  "processado_em": "2026-05-08T14:05:19.548640",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 150 \nUm gerador emite um sinal cuja intensidade I recebida \npor um receptor é inversamente proporcional ao quadrado da \ndistância desse receptor ao gerador. O receptor 1 recebe uma \nintensidade de sinal I1 desse gerador, enquanto que o receptor 2 \nrecebe uma intensidade de sinal I2 desse mesmo gerador. \nSabe-se que a distância do receptor 2 ao gerador é o dobro \nda distância do receptor 1 ao gerador.\nAs intensidades I1 e I2 satisfazem a relação\nA I1 = 4I2\nB I1 = 2I2\nC I1 = I2\nD I1 = 1\n2\nI2\nE I1 = 1\n4\nI2",
+  "processado_em": "2026-05-08T14:06:37.227880",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

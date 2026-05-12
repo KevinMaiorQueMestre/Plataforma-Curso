@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 79\t\nLocalizada no bairro La Quebrada, de Paso del Rey, município \nde Moreno (Argentina), a Associação de Produtores Familiares \nse formou em 1998. Os membros desse grupo se organizaram \ne começaram a trabalhar com uma primeira horta para dez \nfamílias do bairro e com ferramentas obtidas por meio do Plano \nHortas Familiares, do Instituto Nacional de Tecnologia Agrária. \nLogo após, se constituíram formalmente para conseguirem mais \nrecursos dos órgãos públicos. A associação mantém relação \ncom organizações que se identificam como pertencentes a um \nterritório comum, o que lhes permite se referir a uma história \ncompartilhada.\nGHIBAUDI, J. Movimentos sociais, periferia e formas de dominação. \nDisponível em: https://journals.openedition.org. Acesso em: 16 out. 2021.\nNa configuração do movimento social descrito no texto, seus \nparticipantes apresentam a seguinte característica:\nA\tAfinidade cultural na construção de um projeto de poder \npopular.\nB\tVocação religiosa na composição de um estatuto de cunho \nhumanista.\nC\tFormação acadêmica para a criação de um programa de \nviés comunitário.\nD\tAptidão pedagógica para a redação de uma cartilha de caráter \ninformativo.\nE\tEngajamento partidário na confecção de uma proposta de \ntendência socialista.",
+  "processado_em": "2026-05-08T14:06:47.304565",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 25          \nKOSUTH J One and Three Chairs Museu Reina Sofia Espanha 1965",
+  "processado_em": "2026-05-11T23:28:00.732930",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

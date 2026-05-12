@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 69\t\nExiste uma concorrência global, forçando redefinições \nconstantes de produtos, processos, mercados e insumos \neconômicos, inclusive capital e informação.\nCASTELLS, M. A sociedade em rede. São Paulo: Paz e Terra, 2011.\nNos últimos anos do século XX, o sistema industrial \nexperimentou muitas modificações na forma de produzir, \nque implicaram transformações em diferentes campos da \nvida social e econômica. A redefinição produtiva e seu \nrespectivo impacto territorial ocorrem no uso da\nA\t técnica fordista, com treinamento em altas tecnologias \ne difusão do capital pelo território.\nB\t linha de montagem, com capacitação da mão de obra \nem países centrais e aumento das discrepâncias \nregionais.\nC\t robotização, com melhorias nas condições de trabalho \ne remuneração em empresas no Sudeste asiático.\nD\t produção just in time, com territorialização das \nindústrias em países periféricos e manutenção das \nbases de gestão nos países centrais.\nE\t fabricação em grandes lotes, com transferências \nfinanceiras de países centrais para países periféricos \ne diminuição das diferenças territoriais.",
+  "processado_em": "2026-05-11T23:26:15.590440",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

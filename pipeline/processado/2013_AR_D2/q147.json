@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nPara se construir um contrapiso, é comum, na \nconstituição do concreto, se utilizar cimento, areia e brita, \nna seguinte proporção: 1 parte de cimento, 4 partes de \nareia e 2 partes de brita. Para construir o contrapiso \nde uma garagem, uma construtora encomendou um \ncaminhão betoneira com 14 m3 de concreto.\nQual é o volume de cimento, em m3, na carga de concreto \ntrazido pela betoneira?\nA\t 1,75\nB\t 2,00\nC\t 2,33\nD\t 4,00\nE\t 8,00",
+  "processado_em": "2026-05-08T14:00:23.294607",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

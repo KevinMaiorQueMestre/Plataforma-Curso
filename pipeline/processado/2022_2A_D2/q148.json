@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nO diabetes mellitus é uma doença crônica, \ncaracterizada pelo aumento de glicose no sangue. \nO Sistema de Cadastramento e Acompanhamento de \nHipertensos e Diabéticos destina-se ao cadastramento e \nacompanhamento de portadores de hipertensão arterial \ne/ou diabetes mellitus atendidos na rede ambulatorial do \nSistema Único de Saúde. A tabela mostra o número de \npessoas portadoras de  diabetes mellitus tipo 2, a forma \nmais grave da doença, distribuídas pelas macrorregiões \nde saúde de Minas Gerais, em 2012.\nMacrorregião\nde saúde\nNúmero de portadores \nde diabetes mellitus\ntipo 2\nSul\n714\nCentro-Sul\n186\nCentro\n448\nJequitinhonha\n36\nOeste\n460\nLeste\n255\nSudeste\n110\nNorte\n45\nNoroeste\n86\nLeste do Sul\n47\nNordeste\n39\nTriângulo do Sul\n153\nTriângulo do Norte\n128\nDisponível em: http://tabnet.datasus.gov.br. Acesso em: 5 nov. 2017.\nA mediana do número de portadores de diabetes mellitus \ntipo 2 das macrorregiões de saúde de Minas Gerais é\nA\t\nA\t 110,00.\nB\t\nB\t 119,00.\nC\t\nC\t 128,00.\nD\t\nD\t 182,50.\nE\t\nE\t 208,23.",
+  "processado_em": "2026-05-08T14:04:49.551958",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

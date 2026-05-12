@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nPara analisar o desempenho de um método \ndiagnóstico, \nrealizam-se \nestudos \nem \npopulações \ncontendo pacientes sadios e doentes. Quatro situações \ndistintas podem acontecer nesse contexto de teste:\n1) \t Paciente TEM a doença e o resultado do teste é \nPOSITIVO.\n2) \t Paciente TEM a doença e o resultado do teste é \nNEGATIVO.\n3) \t Paciente NÃO TEM a doença e o resultado do \nteste é POSITIVO.\n4) \t Paciente NÃO TEM a doença e o resultado do \nteste é NEGATIVO.\nUm índice de desempenho para avaliação de um \nteste diagnóstico é a sensibilidade, definida como a \nprobabilidade de o resultado do teste ser POSITIVO se o \npaciente estiver com a doença.\nO quadro refere-se a um teste diagnóstico para \na doença A, aplicado em uma amostra composta por \nduzentos indivíduos.\nResultado do \nteste\nDoença A\nPresente\nAusente\nPositivo\n95\n15\nNegativo\n5\n85\nBENSEÑOR, I. M.; LOTUFO, P. A. Epidemiologia: abordagem prática.\nSão Paulo: Sarvier, 2011 (adaptado).\nConforme o quadro do teste proposto, a sensibilidade \ndele é de\nA\t 47,5%.\nB\t 85,0%.\nC\t 86,3%.\nD\t 94,4%.\nE\t 95,0%.",
+  "processado_em": "2026-05-08T14:00:39.871627",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

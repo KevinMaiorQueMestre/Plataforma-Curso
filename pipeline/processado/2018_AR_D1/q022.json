@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 22\t\nSILVA, I.; SANTOS, M. E. P.; JUNG, N. M. Domínios de Lingu@gem, n. 4, out.-dez. 2016 (adaptado).\nA fotografia exibe a fachada de um supermercado em \nFoz do Iguaçu, cuja localização transfronteiriça é marcada \ntanto pelo limite com Argentina e Paraguai quanto pela \npresença de outros povos. Essa fachada revela o(a)\nA\t apagamento da identidade linguística.\nB\t planejamento linguístico no espaço urbano.\nC\t presença marcante da tradição oral na cidade.\nD\t disputa de comunidades linguísticas diferentes.\nE\t poluição visual promovida pelo multilinguismo.",
+  "processado_em": "2026-05-11T23:26:31.203326",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

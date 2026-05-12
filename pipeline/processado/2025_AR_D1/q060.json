@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 60\t\nAdam Smith via o açougueiro e o padeiro não só como \nindivíduos buscando seus interesses financeiros, mas como pessoas \nmoralmente motivadas dentro de uma sociedade. A base da moral \nera a empatia e o julgamento, instaurando uma distinção entre o \nque queremos fazer e o que sentimos que devemos fazer.\nCOLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019.\nO texto defende uma motivação capitalista para o campo dos \nnegócios, na qual o lucro se mostra associado à\nA\tconsolidação do poder político.\nB\tprocura de satisfação subjetiva.\nC\testruturação do monopólio comercial.\nD\tpercepção de responsabilidade ética.\nE\tconquista do reconhecimento público.",
+  "processado_em": "2026-05-08T14:07:01.643594",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

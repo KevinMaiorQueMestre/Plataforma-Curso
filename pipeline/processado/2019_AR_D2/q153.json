@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 153\t\nO slogan “Se beber não dirija”, muito utilizado em \ncampanhas publicitárias no Brasil, chama a atenção \npara o grave problema da ingestão de bebida alcoólica \npor motoristas e suas consequências para o trânsito. \nA gravidade desse problema pode ser percebida \nobservando como o assunto é tratado pelo Código de \nTrânsito Brasileiro. Em 2013, a quantidade máxima \nde álcool permitida no sangue do condutor de um \nveículo, que já era pequena, foi reduzida, e o valor \nda multa para motoristas alcoolizados foi aumentado. \nEm consequência dessas mudanças, observou-se \nqueda no número de acidentes registrados em uma \nsuposta rodovia nos anos que se seguiram às mudanças \nimplantadas em 2013, conforme dados no quadro.\nAno\n2013 \n2014 \n2015 \nNúmero total \nde acidentes \n1 050 \n900 \n850 \nSuponha que a tendência de redução no número de \nacidentes nessa rodovia para os anos subsequentes seja \nigual à redução absoluta observada de 2014 para 2015.\nCom base na situação apresentada, o número de \nacidentes esperados nessa rodovia em 2018 foi de\nA\t 150.\nB\t 450.\nC\t 550.\nD\t 700.\nE\t 800.",
+  "processado_em": "2026-05-11T23:27:36.397203",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

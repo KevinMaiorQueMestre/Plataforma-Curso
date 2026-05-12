@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q167",
+  "imagem": "q167.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 167,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 167\t\nO índice pluviométrico é utilizado para mensurar \na precipitação da água da chuva, em milímetros, em \ndeterminado período de tempo. Seu cálculo é feito de \nacordo com o nível de água da chuva acumulada em \n1 m², ou seja, se o índice for de 10 mm, significa que a \naltura do nível de água acumulada em um tanque aberto, \nem formato de um cubo com 1 m² de área de base, é \nde 10 mm. Em uma região, após um forte temporal, \nverificou-se que a quantidade de chuva acumulada em \numa lata de formato cilíndrico, com raio 300 mm e altura \n1 200 mm, era de um terço da sua capacidade.\nUtilize 3,0 como aproximação para π.\nO índice pluviométrico da região, durante o período do \ntemporal, em milímetros, é de \nA\t 10,8.\nB\t 12,0.\nC\t 32,4.\nD\t 108,0.\nE\t 324,0.",
+  "processado_em": "2026-05-08T14:00:58.066576",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

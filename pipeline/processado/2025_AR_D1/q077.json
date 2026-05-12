@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 77\t\nCarro elétrico, uma miragem ecológica\nA mudança para a eletromobilidade de fato promove uma \nalteração no consumo de recursos naturais. Hoje, amplamente \ndependentes do petróleo, nossos modais de transporte poderiam \nse tornar cada vez mais dependentes de trinta metais raros. Gálio, \ntântalo, cobalto, platinoides, tungstênio, metais de terras-raras: uma \nmina contém apenas ínfimas quantidades desses metais dotados \nde fabulosas propriedades eletrônicas, ópticas e magnéticas.\nPITRON, G. Revolução tecnológica, transformação geopolítica. Disponível em: \n https://diplomatique.org.br. Acesso em: 10 dez. 2018.\nNo que se refere ao desenvolvimento sustentável, a charge e o \ntexto indicam uma contradição no uso da tecnologia alternativa \nderivada do seguinte aspecto:\nA\tNecessidade de fontes não renováveis.\nB\tPadronização dos modelos produtivos.\nC\tDemanda de mão de obra qualificada.\nD\tPrecariedade da legislação industrial.\nE Utilização de materiais recicláveis",
+  "processado_em": "2026-05-08T14:07:02.440053",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

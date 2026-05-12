@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 82\t\nNum país que conviveu com o trabalho escravo \ndurante quatro séculos, o trabalho doméstico é ainda \nconsiderado um subemprego. E os indivíduos que atuam \nnessa área são, muitas vezes, vistos pelos patrões como \num mal necessário: é preciso ter em casa alguém que \nlimpe o banheiro, lave a roupa, tire o pó e arrume a gaveta. \nExiste uma inegável desvalorização das atividades \ndomésticas em relação a outros tipos de trabalho.\nRANGEL, C. Domésticas: nascer, deixar, permanecer ou simplesmente estar. In: SOUZA, E. \n(Org.). Negritude, cinema e educação. Belo Horizonte: Mazza, 2011 (adaptado).\nObjeto de legislação recente, o enfrentamento do \nproblema mencionado resultou na\nA\t criação de novos ofícios.\nB\t ampliação de direitos sociais.\nC\t redução da desigualdade de gênero.\nD\t fragilização da representação sindical.\nE\t erradicação da atividade informal.",
+  "processado_em": "2026-05-11T23:26:17.039263",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

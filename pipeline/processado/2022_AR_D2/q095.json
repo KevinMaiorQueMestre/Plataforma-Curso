@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q095",
+  "imagem": "q095.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 95,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "NEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM 2022 ENEM \nQUESTÃO 95\t\nO sinal sonoro oriundo da queda de um grande bloco \nde gelo de uma geleira é detectado por dois dispositivos \nsituados em um barco, sendo que o detector A está \nimerso em água e o B, na proa da embarcação. Sabe-se \nque a velocidade do som na água é de 1 540 m\ns\n e no ar \né de 340 m\ns\n.\nA\nB\nL\nOs gráficos indicam, em tempo real, o sinal sonoro \ndetectado pelos dois dispositivos, os quais foram ligados \nsimultaneamente em um instante anterior à queda do \nbloco de gelo. Ao comparar pontos correspondentes \ndesse sinal em cada dispositivo, é possível obter \ninformações sobre a onda sonora.\nA\nSinal\nSinal\nB\nZOBEL, G. Brasileiro inventor de “luz engarrafada” tem ideia espalhada pelo mundo.\nDisponível em: www.bbc.com. Acesso em: 23 jun. 2022 (adaptado).\nQue fenômeno óptico explica o funcionamento da “luz \nengarrafada”?\nA\t\nA\t Difração.\nB\t\nB\t Absorção.\nC\t\nC\t Polarização.\nD\t\nD\t Reflexão.\nE\t\nE\t Refração.",
+  "processado_em": "2026-05-11T23:28:58.374902",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

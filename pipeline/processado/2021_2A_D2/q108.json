@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 108\n\u0019\u0010\u0002\n\t\r\f\u000f\u0004\u0002\u000f\n\u0010\u0004\u0005\t\r\u0007\u0004\f\u0002\u000b\f\n\u0002\u0004\u0002!\u000e\tP\n\u0005\u00042\u0002\u0012$\u0002\u001e\u0004\u0010%\u0004\t\r\u0004\u0002\f\t\n2\u0004\u0005J\b\u00022\u000e\t\r\b\u0002\u000f\n\u0002\u000f\u0004\n\u0005'\b\t$\u0002\u000e\u0010%\n\u000f\u000e\f\u0002\b\u0002\b'\u001d\u0004\u0002\u000f\b\t\u0002\u000f\n\t\u000e\u0004\u000f\b\t\n\t$\u0002\n\u0005\n\u0014\t\t\n\t\u0002+\u0004\u0007\u0010Z\u0005\u000e\u0004\t\u0002\t\u001d\u0004\u0002%\u0007\u0004\u000f\fY\u000e\u000f\u0004\t\u0002\u0005\b`\tk\u0002J2\u0005\u000f\f2\b`\tk\nA  paratireoides.\nB  pancreática.\nC  tireoide.\nD \u0002 +\u000e%B\u0006\t\n(\nE  adrenal.",
+  "processado_em": "2026-05-08T14:04:13.959278",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

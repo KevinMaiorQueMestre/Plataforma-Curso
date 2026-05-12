@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 81\t\nTEXTO I\nA diferença entre um e outro homem não é suficientemente \nconsiderável para que qualquer um possa com base nela \nreclamar qualquer benefício a que o outro não possa também \naspirar, tal como ele. Portanto, se dois homens desejam a mesma \ncoisa, ao mesmo tempo em que é impossível ela ser gozada por \nambos, eles tornam-se inimigos.\nHOBBES, T. Leviatã. São Paulo: Abril, 1980.\nTEXTO II\nNada é mais meigo do que o homem em seu estado \nprimitivo, quando, colocado pela natureza entre a estupidez \ndos brutos e as luzes funestas do homem civil, e compelido \ntanto pelo instinto quanto pela razão a defender-se do mal \nque o ameaça, é impedido pela piedade natural de fazer \nmal a alguém sem ser a isso levado por alguma coisa ou mesmo \ndepois de atingido por algum mal.\nROUSSEAU, J.-J. Discurso sobre a origem e os fundamentos da \ndesigualdade entre os homens. São Paulo: Abril, 1978.\nComparando-se os textos dos contratualistas, verifica-se que \neles apresentam um traço constitutivo dos homens no estado \nde natureza, caracterizado pela\nA\ttendência à autopreservação.\nB\texpressão da inocência.\nC\tcondição de igualdade.\nD\testima à propriedade.\nE\tvontade de poder.",
+  "processado_em": "2026-05-08T14:06:47.461513",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

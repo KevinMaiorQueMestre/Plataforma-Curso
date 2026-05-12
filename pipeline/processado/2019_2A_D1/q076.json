@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 76\t\nA cidade\nE a situação sempre mais ou menos, \nSempre uns com mais e outros com menos. \nA cidade não para, a cidade só cresce \nO de cima sobe e o de baixo desce.\nCHICO SCIENCE e Nação Zumbi. In: Da lama ao caos. \nRio de Janeiro: Chaos; Sony Music, 1994 (fragmento).\nA letra da canção do início dos anos 1990 destaca uma \nquestão presente nos centros urbanos brasileiros que \nse refere ao(à)\nA\t déficit de transporte público.\nB\t estagnação do setor terciário.\nC\t controle das taxas de natalidade.\nD\t elevação dos índices de criminalidade.\nE\t desigualdade da distribuição de renda.",
+  "processado_em": "2026-05-11T23:27:02.413745",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

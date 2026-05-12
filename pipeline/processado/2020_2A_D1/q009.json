@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 9          \nRazão de ser\nEscrevo. E pronto.\nEscrevo porque preciso,\npreciso porque estou tonto.\nNinguém tem nada com isso.\nEscrevo porque amanhece,\nE as estrelas lá no céu\nLembram letras no papel,\nQuando o poema me anoitece.\nA aranha tece teias.\nO peixe beija e morde o que vê.\nEu escrevo apenas.\nTem que ter por quê?\nLEMINSKI, P. Melhores poemas de Paulo Leminski. São Paulo: Global, 2013.\nAo abordar o próprio processo de criação, o poeta recorre \na exemplificações com o propósito de representar a \nescrita como uma atividade que\nA \t requer a criatividade do artista.\nB \t dispensa explicações racionais.\nC \t independe da curiosidade do leitor.\nD \t pressupõe a observação da natureza.\nE \t decorre da livre associação de imagens.",
+  "processado_em": "2026-05-08T14:03:23.679197",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

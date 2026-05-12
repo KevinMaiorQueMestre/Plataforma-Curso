@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 64 \nA designação de xisto betuminoso é dada, vulgarmente, \na certas rochas sedimentares que contêm, disseminado pela \nsua parte mineral, um composto orgânico de composição \nbastante variável que, sob a ação do calor, se decompõe em \ngás e óleo, ambos ricos em hidrocarbonetos encontrados no \npetróleo natural, permanecendo na rocha um resíduo carbonoso. \nO óleo contido no xisto betuminoso, após retirada e refino, \npode gerar gasolina, gás combustível, enxofre, entre outros. \nMesmo possuindo uma das maiores reservas mundiais de xisto \nbetuminoso, a produção de derivados de petróleo produzidos \npor meio de sua exploração, no Brasil, ainda é muito pequena.\nMESQUITA, H. C. Xisto betuminoso. Revista de Administração Pública, \nn. 4, out.-dez. 1978 (adaptado).\nAs limitações para a utilização do recurso mineral citado no texto \nderivavam da combinação entre os seguintes fatores:\nA Jazidas profundas e qualidade duvidosa.\nB Tecnologia arcaica e demanda reduzida.\nC Custos elevados e extração poluidora.\nD Quantidade escassa e mercado monopolizado.\nE Transporte oneroso e armazenamento complexo.",
+  "processado_em": "2026-05-08T14:06:29.802036",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

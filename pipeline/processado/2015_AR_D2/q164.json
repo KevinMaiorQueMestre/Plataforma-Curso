@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nPara uma alimentação saudável, recomenda-se \ningerir, em relação ao total de calorias diárias, 60% de \ncarboidratos, 10% de proteínas e 30% de gorduras. \nUma nutricionista, para melhorar a visualização dessas \nporcentagens, quer dispor esses dados em um polígono. \nEla pode fazer isso em um triângulo equilátero, um \nlosango, um pentágono regular, um hexágono regular \nou um octógono regular, desde que o polígono seja \ndividido em regiões cujas áreas sejam proporcionais \nàs porcentagens mencionadas. Ela desenhou as \nseguintes figuras:\nProteínas\nGorduras\nCarboidratos\nProteínas\nGorduras\nCarboidratos\nProteínas\nGorduras\nCarboidratos\nProteínas\nGorduras\nCarboidratos\nProteínas\nGorduras\nCarboidratos\nEntre esses polígonos, o único que satisfaz as condições \nnecessárias para representar a ingestão correta de \ndiferentes tipos de alimentos é o\nA\t triângulo.\nB\t losango.\nC\t pentágono.\nD\t hexágono.\nE\t octógono.",
+  "processado_em": "2026-05-08T14:00:57.813650",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

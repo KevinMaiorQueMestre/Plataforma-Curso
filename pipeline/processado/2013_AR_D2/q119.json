@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 119\t\nDisponível em: http://clubedamafalda.blogspot.com.br. Acesso em: 21 set. 2011.\nNessa charge, o recurso morfossintático que colabora \npara o efeito de humor está indicado pelo(a)\nA\t emprego de uma oração adversativa, que orienta a \nquebra da expectativa ao final.\nB\t uso de conjunção aditiva, que cria uma relação de \ncausa e efeito entre as ações.\nC\t retomada do substantivo \"mãe\", que desfaz a \nambiguidade dos sentidos a ele atribuídos.\nD\t utilização da forma pronominal \"la\", que reflete um \ntratamento formal do filho em relação à \"mãe\".\nE\t repetição da forma verbal \"é\", que reforça a relação \nde adição existente entre as orações.",
+  "processado_em": "2026-05-08T14:00:21.084736",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

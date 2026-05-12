@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q045",
+  "imagem": "q045.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 45,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 45\t\nTenho 44 anos e presenciei uma transformação \nimpressionante na condição de homens e mulheres \ngays nos Estados Unidos. Quando nasci, relações \nhomossexuais eram ilegais em todos os Estados Unidos, \nmenos Illinois. Gays e lésbicas não podiam trabalhar no \ngoverno federal. Não havia nenhum político abertamente \ngay. Alguns homossexuais não assumidos ocupavam \nposições de poder, mas a tendência era eles tornarem as \ncoisas ainda piores para seus semelhantes.\nROSS, A. Na máquina do tempo. Época, ed. 766, 28 jan. 2013.\nA dimensão política da transformação sugerida no texto \nteve como condição necessária a\nA\t ampliação da noção de cidadania.\nB\t reformulação de concepções religiosas.\nC\t manutenção de ideologias conservadoras.\nD\t implantação de cotas nas listas partidárias.\nE\t alteração da composição étnica da população.",
+  "processado_em": "2026-05-08T14:00:12.268820",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MT - 2º dia | Caderno 5 - AMARELO - Página 31\nQUESTÃO 180\t\nA permanência de um gerente em uma empresa está \ncondicionada à sua produção no semestre. Essa produção \né avaliada pela média do lucro mensal do semestre. Se a \nmédia for, no mínimo, de 30 mil reais, o gerente permanece \nno cargo, caso contrário, ele será despedido. O quadro \nmostra o lucro mensal, em milhares de reais, dessa \nempresa, de janeiro a maio do ano em curso.\nJaneiro\nFevereiro\nMarço\nAbril\nMaio\n21\n35\n21\n30\n38\nQual deve ser o lucro mínimo da empresa no mês de \njunho, em milhares de reais, para o gerente continuar no \ncargo no próximo semestre?\nA\t 26\nB\t 29\nC\t 30\nD\t 31\nE\t 35",
+  "processado_em": "2026-05-08T14:01:25.512357",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

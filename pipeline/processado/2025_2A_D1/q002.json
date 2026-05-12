@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q002",
+  "imagem": "q002.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 2,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 02 \nDisponível em: http://wellcometrust.wordpress.com. \nAcesso em: 18 jan. 2013 (adaptado).\nWATTERSON, B. Disponível em: www.gocomics.com. \nAcesso em: 14 maio 2024 (adaptado).\nNesses quadrinhos, Calvin menciona o fenômeno da natureza \n“hurricane” para se referir ao comportamento da mãe em reação \na seu(sua)\nA corte de cabelo.\nB postura agressiva.\nC atraso para o jantar.\nD uso do chapéu à mesa.\nE reclamação sobre a comida.",
+  "processado_em": "2026-05-11T23:29:36.203150",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 287.0
+  }
+}

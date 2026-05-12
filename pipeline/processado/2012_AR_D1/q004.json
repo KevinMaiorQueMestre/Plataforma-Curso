@@ -1,0 +1,28 @@
+{
+  "questao_id": "2012_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Disponível em: http://quadro-a-quadro.blog.br. Acesso em: 27 jan. 2012.\nCom sua entrada no universo dos gibis, o Capitão \nchegaria para apaziguar a agonia, o autoritarismo militar \ne combater a tirania. Claro que, em tempos de guerra, \num gibi de um herói com uma bandeira americana no \npeito aplicando um sopapo no Fürer só poderia ganhar \ndestaque, e o sucesso não demoraria muito a chegar.\nCOSTA, C. Capitão América, o primeiro vingador: crítica. Disponível em: www.revistastart.com.br. \nAcesso em: 27 jan. 2012 (adaptado).\nA capa da primeira edição norte-americana da revista \ndo Capitão América demonstra sua associação com a \nparticipação dos Estados Unidos na luta contra\nA\t a Tríplice Aliança, na Primeira Guerra Mundial.\nB\t os regimes totalitários, na Segunda Guerra Mundial.\nC\t o poder soviético, durante a Guerra Fria.\nD\t o movimento comunista, na Guerra do Vietnã.\nE\t o terrorismo internacional, após 11 de setembro \nde 2001.",
+  "processado_em": "2026-05-11T23:37:35.804553",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.6,
+    "multi_pagina": false,
+    "status_comp": "completa"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q012",
+  "imagem": "q012.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 12,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 12\t\nPanayiotis Zavos “quebrou” o último tabu da clonagem \nhumana — transferiu embriões para o útero de mulheres, \nque os gerariam. Esse procedimento é crime em inúmeros \npaíses. Aparentemente, o médico possuía um laboratório \nsecreto, no qual fazia seus experimentos. “Não tenho \nnenhuma dúvida de que uma criança clonada irá aparecer \nem breve. Posso não ser eu o médico que irá criá-la, mas \nvai acontecer”, declarou Zavos. “Se nos esforçarmos, \npodemos ter um bebê clonado daqui a um ano, ou dois, \nmas não sei se é o caso. Não sofremos pressão para \nentregar um bebê clonado ao mundo. Sofremos pressão \npara entregar um bebê clonado saudável ao mundo.”\nCONNOR, S. Disponível em: www.independent.co.uk. Acesso em: 14 ago. 2012 (adaptado).\nA clonagem humana é um importante assunto de \nreflexão no campo da bioética que, entre outras \nquestões, dedica-se a\nA\t refletir sobre as relações entre o conhecimento da \nvida e os valores éticos do homem.\nB\t legitimar o predomínio da espécie humana sobre as \ndemais espécies animais no planeta.\nC\t relativizar, no caso da clonagem humana, o uso dos \nvalores de certo e errado, de bem e mal.\nD\t legalizar, pelo uso das técnicas de clonagem, os \nprocessos de reprodução humana e animal.\nE\t fundamentar técnica e economicamente as pesquisas \nsobre células-tronco para uso em seres humanos.",
+  "processado_em": "2026-05-08T14:00:27.534262",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

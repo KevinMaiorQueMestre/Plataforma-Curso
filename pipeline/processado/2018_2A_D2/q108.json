@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 108\t\nAo dimensionar circuitos elétricos residenciais, é recomendado utilizar adequadamente bitolas dos fios condutores \ne disjuntores, de acordo com a intensidade de corrente elétrica demandada. Esse procedimento é recomendado \npara evitar acidentes na rede elétrica. No quadro é especificada a associação para três circuitos distintos de uma \nresidência, relacionando tensão no circuito, bitolas de fios condutores e a intensidade de corrente elétrica máxima \nsuportada pelo disjuntor.\nDimensionamento ― Circuito residencial\nIdentificação\nTensão\n(volt)\nBitola do fio\n(mm2)\nDisjuntor\nmáximo (A)\nEquipamento a \nser ligado (W)\nCircuito 1\n110\n2,5\n20\n4 200\nCircuito 2\n220\n2,5\n20\n4 200\nCircuito 3\n220\n6,0\n35\n6 600\nCom base no dimensionamento do circuito residencial, em qual(is) do(s) circuito(s) o(s) equipamento(s) é(estão) \nligado(s) adequadamente?\nA\t Apenas no Circuito 1.\nB\t Apenas no Circuito 2.\nC\t Apenas no Circuito 3.\nD\t Apenas nos Circuitos 1 e 2.\nE\t Apenas nos Circuitos 2 e 3.",
+  "processado_em": "2026-05-11T23:26:20.748594",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

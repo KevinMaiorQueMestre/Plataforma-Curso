@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 15\t\nSítio Gerimum\nEste é o meu lugar [...]\nMeu Gerimum é com g\nVocê pode ter estranhado\nGerimum em abundância\nAqui era plantado\nE com a letra g\nMeu lugar foi registrado.\nOLIVEIRA, H. D. Língua Portuguesa, n. 88, fev. 2013 (fragmento).\nNos versos de um menino de 12 anos, o emprego da \npalavra “Gerimum” grafada com a letra “g” tem por objetivo\nA\t valorizar usos informais caracterizadores da norma \nnacional.\nB\t \tconfirmar o uso da norma-padrão em contexto da \nlinguagem poética.\nC\t \tenfatizar um processo recorrente na transformação \nda língua portuguesa.\nD\t \tregistrar a diversidade étnica e linguística presente no \nterritório brasileiro.\nE\t \treafirmar discursivamente a forte relação do falante \ncom seu lugar de origem.",
+  "processado_em": "2026-05-11T23:25:36.245901",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

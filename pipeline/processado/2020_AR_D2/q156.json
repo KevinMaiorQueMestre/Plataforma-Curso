@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t 291 582.\nQuestão 156        \nA Lei de Zipf, batizada com o nome do linguista \namericano George Zipf, é uma lei empírica que \nrelaciona a frequência ( f )  de uma palavra em um \ndado texto com o seu ranking (r). Ela é dada por\nf = A\nr B\n.\nO ranking da palavra é a sua posição ao ordenar as \npalavras por ordem de frequência. Ou seja, r = 1 para a \npalavra mais frequente, r = 2 para a segunda palavra mais \nfrequente e assim sucessivamente. A e B são constantes \npositivas.\nDiponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adatpado).\nCom base nos valores de X = log (r) e Y = log ( f ) , é \npossível estimar valores para A e B.\nNo caso hipotético em que a lei é verificada exatamente, \na relação entre Y e X é\nA  Y = log A −B X  \nB  Y =\nlog A\nX + log B\n\t\n \nC  Y =\nA\nB\n−X\nlog\nD  Y =\nA\nB X\nlog\nE  Y =\nA\nX B\nlog",
+  "processado_em": "2026-05-11T23:28:19.248552",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

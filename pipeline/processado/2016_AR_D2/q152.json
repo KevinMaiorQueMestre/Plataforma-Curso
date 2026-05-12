@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nUm túnel deve ser lacrado com uma tampa de concreto. \nA seção transversal do túnel e a tampa de concreto têm \ncontornos de um arco de parábola e mesmas dimensões. \nPara determinar o custo da obra, um engenheiro deve \ncalcular a área sob o arco parabólico em questão. Usando \no eixo horizontal no nível do chão e o eixo de simetria da \nparábola como eixo vertical, obteve a seguinte equação \npara a parábola:\ny = 9 − x2, sendo x e y medidos em metros. \nSabe-se que a área sob uma parábola como esta é \nigual a 2\n3\n da área do retângulo cujas dimensões são, \nrespectivamente, iguais à base e à altura da entrada do túnel.\nQual é a área da parte frontal da tampa de concreto, em \nmetro quadrado?\nA\t 18\nB\t 20\nC\t 36\nD\t 45\nE\t 54",
+  "processado_em": "2026-05-08T14:01:22.391284",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

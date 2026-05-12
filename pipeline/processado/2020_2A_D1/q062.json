@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 62          \nGifford Pinchot, engenheiro florestal treinado na \nAlemanha, criou o movimento de conservação dos \nrecursos, apregoando o seu uso racional. Na verdade, \nPinchot agia dentro de um contexto de transformação \nda natureza em mercadoria. Na sua concepção, a \nnatureza é frequentemente lenta e os processos de \nmanejo podem torná-la eficiente; acreditava que a \nconservação deveria basear-se em três princípios: o \nuso dos recursos naturais pela geração presente, a \nprevenção de desperdício e o uso dos recursos naturais \npara benefício da maioria dos cidadãos.\nDIEGUES, A. C. S. O mito moderno da natureza intocada. São Paulo: Hucitec; Edusp, 2000.\nA atual concepção de desenvolvimento sustentável \ndiferencia-se da proposta de Gifford Pinchot, do fim do \nséculo XIX, pelo foco na\nA \t precificação das riquezas naturais.\nB \t desconstrução dos saberes tradicionais.\nC \t valorização das necessidades futuras.\nD \t contenção do crescimento econômico. \nE \t oposição dos ideais preservacionistas.",
+  "processado_em": "2026-05-08T14:03:30.857074",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

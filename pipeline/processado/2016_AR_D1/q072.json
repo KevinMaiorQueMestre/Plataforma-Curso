@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 72\t\nUma pessoa é responsável pela manutenção de uma \nsauna úmida. Todos os dias cumpre o mesmo ritual: colhe \nfolhas de capim-cidreira e algumas folhas de eucalipto. \nEm seguida, coloca as folhas na saída do vapor da sauna, \naromatizando-a, conforme representado na figura.\nParede\nSauna úmida\nGerador de vapor\nSaída do vapor\nFolhas\nQual processo de separação é responsável pela \naromatização promovida?\nA\t Filtração simples.\nB\t Destilação simples.\nC\t Extração por arraste.\nD\t Sublimação fracionada.\nE\t Decantação sólido-líquido.",
+  "processado_em": "2026-05-08T14:01:10.052427",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

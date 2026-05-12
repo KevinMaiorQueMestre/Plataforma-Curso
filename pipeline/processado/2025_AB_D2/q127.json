@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 127\t\nUm óxido é usado como inibidor do crescimento de fungos \nem pinturas e em pomadas antissépticas. Esse óxido tem a \npropriedade de manter o pH da água inalterado. No quadro, \nestão apresentados os comportamentos de alguns óxidos em \nmeio aquoso e a sua toxicidade.\nÓxido\nComportamento \ndo óxido em relação \nà água\nToxicidade do \nelemento ou íon \nligado ao oxigênio\nPbO\nNão reage\nTóxico\nCr2O3\nNão reage\nTóxico\nZnO\nNão reage\nNão tóxico\nP4O10\nReage como ácido\nNão tóxico\nMgO\nReage como base\nNão tóxico\nO óxido adequado para essas aplicações é:\nA\tPbO\nB\tCr2O3\nC\tZnO\nD\tP4O10\nE\tMgO",
+  "processado_em": "2026-05-08T14:06:51.421502",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

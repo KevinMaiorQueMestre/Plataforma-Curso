@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q112",
+  "imagem": "q112.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 112,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 112\t\nPor onde houve colonização portuguesa, a música \npopular se desenvolveu basicamente com o mesmo \ninstrumental. Podemos ver cavaquinho e violão atuarem \njuntos aqui, em Cabo Verde, em Jacarta, na Indonésia, ou \nem Goa. O caráter nostálgico, sentimental, é outro ponto \ncomum da música das colônias portuguesas em todo o \nmundo. O kronjong, a música típica de Jacarta, é uma \nespécie de lundu mais lento, tocado comumente com \nflauta, cavaquinho e violão. Em Goa não é muito diferente.\nDe acordo com o texto de Henrique Cazes, grande parte da \nmúsica popular desenvolvida nos países colonizados por \nPortugal compartilham um instrumental, destacando-se o \ncavaquinho e o violão. No Brasil, são exemplos de música \npopular que empregam esses mesmos instrumentos:\nA\t Maracatu e ciranda.\nB\t Carimbó e baião.\nC\t Choro e samba.\nD\t Chula e siriri.\nE\t Xote e frevo.",
+  "processado_em": "2026-05-08T14:00:35.999192",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

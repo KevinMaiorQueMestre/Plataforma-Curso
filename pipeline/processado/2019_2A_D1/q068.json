@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 68\t\nO conhecimento é sempre aproximado, falível e, \npor isso mesmo, suscetível de contínuas correções. \nUma justificação pode parecer boa, num certo \nmomento, até aparecer um conhecimento melhor. \nO que define a ciência não será então a ilusória \nobtenção de verdades definitivas. Ela será antes \ndefinível pela prevalência da utilização, por parte \ndos seus praticantes, de instrumentalidades que \no campo científico forjou e tornou disponíveis. \nOu \nseja, \ncada \nprogressão \nno \nconhecimento \nque mostre o caráter errôneo ou insuficiente de \nconhecimentos anteriores não remete estes últimos \npara as trevas exteriores da não ciência, mas \napenas para o estágio de conhecimentos científicos \nhistoricamente ultrapassados.\nALMEIDA, J. F. Velhos e novos aspectos da epistemologia das ciências \nsociais. Sociologia: problemas e práticas, n. 55, 2007 (adaptado).\nO texto desmistifica uma visão do senso comum \nsegundo a qual a ciência consiste no(a)\nA\t conjunto de teorias imutáveis.\nB\t consenso de áreas diferentes.\nC\t coexistência de teses antagônicas.\nD\t avanço das pesquisas interdisciplinares.\nE\t preeminência dos saberes empíricos.",
+  "processado_em": "2026-05-11T23:27:02.054609",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

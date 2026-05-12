@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 32\t\nO debate sobre o conceito de saúde refere-se à \nimportância de minimizar a simplificação que abrange o \nentendimento do senso comum sobre esse fenômeno. \nÉ possível entendê-lo de modo reducionista, tão somente, \nà luz dos pressupostos biológicos e das associações \nestatísticas presentes nos estudos epidemiológicos. \nOs problemas que daí decorrem são: a) o foco \ncentra-se na doença; b) a culpabilização do indivíduo \nfrente à sua própria doença; c) a crença na possibilidade \nde resolução do problema encerrando-se uma suposta \ncausa, a qual recai no processo de medicalização; \nd) a naturalização da doença; e) o ceticismo em relação \nà contribuição de diferentes saberes para auxiliar na",
+  "processado_em": "2026-05-11T23:26:57.494595",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

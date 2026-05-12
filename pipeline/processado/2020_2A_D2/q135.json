@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 135          \nUsando pressões extremamente altas, equivalentes \nàs encontradas nas profundezas da Terra ou em um \nplaneta gigante, cientistas criaram um novo cristal \ncapaz de armazenar quantidades enormes de energia. \nUtilizando-se um aparato chamado bigorna de diamante, \num cristal de difluoreto de xenônio (XeF2) foi pressionado, \ngerando um novo cristal com estrutura supercompacta e \nenorme quantidade de energia acumulada.\nInovação tecnológica. Disponível em: www.inovacaotecnologica.com.br. \nAcesso em: 7 jul. 2010 (adaptado).\nEmbora as condições citadas sejam diferentes do \ncotidiano, o processo de acumulação de energia descrito \né análogo ao da energia\nA \t armazenada em um carrinho de montanha-russa \ndurante o trajeto.\nB \t armazenada na água do reservatório de uma \nusina hidrelétrica.\nC \t liberada na queima de um palito de fósforo.\nD \t gerada nos reatores das usinas nucleares.\nE \t acumulada em uma mola comprimida.",
+  "processado_em": "2026-05-08T14:03:37.797000",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

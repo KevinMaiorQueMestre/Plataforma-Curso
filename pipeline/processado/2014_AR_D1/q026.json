@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 26\t\n–75 275 a –31 400\n–31 399 a 0\n0 a 19 168\n19 169 a 293 119\nSaldo do\ndeslocamento\nFluxo de pessoas\n15 000 a 31 400\n31 401 a 58 300\n58 301 a 103 200\nlimite de município\nCon\nRibeirão\ndas\nNeves\nVe\nBetim\nIbirité\nContagem\nBelo\nNota: O saldo considera apenas as pessoas que se deslocavam para o tra\nO fluxo migratório representado está associado ao process\nA\t fuga de áreas degradadas.\nB\t inversão da hierarquia urbana.\nC\t busca por amenidades ambientais.\nD\t conurbação entre municípios contíguos.\nE\t desconcentração dos investimentos produtivos.",
+  "processado_em": "2026-05-08T14:00:28.441610",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

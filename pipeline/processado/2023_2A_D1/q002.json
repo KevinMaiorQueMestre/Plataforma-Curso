@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q002",
+  "imagem": "q002.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 2,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "LINGUAGENS, CÓDIGOS E SUAS TECNOLOGIAS\nQuestões de 01 a 45 \nQuestões de 01 a 05 (opção inglês)\nQUESTÃO 02\t\n“We won’t ruin Mars. It’s too big and too good.” said \nth\nt i",
+  "processado_em": "2026-05-11T23:29:02.009009",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 282.0
+  }
+}

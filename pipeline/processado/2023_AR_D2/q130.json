@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nUma equipe de segurança do transporte de uma empresa \navalia o comportamento das tensões que aparecem em duas \ncordas, 1 e 2, usadas para prender uma carga de massa \nM = 200 kg na carroceria, conforme a ilustração. Quando o \ncaminhão parte do repouso, sua aceleração é constante \ne igual a 3 m/s2 e, quando ele é freado bruscamente, sua \nfrenagem é constante e igual a 5 m/s2. Em ambas as \nsituações, a carga encontra-se na iminência de movimento, \ne o sentido do movimento do caminhão está indicado na \nfigura. O coeficiente de atrito estático entre a caixa e o \nassoalho da carroceria é igual a 0,2. Considere a aceleração \nda gravidade igual a 10 m/s2, as tensões iniciais nas cordas \niguais a zero e as duas cordas ideais.\n1\n2\nM\nV\nNas situações de aceleração e frenagem do caminhão, \nas tensões nas cordas 1 e 2, em newton, serão\nA\t\nA\t aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e \nT2 = 0.\nB\t\nB\t aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 1 400 e \nT2 = 0. \nC\t\nC\t aceleração: T1 = 0 e T2 = 600; frenagem: T1 = 600 e \nT2 = 0. \nD\t\nD\t aceleração: T1 = 560 e T2 = 0; frenagem: T1 = 0 e \nT2 = 960.\nE\t\nE\t aceleração: T1 = 640 e T2 = 0; frenagem: T1 = 0 e \nT2 = 1 040.",
+  "processado_em": "2026-05-08T14:05:44.916219",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 79\t\nUm circuito em série é formado por uma pilha, uma \nlâmpada incandescente e uma chave interruptora. \nAo se ligar a chave, a lâmpada acende quase \ninstantaneamente, irradiando calor e luz. Popularmente, \nassocia-se o fenômeno da irradiação de energia a um \ndesgaste da corrente elétrica, ao atravessar o filamento \nda lâmpada, e à rapidez com que a lâmpada começa \na brilhar. Essa explicação está em desacordo com o \nmodelo clássico de corrente.\nDe acordo com o modelo mencionado, o fato de a lâmpada \nacender quase instantaneamente está relacionado à \nrapidez com que\nA\t o fluido elétrico se desloca no circuito.\nB\t as cargas negativas móveis atravessam o circuito.\nC\t a bateria libera cargas móveis para o filamento da \nlâmpada.\nD\t o campo elétrico se estabelece em todos os pontos \ndo circuito.\nE\t as cargas positivas e negativas se chocam no \nfilamento da lâmpada.",
+  "processado_em": "2026-05-08T14:00:14.095337",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

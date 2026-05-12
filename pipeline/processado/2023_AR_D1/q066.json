@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 66\t\nTEXTO I\nComo é horrivel ver um filho comer e perguntar: “Tem \nmais?” Esta palavra “tem mais” fica oscilando dentro do \ncerebro de uma mãe que olha as panela e não tem mais.\nJESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.\nTEXTO II\nA experiência de ver os filhos com fome na década \nde 1950, descrita por Carolina, é vivida no Brasil de 2021 \npor uma moradora de Petrolândia, em Pernambuco. “Eu \ntrabalhava de ajudante de cabeleireira, mas a moça que \ntinha o salão fechou. Eu vinha me sustentando com o \nauxílio que tinha, mas agora eu não fui contemplada. Às \nvezes as pessoas me ajudam com alimentos para os meus \nfilhos. De vez em quando, eu acho algum bico para fazer, \nmas é muito raro. Tem dias que não tenho nem o leite da \nminha bebê.”\nCARRANÇA, T. “Até o feijão nos esqueceu”: o livro de 1960 que poderia ter sido escrito \nnas favelas de 2021. Disponível em: www.bbc.com. Acesso em: 6 out. 2021 (adaptado).\nConsiderando a realidade brasileira, os textos se \naproximam ao apresentarem uma reflexão sobre o(a)\nA\t\nA\t recorrência da miséria.\nB\t\nB\t planejamento da saúde.\nC\t\nC\t superação da escassez.\nD\t\nD\t constância da economia.\nE\t\nE\t romantização da carência.",
+  "processado_em": "2026-05-08T14:05:37.690580",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

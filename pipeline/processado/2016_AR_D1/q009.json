@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nQuanto mais complicada se tornou a produção \nindustrial, mais numerosos passaram a ser os elementos \nda indústria que exigiam garantia de fornecimento. \nTrês deles eram de importância fundamental: o trabalho, \na terra e o dinheiro. Numa sociedade comercial, esse \nfornecimento só poderia ser organizado de uma forma: \ntornando-os disponíveis à compra. Agora eles tinham que \nser organizados para a venda no mercado. Isso estava \nde acordo com a exigência de um sistema de mercado. \nSabemos que em um sistema como esse, os lucros só \npodem ser assegurados se se garante a autorregulação \npor meio de mercados competitivos interdependentes.\nPOLANYI, K. A grande transformação: as origens de nossa época. \n Rio de Janeiro: Campus, 2000 (adaptado). \nA \nconsequência \ndo \nprocesso \nde \ntransformação \nsocioeconômica abordado no texto é a\nA\t expansão das terras comunais.\nB\t limitação do mercado como meio de especulação.\nC\t consolidação da força de trabalho como mercadoria.\nD\t diminuição do comércio como efeito da industrialização.\nE\t adequação do dinheiro como elemento padrão \ndas transações.",
+  "processado_em": "2026-05-08T14:01:02.828191",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

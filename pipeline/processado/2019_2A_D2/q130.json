@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 130\t\nDisponível em: www.repositorio.uniceub.br. \nAcesso em: 3 maio 2019 (adaptado).\nA sequência de etapas indicadas na figura representa o \nprocesso conhecido como\nA\t mutação.\nB\t clonagem.\nC\t crossing-over.\nD\t terapia gênica.\nE\t transformação genética.\n1. Coleta e cultivo in vitro das células do paciente;\n2. Transdução com vetor carregando o gene terapêutico;\n3. Seleção e expansão das células com gene terapêutico;\n4. Reintrodução das células modificadas no paciente.\n1\n2\n3\n4",
+  "processado_em": "2026-05-11T23:27:10.416194",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

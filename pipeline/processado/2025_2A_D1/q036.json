@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 36 \nAs piscinas naturais desenhadas por recifes de corais são \num dos principais atrativos da praia de Porto de Galinhas, \nem Pernambuco. Para preservar essa beleza natural, \npesquisadores e voluntários se uniram e utilizam tecnologias, \ncomo impressoras 3D, nessa missão.\nOs corais não são rochas, mas sim seres vivos que formam \ncolônias e servem de abrigo para inúmeras espécies. “A gente \ntem estimativas que variam de 30% a 80% de redução da \ncobertura de corais nos recifes brasileiros, de acordo com \no local”, apontou uma professora da Universidade Federal \nRural de Pernambuco (UFRPE).\nNa biofábrica de corais, os pesquisadores utilizam \nimpressoras 3D para produzir os berços, que são as estruturas \nem que são colocados os fragmentos de corais para que \ncresçam. Cada berço é diferente e adequado para uma espécie \nde coral. Alguns são feitos de canos de PVC e viram verdadeiros \nberçários, que vão para piscinas naturais protegidas da \ncorrenteza, das embarcações e dos turistas.\nA velocidade de destruição dos corais ainda é maior do \nque o esforço para recuperá-los, segundo os especialistas, mas \na nova tecnologia mostra que a ciência pode ajudar a salvar \nvárias espécies ameaçadas.\nDisponível em: https://g1.globo.com. Acesso em: 7 jan. 2024 (adaptado).\nSegundo esse texto, o uso da impressora 3D contribui para a\nA criação de piscinas naturais.\nB reconstituição de recifes de corais.\nC geração de novas espécies de corais.\nD adesão de voluntários a um projeto ambiental.\nE contenção de correntezas nos recifes de corais.",
+  "processado_em": "2026-05-08T14:06:27.757031",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

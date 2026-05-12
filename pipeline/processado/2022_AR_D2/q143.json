@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 143\t\nNo período de 2005 a 2013, o valor de venda dos \nimóveis em uma cidade apresentou alta, o que resultou \nno aumento dos aluguéis. Os gráficos apresentam a \nevolução desses valores, para um mesmo imóvel, no \nmercado imobiliário dessa cidade.\n630\n960\n1 350\n1 800\n3 240\nValor mensal do aluguel (R$)\n2005\n2007\n2009\n2011\n2013\nAno\n90\n120\n270\n450\n540\nValor de mercado do imóvel\n(milhar de R$)\n2005\n2007\n2009\n2011\n2013\nAno\nA rentabilidade do aluguel de um imóvel é calculada \npela razão entre o valor mensal de aluguel e o valor de \nmercado desse imóvel.\nCom base nos dados fornecidos, em que ano a \nrentabilidade do aluguel foi maior?\nA\t\nA\t 2005\nB\t\nB\t 2007\nC\t\nC\t 2009\nD\t\nD\t 2011\nE\t\nE\t 2013",
+  "processado_em": "2026-05-08T14:05:11.698182",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

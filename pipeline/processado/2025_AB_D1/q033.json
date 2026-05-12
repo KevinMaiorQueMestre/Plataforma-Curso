@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 33\t\nO perguntar e o responder\nO espelho recusou-se a responder a Lavínia que ela é a \nmais bela mulher do Brasil. Aliás, não respondeu nada. Era um \nespelho muito silencioso.\nLavínia retirou-o da parede e colocou outro, que emitia \nsons ininteligíveis, e foi também substituído.\nO terceiro espelho já fazia uso moderado da palavra, porém \nnão dizia coisa com coisa.\nUm quarto espelho chegou a pronunciar nitidamente \nesta frase: “Vou pensar”. Ficou pensando a semana inteira, \nsem chegar à conclusão.\nLavínia apelou para um quinto espelho, e este, antes que \na vaidosa senhora fizesse a interrogação aflita, perguntou-lhe:\n— Mulher, haverá no Brasil espelho mais belo do que eu?\nANDRADE C D de Contos plausíveis Rio de Janeiro: J Olympio 1985",
+  "processado_em": "2026-05-08T14:06:43.848192",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

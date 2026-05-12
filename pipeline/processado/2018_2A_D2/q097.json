@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 97\t\nEm derramamentos de óleo no mar, os produtos \nconhecidos como “dispersantes” são usados para reduzir \na tensão superficial do petróleo derramado, permitindo \nque o vento e as ondas “quebrem” a mancha em gotículas \nmicroscópicas. Estas são dispersadas pela água do \nmar antes que a mancha de petróleo atinja a costa. \nNa tentativa de fazer uma reprodução do efeito desse \nproduto em casa, um estudante prepara um recipiente \ncontendo água e gotas de óleo de soja. Há disponível \napenas azeite, vinagre, detergente, água sanitária e sal \nde cozinha.\nQual dos materiais disponíveis provoca uma ação \nsemelhante à situação descrita?\nA\t Azeite.\nB\t Vinagre.\nC\t Detergente.\nD\t Água sanitária.\nE\t Sal de cozinha.",
+  "processado_em": "2026-05-11T23:26:19.568265",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

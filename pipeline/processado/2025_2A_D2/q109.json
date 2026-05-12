@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 109 \nAs usinas termoelétricas que utilizam carvão mineral com \nalto teor de enxofre podem emitir grandes quantidades de \nSO2 para a atmosfera. Suponha que, a alguns quilômetros \nde uma usina termoelétrica, ocorreu uma precipitação de \nchuva de uma nuvem contendo 1 000 toneladas de água. \nÉ possível considerar que: (i) essa nuvem tenha absorvido todo o \nSO2 produzido pela usina; (ii) esse SO2 foi totalmente convertido \nem H2SO4, como mostrado pela sequência de equações a seguir; \ne (iii) esse ácido encontra-se totalmente ionizado no interior \nda nuvem. Nessa situação, o valor de pH da água da chuva foi \nigual a 4,0.\n2 SO (g)\nO (g)\n2 SO (g)\nSO (g)\nH O(l)\nH SO (aq)\nH SO\n2\n2\n3\n3\n2\n2\n4\n2\n4\n \n \n \n \n \n \n \n\u001f\n\u001e\n\u001f\n\u001e\n(aq)\n2 H (aq)\nSO\n(aq)\n \n \n\n\u001f\n\u001d\n\u001f\n4\n2\nConsidere as massas molares: H = 1 g\nmol ; S = 32 g\nmol ; \nO = 16 g\nmol .\nDensidade da água: 1 g\nmol .\nA massa de SO2 emitida por essa usina foi mais próxima de\nA 1,6 kg.\nB 3,2 kg.\nC 4,0 kg.\nD 4,9 kg.\nE 6,4 kg.",
+  "processado_em": "2026-05-08T14:06:35.268534",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

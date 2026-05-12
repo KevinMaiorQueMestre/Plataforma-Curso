@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 168\nO preço médio cobrado por um pintor para executar \n\f\u0010\u0002\t\n\u0007#\u000e'\u0004\u0002\u001e\u0004\u0005\t\u000e\t\r\n\u0002\n\u0010\u0002\f\u0010\b\u0002\r\b@\b\u0002\u0006@\b\u0002\u000f\n\u0002\u0015·\u0002}&$\u0002\u0010\b\u000e\t\u0002\numa quantia proporcional à área pintada. O quadro \napresenta os valores cobrados por ele em trabalhos \nrecentes.\nÁrea pintada (m2)\nTotal a pagar (R$)\n5\n35,00\n10\n45,00\n20\n65,00\n40\n105,00\n80\n185,00",
+  "processado_em": "2026-05-08T14:04:17.582100",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

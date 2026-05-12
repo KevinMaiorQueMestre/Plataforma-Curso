@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 72\t\nTanto a febre amarela quanto a dengue são doenças \ncausadas por vírus do grupo dos arbovírus, pertencentes \nao gênero Flavivirus, existindo quatro sorotipos para \no vírus causador da dengue. A transmissão de ambas \nacontece por meio da picada de mosquitos, como o \nAedes aegypti. Entretanto, embora compartilhem essas \ncaracterísticas, hoje somente existe vacina, no Brasil, para \na febre amarela e nenhuma vacina efetiva para a dengue.\nMINISTÉRIO DA SAÚDE. Fundação Nacional de Saúde. Dengue: Instruções para pessoal de \ncombate ao vetor. Manual de Normas Técnicas. Disponível em: http://portal.saude.gov.br. \nAcesso em: 7 ago. 2012 (adaptado).\nEsse fato pode ser atribuído à\nA\t maior taxa de mutação do vírus da febre amarela do \nque do vírus da dengue.\nB\t alta variabilidade antigênica do vírus da dengue em \nrelação ao vírus da febre amarela.\nC\t menor adaptação do vírus da dengue à população \nhumana do que do vírus da febre amarela.\nD\t presença de dois tipos de ácidos nucleicos no vírus da \ndengue e somente um tipo no vírus da febre amarela.\nE\t baixa capacidade de indução da resposta imunológica \nl\ní\nd d\nl\nã\nd f b\nl",
+  "processado_em": "2026-05-08T14:00:48.191219",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

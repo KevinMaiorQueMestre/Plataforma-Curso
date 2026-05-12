@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nA maior piscina do mundo, registrada no livro Guiness, \nestá localizada no Chile, em San Alfonso del Mar, cobrindo \num terreno de 8 hectares de área. \nSabe-se que 1 hectare corresponde a 1 hectômetro \nquadrado.\nQual é o valor, em metros quadrados, da área coberta \npelo terreno da piscina?\nA\t 8\nB\t 80\nC\t 800\nD\t 8 000\nE\t 80 000",
+  "processado_em": "2026-05-08T14:00:40.479400",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

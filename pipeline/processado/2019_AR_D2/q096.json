@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 96\t\nA esquistossomose (barriga-dʼágua) caracteriza-se \npela inflamação do fígado e do baço causada pelo verme \nSchistosoma mansoni (esquistossomo). O contágio \nocorre depois que larvas do verme são liberadas na \nágua pelo caramujo do gênero Biomphalaria, seu \nhospedeiro intermediário, e penetram na pele humana. \nApós o diagnóstico, o tratamento tradicional utiliza \nmedicamentos por via oral para matar o parasita dentro \ndo corpo. Uma nova estratégia terapêutica baseia-se na \nutilização de uma vacina, feita a partir de uma proteína \nextraída do verme, que induz o organismo humano a \nproduzir anticorpos para combater e prevenir a doença.\nInstituto Oswaldo Cruz/Fundação Oswaldo Cruz (IOC/Fiocruz). Fiocruz \nanuncia nova fase de vacina para esquistossomose. Disponível em: \nhttp://agencia.fiocruz.br. Acesso em: 3 maio 2019 (adaptado).\nUma vantagem da vacina em relação ao tratamento \ntradicional é que ela poderá\nA\t impedir a penetração do parasita pela pele.\nB\t eliminar o caramujo para que não haja contágio.\nC\t impedir o acesso do esquistossomo especificamente \npara o fígado.\nD\t eliminar o esquistossomo antes que ocorra contato \ncom o organismo.\nE\t eliminar o esquistossomo dentro do organismo antes \nda manifestação de sintomas.",
+  "processado_em": "2026-05-11T23:27:32.497465",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

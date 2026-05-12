@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 62\t\nA situação demográfica de Israel é muito particular. \nDesde 1967, a esquerda sionista afirma que Israel deveria \nse desfazer rapidamente da Cisjordânia e da Faixa de \nGaza, argumentando a partir de uma lógica demográfica \naparentemente inexorável. Devido à taxa de nascimento \nárabe ser muito mais elevada, a anexação dos territórios \npalestinos, formal ou informal, acarretaria dentro de uma \nou duas gerações uma maioria árabe “entre o rio e o mar”.\nDEMANT, P. Israel: a crise próxima. História, n. 2, jul.-dez. 2014.\nA preocupação apresentada no texto revela um aspecto \nda condução política desse Estado identificado ao(à)\nA\t abdicação da interferência militar em conflito local.\nB\t busca da preeminência étnica sobre o espaço \nnacional.\nC\t admissão da participação proativa em blocos \nregionais.\nD\t rompimento com os interesses geopolíticos das \npotências globais.\nE\t compromisso com as resoluções emanadas dos \norganismos internacionais.",
+  "processado_em": "2026-05-11T23:26:39.196075",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

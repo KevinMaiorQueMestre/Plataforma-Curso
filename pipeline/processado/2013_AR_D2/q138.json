@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nA Lei da Gravitação Universal, de Isaac Newton, \nestabelece a intensidade da força de atração entre duas \nmassas. Ela é representada pela expressão:\nF = G \nm1m2\nd 2\nonde m1 e m2 correspondem às massas dos corpos, d à \ndistância entre eles, G à constante universal da gravitação \ne F à força que um corpo exerce sobre o outro.\nO esquema representa as trajetórias circulares de \ncinco satélites, de mesma massa, orbitando a Terra.\nTERRA\nA\nE\nB\nD\nC\nQual gráfico expressa as intensidades das forças que a \nTerra exerce sobre cada satélite em função do tempo?\nA \nForça\nTempo\nA\nB\nC\nD\nE\nD\nA\nB\nC\nD\nE\nForça\nTempo\nB\nForça\nTempo\nE\nD\nC\nB\nA\n \nE\nA\nB\nC\nD\nE\nForça\nTempo\nC\nA\nB\nC\nD\nE\nForça\nTempo",
+  "processado_em": "2026-05-08T14:00:22.868194",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

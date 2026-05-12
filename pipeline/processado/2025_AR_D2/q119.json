@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 119\t\nA dimetilamina é uma substância de elevada toxidez que \nentra em ebulição a 7 °C. Na madrugada de um dia frio, essa \nsubstância se espalhou por uma rodovia após um acidente de \ntrânsito envolvendo um caminhão que transportava esse produto. \nPara minimizar a agressão ao meio ambiente, bem como evitar \na evaporação da dimetilamina com a elevação da temperatura \nao longo do dia, um químico considerou o uso de algumas \nsubstâncias ou misturas como água, vinagre, óleo de soja, sal \nde cozinha e bicarbonato de sódio.\nDentre as opções apresentadas, o tratamento correto para \nminimizar esse problema é usar\nA\tágua.\nB\tvinagre.\nC\tóleo de soja.\nD\tsal de cozinha.\nE bicarbonato de sódio",
+  "processado_em": "2026-05-08T14:07:06.504798",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 30\t\nEu sobrevivi do nada, do nada\nEu não existia\nNão tinha uma existência\nNão tinha uma matéria\nComecei existir com quinhentos milhões\ne quinhentos mil anos\nLogo de uma vez, já velha\nEu não nasci criança, nasci já velha\nDepois é que eu virei criança\nE agora continuei velha\nMe transformei novamente numa velha\nVoltei ao que eu era, uma velha\nPATROCÍNIO, S. In: MOSÉ, V. (Org.). Reino dos bichos e dos animais é meu nome. \nRio de Janeiro: Azougue, 2009.\nNesse poema de Stela do Patrocínio, a singularidade da \nexpressão lírica manifesta-se na\nA\t representação da infância, redimensionada no \nresgate da memória.\nB\t associação de imagens desconexas, articuladas por \numa fala delirante.\nC\t expressão autobiográfica, fundada no relato de \nexperiências de alteridade.\nD\t incorporação de elementos fantásticos, explicitada \npor versos incoerentes.\nE\t transgressão à razão, ecoada na desconstrução de \nreferências temporais.",
+  "processado_em": "2026-05-11T23:26:33.887252",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

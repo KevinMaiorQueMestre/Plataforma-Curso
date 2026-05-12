@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nUm novo condomínio foi construído na Rua X. Alguns \nlotes já receberam numeração da prefeitura, enquanto \noutros apresentam apenas o sobrenome do seu proprietário. \nO servidor da prefeitura numerará os lotes que ainda não \nforam numerados. Para isso, ele observa o padrão da \nnumeração já existente, conforme apresentado na figura, \npercebendo que, em cada lado da rua, as sequências das \nnumerações formam progressões aritméticas, e, com isso, \natribui um número ao lote da família Costa.\nCosta\nPereira\n139\nDias\n183\nRua X\n84\n106\nTeixeira\nGuimarães\n172\nO número atribuído ao lote da família Costa é\nA\t51.\nB\t73.\nC\t95.\nD\t117.\nE\t161.",
+  "processado_em": "2026-05-08T14:06:05.720821",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

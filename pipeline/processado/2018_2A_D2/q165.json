@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q165",
+  "imagem": "q165.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 165,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 165\t\nEm uma corrida de dez voltas disputada por dois \ncarros antigos, A e B, o carro A completou as dez \nvoltas antes que o carro B completasse a oitava volta. \nSabe-se que durante toda a corrida os dois carros \nmantiveram velocidades constantes iguais a 18 m/s \ne 14 m/s. Sabe-se também que o carro B gastaria \n288 segundos para completar oito voltas.\nA distância, em metro, que o carro B percorreu do início \nda corrida até o momento em que o carro A completou a \ndécima volta foi mais próxima de\nA\t 6 480.\nB\t 5 184.\nC\t 5 040.\nD\t 4 032.\nE\t 3 920.",
+  "processado_em": "2026-05-11T23:26:23.915581",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

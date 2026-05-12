@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 117\t\nO princípio básico de produção de imagens em \nequipamentos de ultrassonografia é a produção de ecos. \nO princípio pulso-eco refere-se à emissão de um pulso \ncurto de ultrassom que atravessa os tecidos do corpo. \nNo processo de interação entre o som e órgãos ou \ntecidos, uma das grandezas relevantes é a impedância \nacústica, relacionada à resistência do meio à passagem \ndo som, definida pelo produto da densidade (ρ) do \nmaterial pela velocidade (v) do som nesse meio. Quanto \nmaior a diferença de impedância acústica entre duas \nestruturas, maior será a intensidade de reflexão do pulso \ne mais facilmente será possível diferenciá-las. A tabela \nmostra os diferentes valores de densidade e velocidade \npara alguns órgãos ou tecidos.\nEstruturas\nρ\nkg\nm3\n(\n(\nv\nm\ns\n(\n(\nCérebro\n1 020\n1 530\nMúsculo\n1 040\n1 580\nGordura\n920\n1 450\nOsso\n1 900\n4 040\nCAVALCANTE, M. A.; PEÇANHA, R.; LEITE, V. F. Princípios básicos de imagens \nultrassônicas e a determinação da velocidade do som no ar através do eco. \nFísica na Escola, n. 1, 2012 (adaptado).\nEm uma imagem de ultrassom, as estruturas mais \nfacilmente diferenciáveis são\nA\t osso e gordura.\nB\t cérebro e osso.\nC\t gordura e cérebro.\nD\t músculo e cérebro.\nE\t gordura e músculo.",
+  "processado_em": "2026-05-11T23:26:21.091930",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 311.8
+  }
+}

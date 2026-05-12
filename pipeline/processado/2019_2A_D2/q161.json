@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 161\t\nEm um município foi realizado um levantamento \nrelativo ao número de médicos, obtendo-se os dados:\nAno\nMédicos\n1980\n137\n1985\n162\n1995\n212\n2010\n287\nTendo em vista a crescente demanda por atendimento \nmédico na rede de saúde pública, pretende-se \npromover a expansão, a longo prazo, do número de \nmédicos desse município, seguindo o comportamento \nde crescimento linear no período observado no quadro.\nQual a previsão do número de médicos nesse município \npara o ano 2040?\nA\t 387 \nB\t 424 \nC\t 437 \nD\t 574 \nE\t 711",
+  "processado_em": "2026-05-11T23:27:12.981488",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

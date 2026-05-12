@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 177\t\nEm uma cidade, será construído um túnel que atravessa uma \nmontanha para facilitar o trânsito de automóveis e bicicletas. \nDois projetos foram elaborados e os esquemas com as vistas \nfrontais desses projetos são apresentados na figura.\nO Projeto 1 conta com dois túneis, um exclusivo para \nbicicletas e o outro, para automóveis. O Projeto 2 conta com \num único túnel, com espaços reservados para o trânsito exclusivo \nde bicicletas e automóveis. Nos dois projetos, os túneis têm o \nformato de semicilindro reto de mesma extensão, com vias de \nida e volta para os dois tipos de veículos, separados por muretas.\nO projeto a ser aprovado será aquele que apresentar a \nmenor área da seção transversal, pois implicará menor volume \nde material retirado da montanha.\nConsidere 3 como aproximação para p e desconsidere as \nespessuras das muretas.\nO projeto a ser aprovado é\nA\to 1, pois apresenta área de seção transversal medindo \n67,5 m2.\nB\to 2, pois apresenta área de seção transversal medindo \n121,5 m2.\nC\to 1, pois apresenta área de seção transversal medindo 135 m2.\nD\to 2, pois apresenta área de seção transversal medindo 243 m2.\nE\tqualquer um dos dois, pois apresentam áreas de suas seções \ntransversais com medidas iguais",
+  "processado_em": "2026-05-08T14:07:10.679676",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 119\t\nA marcha galopante das tecnologias teve por primeiro \nresultado multiplicar em enormes proporções tanto a \nmassa das notícias que circulam quanto as ocasiões de \nsermos solicitados por elas. Os profissionais têm tendência \na considerar esta inflação como automaticamente \nfavorável ao público, pois dela tiram proveito e tornam-\nse obcecados pela imagem liberal do grande mercado \nem que cada um, dotado de luzes por definição iguais, \npode fazer sua escolha em toda liberdade. Isso jamais \nfoi realizado e tende a nunca ser. Na verdade, os leitores, \nouvintes, telespectadores, mesmo se se abandonam a sua \nbulimia*, não são realmente nutridos por esta indigesta \nsopa de informações e sua busca finaliza em frustração. \nCada vez mais frequentemente, até, eles ressentem \nesse bombardeio de riquezas falsas como agressivo e se \nrefugiam na resistência a toda ou qualquer informação.\nO verdadeiro problema das sociedades pós-\nindustriais não é a penúria**, mas a abundância. As \nsociedades modernas têm a sua disposição muito mais \ndo que necessitam em objetos, informações e contatos. \nOu, mais exatamente, disso resulta uma desarmonia \nentre uma oferta, não excessiva, mas incoerente, e uma \ndemanda que, confusamente, exige uma escolha muito \nmais rápida a absorver. Por isso os órgãos de informação \ndevem escolher, uma vez que o homem contemporâneo \napressado, estressado, desorientado busca uma linha \ndiretriz, uma classificação mais clara, um condensado do \nque é realmente importante.\n(*) fome excessiva, desejo descontrolado.\n(**) miséria, pobreza.\nVOYENNE, B. Informação hoje. Lisboa: Armand Colin, 1975 (adaptado).\nCom o uso das novas tecnologias, os domínios \nmidiáticos obtiveram um avanço maior e uma presença \nmais atuante junto ao público, marcada ora pela quase \nsimultaneidade das informações, ora pelo uso abundante \nde imagens. A relação entre as necessidades da \nsociedade moderna e a oferta de informação, segundo \no texto, é desarmônica, porque\nA\t o jornalista seleciona as informações mais importantes \nantes de publicá-las.\nB\t o ser humano precisa de muito mais conhecimento do \nque a tecnologia pode dar.\nC\t o problema da sociedade moderna é a abundância de \ninformações e de liberdade de escolha.\nD\t a oferta é incoerente com o tempo que as pessoas têm \npara digerir a quantidade de informação disponível.\nE\t a utilização dos meios de informação acontece de \nmaneira desorganizada e sem controle efetivo",
+  "processado_em": "2026-05-08T13:59:35.090740",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

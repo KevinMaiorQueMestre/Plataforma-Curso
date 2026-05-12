@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 127\t\nAs aves apresentam dois tipos de músculos em seus \ncorpos: vermelhos e brancos. Aves migratórias como garças, \ngansos e patos selvagens têm os músculos vermelhos bem \ndesenvolvidos, com ampla rede de vasos sanguíneos.\nNas viagens por grandes distâncias, tais músculos são \nfundamentais, pois favorecem o(a)\nA\t\nA\t execução de manobras.\nB\t\nB\t metabolismo corpóreo elevado.\nC\t\nC\t manutenção da aerodinâmica.\nD\t\nD\t deslocamento a grandes velocidades.\nE\t\nE\t capacidade de voo em grandes altitudes.",
+  "processado_em": "2026-05-08T14:05:44.732222",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q022",
+  "imagem": "q022.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 22,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 22\t\nTEXTO I\nProjeto Mural Eletrônico desenvolvido no INT, \nsemelhante a um totem, promete tornar o acesso à \ninformação disponível para todos\nA inclusão de pessoas com deficiência se constituiu um \ndos principais desafios e preocupações para a sociedade \nao longo das últimas décadas. E o uso da tecnologia tem \nse revelado um aliado fundamental em muitas iniciativas \nvoltadas para essa área. Exemplo disso é uma das recentes \ncriações do Instituto Nacional de Tecnologia (INT) — unidade \nde pesquisa do Ministério da Ciência, Tecnologia, Inovações \ne Comunicações (MCTIC). Ali, com o objetivo de que as \ndiferenças entre pessoas não sejam sinônimo de obstáculos \nno acesso à informação ou na comunicação, engenheiros e \ntecnólogos vêm trabalhando no desenvolvimento do projeto \nMural Eletrônico.\nO Mural Eletrônico nasceu da necessidade de \npromover a inclusão nas escolas. Com interface \nmultimídia e interativa, todos têm a possibilidade de \nacessar o Mural Eletrônico. Por meio do equipamento, \npodem ser disponibilizados vídeos com Libras, leitura \nsonora de textos, que também estarão acessíveis em \numa plataforma de braille dinâmico, ao lado do teclado.\nKIFFER, D. Inclusão ampla e irrestrita. Rio Pesquisa, n. 36, set. 2016 (adaptado).",
+  "processado_em": "2026-05-08T14:04:59.066689",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q117",
+  "imagem": "q117.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 117,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 117\t\nUma cafeteria adotou copos fabricados a partir \nde uma composição de 50% de plástico reciclado não \nbiodegradável e 50% de casca de café. O copo é reutilizável \ne retornável, pois o material, semelhante a uma cerâmica, \nsuporta a lavagem. Embora ele seja comercializado por \num preço considerado alto quando comparado ao de um \ncopo de plástico descartável, essa cafeteria possibilita aos \nclientes retornarem o copo sujo e levarem o café quente \nservido em outro copo já limpo e higienizado. O material \ndesse copo oferece também o conforto de não esquentar \nna parte externa.\nCafeteria adota copo reutilizável feito com casca de café. Disponível em: \nwww.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).\nQuais duas vantagens esse copo apresenta em \ncomparação ao copo descartável?\nA\t\nA\t Ter a durabilidade de uma cerâmica e ser totalmente \nbiodegradável.\nB\t\nB\t Ser tão durável quanto uma cerâmica e ter alta \ncondutividade térmica.\nC\t\nC\t Ser um mau condutor térmico e aumentar o resíduo \nbiodegradável na natureza.\nD\t\nD\t Ter baixa condutividade térmica e reduzir o resíduo \nnão biodegradável na natureza.\nE\t\nE\t Ter alta condutividade térmica e possibilitar a \ndegradação do material no meio ambiente.",
+  "processado_em": "2026-05-08T14:05:44.314238",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

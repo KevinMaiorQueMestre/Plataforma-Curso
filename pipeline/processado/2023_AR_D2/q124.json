@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nOs mais antigos cozinhavam o feijão na panela de ferro a \nfim de acabar com a palidez de seus filhos. Alguns chegavam \naté a colocar um prego enferrujado nesse cozimento para \nliberar o ferro contido nele. Sabe-se que esse elemento \npode ser encontrado na sua forma metálica ou iônica, \nsendo essencial para a manutenção da vida humana.\nAs estratégias citadas eram utilizadas com o objetivo de\nA\t\nA\t tratar a diarreia.\nB\t\nB\t prevenir a anemia.\nC\t\nC\t evitar as verminoses.\nD\t\nD\t remediar o raquitismo.\nE\t\nE\t combater a febre amarela.",
+  "processado_em": "2026-05-08T14:05:44.595869",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

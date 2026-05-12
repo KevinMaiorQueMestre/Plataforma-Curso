@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nA toxicidade de algumas substâncias é normalmente \nrepresentada por um índice conhecido como DL50 (dose \nletal mediana). Ele representa a dosagem aplicada a \numa população de seres vivos que mata 50% desses \nindivíduos e é normalmente medido utilizando-se ratos \ncomo cobaias. Esse índice é muito importante para \nos seres humanos, pois ao se extrapolar os dados \nobtidos com o uso de cobaias, pode-se determinar o \nnível tolerável de contaminação de alimentos, para que \npossam ser consumidos de forma segura pelas pessoas. \nO quadro apresenta três pesticidas e suas toxicidades. \nA unidade mg/kg indica a massa da substância ingerida \npela massa da cobaia.\nPesticidas\nDL50 (mg/kg)\nDiazinon\n70\nMalation\n1 000\nAtrazina\n3 100\nSessenta ratos, com massa de 200 g cada, foram \ndivididos em três grupos de vinte. Três amostras de ração, \ncontaminadas, cada uma delas com um dos pesticidas \nindicados no quadro, na concentração de 3 mg por \ngrama de ração, foram administradas para cada grupo de \ncobaias. Cada rato consumiu 100 g de ração.\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de \n10 ratos?\nA\t O grupo que se contaminou somente com atrazina.\nB\t O grupo que se contaminou somente com diazinon.\nC\t Os grupos que se contaminaram com atrazina e \nmalation.\nD\t Os grupos que se contaminaram com diazinon e \nmalation.\nE\t Nenhum dos grupos contaminados com atrazina, \ndiazinon e malation.",
+  "processado_em": "2026-05-11T23:25:50.125173",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

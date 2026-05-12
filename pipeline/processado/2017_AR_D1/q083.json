@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nNo período anterior ao golpe militar de 1964, os \ndocumentos episcopais indicavam para os bispos \nque o desenvolvimento econômico, e claramente o \ndesenvolvimento capitalista, orientando-se no sentido \nda justa distribuição da riqueza, resolveria o problema \nda miséria rural e, consequentemente, suprimiria a \npossibilidade do proselitismo e da expansão comunista \nentre os camponeses. Foi nesse sentido que o golpe de \nEstado, de 31 de março de 1964, foi acolhido pela Igreja.\nMARTINS, J. S. A política do Brasil: lúmpen e místico. São Paulo: Contexto, 2011 (adaptado).\nEm que pesem as divergências no interior do clero após \na instalação da ditadura civil-militar, o posicionamento \nmencionado no texto fundamentou-se no entendimento \nda hierarquia católica de que o(a)\nA\t \tluta de classes é estimulada pelo livre mercado.\nB\t \tpoder oligárquico é limitado pela ação do Exército.\nC\t \tdoutrina cristã é beneficiada pelo atraso do interior.\nD\t \tespaço \npolítico \né \ndominado \npelo \ninteresse \nempresarial.\nE\t \tmanipulação ideológica é favorecida pela privação \nmaterial.",
+  "processado_em": "2026-05-11T23:25:43.148409",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

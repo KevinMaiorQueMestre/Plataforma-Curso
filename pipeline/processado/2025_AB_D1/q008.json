@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 08\t\nNesse texto, a estratégia argumentativa utilizada pelo autor para\nA\tcomparação entre tecnologias.\nB\trelato das dificuldades vividas pelo pai.\nC\texemplo pessoal do tempo da faculdade.\nD\tpergunta retórica sobre a citação de Marx.\nE\treferência a autoridades na área de tecnologia.",
+  "processado_em": "2026-05-08T14:06:42.006419",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

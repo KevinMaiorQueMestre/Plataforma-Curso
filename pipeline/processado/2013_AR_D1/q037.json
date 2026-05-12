@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q037",
+  "imagem": "q037.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 37,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 37\t\nNos últimos decênios, o território conhece grandes \nmudanças em função de acréscimos técnicos que \nrenovam a sua materialidade, como resultado e condição, \nao mesmo tempo, dos processos econômicos e sociais \nem curso.\nSANTOS, M.; SILVEIRA; M. L. O Brasil: território e sociedade no início do século XXI. \nRio de Janeiro: Record, 2004 (adaptado).\nA partir da última década, verifica-se a ocorrência \nno Brasil de alterações significativas no território, \nocasionando impactos sociais, culturais e econômicos \nsobre comunidades locais, e com maior intensidade, na \nAmazônia Legal, com a\nA\t reforma e ampliação de aeroportos nas capitais \ndos estados.\nB\t ampliação de estádios de futebol para a realização de \neventos esportivos.\nC\t construção de usinas hidrelétricas sobre os rios \nTocantins, Xingu e Madeira.\nD\t instalação de cabos para a formação de uma rede \ninformatizada de comunicação.\nE\t formação de uma infraestrutura de torres que \npermitem a comunicação móvel na região.",
+  "processado_em": "2026-05-08T14:00:11.706825",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

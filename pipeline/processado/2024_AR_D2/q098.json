@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q098",
+  "imagem": "q098.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 98,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 98\t\nAs placas que indicam saída de emergência brilham no \nescuro, pois apresentam substâncias que fosforecem na \ncor amarelo-esverdeada após exposição à luz ambiente, \nconforme a figura.\nEsse fenômeno ocorre pela presença do sulfeto de \nzinco (ZnS), dopado com prata ou cobre, na superfície \nda placa.\nZinc Sulphide Phosphorescence. Disponível em: \n https://physicsopenlab.org. Acesso em: 8 nov. 2023 (adaptado).\nO aparecimento do brilho nessas condições ocorre como \nconsequência de\nA\tcolisões interatômicas.\nB\tcoloração dos átomos.\nC\ttransições eletrônicas.\nD\treações nucleares.\nE\treflexão da luz.",
+  "processado_em": "2026-05-08T14:06:16.779118",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

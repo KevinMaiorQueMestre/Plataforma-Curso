@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 30\t\nEnquanto estivemos entretidos com os urubus outras \ncoisas andaram acontecendo na cidade. A Companhia \nbaixou novas proibições, umas inteiramente bobocas, só \npelo prazer de proibir (ninguém podia cuspir pra cima, nem \ncarregar água em jacá, nem tapar o sol com peneira, como \nse todo mundo estivesse abusando dessas esquisitices); \nmas outras bem irritantes, como a de pular muro pra cortar \ncaminho, tática que quase todo mundo que não sofria de \nreumatismo vinha adotando ultimamente, principalmente \nos meninos. E não confiando na proibição só, nem na força \ndos castigos, que eram rigorosos, a Companhia ainda \nmandou fincar cacos de garrafa nos muros. Achei isso um \nexagero, e comentei o assunto com mamãe. Meu pai ouviu \nlá do quarto e veio explicar. Disse que em épocas normais \nbastava uma coisa ou outra; mas agora a Companhia \nnão podia admitir nenhuma brecha em suas ordens; se \nalguém desobedecesse à proibição podia se cortar nos \ncacos; se alguém conseguisse pular um muro quebrando \no corte de alguns cacos, ou jogando um couro por cima, \nera apanhado pela proibição, nhoc — e fez o gesto de \nquem torce o pescoço de um frango.\nVEIGA, J. J. Sombras de reis barbudos. Rio de Janeiro: Civilização Brasileira, 1978.",
+  "processado_em": "2026-05-08T14:05:35.764077",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

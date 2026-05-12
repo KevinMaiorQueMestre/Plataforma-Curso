@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 60\t\nO permanganato de potássio (KMnO4) é um agente \noxidante forte muito empregado tanto em nível laboratorial \nquanto industrial. Na oxidação de alcenos de cadeia \nnormal, como o 1-fenil-1-propeno, ilustrado na figura, o \nKMnO4 é utilizado para a produção de ácidos carboxílicos.\n1-fenil-1-propeno\nOs produtos obtidos na oxidação do alceno representado, \nem solução aquosa de KMnO4, são:\nA\t Ácido benzoico e ácido etanoico.\nB\t Ácido benzoico e ácido propanoico.\nC\t Ácido etanoico e ácido 2-feniletanoico.\nD\t Ácido 2-feniletanoico e ácido metanoico.\nE\t Ácido 2-feniletanoico e ácido propanoico.",
+  "processado_em": "2026-05-08T14:00:47.606673",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 72\t\nÉ que o espírito de comércio traz consigo o espírito de \nfrugalidade, de economia, de moderação, de trabalho, \nde sabedoria, de tranquilidade, de ordem e de regra. Assim, \nenquanto subsiste este espírito, as riquezas que ele produz não \ntêm nenhum mau efeito.\nMONTESQUIEU. O Espírito das Leis. São Paulo: Martins Fontes, 1996.\nA doutrina econômica que se articula com as proposições \ndefendidas no texto denomina-se:\nA\tSocialismo.\nB\tLiberalismo.\nC\tFisiocratismo.\nD\tKeynesianismo.\nE\tRegulacionismo.",
+  "processado_em": "2026-05-08T14:06:47.022114",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

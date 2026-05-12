@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 83\t\nSaudado por centenas de militantes de movimentos \nsociais de quarenta países, o papa Francisco \nencerrou no dia 09/07/2015 o 2º Encontro Mundial dos \nMovimentos Populares, em Santa Cruz de La Sierra, \nna Bolívia. Segundo ele, a “globalização da esperança, \nque nasce dos povos e cresce entre os pobres, \ndeve substituir esta globalização da exclusão e \nda indiferença”.\nDisponível em: http://cartamaior.com.br. \nAcesso em: 15 jul. 2015 (adaptado).\nNo texto há uma crítica ao seguinte aspecto do \nmundo globalizado:\nA\t Liberdade política.\nB\t Mobilidade humana.\nC\t Conectividade cultural.\nD\t Disparidade econômica.\nE\t Complementaridade comercial.",
+  "processado_em": "2026-05-11T23:27:27.279948",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

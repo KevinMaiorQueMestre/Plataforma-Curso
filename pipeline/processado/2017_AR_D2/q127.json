@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 127\t\nPara demonstrar o processo de transformação de \nenergia mecânica em elétrica, um estudante constrói um \npequeno gerador utilizando:\n•\t um fio de cobre de diâmetro D enrolado em N \nespiras circulares de área A;\n•\t dois ímãs que criam no espaço entre eles um campo \nmagnético uniforme de intensidade B; e \n•\t um sistema de engrenagens que lhe permite girar as \nespiras em torno de um eixo com uma frequência f. \nAo fazer o gerador funcionar, o estudante obteve uma \ntensão máxima V e uma corrente de curto-circuito i.\nPara dobrar o valor da tensão máxima V do gerador \nmantendo constante o valor da corrente de curto i, o \nestudante deve dobrar o(a)\nA\t número de espiras.\nB\t frequência de giro.\nC\t intensidade do campo magnético.\nD\t área das espiras.\nE\t diâmetro do fio.",
+  "processado_em": "2026-05-11T23:25:51.165370",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

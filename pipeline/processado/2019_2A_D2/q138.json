@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 138\t\nUm asteroide batizado de 2013-TV135 passou \na aproximadamente 6,7 × 106 quilômetros da Terra. \nA presença do objeto espacial nas proximidades \nda Terra foi detectada por astrônomos ucranianos, \nque alertaram para uma possível volta do asteroide \nem 2032.\nDisponível em: www1.folha.uol.com.br. Acesso em: 30 out. 2013.\nO valor posicional do algarismo 7, presente na notação \ncientífica da distância, em quilômetro, entre o asteroide \ne a Terra, corresponde a\nA\t 7 décimos de quilômetro.\nB\t 7 centenas de quilômetros.\nC\t 7 dezenas de milhar de quilômetros.\nD\t 7 centenas de milhar de quilômetros.\nE\t 7 unidades de milhão de quilômetros.",
+  "processado_em": "2026-05-11T23:27:11.703164",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\t\nUm proprietário precisa comprar tubos para \nligações hidráulicas durante a reforma de sua casa, \noptando pela compra do material de menor custo. \nO engenheiro responsável pela obra afirmou ao \nproprietário que os tubos precisam suportar uma vazão \nde 1,2 litro por segundo. Para manter o padrão das \ntubulações já existentes na casa, os tubos devem ter \n15, 20 ou 25 mm de diâmetro. Uma loja de materiais \nde construção apresentou ao proprietário o quadro no \nqual se encontram cinco tipos de tubo, com indicação \nde diâmetro, vazão e custo para cada um deles.\nMATERIAL\nDIÂMETRO \n(em mm)\nVAZÃO\n(em L/s)\nCUSTO\n(em R$/m)\nPVC\nsoldável\n15\n0,40\n0,50\n20\n1,20\n1,25\n25\n1,25\n1,35\nPEX\n15\n0,50\n0,65\n20\n1,10\n1,05\n25\n1,20\n1,35\nPolipropileno\n15\n0,60\n0,30\n20\n1,20\n1,25\n25\n1,30\n1,55\nPVC\nroscável\n15\n0,50\n0,80\n20\n1,10\n1,10\n25\n1,20\n1,15\nPolietileno \nreticulado\n15\n0,60\n0,35\n20\n1,20\n1,20\n25\n1,30\n1,25\nO proprietário deverá comprar\nA\t\nA\t PVC soldável com 20 mm de diâmetro.\nB\t\nB\t PEX com 20 mm de diâmetro.\nC\t\nC\t Polipropileno com 15 mm de diâmetro.\nD\t\nD\t PVC roscável com 25 mm de diâmetro.\nE\t\nE\t Polietileno reticulado com 20 mm de diâmetro.",
+  "processado_em": "2026-05-08T14:04:49.973254",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

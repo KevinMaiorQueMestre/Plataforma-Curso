@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 44\t\nA escravidão não há de ser suprimida no Brasil por uma \nguerra servil, muito menos por insurreições ou atentados \nlocais. Não deve sê-lo, tampouco, por uma guerra civil, \ncomo o foi nos Estados Unidos. Ela poderia desaparecer, \ntalvez, depois de uma revolução, como aconteceu na \nFrança, sendo essa revolução obra exclusiva da população \nlivre. É no Parlamento e não em fazendas ou quilombos \ndo interior, nem nas ruas e praças das cidades, que se há \nde ganhar, ou perder, a causa da liberdade.\nNABUCO, J. O abolicionismo [1883]. Rio de Janeiro: Nova Fronteira; \nSão Paulo: Publifolha, 2000 (adaptado).\nNo texto, Joaquim Nabuco defende um projeto político \nsobre como deveria ocorrer o fim da escravidão no Brasil, \nno qual\nA\t copiava o modelo haitiano de emancipação negra.\nB\t incentivava a conquista de alforrias por meio de \nações judiciais.\nC\t optava pela via legalista de libertação.  \nD\t priorizava a negociação em torno das indenizações \naos senhores.\nE\t antecipava a libertação paternalista dos cativos.",
+  "processado_em": "2026-05-08T14:00:12.204468",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 136\t\nNo entorno de uma lagoa circular, cujo raio mede 1 km, \nhá um uma ciclovia. Devido aos frequentes roubos de bicicleta, \na prefeitura planeja alocar policiais em posições estratégicas \npara patrulhar essa ciclovia, de forma a torná-la totalmente \nprotegida. Um ponto da ciclovia é considerado protegido se \nhouver pelo menos um policial a, no máximo, 200 m de distância \ndaquele ponto, posicionado sobre a ciclovia. A figura ilustra \num ponto P sobre a ciclovia, que estará protegido se houver \npelo menos um policial posicionado sobre a região de cor \ncinza escuro.\nDesconsidere a largura da pista da ciclovia e utilize 3 como \naproximação para p.\nNessas condições, a quantidade mínima necessária de policiais a \nserem alocados ao longo dessa ciclovia para torná-la protegida é\nA\t4.\nB\t8.\nC\t15.\nD\t30.\nE\t60.",
+  "processado_em": "2026-05-08T14:07:08.277562",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

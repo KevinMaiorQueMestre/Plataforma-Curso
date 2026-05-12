@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 48\t\nA liberação dos gases clorofluorcarbonos (CFCs) \nna atmosfera pode provocar depleção de ozônio (O3) na \nestratosfera. O ozônio estratosférico é responsável por \nabsorver parte da radiação ultravioleta emitida pelo Sol, a \nqual é nociva aos seres vivos. Esse processo, na camada \nde ozônio, é ilustrado simplificadamente na figura.\n+\n+\nhν\nLegenda\nC\nF\nCI\nO\nQuimicamente, a destruição do ozônio na atmosfera por \ngases CFCs é decorrência da\nA\t clivagem da molécula de ozônio pelos CFCs para \nproduzir espécies radicalares.\nB\t produção de oxigênio molecular a partir de ozônio, \ncatalisada por átomos de cloro.\nC\t oxidação do monóxido de cloro por átomos de \noxigênio para produzir átomos de cloro.\nD\t reação direta entre os CFCs e o ozônio para produzir \noxigênio molecular e monóxido de cloro.\nE\t reação de substituição de um dos átomos de oxigênio \nna molécula de ozônio por átomos de cloro.",
+  "processado_em": "2026-05-08T14:00:30.168178",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

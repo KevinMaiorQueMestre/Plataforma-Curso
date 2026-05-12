@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 172\t\nUma pessoa tem um carro bicombustível, que funciona a g\nmedido em km/m³, no caso do gás, ou medido em km/L, no ca\nem km/h, em que o carro trafega. Essa relação está em conform\nDurante um feriado, essa pessoa realizou uma viagem de \nassuma que em todo o trajeto se manteve uma velocidade const\nfoi utilizado apenas GNV e, na outra metade, apenas gasolina. O\ncorrespondeu, respectivamente, a R$ 2,00 e a R$ 3,00.\nQual foi a diferença, em real, entre os gastos totais com gasolina\nA\t4\nB\t8\nC\t14\nD\t21\nE\t30",
+  "processado_em": "2026-05-08T14:07:10.346061",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 161 \nPaulo esqueceu a senha de acesso à sua conta bancária. \nEle se lembra apenas de que sua senha é uma das possíveis \npermutações da palavra DETETIVE que se iniciam pela letra D. \nO sistema do banco permite que ele faça até quatro tentativas \nantes de bloquear o acesso, e Paulo não digitará uma mesma \ncombinação de letras duas vezes.\nA probabilidade de Paulo acessar sua conta, sem bloqueá-la, é\nA 1\n105\nB 1\n420\nC 1\n840\nD \n1\n1260\nE \n1\n10 080",
+  "processado_em": "2026-05-08T14:06:37.872123",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 152\t\nUma pessoa ampliou uma foto no computador e, \nao imprimi-la, verificou que a qualidade não estava \nboa. Assim, ficou curioso em saber as grandezas \nenvolvidas no parâmetro que define a qualidade de \numa imagem. Ao pesquisar, descobriu que um parâmetro \nque define a qualidade da imagem, ou resolução, pode \nser considerado pela quantidade de pontos, chamados \npixels, que há em cada quadradinho de 1 cm de lado \ncontido na imagem.\nConsiderando a pesquisa realizada, a unidade de medida \ndo parâmetro de qualidade de uma imagem é expressa por\nA\tcm2 ⋅ pixel \nB\tcm ⋅ pixel\nC\t\ncm\npixel\n\u001f\n\u001e\n2\nD\t pixel\ncm\nE\t pixel\ncm2",
+  "processado_em": "2026-05-08T14:06:04.424627",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

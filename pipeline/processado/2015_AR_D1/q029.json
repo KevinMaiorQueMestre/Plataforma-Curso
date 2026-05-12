@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 29\t\nNo final do século XX e em razão dos avanços da \nciência, produziu-se um sistema presidido pelas técnicas \nda informação, que passaram a exercer um papel de \nelo entre as demais, unindo-as e assegurando ao novo \nsistema uma presença planetária. Um mercado que \nutiliza esse sistema de técnicas avançadas resulta nessa \nglobalização perversa.\nSANTOS, M. Por uma outra globalização. Rio de Janeiro: Record, 2008 (adaptado).\nUma consequência para o setor produtivo e outra para o \nmundo do trabalho advindas das transformações citadas \nno texto estão presentes, respectivamente, em:\nA\t Eliminação das vantagens locacionais e ampliação da \nlegislação laboral.\nB\t Limitação dos fluxos logísticos e fortalecimento de \nassociações sindicais.\nC\t Diminuição \ndos \ninvestimentos \nindustriais \ne \ndesvalorização dos postos qualificados.\nD\t Concentração das áreas manufatureiras e redução da \njornada semanal.\nE\t Automatização dos processos fabris e aumento dos \nníveis de desemprego.",
+  "processado_em": "2026-05-08T14:00:44.582702",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

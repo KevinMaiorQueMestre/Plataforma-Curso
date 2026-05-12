@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q082",
+  "imagem": "q082.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 82,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 82\t\nPouco antes do Natal de 2020, a questão emergiu de vez: \n“o armagedom dos chips” (ou chipageddon, como o fenômeno \ntem sido chamado em inglês) já é uma realidade, inclusive \nna indústria automobilística. Os carros novos geralmente \nincluem mais de 100 microprocessadores — e os fabricantes \nsimplesmente não conseguem mais fornecer todos eles.\nKELION, L. “Armagedom dos chips” já provoca desde escassez \nde videogames até disputas geopolíticas. Disponível em: \n www.bbc.com. Acesso em: 20 out. 2021 (adaptado).\nA crise no setor econômico citado no texto tem relação com o \nmodelo produtivo caracterizado pelo(a)\nA\tcrescimento do estoque.\nB\taumento da padronização.\nC\tdesenvolvimento da tecnologia.\nD\tdiminuição da terceirização.\nE\tfragmentação da produção.",
+  "processado_em": "2026-05-08T14:06:47.496429",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

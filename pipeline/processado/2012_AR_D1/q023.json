@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q023",
+  "imagem": "q023.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 23,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 23\t\nNossa cultura lipofóbica muito contribui para a \ndistorção da imagem corporal, gerando gordos que se \nveem magros e magros que se veem gordos, numa \nquase unanimidade de que todos se sentem ou se \nveem “distorcidos”.\nEngordamos quando somos gulosos. É pecado da \ngula que controla a relação do homem com a balança. \nTodo obeso declarou, um dia, guerra à balança. Para \nemagrecer é preciso fazer as pazes com a dita cuja, \nvisando adequar-se às necessidades para as quais \nela aponta.\nFREIRE, D. S. Obesidade não pode ser pré-requisito. Disponível em: http//gnt.globo.com. \nAcesso em: 3 abr. 2012 (adaptado).\nO texto apresenta um discurso de disciplinarização dos \ncorpos, que tem como consequência\nA\t a ampliação dos tratamentos médicos alternativos, \nreduzindo os gastos com remédios.\nB\t a democratização do padrão de beleza, tornando-o \nacessível pelo esforço individual.\nC\t o controle do consumo, impulsionando uma crise \neconômica na indústria de alimentos.\nD\t a culpabilização individual, associando obesidade à \nfraqueza de caráter.\nE\t o aumento da longevidade, resultando no crescimento \npopulacional.",
+  "processado_em": "2026-05-08T13:59:01.993415",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

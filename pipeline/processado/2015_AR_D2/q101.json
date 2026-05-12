@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\t\nDisponível em: www.behance.net. Acesso em: 21 fev. 2013 (adaptado).\nA rapidez é destacada como uma das qualidades do \nserviço anunciado, funcionando como estratégia de \npersuasão em relação ao consumidor do mercado \ngráfico. O recurso da linguagem verbal que contribui \npara esse destaque é o emprego\nA\t do termo “fácil” no início do anúncio, com foco no \nprocesso.\nB\t de adjetivos que valorizam a nitidez da impressão.\nC\t das formas verbais no futuro e no pretérito, em \nsequência.\nD\t da expressão intensificadora “menos do que” \nassociada à qualidade.\nE\t da locução “do mundo” associada a “melhor”, que \nquantifica a ação.",
+  "processado_em": "2026-05-08T14:00:52.436028",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

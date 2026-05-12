@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 42\t\nNinguém nasce mulher: torna-se mulher. Nenhum \ndestino biológico, psíquico, econômico define a forma \nque a fêmea humana assume no seio da sociedade; \né o conjunto da civilização que elabora esse produto \nintermediário entre o macho e o castrado que qualificam \no feminino.\nBEAUVOIR, S. O segundo sexo. Rio de Janeiro: Nova Fronteira, 1980.\nNa década de 1960, a proposição de Simone de Beauvoir \ncontribuiu para estruturar um movimento social que teve \ncomo marca o(a)\nA\t ação do Poder Judiciário para criminalizar a violência \nsexual.\nB\t pressão do Poder Legislativo para impedir a dupla \njornada de trabalho.\nC\t organização de protestos públicos para garantir a \nigualdade de gênero.\nD\t oposição de grupos religiosos para impedir os \ncasamentos homoafetivos.\nE\t estabelecimento de políticas governamentais para \npromover ações afirmativas.",
+  "processado_em": "2026-05-08T14:00:45.932029",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

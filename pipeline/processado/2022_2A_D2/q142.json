@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\t\nUma empresa de publicidade está criando um \nlogotipo que tem o formato indicado na figura. O círculo \nmenor está inscrito no quadrado ABCD, e o círculo maior \ncircunscreve o mesmo quadrado. Considere S1 a área do \ncírculo menor e S2 a área do círculo maior.\nD\nA\nB\nC\nO\nA razão da área do círculo maior para o círculo menor é \nigual a\nA\t\nA\t\n2\nB\t\nB\t 1\n2\nC\t\nC\t 2\nD\t\nD\t 8\nE\t\nE\t 16",
+  "processado_em": "2026-05-08T14:04:49.267265",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

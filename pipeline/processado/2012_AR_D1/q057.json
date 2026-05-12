@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 57\t\nMuitas \nespécies \nde \nplantas \nlenhosas \nsão \nencontradas no cerrado brasileiro. Para a sobrevivência \nnas condições de longos períodos de seca e queimadas \nperiódicas, próprias desse ecossistema, essas plantas \ndesenvolveram estruturas muito peculiares.\nAs estruturas adaptativas mais apropriadas para a \nsobrevivência desse grupo de plantas nas condições \nambientais do referido ecossistema são:\nA\t Cascas finas e sem sulcos ou fendas.\nB\t Caules estreitos e retilíneos.\nC\t Folhas estreitas e membranosas.\nD\t Gemas apicais com densa pilosidade.\nE Raízes superficiais, em geral, aéreas.",
+  "processado_em": "2026-05-08T13:59:02.484349",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

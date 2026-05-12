@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nUma empresa de engenharia foi contratada para \nrealizar um serviço no valor de R$ 71 250,00. Os sócios da \nempresa decidiram que 40% desse valor seria destinado ao \npagamento de três engenheiros que gerenciaram o serviço. \nO pagamento para cada um deles será feito de forma \ndiretamente proporcional ao total de horas trabalhadas. \nO número de dias e o número de horas diárias \ntrabalhadas pelos engenheiros foram, respectivamente:\n•\t engenheiro I: 4 dias, numa jornada de 5 horas e \nmeia por dia;\n•\t engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n•\t engenheiro III: 6 dias, numa jornada de 2 horas e \nmeia por dia.\nQual a maior diferença, em real, entre os valores recebidos \npor esse serviço entre dois desses engenheiros?\nA\t1 000\nB\t1 500\nC\t3 500\nD\t3 800\nE\t5 250",
+  "processado_em": "2026-05-08T14:06:19.497346",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

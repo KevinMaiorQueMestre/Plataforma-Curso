@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nUma pessoa ganhou uma pulseira formada por \npérolas esféricas, na qual faltava uma das pérolas. A figura \nindica a posição em que estaria faltando esta pérola.\nEla levou a joia a um joalheiro que verificou que a \nmedida do diâmetro dessas pérolas era 4 milímetros. \nEm seu estoque, as pérolas do mesmo tipo e formato, \ndisponíveis para reposição, tinham diâmetros iguais a: \n4,025 mm; 4,100 mm; 3,970 mm; 4,080 mm e 3,099 mm.\nO joalheiro então colocou na pulseira a pérola cujo \ndiâmetro era o mais próximo do diâmetro das pérolas \noriginais.\nA pérola colocada na pulseira pelo joalheiro tem diâmetro, \nem milímetro, igual a\nA\t 3,099.\nB\t 3,970.\nC\t 4,025.\nD\t 4,080.\nE\t 4,100.",
+  "processado_em": "2026-05-11T23:25:56.733951",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

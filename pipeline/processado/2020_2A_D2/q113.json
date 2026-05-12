@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 113          \nTanto a conservação de materiais biológicos como \no resfriamento de certos fotodetectores exigem baixas \ntemperaturas que não são facilmente atingidas por \nrefrigeradores. Uma prática comum para atingi-las é \no uso de nitrogênio líquido, obtido pela expansão \nadiabática do gás N2, contido em um recipiente \nacoplado a um êmbolo, que resulta no resfriamento \nem temperaturas que chegam até seu ponto de \nliquefação em −196 °C. A figura exibe o esboço de \ncurvas de pressão em função do volume ocupado por \numa quantidade de gás para os processos isotérmico \ne adiabático. As diferenças entre esses processos \npodem ser identificadas com base na primeira lei da \ntermodinâmica, que associa a variação de energia \ninterna à diferença entre o calor trocado com o meio \nexterior e o trabalho realizado no processo.\nIsoterma\nVolume\nAdiabática\nPressão\n \nA expansão adiabática viabiliza o resfriamento do N2 \nporque\nA \t a entrada de calor que ocorre na expansão por causa \ndo trabalho contribui para a diminuição da temperatura.\nB \t a saída de calor que ocorre na expansão por causa do \ntrabalho contribui para a diminuição da temperatura.\nC \t a variação da energia interna é nula e o trabalho é \nassociado diretamente ao fluxo de calor, que diminui \na temperatura do sistema.\nD \t a variação da energia interna é nula e o trabalho é \nassociado diretamente à entrada de frio, que diminui \na temperatura do sistema.\nE \t o trabalho é associado diretamente à variação de \nenergia interna e não há troca de calor entre o gás e \no ambiente.",
+  "processado_em": "2026-05-08T14:03:36.794441",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

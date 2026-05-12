@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nUma empresa produz um equipamento para \naquecimento de banheiras de hidromassagem. \nPor meio de uma amostra representativa de seus \nprodutos, registrou em um quadro a quantidade desses \nequipamentos que apresentaram algum defeito e em \nquanto tempo isso ocorreu. \nDurabilidade \n(mês)\nNúmero de \nequipamentos \ncom defeito\n01\n05\n03\n07\n05\n38\n06\n12\n09\n102\n12\n24\n15\n90\n18\n110\n20\n02\n24\n10\nTotal\n400\nEssa empresa pretende estabelecer um tempo de \ngarantia para esse equipamento, trocando-o caso não \ndure o tempo de garantia estabelecido. No entanto, \na empresa não deseja trocar mais do que 3% dos \nequipamentos.\nCom base nessas informações, o tempo de garantia \ndeve ser de\nA\t\nA\t 3 meses.\nB\t\nB\t 6 meses.\nC\t\nC\t 12 meses.\nD\t\nD\t 20 meses.\nE\t\nE\t 24 meses.",
+  "processado_em": "2026-05-08T14:04:50.869665",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

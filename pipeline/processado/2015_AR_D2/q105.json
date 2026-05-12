@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\t\nRede social pode prever desempenho profissional, \ndiz pesquisa\nPense duas vezes antes de postar qualquer item \nem seu perfil nas redes sociais. O conselho, repetido à \nexaustão por consultores de carreira por aí, acaba de \nganhar um status, digamos, mais científico. De acordo \ncom resultados da pesquisa, uma rápida análise do \nperfil nas redes sociais pode prever o desempenho \nprofissional do candidato a uma oportunidade de \nemprego. Para chegar a essa conclusão, uma equipe de \npesquisadores da Northern Illinois University, University \nof Evansville e Auburn University pediu a um professor \nuniversitário e dois alunos para analisarem perfis de um \ngrupo de universitários.\nApós checar fotos, postagens, número de amigos e \ninteresses por 10 minutos, o trio considerou itens como \nconsciência, \nafabilidade, \nextroversão, \nestabilidade \nemocional e receptividade. Seis meses depois, as \nimpressões do grupo foram comparadas com a análise \nde desempenho feita pelos chefes dos jovens que tiveram \nseus perfis analisados. Os pesquisadores encontraram \numa forte correlação entre as características descritas \na partir dos dados da rede e o comportamento dos \nuniversitários no ambiente de trabalho.\nDisponível em: http://exame.abril.com.br. Acesso em: 29 fev. 2012 (adaptado).\nAs redes sociais são espaços de comunicação e interação \non-line que possibilitam o conhecimento de aspectos da \nprivacidade de seus usuários. Segundo o texto, no mundo \ndo trabalho, esse conhecimento permite\nA\t identificar a capacidade física atribuída ao candidato.\nB\t certificar a competência profissional do candidato.\nC\t controlar o comportamento virtual e real do candidato.\nD\t avaliar informações pessoais e comportamentais \nsobre o candidato.\nE\t aferir a capacidade intelectual do candidato na resolução \nde problemas.",
+  "processado_em": "2026-05-08T14:00:53.642096",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

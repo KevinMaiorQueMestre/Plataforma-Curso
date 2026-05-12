@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 14\t\nEm \nsociedade \nde \norigens \ntão \nnitidamente \npersonalistas como a nossa, é compreensível que os \nsimples vínculos de pessoa a pessoa, independentes e \naté exclusivos de qualquer tendência para a cooperação \nautêntica entre os indivíduos, tenham sido quase sempre \nos mais decisivos. As agregações e relações pessoais, \nembora por vezes precárias, e, de outro lado, as lutas \nentre facções, entre famílias, entre regionalismos, \nfaziam dela um todo incoerente e amorfo. O peculiar \nda vida brasileira parece ter sido, por essa época, uma \nacentuação singularmente enérgica do afetivo, do \nirracional, do passional e uma estagnação ou antes uma \natrofia correspondente das qualidades ordenadoras, \ndisciplinadoras, racionalizadoras.\nHOLANDA, S. B. Raízes do Brasil. São Paulo: Cia. das Letras, 1995.\nUm traço formador da vida pública brasileira expressa-se, \nsegundo a análise do historiador, na\nA\t rigidez das normas jurídicas.\nB\t prevalência dos interesses privados.\nC\t solidez da organização institucional.\nD\t legitimidade das ações burocráticas.\nE\t estabilidade das estruturas políticas.",
+  "processado_em": "2026-05-08T14:00:43.361697",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

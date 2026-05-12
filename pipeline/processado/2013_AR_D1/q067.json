@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 67\t\nSabe-se que o aumento da concentração de gases como \nCO2, CH4 e N2O na atmosfera é um dos fatores responsáveis \npelo agravamento do efeito estufa. A agricultura é uma das \natividades humanas que pode contribuir tanto para a emissão \nquanto para o sequestro desses gases, dependendo do \nmanejo da matéria orgânica do solo.\nROSA, A. H.; COELHO, J. C. R. Cadernos Temáticos de Química Nova na Escola,\nSão Paulo, n. 5, nov. 2003 (adaptado).\nDe que maneira as práticas agrícolas podem ajudar a \nminimizar o agravamento do efeito estufa?\nA\t Evitando a rotação de culturas.\nB\t Liberando o CO2 presente no solo.\nC\t Aumentando a quantidade de matéria orgânica do solo.\nD\t Queimando a matéria orgânica que se deposita no solo.\nE Atenuando a concentração de resíduos vegetais do solo",
+  "processado_em": "2026-05-08T14:00:13.502801",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

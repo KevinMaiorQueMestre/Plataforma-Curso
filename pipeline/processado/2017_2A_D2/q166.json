@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\n8P\u0003 VLVWHPD\u0003 GH\u0003 GHSUHFLDomR\u0003 OLQHDU\u000f\u0003 HVWDEHOHFHQGR\u0003\nque após 10 anos o valor monetário de um bem será zero, \né usado nas declarações de imposto de renda de alguns \nSDtVHV\u0011\u00032\u0003JUi¿FR\u0003LOXVWUD\u0003HVVD\u0003VLWXDomR\u0011\nValor monetário (dólar)\nTempo (ano)\n10\n0\nUma pessoa adquiriu dois bens, A e B, pagando \n1 200 e 900 dólares, respectivamente.\nConsiderando as informações dadas, após 8 anos, qual \nserá a diferença entre os valores monetários, em dólar, \nGHVVHV\u0003EHQV\"\nA 30\nB 60\nC 75\nD 240\nE 300",
+  "processado_em": "2026-05-11T23:25:30.996536",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

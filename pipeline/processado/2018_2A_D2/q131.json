@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 131\t\nO terremoto e o tsunami ocorridos no Japão em \n11 de março de 2011 romperam as paredes de isolamento \nde alguns reatores da usina nuclear de Fukushima, o \nque ocasionou a liberação de substâncias radioativas. \nEntre elas está o iodo-131, cuja presença na natureza \nestá limitada por sua meia-vida de oito dias.\nO tempo estimado para que esse material se desintegre \naté atingir 1\n16 da sua massa inicial é de\nA\t 8 dias.\nB\t 16 dias.\nC\t 24 dias.\nD\t 32 dias.\nE\t 128 dias.",
+  "processado_em": "2026-05-11T23:26:22.374148",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

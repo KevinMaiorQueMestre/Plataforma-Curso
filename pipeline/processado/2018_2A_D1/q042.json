@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q042",
+  "imagem": "q042.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 42,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 42\t\nFísica com a boca\nPor que nossa voz fica tremida ao falar na frente do \nventilador?\nAlém de ventinho, o ventilador gera ondas sonoras. \nQuando você não tem mais o que fazer e fica falando \nna frente dele, as ondas da voz se propagam na direção \ncontrária às do ventilador. Davi Akkerman – presidente \nda Associação Brasileira para a Qualidade Acústica – \ndiz que isso causa o mismatch, nome bacana para o \ndesencontro entre as ondas. “O vento também contribui \npara a distorção da voz, pelo fato de ser uma vibração que \ninfluencia no som”, diz. Assim, o ruído do ventilador e a \ninfluência do vento na propagação das ondas contribuem \npara distorcer sua bela voz.\nDisponível em: http://super.abril.com.br. Acesso em: 30 jul. 2012 (adaptado).\nSinais de pontuação são símbolos gráficos usados \npara organizar a escrita e ajudar na compreensão da \nmensagem. No texto, o sentido não é alterado em caso \nde substituição dos travessões por\nA\t aspas, para colocar em destaque a informação \nseguinte.\nB\t vírgulas, para acrescentar uma caracterização de \nDavi Akkerman.\nC\t reticências, para deixar subentendida a formação do \nespecialista.\nD\t dois-pontos, para acrescentar uma informação \nintroduzida anteriormente.\nE\t ponto \ne \nvírgula, \npara \nenumerar \ninformações \nfundamentais para o desenvolvimento temático.",
+  "processado_em": "2026-05-11T23:26:12.376390",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

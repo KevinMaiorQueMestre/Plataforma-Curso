@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 87          \nEm escala, o negro é o negro retinto, o mulato já é \no pardo e como tal meio branco, e se a pele é um pouco \nmais clara, já passa a incorporar a comunidade branca. A \nforma desse racismo no Brasil decorre de uma situação \nem que a mestiçagem não é punida, mas louvada. Com \nefeito, as uniões inter-raciais, aqui, nunca foram tidas \ncomo crime ou pecado. Nós surgimos, efetivamente, do \ncruzamento de uns poucos brancos com multidões de \nmulheres índias e negras.\nRIBEIRO, D. O povo brasileiro: formação e sentido do Brasil. \nSão Paulo: Cia. das Letras, 2004 (adaptado). \nConsiderando o argumento apresentado, a discriminação \nracial no Brasil tem como origem\nA \t identidades regionais.\nB \t segregação oficial.\nC \t vínculos matrimoniais.\nD \t traços fenotípicos.\nE \t status ocupacional.",
+  "processado_em": "2026-05-08T14:03:32.321837",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

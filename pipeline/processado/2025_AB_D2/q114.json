@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 114\t\nO estudo da relação entre a estrutura e a atividade biológica\nde drogas para o combate a doenças. Pesquisadores avaliar\nSARS-CoV-2, considerando a capacidade de inibição das enzim\nentre o composto e o sítio ativo da enzima depende de fator\nentre a estrutura e a atividade antiviral. A maior atividade foi co\neletronegativos presentes no anel aromático da molécula do\nhipotéticos apresentados a seguir.\nKNELLER, D. W. et al. Structural, Electronic and Electrostatic Determ\nDisponível em: http\nDentre os compostos modelados, qual deve apresentar a maio\nA\tI\nB\tII\nC\tIII\nD\tIV\nE V",
+  "processado_em": "2026-05-08T14:06:50.895707",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

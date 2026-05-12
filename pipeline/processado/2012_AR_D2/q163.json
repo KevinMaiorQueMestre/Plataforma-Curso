@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 163\t\nJosé, Carlos e Paulo devem transportar em suas \nbicicletas uma certa quantidade de laranjas. Decidiram \ndividir o trajeto a ser percorrido em duas partes, sendo que \nao final da primeira parte eles redistribuiriam a quantidade \nde laranjas que cada um carregava dependendo do \ncansaço de cada um. Na primeira parte do trajeto \nJosé, Carlos e Paulo dividiram as laranjas na \nproporção 6 : 5 : 4, respectivamente. Na segunda \nparte do trajeto José, Carlos e Paulo dividiram as \nlaranjas na proporção 4 : 4 : 2, respectivamente.\nSabendo-se que um deles levou 50 laranjas a mais no \nsegundo trajeto, qual a quantidade de laranjas que José, \nCarlos e Paulo, nessa ordem, transportaram na segunda \nparte do trajeto?\nA\t 600, 550, 350\nB\t 300, 300, 150\nC\t 300, 250, 200\nD\t 200, 200, 100\nE\t 100, 100, 50",
+  "processado_em": "2026-05-08T13:59:15.056869",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

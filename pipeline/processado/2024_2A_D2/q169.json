@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nEm um curso de desenho artístico, a professora \norganizou uma oficina prática com dois estudantes, \nenvolvendo uma atividade de representação visual. \nA figura representa um balanço, constituído de um assento \nretangular paralelo ao plano xOy do chão, ligado a uma \nhaste horizontal por cordas de sustentação paralelas entre \nsi e de mesma medida. O ponto M representa a posição de \num objeto, fixado pela professora, no centro do assento. \nFoi solicitado que o estudante I se posicionasse tendo vista \nfrontal da trajetória descrita pelo ponto M, e a estudante II, \ntendo vista lateral dessa trajetória enquanto o balanço se \nmovimentava. Nesse movimento, as cordas de sustentação \npermaneciam esticadas e ortogonais à haste horizontal. \nA professora solicitou que os estudantes observassem e \ndescrevessem a trajetória realizada pelo ponto M ao longo \ndo movimento.\nAs projeções ortogonais da trajetória realizada pelo ponto \nM vistas pelo estudante I no plano yOz e pela estudante II \nno plano xOz são, respectivamente, representadas por\nA\tum segmento de reta vertical e um segmento de reta \nhorizontal.\nB\tum segmento de reta vertical e uma curva em forma \nde parábola.\nC\tuma curva em forma de parábola e um segmento de \nreta vertical.\nD\tum arco de circunferência e um segmento de reta vertical.\nE\tum segmento de reta vertical e um arco de circunferência.",
+  "processado_em": "2026-05-08T14:06:05.682354",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

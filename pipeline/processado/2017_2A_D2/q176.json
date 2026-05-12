@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 176\n(P\u0003XP\u0003PrV\u000f\u0003XPD\u0003ORMD\u0003GH\u0003HOHWU{QLFRV\u0003FRPHoD\u0003D\u0003REWHU\u0003\nOXFUR\u0003Mi\u0003QD\u0003SULPHLUD\u0003VHPDQD\u0011\u00032\u0003JUi¿FR\u0003UHSUHVHQWD\u0003R\u0003OXFUR\u0003\u000bL)\ndessa loja desde o início do mês até o dia 20. Mas esse \ncomportamento se estende até o último dia, o dia 30.\n$\u0003 UHSUHVHQWDomR\u0003 DOJpEULFD\u0003 GR\u0003 OXFUR\u0003 \u000bL\f\u0003 HP\u0003 IXQomR\u0003 GR\u0003\ntempo (t) é\nA L\u000bt) = 20t + 3 000\nB L\u000bt) = 20t + 4 000\nC L\u000bt) = 200t\nD L\u000bt) = 200t \u0010 1 000\nE L\u000bt) = 200t + 3 000\nLucro (real)\nTempo (dia)\n3 000\n\u00101 000\n0\n5\n20",
+  "processado_em": "2026-05-11T23:25:31.476789",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

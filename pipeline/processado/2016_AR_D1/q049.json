@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q049",
+  "imagem": "q049.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 49,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 49\t\nUma ambulância A em movimento retílineo e uniform\nemite um som de frequência constante fA. O desenho ilu\nO observador possui um detector que consegue registra\ndetectada em função do tempo fO(t), antes e depois da pas\nA\nQual esboço gráfico representa a frequência fO(t) detectad\nA\t  \nt\nfo(t)\nfA\nB\t  \nt\nfo(t)\nfA\nC\t  \nt\nfo(t)\nfA",
+  "processado_em": "2026-05-08T14:01:08.021369",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

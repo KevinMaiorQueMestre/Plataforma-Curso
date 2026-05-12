@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 153          \nO índice pluviométrico é uma medida, em milímetro, \nque fornece a quantidade de precipitação de chuva num \ndeterminado local e num intervalo de tempo (hora, dia, \nmês e/ou ano). Os valores mensais do índice pluviométrico \nde uma cidade brasileira, no primeiro semestre, são \nmostrados no gráfico.\n Abr.  Maio   Jun.      \n110\n90\n70\n50\n30\n10\n0\nJan.   Fev.   Mar.\nÍndice pluviométrico (mm)\nDe acordo com a previsão meteorológica, o índice \npluviométrico no mês de julho será igual ao índice do mês \nde junho somado à variação correspondente ao maior \nacréscimo, em milímetro, do índice pluviométrico entre \ndois meses consecutivos do semestre apresentado.\nO índice pluviométrico, em milímetro, previsto para o mês \nde julho, na cidade considerada, será igual a\nA \t 30.\nB \t 50.\nC\t 70.\nD \t 80.\nE \t 90.",
+  "processado_em": "2026-05-08T14:03:38.892005",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

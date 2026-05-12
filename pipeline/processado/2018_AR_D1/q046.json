@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 46\t\nNo Segundo Congresso Internacional de Ciências \nGeográficas, em 1875, a que compareceram o \npresidente da República, o governador de Paris e \no presidente da Assembleia, o discurso inaugural \ndo almirante La Roucière-Le Noury expôs a atitude \npredominante no encontro: “Cavalheiros, a Providência \nnos ditou a obrigação de conhecer e conquistar a terra. \nEssa ordem suprema é um dos deveres imperiosos \ninscritos em nossas inteligências e nossas atividades. \nA geografia, essa ciência que inspira tão bela devoção \ne em cujo nome foram sacrificadas tantas vítimas, \ntornou-se a filosofia da terra”.\nSAID, E. Cultura e política. São Paulo: Cia. das Letras, 1995.\nNo contexto histórico apresentado, a exaltação da ciência \ngeográfica decorre do seu uso para o(a)\nA\t preservação cultural dos territórios ocupados.\nB\t formação humanitária da sociedade europeia.\nC\t catalogação de dados úteis aos propósitos colonialistas.\nD\t desenvolvimento \nde \ntécnicas \nmatemáticas \nde \nconstrução de cartas.\nE\t consolidação do conhecimento topográfico como \ncampo acadêmico.",
+  "processado_em": "2026-05-11T23:26:37.590551",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

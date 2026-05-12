@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 170\t\nDois professores participam de um concurso público \ncom três fases. A primeira fase avalia o desempenho teórico, \na segunda fase refere-se às experiências e aos títulos obtidos \ndurante a vida acadêmica, e a última fase avalia o desempenho \ndidático do participante, sendo as notas obtidas nessas fases \nrepresentadas por F1, F2 e F3, respectivamente. A nota final (NF) \ndos participantes é calculada por:\nNF = 0,4 × F1 + 0,1 × F2 + 0,5 × F3\nO candidato precisa apresentar nota mínima igual a 6,0 em \ncada uma das fases para não ser desclassificado. Em caso de \nempate nas notas finais, o candidato que obtiver a maior nota \nna primeira fase será o primeiro colocado.\nO primeiro participante obteve nota 7,0 na primeira e na \nsegunda fase e nota 10,0 na última fase. O segundo obteve nota \n8,0 em cada uma das duas primeiras fases e ainda participará \nda terceira fase.\nPara alcançar a primeira colocação no concurso, qual é a nota \nmínima que o segundo participante deverá obter na terceira fase?\nA\t2,0\nB\t4,0\nC\t6,0\nD\t9,0\nE\t9,5",
+  "processado_em": "2026-05-08T14:06:53.979736",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

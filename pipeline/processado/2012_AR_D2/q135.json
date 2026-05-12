@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 135\t\neu gostava muito de passeá... saí com as minhas \ncolegas... brincá na porta di casa di vôlei... andá de \npatins... bicicleta... quando eu levava um tombo ou \noutro... eu era a::... a palhaça da turma... ((risos))... eu \nacho que foi uma das fases mais... assim... gostosas da \nminha vida foi... essa fase de quinze... dos meus treze \naos dezessete anos...\nA.P.S., sexo feminino, 38 anos, nível de ensino fundamental. \nProjeto Fala Goiana, UFG, 2010 (inédito).\nUm aspecto da composição estrutural que caracteriza o relato \npessoal de A.P.S. como modalidade falada da língua é\nA\t predomínio de linguagem informal entrecortada \npor pausas.\nB\t vocabulário \nregional \ndesconhecido \nem \noutras \nvariedades do português.\nC\t realização do plural conforme as regras da \ntradição gramatical.\nD\t ausência de elementos promotores de coesão entre \nos eventos narrados.\nE presença de frases incompreensíveis a um leitor iniciante",
+  "processado_em": "2026-05-08T13:59:43.130286",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

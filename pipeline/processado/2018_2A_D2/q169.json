@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nEm março de 2011, um terremoto de 9,0 graus de \nmagnitude na escala Richter atingiu o Japão matando \nmilhares de pessoas e causando grande destruição. \nEm janeiro daquele ano, um terremoto de 7,0 graus na \nescala Richter atingiu a cidade de Santiago Del Estero, \nna Argentina. A magnitude de um terremoto, medida \npela escala Richter, é R\nA\nA\n= log\n)\n(\n 0\n, em que A é a \namplitude do movimento vertical do solo, informado em \num sismógrafo, A 0 é uma amplitude de referência e log \nrepresenta o logaritmo na base 10.\nDisponível em: http://earthquake.usgs.gov. Acesso em: 28 fev. 2012 (adaptado).\nA razão entre as amplitudes dos movimentos verticais dos \nterremotos do Japão e da Argentina é\nA 128\n,\nB 2 0\n,\nC 10\n9\n7\nD 100\nE 10\n10\n9\n7\n−",
+  "processado_em": "2026-05-11T23:26:24.098507",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

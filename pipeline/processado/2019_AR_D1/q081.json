@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 81\t\nA partir da segunda metade do século XVIII, \no número de escravos recém-chegados cresce no Rio e \nse estabiliza na Bahia. Nenhum lugar servia tão bem à \nrecepção de escravos quanto o Rio de Janeiro.\nFRANÇA, R. O tamanho real da escravidão. O Globo, \n5 abr. 2015 (adaptado).\nNa matéria, o jornalista informa uma mudança na \ndinâmica do tráfico atlântico que está relacionada à \nseguinte atividade:\nA\t Coleta de drogas do sertão.\nB\t Extração de metais preciosos.\nC\t Adoção da pecuária extensiva.\nD\t Retirada de madeira do litoral.\nE\t Exploração da lavoura de tabaco.",
+  "processado_em": "2026-05-11T23:27:27.165413",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

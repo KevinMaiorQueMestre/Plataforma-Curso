@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\n$R\u0003VLQWRQL]DU\u0003XPD\u0003HVWDomR\u0003GH\u0003UiGLR\u0003$0\u000f\u0003R\u0003RXYLQWH\u0003HVWi\u0003\nselecionando apenas uma dentre as inúmeras ondas que \nFKHJDP\u0003 j\u0003 DQWHQD\u0003 UHFHSWRUD\u0003 GR\u0003 DSDUHOKR\u0011\u0003 (VVD\u0003 VHOHomR\u0003\nDFRQWHFH\u0003 HP\u0003 UD]mR\u0003 GD\u0003 UHVVRQkQFLD\u0003 GR\u0003 FLUFXLWR\u0003 UHFHSWRU\u0003\ncom a onda que se propaga.\n2\u0003IHQ{PHQR\u0003ItVLFR\u0003DERUGDGR\u0003QR\u0003WH[WR\u0003p\u0003GHSHQGHQWH\u0003GH\u0003\nTXDO\u0003FDUDFWHUtVWLFD\u0003GD\u0003RQGD\"\nA Amplitude.\nB 3RODUL]DomR\u0011\nC Frequência.\nD Intensidade.\nE Velocidade.",
+  "processado_em": "2026-05-11T23:25:26.159823",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

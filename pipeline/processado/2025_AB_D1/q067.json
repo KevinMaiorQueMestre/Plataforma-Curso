@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q067",
+  "imagem": "q067.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 67,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 67\t\nO ano de 1492, segundo nossa tese central, é a data \ndo “nascimento da Modernidade”; embora sua gestação — \ncomo feto — leve um tempo de crescimento intrauterino. \nA Modernidade originou-se nas cidades medievais europeias, \nlivres centros de criatividades. Mas “nasceu” quando a Europa \npôde se confrontar com o seu “outro” e controlá-lo, vencê-lo, \nviolentá-lo: quando pôde se definir como um “ego” descobridor, \ncolonizador da alteridade constitutiva da própria Modernidade.\nDUSSEL, E. 1492 — O encobrimento do outro: a origem do “Mito da \nModernidade”. Petrópolis: Vozes, 1993 (adaptado).\nA tese do autor sobre o nascimento da Modernidade refere-se \na um evento histórico conhecido como:\nA\tIluminismo francês.\nB\tReforma Protestante.\nC\tConquista da América.\nD\tExpansão muçulmana.\nE\tSurgimento das universidades.",
+  "processado_em": "2026-05-08T14:06:46.803037",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

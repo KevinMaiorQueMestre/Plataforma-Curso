@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 149\t\nUm ciclista quer montar um sistema de marchas \nusando dois discos dentados na parte traseira de sua \nbicicleta, chamados catracas. A coroa é o disco dentado \nque é movimentado pelos pedais da bicicleta, sendo \nque a corrente transmite esse movimento às catracas, \nque ficam posicionadas na roda traseira da bicicleta. \nAs diferentes marchas ficam definidas pelos diferentes \ndiâmetros das catracas, que são medidos conforme \nindicação na figura.\nDiâmetro do\ndisco dentado\nO ciclista já dispõe de uma catraca com 7 cm de \ndiâmetro e pretende incluir uma segunda catraca, de \nmodo que, à medida em que a corrente passe por ela, \na bicicleta avance 50% a mais do que avançaria se a",
+  "processado_em": "2026-05-11T23:27:36.086929",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

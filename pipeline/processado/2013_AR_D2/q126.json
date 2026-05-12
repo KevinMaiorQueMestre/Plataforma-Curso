@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 126\t\nDúvida\nDois compadres viajavam de carro por uma estrada \nde fazenda quando um bicho cruzou a frente do carro. \nUm dos compadres falou:\n— Passou um largato ali!\nO outro perguntou:\n— Lagarto ou largato?\nO primeiro respondeu:\n— Num sei não, o bicho passou muito rápido.\nPiadas coloridas. Rio de Janeiro: Gênero, 2006.\nNa piada, a quebra de expectativa contribui para produzir \no efeito de humor. Esse efeito ocorre porque um dos \npersonagens \nA\t reconhece a espécie do animal avistado. \nB\t tem dúvida sobre a pronúncia do nome do réptil.\nC\t desconsidera o conteúdo linguístico da pergunta. \nD\t constata o fato de um bicho cruzar a frente do carro.\nE\t apresenta duas possibilidades de sentido para a \nmesma palavra.",
+  "processado_em": "2026-05-08T14:00:21.938020",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 68\t\nTecnologias verdes são a cereja do bolo do debate \ne normalmente são utilizadas como forma de permitir a \ncontinuidade do padrão de vida dos países do Norte por meio \ndo uso mais eficiente de recursos. Mas existe um paradoxo, \nconhecido como Paradoxo de Jevons, responsável por apontar \nque o desenvolvimento tecnológico que aumenta a eficiência \nno uso de um recurso tende a, paradoxalmente, aumentar a \ntaxa de uso desse recurso. Em outras palavras: uma tecnologia \n“sustentável” para aumentar a eficiência do uso de energia vai, \nparadoxalmente, aumentar o uso de energia em si. Ademais, e \nmuito importante ressaltar, para que lojas de roupas na Europa \nsejam equipadas com tecnologias “sustentáveis”, uma boa dose \nde matérias-primas, como lítio, precisa ser minerada nos países \ndo Sul. E a mineração é tudo menos “verde” ou “sustentável”.\nCOLERATO, M. Disponível em: https://elle.com.br. \nAcesso em: 18 out. 2021 (adaptado).\nO paradoxo apresentado no texto fundamenta-se na contradição \nentre\nA\tempresas e ambientalistas.\nB\tgoverno e sociedade.\nC\tnações ricas e pobres.\nD\tpreservação e consumo.\nE\tsaberes populares e ciência.",
+  "processado_em": "2026-05-08T14:06:46.845473",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

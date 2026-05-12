@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 13\t\nO farrista\nQuando o almirante Cabral\nPôs as patas no Brasil\nO anjo da guarda dos índios\nEstava passeando em Paris.\nQuando ele voltou de viagem\nO holandês já está aqui.\nO anjo respira alegre:\n“Não faz mal, isto é boa gente,\nVou arejar outra vez.”\nO anjo transpôs a barra,\nDiz adeus a Pernambuco,\nFaz barulho, vuco-vuco,\nTal e qual o zepelim\nMas deu um vento no anjo,\nEle perdeu a memória...\nE não voltou nunca mais.\nMENDES, M. História do Brasil. Rio de Janeiro: Nova Fronteira, 1992.\nA obra de Murilo Mendes situa-se na fase inicial do \nModernismo, cujas propostas estéticas transparecem, no \npoema, por um eu lírico que\nA\t \tconfigura um ideal de nacionalidade pela integração \nregional.\nB\t \tremonta ao colonialismo assente sob um viés \niconoclasta.\nC\t \trepercute as manifestações do sincretismo religioso.\nD\t \tdescreve a gênese da formação do povo brasileiro.\nE\t \tpromove inovações no repertório linguístico.",
+  "processado_em": "2026-05-11T23:25:36.158993",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

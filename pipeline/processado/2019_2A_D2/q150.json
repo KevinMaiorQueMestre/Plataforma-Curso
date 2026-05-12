@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 150\t\nO modelo predador-presa consiste em descrever a \ninteração entre duas espécies, sendo que uma delas \n(presa) serve de alimento para a outra (predador). \nA resposta funcional é a relação entre a taxa de consumo \nde um predador e a densidade populacional de sua \npresa. A figura mostra três respostas funcionais (f, g, h), \nem que a variável independente representa a densidade \npopulacional da presa.\n0\n0\n0,2\n0,4\n0,6\n0,8\n1\nA\nB\nC\nD\nE\nf \ng \nh \nTaxa de consumo de predador\nDensidade populacional de presa\nDisponível em: www.jornallivre.com.br. \nAcesso em: 1 ago. 2012 (adaptado).\nQual o maior intervalo em que a resposta funcional f(x) \né menor que as respostas funcionais g(x) e h(x), \nsimultaneamente?\nA\t (0 ; B)\nB\t (B ; C)\nC\t (B ; E)\nD\t (C ; D)\nE\t (C ; E)",
+  "processado_em": "2026-05-11T23:27:12.278691",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

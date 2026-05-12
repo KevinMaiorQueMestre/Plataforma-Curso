@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 26\t\nUm ponto interessante do marco civil da internet, \nsegundo Marília Maciel, pesquisadora do Centro de \nTecnologia e Sociedade da Fundação Getúlio Vargas \n(CTS/FGV), é o que trata da garantia do princípio \nda neutralidade de rede. “Isso quer dizer que, se eu \ncompro um pacote de um mega ou de cinco megas de \ninternet, o uso que eu vou fazer desses meus megas \nde velocidade depende das minhas escolhas. Não é \no operador que vai dizer o que eu posso acessar. Eu \ncomprei tantos megas e posso acessar texto, vídeo \nou fazer um curso de ensino a distância on-line”. \nO novo texto assegura que o usuário vai poder continuar \na contratar pacotes de velocidades diferentes, mas, \ndentro daquela velocidade escolhida, ele poderá \nacessar qualquer tipo de aplicativo na internet.\nGANDRA, A. Disponível em: www.ebc.com.br. \nAcesso em: 20 nov. 2013 (adaptado).\nCom o aprimoramento dos recursos tecnológicos, a \ncirculação de informações e seus usos têm reconfigurado \nos mais diversos setores da sociedade. O texto trata da \nlegislação que regulamenta o uso da internet, criando a \nseguinte expectativa para o usuário brasileiro:\nA\t Proibição do corte do acesso pelo uso excessivo.\nB\t Aumento da capacidade da rede.\nC\t Mudança no perfil do internauta.\nD\t Promoção do acesso irrestrito.\nE\t Garantia de conexão a baixo custo.",
+  "processado_em": "2026-05-11T23:26:57.018355",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

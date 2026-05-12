@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 118\t\nPara melhorar seu condicionamento físico, um atleta amarra \nem sua cintura uma fita elástica presa a um pneu. Isso faz com \nque ele precise realizar um esforço muito maior para conseguir \nse deslocar. Durante o treinamento, o atleta pode estar nas \nseguintes situações:\n1.\t em repouso;\n2.\t movendo-se com velocidade constante;\n3.\t acelerado.\nCom relação às forças que atuam no atleta na situação 3, \na força de atrito é\nA\tigual à força elástica.\nB\ta reação à força normal.\nC\tigual à força peso do pneu.\nD\ta reação à força elástica realizada pela fita sobre o atleta.\nE\ta reação à força para trás realizada pelos pés do atleta sobre \no solo.",
+  "processado_em": "2026-05-08T14:06:51.120987",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

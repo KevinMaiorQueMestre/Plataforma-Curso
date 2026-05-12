@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q154",
+  "imagem": "q154.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 154,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 154\t\nUm professor, para promover a aprendizagem dos \nestudantes em estatística, propôs uma atividade. O objetivo \nera verificar o percentual de estudantes com massa corporal \nabaixo da média e altura acima da média de um grupo de \nestudantes. Para isso, usando uma balança e uma fita \nmétrica, avaliou uma amostra de dez estudantes, anotando as \nmedidas observadas. O gráfico apresenta a massa corporal, \nem quilograma, e a altura, em metro, obtidas na atividade.\nMassa corporal e altura de estudantes\nAltura (m)\nMassa corporal (kg)\n0\n1,8\n1,75\n1,7\n1,65\n1,6\n1,55\n1,5\n1,45\n20\n40\n60\n80\n100\n120\n140\nApós a coleta dos dados, os estudantes calcularam a \nmédia dos valores obtidos, referentes à massa corporal \ne à altura, obtendo, respectivamente, 80 kg e 1,65 m.\nQual é o percentual de estudantes dessa amostra com \nmassa corporal abaixo da média e altura acima da média?\nA\t\nA\t 10\nB\t\nB\t 20\nC\t\nC\t 30\nD\t\nD\t 50\nE\t\nE\t 70",
+  "processado_em": "2026-05-08T14:05:46.186479",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 166\t\nO dono de uma sorveteria armazena sorvete em potes de \n20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.\nA quantidade de taças que ele consegue servir a partir de um \npote cheio de sorvete é\nA\t5.\nB\t8.\nC\t50.\nD\t80.\nE 800",
+  "processado_em": "2026-05-08T14:07:10.020491",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

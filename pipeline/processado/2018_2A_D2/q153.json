@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q153",
+  "imagem": "q153.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 153,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 153\t\nUma pessoa tem massa corporal de 167 kg. Sob \norientação de um nutricionista, submeteu-se a um regime \nalimentar, em que se projeta que a perda de quilos mensais \nseja inferior a 5 kg. Após iniciar o regime, observou-se, \nnos três primeiros meses, uma perda de 4 kg por mês, \ne nos quatro meses seguintes, uma perda mensal de \n3 kg. Daí em diante, segundo as recomendações do \nnutricionista, deveria haver uma perda mensal fixa em \ncada um dos meses subsequentes, objetivando alcançar \na massa corporal de 71 kg ao final do regime.\nSegundo as projeções e recomendações do nutricionista, \npara alcançar seu objetivo, a duração mínima, em mês, \nque essa pessoa deverá manter o seu regime será de\nA\t 15.\nB\t 20.\nC\t 21.\nD\t 22.\nE\t 25.",
+  "processado_em": "2026-05-11T23:26:23.400340",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

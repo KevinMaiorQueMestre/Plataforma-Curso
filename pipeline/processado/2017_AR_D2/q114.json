@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\t\nO ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico \n(massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a \nequação química:\nÁcido salicílico\nAnidrido acético\nÁcido acetilsalicílico\nÁcido acético\nH2SO4\nApós a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às suas propriedades \nfarmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na \nforma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.\nUma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do \ntexto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?\nA\t 293\nB\t 345\nC\t 414\nD\t 690\nE\t 828",
+  "processado_em": "2026-05-11T23:25:50.445265",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

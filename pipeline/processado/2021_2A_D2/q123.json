@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 123\n\u0017\t\u0002\u001e\u0004\u0010%\u0004\t\r\u0004\t\u0002\u000eZ\u0005\u000e\u001e\u0004\t\u0002\u0003\b\u0003\u00173 e NaCl têm solubilidades \nmuito diferentes em água. Enquanto o carbonato de cálcio, \nprincipal constituinte do mármore, é praticamente insolúvel \nem água, o sal de cozinha é muito solúvel. A solubilidade \nde qualquer sal é o resultado do balanço entre a energia \nde rede (energia necessária para separar completamente \nos íons do sólido cristalino) e a energia envolvida na \n+\u000e\u000f\u0007\b\r\b'\u001d\u0004\u0002\u000f\u0004\t\u0002G\u0004\u0005\t\u0002\u000f\u000e\t%\n\u0007\t\u0004\t\u0002\n\u0010\u0002\t\u00042\f'\u001d\u0004(\n\u0014\u0010\u0002\u0007\n2\b'\u001d\u0004\u0002*\u0002\n\u0005\n\u0007J\u000e\b\u0002\u000f\n\u0002\u0007\n\u000f\n$\u0002\b\u0002\u0010\n\u0005\u0004\u0007\u0002\t\u00042\f!\u000e2\u000e\u000f\b\u000f\n\u0002\u000f\u0004\u0002\nprimeiro composto é explicada pelo fato de ele apresentar \nmaior\nA \u0002 \b\r\u0007\b'\u001d\u0004\u0002\n\u0005\r\u0007\n\u0002\t\n\f\t\u0002G\u0004\u0005\t(\nB \u0002 \u000f\n\u0005\t\u000e\u000f\b\u000f\n\u0002\u000f\u0004\u0002\tB2\u000e\u000f\u0004\u0002\u000eZ\u0005\u000e\u001e\u0004(\nC \u0002 \n\u0005\n\u0007J\u000e\b\u0002\u000f\n\u0002\u000e\u0004\u0005\u000eY\b'\u001d\u0004\u0002\u000f\u0004\u0002\u001e?2\u001e\u000e\u0004(\nD  eletronegatividade dos átomos.\nE  polarizabilidade do íon carbonato.",
+  "processado_em": "2026-05-08T14:04:14.790357",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 99\t\nNova vacina contra HIV utiliza DNA e proteínas recombinantes\nUma equipe de pesquisadores desenvolveu uma nova vacina que consiste em DNA e proteínas recombinantes. Associando a \nbiologia molecular e a bioinformática, rastrearam o genoma viral e obtiveram uma proteína que, quando ligada a anticorpos, \nresulta na destruição do vírus e das células infectadas por ele. Nos testes, a vacina se mostrou capaz de induzir anticorpos contra \no HIV. Essa técnica de produção de vacinas é chamada de “vacinologia reversa”.\nDisponível em: https://sciam.com.br. Acesso em: 22 nov. 2021 (adaptado).\nEssa tecnologia pode ser vantajosa em relação aos métodos tradicionais de preparo de vacinas porque\nA\tnecessita do agente causador da doença vivo e incapaz de fazer o ciclo infeccioso.\nB\telimina a necessidade de os agentes infecciosos serem cultivados e modificados.\nC\tutiliza microrganismos modificados que são incapazes de causar a doença.\nD\textingue o uso de partes de proteínas e açúcares dos agentes infecciosos.\nE\taproveita uma toxina inativada do agente infeccioso em sua fabricação.",
+  "processado_em": "2026-05-11T23:29:46.839050",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

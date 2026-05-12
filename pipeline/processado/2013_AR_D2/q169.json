@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nUma cozinheira, especialista em fazer bolos, utiliza \numa forma no formato representado na figura:\n Nela identifica-se a representação de duas figuras \ngeométricas tridimensionais.\nEssas figuras são\nA\t um tronco de cone e um cilindro.\nB\t um cone e um cilindro.\nC\t um tronco de pirâmide e um cilindro.\nD\t dois troncos de cone.\nE\t dois cilindros.",
+  "processado_em": "2026-05-08T14:00:24.262360",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

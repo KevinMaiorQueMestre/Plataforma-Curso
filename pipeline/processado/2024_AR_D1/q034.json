@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q034",
+  "imagem": "q034.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 34,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 34\t\nTeclado amazônico\nEm novembro de 2023, uma professora indígena \nrecebeu uma missão: verter as regras de um jogo de \ntabuleiro infantil do português para o tukano, sua língua \nnativa. Com vinte anos de experiência como professora \nde línguas em Taracuá, no Amazonas, ela já se dedicava à \ntradução havia tempos. O trabalho ficou mais fácil graças \na um aplicativo lançado no ano anterior: com o Linklado \nem seu computador, ela traduziu as sete páginas das \ninstruções do jogo em dois dias. Sem esse recurso, a tarefa \nseria bem mais trabalhosa. Antes dele, diz a professora, \nas transcrições de línguas indígenas exigiam o esforço \nquase manual de produzir diacríticos (acentos gráficos) \ne letras que não constam no teclado de aplicativos de \nmensagens ou programas de texto.\nPara a pesquisadora do Instituto Nacional de Pesquisas \nda Amazônia (Inpa), idealizadora do aplicativo, o Linklado \nrepresenta uma revolução. O programa não restringe \ncombinações de acentos, e isso poderá facilitar a criação \nde representações gráficas para fonemas que ainda não \ntêm forma escrita. “Eu mirei em uma dor e atingimos várias \noutras”, diz.\n“O Linklado possibilita que o Brasil reconheça a sua \ndiversidade linguística”, afirma uma antropóloga que é \ncolega da pesquisadora no Inpa e faz parte da equipe do \naplicativo. Ela defende que escrever na língua materna é \numa das principais formas de preservá-la.\nDisponível em: https://piaui.folha.uol.com.br. \nAcesso em: 3 fev. 2024 (adaptado).\nDe acordo com esse texto, o aplicativo Linklado contribuiu \npara a\nA\tcriação de fonemas representativos de línguas indígenas \nno meio digital.\nB\tdemocratização do registro escrito de línguas dos povos \noriginários.\nC\tadaptação de regras de jogos de tabuleiro de origem \nindígena.\nD\tdivulgação das técnicas de tradução de línguas indígenas.\nE\taprendizagem da lingua portuguesa pelos indígenas.",
+  "processado_em": "2026-05-08T14:06:10.876882",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

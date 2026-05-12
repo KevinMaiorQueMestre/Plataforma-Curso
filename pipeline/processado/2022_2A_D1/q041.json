@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q041",
+  "imagem": "q041.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 41,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 41\t\nA partir da década de 1980, o voleibol começa \na ser visto como um ótimo meio de comercialização \nde produtos esportivos. Esse fenômeno apresenta \numa vertiginosa escalada na década de 1990, e \na Federação Internacional de Voleibol, tendo o \nmexicano Rubem Acosta na presidência, vê-se \ncom a obrigação de alterar algumas regras para a \nmelhoria do voleibol como espetáculo, já que a alta \nperformance alcançada pelas equipes vinha tornando \nenfadonhas as competições.\nSANTOS NETO, S. C. A evolução das regras visando ao espetáculo no voleibol. \nDisponível em: www.efdeportes.com. Acesso em: 3 ago. 2012 (adaptado).",
+  "processado_em": "2026-05-08T14:04:40.165735",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

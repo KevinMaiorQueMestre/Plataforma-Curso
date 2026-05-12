@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 123\t\nO Brasil é sertanejo\nQue tipo de música simboliza o Brasil? Eis uma \nquestão discutida há muito tempo, que desperta opiniões \nextremadas. Há fundamentalistas que desejam impor ao \npúblico um tipo de som nascido das raízes socioculturais \ndo país. O samba. Outros, igualmente nacionalistas, \ndesprezam tudo aquilo que não tem estilo. Sonham com \no império da MPB de Chico Buarque e Caetano Veloso. \nUm terceiro grupo, formado por gente mais jovem, escuta \ne cultiva apenas a música internacional, em todas as \nvertentes. E mais ou menos ignora o resto.\nA realidade dos hábitos musicais do brasileiro agora \nestá claro, nada tem a ver com esses estereótipos. \nO gênero que encanta mais da metade do país é o \nsertanejo, seguido de longe pela MPB e pelo pagode. \nOutros gêneros em ascensão, sobretudo entre as classes \nC, D e E, são o funk e o religioso, em especial o gospel. \nRock e música eletrônica são músicas de minoria.\nÉ o que demonstra uma pesquisa pioneira feita entre \nagosto de 2012 e agosto de 2013 pelo Instituto Brasileiro \nde Opinião Pública e Estatística (Ibope). A pesquisa Tribos \nmusicais — o comportamento dos ouvintes de rádio sob \numa nova ótica faz um retrato do ouvinte brasileiro e traz \nalgumas novidades. Para quem pensava que a MPB e o \nsamba ainda resistiam como baluartes da nacionalidade, \numa má notícia: os dois gêneros foram superados em \npopularidade. O Brasil moderno não tem mais o perfil \nsonoro dos anos 1970, que muitos gostariam que se \neternizasse. A cara musical do país agora é outra.\nGIRON, L. A. Época, n. 805, out. 2013 (fragmento).\nO texto objetiva convencer o leitor de que a configuração \nda preferência musical dos brasileiros não é mais a \nmesma da dos anos 1970. A estratégia de argumentação \npara comprovar essa posição baseia-se no(a)\nA\t apresentação dos resultados de uma pesquisa que \nretrata o quadro atual da preferência popular relativa \nà música brasileira.\nB\t caracterização das opiniões relativas a determinados \ngêneros, considerados os mais representativos da \nbrasilidade, como meros estereótipos.\nC\t uso de estrangeirismos, como rock, funk e gospel, \npara compor um estilo próximo ao leitor, em sintonia \ncom o ataque aos nacionalistas.\nD\t ironia com relação ao apego a opiniões superadas, \ntomadas como expressão de conservadorismo e \nanacronismo, com o uso das designações “império” \ne “baluarte”.\nE\t contraposição a impressões fundadas em elitismo e \npreconceito, com a alusão a artistas de renome para \nmelhor demonstrar a consolidação da mudança do \ngosto musical popular.",
+  "processado_em": "2026-05-08T14:00:36.625752",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

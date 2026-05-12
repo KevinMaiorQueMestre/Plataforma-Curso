@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q010",
+  "imagem": "q010.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 10,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 10\t\nCiente de que, no campo da criação, as inovações \ntecnológicas abrem amplo leque de possibilidades \n— ao permitir, e mesmo estimular, que o artista \nexplore a fundo, em seu processo criativo, questões \ncomo a aleatoriedade, o acaso, a não linearidade e a \nhipermídia —, Leo Cunha comenta que, no que tange \nao campo da divulgação, as alternativas são ainda \nmais evidentes: “Afinal, é imensa a capacidade de \nreprodução, multiplicação e compartilhamento das \nobras artísticas/culturais. Ao mesmo tempo, ganham \ndimensão os dilemas envolvidos com a questão \nda autoria, dos direitos autorais, da reprodução e \nintervenção não autorizadas, entre outras questões”. \nJá segundo a professora Yacy-Ara Froner, o uso de \nferramentas tecnológicas não pode ser visto como \num fim em si mesmo. Isso porque computadores, \nsamplers, programas de imersão, internet e intranet, \nvídeo, televisão, rádio, GPD etc. são apenas suportes \ncom os quais os artistas exercem sua imaginação.\nSILVA JR., M. G. Movidas pela dúvida. Minas faz Ciências, \nn. 52, dez.-fev. 2013 (adaptado).\nSegundo os autores citados no texto, a expansão de \npossibilidades no campo das manifestações artísticas \npromovida pela internet pode pôr em risco o(a)\nA\t\nA\t sucesso dos artistas.\nB\t\nB\t valorização dos suportes.\nC\t\nC\t proteção da produção estética.\nD\t\nD\t modo de distribuição de obras.\nE\t\nE\t compartilhamento das obras artísticas.",
+  "processado_em": "2026-05-08T14:04:58.362145",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

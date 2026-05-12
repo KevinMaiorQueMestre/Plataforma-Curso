@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\t\nNos automóveis, é importante garantir que o centro de \nmassa (CM) de cada conjunto roda/pneu coincida com o \nseu centro geométrico. Esse processo é realizado em uma \nmáquina de balanceamento, na qual o conjunto roda e pneu \né colocado para girar a uma velocidade de valor constante. \nCom base nas oscilações medidas, a máquina indica a \nposição do centro de massa do conjunto, e pequenas \npeças de chumbo são fixadas em lugares específicos da \nroda até que as vibrações diminuam. Durante o treinamento \nde sua equipe, a fim de corrigir a posição do centro de \nmassa indicada pela máquina, um mecânico apresenta \no esquema a seguir, com cinco possíveis pontos da roda \npara posicionar uma peça de chumbo.\nEm qual ponto deve ser fixada a peça de chumbo para corrigir \na posição do centro de massa desse conjunto roda/pneu?\nA\t1\nB\t2\nC\t3\nD\t4\nE\t5",
+  "processado_em": "2026-05-08T14:06:17.996834",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

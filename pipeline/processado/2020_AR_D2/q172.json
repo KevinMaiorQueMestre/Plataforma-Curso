@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 172        \nO técnico de um time de basquete pretende aumentar \na estatura média de sua equipe de 1,93 m para, no \nmínimo, 1,99 m. Para tanto, dentre os 15 jogadores que \nfazem parte de sua equipe, irá substituir os quatro mais \nbaixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. \nPara isso, o técnico contratou um novo jogador de 2,02 m. \nOs outros três jogadores que ele ainda precisa contratar \ndevem satisfazer à sua necessidade de aumentar a média \ndas estaturas da equipe. Ele fi xará a média das estaturas \npara os três jogadores que ainda precisa contratar dentro \ndo critério inicialmente estabelecido. \nQual deverá ser a média mínima das estaturas, em metro, \nque ele deverá fi xar para o grupo de três novos jogadores \nque ainda irá contratar?\nA  1,96\nB  1,98 \nC  2,05\nD  2,06 \nE  2,08",
+  "processado_em": "2026-05-11T23:28:20.159232",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

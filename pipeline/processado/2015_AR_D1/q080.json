@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 80\t\nPesticidas são substâncias utilizadas para promover \no controle de pragas. No entanto, após sua aplicação em \nambientes abertos, alguns pesticidas organoclorados \nsão arrastados pela água até lagos e rios e, ao passar \npelas guelras dos peixes, podem difundir-se para seus \ntecidos lipídicos e lá se acumularem.\nA característica desses compostos, responsável pelo \nprocesso descrito no texto, é o(a)\nA\t baixa polaridade.\nB\t baixa massa molecular.\nC\t ocorrência de halogênios.\nD\t tamanho pequeno das moléculas.\nE\t presença de hidroxilas nas cadeias.",
+  "processado_em": "2026-05-08T14:00:48.506270",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

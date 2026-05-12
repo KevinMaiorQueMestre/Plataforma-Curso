@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 147\t\nOs exercícios físicos são recomendados para o \nbom funcionamento do organismo, pois aceleram o \nmetabolismo e, em consequência, elevam o consumo \nde calorias. No gráfico, estão registrados os valores \ncalóricos, em kcal, gastos em cinco diferentes atividades \nfísicas, em função do tempo dedicado às atividades, \ncontado em minuto.\n140\n(kcal)\n120\n100\n80\n60\n40\n20\n5\n10\nII\nIII\nIV\nV\nI\n15\n20\n25\n30\nTempo (min)\nQual dessas atividades físicas proporciona o maior \nconsumo de quilocalorias por minuto?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V",
+  "processado_em": "2026-05-11T23:27:35.986796",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

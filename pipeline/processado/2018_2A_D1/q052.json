@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q052",
+  "imagem": "q052.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 52,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 52\t\nNa África, os europeus morriam como moscas; aqui \neram os índios que morriam: agentes patogênicos da \nvaríola, do sarampo, da coqueluche, da catapora, do tifo, \nda difteria, da gripe, da peste bubônica, e possivelmente \nda malária, provocaram no Novo Mundo o que Dobyns \nchamou de “um dos maiores cataclismos biológicos do \nmundo”. No entanto, é importante enfatizar que a falta \nde imunidade, devido ao seu isolamento, não basta \npara explicar a mortandade, mesmo quando ela foi de \norigem patogênica.\nCUNHA, M. C. Índios no Brasil: história, direitos e cidadania. São Paulo: Claro Enigma, 2012.\nUma ação empreendida pelos colonizadores que \ncontribuiu para o desastre mencionado foi o(a)\nA\t desqualificação do trabalho das populações nativas.\nB\t abertura do mercado da colônia às outras nações.\nC\t interdição de Portugal aos saberes autóctones.\nD\t incentivo da metrópole à emigração feminina.\nE\t estímulo dos europeus às guerras intertribais.",
+  "processado_em": "2026-05-11T23:26:12.872678",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

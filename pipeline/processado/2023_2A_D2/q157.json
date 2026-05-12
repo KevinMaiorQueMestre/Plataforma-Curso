@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nEm um pronto-socorro, um paciente ingeriu, à \nmeia-noite, um comprimido que continha 800 mg de uma \nmedicação. O médico, ao liberar o paciente, informou \nque, caso ele voltasse a sentir dores, deveria tomar outro \ncomprimido daquele, no máximo três vezes, nas próximas \n24 horas, dependendo das recomendações da bula. \nComo o paciente voltou a sentir dores ao chegar em \ncasa, ainda na madrugada, decidiu seguir a orientação \ndo médico e leu a bula do remédio. O paciente verificou \nque, a cada 6 horas, a quantidade dessa medicação no \norganismo se reduzia à metade da quantidade anterior. \nObservou também a recomendação de que a pessoa \ndeveria, preferencialmente, ingerir um novo comprimido \nquando a quantidade de medicação no organismo \nestivesse compreendida entre 200 mg e 100 mg.\nSeguindo as informações e recomendações da bula, em \nque período(s) do dia o paciente deveria tomar novamente \no remédio?\nA\t\nA\t Um na mesma madrugada, um de manhã e mais um \nà tarde.\nB\t\nB\t Dois pela manhã e mais um à tarde.\nC\t\nC\t Um pela manhã, um à tarde e mais um à noite.\nD\t\nD\t Apenas um à tarde.\nE\t\nE\t Apenas um à noite.",
+  "processado_em": "2026-05-08T14:05:28.138776",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

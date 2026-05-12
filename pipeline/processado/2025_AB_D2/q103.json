@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 103\t\nA leptospirose é uma zoonose causada por uma bactéria do \ngênero Leptospira. A transmissão ocorre através da penetração \nativa da bactéria na pele e mucosas, quando em contato com \nágua, alimentos ou solo contendo urina de animais infectados. \nOs roedores sinantrópicos comensais, como as ratazanas, \ndesempenham o papel de principais reservatórios da doença \nem áreas urbanas.\nDisponível em: www.bio.fiocruz.br. Acesso em: 22 jun. 2015 (adaptado).\nQuais medidas são recomendadas para prevenir essa doença \nem áreas urbanas?\nA\tUtilizar máscara para proteger a boca e evitar acúmulo de \nobjetos nos quintais.\nB\tLavar as mãos antes das refeições e manter os terrenos \nbaldios limpos e capinados.\nC\tEvitar o contato com água de esgotos ou de enchentes e dar \ndestino adequado ao lixo doméstico.\nD\tConsumir água tratada e manter os alimentos em recipientes \nfechados e em locais elevados do solo.\nE\tAplicar repelentes corporais e retirar as sobras de alimento \nde animais domésticos antes do anoitecer.",
+  "processado_em": "2026-05-08T14:06:50.114555",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

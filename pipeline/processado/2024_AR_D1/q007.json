@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 07\t\nConheça histórias de atletas paralímpicas que \ntrocaram de modalidade durante a carreira esportiva\nJane Karla: a goiana de 45 anos teve poliomielite aos três \nanos, o que prejudicou seus movimentos das pernas. Em \n2003, iniciou no tênis de mesa e conseguiu conquistar títulos \nnacionais e internacionais. Mas conheceu o tiro com arco e, \nem 2015, optou por se dedicar somente à nova modalidade. \nEm seu ano de estreia no tiro, já faturou a medalha de ouro \nnos Jogos Parapan-Americanos de Toronto 2015.\nElizabeth Gomes: a santista de 55 anos era jogadora de \nvôlei quando foi diagnosticada com esclerose múltipla em \n1993. Ingressou no Movimento Paralímpico pelo basquete \nem cadeira de rodas até experimentar o atletismo. \nChegou a praticar as duas modalidades simultaneamente",
+  "processado_em": "2026-05-08T14:06:09.027223",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 77\t\nFigura 1\nTERRA\nMAR\nMORNO\nALTA      PRESSÃO\nBAIXA\nPRESSÃO\nQUENTE\nFORMAÇÃO DA BRISA MARINHA\nFigura 2\nTERRA\nMAR\nMORNO\nBAIXA\nPRESSÃO\nFRIO\nALTA       PRESSÃO\nFORMAÇÃO DO  TERRAL\nSALGADO-LABOURIAU, M. L. História ecológica da Terra. \nSão Paulo: Edgard Blucher, 1994 (adaptado).\nNas imagens constam informações sobre a formação de \nbrisas em áreas litorâneas. Esse processo é resultado de\nA\t \tuniformidade do gradiente de pressão atmosférica.\nB\t \taquecimento diferencial da superfície.\nC\t \tquedas acentuadas de médias térmicas.\nD\t \tmudanças na umidade relativa do ar.\nE\t \tvariações altimétricas acentuadas.",
+  "processado_em": "2026-05-11T23:25:42.918454",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

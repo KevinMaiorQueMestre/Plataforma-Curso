@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 103\t\nA figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e \nbiogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, \nusado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.\n \nRede de distribuição \nelétrica\nTurbinas \neólicas\nProdução de \nhidrogênio\nArmazenamento \nde hidrogênio\nCombustível\nHidrogênio\nBiogás\nHidrogênio\nHidrogênio\nEletricidade\nEletricidade\nEletricidade\nMistura\nArmazenamento \nde biogás\nCalor\nDestino da\n energia térmica\nPlanta mista\nde geração\nde energia\nVálvula para\nmistura\n \nDisponível em: www.enertrag.com. Acesso em: 24 abr. 2015 (adaptado).\nMesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está \ninstalada, pois o(a)\nA\t planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétrica.\nB\t hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.\nC\t conjunto de turbinas continua girando com a mesma velocidade, por inércia, mantendo a eficiência anterior.\nD\t combustão da mistura biogás-hidrogênio gera diretamente energia elétrica adicional para a manutenção da estação.\nE\t planta mista de geração de energia é capaz de utilizar todo o calor fornecido na combustão para a geração de eletricidade.",
+  "processado_em": "2026-05-11T23:25:49.939443",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "inteira",
+    "linha_x": 290.6
+  }
+}

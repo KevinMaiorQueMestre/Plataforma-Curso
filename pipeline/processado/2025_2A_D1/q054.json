@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 54 \nO jornal é a verdadeira forma de república do pensamento. \nÉ a locomotiva intelectual em viagem para mundos \ndesconhecidos, é a literatura comum, universal, altamente \ndemocrática, reproduzida todos os dias, levando em si a frescura \ndas ideias e o fogo das convicções.\nASSIS, M. Obra completa. Rio de Janeiro: Nova Aguilar, 1994.\nO texto de Machado de Assis, publicado no Correio Mercantil, \nem 1859, analisava o surgimento do jornal como um meio de \ncomunicação que atendia a função social de\nA fomentar a reflexão crítica.\nB limitar o acirramento político.\nC restringir o avanço da oposição.\nD difundir o crescimento econômico.\nE promover a unificação do pensamento.",
+  "processado_em": "2026-05-08T14:06:29.251673",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

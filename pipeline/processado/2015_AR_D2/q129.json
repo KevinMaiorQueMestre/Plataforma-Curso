@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nPosso mandar por e-mail?\nAtualmente, é comum “disparar” currículos na \ninternet com a expectativa de alcançar o maior número \npossível de selecionadores. Essa, no entanto, é uma \nideia equivocada: é preciso saber quem vai receber seu \ncurrículo e se a vaga é realmente indicada para seu \nperfil, sob o risco de estar “queimando o filme” com um \nfuturo empregador. Ao enviar o currículo por e-mail, tente \nsaber quem vai recebê-lo e faça um texto sucinto de \napresentação, com a sugestão a seguir:\nAssunto: Currículo para a vaga de gerente de marketing\nMensagem: Boa tarde. Meu nome é José da Silva e \ngostaria de me candidatar à vaga de gerente de marketing. \nMeu currículo segue anexo.\nGuia da língua 2010: modelos e técnicas. Língua Portuguesa, 2010 (adaptado).\nO texto integra um guia de modelos e técnicas de \nelaboração de textos e cumpre a função social de\nA\t divulgar um padrão oficial de redação e envio de \ncurrículos.\nB\t indicar um modelo de currículo para pleitear uma \nvaga de emprego.\nC\t instruir o leitor sobre como ser eficiente no envio de \ncurrículo por e-mail.\nD\t responder a uma pergunta de um assinante da revista \nsobre o envio de currículo por e-mail.\nE\t orientar o leitor sobre como alcançar o maior número \npossível de selecionadores de currículos",
+  "processado_em": "2026-05-08T14:00:55.827141",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

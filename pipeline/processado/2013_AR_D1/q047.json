@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 47\t\nO brasileiro consome em média 500 miligramas de \ncálcio por dia, quando a quantidade recomendada é o \ndobro. Uma alimentação balanceada é a melhor decisão \npara evitar problemas no futuro, como a osteoporose, \numa doença que atinge os ossos. Ela se caracteriza pela \ndiminuição substancial de massa óssea, tornando os \nossos frágeis e mais suscetíveis a fraturas.\nDisponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado).\nConsiderando-se o valor de 6 × 1023 mol–1 para a constante \nde Avogadro e a massa molar do cálcio igual a 40 g/mol, \nqual a quantidade mínima diária de átomos de cálcio a ser \ningerida para que uma pessoa supra suas necessidades?\nA\t 7,5 × 1021\nB\t 1,5 × 1022\nC\t 7,5 × 1023\nD\t 1,5 × 1025\nE\t 4,8 × 1025",
+  "processado_em": "2026-05-08T14:00:12.415684",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\t 212 952.\nB\t 229 913.\nC\t 240 621.\nD\t 255 496.\nE\t 298 041.\nQUESTÃO 176\t\nA cerâmica possui a propriedade da contração, \nque consiste na evaporação da água existente em um \nconjunto ou bloco cerâmico submetido a uma determinada \ntemperatura elevada: em seu lugar aparecendo “espaços \nvazios” que tendem a se aproximar. No lugar antes ocupado \npela água vão ficando lacunas e, consequentemente, o \nconjunto tende a retrair-se. Considere que no processo de \ncozimento a cerâmica de argila sofra uma contração, em \ndimensões lineares, de 20%.\nDisponível em: www.arq.ufsc.br. Acesso em: 30 mar. 2012 (adaptado).\nLevando em consideração o processo de cozimento e a \ncontração sofrida, o volume V de uma travessa de argila, \nde forma cúbica de aresta a, diminui para um valor que é\nA\t 20% menor que V, uma vez que o volume do cubo é \ndiretamente proporcional ao comprimento de seu lado.\nB\t 36% menor que V, porque a área da base diminui de \na2 para ((1 − 0,2)a)2.\nC\t 48,8% menor que V, porque o volume diminui de \na3 para (0,8a)3.\nD\t 51,2% menor que V, porque cada lado diminui para \n80% do comprimento original.\nE\t 60% menor que V, porque cada lado diminui 20%.",
+  "processado_em": "2026-05-08T13:59:15.869376",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

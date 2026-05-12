@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 125\t\nPoesia quentinha\nProjeto literário publica poemas em sacos de pão na \ncapital mineira\nSe a literatura é mesmo o alimento da alma, então os \nmineiros estão diante de um verdadeiro banquete. Mais do \nque um pãozinho com manteiga, os moradores do bairro \nde Barreiro, em Belo Horizonte (MG), estão consumindo \npoesia brasileira no café da manhã. Graças ao projeto \n“Pão e Poesia”, que faz do saquinho de pão um espaço \npara veiculação de poemas, escritores como Affonso \nRomano de Sant’Anna e Fernando Brant dividem espaço \ncom estudantes que passaram por oficinas de escrita \npoética. São ao todo 250 mil embalagens, distribuídas \nem padarias da região de Belo Horizonte, que trazem a \nboa literatura para o cotidiano de pessoas, além de dar \numa chance a escritores novatos de verem seus textos \nimpressos. Criado em 2008 por um analista de sistemas \napaixonado por literatura, o “Pão e Poesia” já recebeu \ndois prêmios do Ministério da Cultura.\nLíngua Portuguesa, n. 71, set. 2011.\nA proposta de um projeto como o “Pão e Poesia” objetiva \ninovar em sua área de atuação, pois\nA\t privilegia novos escritores em detrimento daqueles já \nconsagrados.\nB\t resgata poetas que haviam perdido espaços de \npublicação impressa.\nC\t prescinde de critérios de seleção em prol da \npopularização da literatura.\nD\t propõe acesso à literatura a públicos diversos.\nE alavanca projetos de premiações antes esquecidos",
+  "processado_em": "2026-05-08T14:00:55.325607",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

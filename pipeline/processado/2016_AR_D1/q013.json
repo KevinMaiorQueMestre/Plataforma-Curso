@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q013",
+  "imagem": "q013.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 13,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 13\t\nA Operação Condor está diretamente vinculada \nàs experiências históricas das ditaduras civil-militares \nque se disseminaram pelo Cone Sul entre as décadas \nde 1960 e 1980. Depois do Brasil (e do Paraguai de \nStroessner), foi a vez da Argentina (1966), Bolívia \n(1966 e 1971), Uruguai e Chile (1973) e Argentina \n(novamente, em 1976). Em todos os casos se \ninstalaram ditaduras civil-militares (em menor ou \nmaior medida) com base na Doutrina de Segurança \nNacional e tendo como principais características um \nanticomunismo militante, a identificação do inimigo \ninterno, a imposição do papel político das Forças \nArmadas e a definição de fronteiras ideológicas.\nPADRÓS, E. S. et al. Ditadura de Segurança Nacional no Rio Grande do Sul (1964-1985): \nhistória e memória. Porto Alegre: Corag, 2009 (adaptado).\nLevando-se em conta o contexto em que foi criada, a \nreferida operação tinha como objetivo coordenar a\nA\t modificação de limites territoriais.\nB\t sobrevivência de oficiais exilados.\nC\t interferência de potências mundiais.\nD\t repressão de ativistas oposicionistas.\nE\t implantação de governos nacionalistas.",
+  "processado_em": "2026-05-08T14:01:03.946639",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

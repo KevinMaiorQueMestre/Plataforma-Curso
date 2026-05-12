@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 97\t\nA vazão do Rio Tietê na capital paulista aumentou de 174 m3/s no início do século XX para mais de 1 000 m3/s na primeira \ndécada do século XXI. O rebaixamento da calha foi uma obra concluída em 2005 que alargou o rio em até 30 m e o aprofundou \nem 2,5 m na região metropolitana. Mesmo assim, São Paulo ainda sofre com os problemas das enchentes.\nGoverno de SP deixou de limpar o Rio Tietê por quase três anos. Disponível em: http://noticias.uol.com.br. Acesso em: 13 nov. 2011 (adaptado).\nEsse problema vem ocorrendo em outros centros urbanos e tem como causa comum o aumento da\nA\tindustrialização.\nB\ttransposição de rios.\nC\tárea de solo impermeabilizado.\nD\tdescarga de resíduos químicos.\nE\teutrofização de ambientes aquáticos.",
+  "processado_em": "2026-05-11T23:29:46.758969",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

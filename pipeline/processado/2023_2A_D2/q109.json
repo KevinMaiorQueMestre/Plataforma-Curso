@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 109\t\nAs anfetaminas são drogas sintéticas utilizadas como \nmoderadores de apetite no tratamento de obesidade. \nEssas drogas atuam sobre receptores celulares \nestimulando a produção de adrenalina, um hormônio \ncatabólico responsável por várias funções fisiológicas \nno organismo. Entretanto, a produção exagerada desse \nhormônio pode gerar mudanças fisiológicas indesejáveis \ne até perigosas para a saúde.\nA alteração fisiológica observada pelo uso indevido \ndessas drogas é o(a)\nA\t\nA\t diminuição da pressão arterial.\nB\t\nB\t diminuição da frequência cardíaca.\nC\t\nC\t aumento da contração dos brônquios.\nD\t\nD\t aumento das secreções gastrointestinais.\nE\t\nE\t aumento da concentração de glicose sanguínea.",
+  "processado_em": "2026-05-08T14:05:25.049441",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

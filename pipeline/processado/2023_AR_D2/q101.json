@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\t\nO fogão por indução funciona a partir do surgimento \nde uma corrente elétrica induzida no fundo da panela, \ncom consequente transformação de energia elétrica \nem calor por efeito Joule. A principal vantagem desses \nfogões é a eficiência energética, que é substancialmente \nmaior que a dos fogões convencionais.\nA corrente elétrica mencionada é induzida por",
+  "processado_em": "2026-05-08T14:05:43.139987",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

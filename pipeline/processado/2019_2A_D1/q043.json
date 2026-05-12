@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 43\t\nVocê vende uma casa, depois de ter morado nela \ndurante anos; você a conhece necessariamente melhor \ndo que qualquer comprador possível. Mas a justiça \né, então, informar o eventual comprador acerca de \nqualquer defeito, aparente ou não, que possa existir \nnela, e mesmo, embora a lei não obrigue a tanto, \nacerca de algum problema com a vizinhança. E, sem \ndúvida, nem todos nós fazemos isso, nem sempre, nem \ncompletamente.\nMas quem não vê que seria justo fazê-lo e que \nsomos injustos não o fazendo? A lei pode ordenar essa \ninformação ou ignorar o problema, conforme os casos; \nmas a justiça sempre manda fazê-lo.\nDir-se-á que seria difícil, com tais exigências, ou \npouco vantajoso, vender casas... Pode ser. Mas onde \nse viu a justiça ser fácil ou vantajosa? Só o é para quem \na recebe ou dela se beneficia, e melhor para ele; mas só \né uma virtude em quem a pratica ou a faz.\nDevemos então renunciar nosso próprio interesse? \nClaro que não. Mas devemos submetê-lo à justiça, e \nnão o contrário. Senão? Senão, contente-se com ser \nrico e não tente ainda por cima ser justo.\nCOMTE-SPONVILLE, A. Pequeno tratado das grandes virtudes. \nSão Pa lo Martins Fontes 1995",
+  "processado_em": "2026-05-11T23:26:59.151720",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

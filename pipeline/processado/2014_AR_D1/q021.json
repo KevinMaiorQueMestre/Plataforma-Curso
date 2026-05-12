@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 21\t\nEstatuto da Frente Negra Brasileira (FNB)\nArt. 1º - Fica fundada nesta cidade de São Paulo, para \nse irradiar por todo o Brasil, a Frente Negra Brasileira, \nunião política e social da Gente Negra Nacional, para a \nafirmação dos direitos históricos da mesma, em virtude \nda sua atividade material e moral no passado e para \nreivindicação de seus direitos sociais e políticos, atuais, \nna Comunhão Brasileira.\nDiário Oficial do Estado de São Paulo, 4 nov. 1931.\nQuando foi fechada pela ditadura do Estado Novo, em \n1937, a FNB caracterizava-se como uma organização\nA\t política, engajada na luta por direitos sociais para a \npopulação negra no Brasil.\nB\t beneficente, dedicada ao auxílio dos negros pobres \nbrasileiros depois da abolição.\nC\t paramilitar, voltada para o alistamento de negros na \nluta contra as oligarquias regionais.\nD\t democrático-liberal, \nenvolvida \nna \nRevolução \nConstitucionalista conduzida a partir de São Paulo.\nE\t internacionalista, ligada à exaltação da identidade \ndas populações africanas em situação de diáspora.",
+  "processado_em": "2026-05-08T14:00:28.075770",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

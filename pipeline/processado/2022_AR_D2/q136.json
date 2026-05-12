@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "MATEMÁTICA E SUAS TECNOLOGIAS\nQuestões de 136 a 180\nQUESTÃO 136\t\nEm uma universidade, atuam professores que estão \nenquadrados funcionalmente pela sua maior titulação: \nmestre ou doutor. Nela há, atualmente, 60 mestres e \n40 doutores. Os salários mensais dos professores mestres \ne dos doutores são, respectivamente, R$ 8 000,00 e \nR$ 12 000,00.\nA diretoria da instituição pretende proporcionar um \naumento salarial diferenciado para o ano seguinte, de tal \nforma que o salário médio mensal dos professores dessa \ninstituição não ultrapasse R$ 12 240,00. A universidade já \nestabeleceu que o aumento salarial será de 25% para os \nmestres e precisa ainda definir o percentual de reajuste \npara os doutores.\nMantido o número atual de professores com suas atuais \ntitulações, o aumento salarial, em porcentagem, a ser \nconcedido aos doutores deverá ser de, no máximo,",
+  "processado_em": "2026-05-08T14:05:11.368187",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

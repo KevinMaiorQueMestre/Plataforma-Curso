@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 109\t\nO monóxido de carbono (CO) é um gás extremamente tóxico. Ele interfere no processo respiratório dos \nvertebrados, pois se o CO estiver presente no ar, haverá no sangue uma “competição” entre o CO e o O2.\nInfelizmente, grande parte da população convive diariamente com a presença desse gás, uma vez que ele é \nproduzido em grandes quantidades\nA\t nas queimadas em matas e florestas.\nB\t na decomposição da matéria orgânica nos “lixões” urbanos.\nC\t no abdômen de animais ruminantes criados em sistemas de confinamento.\nD\t no processo de combustão incompleta de combustíveis fósseis.\nE\t nas chaminés das indústrias que utilizam madeira de reflorestamento como combustível.",
+  "processado_em": "2026-05-11T23:26:20.780875",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 311.6
+  }
+}

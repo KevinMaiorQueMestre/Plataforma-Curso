@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 79\t\nUma criança com deficiência mental deve ser mantida \nem casa ou mandada a uma instituição? Um parente mais \nvelho que costuma causar problemas deve ser cuidado \nou podemos pedir que vá embora? Um casamento infeliz \ndeve ser prolongado pelo bem das crianças?\nMURDOCH, I. A soberania do bem. São Paulo: Unesp, 2013.\nOs questionamentos apresentados no texto possuem \numa relevância filosófica à medida que problematizam \nconflitos que estão nos domínios da\nA\t política e da esfera pública.\nB\t teologia e dos valores religiosos.\nC\t lógica e da validade dos raciocínios.\nD\t ética e dos padrões de comportamento.\nE\t epistemologia e dos limites do conhecimento.",
+  "processado_em": "2026-05-11T23:26:16.874102",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

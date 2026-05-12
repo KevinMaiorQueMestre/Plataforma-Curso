@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 20\t\nO projeto DataViva consiste na oferta de dados oficiais \nsobre exportações, atividades econômicas, localidades e \nocupações profissionais de todo o Brasil. Num primeiro \nmomento, o DataViva construiu uma ferramenta que \npermitia a análise da economia mineira embasada por \nessa perspectiva metodológica complexa e diversa. \nNo entanto, diante das possibilidades oferecidas pelas \nbases de dados trabalhadas, a plataforma evoluiu para \num sistema mais completo. De maneira interativa e \ndidática, o usuário é guiado por meio das diversas formas \nde navegação dos aplicativos. Além de informações \nsobre os produtos exportados, bem como acerca do \nvolume das exportações em cada um dos estados e",
+  "processado_em": "2026-05-11T23:27:21.205610",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

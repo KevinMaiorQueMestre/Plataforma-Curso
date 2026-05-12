@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 162\t\nEm uma cidade, existem cinco caminhos ligando dois pontos t\npontos turísticos ao outro, buscou informações sobre essas opçõe\nO turista escolheu o caminho que lhe permite chegar a seu \nmáximas permitidas em cada trecho.\nO caminho escolhido foi o\nA\tI.\nB\tII.\nC\tIII.\nD\tIV.\nE\tV.",
+  "processado_em": "2026-05-08T14:06:53.653056",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

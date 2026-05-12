@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q166",
+  "imagem": "q166.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 166,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 166\t\nUma criança deseja criar triângulos utilizando palitos \nde fósforo de mesmo comprimento. Cada triângulo será \nconstruído com exatamente 17 palitos e pelo menos \num dos lados do triângulo deve ter o comprimento \nde exatamente 6 palitos. A figura ilustra um triângulo \nconstruído com essas características.\nA quantidade máxima de triângulos não congruentes dois \na dois que podem ser construídos é\nA\t 3.\nB\t 5.\nC\t 6.\nD\t 8.\nE\t 10.",
+  "processado_em": "2026-05-08T14:00:40.018905",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

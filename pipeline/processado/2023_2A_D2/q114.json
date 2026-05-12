@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q114",
+  "imagem": "q114.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 114,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 114\t\nPara que um produto seja vendido como orgânico, \na unidade produtora deve passar por um período de \nconversão que, no caso do café, pode durar até três \nanos, deixando o agricultor com poucas alternativas de \nprodução durante esse tempo. Outro aspecto importante \né a preservação das características orgânicas do produto, \ndurante as fases de beneficiamento e comercialização, \ndiante do risco de contaminação. O café orgânico tem \nsua competitividade diretamente ligada à minimização \ndos gastos com insumos por meio do aproveitamento \nde resíduos orgânicos pelo valor que agregam ao \nproduto. Com isso, a cafeicultura orgânica apresenta alta \neficiência no sistema de produção, relacionada ao estado \nnutricional do produto e à fertilidade do solo das lavouras.\nDisponível em: www.custoseagronegocioonline.com.br. \nAcesso em: 2 dez. 2008 (adaptado).\nApesar do custo mais alto, uma das vantagens do café \norganicamente cultivado é o(a)\nA\t\nA\t técnica de cultivo, que favorece a conservação do solo.\nB\t\nB\t eliminação dos resíduos orgânicos, que agrega valor \nao produto.\nC\t\nC\t período curto de conversão de uma propriedade não \norgânica em orgânica.\nD\t\nD\t manutenção de suas características orgânicas, \nembora seja perdido seu valor nutricional.\nE\t\nE\t remota possibilidade de contaminação durante o \nprocesso de distribuição e comercialização.",
+  "processado_em": "2026-05-08T14:05:25.378047",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

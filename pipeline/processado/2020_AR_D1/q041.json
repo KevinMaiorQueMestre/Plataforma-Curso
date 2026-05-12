@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q041",
+  "imagem": "q041.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 41,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 41          \nPolicarpo Quaresma, cidadão brasileiro, funcionário \npúblico, certo de que a língua portuguesa é emprestada \nao Brasil; certo também de que, por esse fato, o \nfalar e o escrever em geral, sobretudo no campo das \nletras, se veem na humilhante contingência de sofrer \ncontinuamente censuras ásperas dos proprietários da \nlíngua; sabendo, além, que, dentro do nosso país, os \nautores e os escritores, com especialidade os gramáticos, \nnão se entendem no tocante à correção gramatical, \nvendo-se, diariamente, surgir azedas polêmicas entre os \nmais profundos estudiosos do nosso idioma — usando \ndo direito que lhe confere a Constituição, vem pedir que \no Congresso Nacional decrete o tupi-guarani como língua \noficial e nacional do povo brasileiro.\nBARRETO, L. Triste fim de Policarpo Quaresma.\nDisponível em: www.dominiopublico.gov.br. Acesso em: 26 jun. 2012.\nNessa petição da pitoresca personagem do romance de \nLima Barreto, o uso da norma-padrão justifica-se pela\nA \t situação social de enunciação representada.\nB \t divergência teórica entre gramáticos e literatos.\nC \t pouca representatividade das línguas indígenas.\nD \t atitude irônica diante da língua dos colonizadores.\nE \t tentativa de solicitação do documento demandado.",
+  "processado_em": "2026-05-11T23:28:03.621068",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

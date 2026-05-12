@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q160",
+  "imagem": "q160.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 160,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 160 \nO Índice de Desenvolvimento da Educação Básica (Ideb) \né uma das primeiras iniciativas brasileiras para medir \nnacionalmente a qualidade do aprendizado no ensino básico e \nestabelecer metas para a melhoria do ensino. A tabela apresenta \nos resultados e as metas dos anos iniciais e dos anos finais em \ncinco escolas do ensino fundamental nos anos de 2015 e 2017.\nEscola\nAnos iniciais do \nensino fundamental\nAnos finais do\n ensino fundamental\nIdeb\nMeta\nIdeb\nMeta\n2015\n2017\n2017\n2015\n2017\n2017\nI\n5,7\n5,9\n6,0\n4,0\n4,5\n4,5\nII\n5,1\n5,4\n5,3\n4,2\n4,3\n4,3\nIII\n6,5\n7,1\n7,1\n6,1\n5,9\n6,1\nIV\n6,4\n6,2\n6,2\n4,5\n4,5\n4,5\nV\n5,4\n5,4\n5,6\n4,6\n4,6\n4,7\nAtingir a meta significa alcançar ou superar o valor \nestabelecido.\nA escola que aumentou o seu Ideb no período e atingiu a meta \nestabelecida, tanto nos anos iniciais como nos anos finais do \nensino fundamental, foi a\nA I.\nB II.\nC III.\nD IV.\nE V.",
+  "processado_em": "2026-05-08T14:06:37.829686",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

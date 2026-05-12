@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 144\t\nA gripe é uma infecção respiratória aguda de curta \nduração causada pelo vírus influenza. Ao entrar no \nnosso organismo pelo nariz, esse vírus multiplica-se, \ndisseminando-se para a garganta e demais partes das \nvias respiratórias, incluindo os pulmões.\nO vírus influenza é uma partícula esférica que tem \num diâmetro interno de 0,00011 mm.\nDisponível em: www.gripenet.pt. Acesso em: 2 nov. 2013 (adaptado).\nEm notação científica, o diâmetro interno do vírus \ninfluenza, em mm, é\nA\t 1,1 × 10-1\nB\t 1,1 × 10-2\nC\t 1,1 × 10-3\nD\t 1,1 × 10-4\nE\t 1,1 × 10-5",
+  "processado_em": "2026-05-11T23:27:35.762769",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

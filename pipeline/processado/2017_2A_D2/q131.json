@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 131\n$\u0003 DTXLVLomR\u0003 GH\u0003 um telescópio deve levar em \nFRQVLGHUDomR\u0003 GLYHUVRV\u0003 IDWRUHV\u000f\u0003 HQWUH\u0003 RV\u0003 TXDLV\u0003 HVWmR\u0003 R\u0003\nDXPHQWR\u0003DQJXODU\u000f\u0003D\u0003UHVROXomR\u0003RX\u0003SRGHU\u0003GH\u0003VHSDUDomR\u0003H\u0003\na magnitude limite. O aumento angular informa quantas \nvezes mais próximo de nós percebemos o objeto \nREVHUYDGR\u0003H\u0003p\u0003FDOFXODGR\u0003FRPR\u0003VHQGR\u0003D\u0003UD]mR\u0003HQWUH\u0003DV\u0003\nGLVWkQFLDV\u0003IRFDLV\u0003GD\u0003REMHWLYD\u0003\u000bF1\f\u0003H\u0003GD\u0003RFXODU\u0003\u000bF2). \n$\u0003UHVROXomR\u0003GR\u0003WHOHVFySLR\u0003\u000bP) informa o menor ângulo \nque deve existir entre dois pontos observados para \nTXH\u0003VHMD\u0003SRVVtYHO\u0003GLVWLQJXL\u0010ORV\u0011\u0003$\u0003PDJQLWXGH\u0003OLPLWH\u0003\u000bM)\nindica o menor brilho que um telescópio pode captar. \nOs valores numéricos de P e M\u0003 VmR\u0003 FDOFXODGRV\npelas expressões: P\nD\n 12  e M =\n+\n7 1\n5\n,\n(log D), em que\nD é o valor numérico do diâmetro da objetiva do telescópio, \nexpresso em centímetro.\n'LVSRQtYHO\u0003HP\u001d\u0003ZZZ\u0011WHOHVFRSLRVDVWURQRPLFRV\u0011FRP\u0011EU\u0011\u0003$FHVVR\u0003HP\u001d\u0003\u0014\u0016\u0003PDLR\u0003\u0015\u0013\u0014\u0016\u0003\u000bDGDSWDGR\f\u0011\n$R\u0003 UHDOL]DU\u0003 D\u0003 REVHUYDomR\u0003 GH\u0003 XP\u0003 SODQHWD\u0003 GLVWDQWH\u0003 H\u0003 GH\u0003\nEDL[D\u0003OXPLQRVLGDGH\u000f\u0003QmR\u0003VH\u0003REWHYH\u0003XPD\u0003LPDJHP\u0003QtWLGD\u0011\u0003\n3DUD\u0003PHOKRUDU\u0003D\u0003TXDOLGDGH\u0003GHVVD\u0003REVHUYDomR\u000f\u0003RV\u0003YDORUHV\u0003\nde D, F1 e F2 devem ser, respectivamente,\nA aumentado, aumentado e diminuído.\nB aumentado, diminuído e aumentado.\nC aumentado, diminuído e diminuído.\nD diminuído, aumentado e aumentado.\nE diminuído, aumentado e diminuído.",
+  "processado_em": "2026-05-11T23:25:29.650258",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

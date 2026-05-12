@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 78\t\nEstima-se que no Brasil mais de 20% da população \ntenha algum tipo de dificuldade de locomoção, seja por \ndeficiência física, motora, sensorial ou mesmo por uma \ncondição específica transitória. Para que essa parcela da \npopulação exerça plenamente o seu direito constitucional \nde ir e vir, os sistemas de transporte têm de apresentar \ncaracterísticas adequadas de acessibilidade, dentro dos \nconceitos do desenho universal.\nIPEA. Políticas de melhoria das condições de acessibilidade do \ntransporte urbano no Brasil. Rio de Janeiro: Ipea, 2015.\nNo meio urbano, o atendimento da proposta de inclusão \nsocial apresentada no texto demanda um conjunto de \nintervenções técnicas que promovam o(a)\nA\t ocupação de áreas periféricas.\nB\t democratização do espaço público.\nC\t alargamento da malha de rodovias.\nD\t monitoramento de fluxos populacionais.\nE\t expansão de sistemas de comunicação.",
+  "processado_em": "2026-05-11T23:27:02.487784",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 70          \nCom efeito, até a destruição de Cartago, o povo e o \nSenado romano governavam a República em harmonia \ne sem paixão, e não havia entre os cidadãos luta por \nglória ou dominação; o medo do inimigo mantinha a \ncidade no cumprimento do dever. Mas, assim que o \nmedo desapareceu dos espíritos, introduziram-se os \nmales pelos quais a prosperidade tem predileção, isto \né, a libertinagem e o orgulho. \nSALÚSTIO. A conjuração de Catilina/A guerra de Jugurta. Petrópolis:\nVozes, 1990 (adaptado).\nO acontecimento histórico mencionado no texto de \nSalústio, datado de I a.C., manteve correspondência com \no processo de\nA  demarcação de terras públicas. \nB  imposição da escravidão por dívidas.\nC  restrição da cidadania por parentesco.\nD  restauração de instituições ancestrais.\nE  expansão das fronteiras extrapeninsulares.",
+  "processado_em": "2026-05-11T23:28:06.016700",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

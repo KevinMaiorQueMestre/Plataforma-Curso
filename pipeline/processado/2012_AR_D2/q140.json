@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 140\t\nO dono de uma farmácia resolveu colocar à vista \ndo público o gráfico mostrado a seguir, que apresenta \na evolução do total de vendas (em Reais) de certo \nmedicamento ao longo do ano de 2011.\nJan        Fev      Mar\nAbr      Maio     Jun       Jul\nAgo       Set      Out        Nov     Dez\nmês\n(R$)\nDe acordo com o gráfico, os meses em que ocorreram, \nrespectivamente, a maior e a menor venda absolutas em \n2011 foram\nA\t março e abril.\nB\t março e agosto. \nC\t agosto e setembro. \nD\t junho e setembro. \nE\t junho e agosto.",
+  "processado_em": "2026-05-08T13:59:45.787989",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

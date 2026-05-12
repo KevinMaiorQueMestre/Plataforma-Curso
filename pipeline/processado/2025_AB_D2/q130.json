@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 130\t\nA primeira calça jeans foi feita por Levi Strauss e Jacob \nDavis para mineradores da Califórnia em 1873. Um brim mais \nmaleável, stone-washed (lavado com pedra), foi introduzido \nem 1980, seguido por acid-washed (lavado com ácido). \nTécnicas de amaciamento envolvendo procedimentos de \nnatureza físico-química vêm sendo substituídas por métodos \nbiotecnológicos. Um exemplo é a utilização de celulases, \nproduzidas por fungos do gênero Trichoderma, para digestão \nenzimática de parte da celulose do algodão.\nTORTORA, G. J.; FUNKE, B. R.; CASE, C. L. Microbiologia. \nPorto Alegre: Artmed, 2016 (adaptado).\nEsse método biotecnológico é considerado ambientalmente \nseguro porque\nA\tutiliza catalisador inorgânico.\nB\ttorna a celulose mais resistente.\nC\tocorre em diferentes temperaturas.\nD\té usado em diferentes valores de pH.\nE\tminimiza a produção de resíduos tóxicos.",
+  "processado_em": "2026-05-08T14:06:51.579683",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

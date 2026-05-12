@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 55\t\nO desgaste acelerado sempre existirá se o \nagricultor não tiver o devido cuidado de combater as \ncausas, relacionadas a vários processos, tais como: \nempobrecimento químico e lixiviação provocados pelo \nesgotamento causado pelas colheitas e pela lavagem \nvertical de nutrientes da água que se infiltra no solo, \nbem como pela retirada de elementos nutritivos com as \ncolheitas. Os nutrientes retirados, quando não repostos, \nsão comumente substituídos por elementos tóxicos, \ncomo, por exemplo, o alumínio.\nLEPSCH, I. Formação e conservação dos solos. \nSão Paulo: Oficina de Textos, 2002 (adaptado).\nA dinâmica ambiental exemplificada no texto gera a \nseguinte consequência para o solo agricultável:\nA\t \tElevação da acidez.\nB\t \tAmpliação da salinidade.\nC\t \tFormação de voçorocas.\nD\t \tRemoção da camada superior.\nE\t \tIntensificação do escoamento superficial.",
+  "processado_em": "2026-05-11T23:25:41.470444",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

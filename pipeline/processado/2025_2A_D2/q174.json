@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 174 \nUma fábrica produzia e vendia 200 000 garrafas de 2 litros \nde um suco. O administrador da fábrica decidiu aumentar \na produção de suco em 20%, utilizando garrafas de menor \ncapacidade. Com isso, precisou aumentar em 60% a quantidade \nde garrafas utilizadas, em relação à quantidade inicial, de modo \na conseguir envazar todo o suco produzido.\nQual é a quantidade máxima de suco, em litro, que deverá ser \nreduzida na nova embalagem, em relação à de 2 litros?\nA 0,4\nB 0,5\nC 0,6\nD 0,8\nE 1,2",
+  "processado_em": "2026-05-08T14:06:38.500325",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

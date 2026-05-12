@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 151\t\nA cúpula pentagonal giralongada é um poliedro de Johnson, \ncujas faces são polígonos regulares, mas que não é um poliedro \nde Platão, de Arquimedes, prisma ou antiprisma.\nAs figuras apresentam esse poliedro em duas posições e \numa de suas planificações.\n \nQuantos vértices tem esse poliedro?\nA\t21\nB\t25\nC\t55\nD\t80\nE\t110",
+  "processado_em": "2026-05-08T14:07:09.241540",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

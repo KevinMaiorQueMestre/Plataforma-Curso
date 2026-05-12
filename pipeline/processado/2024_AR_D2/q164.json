@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 164\t\nAo calcular a média de suas notas em 4 provas, um \nestudante dividiu, por engano, a soma das notas por 5. \nCom isso, a média obtida foi 1 unidade menor do que \ndeveria ser, caso fosse calculada corretamente.\nO valor correto da média das notas desse estudante é\nA\t4.\nB\t5.\nC\t6.\nD\t19.\nE\t21.",
+  "processado_em": "2026-05-08T14:06:21.024492",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

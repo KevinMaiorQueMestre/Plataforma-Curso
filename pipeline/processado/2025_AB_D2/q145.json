@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 145\t\nA imagem apresenta uma tirinha com os personagens Caco e \num mapa para procurar um tesouro.\nCansado de escavar à procura do tesouro, Tuca percebeu que\nproblemas nessa busca, pois a unidade de medida indicada no ma\nno Sistema Internacional de Unidades (SI), que é um conjunto pa\nquase todo o mundo.\nCom relação à grandeza expressa em passo na tirinha, no SI, sua\nA\tmetro.\nB\tgrama.\nC\tsegundo.\nD\tmetro cúbico.\nE\tmetro por segundo.",
+  "processado_em": "2026-05-08T14:06:52.719121",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

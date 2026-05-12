@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\t\nApós realizar uma inspeção veicular, um cidadão descobre \nque seu automóvel a gasolina emite anualmente 3 000 kg de \nCO2 (massa molar 44 g mol−1). Pensando em compensar \nesse impacto, resolveu plantar árvores nativas do Brasil \neficientes na fixação de carbono (massa molar 12 g mol−1). \nAo pesquisar espécies nativas para esse fim, encontrou \nos seguintes dados para a espécie angico-branco: i) cada \n1 000 m2 de plantação dessa árvore correspondem a uma \nmassa arbórea de 3 520 kg; ii) sua massa arbórea contém \n50% de carbono; e iii) apresenta boa adaptação à região.\nDisponível em: www.cnpf.embrapa.br. \nAcesso em: 12 out. 2015 (adaptado).\nA menor área que o cidadão deve utilizar para a plantação \nde angico-branco, visando compensar as emissões de CO2, \né mais próxima de\nA\t230 m2.\nB\t465 m2.\nC\t850 m2.\nD\t1 700 m2.\nE\t2 000 m2.",
+  "processado_em": "2026-05-08T14:06:02.147359",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

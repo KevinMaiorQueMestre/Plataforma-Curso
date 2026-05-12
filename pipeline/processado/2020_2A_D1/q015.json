@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q015",
+  "imagem": "q015.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 15,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 15          \nMORAIS, G. Disponível em: www.gusmorais.com. Acesso em: 1 ago. 2013.\nOs quadrinhos apresentam a sequência de certos \ndispositivos eletrônicos criados no decorrer da história, \ndestacando\nA \t a alienação provocada pelo uso excessivo da \ntecnologia nas sociedades urbanas contemporâneas.\nB \t o estágio mais recente da evolução tecnológica para \no armazenamento de dados digitais.\nC \t os diferentes tipos de dispositivos usados atualmente \npara a gravação de dados digitais.\nD \t o desperdício de matéria-prima proveniente da \nindústria tecnológica. \nE \t a comparação entre evolução humana e tecnológica.",
+  "processado_em": "2026-05-08T14:03:24.449823",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 73\t\nExpansão da\nAM\nMAN\nRR\nBOA VIST\nRO\nPORTO\nVELHO\nAC\n1970\nPeríodo (décadas)\n00,00º\n-16,00º\n-32,00º\nEscala 1 : 21 700 000\n1980\n1990\n2000\nN\nS\nL\nO\n-72,00º\nRIO BRANCO\nVIEIRA FILHO, J. E. R.; FIS\nA dinâmica espacial expressa no mapa foi viabiliz\nA\t\nA\t fragmentação da rede urbana.\nB\t\nB\t mecanização do setor primário.\nC\t\nC\t criação de reservas ecológicas.\nD\t\nD\t estagnação do mercado interno.\nE\t\nE\t concentração da produção fabril.",
+  "processado_em": "2026-05-08T14:05:20.778277",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 246.0
+  }
+}

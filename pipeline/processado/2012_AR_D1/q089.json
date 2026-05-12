@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q089",
+  "imagem": "q089.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 89,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 89\t\nQuando colocados em água, os fosfolipídeos tendem \na formar lipossomos, estruturas formadas por uma \nbicamada lipídica, conforme mostrado na figura. Quando \nrompida, essa estrutura tende a se reorganizar em um \nnovo lipossomo.\nDisponível em: http://course1.winona.edu. Acesso em: 1 mar. 2012 (adaptado).\nEsse arranjo característico se deve ao fato de os \nfosfolipídios apresentarem uma natureza\nA\t polar, ou seja, serem inteiramente solúveis em água.\nB\t apolar, ou seja, não serem solúveis em solução aquosa.\nC\t anfotérica, ou seja, podem comportar-se como ácidos \ne bases.\nD\t insaturada, ou seja, possuírem duplas ligações em \nsua estrutura.\nE\t anfifílica, ou seja, possuírem uma parte hidrofílica e \noutra hidrofóbica.",
+  "processado_em": "2026-05-08T13:59:02.527883",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

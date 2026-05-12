@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nO setor de recursos humanos de uma empresa \npretende fazer contratações para adequar-se ao artigo 93 \nda Lei n° 8.213/91, que dispõe:  \nArt. 93. A empresa com 100 (cem) ou mais empregados \nestá obrigada a preencher de 2% (dois por cento) a 5% \n(cinco por cento) dos seus cargos com beneficiários \nreabilitados ou pessoas com deficiência, habilitadas, na \nseguinte proporção:\nI.\t\naté 200 empregados ...................................... 2%;\nII.\t de 201 a 500 empregados.............................. 3%;\nIII.\t de 501 a 1 000 empregados........................... 4%;\nIV.\t de 1 001 em diante......................................... 5%.\nDisponível em: www.planalto.gov.br. Acesso em: 3 fev. 2015.\nConstatou-se que a empresa possui 1 200 funcionários, \ndos quais 10 são reabilitados ou com deficiência, \nhabilitados.\nPara adequar-se à referida lei, a empresa contratará \napenas empregados que atendem ao perfil indicado no \nartigo 93.\nO número mínimo de empregados reabilitados ou com \ndeficiência, habilitados, que deverá ser contratado pela \nempresa é\nA\t 74.\nB\t 70.\nC\t 64.\nD\t 60.\nE\t 53.",
+  "processado_em": "2026-05-08T14:01:22.578681",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

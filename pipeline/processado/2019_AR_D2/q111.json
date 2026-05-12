@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 111\t\nO concreto utilizado na construção civil é um \nmaterial formado por cimento misturado a areia, a brita \ne a água. A areia é normalmente extraída de leitos \nde rios e a brita, oriunda da fragmentação de rochas. \nImpactos ambientais gerados no uso do concreto \nestão associados à extração de recursos minerais e ao \ndescarte indiscriminado desse material. Na tentativa \nde reverter esse quadro, foi proposta a utilização de \nconcreto reciclado moído em substituição ao particulado \nrochoso graúdo na fabricação de novo concreto, \nobtendo um material com as mesmas propriedades que \no anterior.\nO benefício ambiental gerado nessa proposta é a \nredução do(a)\nA\t extração da brita.\nB\t extração de areia.\nC\t consumo de água.\nD\t consumo de concreto.\nE\t fabricação de cimento.",
+  "processado_em": "2026-05-11T23:27:33.658709",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 48\t\nO milho transgênico é produzido a partir da \nmanipulação do milho original, com a transferência, \npara este, de um gene de interesse retirado de outro \norganismo de espécie diferente.\nA característica de interesse será manifestada em \ndecorrência\nA\t do incremento do DNA a partir da duplicação do gene \ntransferido.\nB\t da transcrição do RNA transportador a partir do gene \ntransferido.\nC\t da expressão de proteínas sintetizadas a partir do \nDNA não hibridizado.\nD\t da síntese de carboidratos a partir da ativação do \nDNA do milho original.\nE\t da tradução do RNA mensageiro sintetizado a partir \nd\nDNA\nbi\nt",
+  "processado_em": "2026-05-08T13:59:02.021113",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

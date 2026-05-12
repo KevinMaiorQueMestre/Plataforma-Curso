@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 59\t\nPela falta de chuvas, a geração de energia eólica, solar e \ntérmica atingiu níveis recordes em agosto de 2021, quando \nas hidrelétricas ficaram com cerca de 50% do total. Para um \nprofessor da Universidade Federal da Bahia, essa queda não \né uma surpresa. “Não aconteceu de uma hora para outra. \nSe olharmos o mapa do Brasil, um dos grandes provedores de \nágua é a Floresta Amazônica. Se você diminui a floresta, diminui \na quantidade de água que vai para a atmosfera”, explica.\nBORGES, T. O fantasma do apagão. Disponível em: \nwww.correio24horas.com.br. Acesso em: \n9 out. 2021 (adaptado).\nDe acordo com o texto, a dificuldade na produção de energia \né causada pela alteração da(s)\nA\tvariável em pesquisas meteorológicas.\nB\tpaisagem em locais estratégicos.\nC\tdemandas em regiões industriais.\nD\tmetas em acordos climáticos.\nE\tgeologia em áreas naturais.",
+  "processado_em": "2026-05-08T14:07:01.608259",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

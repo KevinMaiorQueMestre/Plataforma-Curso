@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 129\t\nEm aeroportos, por razões de segurança, os \npassageiros devem ter suas bagagens de mão examinadas \nantes do embarque, passando-as em esteiras para sua \ninspeção por aparelhos de raios X. Nessas inspeções, os \npassageiros são orientados a retirar seus computadores \nportáteis (notebooks ou laptops) de malas, mochilas ou \nbolsas para passá-los isoladamente pela esteira.\nQue explicação física justifica esse procedimento?\nA\tOs raios X não interagem com os componentes \nmetálicos do computador, o que impede a formação \nde imagens.\nB\tOs raios X desmagnetizam o disco rígido do \ncomputador, quando refratados pelos componentes \nmetálicos das bagagens de mão.\nC\tOs raios X aquecem os materiais metálicos encontrados \nem bagagens de mão, quando refletidos pelos \ncomponentes do computador.\nD\tOs raios X não atravessam os componentes densos do \ncomputador, o que impede a visualização de objetos \nque estão à frente ou atrás deles.\nE\tOs raios X ionizam os materiais metálicos normalmente \nencontrados em bagagens de mão, quando difratados \npelos componentes do computador.",
+  "processado_em": "2026-05-08T14:06:19.076053",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

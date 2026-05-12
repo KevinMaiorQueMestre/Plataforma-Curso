@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q147",
+  "imagem": "q147.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 147,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 147\t\nA inclinação de um telhado depende do tipo e da \nmarca das telhas escolhidas. A figura é o esboço do \ntelhado da casa de um específico proprietário. As telhas \nserão apoiadas sobre a superfície quadrada plana ABCD, \nsendo BOC um triângulo retângulo em O. Sabe-se que h \né a altura do telhado em relação ao forro da casa (a figura \nplana ABOE), b = 10 é o comprimento do segmento OB, e \nd é a largura do telhado (segmento AB), todas as medidas \ndadas em metro.\nD\nE\nC\nO\nA\nB\nd\nb\nh\nDisponível em: www.toptelha.com.br. Acesso em: 31 jul. 2012.\nSabe-se que, em função do tipo de telha escolhida \npelo proprietário, a porcentagem i de inclinação ideal do \ntelhado, descrita por meio da relação i\nh\nb\n=\n×100 , é de \n40%, e que a expressão que determina o número N de \ntelhas necessárias na cobertura é dada por N\nd\n=\n×\n2\n10 5\n, . \nAlém disso, essas telhas são vendidas somente em \nmilheiros.\nO proprietário avalia ser fundamental respeitar a \ninclinação ideal informada pelo fabricante, por isso \nargumenta ser necessário adquirir a quantidade mínima \nde telhas correspondente a\nA\t um milheiro.\nB\t dois milheiros.\nC\t três milheiros.\nD\t seis milheiros.\nE\t oito milheiros.",
+  "processado_em": "2026-05-11T23:26:23.139574",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 109\t\nO LED é um dispositivo eletrônico que conduz corrente \nelétrica em um único sentido, sendo caracterizado por uma \ntensão e uma corrente máxima de funcionamento, Imáx. Um LED \nacende apenas se a corrente que o percorre está no sentido \npermitido e se a diferença de potencial à qual está submetido \né igual ou superior à sua tensão de funcionamento. A figura \nilustra o símbolo do LED usado na representação de circuitos.\nUm estudante de física analisa as propriedades do LED \nem um circuito simples de corrente contínua. Ele dispõe dos \nseguintes materiais: uma bateria ideal de 4,5 V; dois LEDs \nde tensão 3,0 V e Imáx = 1,0 mA cada; e dois resistores de \n1,5 kΩ cada.\nO circuito que o estudante pode montar, para que ambos os \nLEDs fiquem acesos e cada um seja percorrido por Imáx, é\nA\t \nB\t \nC\t \nD\t \nE",
+  "processado_em": "2026-05-08T14:06:17.734228",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

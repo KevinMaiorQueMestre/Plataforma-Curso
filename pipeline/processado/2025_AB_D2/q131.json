@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 131\t\n“Rolou uma química entre nós!”. Essa expressão popular não \né apenas figurativa, mas tem fundamentação científica, já que \na afetividade está particularmente relacionada a um grupo de \nsubstâncias que são produzidas, circulam pelo sangue e atuam \nno corpo humano provocando reações e emoções.\nEssas substâncias são denominadas\nA\tvitaminas.\nB\thormônios.\nC\tcatalisadores.\nD\tácidos nucleicos.\nE fluidos corporais",
+  "processado_em": "2026-05-08T14:06:51.608304",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nNa fissão do urânio-235, esse átomo é dividido em \nátomos mais leves quando bombardeado por um nêutron.\nNos reatores nucleares, novas reações ocorrem a partir \ndos nêutrons liberados na fissão, caracterizando uma reação \nem cadeia. Essa reação é mais eficiente quando esses \nnêutrons têm energia cinética baixa. Por isso, é utilizada \numa substância moderadora na qual os nêutrons possam \ncolidir, transferindo parte da energia.\nConsidere que essas colisões são frontais e \naproximadamente elásticas, que a substância moderadora é \num alvo em repouso e que as velocidades dos nêutrons, υnf, \ne da substância moderadora, υsf, após a colisão, são:\n\u001f\n\u001f\nnf\nn\ns\nn\ns\nm\nm\nm\nm\n\u001e\n\u001d\n\u001c\n\u001b\n\u001a\n\u0019\n\u0018\n\u0017\n\u0016\n0\n\u001f\n\u001f\nsf\nn\nn\ns\nm\nm\nm\n\u001e\n\u001d\n\u001c\n\u001b\n\u001a\n\u0019\n\u0018\n\u0017\n2\n0\nem que mn é a massa do nêutron, ms é a massa da \nsubstância moderadora e υ0 é a velocidade inicial do nêutron.\nA substância moderadora que promoverá a maior redução \nde velocidade dos nêutrons, nesse processo de colisão, \nserá:\nA\t 1\n2D\nB\t 2\n4He\nC\t 6\n12C\nD\t 7\n14N\nE\t 38\n94Sr",
+  "processado_em": "2026-05-08T14:06:03.215796",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

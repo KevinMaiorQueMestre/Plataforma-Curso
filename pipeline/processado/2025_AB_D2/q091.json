@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 91\t\nA identificação e/ou quantificação de moléculas em amostras é de extrema relevância durante um trabalho de perícia criminal. \nUma maneira simples e muito útil de se fazer essa análise é reconhecer a região do espectro eletromagnético em que essas \nmoléculas absorvem radiação. A região da luz visível vai de 400 nm a 700 nm, sendo o infravermelho a região acima de 700 nm. \nUma maior concentração das substâncias está relacionada com uma maior quantidade de radiação absorvida. Dependendo da \nnatureza da molécula e do meio onde ela se encontra, essa absorção de radiação ocorre em diferentes comprimentos de onda e \ncom diferentes absorbâncias. Um perito avaliou três amostras de mesma concentração de uma substância em diferentes valores \nde pH e obteve as curvas seguintes.\nDe acordo com o gráfico, pode-se concluir que a elevação do pH aumenta a\nA\treatividade da substância.\nB\tquantidade de energia absorvida.\nC\tconcentração de íons H3O+ no sistema.\nD\tabsorbância na região do infravermelho.\nE\tquantidade de moléculas da substância no meio.",
+  "processado_em": "2026-05-11T23:29:46.477761",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 129\t\nPor suas belezas naturais, a região de Bonito, no Mato \nGrosso do Sul, é um dos destinos ecoturísticos mais procurados \ndo Brasil. Muitas das atrações ecoturísticas que movimentam \na economia local estão situadas dentro de fazendas. \nPor isso, diversos donos dessas propriedades decidiram criar \nReservas Particulares do Patrimônio Natural (RPPNs). \nNesses locais, estão recompondo aos poucos as matas ciliares \ne adotando outras medidas pontuais, como a instalação de \nninhos artificiais para as araras nativas.\nGUIMARÃES, J. R. D. Bonito ou Lindo? Disponível em: http://cienciahoje.org.br. \nAcesso em: 28 nov. 2018 (adaptado).\nNesse contexto, as RPPNs foram criadas porque\nA\tevitam a entrada de turistas.\nB\treduzem as espécies endêmicas.\nC\tfavorecem o desenvolvimento sustentável.\nD\tpossibilitam a introdução de espécies exóticas.\nE\taumentam as áreas para extração de madeira.",
+  "processado_em": "2026-05-08T14:06:51.536231",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

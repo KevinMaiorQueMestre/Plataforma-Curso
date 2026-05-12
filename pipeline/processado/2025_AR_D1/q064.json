@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 64\t\nEm toda a sua carreira política, Getúlio Vargas sempre contar\nAgora, porém, seus amigos começavam a perceber que ele parecia\neles, era o belicoso jornalista Carlos Lacerda. Se ao menos pud\nda situação. Esses seguidores decidiram tomar o assunto em su\nSKDIM\nNesse contexto, a ação dos aliados de Getúlio Vargas teve com\nA\tintensificação dos ataques do grupo udenista.\nB\tintervenção dos sindicatos no conflito partidário.\nC\tmobilização da sociedade na defesa do governo.\nD\tabandono da censura aos meios de comunicação.\nE apoio dos parlamentares aos candidatos oposicionistas",
+  "processado_em": "2026-05-08T14:07:01.822600",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

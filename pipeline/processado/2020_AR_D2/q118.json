@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q118",
+  "imagem": "q118.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 118,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 118        \nO exame parasitológico de fezes é utilizado para \ndetectar ovos de parasitos. Um dos métodos utilizados, \ndenominado \nde \ncentrífugo-flutuação, \nconsidera \na \ndensidade dos ovos em relação a uma solução de \ndensidade 1,15 g mL−1. Assim, ovos que flutuam na \nsuperfície dessa solução são detectados. Os dados \nde densidade dos ovos de alguns parasitos estão \napresentados na tabela.\nParasito\nDensidade (g mL-1)\nAncylostoma\n1,06\nAscaris lumbricoides\n1,11\nAscaris suum\n1,13\nSchistosoma mansoni\n1,18\nTaenia saginata\n1,30\nZERBINI, A. M. Identificação e análise de viabilidade de ovos de helmintos em um \nsistema de tratamento de esgotos domésticos constituídos de reatores anaeróbios e \nrampas de escoamento superficial. Belo Horizonte: Prosab, 2001 (adaptado).\nConsiderando-se a densidade dos ovos e da solução, ovos \nde quais parasitos podem ser detectados por esse método? \nA \t A. lumbricoides, A. suum e S. mansoni.\nB \t S. mansoni, T. saginata e Ancylostoma.\nC \t Ancylostoma, A. lumbricoides e A. suum.\nD \t T. saginata, S. mansoni e A. lumbricoides.\nE \t A. lumbricoides, A. suum e T. saginata.",
+  "processado_em": "2026-05-11T23:28:14.229399",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

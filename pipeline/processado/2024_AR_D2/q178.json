@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nUma professora de matemática utiliza em suas \naulas uma “máquina caça-números” para verificar os \nconhecimentos de seus estudantes sobre representações \nde números racionais. Essa máquina tem um visor dividido \nem seis compartimentos e, na lateral, uma alavanca. Cada \nestudante puxa a alavanca e espera que os compartimentos \nparem de girar. A partir daí, precisa responder para a \nprofessora em quais posições se encontram os números \nque representam a mesma quantidade.\nUm estudante puxou a alavanca, aguardou que os \ncompartimentos parassem de girar e observou os números \napresentados no visor. A configuração da máquina naquele \ninstante está apresentada na imagem.\nEsse estudante respondeu corretamente à pergunta \nda professora.\nAs posições indicadas pelo estudante foram\nA\tI, II e IV.\nB\tII, IV e V.\nC\tII, III e V.\nD\tIII, V e VI.\nE\tIII, IV e VI.",
+  "processado_em": "2026-05-08T14:06:21.739091",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

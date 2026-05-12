@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 25\t\nROSA, R. Grande sertão: veredas: adaptação da obra de João Guimarães Rosa. \nSão Paulo: Globo, 2014 (adaptado).\nA imagem integra uma adaptação em quadrinhos da \nobra Grande sertão: veredas, de Guimarães Rosa. \nNa representação gráfica, a inter-relação de diferentes \nlinguagens caracteriza-se por\nA\t romper com a linearidade das ações da narrativa literária.\nB\t ilustrar de modo fidedigno passagens representativas \nda história.\nC\t articular a tensão do romance à desproporcionalidade \ndas formas.\nD\t potencializar a dramaticidade do episódio com \nrecursos das artes visuais.\nE\t desconstruir a diagramação do texto literário pelo \ndesequilíbrio da composição.",
+  "processado_em": "2026-05-11T23:26:32.262949",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

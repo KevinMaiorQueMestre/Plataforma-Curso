@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q032",
+  "imagem": "q032.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 32,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 32 \nEssa campanha governamental foi desenvolvida para combate\nA turismo ilegal.\nB denúncias falsas.\nC exploração animal.\nD criação de pássaros.\nE artesanatos sem registro",
+  "processado_em": "2026-05-08T14:06:27.465527",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

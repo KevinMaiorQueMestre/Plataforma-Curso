@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q043",
+  "imagem": "q043.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 43,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 43\t\nTEXTO I\nSPETO. Grafite. Museu Afro Brasil, 2009.\nDisponível em: www.diariosp.com.br. Acesso em: 25 set. 2015.\nTEXTO II\nSpeto\nPaulo César Silva, mais conhecido como Speto, é \num grafiteiro paulista envolvido com o skate e a música. \nO fortalecimento de sua arte ocorreu, em 1999, pela \noportunidade de ver de perto as referências que trazia \nhá tempos, ao passar por diversas cidades do Norte do \nBrasil em uma turnê com a banda O Rappa.\nRevista Zupi, n. 19, 2010.\nO grafite do artista paulista Speto, exposto no Museu Afro \nBrasil, revela elementos da cultura brasileira reconhecidos\nA\t \tna influência da expressão abstrata.\nB\t \tna representação de lendas nacionais.\nC\t \tna inspiração das composições musicais.\nD\t \tnos traços marcados pela xilogravura nordestina.\nE\t \tnos usos característicos de grafismos dos skates.",
+  "processado_em": "2026-05-11T23:25:40.208002",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

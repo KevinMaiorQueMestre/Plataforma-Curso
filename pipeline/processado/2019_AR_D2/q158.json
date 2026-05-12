@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 158\t\nCharles Richter e Beno Gutenberg desenvolveram a \nescala Richter, que mede a magnitude de um terremoto. \nEssa escala pode variar de 0 a 10, com possibilidades \nde valores maiores. O quadro mostra a escala de \nmagnitude local (Ms) de um terremoto que é utilizada \npara descrevê-lo.\nDescrição\nMagnitude local (Ms) \n(µm ⋅ Hz)\nPequeno\n0 ≤ Ms ≤ 3,9\nLigeiro\n4,0 ≤ Ms ≤ 4,9\nModerado\n5,0 ≤ Ms ≤ 5,9\nGrande\n6,0 ≤ Ms ≤ 9,9\nExtremo\nMs ≥ 10,0\n Para se calcular a magnitude local, usa-se a fórmula \nMs = 3,30 + log(A⋅f ), em que A representa a amplitude \nmáxima da onda registrada por um sismógrafo em \nmicrômetro (µm) e f representa a frequência da onda, \nem hertz (Hz). Ocorreu um terremoto com amplitude \nmáxima de 2 000 µm e frequência de 0,2 Hz. \nDisponível em: http://cejarj.cecierj.edu.br. Acesso em: 1 fev. 2015 (adaptado).\nUtilize 0,3 como aproximação para log 2.\nDe acordo com os dados fornecidos, o terremoto \nocorrido pode ser descrito como\nA\t Pequeno.\nB\t Ligeiro.\nC\t Moderado.\nD\t Grande.\nE\t Extremo.",
+  "processado_em": "2026-05-11T23:27:36.836284",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

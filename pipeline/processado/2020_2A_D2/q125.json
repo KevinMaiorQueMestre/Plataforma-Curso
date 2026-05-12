@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q125",
+  "imagem": "q125.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 125,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t Hg(CH3)2 e Ca(CH3CO2)2\nQuestão 125          \nAlgumas \nespécies \nde \nbactérias \ndo \ngênero \nPseudomonas \ndesenvolvem-se \nem \nambientes \ncontaminados com hidrocarbonetos, pois utilizam essas \nmoléculas como substratos para transformação em \nenergia metabólica. Esses microrganismos são capazes \nde transformar o octano em moléculas menos tóxicas, \ntornando o ambiente mais propício para desenvolvimento \nde fauna e flora.\nEssas bactérias poderiam ser utilizadas para recuperar \náreas contaminadas com\nA \t petróleo.\nB \t pesticidas.\nC \t lixo nuclear.\nD \t gases tóxicos.\nE metais pesados",
+  "processado_em": "2026-05-08T14:03:37.325346",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

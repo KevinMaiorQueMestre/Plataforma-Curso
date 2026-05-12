@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q027",
+  "imagem": "q027.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 27,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 27\t\nA felicidade é, portanto, a melhor, a mais nobre e a \nmais aprazível coisa do mundo, e esses atributos não \ndevem estar separados como na inscrição existente \nem Delfos “das coisas, a mais nobre é a mais justa, \ne a melhor é a saúde; porém a mais doce é ter o que \namamos”. Todos estes atributos estão presentes nas \nmais excelentes atividades, e entre essas a melhor, nós a \nidentificamos como felicidade.\nARISTÓTELES. A Política. São Paulo: Cia. das Letras, 2010.\nAo reconhecer na felicidade a reunião dos mais excelentes \natributos, Aristóteles a identifica como\nA\t busca por bens materiais e títulos de nobreza.\nB\t plenitude espiritual e ascese pessoal.\nC\t finalidade das ações e condutas humanas.\nD\t conhecimento de verdades imutáveis e perfeitas.\nE\t expressão do sucesso individual e reconhecimento \npúblico.",
+  "processado_em": "2026-05-08T14:00:09.984490",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

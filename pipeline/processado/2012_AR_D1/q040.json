@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q040",
+  "imagem": "q040.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 40,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 40\t\nEm um engenho sois imitadores de Cristo crucificado \nporque padeceis em um modo muito semelhante o que \no mesmo Senhor padeceu na sua cruz e em toda a \nsua paixão. A sua cruz foi composta de dois madeiros, \ne a vossa em um engenho é de três. Também ali não \nfaltaram as canas, porque duas vezes entraram na \nPaixão: uma vez servindo para o cetro de escárnio, \ne outra vez para a esponja em que lhe deram o fel. A \nPaixão de Cristo parte foi de noite sem dormir, parte foi \nde dia sem descansar, e tais são as vossas noites e os \nvossos dias. Cristo despido, e vós despidos; Cristo sem \ncomer, e vós famintos; Cristo em tudo maltratado, e vós \nmaltratados em tudo. Os ferros, as prisões, os açoites, as \nchagas, os nomes afrontosos, de tudo isto se compõe a \nvossa imitação, que, se for acompanhada de paciência, \ntambém terá merecimento de martírio.\nVIEIRA, A. Sermões. Tomo XI. Porto: Lello & Irmão, 1951 (adaptado).\nO trecho do sermão do Padre Antônio Vieira estabelece \numa relação entre a Paixão de Cristo e\nA\t a atividade dos comerciantes de açúcar nos portos \nbrasileiros.\nB\t a função dos mestres de açúcar durante a safra de cana.\nC\t o sofrimento dos jesuítas na conversão dos ameríndios.\nD\t o papel dos senhores na administração dos engenhos.\nE\t o trabalho dos escravos na produção de açúcar.",
+  "processado_em": "2026-05-08T13:59:02.012465",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

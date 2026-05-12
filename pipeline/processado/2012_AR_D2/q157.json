@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 157\t\nJoão decidiu contratar os serviços de uma empresa \npor telefone através do SAC (Serviço de Atendimento \nao Consumidor). O atendente ditou para João o número \nde protocolo de atendimento da ligação e pediu que \nele anotasse. Entretanto, João não entendeu um dos \nalgarismos ditados pelo atendente e anotou o número \n1 3    9 8 2 0 7, sendo que o espaço vazio é o do algarismo \nque João não entendeu.\nDe acordo com essas informações, a posição ocupada \npelo algarismo que falta no número de protocolo é a de\nA\t centena.\nB\t dezena de milhar.\nC\t centena de milhar.\nD\t milhão.\nE\t centena de milhão.",
+  "processado_em": "2026-05-08T13:59:54.324245",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

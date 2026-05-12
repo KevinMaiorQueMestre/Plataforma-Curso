@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 173\t\nUma locadora possui disponíveis 120 veículos da \ncategoria que um cliente pretende locar. Desses, 20% \nsão da cor branca, 40% são da cor cinza, 16 veículos \nsão da cor vermelha e o restante, de outras cores. \nO cliente não gosta da cor vermelha e ficaria contente \ncom qualquer outra cor, mas o sistema de controle \ndisponibiliza os veículos sem levar em conta a escolha \nda cor pelo cliente.\nDisponibilizando aleatoriamente, qual é a probabilidade \nde o cliente ficar contente com a cor do veículo?\nA\n16\n120\nB\n32\n120\nC\n72\n120\nD\n101\n120\nE\n104\n120",
+  "processado_em": "2026-05-11T23:27:13.675304",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

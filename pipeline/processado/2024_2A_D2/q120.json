@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 120\t\nA proprietária de um haras comprou um cavalo e, após \nalguns dias, descobriu que o animal apresentava uma \ndoença viral séria. Sentindo-se prejudicada, iniciou \numa disputa judicial para determinar se o cavalo já foi \ncomprado infectado ou se ele adquiriu a doença na nova \npropriedade. Nesses casos, os anticorpos podem auxiliar \nna decisão do juiz, pois sabe-se que a presença da \nimunoglobulina M (IgM), primeira classe de anticorpo a \nser secretada, refere-se a infecções recentes (primárias \nou recorrentes), e que a imunoglobulina G (IgG) refere-se \na infecções um pouco mais antigas. Além das classes, a \nforça de ligação do anticorpo (avidez) também poderá \ntrazer informações importantes, porque quanto maior a \navidez, mais antiga é a infecção inicial.\nQual resultado laboratorial favorecerá a nova proprietária \nno julgamento?\nA\tIgM positivo e IgG positivo, com baixa avidez.\nB\tIgM negativo e IgG negativo, com baixa avidez.\nC\tIgM negativo e IgG positivo, independentemente da avidez.\nD\tIgM positivo e IgG positivo, independentemente da avidez.\nE\tIgM positivo e IgG negativo, independentemente da avidez.",
+  "processado_em": "2026-05-08T14:06:02.551071",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

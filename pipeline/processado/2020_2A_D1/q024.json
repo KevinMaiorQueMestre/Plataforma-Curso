@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 24          \nDisponível em: www.facebook.com/cnj.oficial. Acesso em: 20 jun. 2018.\nEssa campanha contra a sexualização infantil utiliza-se da \narticulação entre texto escrito e imagem para representar \num(a)\nA \t casal de crianças do sexo oposto.\nB \t relação inocente entre duas crianças.\nC \t horário do dia inapropriado para crianças.\nD \t proximidade inadequada entre as crianças.\nE espaço perigoso para crianças dessa idade",
+  "processado_em": "2026-05-08T14:03:26.083424",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

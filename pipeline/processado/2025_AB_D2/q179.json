@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 179\t\nUma pessoa pretende comprar peças em formato de bloco \nretangular, que serão colocadas uma ao lado da outra para \nmontar um armário cujo comprimento seja exatamente 150 cm. \nEm uma pesquisa na internet, ela encontrou cinco tipos de \npeças diferentes, de mesma altura e mesma profundidade, \ncom larguras externas medindo:\n•\tpeça I: 25 cm;\n•\tpeça II: 35 cm;\n•\tpeça III: 40 cm;\n•\tpeça IV: 60 cm;\n•\tpeça V: 75 cm.\nEssa pessoa comprará pelo menos dois tipos de peças com \nlarguras diferentes e na menor quantidade, de modo que a soma \ndas medidas das larguras corresponda a 150 cm.\nPara que seu objetivo seja alcançado, ela deverá comprar quantas \npeças?\nA\t2\nB\t3\nC\t4\nD\t5\nE\t6",
+  "processado_em": "2026-05-08T14:06:54.550385",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

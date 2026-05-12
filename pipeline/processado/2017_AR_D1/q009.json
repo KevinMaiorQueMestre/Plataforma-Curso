@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nTEXTO I\nTerezinha de Jesus\nDe uma queda foi ao chão\nAcudiu três cavalheiros\nTodos os três de chapéu na mão\nO primeiro foi seu pai\nO segundo, seu irmão\nO terceiro foi aquele\nA quem Tereza deu a mão\nBATISTA, M. F. B. M.; SANTOS, I. M. F. (Org.). Cancioneiro da Paraíba. \n João Pessoa: Grafset, 1993 (adaptado).\nTEXTO II\nOutra interpretação é feita a partir das condições \nsociais daquele tempo. Para a ama e para a criança \npara quem cantava a cantiga, a música falava do \ncasamento como um destino natural na vida da mulher, \nna sociedade brasileira do século XIX, marcada pelo \npatriarcalismo. A música prepara a moça para o \nseu destino não apenas inexorável, mas desejável: \no casamento, estabelecendo uma hierarquia de \nobediência (pai, irmão mais velho, marido), de acordo \ncom a época e circunstâncias de sua vida.\nDisponível em: http://provsjose.blogspot.com.br. Acesso em: 5 dez. 2012.\nO comentário do Texto II sobre o Texto I evoca a \nmobilização da língua oral que, em determinados \ncontextos,\nA\t \tassegura a existência de pensamentos contrários à \nordem vigente.\nB\t \tmantém a heterogeneidade das formas de relações \nsociais.\nC\t \tconserva a influência religiosa sobre certas culturas.\nD\t \tpreserva a diversidade cultural e comportamental.\nE\t \treforça comportamentos e padrões culturais.",
+  "processado_em": "2026-05-11T23:25:35.968831",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

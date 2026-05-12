@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nA resistência elétrica R de um condutor homogêneo \né inversamente proporcional à área S de sua seção \ntransversal.\nraio\nCondutor homogêneo\nSeção \ntransversal\nDisponível em: http://efisica.if.usp.br. Acesso em: 2 ago. 2012.\nO gráfico que representa a variação da resistência R do \ncondutor em função da área S de sua seção transversal é\nA\t  \nR\nS\nB\t  \nR\nS\nC\t  \nR\nS\nD\t  \nR\nS\nE\t  \nR",
+  "processado_em": "2026-05-11T23:26:24.585660",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

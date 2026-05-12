@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 113\t\nEm uma aula experimental de calorimetria, uma \nprofessora queimou 2,5 g de castanha-de-caju crua para \naquecer 350 g de água, em um recipiente apropriado \npara diminuir as perdas de calor. Com base na leitura da \ntabela nutricional a seguir e da medida da temperatura da \nágua, após a queima total do combustível, ela concluiu \nque 50% da energia disponível foi aproveitada. O calor \nespecífico da água é 1 cal g−1 °C−1, e sua temperatura \ninicial era de 20 °C.",
+  "processado_em": "2026-05-11T23:27:33.743626",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 47\t\nA linguagem é uma grande força de socialização, \nprovavelmente a maior que existe. Com isso não \nqueremos dizer apenas o fato mais ou menos óbvio \nde que a interação social dotada de significado é \npraticamente impossível sem a linguagem, mas que o \nmero fato de haver uma fala comum serve como um \nsímbolo peculiarmente poderoso da solidariedade social \nentre aqueles que falam aquela língua.\nSAPIR, E. A linguagem. São Paulo: Perspectiva, 1980.\nO texto destaca o entendimento segundo o qual a \nlinguagem, como elemento do processo de socialização, \nconstitui-se a partir de uma\nA\t necessidade de ligação com o transcendente.\nB\t relação de interdependência com a cultura.\nC\t estruturação da racionalidade científica.\nD\t imposição de caráter econômico.\nE\t herança de natureza biológica.",
+  "processado_em": "2026-05-11T23:26:59.480546",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

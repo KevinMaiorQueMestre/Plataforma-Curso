@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nDe certo modo o toxicômano diz a verdade sobre \nnossa condição social atual, quer dizer, temos a \ntendência de tornarmo-nos todos adictos em relação \na determinados objetos, cuja presença se tornou para \nnós indispensável. Todas as nossas referências éticas \nou morais não têm nada de sério diante do toxicômano, \nporque fundamentalmente somos viciados como ele.\nMELMAN, C. Novas formas clínicas no início do terceiro milênio. Porto Alegre: CMC, 2003.\nNo trecho, o autor propõe uma analogia entre o vício \nindividual e as práticas de consumo sustentada no \nargumento da\nA\t exposição da vida privada.\nB\t reinvenção dos valores tradicionais.\nC\t dependência das novas tecnologias.\nD\t recorrência de transtornos mentais.\nE\t banalização de substâncias psicotrópicas.",
+  "processado_em": "2026-05-11T23:26:16.415520",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 314.3
+  }
+}

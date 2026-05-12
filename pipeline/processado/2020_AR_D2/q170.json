@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 170        \nNos livros Harry Potter, um anagrama do nome do \npersonagem “TOM MARVOLO RIDDLE” gerou a frase \n“I AM LORD VOLDEMORT”.\nSuponha que Harry quisesse formar todos os \nanagramas da frase “I AM POTTER”, de tal forma \nque as vogais e consoantes aparecessem sempre \nintercaladas, e sem considerar o espaçamento entre \nas letras.\nNessas condições, o número de anagramas formados \né dado por\nA 9!\nB 4! 5!\nC 2 × 4! 5! \nD 9!\n2\nE 4! 5!\n2",
+  "processado_em": "2026-05-11T23:28:20.024724",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

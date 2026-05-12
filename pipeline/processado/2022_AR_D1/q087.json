@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87\t\nMacrocefalia urbana pode ser entendida como a \nmassiva concentração das atividades econômicas em \nalgumas metrópoles que propicia o desencadeamento \nde processos descompassados: redirecionamento e \nconvergência de fluxos migratórios, déficit no número \nde empregos, ocupação desordenada de determinadas \nregiões da cidade e estigmatização de estratos sociais, \nque comprometem substancialmente a segurança pública \nurbana.\nSANTOS, M. O espaço dividido: os dois circuitos da economia urbana dos países \nsubdesenvolvidos. São Paulo: Edusp, 2004.\nO processo de concentração espacial apresentado foi \nestimulado por qual fator geográfico?\nA\t\nA\t Limitação da área ocupada.\nB\t\nB\t Êxodo da população do campo.\nC\t\nC\t Ampliação do risco habitacional.\nD\t\nD\t Deficiência do transporte alternativo.\nE\t\nE\t Crescimento da taxa de fecundidade.",
+  "processado_em": "2026-05-08T14:05:06.214214",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

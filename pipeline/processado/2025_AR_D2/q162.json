@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 162\t\nDez casais fundaram um grupo de dança e decidiram \nconstituir uma diretoria com três cargos: presidente, secretário \ne tesoureiro. Para maior representatividade, decidiu-se que no \nmáximo uma pessoa por casal poderá ocupar um cargo nessa \ndiretoria.\nQuantas diretorias diferentes podem ser constituídas por esses \n10 casais?\nA\t10 × 9 × 8\nB\t20 × 18 × 16\nC\t20 × 19 × 18\nD\t10 × 9 × 8 × 2\nE\t20 × 18 × 16 × 2",
+  "processado_em": "2026-05-08T14:07:09.845152",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

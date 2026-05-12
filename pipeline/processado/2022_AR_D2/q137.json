@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q137",
+  "imagem": "q137.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 137,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A\t\nA\t 14,4.\nB\t\nB\t 20,7.\nC\t\nC\t 22,0.\nD\t\nD\t 30,0.\nE\t\nE\t 37,5.\nQUESTÃO 137\t\nUm borrifador de atuação automática libera, a cada \nacionamento, uma mesma quantidade de inseticida. \nO recipiente desse produto, quando cheio, contém 360 mL \nde inseticida, que duram 60 dias se o borrifador permanecer \nligado ininterruptamente e for acionado a cada 48 minutos.\nA quantidade de inseticida que é liberada a cada \nacionamento do borrifador, em mililitro, é",
+  "processado_em": "2026-05-08T14:05:11.390623",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

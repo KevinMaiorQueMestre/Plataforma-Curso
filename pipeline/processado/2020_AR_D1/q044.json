@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q044",
+  "imagem": "q044.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 44,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 44          \n \nDisponível em: www.acontecendoaqui.com.br. Acesso em: 15 jun. 2018.\nNessa campanha publicitária, a imagem da família e o \ntexto verbal unem-se para reforçar a ideia de que\nA \t a família que adota é mais feliz. \nB \t a adoção tardia é muito positiva. \nC \t as famílias preferem adotar bebês. \nD \t a adoção de adolescentes é mais simples. \nE \t os filhos adotivos são companheiros dos pais.",
+  "processado_em": "2026-05-11T23:28:03.955034",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

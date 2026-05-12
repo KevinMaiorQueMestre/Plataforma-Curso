@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nDois amigos abriram um restaurante. No primeiro ano, \no custo total com as despesas do restaurante chegou a \n250 mil reais. A receita neste ano foi de 325 mil reais, \nobtendo assim um lucro de 75 mil reais (diferença entre a \nreceita e o custo total). A tabela representa o custo total e \na receita nos cinco primeiros anos.\nAno\nCusto total\n(milhar de real)\nReceita\n(milhar de real)\nPrimeiro\n250\n325\nSegundo\n270\n355\nTerceiro\n290\n350\nQuarto\n280\n365\nQuinto\n260\n305\nDe acordo com a tabela, a média anual do lucro, em \nmilhar de real, ao longo dos cinco anos é\nA\t 60.\nB\t 70.\nC\t 75.\nD\t 80.\nE\t 85.",
+  "processado_em": "2026-05-11T23:26:23.178685",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 311.6
+  }
+}

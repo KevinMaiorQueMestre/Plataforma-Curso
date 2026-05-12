@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q011",
+  "imagem": "q011.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 11,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 11\t\nEsporte e cultura: análise acerca da esportivização de práticas corporais nos jogos indígenas\nNos Jogos dos Povos Indígenas, observa-se que as práticas corporais realizadas envolvem elementos \ntradicionais (como as pinturas e adornos corporais) e modernos (como a regulamentação, a fiscalização e a \npadronização). O arco e flecha e a lança, por exemplo, são instrumentos tradicionalmente utilizados para a caça e a \ndefesa da comunidade na aldeia. Na ocasião do evento, esses artefatos foram produzidos pela própria etnia, porém \nsua estruturação como “modalidade esportiva” promoveu uma semelhança entre as técnicas apresentadas, com o \nsentido único da competição.\nALMEIDA, A. J. M.; SUASSUNA, D. M. F. A. Pensar a prática, n. 1, jan.-abr. 2010 (adaptado).\nA relação entre os elementos tradicionais e modernos nos Jogos dos Povos Indígenas desencadeou a\nA\t padronização de pinturas e adornos corporais.\nB\t sobreposição de elementos tradicionais sobre os modernos.\nC\t individuação das técnicas apresentadas em diferentes modalidades.\nD\t legitimação das práticas corporais indígenas como modalidade esportiva.\nE\t preservação dos significados próprios das práticas corporais em cada cultura.",
+  "processado_em": "2026-05-11T23:27:19.293844",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

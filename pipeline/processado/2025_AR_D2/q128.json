@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q128",
+  "imagem": "q128.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 128,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 128\t\nSegundo o princípio da independência dos movimentos, de \nGalileu, sempre que a velocidade resultante de um corpo puder \nser decomposta em duas ou mais componentes perpendiculares \nentre si, cada um desses movimentos poderá ser analisado \nseparadamente como se os outros não existissem. Esse princípio \né muito útil para a simplificação de alguns problemas reais, em \ntrês dimensões.\nConsidere um avião que, ao decolar, é instruído pela \ntorre a atingir, em 6 minutos, uma posição de 20 km a Leste, \n20 km a Norte e 1 km de altitude em relação ao ponto de \ndecolagem, conforme a figura (fora de escala). No entanto, \nno instante da decolagem, começa a soprar um vento cujo \nvetor velocidade tem componentes 30 km/h para Leste, \n20 km/h para Sul e 1 km/h de cima para baixo.\nDurante a ação do vento, a velocidade v que o piloto deve \nestabelecer em relação ao ar para que o avião chegue à posição \nesperada no tempo indicado tem as componentes\nA\t230 km/h para Leste, 180 km/h para Sul e 9 km/h para baixo.\nB\t230 km/h para Leste, 180 km/h para Norte e 9 km/h para cima.\nC\t200 km/h para Oeste, 200 km/h para Norte e 10 km/h para cima.\nD\t170 km/h para Leste, 220 km/h para Norte e 11 km/h para cima.\nE\t170 km/h para Leste, 180 km/h para Norte e 11 km/h para cima.",
+  "processado_em": "2026-05-08T14:07:07.803578",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

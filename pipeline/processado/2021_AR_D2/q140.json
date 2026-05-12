@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \n 21!\n____ \n7!14!\nQuestão 140\nOs diretores de uma escola precisam construir um \nlaboratório para uso dos alunos. Há duas possibilidades:\n(i) um laboratório do tipo A, com capacidade para \n100 usuários, a um custo de 180 mil reais e gastos de \n¹}\u0002\u0010\u000e2\u0002\u0007\n\b\u000e\t\u0002%\u0004\u0007\u0002\b\u0005\u0004\u0002%\b\u0007\b\u0002\u0010\b\u0005\f\r\n\u0005'\u001d\u0004¤\u0002\n(ii) um laboratório do tipo B, com capacidade para \n80 usuários, a um custo de 120 mil reais e gastos com \n\u0010\b\u0005\f\r\n\u0005'\u001d\u0004\u0002\u000f\n\u0002{¹\u0002\u0010\u000e2\u0002\u0007\n\b\u000e\t\u0002%\u0004\u0007\u0002\b\u0005\u0004(\u0002\n\u0003\u0004\u0005\t\u000e\u000f\n\u0007\b/\t\n\u0002 \u000b\f\n$\u0002 \n\u0010\u0002 \u000b\f\b2\u000b\f\n\u0007\u0002 \u001e\b\t\u0004$\u0002 \u0004\u0002 2\b!\u0004\u0007\b\rB\u0007\u000e\u0004\u0002\nimplantado será utilizado na totalidade de sua capacidade.\n\u0012\u0002\n\u001e\u0004\u0005\u0004\u0010\u000e\b\u0002\u000f\b\u0002\n\t\u001e\u00042\b$\u0002\u0005\b\u0002\f\r\u000e2\u000e\b'\u001d\u0004\u0002\u000f\n\u0002\f\u0010\u00022\b!\u0004\u0007\b\rB\u0007\u000e\u0004\u0002\ntipo B, em vez de um laboratório tipo A, num período de \n4 anos, por usuário, será de\nA  1,31 mil reais.\nB  1,90 mil reais.\nC  2,30 mil reais.\nD  2,36 mil reais.\nE 2 95 mil reais",
+  "processado_em": "2026-05-08T14:04:30.707610",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

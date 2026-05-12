@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 59\t\nUm dos grandes desafios no combate ao desmatamento \nno Brasil consiste na intensificação das atividades \nagropecuárias. Uma maior produtividade por hectare reduziria \na necessidade da incorporação de novas áreas agrícolas \npara o aumento de produção, diminuindo a pressão sobre o \ndesmatamento. Concilia-se assim a expansão da produção \nde alimentos, fibras e biocombustíveis com a necessidade \nde preservação ambiental.\nFÉRES, J. G.; FERREIRA, M. D. P. Sustentabilidade da agropecuária \nbrasileira: o desafio da intensificação. In: VIEIRA FILHO, J. E. R.; \n GASQUES, J. G. (Org.). Uma jornada pelos contrastes \ndo Brasil: cem anos do Censo Agropecuário. \nBrasília: Ipea; IBGE 2020",
+  "processado_em": "2026-05-08T14:05:56.251100",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

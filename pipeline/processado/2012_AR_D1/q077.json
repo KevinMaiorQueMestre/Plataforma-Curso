@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q077",
+  "imagem": "q077.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 77,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "D",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 77\t\nUm consumidor desconfia que a balança do \nsupermercado não está aferindo corretamente a massa \ndos produtos. Ao chegar a casa resolve conferir se a \nbalança estava descalibrada. Para isso, utiliza um recipiente \nprovido de escala volumétrica, contendo 1,0 litro d’água. \nEle coloca uma porção dos legumes que comprou dentro \ndo recipiente e observa que a água atinge a marca de \n1,5 litro e também que a porção não ficara totalmente \nsubmersa, com 1\n3\n de seu volume fora d’água. Para \nconcluir o teste, o consumidor, com ajuda da internet, \nverifica que a densidade dos legumes, em questão, \né a metade da densidade da água, onde, rágua = 1 \ng\ncm3 .\nNo supermercado a balança registrou a massa da porção \nde legumes igual a 0,500 kg (meio quilograma).\nConsiderando que o método adotado tenha boa precisão, \no consumidor concluiu que a balança estava descalibrada \ne deveria ter registrado a massa da porção de legumes \nigual a\nA\t 0,073 kg.\nB\t 0,167 kg.\nC\t 0,250 kg.\nD\t 0,375 kg.\nE\t 0,750 kg.",
+  "processado_em": "2026-05-08T13:59:02.512567",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

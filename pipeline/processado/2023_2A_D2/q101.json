@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q101",
+  "imagem": "q101.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 101,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 101\t\nA primeira tecnologia comercial de comunicação da \ninternet foi realizada usando a rede de voz telefônica, \nimplantada por pares de fios condutores (par trançado), \nque permitiam uma transferência máxima de 56 kbps \n(quilobites por segundo). Nesse padrão de comunicação, a \ntransferência se faz usando uma onda quadrada modulada, \ncom os níveis 1 e 0 representados pela diferença de \npotencial (d.d.p.) nos fios ou pela ausência dessa d.d.p. \nNas comunicações atuais, a capacidade de transferência \nde dados por fibra óptica ou micro-ondas (usando uma \nonda de 2,5 GHz na tecnologia 4G ou uma de 3,5 GHz \nna tecnologia 5G) é muito superior. Na 5G está prevista \numa capacidade de transferência superior a 10 Gbps para \ncada dispositivo conectado. Considere que a informação \né transportada a uma velocidade igual a 2\n3\n da velocidade \nda luz (c = 3 × 108 m/s), por uma perturbação do campo \nelétrico ou por uma onda eletromagnética.\nOs comprimentos, em metro, de um bit de informação \ntransportado no par trançado e na rede 5G, \nrespectivamente, são mais próximos de\nA\t\nA\t 3,6 × 103 e 2,0 × 10–2.\nB\t\nB\t 3,6 × 103 e 8,6 × 10–2.\nC\t\nC\t 3,6 × 10–1 e 2,0 × 10–1.\nD\t\nD\t 5,4 × 10–1 e 8,6 × 10–2.\nE\t\nE\t 5,4 × 10–1 e 3,0 × 10–2.",
+  "processado_em": "2026-05-08T14:05:24.569468",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

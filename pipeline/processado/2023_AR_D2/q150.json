@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q150",
+  "imagem": "q150.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 150,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 150\t\nA água utilizada pelos 75 moradores de um vilarejo pr\ncujo raio da base mede 5 metros, sempre abastecido no pr\ndesse vilarejo consome, em média, 200 litros de água por\nNo mês de junho de um determinado ano, o vilarejo fest\nnos primeiros 20 dias. Passado esse período, as pessoas \ne constataram que o nível da coluna de água estava em 1,\ndurante os 10 dias seguintes. Considere 3 como aproxima\nQual é a quantidade mínima de água, em litro, que cada \nque o reservatório não fique sem água nos próximos 10 d\nA\t\nA\t 50\nB\t\nB\t 60\nC\t\nC\t 80\nD\t\nD\t 140\nE\t\nE\t 150",
+  "processado_em": "2026-05-08T14:05:45.964478",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

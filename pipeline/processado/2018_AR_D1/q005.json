@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q005",
+  "imagem": "q005.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 5,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 05\t\nMayo\n15\nQue mañana no sea otro nombre de hoy\nEn el año 2011, miles de jóvenes, despojados de sus \ncasas y de sus empleos, ocuparon las plazas y las calles \nde varias ciudades de España.\nY la indignación se difundió. La buena salud resultó \nmás contagiosa que las pestes, y las voces de los \nindignados atravesaron las fronteras dibujadas en los \nmapas. Así resonaron en el mundo:\nNos dijeron “¡a la puta calle!”, y aquí estamos.\nApaga la tele y enciende la calle.\nLa llaman crisis, pero es estafa.\nNo falta dinero: sobran ladrones.\nLos mercados gobiernan. Yo no los voté.\nEllos toman decisiones por nosotros, sin nosotros.\nSe alquila esclavo económico.\nEstoy buscando mis derechos. ¿Alguien los ha visto?\nSi no nos dejan soñar, no los dejaremos dormir.\nGALEANO, E. Los hijos de los días. Buenos Aires: Siglo Veintiuno, 2012.\nAo elencar algumas frases proferidas durante protestos \nna Espanha, o enunciador transcreve, de forma direta, as \nreivindicações dos manifestantes para\nA\t provocá-los de forma velada.\nB\t dar voz ao movimento popular.\nC\t fomentar o engajamento do leitor.\nD\t favorecer o diálogo entre governo e sociedade.\nE\t instaurar dúvidas sobre a legitimidade da causa.",
+  "processado_em": "2026-05-11T23:26:28.144735",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

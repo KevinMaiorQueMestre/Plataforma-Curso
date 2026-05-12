@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q071",
+  "imagem": "q071.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 71,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 71\t\nAcampamento do Movimento dos Trabalhadores  \nSem-Teto (MTST) em São Bernardo do Campo - SP (2017)\n STUCKERT, R. Disponível em: www.metrojornal.com.br. Acesso em: 2 ago. 2019.\nNa imagem, está registrada a estratégia de atuação de \num tipo de movimento social urbano. Considerando-se \nos direitos constitucionais, essa estratégia ressalta a \nnecessidade de adoção de medidas governamentais que \npromovam o(a)\nA\t\nA\t controle de fluxos emigratórios.\nB\t\nB\t acesso a moradias adequadas.\nC\t\nC\t dissolução da propriedade privada.\nD\t\nD\t descentralização de espaços de lazer.\nE\t\nE\t restrição ao processo de verticalização.",
+  "processado_em": "2026-05-08T14:04:42.310848",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

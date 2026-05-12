@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q172",
+  "imagem": "q172.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 172,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 172\t\nO gráfico a seguir associa a distância percorrida (em \nquilômetro) com o tempo (em minuto) gasto por um grupo \nde carros que partiu de um mesmo ponto e se deslocou \nem um trecho de uma rodovia. Esse grupo parou em três \nsemáforos (S1, S2 e S3) ao longo do percurso feito.\nDistância (km)\nTempo (min)\n14\n12\n10\n8\n6\n4\n2\n0\n2\n4\n6\n8 10 12 14 16 18 20\nTEIXEIRA, P. et al. Funções 10º escolaridade. Lisboa: Ministério da Educação, 1997.\nAs distâncias, em quilômetro, do ponto de partida a cada \num dos semáforos S1, S2 e S3 são\nA\t\nA\t 2, 6 e 8.\nB\t\nB\t 2, 8 e 16.\nC\t\nC\t 4, 4 e 2.\nD\t\nD\t 4, 8 e 10.\nE\t\nE\t 4, 10 e 18.",
+  "processado_em": "2026-05-08T14:04:50.934376",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

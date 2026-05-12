@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q148",
+  "imagem": "q148.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 148,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 148\t\nUma família fez uma festa de aniversário e \nenfeitou o local da festa com bandeirinhas de papel. \nEssas bandeirinhas foram feitas da seguinte maneira: \ninicialmente, recortaram as folhas de papel em forma \nde quadrado, como mostra a Figura 1. Em seguida, \ndobraram as folhas quadradas ao meio sobrepondo \nos lados BC e AD, de modo que C e D coincidam, e o \nmesmo ocorra com A e B, conforme ilustrado na Figura 2. \nMarcaram os pontos médios O e N, dos lados FG e AF, \nrespectivamente, e o ponto M do lado AD, de modo que \nAM seja igual a um quarto de AD. A seguir, fizeram cortes \nsobre as linhas pontilhadas ao longo da folha dobrada.\nO\nF\nN\nA\nM\nFigura 2\nD\nG\nA\nD\nC\nB\nFigura 1\nApós os cortes, a folha é aberta e a bandeirinha está \npronta.\nA figura que representa a forma da bandeirinha pronta é\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:00:57.138669",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

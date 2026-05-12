@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q062",
+  "imagem": "q062.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 62,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 62          \nSexto rei sumério (governante entre os séculos XVIII e \nXVII a.C.) e nascido em Babel, “Khammu-rabi” (pronúncia \nem babilônio) foi fundador do I Império Babilônico \n(correspondente ao atual Iraque), unificando amplamente \no mundo mesopotâmico, unindo os semitas e os sumérios \ne levando a Babilônia ao máximo esplendor. O nome \nde Hamurabi permanece indissociavelmente ligado ao \ncódigo jurídico tido como o mais remoto já descoberto: o \nCódigo de Hamurabi. O legislador babilônico consolidou \na tradição jurídica, harmonizou os costumes e estendeu o \ndireito e a lei a todos os súditos.\nDisponível em: www.direitoshumanos.usp.br. Acesso em: 12 fev. 2013 (adaptado).\nNesse contexto de organização da vida social, as leis \ncontidas no Código citado tinham o sentido de\nA \t assegurar garantias individuais aos cidadãos livres.\nB \ttipificar regras referentes aos atos dignos de \npunição.\nC \t conceder benefícios de indulto aos prisioneiros de \nguerra.\nD \t promover distribuição de terras aos desempregados \nurbanos.\nE \t conferir prerrogativas políticas aos descendentes de \nestrangeiros.",
+  "processado_em": "2026-05-11T23:28:05.029233",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

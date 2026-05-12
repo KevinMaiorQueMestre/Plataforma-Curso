@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 175\t\nPara realizar uma brincadeira, foram utilizadas 4 caixa\nnumeradas de 1 a 4 contendo, cada uma, a mesma quantidad\nde objetos. Em cada rodada dessa brincadeira, 2 objetos d\nCaixa 1 são transferidos para a Caixa 2; 2 dessa caixa sã\ntransferidos para a Caixa 3, e 2 dessa terceira caixa são transferido\npara a Caixa 4. Após 3 dessas rodadas, a Caixa 4 continha 30 objeto\nApós as 3 rodadas, quantos objetos havia na Caixa 1?\nA\t12\nB\t18\nC\t22\nD\t24\nE 36",
+  "processado_em": "2026-05-08T14:06:54.316156",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

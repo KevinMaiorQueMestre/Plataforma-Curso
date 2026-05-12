@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q123",
+  "imagem": "q123.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 123,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 123 \nConsidere o esquema básico de funcionamento de uma usin\nma cidade próxima.\nNo reator, ocorre a fissão nuclear, que gera energia suficie\nassa pelas pás da turbina gerando energia elétrica. Em seguida\nazer a água aquecida pela fissão nuclear circular e aquecer a ág\no condensador para a câmara geradora de vapor. A bomba lll fa\n vapor que passou pelas turbinas. As setas cinza indicam o sen\nDisponível\ne a bomba l parar de funcionar, o que ocorrerá na usina nuclea\nA Aquecimento do reator da usina.\nB Aumento da atividade da turbina.\nC Resfriamento do ambiente aquático.\nD Inundação de água no condensador.\nE Aceleração do consumo de combustível",
+  "processado_em": "2026-05-08T14:06:35.980058",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nUma padaria vende, em média, 100 pães especiais \npor dia e arrecada com essas vendas, em média,  \nR$ 300,00. Constatou-se que a quantidade de pães \nespeciais vendidos diariamente aumenta, caso o preço \nseja reduzido, de acordo com a equação \nq = 400 – 100p,\nna qual q representa a quantidade de pães especiais \nvendidos diariamente e p, o seu preço em reais.\nA fim de aumentar o fluxo de clientes, o gerente \nda padaria decidiu fazer uma promoção. Para tanto, \nmodificará o preço do pão especial de modo que a \nquantidade a ser vendida diariamente seja a maior \npossível, sem diminuir a média de arrecadação diária na \nvenda desse produto.\nO preço p, em reais, do pão especial nessa promoção \ndeverá estar no intervalo \nA\nR$ 0,50 ≤ p < R$ 1,50 \nB\nR$ 1,50 ≤ p < R$ 2,50\nC\nR$ 2,50 ≤ p < R$ 3,50\nD\nR$ 3,50 ≤ p < R$ 4,50\nE\nR$ 4,50 ≤ p < R$ 5,50",
+  "processado_em": "2026-05-08T14:00:57.482005",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

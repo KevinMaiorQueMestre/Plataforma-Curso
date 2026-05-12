@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nA história conheceu dois grandes títulos para \ngovernar os homens: um que se deve à filiação humana \nou divina, ou seja, a superioridade no nascimento; e outro \nque se deve à organização das atividades produtoras e \nreprodutoras da sociedade, ou seja, o poder da riqueza. \nAs sociedades são habitualmente governadas por uma \ncombinação desses dois títulos.\nRANCIÈRE, J. O ódio à democracia. São Paulo: Boitempo, 2014. \nO texto evoca duas explicações acerca da legitimidade do \ngoverno nas sociedades ocidentais. Na história recente \ndas democracias, o fenômeno que resulta da combinação \nmencionada aponta a presença de\nA\t\nA\t burocracias dos órgãos estatais.\nB\t\nB\t corrupção nas práticas eleitorais.\nC\t\nC\t oligarquias nas casas legislativas.\nD\t\nD\t degradação nas estruturas fiscais.\nE\t\nE\t fortalecimento das siglas partidárias.",
+  "processado_em": "2026-05-08T14:04:41.200644",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

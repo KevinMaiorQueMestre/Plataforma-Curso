@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 100 \nUm fragmento de cartaz possui os seguintes dizeres:\n• Contribui para diminuir a poluição do solo, da água e do ar;\n• Melhora a limpeza da cidade e a qualidade de vida da \npopulação;\n• Prolonga a vida útil de aterros sanitários;\n• Gera empregos para a população;\n• Contribui para a valorização da limpeza pública e para a \nformação da consciência ecológica.\nEsse cartaz trata de uma campanha pelo(a)\nA descarte seletivo de resíduos sólidos para serem reciclados.\nB utilização de transportes coletivos em vez de carros \nparticulares.\nC consumo responsável de eletricidade e biocombustíveis \nautomotivos.\nD troca de sacolas plásticas por sacolas retornáveis nos \nsupermercados.\nE substituição de eletrodomésticos antigos por mais novos e \nmais econômicos.",
+  "processado_em": "2026-05-08T14:06:34.847658",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q104",
+  "imagem": "q104.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 104,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 104\t\nA Figura 1 apresenta o esquema de um tubo de imagem em que \num filamento, na posição A, libera elétrons por efeito termiônico. \nEsses elétrons formam um feixe estreito, que é acelerado por \ncampos elétricos em direção à parte interna da tela. Nesse \ncaminho, o feixe de elétrons passa por outro campo elétrico, na \nregião B, atingindo, em seguida, a parte interna da tela do tubo, \na qual é recoberta por um material que emite luz ao receber o \nimpacto dos elétrons.\nNa Figura 2, a carga negativa representa o feixe de elétrons \nque é acelerado e, posteriormente, atinge um ponto da tela. \nO campo elétrico na região B apresenta a seguinte configuração:\nFigura 2\nGrupo de Reelaboração do Ensino de Física. Física 3: \neletromagnetismo. São Paulo: Edusp, 2000 (adaptado).\nNessa situação, qual ponto da tela será atingido pelo feixe de \nelétrons?\nA\t1\nB\t2\nC\t3\nD\t4\nE\t5",
+  "processado_em": "2026-05-08T14:07:05.564655",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 124\t\nA laje de um depósito de bebidas tem 50 m2 de área útil de \narmazenamento e foi projetada para suportar pressões de até \n104 Pa. O gerente do estabelecimento pretende armazenar um \nproduto cuja densidade é 1 250 kg/m3. Considere a aceleração \nda gravidade igual a 10 m/s2.\nA altura máxima, em metro, de empilhamento do produto que \nessa laje é capaz de suportar é\nA\t0,16 m.\nB\t0,50 m.\nC\t0,80 m.\nD\t1,60 m.\nE 8,00 m.",
+  "processado_em": "2026-05-08T14:07:07.545236",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

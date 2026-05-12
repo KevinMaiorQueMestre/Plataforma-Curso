@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nFoi-se o tempo em que era possível mostrar um \nmundo econômico organizado em camadas bem \ndefinidas, onde grandes centros urbanos se ligavam, \npor si próprios, a economias adjacentes “lentas”, com o \nritmo muito mais rápido do comércio e das finanças de \nlongo alcance. Hoje tudo ocorre como se essas camadas \nsobrepostas estivessem mescladas e interpermeadas. \nInterdependências de curto e longo alcance não podem \nmais ser separadas umas das outras.\nBRENNER, N. A globalização como reterritorialização. Cadernos Metrópole, \nn. 24, jul.-dez. 2010 (adaptado).\nA maior complexidade dos espaços urbanos \ncontemporâneos ressaltada no texto explica-se pela\nA\t expansão de áreas metropolitanas.\nB\t emancipação de novos municípios.\nC\t consolidação de domínios jurídicos.\nD\t articulação de redes multiescalares.\nE\t redefinição de regiões administrativas.",
+  "processado_em": "2026-05-11T23:26:38.366850",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

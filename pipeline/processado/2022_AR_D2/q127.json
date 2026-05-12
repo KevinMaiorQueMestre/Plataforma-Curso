@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 127\t\nA nanotecnologia é responsável pelo aprimoramento \nde diversos materiais, incluindo os que são impactados \ncom a presença de poluentes e da umidade na atmosfera, \ncausadores de corrosão. O processo de corrosão é \nespontâneo e provoca a deterioração de metais como \no ferro, que, em presença de oxigênio e água, sofre \noxidação, conforme ilustra a equação química:\n4 Fe (s) + 2 H2O (l) + 3 O2 (g)  →  2 Fe2O3⋅H2O (s)\nUma forma de garantir a durabilidade da estrutura \nmetálica e a sua resistência à umidade consiste na \ndeposição de filmes finos nanocerâmicos à base de \nzircônia (ZrO2) e alumina (Al2O3) sobre a superfície do \nobjeto que se deseja proteger.\nCLEMENTE, G. A. B. F. et al. O uso de materiais híbridos ou nanocompósitos como\nrevestimentos anticorrosivos do aço. Química Nova, n. 9, 2021 (adaptado).\nEssa nanotecnologia aplicada na proteção contra a \ncorrosão se baseia no(a)\nA\t\nA\t proteção catódica, que utiliza um metal fortemente \nredutor.\nB\t\nB\t uso de metais de sacrifício, que se oxidam no lugar \ndo ferro.\nC\t\nC\t passivação do ferro, que fica revestido pelo seu \npróprio óxido.\nD\t\nD\t efeito de barreira, que impede o contato com o agente \noxidante.\nE\t\nE\t galvanização, que usa outros metais de menor \npotencial de redução.",
+  "processado_em": "2026-05-08T14:05:10.951342",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

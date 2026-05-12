@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q085",
+  "imagem": "q085.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 85,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 85\t\nEntre os anos de 1028 e 1038, Alhazen (Ibn al-Haytham; \n965-1040 d.C.) escreveu sua principal obra, o Livro da \nÓptica, que, com base em experimentos, explicava o \nfuncionamento da visão e outros aspectos da ótica, por \nexemplo, o funcionamento da câmara escura. O livro foi \ntraduzido e incorporado aos conhecimentos científicos \nocidentais pelos europeus. Na figura, retirada dessa obra, \né representada a imagem invertida de edificações em um \ntecido utilizado como anteparo.\nZEWAIL, A. H. Micrographia of the twenty-first century: from camera obscura to 4D microscopy. \nPhilosophical Transactions of the Royal Society A, v. 368, 2010 (adaptado).\nSe fizermos uma analogia entre a ilustração e o olho \nhumano, o tecido corresponde ao(à)\nA\t íris.\nB\t retina.\nC\t pupila.\nD\t córnea.\nE\t cristalino.",
+  "processado_em": "2026-05-08T14:00:48.963927",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

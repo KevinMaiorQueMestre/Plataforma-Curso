@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 21\t\nTEXTO I\nA linguagem visual dos adornos transmite informações \nsobre prestígio e transgressão, direito e dever, pois só é \npermitido ao indivíduo o uso de adornos de sua linhagem. \nQuando diretamente vinculadas aos conceitos cosmológicos, \nas artes indígenas convertem-se antes em prismas que \nrefletem as concepções acerca da composição do universo \ne dos componentes que o povoam.\nAGUILAR, N. (Org.); DIAS, J. A. B. F.; VELTHEN, L. H. V. Mostra do \nredescobrimento: artes indígenas. São Paulo: Fundação Bienal de \nSão Paulo-Associação Brasil 500 anos, 2000 (adaptado).\nTEXTO II\nDiadema (etnia Kayapó). Estados do Mato Grosso e Pará.  \nMuseu de Arte Indígena, s.d.\nDisponível em: www.maimuseu.com.br. Acesso em: 11 jul. 2024.\nPela leitura desses textos, infere-se que a compreensão \nda arte plumária indígena requer a consideração da\nA\tindistinção hierárquica entre os membros de um mesmo \ngrupo social.\nB\tprevalência dos elementos do mundo natural sobre as \nrelações humanas.\nC\treconfiguração constante das representações coletivas \nacerca do universo.\nD\tindeterminação entre as noções de identidade individual \ne de identidade cultural.\nE\tindissociabilidade entre objetos ritualísticos e os papéis \ndos indivíduos na comunidade.",
+  "processado_em": "2026-05-08T14:06:09.866043",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

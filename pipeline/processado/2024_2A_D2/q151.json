@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q151",
+  "imagem": "q151.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 151,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 151\t\nUma confecção de roupas pretende contratar novos \nfuncionários e, para treiná-los, dispõe de duas opções:\n•\t ela própria realizar o treinamento que teria custo \nde R$ 9 000,00 por funcionário. Nesse caso, ao fim \ndo treinamento, as coleções de peças de roupas \nconfeccionadas por funcionário serão vendidas por \nR$ 1 500,00 pela confecção, valor que será abatido do \ninvestimento com o treinamento de cada funcionário;\n•\t contratar uma empresa especializada que cobra \nR$ 4 000,00 por funcionário. Nesse caso, as \npeças produzidas no treinamento não poderão ser \ncomercializadas pela confecção.\nA confecção investirá um total de R$ 2 520 000,00 no \ntreinamento desses futuros funcionários.\nQuantos funcionários essa confecção conseguirá treinar a \nmais se optar pela empresa especializada em vez de ela \nprópria realizar o treinamento?\nA\t294\nB\t336\nC\t390\nD\t504\nE\t630\nF",
+  "processado_em": "2026-05-08T14:06:04.388275",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

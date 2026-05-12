@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q060",
+  "imagem": "q060.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 60,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 60\t\nA cidade medieval é, antes de mais nada, uma sociedade da abundância, concentrada num pequeno espaço \nem meio a vastas regiões pouco povoadas. Em seguida, é um lugar de produção e de trocas, onde se articulam \no artesanato e o comércio, sustentados por uma economia monetária. É também o centro de um sistema de \nvalores particular, do qual emerge a prática laboriosa e criativa do trabalho, o gosto pelo negócio e pelo dinheiro, \na inclinação para o luxo, o senso da beleza. É ainda um sistema de organização de um espaço fechado \ncom muralhas, onde se penetra por portas e se caminha por ruas e praças e que é guarnecido por torres.\nLE GOFF, J.; SCHMITT, J.-C. Dicionário temático do Ocidente Medieval. Bauru: Edusc, 2006.\nNo texto, o espaço descrito se caracteriza pela associação entre a ampliação das atividades urbanas e a\nA\t emancipação do poder hegemônico da realeza.\nB\t aceitação das práticas usurárias dos religiosos.\nC\t independência da produção alimentar dos campos.\nD\t superação do ordenamento corporativo dos ofícios.\nE\t permanência dos elementos arquitetônicos de proteção.",
+  "processado_em": "2026-05-11T23:27:25.609344",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

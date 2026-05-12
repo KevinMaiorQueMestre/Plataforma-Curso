@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nEm um experimento de laboratório, duas barras \nmetálicas, A e B, são carregadas com cargas opostas e \nimersas em óleo. Farelo de milho é jogado sobre o óleo e, \napós um certo tempo, o farelo assume o formato das linhas \nde campo elétrico entre as barras. A figura representa a \nvista superior desse experimento.\nALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4: \nmódulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).\nAo repetir o experimento colocando um cilindro metálico \noco entre as placas, o esquema que representa o formato \ndas linhas de campo assumido pelo farelo é:\nA\t\nB\t\nC\t\nD\t\nE",
+  "processado_em": "2026-05-08T14:06:16.911472",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

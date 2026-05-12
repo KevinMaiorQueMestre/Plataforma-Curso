@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 26\t\nTEXTO I\nO Estatuto do Idoso completou 15 anos em 2018 e só no primeiro semestre o Disque 100 recebeu 16 mil \ndenúncias de violação de direitos dos idosos em todo o País.\nPara especialistas da área, o aumento no número de denúncias pode ser consequência do encorajamento dos \nmais velhos na busca pelos direitos. Mas também pode refletir uma onda crescente de violência na sociedade e \ndentro das próprias famílias.\nPolíticas públicas mais eficazes no atendimento ao idoso são o mínimo que um país deve estabelecer. O Brasil \nestá ficando para trás e é preciso levar em consideração que o País envelhece (tendência mundial) sem estar \npreparado para arcar com os desafios, como criar uma rede de proteção, preparar os serviços de saúde pública e \ndar suporte às famílias que precisam cuidar de seus idosos dependentes.\nDisponível em: www.folhadelondrina.com.br. Acesso em: 9 dez. 2018 (adaptado).\n TEXTO II\nDisponível em: www.brasil.gov.br. Acesso em: 9 dez. 2018.\nNa comparação entre os textos, conclui-se que as regras do Estatuto do Idoso\nA\t apresentam vantagens em relação às de outros países.\nB\t são ignoradas pelas famílias responsáveis por idosos.\nC\t alteram a qualidade de vida das pessoas com mais de 60 anos.\nD\t precisam ser revistas em razão do envelhecimento da população.\nE\t contrastam com as condições de vida proporcionadas pelo País.",
+  "processado_em": "2026-05-11T23:27:22.651736",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

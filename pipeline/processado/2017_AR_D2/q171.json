@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nNuma avenida existem 10 semáforos. Por causa de \numa pane no sistema, os semáforos ficaram sem controle \ndurante uma hora, e fixaram suas luzes unicamente em \nverde ou vermelho. Os semáforos funcionam de forma \nindependente; a probabilidade de acusar a cor verde é de\n2\n3\n e a de acusar a cor vermelha é de 1\n3\n. Uma pessoa\npercorreu a pé toda essa avenida durante o período \nda pane, observando a cor da luz de cada um desses \nsemáforos. \nQual a probabilidade de que esta pessoa tenha observado \nexatamente um sinal na cor verde? \nA\n10\n2\n310\n×\nB\n10\n2\n3\n9\n10\n×\nC\n2\n3\n10\n100\nD\n2\n3\n90\n100\nE\n2\n310",
+  "processado_em": "2026-05-11T23:25:57.207173",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

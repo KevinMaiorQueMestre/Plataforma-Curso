@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 145        \nUm processo de aeração, que consiste na introdução \nde ar num líquido, acontece do seguinte modo: uma \nbomba B retira o líquido de um tanque T1 e o faz passar \npelo aerador A1, que aumenta o volume do líquido em \n15%, e em seguida pelo aerador A2, ganhando novo \naumento de volume de 10%. Ao final, ele fica armazenado \nnum tanque T2, de acordo com a figura.\n \nT1\nB\nT2\nA1\nA2\nOs tanques T1 e T2 são prismas retos de bases \nretangulares, sendo que a base de T1 tem comprimento c e \nlargura L, e a base de T2 tem comprimento c\n2 e largura 2L.\nPara \nfinalizar \no \nprocesso \nde \naeração \nsem \nderramamento do líquido em T2, o responsável deve \nsaber a relação entre a altura da coluna de líquido que já \nsaiu de T1, denotada por X, e a altura da coluna de líquido \nque chegou a T2, denotada por y.\nDisponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015.\nA equação que relaciona as medidas das alturas y e x é \ndada por\nA  y = 1,265x\nB  y = 1,250x\nC  y = 1,150x\nD  y = 1,125x\nE  y = x",
+  "processado_em": "2026-05-11T23:28:16.566734",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

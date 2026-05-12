@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 178\t\nA figura representa uma escada com três degraus, const\nNessa escada, pisos e espelhos têm formato retangul\nlados adjacentes são perpendiculares. Pisos, espelhos e \nA área a ser revestida em cerâmica, em metro quadrado, \nA\t\nA\t 1,20.\nB\t\nB\t 1,35.\nC\t\nC\t 1,65.\nD\t\nD\t 1,80.\nE\t\nE\t 1,95.",
+  "processado_em": "2026-05-08T14:05:47.452036",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

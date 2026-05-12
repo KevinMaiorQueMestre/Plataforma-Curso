@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q111",
+  "imagem": "q111.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 111,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 111\t\nO esquema apresenta as etapas do processo de biodigestão, \numa forma de dar um destino sustentável a excrementos animais \ne restos de comida produzidos em áreas de criação de gado e \nporcos confinados.\nDisponível em: www.engquimicasantossp.com.br. \nAcesso em: 11 fev. 2015 (adaptado). \nDar destino sustentável às sobras, conforme apresentado na \netapa 4, ajuda a evitar a\nA\tbioacumulação de toxinas em plantas.\nB\teutrofização dos corpos de água.\nC\tdestruição da camada de ozônio.\nD\tocorrência de inversão térmica.\nE\tprodução de chuva ácida.",
+  "processado_em": "2026-05-08T14:07:06.032856",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

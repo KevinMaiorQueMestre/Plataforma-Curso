@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q115",
+  "imagem": "q115.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 115,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 115\t\nEm uma residência com aquecimento central, um reservatório é alimentado com água fria, que é aquecida na \nbase do reservatório e, a seguir, distribuída para as torneiras. De modo a obter a melhor eficiência de aquecimento \ncom menor consumo energético, foram feitos alguns testes com diferentes configurações, modificando-se as \nposições de entrada de água fria e de saída de água quente no reservatório, conforme a figura. Em todos os testes, \nas vazões de entrada e saída foram mantidas iguais e constantes.\nA configuração mais eficiente para a instalação dos pontos de entrada e saída de água no reservatório é, \nrespectivamente, nas posições\nA\t 1 e 4.\nB\t 1 e 6.\nC\t 2 e 5.\nD\t 3 e 4.\nE\t 3 e 5.",
+  "processado_em": "2026-05-11T23:27:09.554364",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

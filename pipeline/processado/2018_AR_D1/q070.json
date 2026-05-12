@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q070",
+  "imagem": "q070.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 70,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 70\t\nA primeira fase da dominação da economia sobre a \nvida social acarretou, no modo de definir toda realização \nhumana, uma evidente degradação do ser para o ter. \nA fase atual, em que a vida social está totalmente tomada \npelos resultados da economia, leva a um deslizamento \ngeneralizado do ter para o parecer, do qual todo ter efetivo \ndeve extrair seu prestígio imediato e sua função última. \nAo mesmo tempo, toda realidade individual tornou-se \nsocial, diretamente dependente da força social, moldada \npor ela.\nDEBORD, G. A sociedade do espetáculo. Rio de Janeiro: Contraponto, 2015.\nUma manifestação contemporânea do fenômeno descrito \nno texto é o(a)\nA\t valorização dos conhecimentos acumulados.\nB\t exposição nos meios de comunicação.\nC\t aprofundamento da vivência espiritual.\nD\t fortalecimento das relações interpessoais.\nE\t reconhecimento na esfera artística.",
+  "processado_em": "2026-05-11T23:26:40.022184",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

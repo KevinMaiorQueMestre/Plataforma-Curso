@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q138",
+  "imagem": "q138.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 138,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 138\t\nUm controlador de voo dispõe de um instrumento que \ndescreve a altitude de uma aeronave em voo, em função \nda distância em solo. Essa distância em solo é a medida na \nhorizontal entre o ponto de origem do voo até o ponto que \nrepresenta a projeção ortogonal da posição da aeronave, \nem voo, no solo. Essas duas grandezas são dadas numa \nmesma unidade de medida.\nA tela do instrumento representa proporcionalmente \nas dimensões reais das distâncias associadas ao voo. \nA figura apresenta a tela do instrumento depois de \nconcluída a viagem de um avião, sendo a medida do lado \nde cada quadradinho da malha igual a 1 cm.\nAltitude\nOrigem \ndo voo\nDestino\nDistância\nEssa tela apresenta os dados de um voo cuja maior \naltitude alcançada foi de 5 km.\nA escala em que essa tela representa as medidas reais é\nA\t\nA\t 1 : 5.\nB\t\nB\t 1 : 11.\nC\t\nC\t 1 : 55.\nD\t\nD\t 1 : 5 000.\nE\t\nE\t 1 : 500 000.",
+  "processado_em": "2026-05-08T14:05:45.319620",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

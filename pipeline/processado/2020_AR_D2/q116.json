@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t 1\nB \t 2\nC \t 3\nD \t 4\nE \t 5\nQuestão 116        \nO crescimento da frota de veículos em circulação \nno mundo tem levado à busca e desenvolvimento \nde tecnologias que permitam minimizar emissões de \npoluentes atmosféricos. O uso de veículos elétricos é \numa das propostas mais propagandeadas por serem de \nemissão zero. Podemos comparar a emissão de carbono \nna forma de CO2 (massa molar igual a 44 g mol−1) para os \ndois tipos de carros (a combustão e elétrico). Considere",
+  "processado_em": "2026-05-11T23:28:14.132857",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

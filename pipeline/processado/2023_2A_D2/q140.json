@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 140\t\nUma pessoa tinha um projeto para um salão de festas \nno formato de paralelepípedo reto retângulo. Ela comprou \na quantidade exata de azulejos para cobrir as paredes \nlaterais, incluindo as regiões destinadas a uma porta e \numa janela. Os azulejos que cobririam essas regiões \nseriam reservados para futuras substituições. Esse projeto \nprevia que o salão teria, como dimensões internas, 10 m \nde comprimento por 6 m de largura por 2,5 m de altura.\nEm decorrência de uma mudança no projeto, o salão \nficará com 12 m de comprimento por 5 m de largura e as \nmesmas dimensões para porta e janela. Como a compra \nde azulejos já foi feita, essa pessoa ajustará a altura do \nsalão de modo que a área lateral, incluindo as regiões \nda porta e da janela, seja equivalente à área lateral antes da \nalteração do projeto.\nQual é a medida, em metro, dessa nova altura, expressa \ncom duas casas decimais?\nA\t\nA\t 3,25\nB\t\nB\t 3,00\nC\t\nC\t 2,50\nD\t\nD\t 2,35\nE\t\nE\t 2,00",
+  "processado_em": "2026-05-08T14:05:26.747377",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

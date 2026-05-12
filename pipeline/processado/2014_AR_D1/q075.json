@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 75\t\nUm pesquisador percebe que o rótulo de um dos vidros \nem que guarda um concentrado de enzimas digestivas \nestá ilegível. Ele não sabe qual enzima o vidro contém, \nmas desconfia de que seja uma protease gástrica, que \nage no estômago digerindo proteínas. Sabendo que a \ndigestão no estômago é ácida e no intestino é básica, ele \nmonta cinco tubos de ensaio com alimentos diferentes, \nadiciona o concentrado de enzimas em soluções com \npH determinado e aguarda para ver se a enzima age em \nalgum deles.\nO tubo de ensaio em que a enzima deve agir para indicar \nque a hipótese do pesquisador está correta é aquele que \ncontém\nA\t cubo de batata em solução com pH = 9.\nB\t pedaço de carne em solução com pH = 5.\nC\t clara de ovo cozida em solução com pH = 9.\nD\t porção de macarrão em solução com pH = 5.\nE\t bolinha de manteiga em solução com pH = 9.",
+  "processado_em": "2026-05-08T14:00:31.578148",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

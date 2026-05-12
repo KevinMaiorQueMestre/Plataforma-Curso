@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nAo realizar o cadastro em um aplicativo de investimentos, \nfoi solicitado ao usuário que criasse uma senha, sendo \npermitido o uso somente dos seguintes caracteres:\n•\t algarismos de 0 a 9;\n•\t 26 letras minúsculas do alfabeto;\n•\t 26 letras maiúsculas do alfabeto;\n•\t 6 caracteres especiais !, @, #, $, , &.\nTrês tipos de estruturas para senha foram apresentadas \nao usuário:\n•\t tipo I: formada por quaisquer quatro caracteres \ndistintos, escolhidos dentre os permitidos;\n•\t tipo II: formada por cinco caracteres distintos, \niniciando por três letras, seguidas por um algarismo \ne, ao final, um caractere especial;\n•\t tipo III: formada por seis caracteres distintos, iniciando \npor duas letras, seguidas por dois algarismos e, ao \nfinal, dois caracteres especiais.\nConsidere p1, p2 e p3 as probabilidades de se \ndescobrirem ao acaso, na primeira tentativa, as senhas \ndos tipos I, II e III, respectivamente.\nNessas condições, o tipo de senha que apresenta a \nmenor probabilidade de ser descoberta ao acaso, na \nprimeira tentativa, é o\nA\t\nA\t tipo I, pois p1 < p2 < p3.\nB\t\nB\t tipo I, pois tem menor quantidade de caracteres.\nC\t\nC\t tipo II, pois tem maior quantidade de letras.\nD\t\nD\t tipo III, pois p3 < p2 < p1.\nE\t\nE\t tipo III, pois tem maior quantidade de caracteres.",
+  "processado_em": "2026-05-08T14:05:46.334287",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

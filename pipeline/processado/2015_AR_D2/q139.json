@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nUm investidor inicia um dia com x ações de uma \nempresa. No decorrer desse dia, ele efetua apenas \ndois tipos de operações, comprar ou vender ações. \nPara realizar essas operações, ele segue estes critérios:\nI.\t\nvende metade das ações que possui, assim que \nseu valor fica acima do valor ideal (Vi);\nII.\t compra a mesma quantidade de ações que \npossui, assim que seu valor fica abaixo do valor \nmínimo (Vm);\nIII.\t vende todas as ações que possui, quando seu \nvalor fica acima do valor ótimo (Vo).\nO gráfico apresenta o período de operações e a variação \ndo valor de cada ação, em reais, no decorrer daquele dia e \na indicação dos valores ideal, mínimo e ótimo.\nValor da ação (R$)\nTempo (hora)\n10              11              12             13            14             15            16              17\nVo\nVi\nVm\nQuantas operações o investidor fez naquele dia?\nA\t 3\nB\t 4\nC\t 5\nD\t 6\nE\t 7",
+  "processado_em": "2026-05-08T14:00:56.561506",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q092",
+  "imagem": "q092.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 92,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 92\t\nInformações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades \nmicroscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). \nQuanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante \npara a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um \nobstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers \ncom emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.\nEm qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados \nem discos de uma mesma área?\nA\t\nA\t Violeta.\nB\t\nB\t Azul.\nC\t\nC\t Verde.\nD\t\nD\t Vermelho.\nE\t\nE\t Infravermelho.",
+  "processado_em": "2026-05-11T23:29:16.050190",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

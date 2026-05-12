@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nAlgumas raças de cães domésticos não conseguem \ncopular entre si devido à grande diferença em seus \ntamanhos \ncorporais. Ainda \nassim, \ntal \ndificuldade \nreprodutiva não ocasiona a formação de novas espécies \n(especiação).\nEssa especiação não ocorre devido ao(à)\nA\t oscilação genética das raças.\nB\t convergência adaptativa das raças.\nC\t isolamento geográfico entre as raças.\nD\t seleção natural que ocorre entre as raças. \nE\t manutenção do fluxo gênico entre as raças.",
+  "processado_em": "2026-05-08T14:00:47.403407",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

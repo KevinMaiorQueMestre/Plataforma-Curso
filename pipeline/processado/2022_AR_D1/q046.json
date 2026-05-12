@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS\nQuestões de 46 a 90\nQUESTÃO 46\t\nEspera, resignado, o dia 13 daquele mês porque, \nem tal data, usança avoenga lhe faculta sondar o futuro, \ninterrogando a providência. É a experiência tradicional de \nSanta Luzia. No dia 12 ao anoitecer expõe ao relento, \nem linha, seis pedrinhas de sal, que representam, em \nordem sucessiva da esquerda para a direita, os seis \nmeses vindouros, de janeiro a junho. Ao alvorecer de 13 \nobserva-as: se estão intactas, pressagiam a seca; se a \nprimeira apenas se deliu, transmudada em aljôfar límpido, \né certa a chuva em janeiro; se a segunda, em fevereiro; \nse a maioria ou todas, é inevitável o inverno benfazejo. \nEsta experiência é belíssima",
+  "processado_em": "2026-05-08T14:05:01.265854",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

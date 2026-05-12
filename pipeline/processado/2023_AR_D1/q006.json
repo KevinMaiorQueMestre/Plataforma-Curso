@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q006",
+  "imagem": "q006.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 6,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 06\t\nA sessão do Comitê Olímpico Internacional (COI) \naprovou uma mudança histórica e inédita no lema \nolímpico, criado em 1894 pelo Barão Pierre de Coubertin \npara expressar os valores e a excelência do esporte. Mais \nde 120 anos depois, o lema tem sua primeira alteração \npara ressaltar a solidariedade e incluir a palavra “juntos”: \nmais rápido, mais alto, mais forte — juntos. A mudança \nfoi aprovada por unanimidade pelos membros do COI \ne celebrada pelo presidente da entidade.\nDisponível em: https://ge.globo.com. Acesso em: 10 nov. 2021 (adaptado).\nDe acordo com o texto, a alteração do lema olímpico teve \ncomo objetivo a\nA\t\nA\t unificação do lema anterior ao atual.\nB\t\nB\t aproximação entre o lema olímpico e o COI.\nC\t\nC\t junção do lema olímpico com os princípios esportivos.\nD\t\nD\t associação entre o lema olímpico e a cooperatividade.\nE\t\nE\t vinculação entre o lema olímpico e os eventos atléticos.",
+  "processado_em": "2026-05-08T14:05:34.235233",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

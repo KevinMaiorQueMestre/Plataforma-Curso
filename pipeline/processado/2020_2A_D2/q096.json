@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q096",
+  "imagem": "q096.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 96,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 96          \nNos chuveiros elétricos, a água entra em contato com \numa resistência aquecida por efeito Joule. A potência \ndissipada pelo aparelho varia em função da tensão à qual \nestá ligado e do valor da resistência elétrica escolhida \ncom a chave seletora. No quadro estão indicados valores \nde tensão e as possíveis resistências para cinco modelos \nde chuveiro. Nesse quadro, o valor das resistências é \nmedido a partir da extremidade esquerda.\nChuveiro\nA\n127 V\n5,0 Ω\n6,2 Ω\n8,0 Ω\n17,3 Ω\n10,0 Ω\n12,1 Ω\n10,5 Ω\n24,2 Ω\n23,0 Ω\n3,2 Ω\n127 V\n220 V\n220 V\n220 V\nB\nC\nD\nE\nTensão\nPosição de seleção da resistência elétrica\nQual chuveiro apresenta a maior potência elétrica?\nA \t A\nB \t B\nC \t C\nD \t D\nE \t E",
+  "processado_em": "2026-05-08T14:03:35.657233",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

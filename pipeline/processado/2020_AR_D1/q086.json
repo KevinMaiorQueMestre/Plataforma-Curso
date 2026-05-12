@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 86          \nDeclaração de Direitos do Homem e do Cidadão – 1789\nOs representantes do povo francês, tendo em vista \nque a ignorância, o esquecimento ou o desprezo dos \ndireitos do homem são as únicas causas dos males \npúblicos e da corrupção dos governos, resolveram \ndeclarar solenemente os direitos naturais, inalienáveis e \nsagrados do homem, a fim de que esta declaração, sempre \npresente em todos os membros do corpo social, lhes \nlembre permanentemente seus direitos e seus deveres; a \nfim de que as reivindicações dos cidadãos, fundadas em \nprincípios simples e incontestáveis, se dirijam sempre à \nconservação da Constituição e à felicidade geral.\nDisponível em: www.direitoshumanosusp.br. Acesso em: 7 jun. 2018 (adaptado).",
+  "processado_em": "2026-05-11T23:28:06.752809",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

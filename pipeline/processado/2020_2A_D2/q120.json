@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 120          \nAlguns cinemas apresentam uma tecnologia em que \nas imagens dos filmes parecem tridimensionais, baseada \nna utilização de óculos 3D. Após atravessar cada lente \ndos óculos, as ondas luminosas, que compõem as \nimagens do filme, emergem vibrando apenas na direção \nvertical ou apenas na direção horizontal.\nCom base nessas informações, o funcionamento dos \nóculos 3D ocorre por meio do fenômeno ondulatório de\nA \t difração.\nB \t dispersão.\nC  reflexão.\nD \t refração.\nE \t polarização.",
+  "processado_em": "2026-05-08T14:03:37.098490",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

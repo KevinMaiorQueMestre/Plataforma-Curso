@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 64\t\nO meu pai era paulista\nMeu avô, pernambucano\nO meu bisavô, mineiro\nMeu tataravô, baiano\nVou na estrada há muitos anos\nSou um artista brasileiro\nCHICO BUARQUE. Paratodos. 1993. Disponível em: \nwww.chicobuarque.com.br. Acesso em: 29 jun. 2015 (fragmento).\nA característica familiar descrita deriva do seguinte \naspecto demográfico:\nA\t Migração interna.\nB\t População relativa.\nC\t Expectativa de vida.\nD\t Taxa de mortalidade.\nE\t Índice de fecundidade.",
+  "processado_em": "2026-05-11T23:27:01.878732",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

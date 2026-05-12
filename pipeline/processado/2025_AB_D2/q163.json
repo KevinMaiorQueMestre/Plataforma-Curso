@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 163\t\nO ministro da Fazenda de um país anunciou que a arrecadaçã\nde dólares.\nEm notação científica, a arrecadação de impostos anunciada, e\nA\t1,13832 × 103.\nB\t1,13832 × 106.\nC\t1,13832 × 108.\nD\t1,13832 × 109.\nE\t1,13832 × 1010.",
+  "processado_em": "2026-05-08T14:06:53.673496",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

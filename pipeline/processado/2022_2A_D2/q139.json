@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 139\t\nA tarifa da energia elétrica no Brasil tem sofrido \nvariações em função do seu custo de produção, \nseguindo um sistema de bandeiras tarifárias. Esse \nsistema indica se haverá ou não acréscimo no valor \ndo quilowatt-hora (kWh). Suponha que o repasse ao \nconsumidor final seja da seguinte maneira:\n•\t bandeira verde: a tarifa não sofre acréscimo;\n•\t bandeira amarela: a tarifa sofre acréscimo de \nR$ 0,015 para cada kWh consumido;\n•\t bandeira vermelha — patamar 1: a tarifa sofre \nacréscimo de R$ 0,04 para cada kWh consumido;\n•\t bandeira vermelha — patamar 2: a tarifa sofre \nacréscimo de R$ 0,06 para cada kWh consumido.\nA conta de energia elétrica em uma residência é \nconstituída apenas por um valor correspondente à \nquantidade de energia elétrica consumida no período \nmedido, multiplicada pela tarifa correspondente. \nO valor da tarifa em um período com uso da bandeira \nverde é R$ 0,42 por kWh consumido. Uma forte \nestiagem justificou a alteração da bandeira verde para \na bandeira vermelha — patamar 2.\nUm usuário, cujo consumo é tarifado na bandeira \nverde, observa o seu consumo médio mensal. Para não \nafetar o seu orçamento familiar, ele pretende alterar a sua \nprática de uso de energia, reduzindo o seu consumo, de \nmaneira que a sua próxima fatura tenha, no máximo, o \nmesmo valor da conta de energia do período em que era \naplicada a bandeira verde.\nQual percentual mínimo de redução de consumo esse \nusuário deverá praticar de forma a atingir seu objetivo?\nA\t\nA\t 6,0%\nB\t\nB\t 12,5%\nC\t\nC\t 14,3%\nD\t\nD\t 16,6%\nE\t\nE\t 87,5%",
+  "processado_em": "2026-05-08T14:04:49.089734",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

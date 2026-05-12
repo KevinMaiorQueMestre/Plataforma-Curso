@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q170",
+  "imagem": "q170.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 170,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 170\t\nDuas empresas do mercado de pequenos reparos \ndomésticos determinam o valor de seus serviços a partir \nde um valor fixo acrescido de um valor cobrado por hora. \nA empresa X cobra R$ 60,00 de valor fixo mais R$ 18,00 por \nhora de serviço prestado. A empresa Y cobra R$ 24,00 de \nvalor fixo e está definindo um novo valor a ser cobrado por \nhora. Sua estratégia de mercado prevê que, em relação \nà empresa X, o custo total do serviço deve ser menor ou \nigual para trabalhos de até duas horas de duração.\nQual é o valor máximo, em real, que a empresa Y poderá \ncobrar por hora de serviço prestado a fim de atender à \nsua estratégia de mercado?\nA\t\nA\t 18\nB\t\nB\t 36\nC\t\nC\t 48\nD\t\nD\t 54\nE\t\nE\t 78",
+  "processado_em": "2026-05-08T14:05:28.711615",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

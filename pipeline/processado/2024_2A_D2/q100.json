@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nO DNA mitocondrial pode ser utilizado para evidenciar \num parentesco ou uma descendência. Sabe-se que o \nzigoto recebe mitocôndrias apenas do gameta feminino. \nO heredograma apresenta a genealogia de uma família.\nO DNA mitocondrial do indivíduo W é igual ao do indivíduo\nA\t1.\nB\t2.\nC\t3.\nD\t4.\nE\t5.",
+  "processado_em": "2026-05-08T14:06:00.043727",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

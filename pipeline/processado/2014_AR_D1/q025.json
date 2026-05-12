@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q025",
+  "imagem": "q025.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 25,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 25\t\nSANZIO, R. Detalhe do afresco A Escola de Atenas. Disponível em: http://fil.cfh.ufsc.br. \nAcesso em: 20 mar. 2013.\nNo centro da imagem, o filósofo Platão é retratado \napontando para o alto. Esse gesto significa que o \nconhecimento se encontra em uma instância na qual o \nhomem descobre a\nA\t suspensão do juízo como reveladora da verdade.\nB\t realidade inteligível por meio do método dialético.\nC\t salvação da condição mortal pelo poder de Deus.\nD\t essência das coisas sensíveis no intelecto divino.\nE ordem intrínseca ao mundo por meio da sensibilidade",
+  "processado_em": "2026-05-08T14:00:28.316141",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

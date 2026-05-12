@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q009",
+  "imagem": "q009.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 9,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 09\t\nMuitas brincadeiras preservam sua estrutura inicial, \noutras modificam-se recebendo novos conteúdos. \nA força de tais brincadeiras explica-se pelo poder da \nexpressão oral. Como manifestação livre e espontânea \nda cultura popular, a brincadeira tradicional tem a função \nde perpetuar a cultura infantil, desenvolver formas de \nconvivência social e permitir o prazer de brincar.\nKISHIMOTO, T. M. Jogo, brinquedo, brincadeira e a educação. \nSão Paulo: Cortez, 1999.\nDentre os jogos e as brincadeiras expressos na cultura \npopular, que se perpetuam e se transformam pela tradição \noral, podemos reconhecer o(a)\nA\t\nA\t jogo popular do pião e do bilboquê.\nB\t\nB\t jogo popular do queimado e o voleibol.\nC\t\nC\t brincadeira da amarelinha e a esgrima.\nD\t\nD\t brincadeira de esconde-esconde e o balé.\nE\t\nE\t jogo popular do taco e a ginástica artística.",
+  "processado_em": "2026-05-08T14:04:36.637610",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

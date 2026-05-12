@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q094",
+  "imagem": "q094.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 94,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 94 \nTEXTO I\nAs árvores que crescem mais rápido\nUm estudo norte-americano revelou que as florestas do \nHemisfério Norte estão crescendo mais rapidamente agora \ndo que ao longo dos últimos 200 anos.\nDisponível em: http://revistaplaneta.terra.com.br. Acesso em: 25 abr. 2015.\nTEXTO II\nAcidez oceânica afeta corais\nRecifes de corais não estão conseguindo se fixar no leste \ndo Pacífico tropical devido à maior acidez das águas.\nDisponível em: www2.uol.com.br. Acesso em: 25 abr. 2015.\nQual agente está diretamente associado aos eventos ambientais \nmencionados?\nA Petróleo.\nB Agrotóxicos.\nC Fertilizantes.\nD Carbonato de cálcio.\nE Dióxido de carbono.",
+  "processado_em": "2026-05-08T14:06:33.500426",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

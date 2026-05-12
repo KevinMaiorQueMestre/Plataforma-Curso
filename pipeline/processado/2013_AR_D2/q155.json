@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nNuma escola com 1 200 alunos foi realizada uma \npesquisa sobre o conhecimento desses em duas línguas \nestrangeiras, inglês e espanhol.\nNessa pesquisa constatou-se que 600 alunos falam \ninglês, 500 falam espanhol e 300 não falam qualquer um \ndesses idiomas.\nEscolhendo-se um aluno dessa escola ao acaso e \nsabendo-se que ele não fala inglês, qual a probabilidade \nde que esse aluno fale espanhol?\nA 1\n2\nB\n5\n8\nC\n1\n4\nD\n5\n6\nE\n5\n14",
+  "processado_em": "2026-05-08T14:00:23.618469",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.7
+  }
+}

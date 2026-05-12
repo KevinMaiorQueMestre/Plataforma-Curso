@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q008",
+  "imagem": "q008.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 8,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 08\t\nAté o fim de 2007, quase 2 milhões de pessoas \nperderam suas casas e outros 4 milhões corriam o risco \nde ser despejadas. Os valores das casas despencaram \nem quase todos os EUA e muitas famílias acabaram \ndevendo mais por suas casas do que o próprio valor do \nimóvel. Isso desencadeou uma espiral de execuções \nhipotecárias que diminuiu ainda mais os valores das \ncasas. Em Cleveland, foi como se um “Katrina financeiro” \natingisse a cidade. Casas abandonadas, com tábuas \nem janelas e portas, dominaram a paisagem nos bairros \npobres, principalmente negros. Na Califórnia, também se \nenfileiraram casas abandonadas.\nHARVEY, D. O enigma do capital. São Paulo: Boitempo, 2011.\nInicialmente restrita, a crise descrita no texto atingiu \nproporções globais, devido ao(à)\nA\t superprodução de bens de consumo.\nB\t colapso industrial de países asiáticos.\nC\t interdependência do sistema econômico.\nD\t isolamento político dos países desenvolvidos.\nE\t austeridade fiscal dos países em desenvolvimento.",
+  "processado_em": "2026-05-08T14:00:42.635041",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

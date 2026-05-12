@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q122",
+  "imagem": "q122.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 122,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 122\t\nA figura ilustra esquematicamente um processo de \nremediação de solos contaminados com tricloroeteno \n(TCE), um agente desengraxante. Em razão de \nvazamentos de tanques de estocagem ou de manejo \ninapropriado de resíduos industriais, ele se encontra \npresente em águas subterrâneas, nas quais forma \numa fase líquida densa não aquosa (DNAPL) que se \ndeposita no fundo do aquífero. Essa tecnologia de \ndescontaminação emprega o íon persulfato (S2O8\n2−), que \né convertido no radical •SO4\n− por minerais que contêm \nFe(III). O esquema representa de forma simplificada o \nmecanismo de ação química sobre o TCE e a formação \ndos produtos de degradação.\nA\nA\nA\nA\nA\nSOLO\nCl\nCl\nCl\nOH\nCl\nCl\nO\nOH\nO\nO\nH\nO\nOH\nC\nH\nO\nMONITORAMENTO\nTCE\nDNAPL\nSOLUBILIZAÇÃO\nÁGUA SUBTERRÂNEA\nTCE\nS O\nSO\nFe III\n2\n8\n2\n4\n⋅\nS O\n2\n8\n2−\n(\n)\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: \nremediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado).\nEsse procedimento de remediação de águas subterrâneas \nbaseia-se em reações de\nA\t\nA\t oxirredução.\nB\t\nB\t substituição.\nC\t\nC\t precipitação.\nD\t\nD\t desidratação.\nE\t\nE\t neutralização.",
+  "processado_em": "2026-05-08T14:05:10.507740",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

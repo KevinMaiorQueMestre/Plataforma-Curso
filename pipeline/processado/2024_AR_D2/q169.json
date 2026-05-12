@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 169\t\nUma criança, utilizando um aplicativo, escreveu uma \nmensagem para enviar a um amigo. Essa mensagem foi \nescrita seguindo estas etapas:\nEtapas\nVisor de escrita\n1ª etapa: inseriu três fi guras \ndo tipo \n no visor de \nescrita da mensagem;\n2ª etapa: copiou o que havia \ninserido anteriormente e \ncolou (inseriu o que havia \ncopiado) ao lado;\n3ª etapa: copiou o que tinha \nno visor na 2ª etapa e colou \nao lado.\nA criança seguiu copiando e colando, em cada etapa, \no que tinha no visor na etapa imediatamente anterior, até \nconcluir a 20ª etapa. Em seguida, enviou a mensagem.\nQual foi o total de figuras contidas na mensagem enviada?\nA\t3 × 219\nB\t3 × 220\nC\t3 × 221\nD\t3 × 220 − 1\nE\t3 × 220 − 3",
+  "processado_em": "2026-05-08T14:06:21.308879",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

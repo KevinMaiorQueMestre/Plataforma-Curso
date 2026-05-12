@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q169",
+  "imagem": "q169.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 169,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 169        \nA lei municipal para a edificação de casas em lotes \nde uma cidade determina que sejam obedecidos os \nseguintes critérios:\n•\t afastamento mínimo de 4 m da rua; \n•\t afastamento mínimo de 1 m da divisa com outro lote;\n•\t área total construída da casa entre 40% e 50% da \nárea total do lote. \nUm construtor submeteu para aprovação na \nprefeitura dessa cidade uma planta com propostas para a \nconstrução de casas em seus 5 lotes. Cada lote tem área \nmedindo 200 m². \nA imagem apresenta um esquema, sem escala, \nno qual estão representados os lotes, as ruas e os \nafastamentos considerados nos projetos entre as \ncasas e as divisas dos lotes. As medidas indicadas no \nesquema estão expressas em metro.\n \n1\nRua\nCasa 3\nCasa 5\nCasa 4\nLote\nLote\nCasa 1\nCasa 2\nLote\nLote\n10\n4\n1\n1\n10\n10\n10\n4\n4\n4\n2\n2\n1\n1\n4\n1\n1\n2\n2\n20\n20\n20\nRua\n4\n4\n1\n1\nA prefeitura aprovará apenas a planta da casa\nA \t 1.\nB \t 2.\nC \t 3.\nD \t 4.\nE \t 5.",
+  "processado_em": "2026-05-11T23:28:19.988700",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

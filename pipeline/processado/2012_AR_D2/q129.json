@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q129",
+  "imagem": "q129.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 129,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 129\t\nO léxico e a cultura\nPotencialmente, todas as línguas de todos os \ntempos podem candidatar-se a expressar qualquer \nconteúdo. A pesquisa linguística do século XX \ndemonstrou que não há diferença qualitativa entre \nos idiomas do mundo — ou seja, não há idiomas \ngramaticalmente mais primitivos ou mais desenvolvidos. \nEntretanto, para que possa ser efetivamente utilizada, \nessa igualdade potencial precisa realizar-se na prática \nhistórica do idioma, o que nem sempre acontece. \nTeoricamente, uma língua com pouca tradição escrita \n(como as línguas indígenas brasileiras) ou uma língua \njá extinta (como o latim ou o grego clássicos) podem \nser empregadas para falar sobre qualquer assunto, \ncomo, digamos, física quântica ou biologia molecular. \nNa prática, contudo, não é possível, de uma hora para \noutra, expressar tais conteúdos em camaiurá ou latim, \nsimplesmente porque não haveria vocabulário próprio \npara esses conteúdos. É perfeitamente possível \ndesenvolver esse vocabulário específico, seja por \nmeio de empréstimos de outras línguas, seja por meio \nda criação de novos termos na língua em questão, mas \ntal tarefa não se realizaria em pouco tempo nem com \npouco esforço.\nBEARZOTI FILHO, P. Miniaurélio: o dicionário da língua portuguesa. Manual do professor. \nCuritiba: Positivo, 2004 (fragmento).\nEstudos contemporâneos mostram que cada língua \npossui sua própria complexidade e dinâmica de \nfuncionamento. O texto ressalta essa dinâmica, na \nmedida em que enfatiza\nA\t a inexistência de conteúdo comum a todas as línguas, \npois o léxico contempla visão de mundo particular \nespecífica de uma cultura.\nB\t a existência de línguas limitadas por não permitirem \nao falante nativo se comunicar perfeitamente a \nrespeito de qualquer conteúdo.\nC\t a tendência a serem mais restritos o vocabulário e a \ngramática de línguas indígenas, se comparados com \noutras línguas de origem europeia.\nD\t a existência de diferenças vocabulares entre os \nidiomas, especificidades relacionadas à própria \ncultura dos falantes de uma comunidade.\nE\t a atribuição de maior importância sociocultural às \nlínguas contemporâneas, pois permitem que sejam \nabordadas quaisquer temáticas, sem dificuldades.",
+  "processado_em": "2026-05-08T13:59:40.117566",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

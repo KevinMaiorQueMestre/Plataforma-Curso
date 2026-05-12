@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q059",
+  "imagem": "q059.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 59,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 59\t\nA rebelião luso-brasileira em Pernambuco começou \na ser urdida em 1644 e explodiu em 13 de junho de \n1645, dia de Santo Antônio. Uma das primeiras medidas \nde João Fernandes foi decretar nulas as dívidas que \nos rebeldes tinham com os holandeses. Houve grande \nadesão da “nobreza da terra”, entusiasmada com esta \nproclamação heroica.\nVAINFAS, R. Guerra declarada e paz fingida na restauração portuguesa. Tempo, n. 27, 2009.\nO desencadeamento dessa revolta na América portuguesa \nseiscentista foi o resultado do(a)\nA\t fraqueza bélica dos protestantes batavos.\nB\t comércio transatlântico da África ocidental.\nC\t auxílio financeiro dos negociantes flamengos.\nD\t diplomacia internacional dos Estados ibéricos.\nE\t interesse econômico dos senhores de engenho.",
+  "processado_em": "2026-05-11T23:26:39.029857",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

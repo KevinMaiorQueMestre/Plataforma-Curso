@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q068",
+  "imagem": "q068.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 68,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 68\t\nUm estudante, precisando instalar um computador, \num monitor e uma lâmpada em seu quarto, verificou \nque precisaria fazer a instalação de duas tomadas e \num interruptor na rede elétrica. Decidiu esboçar com \nantecedência o esquema elétrico.\n“O circuito deve ser tal que as tomadas e a lâmpada \ndevem estar submetidas à tensão nominal da rede elétrica \ne a lâmpada deve poder ser ligada ou desligada por um \ninterruptor sem afetar os outros dispositivos” — pensou.\nSímbolos adotados:\nLâmpada:\nTomada:\nInterruptor:\nQual dos circuitos esboçados atende às exigências?\nA\t  \nB\t  \nC\t  \nD\t  \nE",
+  "processado_em": "2026-05-08T14:00:47.992886",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

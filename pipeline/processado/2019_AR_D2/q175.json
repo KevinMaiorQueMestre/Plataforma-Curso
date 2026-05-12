@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 175\t\nUm comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento \ndas vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.\nEle estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à \nsoma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última \nsemana. Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade \nde refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as \nvendas diárias serão iguais às da última semana.\nSegundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é\nA\t 20.\nB\t 27.\nC\t 44.\nD\t 55.\nE\t 71.\nSábado\nSexta\nQuinta\nQuarta\nTerça\nSegunda\nDomingo\nVendas na última semana\n10\nCaldo de cana\nRefrigerante\nPastel\n8\n6\n4\n2\n0",
+  "processado_em": "2026-05-11T23:27:38.255552",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

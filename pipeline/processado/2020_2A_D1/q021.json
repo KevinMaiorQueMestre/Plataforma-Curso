@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 21          \nEntre as tentativas de encontrar o melhor ângulo para \nretirar o terneiro, meu irmão, o guri e seu pai tentavam \nconvencer Jaqueline de que a morte da vaca não seria \numa grande perda: “não é a mesma coisa que perder um \npai, um avô, que a gente lembra para o resto da vida, fica \nlá no cemitério”, “bicho é bicho”. Jefferson, o guri, repetia \ntudo que o pai dizia, mas já afastado, pois havia sido \ncorrido pela mãe.\nJaqueline repete: “pra mim não tem diferença! \nOs bichos estão tudo na volta. Eles sabem quando eu \nchego, me conhecem, sabem o meu cheiro. Sou eu que \ndou comida. Não tem diferença nenhuma!”. O pai tenta \nconcordar sem afrontar os caras, dizendo que as pessoas \ndesenvolvem valor de estima pelos animais.",
+  "processado_em": "2026-05-08T14:03:25.284102",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q050",
+  "imagem": "q050.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 50,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 50\t\nÉ comum aos fotógrafos tirar fotos coloridas em \nambientes iluminados por lâmpadas fluorescentes, \nque contêm uma forte composição de luz verde. \nA consequência desse fato na fotografia é que todos os \nobjetos claros, principalmente os brancos, aparecerão \nesverdeados. Para equilibrar as cores, deve-se usar \num filtro adequado para diminuir a intensidade da luz \nverde que chega aos sensores da câmera fotográfica. \nNa escolha desse filtro, utiliza-se o conhecimento da \ncomposição das cores-luz primárias: vermelho, verde e \nazul; e das cores-luz secundárias: amarelo = vermelho + \nverde, ciano = verde + azul e magenta = vermelho + azul.\nDisponível em: http://nautilus.fis.uc.pt. Acesso em: 20 maio 2014 (adaptado).\nNa situação descrita, qual deve ser o filtro utilizado para \nque a fotografia apresente as cores naturais dos objetos?\nA\t Ciano.\nB\t Verde.\nC\t Amarelo.\nD\t Magenta.\nE\t Vermelho.",
+  "processado_em": "2026-05-08T14:00:30.248908",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

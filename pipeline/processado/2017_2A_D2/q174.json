@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\nOs consumidores X, Y e Z desejam trocar seus planos \nde internet móvel na tentativa de obterem um serviço de \nmelhor qualidade. Após pesquisarem, escolheram uma \noperadora que oferece cinco planos para diferentes \nSHU¿V\u000f\u0003FRQIRUPH\u0003DSUHVHQWDGR\u0003QR\u0003TXDGUR\u0011\nPlano\nFranquia\nPreço mensal \nda assinatura\nPreço por MB \nexcedente\nA\n150 MB\nR$ 29,90\nR$ 0,40\nB\n250 MB\nR$ 34,90\nR$ 0,10\nC\n500 MB\nR$ 59,90\nR$ 0,10\nD\n2 GB\nR$ 89,90\nR$ 0,10\nE\n5 GB\nR$ 119,90\nR$ 0,10\nDado: 1 GB = 1 024 MB\n(P\u0003 FDGD\u0003 SODQR\u000f\u0003 R\u0003 FRQVXPLGRU\u0003 SDJD\u0003 XP\u0003 YDORU\u0003 ¿[R\u0003\n\u000bSUHoR\u0003 PHQVDO\u0003 GD\u0003 DVVLQDWXUD\f\u0003 SHOD\u0003 IUDQTXLD\u0003 FRQWUDWDGD\u0003\ne um valor variável, que depende da quantidade de MB \nutilizado além da franquia. Considere que a velocidade \nmáxima de acesso seja a mesma, independentemente do \nplano, que os consumos mensais de X, Y e Z\u0003VmR\u0003GH\u0003\n190 MB, 450 MB e 890 MB, respectivamente, e que cada \num deles escolherá apenas um plano.\nCom base nos dados do quadro, as escolhas dos planos \ncom menores custos para os consumidores X, Y e Z,\nUHVSHFWLYDPHQWH\u000f\u0003VmR\nA A, C e C.\nB A, B e D.\nC B, B e D.\nD B, C e C.\nE B, C e D.",
+  "processado_em": "2026-05-11T23:25:31.380725",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

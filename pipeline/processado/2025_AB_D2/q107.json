@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 107\t\nA absorção de grandes quantidades de gás carbônico \nda atmosfera é conhecida como sequestro de carbono. \nAs florestas desempenham um papel importante, já que cada \nhectare de floresta em desenvolvimento absorve cerca de \n150 a 200 toneladas de carbono, auxiliando na diminuição \ndesse gás na atmosfera.\nTONON, R. Disponível em: http://super.abril.com.br. \nAcesso em: 14 jan. 2014 (adaptado).\nA maior parte do carbono resultante desse processo encontra-se\nA\tnas flores, como antocianinas.\nB\tnos frutos, como taninos e pectinas.\nC\tnas sementes, como substâncias de reserva na forma de \nlipídios.\nD\tnas folhas, nas membranas plasmáticas das células \nparenquimáticas.\nE\tno caule, nas paredes celulares dos elementos do xilema \nsecundário.",
+  "processado_em": "2026-05-08T14:06:50.374644",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

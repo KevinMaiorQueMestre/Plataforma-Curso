@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 177\t\nUm pintor pretende fazer uma reprodução do quadro \nGuernica em uma tela de dimensões 20 cm por 30 cm. Essa \nobra, de autoria do espanhol Pablo Picasso, é uma pintura \ncom 3,6 m de altura e 7,8 m de comprimento. A reprodução \na ser feita deverá preencher a maior área possível da tela, \nmantendo a proporção entre as dimensões da obra original.\nA escala que deve ser empregada para essa reprodução é\nA\t1 : 12.\nB\t1 : 18.\nC\t1 : 21.\nD\t1 : 23.\nE 1 : 26.",
+  "processado_em": "2026-05-08T14:06:06.061279",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

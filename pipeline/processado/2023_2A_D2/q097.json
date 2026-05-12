@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q097",
+  "imagem": "q097.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 97,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 97\t\nPara se utilizar um controle remoto que funciona com \numa diferença de potencial de 3 V, compraram-se duas \npilhas tipo AA de 1,5 V cada uma. Sabe-se que a ligação \nem série dessas pilhas possibilita um aumento da diferença \nde potencial do conjunto e da energia total disponível. \nQuando ligadas em paralelo, no entanto, só ocorre o \naumento da energia total disponível.\nQual dos esquemas representa a ligação correta das \npilhas utilizadas no controle remoto?\nA\nB\nC\nD\nE",
+  "processado_em": "2026-05-08T14:05:24.325755",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

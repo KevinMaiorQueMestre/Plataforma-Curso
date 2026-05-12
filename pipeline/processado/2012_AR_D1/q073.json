@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q073",
+  "imagem": "q073.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 73,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "E",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 73\t\nPara ligar ou desligar uma mesma lâmpada a partir de dois \ninterruptores, conectam-se os interruptores para que a mudança \nde posição de um deles faça ligar ou desligar a lâmpada, não \nimportando qual a posição do outro. Esta ligação é conhecida \ncomo interruptores paralelos. Este interruptor é uma chave \nde duas posições constituída por um polo e dois terminais, \nconforme mostrado nas figuras de um mesmo interruptor. Na \nPosição I a chave conecta o polo ao terminal superior, e na \nPosição II a chave o conecta ao terminal inferior.\nO circuito que cumpre a finalidade de funcionamento \ndescrita no texto é:\nA \nB \nC\nD\nE",
+  "processado_em": "2026-05-08T13:59:02.506288",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

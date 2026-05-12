@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 152\t\nA capacidade mínima, em BTU/h, de um aparelho de \nar-condicionado, para ambientes sem exposição ao sol, \npode ser determinada da seguinte forma:\n•\t\n600 BTU/h por m2, considerando-se até duas \npessoas no ambiente;\n•\t\npara cada pessoa adicional nesse ambiente, \nacrescentar 600 BTU/h;\n•\t\nacrescentar \nmais \n600 \nBTU/h \npara \ncada \nequipamento eletroeletrônico em funcionamento \nno ambiente.\nSerá instalado um aparelho de ar-condicionado em uma \nsala, sem exposição ao sol, de dimensões 4 m x 5 m, em \nque permaneçam quatro pessoas e possua um aparelho \nde televisão em funcionamento.\nA capacidade mínima, em BTU/h, desse aparelho de ar-\ncondicionado deve ser",
+  "processado_em": "2026-05-08T13:59:51.815080",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

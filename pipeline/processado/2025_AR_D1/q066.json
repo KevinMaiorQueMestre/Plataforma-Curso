@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 66\t\nIndependência de pensamento, autonomia e direito \nà oposição política estão perdendo sua função crítica básica \nnuma sociedade que parece cada vez mais capaz de atender \nàs necessidades dos indivíduos através da forma pela qual é \norganizada. Nas condições de um padrão de vida crescente, \no não conformismo com o próprio sistema parece socialmente \ninútil, principalmente quando acarreta desvantagens econômicas \ne políticas tangíveis e ameaça o funcionamento suave do todo.\nMARCUSE, H. Ideologia da sociedade industrial. \nRio de Janeiro: Zahar, 1969.\nQual é a característica da sociedade industrial do século XX \napresentada no texto?\nA\tGestão integrada.\nB\tRelativismo moral.\nC\tDesobediência civil.\nD\tRealidade unidimensional.\nE\tDesenvolvimento tecnológico.",
+  "processado_em": "2026-05-08T14:07:01.907591",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

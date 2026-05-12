@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q014",
+  "imagem": "q014.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 14,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 14\t\nDispo\nEssa peça de campanha apresenta características de um gênero \nA\tdestacar a importância de imagens em propagandas instituc\nB\tinformar os usuários do sistema de saúde sobre as causas h\nC\talertar para a necessidade de vacinação contra a poliomielite\nD\timpulsionar o aumento de propagandas governamentais volt\nE\tcriticar a falta de engajamento nas campanhas de vacinação i",
+  "processado_em": "2026-05-08T14:06:42.501451",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

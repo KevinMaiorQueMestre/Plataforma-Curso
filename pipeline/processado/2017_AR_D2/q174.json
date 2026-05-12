@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q174",
+  "imagem": "q174.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 174,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 174\t\nNeste modelo de termômetro, os filetes na cor preta \nregistram as temperaturas mínima e máxima do dia anterior \ne os filetes na cor cinza registram a temperatura ambiente \natual, ou seja, no momento da leitura do termômetro. \n−30\n−20\n−10\n10\n20\n30\n40\n50\n0\n50\n40\n30\n20\n10\n−10\n−20\n−30\n0\nPor isso ele tem duas colunas. Na da esquerda, os \nnúmeros estão em ordem crescente, de cima para baixo, \nde -30 °C até 50 °C. Na coluna da direita, os números \nestão ordenados de forma crescente, de baixo para cima, \nde -30 °C até 50 °C.\nA leitura é feita da seguinte maneira:\n•\t a temperatura mínima é indicada pelo nível inferior \ndo filete preto na coluna da esquerda;\n•\t a temperatura máxima é indicada pelo nível inferior \ndo filete preto na coluna da direita;\n•\t a temperatura atual é indicada pelo nível superior \ndos filetes cinza nas duas colunas.\nDisponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).\nQual é a temperatura máxima mais aproximada registrada \nnesse termômetro?\nA\t 5 °C\nB\t 7 °C\nC\t 13 °C\nD\t 15 °C\nE\t 19 °C",
+  "processado_em": "2026-05-11T23:25:57.506561",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

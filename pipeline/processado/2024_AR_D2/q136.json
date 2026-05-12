@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q136",
+  "imagem": "q136.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 136,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 136\t\nUma empresa produz mochilas escolares sob \nencomenda. Essa empresa tem um custo total de produção, \ncomposto por um custo fixo, que não depende do número \nde mochilas, mais um custo variável, que é proporcional \nao número de mochilas produzidas. O custo total cresce \nde forma linear, e a tabela apresenta esse custo para três \nquantidades de mochilas produzidas.\nQuantidade de \nmochilas\n30\n50\n100\nCusto total (R$)\n1 050,00\n1 650,00\n3 150,00\nO custo total, em real, para a produção de 80 mochilas será\nA\t2 400,00.\nB\t2 520,00.\nC\t2 550,00.\nD\t2 700,00.\nE\t2 800,00.",
+  "processado_em": "2026-05-08T14:06:19.428664",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

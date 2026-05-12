@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q164",
+  "imagem": "q164.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 164,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 164        \nNo Brasil, o tempo necessário para um estudante \nrealizar sua formação até a diplomação em um \ncurso superior, considerando os 9 anos de ensino \nfundamental, os 3 anos do ensino médio e os 4 anos de \ngraduação (tempo médio), é de 16 anos. No entanto, \na realidade dos brasileiros mostra que o tempo médio \nde estudo de pessoas acima de 14 anos é ainda muito \npequeno, conforme apresentado na tabela.\nTempo médio de estudo de pessoas acima de 14 anos\nAno da Pesquisa\n1995\n1999\n2003\n2007\nTempo de estudo (em ano)\n5,2\n5,8\n6,4\n7,0\nDisponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 (adaptado).\nConsidere que o incremento no tempo de estudo, \na cada período, para essas pessoas, se mantenha \nconstante até o ano 2050, e que se pretenda chegar ao \npatamar de 70% do tempo necessário à obtenção do \ncurso superior dado anteriormente.\nO ano em que o tempo médio de estudo de pessoas \nacima de 14 anos atingirá o percentual pretendido será \nA \t 2018.\nB \t 2023.\nC \t 2031.\nD \t 2035.\nE \t 2043.",
+  "processado_em": "2026-05-11T23:28:19.685904",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

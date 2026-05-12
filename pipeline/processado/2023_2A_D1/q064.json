@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q064",
+  "imagem": "q064.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 64,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 64\t\nDiferentes projeções para a população brasileira: 2010-2100\n240 000\n230 000\n220 000\n210 000\n200 000\n190 000\n180 000\n2010\n2015\n2020\n2025\n2030\n2035\n2040\n2045\n2050\n2055\n2060\n2065\n2070\n2075\n2080\n2085\n2090\n2095\n2100\nIBGE rev. 2018\nONU rev. 2017\nPopulação (em mil)\nFonte: IBGE, revisão 2018; UM/ESA, revisão 2017.\nALVES, J. E. D. A nova projeção da população brasileira do IBGE. \nDisponível em: www.ufjf.br. Acesso em: 1 out. 2021.\nA configuração da projeção demográfica apresentada é \nexplicada pelo(a)\nA\t\nA\t ampliação do êxodo campesino.\nB\t\nB\t aumento da taxa de fecundidade.\nC\t\nC\t redução do crescimento vegetativo.\nD\t\nD\t retrocesso no controle de natalidade.\nE\t\nE\t estagnação da entrada de imigrantes.",
+  "processado_em": "2026-05-08T14:05:20.253425",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

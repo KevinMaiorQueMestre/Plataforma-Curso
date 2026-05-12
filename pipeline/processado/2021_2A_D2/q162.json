@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 162\nConsidere que o modelo matemático utilizado no \nestudo da velocidade V$\u0002\u000f\n\u0002\f\u0010\b\u0002%\b\u0007\rG\u001e\f2\b\u0002\u000f\n\u0002\f\u0010\u0002\f\u000e\u000f\u0004\u0002\nescoando em um tubo, seja diretamente proporcional à \ndiferença dos quadrados do raio R\u0002\u000f\b\u0002\t\n\u001e'\u001d\u0004\u0002\r\u0007\b\u0005\t#\n\u0007\t\b2\u0002\ndo tubo e da distância x\u0002\u000f\b\u0002%\b\u0007\rG\u001e\f2\b\u0002\b\u0004\u0002\u001e\n\u0005\r\u0007\u0004\u0002\u000f\b\u0002\t\n\u001e'\u001d\u0004\u0002\nque a contém. Isto é, V(x) \u0005 \f\u000b2(\r\u000b2 \u0007 \n\u000b2), em que K é uma \nconstante positiva.\nO valor de x$\u0002\n\u0010\u0002P\f\u0005'\u001d\u0004\u0002\u000f\n\u0002R, para que a velocidade de \nescoamento de uma partícula seja máxima é de\nA  0.\nB  R.\nC  2R.\nD  KR.\nE  \f\u000b2\r\u000b2.",
+  "processado_em": "2026-05-08T14:04:17.325545",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

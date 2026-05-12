@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q086",
+  "imagem": "q086.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 86,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 86 \nO terremoto de 8,8 na escala Richter que atingiu a \ncosta oeste do Chile, em fevereiro, provocou mudanças \nsigniﬁ cativas no mapa da região. Segundo uma análise \npreliminar, toda a cidade de Concepción se deslocou pelo \nmenos três metros para o oeste. Buenos Aires moveu-se \ncerca de 2,5 centímetros para oeste, enquanto Santiago, \nmais próxima do local do evento, deslocou-se quase \n30 centímetros para o oeste-sudoeste. As cidades de \nValparaíso, no Chile, e Mendoza, na Argentina, também \ntiveram suas posições alteradas signiﬁ cativamente \n(13,4 centímetros e 8,8 centímetros, respectivamente).\nRevista InfoGNSS, Curitiba, ano 6, n. 31, 2010.\nNo texto, destaca-se um tipo de evento geológico \nfrequente em determinadas partes da superfície terrestre. \nEsses eventos estão concentrados em\nA  áreas vulcânicas, onde o material magmático se \neleva, formando cordilheiras.\nB  faixas costeiras, onde o assoalho oceânico recebe \nsedimentos, provocando tsunamis.\nC  estreitas faixas de intensidade sísmica, no contato das \nplacas tectônicas, próximas a dobramentos modernos.\nD  escudos cristalinos, onde as rochas são submetidas \naos processos de intemperismo, com alterações \nbruscas de temperatura.\nE  áreas de bacias sedimentares antigas, localizadas no \ncentro das placas tectônicas, em regiões conhecidas \ncomo pontos quentes",
+  "processado_em": "2026-05-11T23:25:43.277521",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

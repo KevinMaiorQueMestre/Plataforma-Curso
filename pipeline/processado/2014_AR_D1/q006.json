@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q006",
+  "imagem": "q006.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 6,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 06\t\nAo deflagrar-se a crise mundial de 1929, a situação \nda economia cafeeira se apresentava como se segue. \nA produção, que se encontrava em altos níveis, \nteria que seguir crescendo, pois os produtores \nhaviam continuado a expandir as plantações até \naquele momento. Com efeito, a produção máxima \nseria alcançada em 1933, ou seja, no ponto mais baixo \nda depressão, como reflexo das grandes plantações de \n1927-1928. Entretanto, era totalmente impossível obter \ncrédito no exterior para financiar a retenção de novos \nestoques, pois o mercado internacional de capitais \nse encontrava em profunda depressão, e o crédito do \ngoverno desaparecera com a evaporação das reservas.\nFURTADO, C. Formação econômica do Brasil. São Paulo: \nCia. Editora Nacional, 1997 (adaptado). \nUma resposta do Estado brasileiro à conjuntura \neconômica mencionada foi o(a)\nA\t atração de empresas estrangeiras.\nB\t reformulação do sistema fundiário.\nC\t incremento da mão de obra imigrante.\nD\t desenvolvimento de política industrial.\nE\t financiamento de pequenos agricultores.",
+  "processado_em": "2026-05-08T14:00:27.280246",
+  "_meta": {
+    "pagina": 3,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

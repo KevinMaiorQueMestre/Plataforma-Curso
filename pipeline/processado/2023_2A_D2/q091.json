@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q091",
+  "imagem": "q091.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 91,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 91\t\nNa última década, para melhorar a performance \ndos motores a combustão e reduzir o consumo, a \nindústria automobilística tem investido cada vez \nmais no desenvolvimento dos turbocompressores. \nO turbocompressor é formado por duas câmaras \ndistintas, chamadas caixa fria e caixa quente. No interior \nde cada uma dessas caixas, existe um rotor e ambos são \ninterligados por um mesmo eixo. Com a caixa quente \ninstalada no coletor de escapamento, a passagem dos \ngases faz girar o rotor. Consequentemente, gira também \no rotor da caixa fria, produzindo a compressão. Em alguns \nmodelos, é instalado, entre a turbina e a câmara de \nexplosão, um dispositivo denominado intercooler, que é \nreconhecido como um dos componentes principais para \nmelhorar a performance dos motores turbo. O intercooler \né uma espécie de radiador ou, mais especificamente, \num permutador de calor. Ele é posicionado entre o turbo \ne o coletor de admissão, tendo como uma das principais \nvantagens a redução da temperatura do ar quente que \nsai do turbo.\nDisponível em: www.turbocenter.com.br. Acesso em: 21 nov. 2019 (adaptado).\nde armazenar cerca de 700 Wh de energia em um volume \nde 1 L, enquanto a combustão de 1 L de etanol hidratado \nem um motor a combustão disponibiliza 6 300 Wh de \nenergia. Os motores a combustão têm uma eficiência \nbaixa, com apenas 30% da energia do combustível sendo \ntransformada em movimento. Já os motores elétricos \napresentam eficiência três vezes maior. Para estudar \na viabilidade de se utilizar a mesma plataforma de um \ncarro movido a álcool, com tanque de 40 L de combustível, \npara a produção de modelos elétricos, uma equipe de \nengenharia precisa estimar o volume da bateria de lítio \nque corresponda, no carro elétrico, à mesma quantidade \nenergética desse carro a álcool.\nVASCONCELOS, Y. Mais energia. Pesquisa Fapesp, n. 261, nov. 2017 (adaptado).\nO volume aproximado, em litro, da bateria de lítio a ser \nutilizada é\nA\t\nA\t 36.\nB\t\nB\t 120.\nC\t\nC\t 360.\nD\t\nD\t 400.\nE\t\nE\t 1 080.",
+  "processado_em": "2026-05-11T23:29:06.875241",
+  "_meta": {
+    "pagina": 2,
+    "coluna": "inteira",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nUm investidor iniciante observou o gráfico que \napresenta a evolução dos valores de duas criptomoedas \nA e B em relação ao tempo.\nCriptomoeda B\n(milhar de real)\nCriptomoeda A\n(milhar de real)\nDurante horas consecutivas, esses valores foram \nobservados em nove instantes, representados por horas \nexatas.\nEm quantos desses instantes a criptomoeda A estava \nmais valorizada do que a criptomoeda B?\nA\t\nA\t 3\nB\t\nB\t 4\nC\t\nC\t 6\nD\t\nD\t 7\nE\t\nE\t 9",
+  "processado_em": "2026-05-08T14:05:46.565135",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t fertilização química do solo.\nB \t escoamento hídrico do terreno.\nC \t manutenção de poços artesianos.\nD \t eficiência das técnicas de irrigação. \nE \t velocidade das máquinas colheitadeiras.\nQuestão 57          \nNo caso do Departamento de Defesa dos Estados \nUnidos, a ênfase está posta no traçado de uma estratégia \ngeral de desarticulação, não só dos inimigos reais como \ndos potenciais, inserida na concepção preventiva que \nsupõe que a mínima dissidência é um sinal de perigo e de \nguerra futura. Deve-se ter capacidade para responder a \numa guerra convencional tanto quanto para enfrentar um \ninimigo difuso, atentando simultaneamente para todas \nas áreas geográficas do planeta. Trata-se, sem dúvida, \nda estratégia com pretensões mais abrangentes que se \ndesenvolveu até agora.\nCECEÑA, A. E. Hegemonias e emancipações no século XXI.\nBuenos Aires: Clacso, 2005 (adaptado).\nTomando o texto como parâmetro, qual tendência \ncontemporânea impulsiona a formulação de estratégias \nmais abrangentes por parte do Estado americano?",
+  "processado_em": "2026-05-11T23:28:04.721385",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

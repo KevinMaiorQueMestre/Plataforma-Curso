@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 109\t\nUm grupo de cientistas desenvolveu um conjunto de \npartículas sólidas utilizadas para ativar o sistema de defesa \ndo nosso organismo. Durante a execução dos experimentos, \nobservou-se que essas partículas eram englobadas para o interior \ndas células através de projeções da membrana plasmática.\nQual processo de transporte está envolvido nesses experimentos?\nA\tClasmocitose.\nB\tFagocitose.\nC\tPinocitose.\nD\tExocitose.\nE Apoptose",
+  "processado_em": "2026-05-08T14:06:50.479745",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

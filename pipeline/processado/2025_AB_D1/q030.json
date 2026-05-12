@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 30\t\nEm Tiriyó, imenu quer dizer “desenho” ou “pintura”, \nmas também “jenipapo” (menu), planta que fornece uma \ndas principais matérias-primas utilizadas na produção de \ntintas e corantes. Imenu diz respeito aos desenhos de formas \ngeométricas que se aplicam sobre os mais variados suportes: \nda pele ao papel, passando pelos artefatos. A isso que os Tiriyó \ndefinem como imenu, em sua própria língua, os Kaxuyana \nchamam de imenuru.\nObservando as artes gráficas dos povos da região que vai \ndo Amapá ao norte do Pará, é possível observar que muitos \ndos padrões que compõem o repertório tiriyó são recorrentes \nentre os Kaxuyana, os Wayana, os Aparai e os Wajãpi. \nTambém encontramos padrões semelhantes entre os Waiwa \ne outros grupos do norte amazônico.\nGRUPIONE, D. F. Arte visual dos povos Tiriyó e Kaxuyana: padrões de uma \nestética ameríndia São Paulo: lepé 2009 (adaptado)",
+  "processado_em": "2026-05-08T14:06:43.681959",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

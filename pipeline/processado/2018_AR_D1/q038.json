@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 38\t\nCerta vez minha mãe surrou-me com uma corda \nnodosa que me pintou as costas de manchas sangrentas. \nMoído, virando a cabeça com dificuldade, eu distinguia \nnas costelas grandes lanhos vermelhos. Deitaram-me, \nenrolaram-me em panos molhados com água de sal \n– e houve uma discussão na família. Minha avó, que \nnos visitava, condenou o procedimento da filha e esta \nafligiu-se. Irritada, ferira-me à toa, sem querer. Não \nguardei ódio a minha mãe: o culpado era o nó.\nRAMOS, G. Infância. Rio de Janeiro: Record, 1998.\nNum texto narrativo, a sequência dos fatos contribui para \na progressão temática. No fragmento, esse processo é \nindicado pela\nA\t alternância das pessoas do discurso que determinam \no foco narrativo.\nB\t utilização de formas verbais que marcam tempos \nnarrativos variados.\nC\t indeterminação dos sujeitos de ações que caracterizam \nos eventos narrados.\nD\t justaposição de frases que relacionam semanticamente \nos acontecimentos narrados.\nE\t recorrência de expressões adverbiais que organizam \ntemporalmente a narrativa.",
+  "processado_em": "2026-05-11T23:26:36.143586",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 290.5
+  }
+}

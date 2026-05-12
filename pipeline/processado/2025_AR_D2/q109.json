@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q109",
+  "imagem": "q109.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 109,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 109\t\nO fruto do cajueiro é um aquênio repleto de um líquido \nescuro, quase preto, cáustico e inflamável. Esse líquido da \ncasca da castanha do caju (LCC) representa aproximadamente \n25% da massa da castanha e é um subproduto de agronegócio \ndo caju. Quando submetido a altas temperaturas, o ácido \nanacárdico presente no LCC é convertido a cardanol, que recebe \na denominação de LCC técnico, conforme o esquema:\nMAZZETTO, S. E.; LOMONACO, D.; MELE, G. Óleo da castanha de caju: \noportunidades e desafios no contexto do desenvolvimento e \nsustentabilidade industrial. Química Nova, n. 3, 2009 (adaptado).\nO LCC técnico é produzido por meio de uma reação orgânica \ndo tipo\nA\thidrólise.\nB\tfenilação.\nC\testerificação.\nD\thidrogenação.\nE\tdescarboxilação.",
+  "processado_em": "2026-05-08T14:07:05.892637",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q057",
+  "imagem": "q057.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 57,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 57\t\nO ar atmosférico pode ser utilizado para \narmazenar o excedente de energia gerada no \nsistema elétrico, diminuindo seu desperdício, por \nmeio do seguinte processo: água e gás carbônico \nsão inicialmente removidos do ar atmosférico e \na massa de ar restante é resfriada até −198 °C. \nPresente na proporção de 78% dessa massa de ar, o \nnitrogênio gasoso é liquefeito, ocupando um volume \n700 vezes menor. A energia excedente do sistema \nelétrico é utilizada nesse processo, sendo parcialmente \nrecuperada quando o nitrogênio líquido, exposto à \ntemperatura ambiente, entra em ebulição e se expande, \nfazendo girar turbinas que convertem energia mecânica \nem energia elétrica.\nMACHADO, R. Disponível em: www.correiobraziliense.com.br. \nAcesso em: 9 set. 2013 (adaptado).\nNo processo descrito, o excedente de energia elétrica é \narmazenado pela\nA\t expansão do nitrogênio durante a ebulição.\nB\t absorção de calor pelo nitrogênio durante a ebulição.\nC\t realização de trabalho sobre o nitrogênio durante a \nliquefação.\nD\t retirada de água e gás carbônico da atmosfera antes \ndo resfriamento.\nE\t liberação de calor do nitrogênio para a vizinhança \ndurante a liquefação.",
+  "processado_em": "2026-05-08T14:00:47.453281",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

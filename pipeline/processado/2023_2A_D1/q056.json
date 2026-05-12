@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q056",
+  "imagem": "q056.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 56,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 56\t\nOs estudos realizados sobre o impacto ambiental \nconfirmaram um patrimônio arqueológico, histórico \ne cultural positivo para onde se planeja implantar a \nferrovia Transnordestina. Esse quadro já era esperado, \nconsiderando-se o rico contexto de ocupações humanas \nque se desenvolveram na área desde o período \npré-colonial até os dias atuais. Foi ainda identificado \num rico patrimônio de arte rupestre na região, com a \npresença de dois sítios arqueológicos, colocando a área \nde implantação da ferrovia Transnordestina dentro do \ndiversificado panorama pré-colonial que caracteriza o \ninterior do Nordeste brasileiro.\nRelatório de impacto ambiental — Rima: ferrovia Transnordestina. DNIT, 2004 (adaptado).\nUma ação capaz de evitar os danos arqueológicos \nmencionados no texto é o(a)\nA\t\nA\t catalogação dos materiais líticos.\nB\t\nB\t adoção de medidas compensatórias.\nC\t\nC\t remoção das habitações dos nativos.\nD\t\nD\t reflorestamento de áreas degradadas.\nE\t\nE\t deslocamento dos eixos da construção.",
+  "processado_em": "2026-05-08T14:05:19.891227",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

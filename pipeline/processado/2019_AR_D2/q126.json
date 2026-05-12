@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q126",
+  "imagem": "q126.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 126,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 126\t\nNo quadro estão apresentadas informações sobre duas estratégias de sobrevivência que podem ser adotadas \npor algumas espécies de seres vivos.\nEstratégia 1\nEstratégia 2\nHábitat\nMais instável e imprevisível \nMais estável e previsível \nPotencial biótico \nMuito elevado \nBaixo \nDuração da vida\nCurta e com reprodução precoce \nLonga e com reprodução tardia \nDescendentes\nMuitos e com tamanho corporal pequeno \nPoucos e com tamanho corporal maior \nTamanho populacional\nVariável \nConstante \nNa recuperação de uma área desmatada deveriam ser reintroduzidas primeiramente as espécies que adotam qual \nestratégia?\nA\t Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras \nespécies.\nB\t Estratégia 2, pois essas espécies têm uma longa duração da vida, o que favorece a produção de muitos \ndescendentes.\nC\t Estratégia 1, pois essas espécies apresentam um elevado potencial biótico, o que facilita a rápida recolonização \nda área desmatada.\nD\t Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de \numa área desmatada.\nE\t Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma \nrecolonização mais estável da área desmatada.",
+  "processado_em": "2026-05-11T23:27:34.760815",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

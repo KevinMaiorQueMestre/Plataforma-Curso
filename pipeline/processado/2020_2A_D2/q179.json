@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 179          \nA fim de reforçar o orçamento familiar, uma dona de ca\ncomposta de 4\n5 de quilograma de amendoim e 1\n5 de quilogra\nO quilograma de amendoim custa R$ 10,00 e o do \nquilograma passou a custar R$ 2,20. Para manter o mesmo\nterá que negociar um desconto com o fornecedor de amen\nNas condições estabelecidas, o novo valor do quilograma \nA \t R$ 9,20.\nB \t R$ 9,75.\nC \t R$ 9,80.\nD \t R$ 9,84.\nE \t R$ 9,95.",
+  "processado_em": "2026-05-08T14:03:40.512238",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

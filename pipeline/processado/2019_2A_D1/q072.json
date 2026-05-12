@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D1_q072",
+  "imagem": "q072.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 72,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 72\t\nO espírito humano controla as máquinas cada vez \nmais potentes que criou. Mas a lógica dessas máquinas \nartificiais controla cada vez mais o espírito dos cientistas, \nsociólogos, políticos e, de modo mais abrangente, todos \naqueles que, obedecendo à soberania do cálculo, \nignoram tudo o que não é quantificável, ou seja, os \nsentimentos, sofrimentos, alegrias dos seres humanos. \nEssa lógica é assim aplicada ao conhecimento e à \nconduta das sociedades, e se espalha em todos os \nsetores da vida.\nMORIN, E. O método 5: a humanidade da humanidade. \nPorto Alegre: Sulina, 2012 (adaptado).\nNo contexto atual, essa crítica proposta por Edgar Morin \nse aplica à\nA\t intensificação das relações interpessoais.\nB\t descentralização do poder econômico.\nC\t fragmentação do mercado consumidor.\nD\t valorização do paradigma tecnológico.\nE\t simplificação das atividades laborais.",
+  "processado_em": "2026-05-11T23:27:02.248381",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

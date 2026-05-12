@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q048",
+  "imagem": "q048.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 48,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 48\t\nNo Cerrado, o conhecimento local está sendo cada \nvez mais subordinado à lógica do agronegócio. De um \nlado, o capital impõe os conhecimentos biotecnológicos, \ncomo mecanismo de universalização de práticas agrícolas \ne de novas tecnologias, e de outro, o modelo capitalista \nsubordina homens e mulheres à lógica do mercado. Assim, \nas águas, as sementes, os minerais, as terras (bens \ncomuns) tornam-se propriedade privada. Além do mais, \nhá outros fatores negativos, como a mecanização pesada, \na “pragatização” dos seres humanos e não humanos, a \nviolência simbólica, a superexploração, as chuvas de \nveneno e a violência contra a pessoa.\nCALAÇA, M.; SILVA, E. B.; JESUS, J. N. Territorialização do agronegócio e subordinação \ndo campesinato no Cerrado. Élisée, Rev. Geo. UEG, n. 1, jan.-jun. 2021 (adaptado).\nOs elementos descritos no texto, a respeito da \nterritorialização da produção, demonstram que há um\nA\t\nA\t cerco aos camponeses, inviabilizando a manutenção \ndas condições para a vida.\nB\t\nB\t descaso aos latifundiários, impactando a plantação \nde alimentos para a exportação.\nC\t\nC\t desprezo ao assalariado, afetando o engajamento dos \nsindicatos para o trabalhador.\nD\t\nD\t desrespeito aos governantes, comprometendo a \ncriação de empregos para o lavrador.\nE\t\nE\t assédio ao empresariado, dificultando o investimento \nde maquinários para a produção.",
+  "processado_em": "2026-05-08T14:05:36.826459",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

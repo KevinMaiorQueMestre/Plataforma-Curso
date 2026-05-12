@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q079",
+  "imagem": "q079.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 79,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 79\t\nO armazenamento de certas vitaminas no organism\nPor exemplo, vitaminas hidrossolúveis devem ser incluíd\narmazenadas em quantidades suficientes para evitar doenç\nas estuturas químicas de cinco vitaminas necessárias ao o\nI\nII\nIV\nDentre as vitaminas apresentadas na figura, aquela que ne\nA\t I.\nB\t II.\nC\t III.\nD\t IV.\nE\t V.",
+  "processado_em": "2026-05-08T13:59:02.514994",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 291.0
+  }
+}

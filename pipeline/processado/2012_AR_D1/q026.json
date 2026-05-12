@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q026",
+  "imagem": "q026.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 26,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 26\t\nA maior parte dos veículos de transporte atualmente \né movida por motores a combustão que utilizam derivados \nde petróleo. Por causa disso, esse setor é o maior \nconsumidor de petróleo do mundo, com altas taxas de \ncrescimento ao longo do tempo. Enquanto outros setores \ntêm obtido bons resultados na redução do consumo, os \ntransportes tendem a concentrar ainda mais o uso de \nderivados do óleo.\nMURTA, A. Energia: o vício da civilização. Rio de Janeiro: Garamond, 2011 (adaptado).\nUm impacto ambiental da tecnologia mais empregada \npelo setor de transportes e uma medida para \npromover a redução do seu uso, estão indicados, \nrespectivamente, em:\nA\t Aumento da poluição sonora – construção de barreiras \nacústicas.\nB\t Incidência da chuva ácida – estatização da indústria \nautomobilística.\nC\t Derretimento das calotas polares – incentivo aos \ntransportes de massa.\nD\t Propagação de doenças respiratórias – distribuição \nde medicamentos gratuitos.\nE\t Elevação das temperaturas médias – criminalização \nda emissão de gás carbônico.",
+  "processado_em": "2026-05-08T13:59:01.996811",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

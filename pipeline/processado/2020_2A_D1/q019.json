@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q019",
+  "imagem": "q019.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 19,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 19          \nMais de um terço da comida produzida no mundo \nperde-se no caminho entre o produtor e o mercado, \nou em casa. Empresas e governos podem mudar essa \nsituação, com melhorias nos sistemas de distribuição e \noferta dos alimentos. Em casa, o consumidor pode ajudar \nplanejando as refeições, comprando só o necessário e \narmazenando tudo corretamente. Ao evitar o desperdício, \nvocê ainda economiza dinheiro.\nRevista Quatro Rodas, maio 2013.",
+  "processado_em": "2026-05-08T14:03:25.122245",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

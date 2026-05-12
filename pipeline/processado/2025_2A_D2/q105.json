@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 105 \nHá um mês, um paciente está apresentando um quadro \nclínico que inclui febre, sudorese noturna, perda de peso, \nfadiga e infecções recorrentes. Supondo a presença do vírus \nHIV, o médico solicita um teste de diagnóstico. O esquema \nrepresenta um teste laboratorial que usa o sangue do paciente \npara confirmar a suspeita do médico.\nRAMIREZ, A. ELISA Assay as a Diagnostic Tool: Basics and Uses. Disponível em: \nwww.pig333.com. Acesso em: 18 nov. 2022 (adaptado).\nO elemento presente na amostra de sangue do paciente, \nresponsável pelo diagnóstico positivo, é o(a)\nA antígeno do vírus.\nB leucócito infectado.\nC enzima do anticorpo.\nD anticorpo no plasma.\nE hemácia contaminada.",
+  "processado_em": "2026-05-08T14:06:35.088110",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 100\t\nTodas as car\ncompartilhada\nINTELIGÊNCI\nA ideia de que\ndesde os ano\nde raciocínio.\nAMOR\nO amor, tido co\nespécies, com\npreocupam co\nCONSCIÊNCI\nChimpanzés \ne enganam hu\ndistinguem dos\nCULTURA\nO primatologis\nprimatas que s\npara as geraçõ\nExtra, extra. Este macaco é humano.\nO título do texto traz o ponto de vista do autor sobre a \nanimais. As estratégias argumentativas utilizadas para sus\nA\t definição e hierarquia.\nB\t exemplificação e comparação.\nC\t causa e consequência.\nD\t finalidade e meios.\nE\nt\nid d\nd l",
+  "processado_em": "2026-05-08T13:59:22.705708",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

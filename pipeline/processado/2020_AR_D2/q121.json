@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q121",
+  "imagem": "q121.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 121,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A \t reagem com a água do mar e sofrem degradação, \ngerando compostos com elevada toxicidade.\nB \t acidificam o meio, promovendo o desgaste das \nconchas calcárias de moluscos e a morte de corais.\nC \t dissolvem-se na água, causando a mortandade dos \nseres marinhos por ingestão da água contaminada.\nD \t têm caráter hidrofóbico e baixa densidade, impedindo \nas trocas gasosas entre o meio aquático e a atmosfera.\nE \t têm \ncadeia \npequena \ne \nelevada \nvolatilidade, \ncontaminando a atmosfera local e regional em função \ndos ventos nas orlas marítimas.\nQuestão 121        \nUma população encontra-se em equilíbrio genético \nquanto ao sistema ABO, em que 25% dos indivíduos \npertencem ao grupo O e 16%, ao grupo A homozigotos. \nConsiderando que: p = frequência de IA; q = frequência \nde IB; e r = frequência de i, espera-se encontrar:\nGrupo\nGenótipos\nFrequências\nA\nIAIA e IAi\np2 + 2pr\nB\nIBIB e IBi\nq2 + 2qr\nAB\nIAIB  \n2pq\nO\nii   \nr2\nA porcentagem de doadores compatíveis para alguém do \ngrupo B nessa população deve ser de\nA \t 11%.\nB \t 19%.\nC \t 26%.\nD \t 36%.\nE \t 60%.",
+  "processado_em": "2026-05-11T23:28:14.392218",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

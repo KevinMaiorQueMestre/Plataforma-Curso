@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 141\t\nUma pessoa, que perdeu um objeto pessoal quando \nvisitou uma cidade, pretende divulgar nos meios de \ncomunicação informações a respeito da perda desse \nobjeto e de seu contato para eventual devolução. \nNo entanto, ela lembra que, de acordo com o Art. 1 234 \ndo Código Civil, poderá ter que pagar pelas despesas \ndo transporte desse objeto até sua cidade e poderá ter \nque recompensar a pessoa que lhe restituir o objeto \nem, pelo menos, 5% do valor do objeto.\nEla sabe que o custo com transporte será de \num quinto do valor atual do objeto e, como ela tem \nmuito interesse em reavê-lo, pretende ofertar o maior \npercentual possível de recompensa, desde que o \ngasto total com as despesas não ultrapasse o valor \natual do objeto.\nNessas condições, o percentual sobre o valor do objeto, \ndado como recompensa, que ela deverá ofertar é igual a\nA\t 20%\nB\t 25%\nC\t 40%\nD\t 60%\nE\t 80%",
+  "processado_em": "2026-05-11T23:27:35.608388",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.4
+  }
+}

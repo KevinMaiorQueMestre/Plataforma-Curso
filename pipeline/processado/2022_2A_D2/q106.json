@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q106",
+  "imagem": "q106.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 106,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 106\t\nUma prática que os brasileiros costumam realizar é \na degustação de doces em compotas. O conhecimento \npopular indica que não é aceitável deixar o mesmo \ntalher usado na degustação e levado à boca dentro \nda compoteira aberta, em contato com o doce. Essa \nindicação se deve ao fato de que o doce, no pensamento \npopular, poderá azedar. \nEssa prática popular encontra respaldo no pensamento \ncientífico, uma vez que o doce realmente poderá azedar \nem razão da\nA\t\nA\t oxidação do doce pelo contato com o ar.\nB\t\nB\t contaminação por microrganismos, que irão fermentá-lo.\nC\t\nC\t ação das enzimas salivares que foram transferidas \npara o doce após a degustação.\nD\t\nD\t evaporação dos conservantes que mantêm a solução \nda compota em equilíbrio químico.\nE\t\nE\t degradação dos componentes doces da compota em \nreação com compostos químicos do talher.",
+  "processado_em": "2026-05-08T14:04:47.128627",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 178 \nUma tecelagem oferece para venda diversos tecidos com di\ntecidos considera uma grandeza que é diretamente proporciona\nA unidade de medida do tipo de grandeza utilizada por essa tece\nA m ⋅ kg−1\nB m2 ⋅ kg−1\nC kg ⋅ m−2\nD kg ⋅ m\nE kg ⋅ m2",
+  "processado_em": "2026-05-08T14:06:38.709936",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

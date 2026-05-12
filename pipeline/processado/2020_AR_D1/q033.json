@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q033",
+  "imagem": "q033.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 33,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 33          \nTEXTO I\nPoesia em cartaz\nO caminho habitual para o trabalho, aquele em que \na gente já nem repara direito, pode ficar mais belo com \num poema. O projeto #UmLambePorDia nasceu desta \nintenção: trazer mais cor e alegria para a cidade por meio \nde cartazes coloridos ao estilo lambe-lambe. Quem teve \na ideia foi o escritor Leonardo Beltrão, em Belo Horizonte. \n“Em meio a olhares cada vez mais viciados, acabamos \nnos esquecendo da beleza envolvida em cada esquina \ne no próprio poder transformador da palavra”. Assim, a \ncada dia um cartaz é colocado por aí, para nos lembrar de \nreparar na cidade, na vida que corre ao redor e também \nem nós mesmos. \nTEXTO II\nDisponível em: www.vidasimples.uol.com.br. Acesso em: 6 dez. 2017 (adaptado).\nConsiderando-se a função que os cartazes colados em \npostes normalmente exercem nas ruas das cidades \ngrandes, esse texto evidencia a\nA \t disseminação da arte poética em um veículo não \nconvencional. \nB \t manutenção da expectativa das pessoas ao andarem \npelas ruas.\nC \t necessidade de exposição de poemas pequenos em \ndiferentes suportes.\nD \t característica corriqueira do suporte lambe-lambe, \nmuito comum nas ruas.\nE \t exposição da beleza escondida das esquinas da \ncidade de Belo Horizonte.",
+  "processado_em": "2026-05-11T23:28:02.334272",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

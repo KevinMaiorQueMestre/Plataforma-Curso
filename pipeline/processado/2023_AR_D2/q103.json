@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q103",
+  "imagem": "q103.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 103,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 103\t\nUm garoto comprou vários abacates na feira, mas \ndescobriu que eles não estavam maduros o suficiente \npara serem consumidos. Sua mãe recomendou que \nele colocasse os abacates em um recipiente fechado, \npois isso aceleraria seu amadurecimento. Com certa \ndúvida, o garoto realizou esta experiência: colocou \nalguns abacates no recipiente e deixou os demais em \numa fruteira aberta. Surpreendendo-se, ele percebeu \nque os frutos que estavam no recipiente fechado \namadureceram mais rapidamente.\nA aceleração desse processo é causada por\nA\t\nA\t acúmulo de gás etileno.\nB\t\nB\t redução da umidade do ar.\nC\t\nC\t aumento da concentração de CO2.\nD\t\nD\t diminuição da intensidade luminosa.\nE\t\nE\t isolamento do contato com O2 atmosférico.",
+  "processado_em": "2026-05-08T14:05:43.288106",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

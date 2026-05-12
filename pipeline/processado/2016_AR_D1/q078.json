@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q078",
+  "imagem": "q078.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 78,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 78\t\nApós seu desgaste completo, os pneus podem ser quei\nna combustão completa da borracha vulcanizada, alguns \nescapem para a atmosfera, esses gases podem ser borbu\nadequada. Considere as informações das substâncias lista\nSubstância\nEquilíbrio em s\nFenol\nC6H5OH + H2O  →\n←\nPiridina\nC5H5N + H2O  →\n←\nMetilamina\nCH3NH2 + H2O  →\n←\nHidrogenofosfato de potássio\nHPO4\n2− + H2O  →\n←\nHidrogenosulfato de potássio\nHSO4\n− + H2O  →\n←\nDentre as substâncias listadas no quadro, aquela capaz de\nA\t fenol.\nB\t piridina.\nC\t metilamina.\nD\t hidrogenofosfato de potássio.\nE\t hidrogenosulfato de potássio.",
+  "processado_em": "2026-05-08T14:01:11.108150",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

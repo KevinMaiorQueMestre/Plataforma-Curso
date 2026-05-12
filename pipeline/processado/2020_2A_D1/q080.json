@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q080",
+  "imagem": "q080.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 80,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 80          \nEm Goiás e Mato Grosso, as modificações \ndependeram fundamentalmente de novos manejos \naplicados às terras. Acima de tudo, porém, o \ndesenvolvimento regional deveu-se a uma articulada \ntransformação dos meios urbanos e rurais, a serviço \nda produção tanto de alimentos básicos, como o \narroz, por exemplo, quanto de grãos para consumo \ninterno e exportação, como a soja.\nAB’SABER, A. N. Os domínios de natureza no Brasil: potencialidades paisagísticas.\nSão Paulo: Ateliê, 2003.\nA realidade descrita no texto se estabelece sobre qual \ndomínio morfoclimático?\nA \t Pradaria.\nB \t Cerrado.\nC \t Caatinga.\nD \t Araucária.\nE Atlântico",
+  "processado_em": "2026-05-08T14:03:31.998465",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

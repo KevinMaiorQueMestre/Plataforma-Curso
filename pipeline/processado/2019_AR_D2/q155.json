@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 155\t\nTrês sócios resolveram fundar uma fábrica. \nO investimento inicial foi de R$ 1 000 000,00. \nE, independentemente do valor que cada um investiu \nnesse primeiro momento, resolveram considerar que cada \num deles contribuiu com um terço do investimento inicial.\nAlgum tempo depois, um quarto sócio entrou para \na sociedade, e os quatro, juntos, investiram mais \nR$ 800 000,00 na fábrica. Cada um deles contribuiu \ncom um quarto desse valor. Quando venderam a fábrica, \nnenhum outro investimento havia sido feito. Os sócios \ndecidiram então dividir o montante de R$ 1 800 000,00 \nobtido com a venda, de modo proporcional à quantia \ntotal investida por cada sócio.\nQuais os valores mais próximos, em porcentagens, \ncorrespondentes às parcelas financeiras que cada um \ndos três sócios iniciais e o quarto sócio, respectivamente, \nreceberam?\nA\t 29,60 e 11,11.\nB\t 28,70 e 13,89.\nC\t 25,00 e 25,00.\nD\t 18,52 e 11,11.\nE\t 12,96 e 13,89.",
+  "processado_em": "2026-05-11T23:27:36.566248",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

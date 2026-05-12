@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q041",
+  "imagem": "q041.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 41,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 41\t\nOs produtos e seu consumo constituem a meta \ndeclarada do empreendimento tecnológico. Essa meta \nfoi proposta pela primeira vez no início da Modernidade, \ncomo expectativa de que o homem poderia dominar a \nnatureza. No entanto, essa expectativa, convertida em \nprograma anunciado por pensadores como Descartes e \nBacon e impulsionado pelo Iluminismo, não surgiu “de \num prazer de poder”, “de um mero imperialismo humano”, \nmas da aspiração de libertar o homem e de enriquecer \nsua vida, física e culturalmente.\nCUPANI, A. A tecnologia como problema filosófico: três enfoques. \nScientiae Studia, São Paulo, v. 2, n. 4, 2004 (adaptado).\nAutores da filosofia moderna, notadamente Descartes e \nBacon, e o projeto iluminista concebem a ciência como \numa forma de saber que almeja libertar o homem das \nintempéries da natureza. Nesse contexto, a investigação \ncientífica consiste em\nA\t expor a essência da verdade e resolver definitivamente \nas disputas teóricas ainda existentes.\nB\t oferecer a última palavra acerca das coisas que \nexistem e ocupar o lugar que outrora foi da filosofia.\nC\t ser a expressão da razão e servir de modelo para \noutras áreas do saber que almejam o progresso.\nD\t explicitar as leis gerais que permitem interpretar a \nnatureza e eliminar os discursos éticos e religiosos.\nE\t explicar a dinâmica presente entre os fenômenos \nnaturais e impor limites aos debates acadêmicos",
+  "processado_em": "2026-05-08T14:00:11.942716",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 290.8
+  }
+}

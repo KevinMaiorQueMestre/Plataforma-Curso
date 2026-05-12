@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q075",
+  "imagem": "q075.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 75,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 75\t\nEm certos locais, larvas de moscas, criadas em arroz \ncozido, são utilizadas como iscas para pesca. Alguns \ncriadores, no entanto, acreditam que essas larvas surgem \nespontaneamente do arroz cozido, tal como preconizado \npela teoria da geração espontânea.\nEssa teoria começou a ser refutada pelos cientistas ainda \nno século XVII, a partir dos estudos de Redi e Pasteur, \nque mostraram experimentalmente que\nA\t seres vivos podem ser criados em laboratório.\nB\t a vida se originou no planeta a partir de microrganismos.\nC\t o ser vivo é oriundo da reprodução de outro ser vivo \npré-existente.\nD\t seres \nvermiformes \ne \nmicrorganismos \nsão \nevolutivamente aparentados.\nE\t vermes e microrganismos são gerados pela matéria \nexistente nos cadáveres e nos caldos nutritivos, \nrespectivamente.",
+  "processado_em": "2026-05-08T13:59:02.509489",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

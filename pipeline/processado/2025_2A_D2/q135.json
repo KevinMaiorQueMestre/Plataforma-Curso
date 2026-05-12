@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q135",
+  "imagem": "q135.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 135,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 135 \nPara monitoramento do funcionamento de dispositivos sile\nseja instalada. Uma solução simples é a instalação de um diodo e\nesquema do circuito elétrico. Para minimizar o consumo de ene\ninstalação em paralelo com um dispositivo de resistência R igua\nde proteção, RP, ligado em série com o LED.\nO gráfico apresenta a curva da corrente elétrica (em miliampè\nO valor da resistência de proteção RP, em ohm, é igual a\nA 1 200 Ω.\nB 900 Ω.\nC 300 Ω.\nD 0,9 Ω.\nE 0 3 Ω",
+  "processado_em": "2026-05-08T14:06:36.512617",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

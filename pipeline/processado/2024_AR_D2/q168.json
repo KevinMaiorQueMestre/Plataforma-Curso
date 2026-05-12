@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nTrês grandezas (I, II e III) se relacionam entre si. \nOs gráficos a seguir, formados por segmentos de reta, \ndescrevem as relações de dependência existentes entre \nas grandezas I e II, e entre as grandezas II e III.\n   \nO valor máximo assumido pela grandeza III, quando a \ngrandeza I varia de 1 a 3, é\nA\t1,0.\nB\t2,5.\nC\t3,0.\nD\t3,5.\nE\t4,0.",
+  "processado_em": "2026-05-08T14:06:21.259495",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

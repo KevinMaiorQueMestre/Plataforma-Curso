@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q047",
+  "imagem": "q047.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 47,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 47\t\nPara os gregos, forçar alguém mediante violência, ordenar \nao invés de persuadir, eram modos pré-políticos de lidar com \nas pessoas, típicos da vida fora da polis, característicos do lar \ne da vida em família, na qual o chefe da casa imperava com \npoderes incontestes e despóticos.\nARENDT, H. A condição humana. São Paulo: Perspectiva, 2004.\nA filósofa alemã Hannah Arendt analisa uma noção de poder \nsustentada pelo vínculo entre a autoridade e a violência para \ncriticar tendências que se baseiam no(a)\nA\tforça coercitiva das leis.\nB\tarbítrio individual do governante.\nC\tmonitoramento coletivo dos cidadãos.\nD\timposição constritiva dos argumentos.\nE\tobediência aos mecanismos de repressão.",
+  "processado_em": "2026-05-08T14:06:45.899252",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D1_q024",
+  "imagem": "q024.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 24,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 24\t\nNesse cartaz, a utilização de frases que projetam a vida profiss\nA\tsugerir a arrecadação de fundos para o sustento de povos o\nB\tsensibilizar a sociedade sobre os benefícios decorrentes do c\nC\tindicar a importância da orientação vocacional na educação\nD\tchamar a atenção sobre a necessidade de ações voltadas p\nE\tvalorizar o trabalho de agências internacionais na luta cont",
+  "processado_em": "2026-05-08T14:06:58.689252",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

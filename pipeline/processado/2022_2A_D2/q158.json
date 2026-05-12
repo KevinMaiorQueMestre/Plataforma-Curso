@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D2_q158",
+  "imagem": "q158.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 158,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 158\t\nToda a iluminação de um escritório é feita utilizando-se \n40 lâmpadas incandescentes que produzem 600 lúmens \n(lúmen = unidade de energia luminosa) cada. O gerente \nplaneja reestruturar o sistema de iluminação desse \nescritório, utilizando somente lâmpadas fluorescentes \nque produzem 1 600 lúmens, para aumentar a quantidade \nde energia luminosa em 50%.\nPara alcançar seu objetivo, a quantidade mínima de \nlâmpadas fluorescentes que o gerente desse escritório \ndeverá instalar é\nA\t\nA\t 10.\nB\t\nB\t 14.\nC\t\nC\t 15.\nD\t\nD\t 16.\nE\t\nE\t 23.",
+  "processado_em": "2026-05-08T14:04:50.297506",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

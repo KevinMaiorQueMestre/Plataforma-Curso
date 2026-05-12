@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q179",
+  "imagem": "q179.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 179,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 179 \nPedro elaborou uma maquete de sua escola. A escala utiliza\nPedro ficou muito grande, Artur elaborou, com base na maquet\nEm relação à escola, a maquete elaborada por Artur está na esca\nA 1 : 25.\nB 1 : 60.\nC 1 : 140.\nD 1 : 250.\nE 1 : 400.",
+  "processado_em": "2026-05-08T14:06:38.732653",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

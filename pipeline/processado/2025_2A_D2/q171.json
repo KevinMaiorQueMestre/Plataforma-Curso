@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 171 \nDurante anos, as medições de colesterol e triglicerídeos no\nEstudos descobriram que a relação entre os níveis de triglice\nincidência da doença arterial coronariana. Se a razão entre os\nfor superior a 4, ela indica risco de doença arterial coronariana\nA expressão algébrica que relaciona T e C indicando o risco de \nA T ⋅ C < 4\nB T ⋅ C > 4\nC T − C > 4\nD C\nT > 1\n4\nE C\nT < 1\n4",
+  "processado_em": "2026-05-08T14:06:38.377250",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

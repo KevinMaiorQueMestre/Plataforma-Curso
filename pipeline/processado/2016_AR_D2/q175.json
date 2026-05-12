@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q175",
+  "imagem": "q175.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 175,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 175\t\nEm regiões agrícolas, é comum a presença de silos \npara armazenamento e secagem da produção de grãos, \nno formato de um cilindro reto, sobreposto por um cone, \ne dimensões indicadas na figura. O silo fica cheio e o \ntransporte dos grãos é feito em caminhões de carga cuja \ncapacidade é de 20 m³. Uma região possui um silo cheio \ne apenas um caminhão para transportar os grãos para a \nusina de beneficiamento.\n3 m\n12 m\n3 m\nUtilize 3 como aproximação para p. \nO número mínimo de viagens que o caminhão \nprecisará fazer para transportar todo o volume de grãos \narmazenados no silo é\nA\t 6.\nB\t 16.\nC\t 17.\nD\t 18.\nE\t 21.",
+  "processado_em": "2026-05-08T14:01:24.398484",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

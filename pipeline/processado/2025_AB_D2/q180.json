@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 180\t\nUma piscina com capacidade total de 100 m3 precisava \nser enchida. Inicialmente, prevendo um determinado tempo \nde enchimento, um registro de vazão constante foi aberto \ne começou-se a enchê-la a partir de 0 hora. O volume V de \nágua dentro da piscina, em metro cúbico, t horas após 0 hora, \nera dado pela função V(t) = 20 + 5t. Às 10 horas, um novo registro, \ntambém de vazão constante, foi aberto e passou a funcionar \nconjuntamente com o anterior, de maneira a diminuir em 4 horas \no tempo de enchimento inicialmente previsto.\nA vazão do novo registro, em metro cúbico por hora, foi de\nA\t5.\nB\t9.\nC\t10.\nD\t15.\nE\t35.",
+  "processado_em": "2026-05-08T14:06:54.589344",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

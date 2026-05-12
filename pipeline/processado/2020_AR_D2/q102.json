@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E \t 0,3 °C\nQuestão 102        \nEm uma pesquisa estão sendo testados \ncinco quimioterápicos quanto à sua capacidade \nantitumoral. No entanto, para o tratamento de \npacientes, sabe-se que é necessário verificar também \no quanto cada composto agride células normais. Para o \nexperimento, partiu-se de cultivos de células tumorais \n(colunas escuras na figura) e células normais (colunas \nclaras) com o mesmo número de células iniciais. \nDois grupos-controle não receberam quimioterápicos: \ncontrole de células tumorais (CT) e de células normais \n(CN). As colunas I, II, III, IV e V correspondem aos \ngrupos tratados com os cinco compostos. O número de \ncélulas viáveis após os tratamentos está representado \npelas colunas.\nNúmero de células (milhão)\n60\n50\n40\n30\n20\n10\n0\nCT\nI\nII\nIII\nIV\nV\nCN\nI\nII\nIII\nIV\nV\nQual quimioterápico deve ser escolhido para tratamento \ndesse tipo de tumor?\nA \t I\nB \t II\nC \t III\nD \t IV\nE \t V",
+  "processado_em": "2026-05-11T23:28:13.339135",
+  "_meta": {
+    "pagina": 4,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

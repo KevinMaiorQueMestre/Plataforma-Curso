@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q055",
+  "imagem": "q055.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 55,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 55\t\nSolos salinos ou alomórficos apresentam como \ncaracterística comum uma concentração muito alta \nde sais solúveis e/ou de sódio trocável. Eles ocorrem \nnos locais mais baixos do relevo, em regiões áridas e \nsemiáridas e próximas do mar. Em regiões semiáridas, \npor exemplo, o polígono das secas do Nordeste brasileiro, \nos locais menos elevados recebem água que se escoa \ndos declives adjacentes, durante as chuvas que caem em \nalguns meses do ano. Essa água traz soluções de sais \nminerais e evapora-se rapidamente antes de infiltrar-se \ntotalmente, havendo então, cada vez que esse processo \né repetido, um pequeno acúmulo de sais no horizonte \nsuperficial que, com o passar dos anos, provoca a \nsalinização do solo. Nas últimas décadas, a expansão \ndas atividades agrícolas na região tem ampliado esse \nprocesso.\nLEPSCH, I. F. Solos: formação e conservação. \nSão Paulo: Melhoramentos, 1993 (adaptado).\nAs \natividades \nagrícolas, \ndesenvolvidas \nna \nregião \nmencionada, intensificam o problema ambiental exposto ao\nA\t\nA\t realizar florestamentos de pinus, desrespeitando a \nprática do pousio.\nB\t\nB\t utilizar sistemas de irrigação, desprezando uma \ndrenagem adequada.\nC\t\nC\t instalar açudes nos grotões, retardando a velocidade \nda vazão fluvial.\nD\t\nD\t desmatar \náreas \nde \npreservação \npermanente, \ncausando assoreamento.\nE\t\nE\t aplicar fertilizantes de origem orgânica, modificando \na química da terra.",
+  "processado_em": "2026-05-08T14:05:03.631165",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

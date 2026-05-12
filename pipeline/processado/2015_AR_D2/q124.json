@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nPalavras jogadas fora\nQuando criança, convivia no interior de São Paulo \ncom o curioso verbo pinchar e ainda o ouço por lá \nesporadicamente. O sentido da palavra é o de “jogar fora” \n(pincha fora essa porcaria) ou “mandar embora” (pincha \nesse fulano daqui). Teria sido uma das muitas palavras \nque ouvi menos na capital do estado e, por conseguinte, \ndeixei de usar. Quando indago às pessoas se conhecem \nesse verbo, comumente escuto respostas como “minha \navó fala isso”. Aparentemente, para muitos falantes, esse \nverbo é algo do passado, que deixará de existir tão logo \nessa geração antiga morrer.\nAs palavras são, em sua grande maioria, resultados \nde uma tradição: elas já estavam lá antes de nascermos. \n“Tradição”, etimologicamente, é o ato de entregar, de \npassar adiante, de transmitir (sobretudo valores culturais). \nO rompimento da tradição de uma palavra equivale à sua \nextinção. A gramática normativa muitas vezes colabora \ncriando preconceitos, mas o fator mais forte que motiva \nos falantes a extinguirem uma palavra é associar a l",
+  "processado_em": "2026-05-08T14:00:55.278321",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

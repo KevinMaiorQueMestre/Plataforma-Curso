@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 141\t\nUma fábrica utilizou uma impressora 3D para produzir o \nprotótipo de uma peça. O protótipo tem forma de um poliedro \nconvexo, obtido pela justaposição de dois sólidos distintos, um \ncom a forma de um prisma hexagonal regular reto e o outro com \na forma de um tronco de pirâmide hexagonal reta. A base maior \ndo tronco de pirâmide coincide com uma das bases do prisma.\nApós a impressão do protótipo, ele foi encaminhado ao setor \nde customização para realização da pintura de sua superfície. \nO critério definido para realização da pintura considera que faces \ncongruentes entre si devem ser pintadas com uma mesma cor, e \nfaces não congruentes entre si devem apresentar cores distintas.\nQual é a quantidade de cores utilizadas para pintar o protótipo?\nA\t9\nB\t8\nC\t6\nD\t4\nE 3",
+  "processado_em": "2026-05-08T14:07:08.526398",
+  "_meta": {
+    "pagina": 17,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

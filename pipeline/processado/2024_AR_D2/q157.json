@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nUma piscina tem capacidade de 2 500 000 litros. \nSeu sistema de abastecimento foi regulado para ter \numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda \npiscina, com capacidade de 2 750 000 litros, e regulado \npara ter uma vazão, também constante, capaz de enchê-la \nem um tempo 20% maior que o gasto para encher \na primeira piscina.\nA vazão do sistema de abastecimento da segunda piscina, \nem litro por minuto, é\nA\t8 250.\nB\t7 920.\nC\t6 545.\nD\t5 500.\nE\t5 280.",
+  "processado_em": "2026-05-08T14:06:20.541631",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 284.3
+  }
+}

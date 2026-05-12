@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 108\t\nLinotipos\nO Museu da Imprensa exibe duas linotipos. Trata-se \nde um tipo de máquina de composição de tipos de \nchumbo, inventada em 1884 em Baltimore, nos Estados \nUnidos, pelo alemão Ottmar Mergenthaler. O invento \nfoi de grande importância por ter significado um novo \ne fundamental avanço na história das artes gráficas. \nA linotipia provocou, na verdade, uma revolução \nporque venceu a lentidão da composição dos textos \nexecutada na tipografia tradicional, em que o texto era \ncomposto à mão, juntando tipos móveis um por um. \nConstituía-se, assim, no principal meio de composição \ntipográfica até 1950. A linotipo, a partir do final do \nséculo XIX, passou a produzir impressos a baixo custo, \no que levou informação às massas, democratizou a \ninformação. Promoveu uma revolução na educação. \nAntes da linotipo, os jornais e revistas eram escassos, \ncom poucas páginas e caros. Os livros didáticos eram \ntambém caros, pouco acessíveis.\nDisponível em: http://portal.in.gov.br. Acesso em: 23 fev. 2013 (adaptado).\nO texto apresenta um histórico da linotipo, uma máquina \ntipográfica inventada no século XIX e responsável \npela dinamização da imprensa. Em termos sociais, a \ncontribuição da linotipo teve impacto direto na\nA\t produção vagarosa de materiais didáticos.\nB\t composição aprimorada de tipos de chumbo.\nC\t montagem acelerada de textos para impressão.\nD\t produção acessível de materiais informacionais.\nE\t impressão dinamizada de imagens em revistas.",
+  "processado_em": "2026-05-08T14:00:35.628726",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

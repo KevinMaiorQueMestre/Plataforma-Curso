@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q029",
+  "imagem": "q029.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 29,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 29          \nCom o fim da versão impressa do Diário Oficial da União, \no presidente da República assinou um decreto que traz novas \nnormas a serem seguidas nas publicações oficiais, que agora \nestarão disponíveis apenas na versão on-line.\nOs atos a serem divulgados devem ser encaminhados \nao órgão exclusivamente por meio eletrônico. O jornal \nserá publicado de segunda a sexta, uma vez por dia, \nexceto nos feriados nacionais e nos pontos facultativos \nda administração pública federal. \nO decreto reforça que o Diário Oficial trará os atos \ncom conteúdo normativo, exceto os atos de aplicação \nexclusivamente interna que não afetem interesses de \nterceiros, e os atos oficiais da administração pública \nfederal direta, autárquica e fundacional. \nDisponível em: www.brasil.gov.br. Acesso em: 6 dez. 2017 (adaptado).\nO decreto incide sobre a prática de leitura do Diário Oficial \nem todo o Brasil e pressupõe que\nA \t o país dispõe de uma cultura digital consolidada.\nB \t a publicação on-line dificulta o acesso ao texto oficial.\nC \t a decisão torna obrigatória a leitura de textos oficiais.\nD \t as repartições públicas dispensam a leitura de texto \nimpresso.\nE \t a mudança traz novos modelos para a administração \npública",
+  "processado_em": "2026-05-08T14:03:27.543327",
+  "_meta": {
+    "pagina": 13,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

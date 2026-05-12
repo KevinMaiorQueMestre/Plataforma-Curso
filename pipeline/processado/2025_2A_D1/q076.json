@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q076",
+  "imagem": "q076.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 76,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 76 \nBases da formação territorial do Brasil\nNa última década do século XVII, ocorreu um fenômeno \nque foi fundamental para o processo da formação territorial, \nporque levou a uma interiorização maior da colonização: \na descoberta do ouro. A mineração foi também uma atividade \nessencialmente urbanizadora; em qualquer lugar onde ela \nocorria criava cidades.\nMORAES, A. C. R. Geografares, n. 2, jun. 2001.\nQual dinâmica socioespacial favoreceu o processo abordado \nno texto?\nA Intensificação das relações comerciais.\nB Implementação da estrutura rodoviária.\nC Diversificação da produção industrial.\nD Mecanização das práticas agrícolas.\nE Normatização da política externa",
+  "processado_em": "2026-05-08T14:06:30.425115",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

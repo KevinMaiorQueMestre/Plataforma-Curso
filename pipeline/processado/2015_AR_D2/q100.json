@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q100",
+  "imagem": "q100.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 100,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 100\t\nEmbalagens usadas e resíduos devem ser \ndescartados adequadamente\nTodos os meses são recolhidas das rodovias brasileiras \ncentenas de milhares de toneladas de lixo. Só nos 22,9 mil \nquilômetros das rodovias paulistas são 41,5 mil toneladas. \nO hábito de descartar embalagens, garrafas, papéis e \nbitucas de cigarro pelas rodovias persiste e tem aumentado \nnos últimos anos. O problema é que o lixo acumulado na \nrodovia, além de prejudicar o meio ambiente, pode impedir \no escoamento da água, contribuir para as enchentes, \nprovocar incêndios, atrapalhar o trânsito e até causar \nacidentes. Além dos perigos que o lixo representa para os \nmotoristas, o material descartado poderia ser devolvido \npara a cadeia produtiva. Ou seja, o papel que está \nsobrando nas rodovias poderia ter melhor destino. Isso \ntambém vale para os plásticos inservíveis, que poderiam \nse transformar em sacos de lixo, baldes, cabides e até \nacessórios para os carros.\nDisponível em: www.girodasestradas.com.br. Acesso em: 31 jul. 2012.\nOs gêneros textuais correspondem a certos padrões de \ncomposição de texto, determinados pelo contexto em \nque são produzidos, pelo público a que eles se destinam, \npor sua finalidade. Pela leitura do texto apresentado, \nreconhece-se que sua função é\nA\t apresentar dados estatísticos sobre a reciclagem no \npaís.\nB\t alertar sobre os riscos da falta de sustentabilidade do \nmercado de recicláveis.\nC\t divulgar a quantidade de produtos reciclados retirados \ndas rodovias brasileiras.\nD\t revelar os altos índices de acidentes nas rodovias \nbrasileiras poluídas nos últimos anos.\nE\t conscientizar sobre a necessidade de preservação \nambiental e de segurança nas rodovias",
+  "processado_em": "2026-05-08T14:00:52.187656",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nUm paciente necessita de reidratação endovenosa \nfeita por meio de cinco frascos de soro durante 24 h. \nCada frasco tem um volume de 800 mL de soro. \nNas primeiras quatro horas, deverá receber 40% do total \na ser aplicado. Cada mililitro de soro corresponde a \n12 gotas.\nO número de gotas por minuto que o paciente deverá \nreceber após as quatro primeiras horas será\nA\t 16.\nB\t 20.\nC\t 24.\nD\t 34.\nE\t 40.",
+  "processado_em": "2026-05-08T14:01:22.920022",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

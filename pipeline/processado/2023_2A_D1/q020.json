@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 20\t\n PAULINO, R. Bastidores (detalhe). Gravura sobre tecido em \nsuporte de madeira para bordado, 1997.\nDisponível em: www.galeriavirgilio.com.br. Acesso em: 29 out. 2010.\nSob a perspectiva em que o artista deve trabalhar com \nas coisas que o tocam profundamente, a singularidade \nda obra Bastidores, produzida com objetos do cotidiano \ne de pouco valor material, mostra a boca, que expressa uma\nA\t\nA\t situação religiosa afro-brasileira que envolve grande \nparte da população.\nB\t\nB\t condição particular da artista, deslocada de um \ncontexto sociocultural.\nC\t\nC\t situação histórica em que as mulheres ainda bordavam \nem bastidores.\nD\t\nD\t condição vivida por parte das mulheres afro-brasileiras \ntrabalhadoras.\nE\t\nE\t situação que se sugere, mas que não se aplica, \na parcelas da população.",
+  "processado_em": "2026-05-08T14:05:17.755408",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\n$R\u0003 DEULU\u0003 XP\u0003 QHJyFLR\u000f\u0003 XP\u0003 PLFURHPSUHViULR\u0003 GHVFUHYHX\u0003 VXDV\u0003 YHQGDV\u000f\u0003 HP\u0003 PLOKDUHV\u0003 GH\u0003 UHDLV\u0003 \u000bXQLGDGH\u0003 PRQHWiULD\u0003\nbrasileira), durante os dois primeiros anos. No primeiro ano, suas vendas cresceram de modo linear. Posteriormente, \nele decidiu investir em propaganda, o que fez suas vendas crescerem de modo exponencial.\n4XDO\u0003p\u0003R\u0003JUi¿FR\u0003TXH\u0003PHOKRU\u0003GHVFUHYH\u0003DV\u0003YHQGDV\u0003HP\u0003IXQomR\u0003GR\u0003WHPSR\"\nA\nTempo (ano)\nVendas (real)\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0 0\n0,2\n0,4\n0,6\n0,8\n1,0\n1,2\n1,4\n1,6\n1,8\n2,0\nD\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0 0\n0,2\n0,4\n0,6\n0,8\n1,0\n1,2\n1,4\n1,6\n1,8\n2,0\nTempo (ano)\nVendas (real)\nB\n45\n40\n35\n30\n25\n20\n15\nVendas (real)\nE\n45\n40\n35\n30\n25\n20\n15\nVendas (real)",
+  "processado_em": "2026-05-11T23:25:30.060585",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "inteira",
+    "linha_x": 314.1
+  }
+}

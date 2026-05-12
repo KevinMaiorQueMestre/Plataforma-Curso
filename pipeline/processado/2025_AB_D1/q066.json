@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D1_q066",
+  "imagem": "q066.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D1",
+  "numero_azul": 66,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 66\t\nUm ano antes da aprovação da Constituição Brasileira, em 1891, \nfoi elaborado o Código Penal da República. Esse Código trazia à tona \na posição dos médicos, diferenciando-os dos curandeiros, que \npassaram a ser reprimidos pela polícia, perseguidos no âmbito \nreligioso e vistos como problema de saúde pública. Embora a \nConstituição assegurasse oficialmente a liberdade de culto para \ntodas as religiões, o Código Penal permitia que as religiões negras \ne outras religiosidades das camadas populares fossem perseguidas.\nBARROS, A. E. A. Ao ritmo de tambores e maracás: tambor de \nmina e pajelança no Maranhão de meados do século XX. \nProjeto História, maio-ago. 2019 (adaptado).\nO paradoxo mencionado no texto é explicado pela\nA\tafirmação do estatuto laico na legislação processual.\nB\trefutação dos preceitos higienistas no sistema carcerário.\nC\tampliação do conhecimento acadêmico no ensino jurídico.\nD\texpressão de valores preconceituosos no ordenamento legal.\nE valorização dos saberes científicos na jurisprudência nacional.",
+  "processado_em": "2026-05-08T14:06:46.772173",
+  "_meta": {
+    "pagina": 26,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q163",
+  "imagem": "q163.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 163,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 163\nA massa de um tanque de combustível depende:\nI. da quantidade de combustível nesse tanque;\nII. do tipo de combustível que se utiliza no momento;\nIII. da massa do tanque quando está vazio.\n\u001a\b!\n/\t\n\u0002 \u000b\f\n\u0002 \f\u0010\u0002 \r\b\u0005\u000b\f\n\u0002 \r\n\u0010\u0002 \u0010\b\t\t\b\u0002 \u000eJ\f\b2\u0002 \b\u0002 \u0002 ¢J\u0002\nquando está cheio de gasolina, 37 kg quando está cheio \nde etanol e que a densidade da gasolina é sete oitavos da \ndensidade do etanol.\nQual é a massa, em quilograma, do tanque vazio?\nA  1,0\nB  3,5\nC  4,0\nD  5,0\nE 9 0",
+  "processado_em": "2026-05-08T14:04:17.354862",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

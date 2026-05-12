@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q116",
+  "imagem": "q116.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 116,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 116\t\nUm tanque industrial contendo ácido clorídrico se rompeu \ne dele vazaram 365 kg dessa substância. A equipe de contenção \nde acidentes foi mobilizada e utilizou, para neutralizar o ácido, \ncal hidratada. Para não deixar resíduos do ácido, como margem \nde segurança, aplicou-se 50% a mais dessa base. A equação da \nreação de neutralização está representada a seguir:\n2 HCl (aq) + Ca(OH)2 (s) → CaCl2 (aq) + 2 H2O (l)\nAs massas molares do HCl e do Ca(OH)2 são, respectivamente, \niguais a 36,5 g/mol e 74 g/mol.\nConsiderando a cal hidratada 100% pura, a massa de \nCa(OH)2 utilizada na neutralização do ácido foi\nA\t370 kg.\nB\t555 kg.\nC\t740 kg.\nD\t1 110 kg.\nE\t1 480 kg.",
+  "processado_em": "2026-05-08T14:06:51.029931",
+  "_meta": {
+    "pagina": 9,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

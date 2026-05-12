@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_2A_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2017,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 110\nA capacidade de uma bateria com acumuladores, tal \ncomo a usada no sistema elétrico de um automóvel, é \nHVSHFL¿FDGD\u0003HP\u0003DPSqUH\u0010KRUD\u0003\u000b$K\f\u0011\u00038PD\u0003EDWHULD\u0003GH\u0003\u0014\u0015\u00039\u0003\nH\u0003\u0014\u0013\u0013\u0003$K\u0003IRUQHFH\u0003\u0014\u0015\u0003-\u0003SDUD\u0003FDGD\u0003FRXORPE\u0003GH\u0003FDUJD\u0003TXH\u0003\nÀXL\u0003DWUDYpV\u0003GHOD\u0011\nSe um gerador, de resistência interna desprezível, que \nfornece uma potência elétrica média igual a 600 W, fosse \nconectado aos terminais da bateria descrita, quanto \nWHPSR\u0003HOH\u0003OHYDULD\u0003SDUD\u0003UHFDUUHJi\u0010OD\u0003FRPSOHWDPHQWH\"\nA 0,5 h\nB 2 h\nC 12 h\nD 50 h\nE 100 h",
+  "processado_em": "2026-05-11T23:25:26.971896",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

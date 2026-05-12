@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q058",
+  "imagem": "q058.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 58,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 58\t\nA mobilidade urbana constitui-se em um tema \nfundamental \nquando \nse \ndiscute \ndesenvolvimento \nurbano e qualidade de vida da população. As condições \nde deslocamentos das pessoas e das mercadorias \nnos centros urbanos impactam toda a sociedade pela \ngeração de externalidades  negativas, como  acidentes, \npoluição e congestionamentos, afetando especialmente a \nvida dos mais pobres, que geralmente moram em regiões \nmais distantes das oportunidades urbanas.\nCARVALHO, C. H. R. Mobilidade urbana: avanços, desafios e perspectivas. In: COSTA, M. \nA. (Org.). O estatuto da cidade e a Habitat III. Brasília: Ipea, 2016.\nPara minimizar essa problemática apresentada no texto, \ndeve-se incentivar a\nA\t\nA\t habitação em locais periféricos.\nB\t\nB\t ocupação de áreas subutilizadas.\nC\t\nC\t utilização de veículos individuais.\nD\t\nD\t construção de estacionamentos em vias públicas.\nE\t\nE\t concentração de empregos em zonas centrais.",
+  "processado_em": "2026-05-08T14:04:41.320522",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

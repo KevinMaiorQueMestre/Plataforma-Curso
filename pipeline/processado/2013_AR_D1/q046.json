@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q046",
+  "imagem": "q046.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 46,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 46\t\nMúsculos artificiais são dispositivos feitos com \nplásticos inteligentes que respondem a uma corrente \nelétrica com um movimento mecânico. A oxidação e \nredução de um polímero condutor criam cargas positivas \ne/ou negativas no material, que são compensadas com a \ninserção ou expulsão de cátions ou ânions. Por exemplo, \nna figura os filmes escuros são de polipirrol e o filme branco \né de um eletrólito polimérico contendo um sal inorgânico. \nQuando o polipirrol sofre oxidação, há a inserção de \nânions para compensar a carga positiva no polímero e o \nfilme se expande. Na outra face do dispositivo o filme de \npolipirrol sofre redução, expulsando ânions, e o filme se \ncontrai. Pela montagem, em sanduíche, o sistema todo \nse movimenta de forma harmônica, conforme mostrado \nna figura.\n+\n-\n+\n-\nCorrente\nelétrica\nCorrente\nelétrica\nSem corrente\nelétrica\nAr\nAr\npolipirrol\npolipirrol\nEletrólito\npolimérico\nDE PAOLI, M. A. Cadernos Temáticos de Química Nova na Escola, \nSão Paulo, maio 2001 (adaptado).\nA camada central de eletrólito polimérico é importante \nporque\nA\t absorve a irradiação de partículas carregadas, \nemitidas pelo aquecimento elétrico dos filmes de \npolipirrol.\nB\t permite a difusão dos íons promovida pela aplicação \nde diferença de potencial, fechando o circuito elétrico.\nC\t mantém um gradiente térmico no material para \npromover a dilatação/contração térmica de cada filme \nde polipirrol.\nD\t permite a condução de elétrons livres, promovida \npela aplicação de diferença de potencial, gerando \ncorrente elétrica.\nE\t promove a polarização das moléculas poliméricas, o \nque resulta no movimento gerado pela aplicação de \ndiferença de potencial",
+  "processado_em": "2026-05-08T14:00:12.350751",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

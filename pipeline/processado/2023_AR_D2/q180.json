@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q180",
+  "imagem": "q180.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 180,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 180\t\nO metrô de um município oferece dois tipos de tíquetes c\nem cartelas, cada qual com nove tíquetes da mesma cor \numa cartela de tíquetes vermelhos são vendidas por R$ 32\nde um tíquete vermelho é igual ao preço de um tíquete ve\nQual o preço, em real, de uma cartela de tíquetes vermelh\nA\t\nA\t 4,68\nB\t\nB\t 6,30\nC\t\nC\t 9,30\nD\t\nD\t 10,50\nE\t\nE\t 10,65",
+  "processado_em": "2026-05-08T14:05:47.536775",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

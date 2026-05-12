@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 54\t\nDificilmente \npassa-se \numa \nnoite \nsem \nque \nalgum sitiante tenha seu celeiro ou sua pilha de \ncereais destruídos pelo fogo. Vários trabalhadores \nnão diretamente envolvidos nos ataques pareciam \napoiá-los, como se vê neste depoimento ao The Times: \n“deixa queimar, pena que não foi a casa”; “podemos nos \naquecer agora”; “nós só queríamos algumas batatas, \nhá um fogo ótimo para cozinhá-las”.\nHOBSBAWM, E.; RUDÉ, G. Capitão Swing. Rio de Janeiro: \nFrancisco Alves, 1982 (adaptado).\nA revolta descrita no texto, ocorrida na Inglaterra no \nséculo XIX, foi uma reação ao seguinte processo \nsocioespacial:\nA\t Restrição da propriedade privada.\nB\t Expropriação das terras comunais.\nC\t Imposição da estatização fundiária.\nD\t Redução da produção monocultora.\nE\t Proibição das atividades artesanais.",
+  "processado_em": "2026-05-11T23:27:25.237275",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 283.7
+  }
+}

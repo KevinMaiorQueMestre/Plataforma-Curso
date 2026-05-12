@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 173\t\nUm engenheiro é responsável por acompanhar o processo \nde controle de produção de uma fábrica de parafusos. \nEsse processo é considerado sob controle se o comprimento C \ndos parafusos satisfizer M - 3d ≤ C ≤ M + 3d sendo M a média \ndos comprimentos e d o desvio padrão dos comprimentos dos \nparafusos. Na última coleta de dados em que o processo foi \nconsiderado sob controle, foram obtidos M = 5,0 cm e d = 1,2 cm.\nCom a chegada de uma nova máquina, a variabilidade \ndos comprimentos dos parafusos foi reduzida, e o processo \nfoi considerado sob controle. A média dos comprimentos \ndos parafusos produzidos por essa nova máquina foi 5,6 cm, \ne nenhum desses parafusos teve comprimento menor que a \nmedida mínima, nem maior que a medida máxima dos parafusos \nproduzidos pela máquina anterior.\nO desvio padrão, em centímetro, para o novo intervalo deverá \nser, no máximo,\nA\t0,60.\nB\t1,00.\nC\t1,12.\nD\t1,2.\nE\t1,80.",
+  "processado_em": "2026-05-08T14:06:54.237074",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

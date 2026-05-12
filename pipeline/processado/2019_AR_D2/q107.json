@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q107",
+  "imagem": "q107.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 107,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 107\t\nEm qualquer obra de construção civil é fundamental a utilização de equipamentos de proteção individual, \ntal como capacetes. Por exemplo, a queda livre de um tijolo de massa 2,5 kg de uma altura de 5 m, cujo impacto \ncontra um capacete pode durar até 0,5 s, resulta em uma força impulsiva média maior do que o peso do tijolo. \nSuponha que a aceleração gravitacional seja 10 m s−2 e que o efeito de resistência do ar seja desprezível.\nA força impulsiva média gerada por esse impacto equivale ao peso de quantos tijolos iguais?\nA\t 2\nB\t 5\nC\t 10\nD\t 20\nE\t 50",
+  "processado_em": "2026-05-11T23:27:33.400872",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

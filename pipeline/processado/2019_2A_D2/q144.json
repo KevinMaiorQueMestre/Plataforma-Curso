@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 144\t\nAlguns modelos de rádios automotivos estão protegidos por um código de segurança. Para ativar o sistema \nde áudio, deve-se digitar o código secreto composto por quatro algarismos. No primeiro caso de erro na digitação, \na pessoa deve esperar 60 segundos para digitar o código novamente. O tempo de espera duplica, em relação \nao tempo de espera anterior, a cada digitação errada. Uma pessoa conseguiu ativar o rádio somente na quarta \ntentativa, sendo de 30 segundos o tempo gasto para digitação do código secreto a cada tentativa. Nos casos da \ndigitação incorreta, ela iniciou a nova tentativa imediatamente após a liberação do sistema de espera.\nO tempo total, em segundo, gasto por essa pessoa para ativar o rádio foi igual a\nA\t 300.\nB\t 420.\nC\t 540.\nD\t 660.\nE\t 1 020.",
+  "processado_em": "2026-05-11T23:27:11.971727",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

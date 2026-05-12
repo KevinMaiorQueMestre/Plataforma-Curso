@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q102",
+  "imagem": "q102.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 102,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 102\t\nO ser humano é incapaz de enxergar a radiação \ninfravermelha e as ondas de rádio (baixas frequências), \nassim como a ultravioleta e os raios X (altas frequências). \nA observação dessas faixas do espectro pode ser \nrealizada por meios indiretos, por exemplo, usando um \ncintilador, que é uma placa utilizada como sensor para \ndetectar um feixe de raios X, pois emite luz quando o \nfeixe incide sobre ela.\nPara que uma pessoa enxergue a incidência de raios X \nno cintilador, é necessário que essa placa\nA\t\nA\t reflita o feixe de raios X, alterando sua polarização.\nB\t\nB\t transmita o feixe de raios X, alterando sua polarização.\nC\t\nC\t absorva o feixe de raios X, reemitindo parte de sua \nenergia na região do visível.\nD\t\nD\t absorva o feixe de raios X, reemitindo parte de sua \nenergia na região do ultravioleta.\nE\t\nE\t absorva o feixe de raios X, reemitindo parte de sua \nenergia na região do infravermelho.",
+  "processado_em": "2026-05-08T14:05:24.684046",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

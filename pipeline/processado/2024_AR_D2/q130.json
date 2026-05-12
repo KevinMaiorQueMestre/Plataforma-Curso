@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2024,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 130\t\nCom base em testes realizados em ratos, concluiu-se \nque os compostos nitrosos são substâncias mutagênicas, \nou seja, produzem mutações nas células e possivelmente \ncâncer. Esses compostos podem ser obtidos pela reação \nentre o nitrito de sódio, que é um conservante adicionado \nàs carnes, e o ácido clorídrico. O ácido nitroso produzido \nirá reagir com compostos nitrogenados, como as aminas, \ndando origem aos compostos nitrosos.\nEm qual órgão esse processo será iniciado?\nA\tRim.\nB\tFígado.\nC\tIntestino.\nD\tPâncreas.\nE\tEstômago.",
+  "processado_em": "2026-05-08T14:06:19.109046",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

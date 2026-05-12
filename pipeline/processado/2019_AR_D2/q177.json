@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q177",
+  "imagem": "q177.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 177,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 177\t\nA taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do \nmunicípio (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população \nurbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião \nentre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de \nurbanização receberá um investimento extra em infraestrutura.\n14 000\n12 000\n10 000\n8 000\n6 000\n4 000\n2 000\n8 000\n10 000\n12 000\nI\nII\nIII\nIV\nV\n0\nPopulação rural\n4 000\n5 000\nSegundo o acordo, qual município receberá o investimento extra?\nA\t I\nB\t II\nC\t III\nD\t IV\nE\t V\n14 000\n12 000\n10 000\n8 000\n6 000\n4 000\n2 000\n0\n16 000\n18 000\n20 000\nPopulação urbana\n8 000\n10 000\n11 000\n18 000\n17 000\nI\nII\nIII\nIV\nV",
+  "processado_em": "2026-05-11T23:27:38.386914",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

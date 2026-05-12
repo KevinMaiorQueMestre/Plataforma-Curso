@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nProjeto na Câmara de BH quer a vacinação gratuita \nde cães contra a leishmaniose\nA doença é grave e vem causando preocupação na \nregião metropolitana da capital mineira\nEla é uma doença grave, transmitida pela picada do \nmosquito-palha, e afeta tanto os seres humanos quanto \nos cachorros: a leishmaniose. Por ser um problema de \nsaúde pública, a doença pode ganhar uma ação preventiva \nimportante, caso um projeto de lei seja aprovado na \nCâmara Municipal de Belo Horizonte (CMBH). Diante \ndo alto número de casos da doença na Grande BH, a \nComissão de Saúde e Saneamento da CMBH aprovou \na proposta de realização de campanhas públicas de \nvacinação gratuita de cães contra a leishmaniose, tema \ndo PL 404/17, apreciado pelo colegiado em reunião \nordinária, no dia 6 de dezembro.\nDisponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017.\nEssa notícia, além de cumprir sua função informativa, \nassume o papel de\nA\t\nA\t fiscalizar as ações de saúde e saneamento da \ncidade.\nB\t\nB\t defender os serviços gratuitos de atendimento à \npopulação.\nC\t\nC\t conscientizar a população sobre grave problema de \nsaúde pública.\nD\t\nD\t propor campanhas para a ampliação de acesso aos \nserviços públicos.\nE\t\nE\t responsabilizar os agentes públicos pela demora na \ntomada de decisões.",
+  "processado_em": "2026-05-08T14:05:00.186688",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

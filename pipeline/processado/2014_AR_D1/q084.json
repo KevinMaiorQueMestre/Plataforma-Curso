@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q084",
+  "imagem": "q084.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 84,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 84 \n Ao sintonizarmos uma estação de rádio ou um canal \nde TV em um aparelho, estamos alterando algumas \ncaracterísticas \nelétricas \nde \nseu \ncircuito \nreceptor. \nDas inúmeras ondas eletromagnéticas que chegam \nsimultaneamente ao receptor, somente aquelas que \noscilam com determinada frequência resultarão em \nmáxima absorção de energia.\nO fenômeno descrito é a\nA difração.\nB refração.\nC polarização.\nD interferência.\nE ressonância.",
+  "processado_em": "2026-05-08T14:00:32.187811",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

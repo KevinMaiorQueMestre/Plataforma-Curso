@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q120",
+  "imagem": "q120.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 120,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 120        \nEm 2011, uma falha no processo de perfuração \nrealizado por uma empresa petrolífera ocasionou \nderramamento de petróleo na bacia hidrográfica de \nCampos, no Rio de Janeiro.\nOs impactos decorrentes desse derramamento ocorrem \nporque os componentes do petróleo",
+  "processado_em": "2026-05-11T23:28:14.319793",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

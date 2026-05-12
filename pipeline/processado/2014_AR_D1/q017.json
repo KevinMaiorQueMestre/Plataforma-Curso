@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q017",
+  "imagem": "q017.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 17,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 17\t\nPAIVA, M. Disponível em: www.redes.unb.br. Acesso em: 25 maio 2014.\nA discussão levantada na charge, publicada logo após a \npromulgação da Constituição de 1988, faz referência ao \nseguinte conjunto de direitos:\nA\t Civis, como o direito à vida, à liberdade de expressão \ne à propriedade.\nB\t Sociais, como direito à educação, ao trabalho e à \nproteção à maternidade e à infância.\nC\t Difusos, como direito à paz, ao desenvolvimento \nsustentável e ao meio ambiente saudável.\nD\t Coletivos, como direito à organização sindical, à \nparticipação partidária e à expressão religiosa.\nE\t Políticos, como o direito de votar e ser votado, à \nsoberania popular e à participação democrática.",
+  "processado_em": "2026-05-08T14:00:27.897650",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

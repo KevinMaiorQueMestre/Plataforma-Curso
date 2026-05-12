@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 157 \nEm um jogo de computador, uma nave só pode se localizar \nem um dos vértices de um cubo com posição fixada na tela. \nA partir de um vértice, a nave só pode se deslocar para outro \nvértice que não lhe seja adjacente. A figura exemplifica algumas \npossibilidades de deslocamento da nave quando ela está \nposicionada no vértice V.\nO número total de deslocamentos distintos que podem ser \nobservados nesse jogo é\nA 16.\nB 24.\nC 26.\nD 32.\nE 56.",
+  "processado_em": "2026-05-08T14:06:37.674272",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 279.9
+  }
+}

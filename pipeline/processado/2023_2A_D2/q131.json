@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 131\t\nLentes fotocrômicas escurecem em ambientes externos \ncom alta incidência de luz ultravioleta (UVA), conforme \nilustrado. Uma vez na sombra, as lentes se tornam claras \nnovamente.\nAmbiente\ninterno\nAmbiente\nexterno\nEm lentes fotocrômicas de plástico, são utilizados \ncorantes orgânicos pertencentes à família dos \nindenonaftopiranos. Quando o corante fotocrômico \n(Estrutura 1) é exposto à alta incidência de radiação \nUVA, uma ligação química é quebrada. A molécula \nentão se rearranja, transformando-se em uma espécie \nque absorve radiação de comprimento de onda maior \n(Estrutura 2), fazendo com que a lente escureça.\nEstrutura 1\nEstrutura 2\nO\nUVA\nO\nERICKSON, B. Self-Darkening Eyeglasses. Chemical & Engineering News, \nn. 87, 2009 (adaptado).\nO escurecimento desse tipo de lente ocorre porque as \nmoléculas de indenonaftopirano\nA\t\nA\t polimerizam, pela alta incidência de radicais.\nB\t\nB\t tautomerizam, pela reação no grupo enol.\nC\t\nC\t polarizam a luz, pela alta energia da luz UVA absorvida.\nD\t\nD\t oxidam, pela conversão do grupo éter em uma carbonila.\nE\t\nE\t dispersam a luz, pela ampliação do tamanho da molécula.",
+  "processado_em": "2026-05-08T14:05:26.297138",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

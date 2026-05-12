@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q144",
+  "imagem": "q144.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 144,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 144\t\nUm pesquisador, ao explorar uma floresta, fotografou \numa caneta de 16,8 cm de comprimento ao lado de \numa pegada. O comprimento da caneta (c), a largura \n(L) e o comprimento (C) da pegada, na fotografia, estão \nindicados no esquema.\ncaneta\nc = 1,4 cm\nL = 2,2 cm\nC = 3,4 cm\nA largura e o comprimento reais da pegada, em \ncentímetros, são, respectivamente, iguais a\nA\t 4,9 e 7,6.\nB\t 8,6 e 9,8.\nC\t 14,2 e 15,4.\nD\t 26,4 e 40,8.\nE\t 27,5 e 42,5.",
+  "processado_em": "2026-05-08T14:00:56.927346",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

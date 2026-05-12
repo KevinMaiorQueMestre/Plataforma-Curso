@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D1_q004",
+  "imagem": "q004.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 4,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 4          \nOye, Pito, ésta es: la vida bruta de un boy\nmis tierras eran\nnuevo méxico, colorado,\ncalifornia, arizona, tejas,\ny muchos otros senderos,\naún cuando la luz existía\nsonrientemente",
+  "processado_em": "2026-05-11T23:27:58.166505",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

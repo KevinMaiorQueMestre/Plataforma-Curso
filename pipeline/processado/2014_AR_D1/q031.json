@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D1_q031",
+  "imagem": "q031.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 31,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 31\t\nA Praça da Concórdia, antiga Praça Luís XV, é a maior \npraça pública de Paris. Inaugurada em 1763, tinha em seu \ncentro uma estátua do rei. Situada ao longo do Sena, ela \né a intersecção de dois eixos monumentais. Bem nesse \ncruzamento está o Obelisco de Luxor, decorado com \nhieróglifos que contam os reinados dos faraós Ramsés II \ne Ramsés III. Em 1829, foi oferecido pelo vice-rei do Egito \nao povo francês e, em 1836, instalado na praça diante de \nmais de 200 mil espectadores e da família real.\nNOBLAT, R. Disponível em: www.oglobo.com. Acesso em: 12 dez. 2012.\nA constituição do espaço público da Praça da Concórdia \nao longo dos anos manifesta o(a)\nA\t lugar da memória na história nacional.\nB\t caráter espontâneo das festas populares.\nC\t lembrança da antiguidade da cultura local.\nD\t triunfo da nação sobre os países africanos.\nE\t declínio do regime de monarquia absolutista.",
+  "processado_em": "2026-05-08T14:00:28.682769",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

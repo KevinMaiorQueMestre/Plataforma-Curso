@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q131",
+  "imagem": "q131.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 131,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 131\t\nUm experimento simples, que pode ser realizado \ncom materiais encontrados em casa, é realizado da \nseguinte forma: adiciona-se um volume de etanol em \num copo de vidro e, em seguida, uma folha de papel. \nCom o passar do tempo, observa-se um comportamento \npeculiar: o etanol se desloca sobre a superfície do papel, \nsuperando a gravidade que o atrai no sentido oposto, \ncomo mostra a imagem. Para parte dos estudantes, isso \nocorre por causa da absorção do líquido pelo papel.\nPapel de filtro\nCopo de vidro\nEtanol\nDo ponto de vista científico, o que explica o movimento \ndo líquido é a\nA\t evaporação do líquido.\nB\t diferença de densidades.\nC\t reação química com o papel.\nD\t capilaridade nos poros do papel.\nE\t resistência ao escoamento do líquido.",
+  "processado_em": "2026-05-11T23:27:35.057979",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "direita",
+    "linha_x": 283.7
+  }
+}

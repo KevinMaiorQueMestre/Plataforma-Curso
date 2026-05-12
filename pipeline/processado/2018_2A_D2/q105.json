@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q105",
+  "imagem": "q105.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 105,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 105\t\nA fotossíntese é um processo físico-químico realizado \npor organismos clorofilados. Nos vegetais, é dividido \nem duas fases complementares: uma responsável pela \nsíntese de ATP e pela redução do NADP+ e a outra pela \nfixação de carbono.\nPara que a etapa produtora de ATP e NADPH ocorra, \nsão essenciais\nA\t água e oxigênio.\nB\t glicose e oxigênio.\nC\t radiação luminosa e água.\nD\t glicose e radiação luminosa.\nE\t oxigênio e dióxido de carbono.",
+  "processado_em": "2026-05-11T23:26:20.623222",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "esquerda",
+    "linha_x": 311.6
+  }
+}

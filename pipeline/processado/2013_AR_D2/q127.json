@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D2_q127",
+  "imagem": "q127.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 127,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 127\t\n (Tradução da placa: “Não me esqueçam quando eu for um nome importante.”)\nNAZARETH, P. Mercado de Artes / Mercado de Bananas. Miami Art Basel, EUA, 2011.\nDisponível em: www.40forever.com.br. Acesso em: 31 jul. 2012.\nA contemporaneidade identificada na performance /\ninstalação do artista mineiro Paulo Nazareth reside \nprincipalmente na forma como ele\nA\t resgata conhecidas referências do modernismo \nmineiro.\nB\t utiliza técnicas e suportes tradicionais na construção \ndas formas.\nC\t articula questões de identidade, território e códigos de \nlinguagens.\nD\t imita \no \npapel \ndas \ncelebridades \nno \nmundo \ncontemporâneo.\nE\t camufla o aspecto plástico e a composição visual de \nsua montagem.",
+  "processado_em": "2026-05-08T14:00:22.100803",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 290.7
+  }
+}

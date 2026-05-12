@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 124\n\u0019\u0010\b\u0002\r\u0007\b\u0005\tP\u0004\u0007\u0010\b'\u001d\u0004\u0002\u000b\fG\u0010\u000e\u001e\b\u0002\u000b\f\n\u0002\b\u001e\u0004\u0005\r\n\u001e\n\u0002\u000f\f\u0007\b\u0005\r\n\u0002\u0004\u0002\u001e\u0004\n{\u0002\u001e\u0004\u0005+\n\u001e\u000e\u000f\b\u0002\u001e\u0004\u0010\u0004\u0002P\n\u0004\u0006\r\u000e\u0005\u000eY\b'\u001d\u0004$\u0002\u0005\b\u0002\u000b\f\b2\u0002\b\u0002\u0010\u00042{\u001e\f2\b\u0002\u000f\n\u0002\u001e2\u0004\n4\u0004\u000e\u0002\u0007\n\b2\u000eY\b\u000f\u0004\u0002\f\u0010\u0002\n@%\n\u0007\u000e\u0010\n\u0005\r\u0004\u0002%\b\u0007\b\u0002\u000f\n\u0010\u0004\u0005\t\r\u0007\b\u0007\u0002\n\t\t\b\u0002\u0007\n\b'\u001d\nindicados no quadro foram aquecidos por 20 minutos.\nBéquer\nR\n1\nUma folha de couve picada e 150 mL \n2\n\u0019\u0010\b\u0002P\u00042+\b\u0002\u000f\n\u0002\u001e\u0004\f#\n\u0002%\u000e\u001e\b\u000f\b$\u0002&\u0002\u00107\u0002\n3\nUma folha de couve picada, 150 mL \n\u00177^=\u0014^\u0015\u0012$\u0002(\u00024(\u0002®\u0002\u001f\u0014\u0015\u0014^\u0015\u0012/\u0012^\u0012$\u0002\u0014(\u0002\u0003(\u0002\u00122\r\n\u0007\b'\u0011\n\t\u0002\u000f\n\u0002\u001e\u0004\u0007\u0002\u000f\u0004\t\u0002#\nJ\n\r\b\u000e\t\u0002%\u0004\u0007\u0002\u001e\u0004Y\u000e\u0010\n\u0005\r\u0004I\u0002\n@%\nFinalizado o experimento, a cor da couve, nos béqueres 1\nA  verde, verde e verde.\nB  amarela, verde e verde.\nC  verde, amarela e verde.\nD  amarela, amarela e verde.\nE  verde, amarela e amarela.",
+  "processado_em": "2026-05-08T14:04:14.821661",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

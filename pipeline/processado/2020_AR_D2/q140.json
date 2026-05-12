@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q140",
+  "imagem": "q140.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 140,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 140        \nMuitos modelos atuais de veículos possuem \ncomputador de bordo. Os computadores informam em \numa tela diversas variações de grandezas associadas \nao desempenho do carro, dentre elas o consumo médio \nde combustível. Um veículo, de um determinado modelo, \npode vir munido de um dos dois tipos de computadores \nde bordo:\n• Tipo A: informa a quantidade X de litro de \ncombustível gasto para percorrer 100 quilômetros;\n• Tipo B: informa a quantidade de quilômetro que \no veículo é capaz de percorrer com um litro de \ncombustível.\nUm veículo utiliza o computador do Tipo A, e ao fi nal \nde uma viagem o condutor viu apresentada na tela a \ninformação “X/100”.\nCaso o seu veículo utilizasse o computador do Tipo B, o \nvalor informado na tela seria obtido pela operação\nA X ∙100\nB X\n100\nC 100\nX\nD 1\nX\nE 1 ∙X",
+  "processado_em": "2026-05-11T23:28:16.307305",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

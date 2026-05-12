@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 74\t\nHouve uma rede de televisão brasileira que \nconseguiu, com ousadia e exclusividade, uma entrevista \ncom o presidente da Líbia, logo após o bombardeio de \nsua casa pela aviação estadunidense, em 1986. Foi \nconstrangedor para Kadafi e para os telespectadores \nouvir as perguntas: “O que o senhor sentiu quando \npercebeu o bombardeio? O que o senhor sentiu quando \nviu sua família ameaçada? O que o senhor achou \ndesse ato dos inimigos?”. Nenhuma pergunta sobre o \nsignificado do atentado na política e na geopolítica do \nOriente Próximo; nenhuma indagação que permitisse \nfurar o bloqueio das informações a que as agências \nnoticiosas estadunidenses submetem a Líbia.\nCHAUÍ, M. Simulacro e poder: uma análise da mídia. In: A ideologia da competência.\nBelo Horizonte: Autêntica, 2016.",
+  "processado_em": "2026-05-08T14:04:42.460816",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

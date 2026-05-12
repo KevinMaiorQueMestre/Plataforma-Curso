@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q168",
+  "imagem": "q168.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 168,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 168\t\nUm carpinteiro fabrica portas retangulares maciças, \nfeitas de um mesmo material. Por ter recebido de seus \nclientes pedidos de portas mais altas, aumentou sua \naltura em 1\n8\n, preservando suas espessuras. A fim de \nmanter o custo com o material de cada porta, precisou \nreduzir a largura.\nA razão entre a largura da nova porta e a largura da porta \nanterior é\nA\n1\n8\nB\n7\n8\nC\n8\n7\nD\n8\n9\nE\n9\n8",
+  "processado_em": "2026-05-08T14:00:40.110374",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q036",
+  "imagem": "q036.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 36,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 36\t\nTrechos do discurso de Ulysses Guimarães na \npromulgação da Constituição em 1988\nSenhoras e senhores constituintes.\nDois de fevereiro de 1987. Ecoam nesta sala as \nreivindicações das ruas. A Nação quer mudar. A Nação \ndeve mudar. A Nação vai mudar. São palavras constantes \ndo discurso de posse como presidente da Assembleia \nNacional Constituinte.\nHoje, 5 de outubro de 1988, no que tange à \nConstituição, a Nação mudou. A Constituição mudou \nna sua elaboração, mudou na definição dos Poderes. \nMudou restaurando a federação, mudou quando quer \nmudar o homem cidadão. E é só cidadão quem ganha \njusto e suficiente salário, lê e escreve, mora, tem hospital \ne remédio, lazer quando descansa.",
+  "processado_em": "2026-05-08T14:04:39.617784",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

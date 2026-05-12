@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D1_q061",
+  "imagem": "q061.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 61,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 61\t\nPor trás da “mágica” do Google Assistant de sua \ncapacidade de interpretar 26 idiomas está uma enorme \nequipe de linguistas distribuídos globalmente, trabalhando \ncomo subcontratados, que devem rotular tediosamente os \ndados de treinamento para que funcione. Eles ganham \nbaixos salários e são rotineiramente forçados a trabalhar \nhoras extras não remuneradas. A inteligência artificial não \nfunciona com um pozinho mágico. Ela funciona por meio \nde trabalhadores que treinam algoritmos incansavelmente \naté que eles automatizem seus próprios trabalhos.\nA Inteligência Artificial (IA) da economia freelancer está vindo atrás de você. \nDisponível em: https://mittechreview.com.br. Acesso em: 6 out. 2021 (adaptado).\nO texto critica a mudança tecnológica em razão da \nseguinte consequência:\nA\t\nA\t Diversificação da função.\nB\t\nB\t Mobilidade da população.\nC\t\nC\t Autonomia do empregado.\nD\t\nD\t Concentração da produção.\nE\t\nE\t Invisibilidade do profissional.",
+  "processado_em": "2026-05-08T14:05:37.424234",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

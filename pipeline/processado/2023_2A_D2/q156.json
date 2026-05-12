@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q156",
+  "imagem": "q156.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 156,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 156\t\nUma padaria criou uma receita de bolo chamada Bolo \nde xícara, pois, com exceção dos ovos e do fermento, \nos demais ingredientes são medidos com xícaras de \nmesma capacidade, conforme descrito.\nBolo de xícara\n1 colher de fermento em pó\n5 ovos\nxícara de farinha de trigo\n9_\n4\nxícara de chocolate em pó\n4_\n3\nxícara de açúcar\n1 3_\n4\nxícara de leite\n5_\n6\nIngredientes\nO modo de fazer a receita orienta colocar, primeiramente, \nos ovos e depois ir adicionando os ingredientes cujas \nquantidades foram medidas em xícara, da menor para a \nmaior quantidade. Por último, adiciona-se o fermento.\nEm qual ordem os ingredientes medidos em xícara serão \nadicionados na receita?\nA\t\nA\t Chocolate; leite; açúcar; farinha de trigo.\nB\t\nB\t Leite; chocolate; açúcar; farinha de trigo.\nC\t\nC\t Leite; chocolate; farinha de trigo; açúcar.\nD\t\nD\t Farinha de trigo; açúcar; chocolate; leite.\nE\t\nE\t Leite; farinha de trigo; açúcar; chocolate.",
+  "processado_em": "2026-05-08T14:05:28.093592",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 282.0
+  }
+}

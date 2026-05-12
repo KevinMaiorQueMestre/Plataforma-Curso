@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D1_q030",
+  "imagem": "q030.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 30,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 30\t\nTEXTO I\nEstratos\nNa passagem de uma língua para outra, algo \nsempre permanece, mesmo que não haja ninguém \npara se lembrar desse algo. Pois um idioma retém \nem si mais memórias que os seus falantes e, como \numa chapa mineral marcada por camadas de uma \nhistória mais antiga do que aquela dos seres viventes, \ninevitavelmente carrega em si a impressão das eras \npelas quais passou. Se as “línguas são arquivos da \nhistória”, elas carecem de livros de registro e catálogos. \nAquilo que contêm pode apenas ser consultado em \nparte, fornecendo ao pesquisador menos os elementos \nde uma biografia do que um estudo geológico de uma \nsedimentação realizada em um período sem começo ou \nsem fim definido.\nHELLER-ROAZEN, D. Ecolalias: sobre o esquecimento das línguas. \nCampinas: Unicamp, 2010.\nTEXTO II\nNa reflexão gramatical dos séculos XVI e XVII, \na influência árabe aparece pontualmente, e se reveste \nsobretudo de item bélico fundamental na atribuição de \nrudeza aos idiomas português e castelhano por seus \nrespectivos detratores. Parecer com o árabe, assim, \né uma acusação de dessemelhança com o latim.\nSOUZA, M. P. Linguística histórica. \nCampinas: Unicamp, 2006.\nRelacionando-se as ideias dos textos a respeito da \nhistória e memória das línguas, quanto à formação da \nlíngua portuguesa, constata-se que\nA\t a presença de elementos de outras línguas no \nportuguês foi historicamente avaliada como um \níndice de riqueza.\nB\t o estudioso da língua pode identificar com precisão \nos elementos deixados por outras línguas na \ntransformação da língua portuguesa.\nC\t o português é o resultado da influência de outras \nlínguas no passado e carrega marcas delas em suas \nmúltiplas camadas.\nD\t o árabe e o latim estão na formação escolar e na \nmemória dos falantes brasileiros.\nE\t a influência de outras línguas no português ocorreu \nde maneira uniforme ao longo da história.",
+  "processado_em": "2026-05-11T23:27:22.864335",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

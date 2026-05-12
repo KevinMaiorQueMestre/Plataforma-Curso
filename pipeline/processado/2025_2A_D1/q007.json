@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_2A_D1_q007",
+  "imagem": "q007.png",
+  "ano": 2025,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 7,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTãO 07 \nNESTI, F. Os lusíadas em quadrinhos. São Paulo: Peirópolis, 2006.\nEsse texto faz parte da adaptação da obra Os lusíadas, de Luís de \nCamões, narrativa épica sobre a expansão marítima portuguesa. \nO texto configura-se como sumário, pois os(as)\nA tópicos que compõem o livro são listados e paginados.\nB elementos não verbais dialogam com a temática da narrativa.\nC partes que constituem a narrativa estão destacadas graficamente.\nD títulos das seções resumem os acontecimentos da história \ncontada.\nE seções posfácio e biografia estão posicionadas conforme \nas normas editoriais.",
+  "processado_em": "2026-05-08T14:06:25.387358",
+  "_meta": {
+    "pagina": 5,
+    "coluna": "direita",
+    "linha_x": 279.9
+  }
+}

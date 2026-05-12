@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\t\nPara estimar a quantidade de tijolos a ser usada na \nconstrução de uma parede, é necessário saber como o \ntijolo será assentado, pois a estimativa depende de qual \nface do tijolo ficará aparente na parede.\nEm uma obra, um pedreiro deverá construir uma \nparede, na qual haverá uma janela, ambas em formato \nretangular, utilizando tijolos em forma de blocos de faces \ntambém retangulares, com as medidas indicadas na figura \na seguir.\nSegundo as orientações que recebeu, a janela não \npoderá ser tão pequena a ponto de a medida de sua área \nequivaler à área da face aparente de 100 tijolos, e nem tão \ngrande a ponto de ocupar uma área de medida maior ou \nigual a 1\n6\n da medida da área da parede, na situação em \nque não houvesse janela na parede. Despreze a espessura \nda massa para assentar esses tijolos.\nNessas condições, as quantidades mínima e máxima de \ntijolos que poderão ser utilizados na construção dessa \nparede são, respectivamente,\nA\t100 e 400.\nB\t100 e 2 400.\nC\t2 000 e 2 300.\nD\t733 e 2 396.\nE\t2 500 e 2 800.",
+  "processado_em": "2026-05-08T14:06:03.948490",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

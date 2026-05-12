@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D1_q054",
+  "imagem": "q054.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 54,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 54          \nAquilo que é quente necessita de umidade para viver, \ne o que é morto seca, e todos os germes são úmidos, e \ntodo alimento é cheio de suco; ora, é natural que cada \ncoisa se nutra daquilo de que provém.\nSIMPLÍCIO. In: BORNHEIM, G. A. Os filósofos pré-socráticos. \nSão Paulo: Cultrix, 1993.\nO fragmento atribuído ao filósofo Tales de Mileto é característico \ndo pensamento pré-socrático ao apresentar uma\nA \t abordagem epistemológica sobre o lógos e a \nfundamentação da metafísica.\nB \t teoria crítica sobre a essência e o método do \nconhecimento científico.\nC \t justificação religiosa sobre a existência e as \ncontradições humanas.\nD \t elaboração poética sobre os mitos e as narrativas \ncosmogônicas.\nE \t explicação racional sobre a origem e a transformação \nda physis",
+  "processado_em": "2026-05-08T14:03:30.227045",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

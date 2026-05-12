@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 155\t\nNo final de uma matéria sobre sorte e azar publicada \nem uma revista, o leitor tem a opção de realizar um teste \nno qual ele deve responder a dez perguntas sobre cinco \ntemas, sendo cinco sobre sorte e cinco sobre azar. Para \ncada pergunta, o leitor marca apenas uma alternativa \ndentre as seis opções de respostas, sendo que a \nalternativa escolhida está associada a uma nota entre os \nvalores 1, 3, 5, 7, 8 e 9.\nUm leitor respondeu ao teste, obtendo as notas de \nsorte e de azar para as perguntas e representou-as no \nQuadro 1.\nQuadro 1\nTema 1\nTema 2\nTema 3\nTema 4\nTema 5\nSorte\n1\n3\n9\n7\n7\nAzar\n8\n5\n5\n5\n9\nO resultado do teste x é calculado como sendo a \ndiferença entre as médias aritméticas das notas de sorte \ne de azar, nessa ordem. A classificação desse resultado é \ndada de acordo com o Quadro 2.\nQuadro 2\nResultado\nVocê é muito azarado\nx ≤ −4\nVocê é azarado\n−4 < x < −1\nVocê está na média\n−1 ≤ x ≤ 1\nVocê é sortudo\n1 < x < 4\nVocê é muito sortudo\nx ≥ 4\nSANTI, A.; KIST, C. Sorte: manual de instruções. Superinteressante, ago. 2012 (adaptado).\nDe acordo com os dados apresentados, a classificação \ndo resultado do teste desse leitor é\nA\t “Você é azarado”.\nB\t “Você é sortudo”.\nC\t “Você é muito azarado”.\nD\t “Você é muito sortudo”.\nE\t “Você está na média”.",
+  "processado_em": "2026-05-11T23:26:23.517974",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

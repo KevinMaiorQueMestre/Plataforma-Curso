@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 152\t\nO rótulo da embalagem de um cosmético informa \nque a dissolução de seu conteúdo, de acordo com suas \nespecificações, rende 2,7 litros desse produto pronto \npara o uso. Uma pessoa será submetida a um tratamento \nestético em que deverá tomar um banho de imersão \ncom esse produto numa banheira com capacidade de \n0,3 m3. Para evitar o transbordamento, essa banheira \nserá preenchida em 80% de sua capacidade.\nPara esse banho, o número mínimo de embalagens \ndesse cosmético é\nA\t 9.\nB\t 12.\nC\t 89.\nD\t 112.\nE\t 134.",
+  "processado_em": "2026-05-11T23:27:36.290763",
+  "_meta": {
+    "pagina": 22,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}

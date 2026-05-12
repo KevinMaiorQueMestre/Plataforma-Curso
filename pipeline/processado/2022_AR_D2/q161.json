@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nForam convidadas 32 equipes para um torneio de \nfutebol, que foram divididas em 8 grupos com 4 equipes, \nsendo que, dentro de um grupo, cada equipe disputa uma \núnica partida contra cada uma das demais equipes de \nseu grupo. A primeira e a segunda colocadas de cada \ngrupo seguem para realizar as 8 partidas da próxima \nfase do torneio, chamada oitavas de final. Os vencedores \ndas partidas das oitavas de final seguem para jogar \nas 4 partidas das quartas de final. Os vencedores das \nquartas de final disputam as 2 partidas das semifinais, e \nos vencedores avançam para a grande final, que define a \ncampeã do torneio.\nPelas regras do torneio, cada equipe deve ter um \nperíodo de descanso de, no mínimo, 3 dias entre dois \njogos por ela disputados, ou seja, se um time disputar \numa partida, por exemplo, num domingo, só poderá \ndisputar a partida seguinte a partir da quinta-feira da \nmesma semana.\nO número mínimo de dias necessários para a realização \ndesse torneio é\nA\t\nA\t 22.\nB\t\nB\t 25.\nC\t\nC\t 28.\nD\t\nD\t 48.\nE\t\nE\t 64.",
+  "processado_em": "2026-05-08T14:05:12.439876",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

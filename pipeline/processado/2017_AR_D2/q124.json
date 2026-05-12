@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\t\nO brinquedo pula-pula (cama elástica) é composto \npor uma lona circular flexível horizontal presa por molas \nà sua borda. As crianças brincam pulando sobre ela, \nalterando e alternando suas formas de energia. \nAo pular verticalmente, desprezando o atrito com o ar \ne os movimentos de rotação do corpo enquanto salta, \numa criança realiza um movimento periódico vertical em \ntorno da posição de equilíbrio da lona (h = 0), passando \npelos pontos de máxima e de mínima alturas, hmáx e hmín, \nrespectivamente.\nEsquematicamente, o esboço do gráfico da energia \ncinética da criança em função de sua posição vertical na \nsituação descrita é:\nA\nEc\n0\nh\nhmín\nhmáx\nB\nhmín\nhmáx\nEc\n0\nh\nC\n0\nh\nhmín\nhmáx\nEc\nD\nhmín\nhmáx\nEc\n0\nh\nE\nh\nh\nEc\n0\nh",
+  "processado_em": "2026-05-11T23:25:51.064925",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D1_q019",
+  "imagem": "q019.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 19,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": "C",
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 19\t\nDisponível em: http://primeira-serie.blogspot.com.br. Acesso em: 07 dez. 2011 (adaptado).\nNa imagem do início do século XX, identifica-se um modelo \nprodutivo cuja forma de organização fabril baseava-se na\nA\t autonomia do produtor direto.\nB\t adoção da divisão sexual do trabalho. \nC\t exploração do trabalho repetitivo.\nD\t utilização de empregados qualificados.\nE\t incentivo à criatividade dos funcionários.",
+  "processado_em": "2026-05-08T13:59:01.987843",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q110",
+  "imagem": "q110.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 110,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 110\t\nA química nuclear é uma importante ferramenta \nna produção de substâncias utilizadas na área da saúde \nhumana. A radiação emitida pelo cobalto-60 é utilizada na \nmedicina como ferramenta de diagnóstico e no tratamento \ndo câncer. No entanto, esse radioisótopo tem um tempo de \narmazenamento limitado, pois seu tempo de meia-vida é \nde 5,3 anos. Considere um frasco com uma amostra contendo \n2,00 mg de cobalto-60, armazenado durante um período \nde 26,5 anos.\nA massa de cobalto-60, em miligrama, que restará ao final \ndesse tempo é mais próxima de\nA\t2,00 mg.\nB\t1,00 mg.\nC\t0,40 mg.\nD\t0,13 mg.\nE\t0,06 mg.",
+  "processado_em": "2026-05-08T14:07:05.928187",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 287.0
+  }
+}

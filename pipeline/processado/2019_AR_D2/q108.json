@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q108",
+  "imagem": "q108.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 108,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 108\t\nOs hidrocarbonetos são moléculas orgânicas com uma série de aplicações industriais. Por exemplo, eles estão \npresentes em grande quantidade nas diversas frações do petróleo e normalmente são separados por destilação \nfracionada, com base em suas temperaturas de ebulição. O quadro apresenta as principais frações obtidas na \ndestilação do petróleo em diferentes faixas de temperaturas.\nFração\nFaixa de \ntemperatura (°C)\nExemplos de produto(s)\nNúmero de átomos de carbono \n(hidrocarboneto de fórmula geral CnH2n+2)\n1 \nAté 20 \nGás natural e gás de cozinha (GLP) \nC1 a C4 \n2 \n30 a 180 \nGasolina \nC6 a C12 \n3 \n170 a 290 \nQuerosene \nC11 a C16 \n4 \n260 a 350 \nÓleo diesel \nC14 a C18 \nSANTA MARIA, L. C. et al. Petróleo: um tema para o ensino de química. Química Nova na Escola, n. 15, maio 2002 (adaptado).\nNa fração 4, a separação dos compostos ocorre em temperaturas mais elevadas porque\nA\t suas densidades são maiores.\nB\t o número de ramificações é maior.\nC\t sua solubilidade no petróleo é maior.\nD\t as forças intermoleculares são mais intensas.\nE\t a cadeia carbônica é mais difícil de ser quebrada.",
+  "processado_em": "2026-05-11T23:27:33.463196",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "inteira",
+    "linha_x": 283.5
+  }
+}

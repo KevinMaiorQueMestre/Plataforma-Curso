@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q074",
+  "imagem": "q074.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 74,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 74\t\nA participação da mulher no processo de decisão \npolítica ainda é extremamente limitada em praticamente \ntodos \nos \npaíses, \nindependentemente \ndo \nregime \neconômico e social e da estrutura institucional vigente \nem cada um deles. É fato público e notório, além de \nempiricamente comprovado, que as mulheres estão em \ngeral sub-representadas nos órgãos do poder, pois a \nproporção não corresponde jamais ao peso relativo dessa \nparte da população.\nTABAK, F. Mulheres públicas: participação política e poder. Rio de Janeiro: Letra Capital, 2002.\nNo âmbito do Poder Legislativo brasileiro, a tentativa de \nreverter esse quadro de sub-representação tem envolvido \na implementação, pelo Estado, de\nA\t \tleis de combate à violência doméstica. \nB\t \tcotas de gênero nas candidaturas partidárias.\nC\t \tprogramas de mobilização política nas escolas.\nD\t \tpropagandas de incentivo ao voto consciente.\nE\t \tapoio financeiro às lideranças femininas.",
+  "processado_em": "2026-05-11T23:25:42.799006",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q113",
+  "imagem": "q113.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 113,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 113\t\nAvaliação de substâncias genotóxicas\nO ensaio de micronúcleos é um teste de avaliação de \ngenotoxicidade que associa a presença de micronúcleos \n(pequenos núcleos que aparecem próximo aos núcleos \ndas células) com lesões genéticas. Os micronúcleos são \nfragmentos de DNA encapsulados, provenientes do fuso \nmitótico durante a divisão celular.\nDIAS, V. M. Micronúcleos em células tumorais: biologia e implicações \npara a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).\nOs micronúcleos se originam dos(as)\nA\t\nA\t nucléolos.\nB\t\nB\t lisossomos.\nC\t\nC\t ribossomos.\nD\t\nD\t mitocôndrias.\nE\t\nE\t cromossomos.",
+  "processado_em": "2026-05-08T14:05:44.050548",
+  "_meta": {
+    "pagina": 8,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

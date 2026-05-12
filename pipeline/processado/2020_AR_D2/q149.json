@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 149        \nUma  empresa de ônibus utiliza um sistema de \nvendas de passagens que fornece a imagem de todos \nos assentos do ônibus, diferenciando os assentos já \nvendidos, por uma cor mais escura, dos assentos ainda \ndisponíveis. A empresa monitora, permanentemente, \no número de assentos já vendidos e compara-o com \no número total de assentos do ônibus para avaliar a \nnecessidade de alocação de veículos extras. \nNa imagem tem-se a informação dos assentos já \nvendidos e dos ainda disponíveis em um determinado \ninstante.\nA razão entre o número de assentos já vendidos e o total \nde assentos desse ônibus, no instante considerado na \nimagem, é\nA 16\n42\nB 16\n26   \t \nC 26\n42  \nD  42\n26\nE  \n42\n16",
+  "processado_em": "2026-05-11T23:28:17.322578",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

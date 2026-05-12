@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q087",
+  "imagem": "q087.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 87,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 87\t\nPortadores de diabetes insipidus reclamam da \nconfusão feita pelos profissionais da saúde quanto aos \ndois tipos de diabetes: mellitus e insipidus. Enquanto \no primeiro tipo está associado aos níveis ou à ação da \ninsulina, o segundo não está ligado à deficiência desse \nhormônio. O diabetes insipidus é caracterizado por um \ndistúrbio na produção ou no funcionamento do hormônio \nantidiurético (na sigla em inglês, ADH), secretado pela \nneuro-hipófise para controlar a reabsorção de água pelos \ntúbulos renais.\nTendo em vista o papel funcional do ADH, qual é \num sintoma clássico de um paciente acometido por \ndiabetes insipidus?\nA\t Alta taxa de glicose no sangue.\nB\t Aumento da pressão arterial.\nC\t Ganho de massa corporal.\nD\t Anemia crônica.\nE\t Desidratação.",
+  "processado_em": "2026-05-08T14:01:11.822624",
+  "_meta": {
+    "pagina": 31,
+    "coluna": "esquerda",
+    "linha_x": 314.1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_AR_D2_q176",
+  "imagem": "q176.png",
+  "ano": 2021,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 176,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A  I.\nB  II.\nC  III.\nD  IV.\nE  V.\nQuestão 176\nAplicativos que gerenciam serviços de hospedagem \ntêm ganhado espaço no Brasil e no mundo por oferecer \n\u0004%'\u0011\n\t\u0002\u000f\u000eP\n\u0007\n\u0005\u001e\u000e\b\u000f\b\t\u0002\n\u0010\u0002\r\n\u0007\u0010\u0004\t\u0002\u000f\n\u00022\u0004\u001e\b2\u000e\b'\u001d\u0004\u0002\n\u0002#\b2\u0004\u0007\n\t\u0002\nde hospedagem. Em um desses aplicativos, o preço P a \nser pago  pela hospedagem é calculado considerando um \npreço por diária d$\u0002\b\u001e\u0007\n\t\u001e\u000e\u000f\u0004\u0002\u000f\n\u0002\f\u0010\b\u0002\r\b@\b\u0002\u0006@\b\u0002\u000f\n\u00022\u000e\u0010%\n\b\u0002L \ne de uma taxa de serviço. Essa taxa de serviço é um valor \npercentual s calculado sobre o valor pago pelo total das \ndiárias.\n\u0016\n\t\t\b\u0002\t\u000e\r\f\b'\u001d\u0004$\u0002\u0004\u0002%\u0007\n'\u0004\u0002\b\u0002\t\n\u0007\u0002%\bJ\u0004\u0002\b\u0004\u0002\b%2\u000e\u001e\b\r\u000e#\u0004\u0002%\b\u0007\b\u0002\f\u0010\b\u0002\nhospedagem de n\u0002\u000f\u000e?\u0007\u000e\b\t\u0002%\u0004\u000f\n\u0002\t\n\u0007\u0002\u0004!\r\u000e\u000f\u0004\u0002%\n2\b\u0002\n@%\u0007\n\t\t\u001d\u0004\nA  P = d\rn + L + d\rn\rs\nB  P = d\rn + L + d\rs\nC  P = d + L + s\nD  P = d\rn\rs + L",
+  "processado_em": "2026-05-08T14:04:33.082789",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

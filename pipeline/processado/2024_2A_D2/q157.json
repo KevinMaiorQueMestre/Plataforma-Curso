@@ -1,0 +1,26 @@
+{
+  "questao_id": "2024_2A_D2_q157",
+  "imagem": "q157.png",
+  "ano": 2024,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 157,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 157\t\nUma escala termométrica X marca −10 °X para o ponto \nde fusão da água e 140 °X para o seu ponto de ebulição. \nNa escala Celsius, as temperaturas de fusão e de ebulição \nda água são 0 °C e 100 °C, respectivamente. O gráfico que \nexpressa a relação entre essas duas escalas é uma reta.\nA figura apresenta a representação de cinco gráficos \n(I, II, III, IV e V) num sistema de coordenadas cartesianas.\nQual gráfico representa a relação entre as temperaturas \nnas escalas Celsius e X?\nA\tI\nB\tII\nC\tIII\nD\tIV\nE\tV",
+  "processado_em": "2026-05-08T14:06:04.699039",
+  "_meta": {
+    "pagina": 23,
+    "coluna": "direita",
+    "linha_x": 284.3
+  }
+}

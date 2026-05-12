@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q099",
+  "imagem": "q099.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 99,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 99\t\nEm casa, Hideo ainda podia seguir fiel ao imperador \njaponês e às tradições que trouxera no navio que \naportara em Santos. […] Por isso Hideo exigia que, aos \ndomingos, todos estivessem juntos durante o almoço. \nEle se sentava à cabeceira da mesa; à direita ficava \nHanashiro, que era o primeiro filho, e Hitoshi, o segundo, \ne à esquerda, Haruo, depois Hiroshi, que era o mais \nnovo. […] A esposa, que também era mãe, e as filhas, \nque também eram irmãs, aguardavam de pé ao redor da \nmesa […]. Haruo reclamava, não se cansava de reclamar: \nque se sentassem também as mulheres à mesa, que era \num absurdo aquele costume. Quando se casasse, se \nsentariam à mesa a esposa e o marido, um em frente \nao outro, porque não era o homem melhor que a mulher \npara ser o primeiro […]. Elas seguiam de pé, a mãe um \npouco cansada dos protestos do filho, pois o momento do \nalmoço era sagrado, não era hora de levantar bandeiras \ninúteis […].\nNAKASATO, O. Nihonjin. São Paulo: Benvirá, 2011 (fragmento).\nReferindo-se a práticas culturais de origem nipônica, o \nnarrador registra as reações que elas provocam na família \ne mostra um contexto em que\nA\t a obediência ao imperador leva ao prestígio pessoal.\nB\t as novas gerações abandonam seus antigos hábitos.\nC\t a refeição é o que determina a agregação familiar.\nD\t os conflitos de gênero tendem a ser neutralizados.\nE\t o lugar à mesa metaforiza uma estrutura de poder.",
+  "processado_em": "2026-05-08T14:01:15.139100",
+  "_meta": {
+    "pagina": 6,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

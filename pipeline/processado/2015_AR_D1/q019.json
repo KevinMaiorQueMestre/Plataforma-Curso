@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q019",
+  "imagem": "q019.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 19,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 19\t\nZIRALDO. 20 anos de prontidão. In: LEMOS, R. (Org.). Uma história do Brasil através da \ncaricatura (1840-2001). Rio de Janeiro: Letras & Expressões, 2001.\nNo período de 1964 a 1985, a estratégia do Regime Militar \nabordada na charge foi caracterizada pela\nA\t priorização da segurança nacional.\nB\t captação de financiamentos estrangeiros.\nC\t execução de cortes nos gastos públicos.\nD\t nacionalização de empresas multinacionais. \nE\t promoção de políticas de distribuição de renda.",
+  "processado_em": "2026-05-08T14:00:43.875424",
+  "_meta": {
+    "pagina": 7,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

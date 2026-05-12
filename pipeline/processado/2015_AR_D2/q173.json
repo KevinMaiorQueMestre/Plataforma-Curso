@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D2_q173",
+  "imagem": "q173.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 173,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 173\t\nAlguns \nmedicamentos \npara \nfelinos \nsão \nadministrados com base na superfície corporal do \nanimal. Foi receitado a um felino pesando 3,0 kg um \nmedicamento na dosagem diária de 250 mg por metro \nquadrado de superfície corporal.\nO quadro apresenta a relação entre a massa do felino, \nem quilogramas, e a área de sua superfície corporal, em \nmetros quadrados.\nRelação entre a massa de um felino \ne a área de sua superfície corporal\nMassa (kg)\nÁrea (m²)\n1,0\n0,100\n2,0\n0,159\n3,0\n0,208\n4,0\n0,252\n5,0\n0,292\nNORSWORTHY, G. D. O paciente felino. São Paulo: Roca, 2009. \nA dose diária, em miligramas, que esse felino deverá \nreceber é de\nA\t 0,624.\nB\t 52,0.\nC\t 156,0.\nD\t 750,0.\nE\t 1 201,9.",
+  "processado_em": "2026-05-08T14:00:59.256290",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

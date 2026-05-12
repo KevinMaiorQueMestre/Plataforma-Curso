@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q143",
+  "imagem": "q143.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 143,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 143\t\nO gráfico mostra a variação da extensão média de \ngelo marítimo, em milhões de quilômetros quadrados, \ncomparando dados dos anos 1995, 1998, 2000, 2005 e 2007. \nOs dados correspondem aos meses de junho a setembro. \nO Ártico começa a recobrar o gelo quando termina o \nverão, em meados de setembro. O gelo do mar atua \ncomo o sistema de resfriamento da Terra, refletindo quase \ntoda a luz solar de volta ao espaço. Águas de oceanos \nescuros, por sua vez, absorvem a luz solar e reforçam \no aquecimento do Ártico, ocasionando derretimento \ncrescente do gelo.\nExtensão de gelo marítimo\n15\n12\n9\n6\n3\nJunho                             Julho\nAgosto                       Setembro\n1995\n1998\n2000\n2005\n2007\nDisponível em: http://sustentabilidade.allianz.com.br. Acesso em: fev. 2012 (adaptado).\nCom base no gráfico e nas informações do texto, é \npossível inferir que houve maior aquecimento global em\nA\t 1995.\nB\t 1998.\nC\t 2000.\nD\t 2005.\nE 2007",
+  "processado_em": "2026-05-08T13:59:47.293876",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

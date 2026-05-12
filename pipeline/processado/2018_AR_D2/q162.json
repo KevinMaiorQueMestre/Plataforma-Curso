@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\nOs alunos da disciplina de estatística, em um curso \nuniversitário, realizam quatro avaliações por semestre \nFRP\u0003RV\u0003SHVRV\u0003GH\u0003\u0015\u0013\b\u000f\u0003\u0014\u0013\b\u000f\u0003\u0016\u0013\b\u0003H\u0003\u0017\u0013\b\u000f\u0003UHVSHFWLYDPHQWH\u0011\u0003\n1R\u0003 ¿QDO\u0003 GR\u0003 VHPHVWUH\u000f\u0003 SUHFLVDP\u0003 REWHU\u0003 XPD\u0003 PpGLD\u0003 QDV\u0003\nquatro avaliações de, no mínimo, 60 pontos para serem \naprovados. Um estudante dessa disciplina obteve os \nVHJXLQWHV\u0003SRQWRV\u0003QDV\u0003WUrV\u0003SULPHLUDV\u0003DYDOLDo}HV\u001d\u0003\u0017\u0019\u000f\u0003\u0019\u0013\u0003H\u0003\n50, respectivamente.\nO mínimo de pontos que esse estudante precisa obter na \nTXDUWD\u0003DYDOLDomR\u0003SDUD\u0003VHU\u0003DSURYDGR\u0003p\nA \u0015\u001c\u000f\u001b\u0011\nB \u001a\u0014\u000f\u0013\u0011\nC \u001a\u0017\u000f\u0018\u0011\nD \u001a\u0018\u000f\u0018\u0011\nE \u001b\u0017\u000f\u0013\u0011",
+  "processado_em": "2026-05-11T23:26:49.444422",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

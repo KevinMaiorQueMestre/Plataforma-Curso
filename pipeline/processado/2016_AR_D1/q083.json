@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D1_q083",
+  "imagem": "q083.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 83,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 83\t\nO Brasil possui um grande número de espécies \ndistintas entre animais, vegetais e microrganismos \nenvoltos em uma imensa complexidade e distribuídas em \numa grande variedade de ecossistemas.\nSANDES, A. R. R.; BLASI, G. Biodiversidade e diversidade química e genética. \n Disponível em: http://novastecnologias.com.br. Acesso em: 22 set. 2015 (adaptado).\nO incremento da variabilidade ocorre em razão da \npermuta genética, a qual propicia a troca de segmentos \nentre cromátides não irmãs na meiose.\nEssa troca de segmentos é determinante na \nA\t produção de indivíduos mais férteis.\nB\t transmissão de novas características adquiridas.\nC\t recombinação genética na formação dos gametas.\nD\t ocorrência de mutações somáticas nos descendentes.\nE\t variação do número de cromossomos característico \nda espécie.",
+  "processado_em": "2026-05-08T14:01:11.613344",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

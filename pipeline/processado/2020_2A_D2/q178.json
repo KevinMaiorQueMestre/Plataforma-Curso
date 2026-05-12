@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q178",
+  "imagem": "q178.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 178,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 178          \nUm síndico precisa pintar os muros, portões e calça\nde tinta T1 para os muros, um galão de tinta T2 para os \npesquisou o preço das tintas em cinco lojas diferentes, ob\nLoja\nT1\n 1 \n82,00\n 2 \n80,00\n 3 \n85,00\n 4 \n88,00\n 5 \n90,00\n \nO síndico irá comprar as tintas numa única loja, esco\nmenor preço médio por galão.\nCom base nessas informações, a loja escolhida será\nA\t 1.\nB\t 2.\nC \t 3.\nD \t 4.\nE \t 5.",
+  "processado_em": "2026-05-08T14:03:40.478164",
+  "_meta": {
+    "pagina": 30,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

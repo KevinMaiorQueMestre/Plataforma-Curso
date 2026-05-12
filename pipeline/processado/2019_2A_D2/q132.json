@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_2A_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2019,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 132\t\nUm professor percebeu que seu apontador a \nlaser, de luz monocromática, estava com o brilho \npouco intenso. Ele trocou as baterias do apontador e \nnotou que a intensidade luminosa aumentou sem que \na cor do laser se alterasse. Sabe-se que a luz é uma \nonda eletromagnética e apresenta propriedades como \namplitude, comprimento de onda, fase, frequência \ne velocidade.\nDentre as propriedades de ondas citadas, aquela \nassociada ao aumento do brilho do laser é o(a)\nA\t amplitude.\nB\t frequência.\nC\t fase da onda.\nD\t velocidade da onda.\nE\t comprimento de onda.",
+  "processado_em": "2026-05-11T23:27:10.540025",
+  "_meta": {
+    "pagina": 16,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

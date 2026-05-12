@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AR_D2_q130",
+  "imagem": "q130.png",
+  "ano": 2025,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 130,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 130\t\nA resistência de um fio de platina pode ser usada para \nmedir temperaturas entre 0 °C e 100 °C e já foi utilizada como \nreferência para a escala internacional de temperatura. Para \num sensor feito de platina, a relação entre a resistência e \na temperatura pode ser descrita por uma equação do tipo \nR(T) = A + BT, em que T é a temperatura e A e B são constantes. \nO gráfico apresenta a dependência da resistência em função \nda temperatura para cinco diferentes sensores.\nOs sensores que apresentam maior sensibilidade são\nA\t1 e 2.\nB\t1 e 3.\nC\t2 e 3.\nD\t2 e 4.\nE\t2 e 5.",
+  "processado_em": "2026-05-08T14:07:08.001367",
+  "_meta": {
+    "pagina": 14,
+    "coluna": "direita",
+    "linha_x": 287.0
+  }
+}

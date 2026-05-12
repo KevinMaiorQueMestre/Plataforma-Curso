@@ -1,0 +1,26 @@
+{
+  "questao_id": "2013_AR_D1_q038",
+  "imagem": "q038.png",
+  "ano": 2013,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 38,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 38\t\nA recuperação da herança cultural africana deve \nlevar em conta o que é próprio do processo cultural: seu \nmovimento, pluralidade e complexidade. Não se trata, \nportanto, do resgate ingênuo do passado nem do seu \ncultivo nostálgico, mas de procurar perceber o próprio \nrosto cultural brasileiro. O que se quer é captar seu \nmovimento para melhor compreendê-lo historicamente.\nMINAS GERAIS. Cadernos do Arquivo 1: Escravidão em Minas Gerais.\nBelo Horizonte: Arquivo Público Mineiro, 1988.\nCom base no texto, a análise de manifestações culturais \nde origem africana, como a capoeira ou o candomblé, \ndeve considerar que elas\nA\t permanecem como reprodução dos valores e \ncostumes africanos.\nB\t perderam a relação com o seu passado histórico.\nC\t derivam da interação entre valores africanos e a \nexperiência histórica brasileira.\nD\t contribuem para o distanciamento cultural entre \nnegros e brancos no Brasil atual.\nE\t demonstram a maior complexidade cultural dos \nafricanos em relação aos europeus.",
+  "processado_em": "2026-05-08T14:00:11.746532",
+  "_meta": {
+    "pagina": 12,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

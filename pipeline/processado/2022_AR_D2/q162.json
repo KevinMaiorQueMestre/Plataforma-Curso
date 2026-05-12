@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_AR_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2022,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nEm um jogo de bingo, as cartelas contêm \n16 quadrículas dispostas em linhas e colunas. Cada \nquadrícula tem impresso um número, dentre os inteiros \nde 1 a 50, sem repetição de número. Na primeira rodada, \num número é sorteado, aleatoriamente, dentre os 50 \npossíveis. Em todas as rodadas, o número sorteado \né descartado e não participa dos sorteios das rodadas \nseguintes. Caso o jogador tenha em sua cartela o número \nsorteado, ele o assinala na cartela. Ganha o jogador que \nprimeiro \nconseguir \npreencher \nquatro \nquadrículas \nque formam uma linha, uma coluna ou uma diagonal, \nconforme os tipos de situações ilustradas na Figura 1.\nPreenchimento \nem linha\nPreenchimento \nem coluna\nPreenchimento \nem diagonal\nFigura 1\nO jogo inicia e, nas quatro primeiras rodadas, foram \nsorteados os seguintes números: 03, 27, 07 e 48. Ao \nfinal da quarta rodada, somente Pedro possuía uma \ncartela que continha esses quatro números sorteados, \nsendo que todos os demais jogadores conseguiram \nassinalar, no máximo, um desses números em suas \ncartelas. Observe na Figura 2 o cartão de Pedro após as \nquatro primeiras rodadas.\nFigura 2\n03\n48\n07\n27\n49\n11\n12\n22\n05\n29\n50\n19\n45\n33\n23\n38\nA probabilidade de Pedro ganhar o jogo em uma das duas \npróximas rodadas é\nA\t\nA\t\n1\n46\n1\n45\n+\nB\t\nB\t\n1\n46\n2\n46 45\n\u001f\n\u001e\nC\t\nC\t\n1\n46\n8\n46 45\n\u001f\n\u001e\nD\t\nD\t\n1\n46\n43\n46 45\n\u001f\n\u001e\nE\t\nE\t\n1\n46\n49\n46 45",
+  "processado_em": "2026-05-08T14:05:12.503142",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 283.5
+  }
+}

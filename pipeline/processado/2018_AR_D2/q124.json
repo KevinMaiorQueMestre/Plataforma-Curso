@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D2_q124",
+  "imagem": "q124.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 124,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 124\n1RV\u0003PDQXDLV\u0003GH\u0003LQVWDODomR\u0003GH\u0003HTXLSDPHQWRV\u0003GH\u0003VRP\u0003\nhá o alerta aos usuários para que observem a correta \nSRODULGDGH\u0003GRV\u0003¿RV\u0003DR\u0003UHDOL]DUHP\u0003DV\u0003FRQH[}HV\u0003GDV\u0003FDL[DV\u0003\nGH\u0003VRP\u0011\u0003$V\u0003¿JXUDV\u0003LOXVWUDP\u0003R\u0003HVTXHPD\u0003GH\u0003FRQH[mR\u0003GDV\u0003\ncaixas de som de um equipamento de som mono, no qual \nRV\u0003DOWR\u0010IDODQWHV\u0003HPLWHP\u0003DV\u0003PHVPDV\u0003RQGDV\u0011\u00031R\u0003SULPHLUR\u0003\nFDVR\u000f\u0003D\u0003OLJDomR\u0003REHGHFH\u0003jV\u0003HVSHFL¿FDo}HV\u0003GR\u0003IDEULFDQWH\u0003\nH\u0003QR\u0003VHJXQGR\u0003PRVWUD\u0003XPD\u0003OLJDomR\u0003QD\u0003TXDO\u0003D\u0003SRODULGDGH\u0003\nestá invertida.\nE\nSaídas do equipamento de som\nCaixa de som\nCaixa de som\nE\nD\nD\nPolaridade correta\nE\nE\nD\nD\nSaídas do equipamento de som\nCaixa de som\nCaixa de som\nPolaridade invertida\n2\u0003 TXH\u0003 RFRUUH\u0003 FRP\u0003 RV\u0003 DOWR\u0010IDODQWHV\u0003 E e D se forem \nconectados de acordo com o segundo esquema?\nA 2\u0003DOWR\u0010IDODQWH\u0003E funciona normalmente e o D entra em \nFXUWR\u0010FLUFXLWR\u0003H\u0003QmR\u0003HPLWH\u0003VRP\u0011\nB 2\u0003DOWR\u0010IDODQWH\u0003E emite ondas sonoras com frequências \nOLJHLUDPHQWH\u0003GLIHUHQWHV\u0003GR\u0003DOWR\u0010IDODQWH\u0003D provocando \no fenômeno de batimento.\nC 2\u0003DOWR\u0010IDODQWH\u0003E emite ondas sonoras com frequências \nH\u0003 IDVHV\u0003 GLIHUHQWHV\u0003 GR\u0003 DOWR\u0010IDODQWH\u0003 D provocando o \nfenômeno conhecido como ruído.\nD 2\u0003DOWR\u0010IDODQWH\u0003E emite ondas sonoras que apresentam \nXP\u0003ODSVR\u0003GH\u0003WHPSR\u0003HP\u0003UHODomR\u0003jV\u0003HPLWLGDV\u0003SHOR\u0003DOWR\u0010\n\u0010IDODQWH\u0003D\u0003SURYRFDQGR\u0003R\u0003IHQ{PHQR\u0003GH\u0003UHYHUEHUDomR\u0011\nE 2\u0003 DOWR\u0010IDODQWH\u0003 E\u0003 HPLWH\u0003 RQGDV\u0003 VRQRUDV\u0003 HP\u0003 RSRVLomR\u0003\nGH\u0003 IDVH\u0003 jV\u0003 HPLWLGDV\u0003 SHOR\u0003 DOWR\u0010IDODQWH\u0003 D provocando \nf\nô\nd\ni t\nf\nê\ni\nd\nt\nti\nt",
+  "processado_em": "2026-05-11T23:26:47.298792",
+  "_meta": {
+    "pagina": 11,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

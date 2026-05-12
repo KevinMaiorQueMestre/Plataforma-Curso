@@ -1,0 +1,26 @@
+{
+  "questao_id": "2021_2A_D2_q139",
+  "imagem": "q139.png",
+  "ano": 2021,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 139,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "A  I.\nB  II.\nC  III.\nD  IV.\nE  V.\nQuestão 139\nUm fabricante produz cinco tipos de enfeites de \nNatal. Para saber o lucro líquido correspondente a cada \ntipo de enfeite, criou um quadro com os valores de custo \n`\u0010\b\r{\u0007\u000e\b/%\u0007\u000e\u0010\b\u0002\n\u0002\u0010\u001d\u0004\u0002\u000f\n\u0002\u0004!\u0007\bk\u0002\n\u0002\u000f\n\u0002#\n\u0005\u000f\b\u0002%\u0004\u0007\u0002\f\u0005\u000e\u000f\b\u000f\n$\u0002\nem real, além da quantidade vendida para cada tipo de \nenfeite.\nTipo\nMatéria-\n-prima (R$)\nMão de \nobra (R$)\nValor de \nvenda (R$)\nQuantidade \nvendida\nI\n1,30\n1,50\n5,00\n5 000\nII\n1,00\n2,00\n5,50\n4 800\nIII\n1,10\n1,40\n5,00\n4 750\nIV\n1,50\n2,00\n7,00\n4 600\nV\n1,20\n2,50\n7,50\n4 200\nQual tipo de enfeite de Natal gera maior lucro líquido para \no fabricante?\nA  I\nB  II\nC  III\nD  IV\nE  V",
+  "processado_em": "2026-05-08T14:04:15.455852",
+  "_meta": {
+    "pagina": 15,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

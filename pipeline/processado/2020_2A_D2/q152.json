@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_2A_D2_q152",
+  "imagem": "q152.png",
+  "ano": 2020,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 152,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "E\t 10\nQuestão 152          \nProvedores de conteúdos postam anúncios de \nempresas em seus websites. O provedor A cobra R$ 0,10 \npor clique feito no anúncio, além do pagamento de uma \ntaxa de contratação de R$ 50,00. O provedor B cobra uma \ntaxa de contratação por anúncio mais atrativa, no valor de \nR$ 20,00, mais um valor por clique feito no anúncio. Para \num anúncio que receberá 100 cliques, o provedor B fixará \numa proposta com um valor a ser cobrado por clique, de \nmodo que venha a receber, pelo menos, o mesmo total \nque receberia o provedor A.\nO gerente do provedor B deve avaliar os valores por \nclique a serem fixados.\nO valor mínimo que o gerente do provedor B deverá \nescolher é\nA \t R$ 0,11\nB \t R$ 0,14\nC \t R$ 0,30\nD \t R$ 0,40  \nE \t R$ 0,41",
+  "processado_em": "2026-05-08T14:03:38.840261",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

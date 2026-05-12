@@ -1,0 +1,26 @@
+{
+  "questao_id": "2025_AB_D2_q119",
+  "imagem": "q119.png",
+  "ano": 2025,
+  "aplicacao": "AB",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 119,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 119\t\nUm empresário sul-africano definiu o Hyperloop como a ún\nde trem que se locomove sem atrito, levitando magneticam\npercurso, o ar vai sendo extraído do túnel, e a diferença de pres\ncom passageiros seja colocada em movimento e siga deslocan\ntrilhos convencionais, ela é levitada e guiada por campos eletr\nO Hyperloop se desloca de acordo com o mesmo princípio físic\nA\tfoguete subindo enquanto ejeta gases para baixo.\nB\tlíquido sendo sugado pelo canudo do copo até a boca.\nC\telétron abandonado entre as placas de um capacitor plano\nD\tpróton ganhando velocidade dentro de um acelerador de p\nE\tsubmarino emergindo conforme a água é extraída de seus t",
+  "processado_em": "2026-05-08T14:06:51.151629",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

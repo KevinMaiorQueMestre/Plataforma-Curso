@@ -1,0 +1,26 @@
+{
+  "questao_id": "2014_AR_D2_q161",
+  "imagem": "q161.png",
+  "ano": 2014,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 161,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 161\t\nUma loja que vende sapatos recebeu diversas \nreclamações de seus clientes relacionadas à venda \nde sapatos de cor branca ou preta. Os donos da loja \nanotaram as numerações dos sapatos com defeito e \nfizeram um estudo estatístico com o intuito de reclamar \ncom o fabricante.\nA tabela contém a média, a mediana e a moda desses \ndados anotados pelos donos.\nEstatísticas sobre as numerações\ndos sapatos com defeito\n \nMédia\nMediana\nModa\nNumerações dos \nsapatos com defeito\n36\n37\n38\nPara quantificar os sapatos pela cor, os donos \nrepresentaram a cor branca pelo número 0 e a cor preta \npelo número 1. Sabe-se que a média da distribuição \ndesses zeros e uns é igual a 0,45.\nOs donos da loja decidiram que a numeração dos \nsapatos com maior número de reclamações e a cor com \nmaior número de reclamações não serão mais vendidas.\nA loja encaminhou um ofício ao fornecedor dos sapatos, \nexplicando que não serão mais encomendados os \nsapatos de cor\nA\t branca e os de número 38.\nB\t branca e os de número 37.\nC\t branca e os de número 36.\nD\t preta e os de número 38.\nE\t preta e os de número 37.",
+  "processado_em": "2026-05-08T14:00:39.808466",
+  "_meta": {
+    "pagina": 27,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

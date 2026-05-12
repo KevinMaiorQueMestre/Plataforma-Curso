@@ -1,0 +1,26 @@
+{
+  "questao_id": "2022_2A_D1_q020",
+  "imagem": "q020.png",
+  "ano": 2022,
+  "aplicacao": "2A",
+  "dia": "D1",
+  "numero_azul": 20,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 20\t\nGASODUTO\nPENETT. Disponível em: www.gazetadopovo.com.br. Acesso em: 10 dez. 2017.\nNo cartum, o confronto entre primatas produz um efeito \nde humor que se vincula à função social de\nA\t\nA\t criticar a postura humana de fazer piada com \nassuntos sérios.\nB\t\nB\t acentuar a necessidade de respeito entre as \ndiferentes espécies.\nC\t\nC\t questionar a indiferença do homem em relação ao \nmeio ambiente.\nD\t\nD\t alertar a população para a conveniência do \ndesenvolvimento tecnológico.\nE\t\nE\t destacar a limitação humana para a percepção da \nrealidade da vida animal.",
+  "processado_em": "2026-05-08T14:04:37.395759",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

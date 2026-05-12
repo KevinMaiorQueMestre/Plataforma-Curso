@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q155",
+  "imagem": "q155.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 155,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 155        \nA Pesquisa Nacional por Amostra de Domicílios \n(Pnad) é uma pesquisa feita anualmente pelo IBGE, \nexceto nos anos em que há Censo. Em um ano, foram \nentrevistados 363 mil jovens para fazer um levantamento \nsobre suas atividades profissionais e/ou acadêmicas. Os \nresultados da pesquisa estão indicados no gráfico.\n21,6\n13,6\n45,2\n19,6\nJovens em atividade entre 15 e 29 anos (%)\nSomente estuda\nTrabalha e estuda\nSomente\ntrabalha\nNão trabalha\nnem estuda\nDisponível em: http://noticias.uol.com.br. Acesso em: 20 ago. 2014.\nDe acordo com as informações dadas, o número de \njovens entrevistados que trabalha é\nA \t 114 708.\nB \t 164 076.\nC \t 213 444.\nD \t 284 592.",
+  "processado_em": "2026-05-11T23:28:19.197431",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

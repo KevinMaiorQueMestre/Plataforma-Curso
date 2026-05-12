@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_2A_D2_q162",
+  "imagem": "q162.png",
+  "ano": 2023,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 162,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 162\t\nUma pessoa foi a um supermercado comprar uma \ncaixa de sabão em pó. Lá encontrou várias marcas desse \nproduto, disponibilizado em embalagens com diferentes \ncapacidades e preços. No quadro são fornecidos o preço, \nem real, e o conteúdo, em quilograma, das embalagens \nde cinco diferentes marcas de sabão em pó que estão à \nvenda nesse supermercado.\nMarca\nPreço por \nembalagem (R$)\nConteúdo da \nembalagem (kg)\nI\n18,00\n3,0\nII\n10,00\n2,5\nIII\n8,00\n0,5\nIV\n7,00\n1,0\nV\n34,00\n2,0\nA marca cuja embalagem oferece o menor preço, em \nreal, por quilograma de sabão em pó é\nA\t\nA\t I.\nB\t\nB\t II.\nC\t\nC\t III.\nD\t\nD\t IV.\nE\t\nE\t V.",
+  "processado_em": "2026-05-08T14:05:28.362718",
+  "_meta": {
+    "pagina": 25,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

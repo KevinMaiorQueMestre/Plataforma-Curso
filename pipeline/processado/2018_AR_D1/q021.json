@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_AR_D1_q021",
+  "imagem": "q021.png",
+  "ano": 2018,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 21,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 21\t\nÓ Pátria amada,\nIdolatrada,\nSalve! Salve!\nBrasil, de amor eterno seja símbolo\nO lábaro que ostentas estrelado,\nE diga o verde-louro dessa flâmula\n— “Paz no futuro e glória no passado.”\nMas, se ergues da justiça a clava forte,\nVerás que um filho teu não foge à luta,\nNem teme, quem te adora, a própria morte.\nTerra adorada,\nEntre outras mil,\nÉs tu, Brasil,\nÓ Pátria amada!\nDos filhos deste solo és mãe gentil,\nPátria amada, Brasil!\nHino Nacional do Brasil. Letra: Joaquim Osório Duque Estrada. \nMúsica: Francisco Manuel da Silva (fragmento).\nO uso da norma-padrão na letra do Hino Nacional do \nBrasil é justificado por tratar-se de um(a)\nA\t reverência de um povo a seu país.\nB\t gênero solene de característica protocolar.\nC\t canção concebida sem interferência da oralidade.\nD\t escrita de uma fase mais antiga da língua portuguesa.\nE\t artefato cultural respeitado por todo o povo brasileiro.",
+  "processado_em": "2026-05-11T23:26:30.793672",
+  "_meta": {
+    "pagina": 10,
+    "coluna": "esquerda",
+    "linha_x": 290.5
+  }
+}

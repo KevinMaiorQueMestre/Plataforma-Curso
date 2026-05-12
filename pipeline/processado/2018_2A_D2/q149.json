@@ -1,0 +1,26 @@
+{
+  "questao_id": "2018_2A_D2_q149",
+  "imagem": "q149.png",
+  "ano": 2018,
+  "aplicacao": "2A",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 149,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 149\t\nA água comercializada em garrafões pode ser \nclassificada como muito ácida, ácida, neutra, alcalina \nou muito alcalina, dependendo de seu pH, dado pela \nexpressão\npH\nH\n= log\n,\n10\n1\nem que H é a concentração de íons de hidrogênio, em mol \npor decímetro cúbico. A classificação da água de acordo \ncom seu pH é mostrada no quadro.\npH\nClassificação\npH ≥ 9\nMuito alcalina\n7,5 ≤ pH < 9\nAlcalina\n6 ≤ pH < 7,5\nNeutra\n3,5 ≤ pH < 6\nÁcida\n pH < 3,5\nMuito ácida\nPara o cálculo da concentração H, uma distribuidora \nmede dois parâmetros A e B, em cada fonte, e adota \nH como sendo o quociente de A por B. Em análise \nrealizada em uma fonte, obteve A = 10−7 e a água dessa \nfonte foi classificada como neutra.\nO parâmetro B, então, encontrava-se no intervalo\nA\n−\n−\n(\n\n1014 5\n13\n, , \n10\nB\n10\n6\n7\n1\n−\n−\n\n\n\n\n\n\n, 10\nC\n10 1\n1\n2\n−\n\n\n\n\n\n\n, 10\nD\n1013\n14 5\n,\n,\n 10\n\n)\nE\n106 107\n7 5 107\n×\n×\n\n\n)\n,\n,\n 10",
+  "processado_em": "2026-05-11T23:26:23.223416",
+  "_meta": {
+    "pagina": 21,
+    "coluna": "esquerda",
+    "linha_x": 311.8
+  }
+}

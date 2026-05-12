@@ -1,0 +1,26 @@
+{
+  "questao_id": "2016_AR_D2_q171",
+  "imagem": "q171.png",
+  "ano": 2016,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 171,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 171\t\nEm uma cidade será construída uma galeria \nsubterrânea que receberá uma rede de canos para o \ntransporte de água de uma fonte (F) até o reservatório de \num novo bairro (B).\nApós avaliações, foram apresentados dois projetos \npara o trajeto de construção da galeria: um segmento de reta \nque atravessaria outros bairros ou uma semicircunferência \nque contornaria esses bairros, conforme ilustrado no \nsistema de coordenadas xOy da figura, em que a unidade \nde medida nos eixos é o quilômetro.\nF = (-1, 1)\n(km)\n(km)\nO\nB = (1, −1)\n −1\n −1\n 1\n 1\n x\n y\nEstudos de viabilidade técnica mostraram que, pelas \ncaracterísticas do solo, a construção de 1 m de galeria \nvia segmento de reta demora 1,0 h, enquanto que 1 m de \nconstrução de galeria via semicircunferência demora 0,6 h. \nHá urgência em disponibilizar água para esse bairro.\nUse 3 como aproximação para p e 1,4 como \naproximação para √2 .\nO menor tempo possível, em hora, para conclusão da \nconstrução da galeria, para atender às necessidades de \nágua do bairro, é de\nA\t 1 260.\nB\t 2 520.\nC\t 2 800.\nD\t 3 600.\nE\t 4 000.",
+  "processado_em": "2026-05-08T14:01:24.065666",
+  "_meta": {
+    "pagina": 28,
+    "coluna": "direita",
+    "linha_x": 314.1
+  }
+}

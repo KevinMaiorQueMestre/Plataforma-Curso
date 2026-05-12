@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q053",
+  "imagem": "q053.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 53,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 53\t\nCertos tipos de superfícies na natureza podem \nrefletir luz de forma a gerar um efeito de arco-íris. \nEssa característica é conhecida como iridescência \ne ocorre por causa do fenômeno da interferência de \npelícula fina. A figura ilustra o esquema de uma fina \ncamada iridescente de óleo sobre uma poça d’água. \nParte do feixe de luz branca incidente \n1  reflete na \ninterface ar/óleo e sofre inversão de fase \n2 , o que \nequivale a uma mudança de meio comprimento de \nonda. A parte refratada do feixe 3  incide na interface \nóleo/água e sofre reflexão sem inversão de fase 4 . \nO observador indicado enxergará aquela região do filme \ncom coloração equivalente à do comprimento de onda \nque sofre interferência completamente construtiva entre \nos raios 2  e 5 , mas essa condição só é possível para \numa espessura mínima da película. Considere que o \ncaminho percorrido em 3  e 4  corresponde ao dobro da \nespessura E da película de óleo.\nágua\ncamada fina de óleo\ninterface ar/óleo\nEsses raios produzem a\ninterferência observada\nE\n1\n2\n5\n4\n3\nDisponível em: http://2011.igem.org. Acesso em: 18 nov. 2014 (adaptado).\nExpressa em termos do comprimento de onda (λ), a \nespessura mínima é igual a \nA\t\nλ\n4\n.\nB\t\nλ\n2\n.\nC\t\n3λ\n4\n.\nD\t\nλ.\nE\t\n2λ.",
+  "processado_em": "2026-05-08T14:00:46.885385",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

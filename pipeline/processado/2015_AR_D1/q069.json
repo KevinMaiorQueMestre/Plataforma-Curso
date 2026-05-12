@@ -1,0 +1,26 @@
+{
+  "questao_id": "2015_AR_D1_q069",
+  "imagem": "q069.png",
+  "ano": 2015,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 69,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 69\t\nNormalmente, as células do organismo humano \nrealizam a respiração aeróbica, na qual o consumo de uma \nmolécula de glicose gera 38 moléculas de ATP. Contudo, \nem condições anaeróbicas, o consumo de uma molécula \nde glicose pelas células é capaz de gerar apenas duas \nmoléculas de ATP.\n40\n20\n0\n28\n35\n42\n1\n2\n3\n4\n5\nConsumo de glicose\n(unidades arbitrárias)\nConcentração de oxigênio\n(unidades arbitrárias)\n7\n14\n21\nQual curva representa o perfil de consumo de glicose, \npara manutenção da homeostase de uma célula que \ninicialmente está em uma condição anaeróbica e é \nsubmetida a um aumento gradual da concentração \nde oxigênio?\nA\t 1\nB\t 2\nC\t 3\nD\t 4\nE\t 5",
+  "processado_em": "2026-05-08T14:00:48.049439",
+  "_meta": {
+    "pagina": 24,
+    "coluna": "direita",
+    "linha_x": 290.6
+  }
+}

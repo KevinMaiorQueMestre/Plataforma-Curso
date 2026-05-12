@@ -1,0 +1,26 @@
+{
+  "questao_id": "2017_AR_D1_q081",
+  "imagem": "q081.png",
+  "ano": 2017,
+  "aplicacao": "AR",
+  "dia": "D1",
+  "numero_azul": 81,
+  "numero_amarela": null,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 81\t\nEstão aí, como se sabe, dois candidatos à presidência, \nos senhores Eduardo Gomes e Eurico Dutra, e um terceiro, \no senhor Getúlio Vargas, que deve ser candidato de algum \ngrupo político oculto, mas é também o candidato popular. \nPorque há dois “queremos”: o “queremos” dos que \nquerem ver se continuam nas posições e o “queremos” \npopular... Afinal, o que é que o senhor Getúlio Vargas é? \nÉ fascista? É comunista? É ateu? É cristão? Quer sair? \nQuer ficar? O povo, entretanto, parece que gosta dele \npor isso mesmo, porque ele é “à moda da casa”.\nA Democracia. 16 set. 1945, apud GOMES, A. C.; D’ARAÚJO, M. C. \nGetulismo e trabalhismo. São Paulo: Ática, 1989.\nO movimento político mencionado no texto caracterizou-se \npor\nA\t \treclamar a participação das agremiações partidárias.\nB\t \tapoiar a permanência da ditadura estadonovista.\nC\t \tdemandar a confirmação dos direitos trabalhistas.\nD\t \treivindicar a transição constitucional sob influência \ndo governante.\nE\t \tresgatar a representatividade dos sindicatos sob \ncontrole social.",
+  "processado_em": "2026-05-11T23:25:43.068841",
+  "_meta": {
+    "pagina": 29,
+    "coluna": "esquerda",
+    "linha_x": 290.8
+  }
+}

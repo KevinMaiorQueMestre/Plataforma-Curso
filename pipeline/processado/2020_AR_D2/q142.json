@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 142        \nTrês amigos, André, Bernardo e Carlos, moram em \num condomínio fechado de uma cidade. O quadriculado \nrepresenta a localização das ruas paralelas e \nperpendiculares, delimitando quadras de mesmo \ntamanho nesse condomínio, em que nos pontos A, B e C \nestão localizadas as casas de André, Bernardo e Carlos, \nrespectivamente.\n \nA\nC\nB\nAndré deseja deslocar-se da sua casa até a casa \nde Bernardo, sem passar pela casa de Carlos, seguindo \nao longo das ruas do condomínio, fazendo sempre \ndeslocamentos para a direita ( → ) ou para cima ( ↑ ), \nsegundo o esquema da figura.\nO número de diferentes caminhos que André poderá \nutilizar para realizar o deslocamento nas condições \npropostas é\nA\t 4.\nB\t 14.\nC \t 17.\nD\t 35.\nE \t 48.",
+  "processado_em": "2026-05-11T23:28:16.418011",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

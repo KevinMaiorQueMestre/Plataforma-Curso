@@ -1,0 +1,26 @@
+{
+  "questao_id": "2012_AR_D2_q132",
+  "imagem": "q132.png",
+  "ano": 2012,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 132,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": "ia",
+  "texto_extraido": "QUESTÃO 132\t\nNIEMAN, D. Exercício e saúde. São Paulo: Manole, 1999 (adaptado).\nA partir dos efeitos fisiológicos do exercício físico no \norganismo, apresentados na figura, são adaptações \nbenéficas à saúde de um indivíduo:\nA\t Diminuição da frequência cardíaca em repouso e \naumento da oxigenação do sangue.\nB\t Diminuição da oxigenação do sangue e aumento da \nfrequência cardíaca em repouso.\nC\t Diminuição da frequência cardíaca em repouso e \naumento da gordura corporal.\nD\t Diminuição do tônus muscular e aumento do \npercentual de gordura corporal.\nE\t Diminuição da gordura corporal e aumento da \nfrequência cardíaca em repouso.",
+  "processado_em": "2026-05-08T13:59:41.624982",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 290.6
+  }
+}

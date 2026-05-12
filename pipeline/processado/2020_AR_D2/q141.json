@@ -1,0 +1,26 @@
+{
+  "questao_id": "2020_AR_D2_q141",
+  "imagem": "q141.png",
+  "ano": 2020,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 141,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 141        \nAmigo secreto é uma brincadeira tradicional nas festas \nde fim de ano. Um grupo de amigos se reúne e cada um \ndeles sorteia o nome da pessoa que irá presentear. No dia \nda troca de presentes, uma primeira pessoa presenteia \nseu amigo secreto. Em seguida, o presenteado revela seu \namigo secreto e o presenteia. A brincadeira continua até que \ntodos sejam presenteados, mesmo no caso em que o ciclo \nse fecha. Dez funcionários de uma empresa, entre eles um \ncasal, participarão de um amigo secreto. A primeira pessoa \na revelar será definida por sorteio.\nQual é a probabilidade de que a primeira pessoa a revelar \no seu amigo secreto e a última presenteada sejam as \nduas pessoas do casal?\nA   \n1\n5 \nB  1\n45 \nC  \n1\n50 \nD  \n1\n90 \nE  \n1\n100",
+  "processado_em": "2026-05-11T23:28:16.369427",
+  "_meta": {
+    "pagina": 19,
+    "coluna": "esquerda",
+    "linha_x": 283.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "questao_id": "2023_AR_D2_q142",
+  "imagem": "q142.png",
+  "ano": 2023,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 142,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "QUESTÃO 142\t\nSejam a, b e c as medidas dos lados de um triângulo \nretângulo, tendo a como medida da hipotenusa. Esses \nvalores a, b e c são, respectivamente, os diâmetros dos \ncírculos C1, C2 e C3, como apresentados na figura.\nCírculo C1\nCírculo C2\nCírculo C3\nc\na\nb\nObserve que essa construção assegura, pelo teorema \nde Pitágoras, que área (C1) = área (C2) + área (C3).\nUm professor de matemática era conhecedor dessa \nconstrução e, confraternizando com dois amigos em uma \npizzaria onde são vendidas pizzas somente em formato \nde círculo, lançou um desafio: mesmo sem usar um \ninstrumento de medição, poderia afirmar com certeza se \na área do círculo correspondente à pizza que ele pedisse \nera maior, igual ou menor do que a soma das áreas das \npizzas dos dois amigos. Assim, foram pedidas três pizzas. \nO professor as dividiu ao meio e formou um triângulo com \nos diâmetros das pizzas, conforme indicado na figura.",
+  "processado_em": "2026-05-08T14:05:45.500987",
+  "_meta": {
+    "pagina": 18,
+    "coluna": "esquerda",
+    "linha_x": 282.0
+  }
+}

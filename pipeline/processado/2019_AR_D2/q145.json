@@ -1,0 +1,26 @@
+{
+  "questao_id": "2019_AR_D2_q145",
+  "imagem": "q145.png",
+  "ano": 2019,
+  "aplicacao": "AR",
+  "dia": "D2",
+  "numero_azul": null,
+  "numero_amarela": 145,
+  "numero_rosa": null,
+  "numero_branca": null,
+  "numero_cinza": null,
+  "disciplina": null,
+  "conteudo": null,
+  "gabarito": null,
+  "tri_a": null,
+  "tri_b": null,
+  "tri_c": null,
+  "fonte_classificacao": null,
+  "texto_extraido": "Questão 145\t\nEm um jogo on-line, cada jogador procura subir \nde nível e aumentar sua experiência, que são dois \nparâmetros importantes no jogo, dos quais dependem \nas forças de defesa e de ataque do participante. A força \nde defesa de cada jogador é diretamente proporcional ao \nseu nível e ao quadrado de sua experiência, enquanto \nsua força de ataque é diretamente proporcional à sua \nexperiência e ao quadrado do seu nível. Nenhum jogador \nsabe o nível ou a experiência dos demais. Os jogadores \niniciam o jogo no nível 1 com experiência 1 e possuem \nforça de ataque 2 e de defesa 1. Nesse jogo, cada \nparticipante se movimenta em uma cidade em busca de \ntesouros para aumentar sua experiência. Quando dois \ndeles se encontram, um deles pode desafiar o outro \npara um confronto, sendo o desafiante considerado \no atacante. Compara-se então a força de ataque do \ndesafiante com a força de defesa do desafiado e vence \no confronto aquele cuja força for maior. O vencedor do \ndesafio aumenta seu nível em uma unidade. Caso haja \nempate no confronto, ambos os jogadores aumentam \nseus níveis em uma unidade.\nDurante um jogo, o jogador J1, de nível 4 e experiência 5, \nirá atacar o jogador J2, de nível 2 e experiência 6.\nO jogador J1 venceu esse confronto porque a diferença \nentre sua força de ataque e a força de defesa de seu \noponente era\nA\t 112.\nB\t 88.\nC\t 60.\nD\t 28.\nE\t 24.",
+  "processado_em": "2026-05-11T23:27:35.823392",
+  "_meta": {
+    "pagina": 20,
+    "coluna": "esquerda",
+    "linha_x": 283.4
+  }
+}
